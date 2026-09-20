@@ -175,7 +175,7 @@
       "id": "hidden-gems-026",
       "tab": "hidden-gems",
       "name": "Çıralı",
-      "auditor_status": "rejected"
+      "auditor_status": "approved"
     },
     {
       "id": "hidden-gems-027",
@@ -261,5 +261,10 @@
       "name": "Kotor",
       "auditor_status": "approved"
     }
-  ]
+  ],
+  "approved_count": 40,
+  "rejected_count": 0,
+  "pending_count": 0,
+  "last_audit": "2026-09-20T14:45:00-05:00",
+  "hidden_gems_approved": 40
 }

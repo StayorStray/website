@@ -1229,6 +1229,55 @@
     }
   },
   {
+    "id": "hidden-gems-026",
+    "tab": "hidden-gems",
+    "name": "Çıralı",
+    "short_line": "Antalya Province, Turkey",
+    "country": "Turkey",
+    "lat": 36.3986,
+    "lng": 30.4772,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/%C3%87%C4%B1ral%C4%B1_beach_2021-11-14-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-026.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3A%C3%87%C4%B1ral%C4%B1_beach_2021-11-14-1.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Alexey Komarov",
+      "attribution": "Photo: Alexey Komarov, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Çıralı beach 2021-11-14-1.jpg' confirms Çıralı; desc: Çıralı beach"
+    },
+    "facts": {
+      "one_liner": "Olympos-coast beach village; turtle-nesting shore, Yanartaş flames, nearby Olympos ruins.",
+      "why_go": "Çıralı (Cirali) is a low-rise beach village on Antalya’s Teke/Olympos coast, still openly visited as of 2026 guides and transport listings. The long pebble-sand beach is a protected nesting ground for loggerhead turtles (Caretta caretta); inland pensions and citrus groves keep a quieter profile than Kemer’s resort strip. Night hikers climb to Yanartaş (Chimaera)—natural gas flames on the mountainside—and the Lycian ruins of Olympos sit a short beach or trail link away. Day and overnight stays remain the normal pattern.",
+      "best_time": "April–June and September–October for swimming weather without peak heat. Turtle nesting typically runs May–October—respect marked nests and night lighting rules. Winter is quieter with cooler sea.",
+      "how_to_get_there": "About 80–90 minutes south of Antalya by road via the D400. Take a Kumluca/Finike/Kaş bus or dolmuş, alight at the Çıralı junction, then the local shuttle (~7 km) into the village. Antalya Airport (AYT) is the usual flight gateway.",
+      "good_to_know": "Beach access is generally open; Olympos archaeological site needs a museum ticket or MüzeKart. Bring a torch and sturdy shoes for Yanartaş after dark. Confirm dolmuş times—winter service is thinner than summer.",
+      "official_or_tourism_url": "https://muze.gov.tr/muze-detay?SectionId=OLY01&DistId=OLY",
+      "sources": [
+        "https://en.wikivoyage.org/wiki/Olympos_(Turkey)",
+        "https://muze.gov.tr/muze-detay?SectionId=OLY01&DistId=OLY",
+        "https://goturkiye.com/antalya"
+      ]
+    },
+    "ad": {
+      "destination_query": "Çıralı, Turkey",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=%C3%87%C4%B1ral%C4%B1%2C%20Turkey&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=%C3%87%C4%B1ral%C4%B1%2C%20Turkey&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=%C3%87%C4%B1ral%C4%B1%2C%20Turkey&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Çıralı"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
     "id": "hidden-gems-027",
     "tab": "hidden-gems",
     "name": "Aït Benhaddou",
