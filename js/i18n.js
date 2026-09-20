@@ -144,7 +144,9 @@
 
     var coffeeLink = document.getElementById('buy-me-coffee');
     if (coffeeLink) {
-      coffeeLink.textContent = t('buy_me_coffee');
+      var coffeeText = coffeeLink.querySelector('.coffee-link-text');
+      if (coffeeText) coffeeText.textContent = t('buy_me_coffee');
+      else coffeeLink.textContent = t('buy_me_coffee');
       coffeeLink.setAttribute('aria-label', t('buy_me_coffee'));
     }
 
