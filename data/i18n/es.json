@@ -23,7 +23,7 @@
     "photo_credits": "Créditos fotográficos",
     "buy_me_coffee": "Cómprame un café",
     "disclosure": "Como afiliados, podemos ganar con reservas que cumplan los requisitos.",
-    "about_blurb": "<strong>Acerca de Stay or Stray.</strong> Desliza lugares reales y visitables — Quédate si irías, Pasa si lo saltas. Las fotos son fotografías reales con licencia (sin imágenes de IA). Los enlaces de reserva buscan el mismo destino que la tarjeta; los IDs de afiliado quedan como <code>YOUR_AFFILIATE_ID</code> hasta configurarlos en <code>config/affiliates.js</code>.",
+    "about_blurb": "<strong>Acerca de Stay or Stray.</strong> Desliza lugares reales y visitables — Quédate si irías, Pasa si lo saltas. Las fotos son fotografías reales con licencia (sin imágenes de IA).",
     "legal_disclaimer": "Stay or Stray ofrece información general solo con fines de entretenimiento y referencia —no constituye asesoramiento de viaje, seguridad ni reservas— y no garantiza su exactitud o integridad. Tú decides por tu cuenta qué destinos visitar, qué reservar y cómo viajar. Los enlaces externos de reservas, afiliación y asistencia están sujetos a sus propios términos. En la máxima medida permitida por la ley, Stay or Stray declina toda responsabilidad por los resultados del viaje o las pérdidas derivadas del uso de este sitio o de la confianza depositada en su contenido.",
     "credits_blurb": "Los créditos de muestra de la fase 0 aparecen bajo cada tarjeta. Las atribuciones completas están en <code>data/hidden-gems.json</code> (licencias CC de Wikimedia Commons).",
     "best_time": "Mejor época",

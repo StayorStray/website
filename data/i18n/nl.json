@@ -23,7 +23,7 @@
     "photo_credits": "Fotocredits",
     "buy_me_coffee": "Trakteer me op koffie",
     "disclosure": "Als affiliate kunnen we verdienen aan kwalificerende boekingen.",
-    "about_blurb": "<strong>Over Stay or Stray.</strong> Veeg echte, bezoekbare plekken — Blijven als je zou gaan, Voorbij als je overslaat. Foto’s zijn gelicentieerde echte foto’s (geen AI-beelden). Boekingslinks zoeken dezelfde bestemming als de kaart; affiliate-ID’s blijven <code>YOUR_AFFILIATE_ID</code> tot ze zijn geconfigureerd in <code>config/affiliates.js</code>.",
+    "about_blurb": "<strong>Over Stay or Stray.</strong> Veeg echte, bezoekbare plekken — Blijven als je zou gaan, Voorbij als je overslaat. Foto’s zijn gelicentieerde echte foto’s (geen AI-beelden).",
     "legal_disclaimer": "Stay or Stray biedt uitsluitend algemene informatie voor entertainment en referentie; deze vormt geen reis-, veiligheids- of boekingsadvies en wij geven geen garantie voor juistheid of volledigheid. U beslist zelf welke bestemmingen u bezoekt, wat u boekt en hoe u reist. Externe links voor boekingen, affiliates en ondersteuning vallen onder hun eigen voorwaarden. Voor zover wettelijk toegestaan wijst Stay or Stray aansprakelijkheid af voor reisresultaten of schade door het gebruik van deze site of het vertrouwen op de inhoud ervan.",
     "credits_blurb": "Fase 0-voorbeeldcredits staan onder elke kaart. Volledige toeschrijvingen staan in <code>data/hidden-gems.json</code> (Wikimedia Commons CC-licenties).",
     "best_time": "Beste tijd",

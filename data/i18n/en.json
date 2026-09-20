@@ -23,7 +23,7 @@
     "photo_credits": "Photo credits",
     "buy_me_coffee": "Buy me a coffee",
     "disclosure": "As an affiliate we may earn from qualifying bookings.",
-    "about_blurb": "<strong>About Stay or Stray.</strong> Swipe real, visitable places — Stay if you’d go, Stray if you’d skip. Photos are licensed real photographs (no AI images). Booking links search the same destination as the card; affiliate IDs stay as <code>YOUR_AFFILIATE_ID</code> until configured in <code>config/affiliates.js</code>.",
+    "about_blurb": "<strong>About Stay or Stray.</strong> Swipe real, visitable places — Stay if you’d go, Stray if you’d skip. Photos are licensed real photographs (no AI images).",
     "legal_disclaimer": "Stay or Stray provides general information for entertainment and reference only—not travel, safety, or booking advice—and makes no warranty as to accuracy or completeness. You alone decide where to visit, what to book, and how to travel. Third-party booking, affiliate, and support links are external and subject to their own terms. To the fullest extent permitted by law, Stay or Stray disclaims liability for travel outcomes or losses arising from this site or reliance on its content.",
     "credits_blurb": "Phase 0 sample credits appear under each card. Full attributions live in <code>data/hidden-gems.json</code> (Wikimedia Commons CC licenses).",
     "best_time": "Best time",
