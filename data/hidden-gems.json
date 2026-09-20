@@ -3930,6 +3930,55 @@
     }
   },
   {
+    "id": "hidden-gems-081",
+    "tab": "hidden-gems",
+    "name": "Göreme",
+    "short_line": "Nevşehir Province, Turkey",
+    "country": "Turkey",
+    "lat": 38.6431,
+    "lng": 34.8289,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/G%C3%B6reme_Valley_in_Cappadocia_edit1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-081.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AG%C3%B6reme_Valley_in_Cappadocia_edit1.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Brocken Inaglory",
+      "attribution": "Photo: Brocken Inaglory, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Göreme Valley in Cappadocia edit1.jpg' confirms Göreme town/valley with fairy chimneys; desc: Göreme Valley in Cappadocia / Göreme National Park; categories include Göreme National Park; visual subject is Göreme townscape — NOT Uçhisar Castle"
+    },
+    "facts": {
+      "one_liner": "Cappadocia town base for fairy chimneys, rock churches, and sunrise balloon flights.",
+      "why_go": "Göreme sits inside the volcanic tuff landscape of Cappadocia in Nevşehir Province, where erosion has shaped the hoodoos known as fairy chimneys and a dense web of rock-cut dwellings and churches. The Göreme Open-Air Museum concentrates Byzantine rock-hewn sanctuaries with frescoes from the post-iconoclastic period; UNESCO inscribed Göreme National Park and the Rock Sites of Cappadocia in 1985 (criteria i, iii, v, vii). The town itself is the practical overnight base for valley walks (Rose, Red, Love, and nearby Paşabağ) and for early-morning hot-air balloon flights that launch over the valleys when Turkish civil aviation (SHGM) clears daily weather—balloons are a highlight, not the whole story.",
+      "best_time": "April–May and September–October for milder temperatures and more reliable balloon windows; summer is hot and busier. Winter can be atmospheric with snow on the chimneys but brings more balloon cancellations.",
+      "how_to_get_there": "Fly into Nevşehir Kapadokya (NAV) or Kayseri Erkilet (ASR), then transfer by shuttle or taxi to Göreme (roughly 45–90 minutes depending on airport and traffic). Domestic flights commonly connect via Istanbul. Once in town, valleys and the Open-Air Museum are reached on foot, by local minibus, or on organised day tours.",
+      "good_to_know": "Allow at least two full days if a balloon flight matters—weather cancellations are common, so build a buffer night. Wear sturdy shoes for uneven valley trails; some churches have low doorways and dim interiors. Respect private cave-house lodging and posted conservation zones.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/357/",
+      "sources": [
+        "https://whc.unesco.org/en/list/357/",
+        "https://muze.gov.tr/muze-detay?DistId=GRM&SectionId=GRM01",
+        "https://sanalmuze.gov.tr/muzeler/NEVSEHIR_GOREME_ACIKHAVA_MUZESI/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Goreme, Cappadocia, Turkey",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Goreme%2C%20Cappadocia%2C%20Turkey&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Goreme%2C%20Cappadocia%2C%20Turkey&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Goreme%2C%20Cappadocia%2C%20Turkey&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Göreme"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
     "id": "hidden-gems-082",
     "tab": "hidden-gems",
     "name": "Alberobello",

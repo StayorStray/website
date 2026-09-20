@@ -17,8 +17,8 @@
   ],
   "counts": {
     "pending": 0,
-    "approved": 99,
-    "rejected": 1
+    "approved": 100,
+    "rejected": 0
   },
   "cards": [
     {
@@ -505,7 +505,7 @@
       "id": "hidden-gems-081",
       "tab": "hidden-gems",
       "name": "Göreme",
-      "auditor_status": "rejected"
+      "auditor_status": "approved"
     },
     {
       "id": "hidden-gems-082",
@@ -622,9 +622,10 @@
       "auditor_status": "approved"
     }
   ],
-  "approved_count": 80,
+  "approved_count": 100,
   "rejected_count": 0,
   "pending_count": 0,
-  "last_audit": "2026-09-20T16:05:00-05:00",
-  "hidden_gems_approved": 80
+  "last_audit": "2026-09-20T16:55:00-05:00",
+  "hidden_gems_approved": 100,
+  "scale_target_met": true
 }
