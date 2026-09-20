@@ -420,6 +420,7 @@ img { max-width: 100%; display: block; }
 }
 .disclosure { margin: 0 0 0.5rem; }
 .about-blurb { margin: 0.75rem 0 0; max-width: 40rem; }
+.legal-disclaimer { margin: 0.5rem 0 0; max-width: 40rem; color: var(--muted); font-size: 0.75rem; line-height: 1.45; }
 
 .sr-only {
   position: absolute;

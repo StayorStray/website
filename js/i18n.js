@@ -154,6 +154,9 @@
     var about = document.getElementById('about');
     if (about) about.innerHTML = t('about_blurb');
 
+    var legalDisclaimer = document.getElementById('legal-disclaimer');
+    if (legalDisclaimer) legalDisclaimer.textContent = t('legal_disclaimer');
+
     var credits = document.getElementById('credits');
     if (credits) credits.innerHTML = t('credits_blurb');
 

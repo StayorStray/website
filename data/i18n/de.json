@@ -24,6 +24,7 @@
     "buy_me_coffee": "Spendiert mir einen Kaffee",
     "disclosure": "Als Affiliate können wir an qualifizierenden Buchungen verdienen.",
     "about_blurb": "<strong>Über Stay or Stray.</strong> Wische echte, besuchbare Orte — Bleiben, wenn du hinwürdest, Weiter, wenn nicht. Fotos sind lizenzierte echte Aufnahmen (keine KI-Bilder). Buchungslinks suchen dasselbe Ziel wie die Karte; Affiliate-IDs bleiben <code>YOUR_AFFILIATE_ID</code>, bis sie in <code>config/affiliates.js</code> konfiguriert sind.",
+    "legal_disclaimer": "Stay or Stray stellt allgemeine Informationen ausschließlich zu Unterhaltungs- und Referenzzwecken bereit; sie sind keine Reise-, Sicherheits- oder Buchungsberatung, und wir übernehmen keine Gewähr für ihre Richtigkeit oder Vollständigkeit. Über Reiseziele, Buchungen und Reisen entscheiden allein Sie. Verlinkte externe Buchungs-, Affiliate- und Supportangebote unterliegen ihren eigenen Bedingungen. Soweit gesetzlich zulässig, schließt Stay or Stray die Haftung für Reiseergebnisse oder Schäden aus der Nutzung dieser Website oder dem Vertrauen auf ihre Inhalte aus.",
     "credits_blurb": "Phase-0-Beispielnachweise erscheinen unter jeder Karte. Vollständige Attributionen stehen in <code>data/hidden-gems.json</code> (Wikimedia-Commons-CC-Lizenzen).",
     "best_time": "Beste Zeit",
     "how_to_get_there": "Anreise",
