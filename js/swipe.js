@@ -209,7 +209,9 @@
         escapeHtml(why.preview) +
         '</span><span class="why-rest"> ' +
         escapeHtml(why.rest) +
-        '</span> <button type="button" class="why-more" aria-expanded="false">More</button></p>'
+        '</span> <button type="button" class="why-more" aria-expanded="false">' +
+        escapeHtml(t('more')) +
+        '</button></p>'
       : '<p class="why-go">' + escapeHtml(facts.why_go || '') + '</p>';
 
     const progress =
@@ -224,9 +226,19 @@
     const actions =
       opts.interactive !== false
         ? '<div class="actions">' +
-          '<button type="button" class="btn btn-stray" id="btn-stray" aria-label="Stray">← Stray</button>' +
-          '<button type="button" class="btn btn-stay" id="btn-stay" aria-label="Stay">Stay →</button>' +
-          '<button type="button" class="btn btn-undo" id="btn-undo" hidden>Undo last</button>' +
+          '<button type="button" class="btn btn-stray" id="btn-stray" aria-label="' +
+          escapeHtml(t('stray')) +
+          '">' +
+          escapeHtml(t('stray_btn')) +
+          '</button>' +
+          '<button type="button" class="btn btn-stay" id="btn-stay" aria-label="' +
+          escapeHtml(t('stay')) +
+          '">' +
+          escapeHtml(t('stay_btn')) +
+          '</button>' +
+          '<button type="button" class="btn btn-undo" id="btn-undo" hidden>' +
+          escapeHtml(t('undo')) +
+          '</button>' +
           '</div>'
         : '';
 
@@ -238,30 +250,46 @@
           '</p>' +
           whyHtml +
           '<dl class="meta-grid">' +
-          '<div><dt>Best time</dt><dd>' +
-          escapeHtml(facts.best_time || '—') +
+          '<div><dt>' +
+          escapeHtml(t('best_time')) +
+          '</dt><dd>' +
+          escapeHtml(facts.best_time || t('em_dash')) +
           '</dd></div>' +
-          '<div><dt>How to get there</dt><dd>' +
-          escapeHtml(facts.how_to_get_there || '—') +
+          '<div><dt>' +
+          escapeHtml(t('how_to_get_there')) +
+          '</dt><dd>' +
+          escapeHtml(facts.how_to_get_there || t('em_dash')) +
           '</dd></div>' +
-          '<div><dt>Good to know</dt><dd>' +
-          escapeHtml(facts.good_to_know || '—') +
+          '<div><dt>' +
+          escapeHtml(t('good_to_know')) +
+          '</dt><dd>' +
+          escapeHtml(facts.good_to_know || t('em_dash')) +
           '</dd></div>' +
           '</dl>' +
-          '<p class="photo-credit">Photo credit: ' +
+          '<p class="photo-credit">' +
+          escapeHtml(t('photo_credit')) +
+          ' ' +
           creditHtml +
           '</p>' +
           '</div>' +
-          '<aside class="ad-slot" aria-label="Booking offer">' +
-          '<p class="ad-kicker">Stay nearby</p>' +
+          '<aside class="ad-slot" aria-label="' +
+          escapeHtml(t('booking_offer')) +
+          '">' +
+          '<p class="ad-kicker">' +
+          escapeHtml(t('ad_kicker')) +
+          '</p>' +
           '<a class="ad-cta" id="ad-cta" href="' +
           escapeHtml(adHref(card)) +
           '" target="_blank" rel="noopener sponsored noreferrer">' +
           escapeHtml(adLabel(card)) +
           ' →</a>' +
-          '<p class="ad-note">Opens partner search for ' +
-          escapeHtml((card.ad && card.ad.destination_query) || card.name) +
-          '. Affiliate ID placeholder until configured.</p>' +
+          '<p class="ad-note">' +
+          escapeHtml(
+            t('ad_note', {
+              destination: (card.ad && card.ad.destination_query) || card.name || '',
+            })
+          ) +
+          '</p>' +
           '</aside>'
         : '';
 
@@ -553,7 +581,7 @@
     const showHome = document.body.dataset.showHome === 'true';
     renderTabNav(tab);
     updateStatsUI();
-    if (I18n() && I18n().applyChrome) I18n().applyChrome();
+    if (I18n() && I18n().applyChrome) I18n().applyChrome && I18n().applyChrome();
 
     const homeBtn = document.getElementById('home-btn');
     if (homeBtn) homeBtn.hidden = !showHome;
@@ -568,7 +596,7 @@
       I18n().onChange(function () {
         renderTabNav(tab);
         updateStatsUI();
-        if (I18n().applyChrome) I18n().applyChrome();
+        if (I18n().applyChrome) I18n().applyChrome && I18n().applyChrome();
         if (deck && deck.root) deck.render();
       });
     }

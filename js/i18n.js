@@ -1,6 +1,6 @@
 /**
- * Stay or Stray — multilingual UI (en, es, fr, de, ru)
- * Persists selection in localStorage; injects top-right language control.
+ * Stay or Stray — i18n (en, es, fr, de, ru)
+ * Top-right language control; persists in localStorage (sos_lang).
  */
 (function (global) {
   'use strict';
@@ -23,9 +23,10 @@
   };
 
   function assetPath(rel) {
-    var base = document.body && document.body.dataset.assetRoot
-      ? document.body.dataset.assetRoot
-      : './';
+    var base =
+      document.body && document.body.dataset.assetRoot
+        ? document.body.dataset.assetRoot
+        : './';
     return base + String(rel || '').replace(/^\//, '');
   }
 
@@ -44,7 +45,7 @@
   }
 
   function fill(template, vars) {
-    if (!template) return '';
+    if (template == null) return '';
     vars = vars || {};
     return String(template).replace(/\{(\w+)\}/g, function (_, key) {
       return key in vars ? String(vars[key]) : '{' + key + '}';
@@ -70,7 +71,6 @@
     return cards[cardId] || null;
   }
 
-  /** Merge translated fields onto a card object (non-mutating copy). */
   function localizeCard(card) {
     if (!card) return card;
     var loc = getCardLocale(card.id);
@@ -79,7 +79,7 @@
     if (loc.short_line) out.short_line = loc.short_line;
     if (loc.country) out.country = loc.country;
     var facts = Object.assign({}, card.facts || {});
-    var lf = loc.facts || loc;
+    var lf = loc.facts || {};
     ['one_liner', 'why_go', 'best_time', 'how_to_get_there', 'good_to_know'].forEach(function (k) {
       if (lf[k]) facts[k] = lf[k];
     });
@@ -88,20 +88,24 @@
   }
 
   function notify() {
-    state.listeners.forEach(function (fn) {
-      try { fn(state.lang); } catch (e) { /* ignore */ }
+    state.listeners.slice().forEach(function (fn) {
+      try {
+        fn(state.lang);
+      } catch (e) { /* ignore */ }
     });
   }
 
   function onChange(fn) {
     if (typeof fn === 'function') state.listeners.push(fn);
     return function off() {
-      state.listeners = state.listeners.filter(function (f) { return f !== fn; });
+      state.listeners = state.listeners.filter(function (f) {
+        return f !== fn;
+      });
     };
   }
 
   function applyDocumentLang() {
-    document.documentElement.lang = state.lang === 'en' ? 'en' : state.lang;
+    document.documentElement.lang = state.lang || 'en';
   }
 
   function applyChrome() {
@@ -121,14 +125,11 @@
       var tab = (document.body && document.body.dataset.tab) || 'hidden-gems';
       var showHome = document.body && document.body.dataset.showHome === 'true';
       var label = tabLabel(tab);
-      deckLabel.textContent = showHome
-        ? label
-        : t('deck_featured', { tab: label });
+      deckLabel.textContent = showHome ? label : t('deck_featured', { tab: label });
     }
 
-    var catsNav = document.querySelector('nav[aria-label], nav[aria-label="Categories"]');
-    var navs = document.querySelectorAll('main nav, .wrap > nav');
-    if (navs[0]) navs[0].setAttribute('aria-label', t('nav_categories'));
+    var mainNav = document.querySelector('main nav');
+    if (mainNav) mainNav.setAttribute('aria-label', t('nav_categories'));
 
     var footNav = document.querySelector('.site-footer nav');
     if (footNav) {
@@ -149,17 +150,20 @@
     if (credits) credits.innerHTML = t('credits_blurb');
 
     var loading = document.querySelector('#deck-root > .end-deck');
-    if (loading && /Loading|Cargando|Chargement|Laden|Загруз/i.test(loading.textContent || '')) {
+    if (
+      loading &&
+      /Loading|Cargando|Chargement|Laden|Загруз/i.test(loading.textContent || '')
+    ) {
       loading.textContent = t('loading');
     }
 
-    var titleBase = t('brand');
+    var brand = t('brand');
     var tab = (document.body && document.body.dataset.tab) || '';
     var showHome = document.body && document.body.dataset.showHome === 'true';
     if (showHome && tab) {
-      document.title = tabLabel(tab) + ' — ' + titleBase;
+      document.title = tabLabel(tab) + ' — ' + brand;
     } else {
-      document.title = titleBase + ' — ' + t('tagline');
+      document.title = brand + ' — ' + t('tagline');
     }
 
     var meta = document.querySelector('meta[name="description"]');
@@ -188,7 +192,9 @@
     if (menu) {
       menu.hidden = false;
       menu.setAttribute('aria-hidden', 'false');
-      var active = menu.querySelector('[aria-checked="true"]') || menu.querySelector('[role="menuitemradio"]');
+      var active =
+        menu.querySelector('[aria-checked="true"]') ||
+        menu.querySelector('[role="menuitemradio"]');
       if (active) active.focus();
     }
     if (btn) btn.setAttribute('aria-expanded', 'true');
@@ -237,12 +243,11 @@
       li.setAttribute('role', 'none');
       var item = document.createElement('button');
       item.type = 'button';
-      item.className = 'lang-option';
+      item.className = 'lang-option' + (code === state.lang ? ' is-active' : '');
       item.setAttribute('role', 'menuitemradio');
       item.setAttribute('aria-checked', code === state.lang ? 'true' : 'false');
       item.dataset.lang = code;
       item.textContent = LANG_NATIVE[code];
-      if (code === state.lang) item.classList.add('is-active');
       item.addEventListener('click', function () {
         closeMenu();
         if (code !== state.lang) setLanguage(code);
@@ -266,7 +271,9 @@
     });
 
     menu.addEventListener('keydown', function (e) {
-      var items = Array.prototype.slice.call(menu.querySelectorAll('[role="menuitemradio"]'));
+      var items = Array.prototype.slice.call(
+        menu.querySelectorAll('[role="menuitemradio"]')
+      );
       var idx = items.indexOf(document.activeElement);
       if (e.key === 'Escape') {
         e.preventDefault();
@@ -274,12 +281,10 @@
         btn.focus();
       } else if (e.key === 'ArrowDown') {
         e.preventDefault();
-        if (idx < items.length - 1) items[idx + 1].focus();
-        else items[0].focus();
+        items[(idx + 1) % items.length].focus();
       } else if (e.key === 'ArrowUp') {
         e.preventDefault();
-        if (idx > 0) items[idx - 1].focus();
-        else items[items.length - 1].focus();
+        items[(idx - 1 + items.length) % items.length].focus();
       } else if (e.key === 'Home') {
         e.preventDefault();
         items[0].focus();
@@ -335,8 +340,7 @@
   }
 
   async function init() {
-    var lang = getStoredLang();
-    await setLanguage(lang);
+    await setLanguage(getStoredLang());
   }
 
   global.StayOrStrayI18n = {
@@ -346,13 +350,17 @@
     tabLabel: tabLabel,
     localizeCard: localizeCard,
     getCardLocale: getCardLocale,
-    getLang: function () { return state.lang; },
+    getLang: function () {
+      return state.lang;
+    },
     setLanguage: setLanguage,
     onChange: onChange,
     applyChrome: applyChrome,
     init: init,
     fill: fill,
-    ready: function () { return state.ready; },
+    ready: function () {
+      return state.ready;
+    },
   };
 
   function bootI18n() {
