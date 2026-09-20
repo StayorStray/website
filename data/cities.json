@@ -985,5 +985,990 @@
       "license_ok": true,
       "auditor_status": "approved"
     }
+  },
+  {
+    "id": "cities-021",
+    "tab": "cities",
+    "name": "Oslo",
+    "short_line": "Oslo, Norway",
+    "country": "Norway",
+    "lat": 59.9139,
+    "lng": 10.7522,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Oslo_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-021.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AOslo_skyline.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Audun",
+      "attribution": "Photo: Audun, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Oslo skyline.jpg' confirms Oslo; desc: Oslo seen from the sea — Opera House, Munch museum, Oslo Plaza/Barcode waterfront. Norway FoP for buildings; no UAE/Burj subject. City swap from Dubai (no FoP-safe Dubai frame)."
+    },
+    "facts": {
+      "one_liner": "Oslofjord waterfront — Opera House, MUNCH, and Barcode towers from the sea.",
+      "why_go": "Oslo, Norway’s capital at the head of the Oslofjord, is framed in this photo from the water: the white marble Opera House, the MUNCH museum, and the Barcode high-rises of Bjørvika. The Harbour Promenade links Sørenga through Bjørvika past the Opera to Akershus Fortress, Aker Brygge, and Tjuvholmen — roughly 9–10 km of continuous waterfront walking. Climb the Opera roof for free public views back over the same skyline. Forests and parks cover much of the municipality beyond the compact centre.",
+      "best_time": "May–September for long daylight and harbour walks. Winter brings short days and possible snow; Christmas markets and museums still draw visitors. Shoulder months April and October are quieter.",
+      "how_to_get_there": "Fly into Oslo Airport (OSL Gardermoen). Airport Express Train (Flytoget) or Vy regional trains reach Oslo Central Station (Oslo S) in about 20–25 minutes; Bjørvika and the Opera are a short walk or tram ride from the station.",
+      "good_to_know": "The Opera roof is a public walkway in normal hours — wear grippy shoes when wet. Harbour swimming and floating saunas operate seasonally near Operastranda. This card is Oslo’s waterfront, not Dubai.",
+      "official_or_tourism_url": "https://www.visitoslo.com/en/",
+      "sources": [
+        "https://www.visitoslo.com/en/",
+        "https://www.visitoslo.com/en/articles/the-harbour-promenade/",
+        "https://www.visitnorway.com/places-to-go/eastern-norway/oslo/oslo-opera-house/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Oslo, Norway",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Oslo%2C%20Norway&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Oslo%2C%20Norway&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Oslo%2C%20Norway&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Oslo"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-022",
+    "tab": "cities",
+    "name": "Singapore",
+    "short_line": "Singapore",
+    "country": "Singapore",
+    "lat": 1.3521,
+    "lng": 103.8198,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Merlion_and_Marina_Bay_Sands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-022.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMerlion_and_Marina_Bay_Sands.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Chandu7299",
+      "attribution": "Photo: Chandu7299, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Merlion and Marina Bay Sands.jpg' confirms Singapore; desc: Merlion and Marina Bay Sands"
+    },
+    "facts": {
+      "one_liner": "Merlion Park facing Marina Bay Sands—lion-fish icon and three-tower bay resort.",
+      "why_go": "Singapore’s waterfront postcard pairs the Merlion with Marina Bay Sands across the bay. Visit Singapore notes the 8.6 m, 70-tonne statue—lion head for Singapura, fish body for the old fishing village of Temasek—unveiled in 1972 and later moved to Merlion Park in front of the Fullerton Hotel after Esplanade Bridge blocked the original river-mouth view. From the park railing you frame the three hotel towers and SkyPark of Marina Bay Sands; the ArtScience Museum and Helix Bridge sit along the same promenade. A short MRT hop or bay walk links Raffles Place, the Civic District, and Gardens by the Bay.",
+      "best_time": "Year-round tropical climate (roughly 25–33°C per Visit Singapore). February–April often see less rain than the wetter northeast-monsoon months; expect brief showers any month—carry an umbrella.",
+      "how_to_get_there": "Arrive at Changi Airport (SIN); MRT and airport shuttles reach the centre. Merlion Park is an 8–10 minute walk from Raffles Place MRT (Exit H); Marina Bay Sands sits on Bayfront MRT (CE1/DT16). Contactless cards, EZ-Link, and the Singapore Tourist Pass work on MRT and buses.",
+      "good_to_know": "Merlion Park is free and open 24 hours; bring sun protection by day. Smoking is restricted outdoors; e-vaporisers are illegal. Return trays at hawker centres. Vaping or littering fines are enforced.",
+      "official_or_tourism_url": "https://www.visitsingapore.com/see-do-singapore/recreation-leisure/viewpoints/merlion-park/",
+      "sources": [
+        "https://www.visitsingapore.com/see-do-singapore/recreation-leisure/viewpoints/merlion-park/",
+        "https://www.visitsingapore.com/travel-guide-tips/getting-around/getting-to-singapore/",
+        "https://www.marinabaysands.com/company-information/directions-to-marina-bay-sands.html"
+      ]
+    },
+    "ad": {
+      "destination_query": "Singapore, Singapore",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Singapore%2C%20Singapore&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Singapore%2C%20Singapore&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Singapore%2C%20Singapore&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Singapore"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-023",
+    "tab": "cities",
+    "name": "Lisbon",
+    "short_line": "Lisbon, Portugal",
+    "country": "Portugal",
+    "lat": 38.7223,
+    "lng": -9.1393,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Lisbon_Skyline_%2845684560521%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-023.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALisbon_Skyline_%2845684560521%29.jpg",
+      "license": "CC BY 2.0",
+      "author": "Neil",
+      "attribution": "Photo: Neil, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Lisbon Skyline (45684560521).jpg' confirms Lisbon; desc: Lisbon"
+    },
+    "facts": {
+      "one_liner": "Seven-hill capital on the Tagus—terracotta roofs, miradouros, and Atlantic light.",
+      "why_go": "Lisbon (Lisboa), Portugal’s capital, spreads across hills above the Tagus in the layered roofscape and river light that define classic city-skyline photos. Visit Lisboa’s miradouros—São Pedro de Alcântara, Senhora do Monte, Santa Luzia—frame Castelo de São Jorge, Baixa, and Alfama without a ticket. Walk the grid rebuilt after the 1755 earthquake, ride Tram 28 through Alfama’s lanes, and continue west to Belém’s Jerónimos Monastery and Tower. Fado houses, pastel de nata stops, and ferry rides to Cacilhas extend the day beyond a single viewpoint.",
+      "best_time": "April–May and September–October for mild walking weather and fewer peak crowds. June brings Santo António street festivals; July–August are hottest and busiest. Winter is quieter with more rain.",
+      "how_to_get_there": "Fly into Humberto Delgado Airport (LIS); Metro Red Line runs from the Aeroporto station into the city. Carris buses and taxis/ride-hailing also serve the terminals. Inside Lisbon, Metro, trams, elevadores, and ferries cover hills and the river—buy a Navegante/Viva Viagem card for public transport.",
+      "good_to_know": "Hills and cobbles reward sturdy shoes; elevators and tram lines save legs. Pickpocketing occurs on Tram 28 and in Baixa—keep bags closed. Many miradouros are free; arrive early for sunset wall space.",
+      "official_or_tourism_url": "https://www.visitlisboa.com/en",
+      "sources": [
+        "https://www.visitlisboa.com/en",
+        "https://www.visitlisboa.com/en/places/miradouro-de-s-pedro-de-alcantara",
+        "https://www.lisbonairport.pt/en/lis/access-parking/getting-to-and-from-the-airport/public-transportation"
+      ]
+    },
+    "ad": {
+      "destination_query": "Lisbon, Portugal",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Lisbon%2C%20Portugal&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Lisbon%2C%20Portugal&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Lisbon%2C%20Portugal&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Lisbon"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-024",
+    "tab": "cities",
+    "name": "Nairobi",
+    "short_line": "Nairobi County, Kenya",
+    "country": "Kenya",
+    "lat": -1.2921,
+    "lng": 36.8219,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/A_clash_of_worlds_-_Nairobi_skyline_from_the_Nairobi_National_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-024.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AA_clash_of_worlds_-_Nairobi_skyline_from_the_Nairobi_National_park.jpg",
+      "license": "CC BY 4.0",
+      "author": "Shadychiri",
+      "attribution": "Photo: Shadychiri, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:A clash of worlds - Nairobi skyline from the Nairobi National park.jpg' confirms Nairobi; desc: a clash of worlds - Nairobi skyline from the Nairobi National park"
+    },
+    "facts": {
+      "one_liner": "Kenya’s capital where Nairobi National Park plains meet a glass CBD skyline.",
+      "why_go": "Nairobi is Kenya’s capital and the rare city where a national park shares an edge with high-rises. Kenya Wildlife Service places Nairobi National Park about 8–10 km from the CBD along Lang’ata Road—117 km² gazetted in 1946 as Kenya’s first national park—where game drives frame wildlife against the skyline in the photo’s “clash of worlds” view. Plains hold rhino, giraffe, zebra, lion prides, and 400-plus bird species (elephants are absent). Pair a morning park drive with Nairobi National Museum, the city markets, or nearby orphanages only if you plan separate timed visits.",
+      "best_time": "Year-round per KWS; early morning (near 6:00 gate opening) gives cooler light, more active wildlife, and clearer skyline shots before haze builds. Long rains (roughly March–May) and short rains (Oct–Dec) can muddy tracks.",
+      "how_to_get_there": "Fly into Jomo Kenyatta International (NBO) or Wilson (WIL). Reach the Main Gate via Lang’ata Road past Langata Army Barracks; access is by private, hired, or safari vehicle—not on foot. Pre-book a guided game drive if you lack a suitable car.",
+      "good_to_know": "Gates open 6:00 and close 18:00 unless overnighting; stay in vehicles except designated areas; 40 km/h limit; single-use plastics banned. Check current KWS entry categories and fees before you go. Keep distance from animals and never feed wildlife.",
+      "official_or_tourism_url": "https://www.kws.go.ke/nairobi-national-park",
+      "sources": [
+        "https://www.kws.go.ke/nairobi-national-park",
+        "https://kws.go.ke/park/nairobi-national-park/",
+        "https://magicalkenya.com/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Nairobi, Kenya",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Nairobi%2C%20Kenya&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Nairobi%2C%20Kenya&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Nairobi%2C%20Kenya&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Nairobi"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-025",
+    "tab": "cities",
+    "name": "Vancouver",
+    "short_line": "British Columbia, Canada",
+    "country": "Canada",
+    "lat": 49.2827,
+    "lng": -123.1207,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Skyline_of_Vancouver_viewed_from_Stanley_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-025.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASkyline_of_Vancouver_viewed_from_Stanley_Park.JPG",
+      "license": "CC BY-SA 4.0",
+      "author": "Ueutyi",
+      "attribution": "Photo: Ueutyi, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Skyline of Vancouver viewed from Stanley Park.JPG' confirms Vancouver; desc: Skyline of Vancouver viewed from Stanley Park"
+    },
+    "facts": {
+      "one_liner": "Downtown towers from Stanley Park’s seawall—harbour, mountains, and rainforest edge.",
+      "why_go": "Vancouver’s signature skyline is the view from Stanley Park—the ~400-hectare peninsula City of Vancouver and Destination Vancouver promote as the city’s great urban park. From the seawall toward Brockton Point and Coal Harbour you see glass towers across Burrard Inlet with North Shore mountains beyond, matching the classic Stanley Park postcard. The roughly 9–10 km seawall loop is one-way counterclockwise for walkers and cyclists; Prospect Point adds Lions Gate Bridge angles. Downtown, Gastown, Granville Island, and SkyTrain-linked neighbourhoods fill the rest of a city trip.",
+      "best_time": "July–August for longest dry stretches and festivals (busiest). May–June and September for milder crowds; Destination Vancouver also flags spring cherry blossoms and quieter autumn. Winter is mild and rainy in the city—good for museums and nearby mountain snow.",
+      "how_to_get_there": "Fly into Vancouver International (YVR); Canada Line SkyTrain reaches downtown. Stanley Park is walkable from the West End/Coal Harbour; buses and bike rentals near Georgia/Denman serve the Georgia Street entrance. Seawall travel is counterclockwise—follow posted separation of pedestrians and bikes.",
+      "good_to_know": "The park sits on unceded Musqueam, Squamish, and Tsleil-Waututh territories. Expect heavy seawall traffic on sunny weekends. Pack layers—harbour wind and mountain weather change quickly. Wildlife (including coyotes) can appear; keep food secure.",
+      "official_or_tourism_url": "https://www.destinationvancouver.com/",
+      "sources": [
+        "https://www.destinationvancouver.com/",
+        "https://www.destinationvancouver.com/plan-your-trip/best-time-to-visit",
+        "https://vancouver.ca/guides/visiting-vancouver.aspx"
+      ]
+    },
+    "ad": {
+      "destination_query": "Vancouver, Canada",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Vancouver%2C%20Canada&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Vancouver%2C%20Canada&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Vancouver%2C%20Canada&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Vancouver"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-026",
+    "tab": "cities",
+    "name": "Chicago",
+    "short_line": "Illinois, United States",
+    "country": "United States",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Chicago_September_2016-23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-026.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AChicago_September_2016-23.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Alvesgaspar",
+      "attribution": "Photo: Alvesgaspar, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Chicago September 2016-23.jpg' confirms Chicago; desc: Skyline of Chicago from near the Adler Planetarium"
+    },
+    "facts": {
+      "one_liner": "Lake Michigan Museum Campus view—Adler Planetarium terrace framing the Loop skyline.",
+      "why_go": "Chicago’s lakefront skyline is classically shot from the Adler Planetarium tip of Museum Campus, where Choose Chicago highlights outdoor-terrace views back toward downtown towers across the harbour. The Adler, opened in 1930 as the first planetarium in the Western Hemisphere, sits near the Shedd Aquarium and Field Museum on DuSable Lake Shore Drive. From the same peninsula you walk the Lakefront Trail, then continue to Millennium Park, the Riverwalk, or architecture boat tours that explain the Loop’s steel-and-glass history. Evening blue hour turns the photo’s daytime towers into a lit ridge line.",
+      "best_time": "May–September for warm lakefront walking and outdoor festivals. April–May and September–October offer milder crowds; winter brings cold wind off the lake—dress for wind chill on the exposed Adler point.",
+      "how_to_get_there": "Fly into O’Hare (ORD) or Midway (MDW); CTA trains and buses reach downtown. Adler is at 1300 S. DuSable Lake Shore Drive—CTA Roosevelt (Red/Orange/Green) plus bus 146, Metra Museum Campus/11th Street, Divvy bikes, or paid Museum Campus parking. Soldier Field events can clog roads and lots.",
+      "good_to_know": "Skyline viewpoints on the peninsula are free outdoors; Adler exhibits and dome shows need timed tickets. Wind is strong at the point—secure hats and phones. Combine with Shedd/Field for a full Museum Campus day; book timed entries in peak season.",
+      "official_or_tourism_url": "https://www.choosechicago.com/articles/museums-art/walk-through-space-and-time-at-adler-planetarium/",
+      "sources": [
+        "https://www.choosechicago.com/articles/museums-art/walk-through-space-and-time-at-adler-planetarium/",
+        "https://www.adlerplanetarium.org/plan-your-visit/",
+        "https://www.adlerplanetarium.org/plan-your-visit/directions-parking/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Chicago, United States",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Chicago%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Chicago%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Chicago%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Chicago"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-027",
+    "tab": "cities",
+    "name": "Barcelona",
+    "short_line": "Catalonia, Spain",
+    "country": "Spain",
+    "lat": 41.3874,
+    "lng": 2.1686,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Barcelona_desde_El_Carmelo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-027.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABarcelona_desde_El_Carmelo.JPG",
+      "license": "CC BY-SA 4.0",
+      "author": "Jcca76",
+      "attribution": "Photo: Jcca76, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Barcelona desde El Carmelo.JPG' confirms Barcelona; desc: Barcelona desde El Carmelo"
+    },
+    "facts": {
+      "one_liner": "360° city from El Carmel’s Turó de la Rovira—Civil War bunkers above the Eixample grid.",
+      "why_go": "Barcelona’s hilltop panorama in the El Carmelo photo is Turó de la Rovira—the Museu d’Història de Barcelona site locals call the Bunkers del Carmel. From about 262 m you look over Eixample’s grid, Sagrada Família’s spires, the sea, and Collserola. Anti-aircraft battery remains and postwar shantytown traces sit beside free open-air viewpoints; MUHBA panels explain Civil War defence and the barraques era. Descend to Gaudí landmarks, the Gothic Quarter, or Barceloneta after the ridge walk rather than treating the bunkers as a standalone day.",
+      "best_time": "April–June and September–October for comfortable hill walking. July–August are hottest and busiest at coastal sites; winter is milder than inland Spain but can be windy on the exposed summit. Arrive early for clearer light and fewer crowds.",
+      "how_to_get_there": "Fly into Barcelona–El Prat (BCN); Aerobús, Rodalies, Metro, and taxis reach the centre. Turó de la Rovira is in El Carmel (Horta-Guinardó)—bus lines (e.g. 22/24/119 depending on stop) and a steep walk; check TMB journey planner. Metro Alfons X or El Carmel plus uphill paths are common approaches.",
+      "good_to_know": "Outdoor viewpoint access is free; MUHBA indoor/museography rooms have limited seasonal hours (often Wed/Fri–Sun)—verify before you go. Bring water and wind layer; no railings on some edges. Sunset crowds gather—pack out trash.",
+      "official_or_tourism_url": "https://www.barcelona.cat/museuhistoria/en/heritages/museum-spaces/turo-de-la-rovira",
+      "sources": [
+        "https://www.barcelona.cat/museuhistoria/en/heritages/museum-spaces/turo-de-la-rovira",
+        "https://guia.barcelona.cat/detall/turo-de-la-rovira-museu-d-historia-de-barcelona_99400267435.html",
+        "https://www.barcelonaturisme.com/wv3/en/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Barcelona, Spain",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Barcelona%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Barcelona%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Barcelona%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Barcelona"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-028",
+    "tab": "cities",
+    "name": "Amsterdam",
+    "short_line": "North Holland, Netherlands",
+    "country": "Netherlands",
+    "lat": 52.3676,
+    "lng": 4.9041,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Amsterdam_Canals_-_July_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-028.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAmsterdam_Canals_-_July_2006.jpg",
+      "license": "CC BY 2.5",
+      "author": "Diliff",
+      "attribution": "Photo: Diliff, CC BY 2.5, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Amsterdam Canals - July 2006.jpg' confirms Amsterdam; desc: A panorama of 4 segments of an Amsterdam Canal in summer."
+    },
+    "facts": {
+      "one_liner": "UNESCO canal ring of concentric grachten—gabled houses reflected in 17th-century waterways.",
+      "why_go": "Amsterdam’s canal panorama matches the UNESCO-listed Seventeenth-Century Canal Ring Area inside the Singelgracht (inscribed 2010)—concentric Herengracht, Keizersgracht, and Prinsengracht arcs planned as an artificial port city. Gabled merchant houses and bridges create the multi-segment summer reflections in classic canal photos; Holland.com and I amsterdam push walking, cycling, and canal cruises as the main ways to read the pattern. Highlights include the Golden Bend on Herengracht, the Magere Brug, and museum canal houses. Pair the ring with Museumplein or Jordaan without treating the waterways as only a boat ride.",
+      "best_time": "April–May (including tulip season nearby) and September for milder weather. Summer has long daylight and busy terraces; winter is quieter with possible ice and Christmas lights. Rain is possible year-round—pack a light waterproof layer.",
+      "how_to_get_there": "Fly into Amsterdam Airport Schiphol (AMS); trains run frequently to Amsterdam Centraal. Trams, buses, Metro, and rental bikes cover the canal district; GVB tickets or contactless payment work on city transit. Many canal cruises depart near Centraal, Damrak, or museum areas.",
+      "good_to_know": "Stay on the right when cycling; tram tracks catch narrow wheels. Watch for houseboat wakes when photographing from bridges. Soft-drug coffeeshops are regulated and age-restricted—tourism rules change, so check current city guidance. Book popular museums ahead.",
+      "official_or_tourism_url": "https://www.iamsterdam.com/en",
+      "sources": [
+        "https://whc.unesco.org/en/list/1349/",
+        "https://www.holland.com/global/tourism/discover-the-netherlands/visit-the-cities/amsterdam/canals-of-amsterdam",
+        "https://www.iamsterdam.com/en"
+      ]
+    },
+    "ad": {
+      "destination_query": "Amsterdam, Netherlands",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Amsterdam%2C%20Netherlands&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Amsterdam%2C%20Netherlands&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Amsterdam%2C%20Netherlands&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Amsterdam"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-029",
+    "tab": "cities",
+    "name": "Vienna",
+    "short_line": "Vienna, Austria",
+    "country": "Austria",
+    "lat": 48.2082,
+    "lng": 16.3738,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/20160612_053_Wien_Vienna_Wenen_-_Stephansdom_%2827713056855%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-029.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3A20160612_053_Wien_Vienna_Wenen_-_Stephansdom_%2827713056855%29.jpg",
+      "license": "CC BY 2.0",
+      "author": "Sjaak Kempe from Groningen, The Netherlands",
+      "attribution": "Photo: Sjaak Kempe from Groningen, The Netherlands, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:20160612 053 Wien Vienna Wenen - Stephansdom (27713056855).jpg' confirms Vienna; desc: St. Stephen's Cathedral (more commonly known by its German title: Stephansdom) is the mother church of the Roman Catholic Archdiocese of Vienna and the seat of "
+    },
+    "facts": {
+      "one_liner": "Innere Stadt rooftops with Stephansdom’s slender spire on the skyline.",
+      "why_go": "Vienna’s historic core (Innere Stadt) fills the photo with tiled roofs, chimneys, and a distant slender cathedral spire — St. Stephen’s Cathedral (Stephansdom) reading as a skyline marker rather than a close patterned-roof portrait. Travellers still use Stephansplatz as the walking hub: Graben and Kärntner Straße lead to the Hofburg, museums, and the Ringstrasse. Climbing the south tower (Steffl) or taking the north-tower elevator gives the reverse view over the same roofs. Coffeehouses and music venues sit a short walk from the plaza.",
+      "best_time": "April–June and September–October for mild walking weather. July–August are warmer and busier; December Christmas markets crowd the centre; winter days are short but atmospheric.",
+      "how_to_get_there": "Fly into Vienna International (VIE). City Airport Train or S-Bahn/ÖBB to Wien Mitte or Hauptbahnhof, then U-Bahn (Stephansplatz is on U1/U3). The Innere Stadt is compact and best on foot.",
+      "good_to_know": "Cathedral interior, towers, and catacombs have separate ticket rules and hours — check stephanskirche.at / vienna.info the day you go. This card’s photo is a rooftop overview, not a close-up of the tiled roof mosaic.",
+      "official_or_tourism_url": "https://www.wien.info/en/see-do/sights-from-a-to-z/st-stephens-cathedral-359690",
+      "sources": [
+        "https://www.wien.info/en/see-do/sights-from-a-to-z/st-stephens-cathedral-359690",
+        "https://www.stephanskirche.at/",
+        "https://en.wikipedia.org/wiki/St._Stephen%27s_Cathedral,_Vienna"
+      ]
+    },
+    "ad": {
+      "destination_query": "Vienna, Austria",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Vienna%2C%20Austria&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Vienna%2C%20Austria&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Vienna%2C%20Austria&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Vienna"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-030",
+    "tab": "cities",
+    "name": "Athens",
+    "short_line": "Attica, Greece",
+    "country": "Greece",
+    "lat": 37.9838,
+    "lng": 23.7275,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-030.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAttica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "A.Savin",
+      "attribution": "Photo: A.Savin, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Attica 06-13 Athens 50 View from Philopappos - Acropolis Hill.jpg' confirms Athens; desc: View from Philopappos Hill in Athens (Attica, Greece) — Acropolis of Athens"
+    },
+    "facts": {
+      "one_liner": "Acropolis and Parthenon seen face-on from Philopappos Hill—classic Athens ridge view.",
+      "why_go": "Athens’ defining monument view is the Acropolis from Philopappos (Filopappou) Hill—the Official Athens Guide’s vantage on the Hill of the Muses southwest of the rock. The summit’s 2nd-century marble monument to Gaius Julius Antiochus Epiphanes Philopappos crowns pine-planted slopes linked by Dimitris Pikionis’s mid-20th-century stone paths from Dionysiou Areopagitou. From here the Parthenon reads face-on with city and Saronic Gulf beyond, matching the Philopappos photo cue. Combine with the Pnyx and Hill of the Nymphs, then visit the Acropolis and Acropolis Museum on a separate timed ticket.",
+      "best_time": "April–June and September–October for clearer air and milder hill walking. July–August are hot—go at sunrise or late afternoon. Winter is quieter; strong meltemi wind can affect exposed ridges.",
+      "how_to_get_there": "Fly into Athens International (ATH); Metro line 3 and express buses reach the city. Use Acropoli Metro, then walk Dionysiou Areopagitou toward Agios Dimitrios Loumbardiaris and follow Pikionis paving uphill (about 15–25 minutes). Taxis drop near the hill entrances in Koukaki.",
+      "good_to_know": "Philopappos Hill viewpoints are free; wear grippy shoes on uneven marble and pine needles. Carry water and sun protection—shade is limited at the summit. Acropolis entry is ticketed and often timed—book via official channels. Locals picnic and fly kites here on Clean Monday.",
+      "official_or_tourism_url": "https://www.thisisathens.org/attractions/philopappou-monument",
+      "sources": [
+        "https://www.thisisathens.org/attractions/philopappou-monument",
+        "https://green-athens.gr/en/western-acropolis-hills/",
+        "http://odysseus.culture.gr/h/3/eh355.jsp?obj_id=12521"
+      ]
+    },
+    "ad": {
+      "destination_query": "Athens, Greece",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Athens%2C%20Greece&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Athens%2C%20Greece&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Athens%2C%20Greece&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Athens"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-031",
+    "tab": "cities",
+    "name": "Warsaw",
+    "short_line": "Masovian Voivodeship, Poland",
+    "country": "Poland",
+    "lat": 52.2297,
+    "lng": 21.0122,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Skyline_Warsaw_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-031.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASkyline_Warsaw_2023.jpg",
+      "license": "CC BY 4.0",
+      "author": "MOs810",
+      "attribution": "Photo: MOs810, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Skyline Warsaw 2023.jpg' confirms Warsaw; desc: Centrum Warszawy."
+    },
+    "facts": {
+      "one_liner": "Centrum skyline: Palace of Culture spire amid glass towers on the Mazovian plain.",
+      "why_go": "Warsaw (Warszawa), Poland’s capital on the Vistula, shows its postwar remake most clearly in Centrum. The 2023 skyline view centres on the Palace of Culture and Science (Pałac Kultury i Nauki)—Lev Rudnev’s Stalinist-era mixed-use tower, completed in 1955 at 237 m, with a public terrace on the 30th floor at 114 m—now ringed by newer office towers. Pair that modern core with the UNESCO Historic Centre: after more than 85% of the old centre was destroyed in 1944, citizens rebuilt Old Town streets, churches, and market square from archives and Bernardo Bellotto’s paintings. The contrast between reconstructed medieval fabric and the high-rise Centrum is the city’s signature frame.",
+      "best_time": "May–September for longer daylight and outdoor walking; April and October are milder with fewer peak-summer crowds. Winter suits museums and Christmas markets; pack for short, cold days.",
+      "how_to_get_there": "Fly into Warsaw Chopin Airport (WAW). SKM/KM airport trains and city buses (e.g. 175 toward Centrum) use standard ZTM tickets; taxis and ride-hailing reach Śródmieście. Metro and trams cover Centrum and Old Town approaches; Świętokrzyska and Centrum stops serve the Palace area.",
+      "good_to_know": "The PKiN viewing terrace is typically open daily 10:00–20:00 (check pkin.pl for holiday or night extensions). Old Town is walkable from the Royal Route; keep valuables secure in crowded tram/metro cars. English is common in tourist hubs; cards are widely accepted.",
+      "official_or_tourism_url": "https://go2warsaw.pl/en/main-page/",
+      "sources": [
+        "https://go2warsaw.pl/en/main-page/",
+        "https://pkin.pl/en/viewing-terrace/",
+        "https://whc.unesco.org/en/list/30/",
+        "https://en.wikipedia.org/wiki/Palace_of_Culture_and_Science"
+      ]
+    },
+    "ad": {
+      "destination_query": "Warsaw, Poland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Warsaw%2C%20Poland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Warsaw%2C%20Poland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Warsaw%2C%20Poland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Warsaw"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-032",
+    "tab": "cities",
+    "name": "Budapest",
+    "short_line": "Budapest, Hungary",
+    "country": "Hungary",
+    "lat": 47.4979,
+    "lng": 19.0402,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Budapest_Parliament_4604.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-032.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABudapest_Parliament_4604.JPG",
+      "license": "CC BY-SA 3.0",
+      "author": "Dirk Beyer",
+      "attribution": "Photo: Dirk Beyer, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Budapest Parliament 4604.JPG' confirms Budapest; desc: Parliament building, Budapest"
+    },
+    "facts": {
+      "one_liner": "Gothic Revival Parliament on the Pest bank—Danube landmark of united Budapest.",
+      "why_go": "Budapest, Hungary’s capital where Buda, Óbuda, and Pest united in 1873, is framed by the Danube. The photo landmark is the Hungarian Parliament Building (Országház) on Kossuth Square on the Pest bank: Imre Steindl’s neo-Gothic design, built mainly 1885–1902, with a Danube wing about 271 m long and a 96 m dome. It houses the National Assembly and the Holy Crown, and sits within UNESCO’s “Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue” (inscribed 1987, extended 2002). Cross to Buda Castle or stroll Andrássy Avenue to round out the classic river panorama.",
+      "best_time": "April–June and September–October for comfortable embankment walking. July–August are warmer and busier; winter brings Christmas markets and thermal-bath season with shorter daylight.",
+      "how_to_get_there": "Fly into Budapest Ferenc Liszt International Airport (BUD). Airport buses, trains, and taxis reach the centre; metro lines M2 and M3 and tram 2 along the Pest embankment serve Parliament and the riverfront. Riverboats and bridges link Pest and Buda.",
+      "good_to_know": "Guided interior tours of Parliament require advance tickets and ID; exterior views from the embankment and across the river are free. The Danube banks can flood in extreme high water—check local notices. Validate public-transport tickets before boarding.",
+      "official_or_tourism_url": "https://www.budapestinfo.hu/en",
+      "sources": [
+        "https://www.parlament.hu/web/visitors/house-of-parliament",
+        "https://whc.unesco.org/en/list/400/",
+        "https://www.budapestinfo.hu/en",
+        "https://en.wikipedia.org/wiki/Hungarian_Parliament_Building"
+      ]
+    },
+    "ad": {
+      "destination_query": "Budapest, Hungary",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Budapest%2C%20Hungary&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Budapest%2C%20Hungary&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Budapest%2C%20Hungary&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Budapest"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-033",
+    "tab": "cities",
+    "name": "Hanoi",
+    "short_line": "Hanoi, Vietnam",
+    "country": "Vietnam",
+    "lat": 21.0278,
+    "lng": 105.8342,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Hanoi_-_Turtle_Tower_%28Th%C3%A1p_R%C3%B9a%29%2C_Ho%C3%A0n_Ki%E1%BA%BFm_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-033.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHanoi_-_Turtle_Tower_%28Th%C3%A1p_R%C3%B9a%29%2C_Ho%C3%A0n_Ki%E1%BA%BFm_Lake.jpg",
+      "license": "CC BY 4.0",
+      "author": "P. Hughes",
+      "attribution": "Photo: P. Hughes, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Hanoi - Turtle Tower (Tháp Rùa), Hoàn Kiếm Lake.jpg' confirms Hanoi; desc: Turtle Tower (Tháp Rùa) with Hanoi Post Office behind, Hoàn Kiếm Lake. Signature named-place visible."
+    },
+    "facts": {
+      "one_liner": "Hoàn Kiếm Lake — Turtle Tower with the historic Post Office behind.",
+      "why_go": "Hanoi (Hà Nội), Vietnam’s capital, centres on Hoàn Kiếm Lake (Hồ Hoàn Kiếm)—“Lake of the Returned Sword”—in the historic district. This photo shows Turtle Tower (Tháp Rùa) on its mid-lake islet with the French-colonial Hanoi Post Office rising behind on the shore. Legend links Emperor Lê Lợi and the Golden Turtle returning a magic sword; Ngọc Sơn Temple sits on the north via the red The Húc Bridge. The lakeside loop and adjacent Old Quarter streets define first days here.",
+      "best_time": "March–April and October–November for milder, clearer walking weather. June–August bring heat and heavy rains; December–February can be cool and damp with grey skies.",
+      "how_to_get_there": "Fly into Noi Bai International Airport (HAN). Airport buses and taxis/apps reach Hoàn Kiếm District; the lake sits at the south edge of the Old Quarter and is walkable from many central hotels.",
+      "good_to_know": "Turtle Tower is viewed from shore (not entered). Weekend pedestrian streets around the lake close to cars at set times. Keep phones secure in crowded Old Quarter alleys.",
+      "official_or_tourism_url": "https://sovhtt.hanoi.gov.vn/en/hoan-kiem-lake-ngoc-son-temple-special-national-monuments-famous-scenic-spots-capital/",
+      "sources": [
+        "https://sovhtt.hanoi.gov.vn/en/hoan-kiem-lake-ngoc-son-temple-special-national-monuments-famous-scenic-spots-capital/",
+        "https://en.wikipedia.org/wiki/Hoan_Kiem_Lake",
+        "https://en.wikipedia.org/wiki/Turtle_Tower"
+      ]
+    },
+    "ad": {
+      "destination_query": "Hanoi, Vietnam",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Hanoi%2C%20Vietnam&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Hanoi%2C%20Vietnam&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Hanoi%2C%20Vietnam&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Hanoi"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-034",
+    "tab": "cities",
+    "name": "Auckland",
+    "short_line": "Auckland Region, New Zealand",
+    "country": "New Zealand",
+    "lat": -36.8485,
+    "lng": 174.7633,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Auckland_skyline_PA01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-034.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAuckland_skyline_PA01.jpg",
+      "license": "CC0",
+      "author": "Paora",
+      "attribution": "Photo: Paora, CC0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Auckland skyline PA01.jpg' confirms Auckland; desc: Auckland city skyline, viewed from Augustus Terrace, Parnell, photographed on 25 December 2025. NZ FoP-friendly ordinary cityscape; CC0 dedication."
+    },
+    "facts": {
+      "one_liner": "Tāmaki Makaurau Auckland — Waitematā harbour CBD skyline from the Parnell ridge.",
+      "why_go": "Auckland (Tāmaki Makaurau) is New Zealand’s largest city, built between two harbours with a CBD of glass towers under the 328 m Sky Tower. This photo shows the city skyline from Augustus Terrace in Parnell — a classic ridge view toward the Waitematā waterfront and downtown. Travellers combine downtown Britomart, Viaduct Harbour, and Wynyard Quarter with ferries to Waiheke or Rangitoto and walks up volcanic cones such as Maungawhau / Mount Eden. Hauraki Gulf islands sit a short ferry ride from Quay Street.",
+      "best_time": "December–March for warm summer weather and long daylight. Shoulder months (October–November, April–May) are milder and less crowded; winter (June–August) is cooler and wetter but still walkable.",
+      "how_to_get_there": "Fly into Auckland Airport (AKL). Airport buses, trains via Puhinui/transfer, or taxis/ride-hail reach the CBD; Parnell is a short bus or walk from downtown. Ferries leave from Downtown Ferry Terminal for gulf islands.",
+      "good_to_know": "Sky Tower observation hours vary by season — check skycityauckland.co.nz. Keep left when driving. Downtown and Parnell are walkable; ferries leave from Quay Street for gulf islands.",
+      "official_or_tourism_url": "https://www.newzealand.com/nz/auckland/",
+      "sources": [
+        "https://www.newzealand.com/nz/auckland/",
+        "https://www.aucklandnz.com/tourism",
+        "https://skycityauckland.co.nz/sky-tower/",
+        "https://en.wikipedia.org/wiki/Auckland"
+      ]
+    },
+    "ad": {
+      "destination_query": "Auckland, New Zealand",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Auckland%2C%20New%20Zealand&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Auckland%2C%20New%20Zealand&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Auckland%2C%20New%20Zealand&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Auckland"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-035",
+    "tab": "cities",
+    "name": "Lagos",
+    "short_line": "Lagos State, Nigeria",
+    "country": "Nigeria",
+    "lat": 6.5244,
+    "lng": 3.3792,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Lagos_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-035.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALagos_skyline.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Clara Sanchiz",
+      "attribution": "Photo: Clara Sanchiz, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Lagos skyline.jpg' confirms Lagos; desc: Skyline of Lagos, Nigeria."
+    },
+    "facts": {
+      "one_liner": "Lagos Island Marina — lagoon-edge bank towers along Nigeria’s historic CBD waterfront.",
+      "why_go": "Lagos, Nigeria’s largest city and former federal capital (the capital moved to Abuja in 1991), is shown here at the Marina on Lagos Island — the lagoon-facing strip of high-rises and older commercial blocks that still anchors much of the country’s banking skyline. Landmarks along Marina include towers such as Union Bank’s Stallion Plaza and other long-standing corporate headquarters beside the water. Broad Street, Tinubu Square, Freedom Park, and the Cathedral Church of Christ sit a short walk inland. Ferries and bridges connect Lagos Island to the mainland across the lagoon.",
+      "best_time": "November–March for the drier harmattan-influenced season. April–October brings heavier rains and humidity; expect slow traffic year-round.",
+      "how_to_get_there": "Fly into Murtala Muhammed International (LOS). Road transfers to Lagos Island/Marina can be long in traffic; ride-hail or hotel transfers are common. Ferries and lagoon boats connect some island and mainland points when operating.",
+      "good_to_know": "Marina is a dense business district — weekdays are packed; Sundays are quieter for photos. Keep valuables secure and use trusted transport. This card shows Lagos Island Marina, not the Victoria Island–Ikoyi waterfront.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Lagos_Island",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lagos_Island",
+        "https://en.wikipedia.org/wiki/Union_Bank_Building_(Lagos)",
+        "https://shore.africa/2025/07/27/marina-lagos-nigerias-wall-street-and-colonial-soul/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Lagos, Nigeria",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Lagos%2C%20Nigeria&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Lagos%2C%20Nigeria&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Lagos%2C%20Nigeria&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Lagos"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-036",
+    "tab": "cities",
+    "name": "Santiago",
+    "short_line": "Santiago Metropolitan, Chile",
+    "country": "Chile",
+    "lat": -33.4489,
+    "lng": -70.6693,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/2017_Santiago_de_Chile_-_Barrio_de_San_Isidro_y_avenida_Alameda_desde_el_mirador_del_Cerro_de_Santa_Luc%C3%ADa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-036.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3A2017_Santiago_de_Chile_-_Barrio_de_San_Isidro_y_avenida_Alameda_desde_el_mirador_del_Cerro_de_Santa_Luc%C3%ADa.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Felipe Restrepo Acosta",
+      "attribution": "Photo: Felipe Restrepo Acosta, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:2017 Santiago de Chile - Barrio de San Isidro y avenida Alameda desde el mirador del Cerro de Santa Lucía.jpg' confirms Santiago; desc: 2017 in Santiago de Chile"
+    },
+    "facts": {
+      "one_liner": "Cerro Santa Lucía lookout over San Isidro and Alameda toward the Andes rim.",
+      "why_go": "Santiago de Chile, the capital in the Mapocho Valley, is best introduced from Cerro Santa Lucía—the park hill Spaniards named on 13 December 1540 (Mapuche name Huelén). Mayor Benjamín Vicuña Mackenna reshaped it into a public walk in 1872–1874; the monumental Alameda entrance dates to 1897–1903, and the hill became a Chilean Historic Monument in 1983. The 2017 photo looks toward Barrio San Isidro and Avenida Libertador Bernardo O’Higgins (the Alameda) from the mirador—low centro blocks and tree lines with the Andes often on the horizon. Climb for orientation, then continue to Plaza de Armas, La Moneda, or a longer Andes day trip.",
+      "best_time": "September–November (spring) and March–May (autumn) for clear views and mild walking. December–February can be hot and smoggy; June–August are cooler with possible rain and occasional snow on nearby peaks.",
+      "how_to_get_there": "Fly into Arturo Merino Benítez International Airport (SCL). Airport buses and taxis/apps reach the centre; Metro Santa Lucía (Línea 1) sits at the Alameda gate. The park is free; entrances also open from Santa Lucía, Merced, and Victoria Subercaseaux streets.",
+      "good_to_know": "Santiago Turismo lists summer hours roughly Mon 12:00–20:30 and Tue–Sun 07:00–20:30; winter hours shorten and the park closes in rain—verify before climbing. Paths are steep; wear grippy shoes. Smog can mute Andes views—mornings after wind or rain are clearer.",
+      "official_or_tourism_url": "https://www.santiagoturismo.cl/en/cerro-santa-lucia-2/",
+      "sources": [
+        "https://www.santiagoturismo.cl/en/cerro-santa-lucia-2/",
+        "https://www.monumentos.gob.cl/monumentos/monumentos-historicos/cerro-santa-lucia-de-santiago",
+        "https://es.wikipedia.org/wiki/Barrio_San_Isidro_(Santiago_de_Chile)"
+      ]
+    },
+    "ad": {
+      "destination_query": "Santiago, Chile",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Santiago%2C%20Chile&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Santiago%2C%20Chile&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Santiago%2C%20Chile&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Santiago"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-037",
+    "tab": "cities",
+    "name": "Lima",
+    "short_line": "Lima Province, Peru",
+    "country": "Peru",
+    "lat": -12.0464,
+    "lng": -77.0428,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Lima%2C_Peru_-_Skyline_%26_Cityscape_from_Surco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-037.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALima%2C_Peru_-_Skyline_%26_Cityscape_from_Surco.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Brockly78",
+      "attribution": "Photo: Brockly78, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Lima, Peru - Skyline & Cityscape from Surco.jpg' confirms Lima; desc: Skyline and cityscape of Lima, Peru from Santiago de Surco."
+    },
+    "facts": {
+      "one_liner": "Pacific capital sprawl: Surco vantage over Lima’s southern residential skyline.",
+      "why_go": "Lima, Peru’s capital on the Pacific coast, spreads far beyond the colonial core. The photo skyline from Santiago de Surco shows the city’s dense southern residential and mid-rise fabric rather than highland Cusco or Machu Picchu day trips. First-time visitors still balance that metro scale with the UNESCO Historic Centre (Plaza Mayor, Cathedral, San Francisco) and coastal Miraflores—Malecón cliffs, Parque del Amor, and Huaca Pucllana—plus Barranco’s nightlife and galleries. Surco itself is largely residential; the viewpoint orients you to how big coastal Lima really is before you dive into centro and clifftop walks.",
+      "best_time": "December–March is typically sunnier and warmer for Malecón walks. June–September often brings cool, grey coastal fog (garúa)—fine for museums and food, weaker for long-range skyline photos. Shoulder months April–May and September–November balance mild weather and fewer beach crowds.",
+      "how_to_get_there": "Fly into Jorge Chávez International Airport (LIM). Official airport taxis and ride-hailing reach Surco, Miraflores, and the Historic Centre; Metropolitano bus corridors and city buses cover major axes. Traffic is heavy at rush hour—plan buffers between districts.",
+      "good_to_know": "This card is Lima the coastal capital—not Cusco. Keep bags closed on crowded buses; use registered taxis at night. Historic Centre is best by day; Miraflores Malecón is lively into evening. Fog can erase distant towers even in dry months.",
+      "official_or_tourism_url": "https://visitalima.pe/en/home/",
+      "sources": [
+        "https://visitalima.pe/en/home/",
+        "https://whc.unesco.org/en/list/500/",
+        "https://visitamiraflores.com/en/tourist-attractions/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Lima, Peru",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Lima%2C%20Peru&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Lima%2C%20Peru&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Lima%2C%20Peru&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Lima"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-038",
+    "tab": "cities",
+    "name": "Montreal",
+    "short_line": "Quebec, Canada",
+    "country": "Canada",
+    "lat": 45.5017,
+    "lng": -73.5673,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Kondiaronk_Belvedere%2C_Montreal_city%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-038.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AKondiaronk_Belvedere%2C_Montreal_city%2C_Canada.jpg",
+      "license": "CC0",
+      "author": "Wilfredor",
+      "attribution": "Photo: Wilfredor, CC0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Kondiaronk Belvedere, Montreal city, Canada.jpg' confirms Montreal; desc: Terrace of the Mount Royal Chalet, Montreal in winter."
+    },
+    "facts": {
+      "one_liner": "Kondiaronk Belvedere on Mount Royal—downtown Montréal from the Chalet terrace.",
+      "why_go": "Montréal, Québec’s largest city on an island in the Saint Lawrence, takes its name from Mount Royal. Kondiaronk Belvedere—the semicircular terrace at the Mount Royal Chalet (Beaux-Arts, 1931–32)—is the classic lookout over downtown towers, the river, and distant landmarks. Ville de Montréal lists the lookout at 1196 Voie Camillien-Houde; Tourisme Montréal calls it the favourite foot-access panorama. Frederick Law Olmsted’s Mount Royal Park opened in 1876. This is Montréal—not Toronto’s CN Tower skyline or Vancouver’s harbour—so pair the belvedere with Old Montréal, Plateau walks, and winter festivals for the full French-Canadian metro feel.",
+      "best_time": "May–October for green park trails and open terraces. September–early October adds fall colour. Winter brings snow-covered views and city festivals but icy paths; spring mud season can make trails slick.",
+      "how_to_get_there": "Fly into Montréal–Trudeau International Airport (YUL). STM buses, métro, and taxis reach downtown; bus 11 and walking paths climb toward the Chalet and Kondiaronk lookout, or drive Voie Camillien-Houde (paid parking). The lookout is typically open 6:00 a.m.–midnight.",
+      "good_to_know": "Dress in layers—wind on the terrace is colder than downtown streets. Winter footwear with grip helps. The Chalet café/snack options vary by season. French is the official language; English is widely understood in tourist areas.",
+      "official_or_tourism_url": "https://montreal.ca/en/places/kondiaronk-lookout",
+      "sources": [
+        "https://montreal.ca/en/places/kondiaronk-lookout",
+        "https://www.mtl.org/en/experience/welcome-montreal-mighty-mount-royal",
+        "https://en.wikipedia.org/wiki/Mount_Royal"
+      ]
+    },
+    "ad": {
+      "destination_query": "Montreal, Canada",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Montreal%2C%20Canada&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Montreal%2C%20Canada&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Montreal%2C%20Canada&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Montreal"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-039",
+    "tab": "cities",
+    "name": "Kyoto",
+    "short_line": "Kyoto Prefecture, Japan",
+    "country": "Japan",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Kiyomizu-dera_%2824828175671%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-039.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AKiyomizu-dera_%2824828175671%29.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Laika ac from UK",
+      "attribution": "Photo: Laika ac from UK, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Kiyomizu-dera (24828175671).jpg' confirms Kyoto; desc: Kiyomizu-dera"
+    },
+    "facts": {
+      "one_liner": "Kiyomizu-dera’s nail-free stage over Higashiyama—Kyoto views, not Tokyo towers.",
+      "why_go": "Kyoto (京都), Japan’s ancient imperial capital in Kansai—not Tokyo—is introduced here by Kiyomizu-dera (清水寺) on Mt. Otowa in Higashiyama. Founded in 778 and largely rebuilt in 1633, the temple’s Main Hall national-treasure stage projects ~13 m on timber pillars joined without nails, overlooking the city basin. Otowa Waterfall, Jishu Shrine, and the steep Ninenzaka–Sannenzaka approach complete the visit. Kiyomizu-dera is part of UNESCO’s Historic Monuments of Ancient Kyoto (inscribed 1994). Cherry blossoms, summer greens, autumn maples, and winter snow each reframe the same wooden stage.",
+      "best_time": "Late March–early April for cherry blossoms and mid- to late November for autumn colour (expect crowds). May and October are milder with fewer peak rushes; summer is hot and humid; winter is quieter with possible snow on the roofs.",
+      "how_to_get_there": "Fly into Kansai International (KIX) or Osaka Itami (ITM), then train to Kyoto Station. City bus 100 or 206 to Gojozaka or Kiyomizu-michi, then ~10 minutes uphill on foot; Keihan Line to Kiyomizu-Gojo is another approach. JR and subway cover central Kyoto separately from Tokyo’s network.",
+      "good_to_know": "Gates typically open from 6:00 a.m.; closing times vary by season and special night illuminations—check kiyomizudera.or.jp. Wear shoes suited for stairs and slopes. This card is Kyoto temple culture; do not confuse with Tokyo skyscraper itineraries already in the catalog.",
+      "official_or_tourism_url": "https://www.kiyomizudera.or.jp/en/learn/",
+      "sources": [
+        "https://www.kiyomizudera.or.jp/en/learn/",
+        "https://www.japan.travel/en/spot/2199/",
+        "https://whc.unesco.org/en/list/688/",
+        "https://www.japan-guide.com/e/e3901.html"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kyoto, Japan",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kyoto%2C%20Japan&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kyoto%2C%20Japan&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kyoto%2C%20Japan&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kyoto"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "cities-040",
+    "tab": "cities",
+    "name": "Florence",
+    "short_line": "Tuscany, Italy",
+    "country": "Italy",
+    "lat": 43.7696,
+    "lng": 11.2558,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Italy_-_Tuscany_%2814550252275%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-040.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AItaly_-_Tuscany_%2814550252275%29.jpg",
+      "license": "CC BY 2.0",
+      "author": "Luca Nebuloni",
+      "attribution": "Photo: Luca Nebuloni, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Italy - Tuscany (14550252275).jpg' confirms Florence; desc: Italy - Tuscany"
+    },
+    "facts": {
+      "one_liner": "Florence centro: Duomo dome, Baptistery, and Renaissance streets on the Arno.",
+      "why_go": "Florence (Firenze), capital of Tuscany—not Rome—is the Renaissance city UNESCO listed as the Historic Centre of Florence (1982). On an Etruscan site and later Roman Florentia, it rose under the Medici in the 15th–16th centuries. Signature landmarks are the Cathedral of Santa Maria del Fiore with Brunelleschi’s dome (built 1420–1436), Giotto’s Campanile, the Baptistery, Uffizi, Ponte Vecchio, and Palazzo Pitti. Write the card as Florence even if the Scout Commons file title reads broadly “Italy – Tuscany”: treat the place as the city of the Duomo and centro storico, not a generic rural Tuscan hill town or Rome’s Forum.",
+      "best_time": "April–June and September–October for milder walking and outdoor piazzas. July–August are hot and crowded; November–March are quieter with shorter daylight—good for museums if you dress for rain and chill.",
+      "how_to_get_there": "Fly into Florence Airport (FLR) or Pisa (PSA)/Bologna (BLQ) with train links. High-speed and regional trains arrive at Firenze Santa Maria Novella; the Duomo is a short walk or tram/bus hop into the historic centre. Cars are restricted in the ZTL—prefer walking once downtown.",
+      "good_to_know": "Cathedral nave entry is typically free; Dome, Campanile, Baptistery, and museum require timed passes via the Opera del Duomo—book ahead in peak season. Pickpockets work crowded piazzas. This is Florence/Tuscany’s capital city, not Rome.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/174/",
+      "sources": [
+        "https://whc.unesco.org/en/list/174/",
+        "https://duomo.firenze.it/en/discover/dome",
+        "https://en.wikipedia.org/wiki/Florence",
+        "https://en.wikipedia.org/wiki/Florence_Cathedral"
+      ]
+    },
+    "ad": {
+      "destination_query": "Florence, Italy",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Florence%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Florence%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Florence%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Florence"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
   }
 ]

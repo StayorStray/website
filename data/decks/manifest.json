@@ -160,7 +160,7 @@
     "cities": {
       "live_file": "data/cities.json",
       "archive_dir": "data/decks/cities/",
-      "approved_count": 20,
+      "approved_count": 40,
       "catalog_target": 100,
       "scale_target_met": false,
       "mvp_ready": true,
@@ -168,32 +168,37 @@
         {
           "id": "cities-set-001",
           "file": "set-001.json",
-          "card_ids": [
-            "cities-001",
-            "cities-002",
-            "cities-003",
-            "cities-004",
-            "cities-005",
-            "cities-006",
-            "cities-007",
-            "cities-008",
-            "cities-009",
-            "cities-010",
-            "cities-011",
-            "cities-012",
-            "cities-013",
-            "cities-014",
-            "cities-015",
-            "cities-016",
-            "cities-017",
-            "cities-018",
-            "cities-019",
-            "cities-020"
-          ],
           "status": "approved"
+        },
+        {
+          "id": "cities-set-002",
+          "file": "set-002.json",
+          "status": "approved",
+          "card_ids": [
+            "cities-021",
+            "cities-022",
+            "cities-023",
+            "cities-024",
+            "cities-025",
+            "cities-026",
+            "cities-027",
+            "cities-028",
+            "cities-029",
+            "cities-030",
+            "cities-031",
+            "cities-032",
+            "cities-033",
+            "cities-034",
+            "cities-035",
+            "cities-036",
+            "cities-037",
+            "cities-038",
+            "cities-039",
+            "cities-040"
+          ]
         }
       ],
-      "next": "Cities 021–040 toward 100"
+      "next": "Cities 041–060 toward 100"
     }
   },
   "other_tabs": [
