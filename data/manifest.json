@@ -2,7 +2,7 @@
   "brand": "Stay or Stray",
   "tagline": "Swipe a place. Stay or stray.",
   "phase": "1-audit",
-  "updated": "2026-09-20T13:50:00-05:00",
+  "updated": "2026-09-20T14:40:00-05:00",
   "tabs": [
     "hidden-gems",
     "cities",
@@ -17,8 +17,8 @@
   ],
   "counts": {
     "pending": 0,
-    "approved": 20,
-    "rejected": 0
+    "approved": 39,
+    "rejected": 1
   },
   "cards": [
     {
@@ -139,6 +139,126 @@
       "id": "hidden-gems-020",
       "tab": "hidden-gems",
       "name": "Rothenburg ob der Tauber",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-021",
+      "tab": "hidden-gems",
+      "name": "Setenil de las Bodegas",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-022",
+      "tab": "hidden-gems",
+      "name": "Procida",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-023",
+      "tab": "hidden-gems",
+      "name": "Manarola",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-024",
+      "tab": "hidden-gems",
+      "name": "Hoi An Ancient Town",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-025",
+      "tab": "hidden-gems",
+      "name": "Banff",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-026",
+      "tab": "hidden-gems",
+      "name": "Çıralı",
+      "auditor_status": "rejected"
+    },
+    {
+      "id": "hidden-gems-027",
+      "tab": "hidden-gems",
+      "name": "Aït Benhaddou",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-028",
+      "tab": "hidden-gems",
+      "name": "Matera",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-029",
+      "tab": "hidden-gems",
+      "name": "Český Krumlov",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-030",
+      "tab": "hidden-gems",
+      "name": "Fenghuang Ancient Town",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-031",
+      "tab": "hidden-gems",
+      "name": "Sintra",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-032",
+      "tab": "hidden-gems",
+      "name": "Zermatt",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-033",
+      "tab": "hidden-gems",
+      "name": "Jodhpur Blue City",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-034",
+      "tab": "hidden-gems",
+      "name": "Valparaíso",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-035",
+      "tab": "hidden-gems",
+      "name": "Purmamarca",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-036",
+      "tab": "hidden-gems",
+      "name": "Popeye Village",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-037",
+      "tab": "hidden-gems",
+      "name": "Bled",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-038",
+      "tab": "hidden-gems",
+      "name": "Xingping",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-039",
+      "tab": "hidden-gems",
+      "name": "Essaouira",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-040",
+      "tab": "hidden-gems",
+      "name": "Kotor",
       "auditor_status": "approved"
     }
   ]

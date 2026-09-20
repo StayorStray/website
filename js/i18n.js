@@ -206,12 +206,41 @@
     else closeMenu();
   }
 
+  function syncSwitcherState() {
+    var btn = document.getElementById('lang-switcher-btn');
+    if (btn) {
+      var codeEl = btn.querySelector('.lang-code');
+      if (codeEl) codeEl.textContent = state.lang.toUpperCase();
+      btn.setAttribute('aria-label', t('lang_aria'));
+      btn.setAttribute('title', t('lang_aria'));
+      btn.setAttribute('aria-expanded', 'false');
+    }
+    var menu = document.getElementById('lang-menu');
+    if (menu) {
+      menu.setAttribute('aria-label', t('lang_menu_aria'));
+      menu.hidden = true;
+      menu.setAttribute('aria-hidden', 'true');
+      Array.prototype.forEach.call(
+        menu.querySelectorAll('[role="menuitemradio"]'),
+        function (item) {
+          var code = item.dataset.lang;
+          var active = code === state.lang;
+          item.className = 'lang-option' + (active ? ' is-active' : '');
+          item.setAttribute('aria-checked', active ? 'true' : 'false');
+        }
+      );
+    }
+  }
+
   function renderSwitcher() {
     var header = document.querySelector('.site-header');
     if (!header) return;
 
-    var existing = document.getElementById('lang-switcher');
-    if (existing) existing.remove();
+    /* Update in place when already mounted — keeps top-right slot stable (no jump). */
+    if (document.getElementById('lang-switcher')) {
+      syncSwitcherState();
+      return;
+    }
 
     var wrap = document.createElement('div');
     wrap.className = 'lang-switcher';
@@ -225,6 +254,7 @@
     btn.setAttribute('aria-expanded', 'false');
     btn.setAttribute('aria-controls', 'lang-menu');
     btn.setAttribute('aria-label', t('lang_aria'));
+    btn.setAttribute('title', t('lang_aria'));
     btn.innerHTML =
       '<span class="lang-code" aria-hidden="true">' +
       state.lang.toUpperCase() +

@@ -12,7 +12,7 @@
     "session_stats": "Restez {stay} · Passez {stray}",
     "nav_categories": "Catégories",
     "nav_footer": "Pied de page",
-    "intro_blurb": "Hot-or-Not pour de vrais lieux. Jeu à la une : <strong>{featured}</strong>.",
+    "intro_blurb": "Glissez de vrais lieux — Restez ou Passez. Jeu à la une : <strong>{featured}</strong>.",
     "deck_featured": "{tab} — à la une",
     "loading": "Chargement du jeu…",
     "end_deck_title": "Vous avez fini cette liste. Essayez un autre onglet.",
@@ -41,7 +41,15 @@
     "lang_aria": "Changer de langue",
     "lang_menu_aria": "Langues",
     "booking_offer": "Offre de réservation",
-    "em_dash": "—"
+    "em_dash": "—",
+    "stay_list_title": "Lieux où vous resteriez",
+    "stray_list_title": "Lieux que vous passeriez",
+    "list_empty_stay": "Pas encore de Restez. Glissez à droite (ou touchez Restez) sur un lieu que vous visiteriez.",
+    "list_empty_stray": "Pas encore de Passez. Glissez à gauche (ou touchez Passez) sur un lieu que vous éviteriez.",
+    "close_list": "Fermer",
+    "daily_note": "Vos listes Restez et Passez sont enregistrées uniquement sur cet appareil.",
+    "daily_deck_label": "Jeu du jour · {date}",
+    "end_deck_saved_prefix": "Enregistré sur cet appareil :"
   },
   "tabs": {
     "hidden-gems": "Pépites cachées",

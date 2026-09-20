@@ -12,7 +12,7 @@
     "session_stats": "Stay {stay} · Stray {stray}",
     "nav_categories": "Categories",
     "nav_footer": "Footer",
-    "intro_blurb": "Hot-or-Not for real places. Featured deck: <strong>{featured}</strong>.",
+    "intro_blurb": "Swipe real places — Stay or Stray. Featured deck: <strong>{featured}</strong>.",
     "deck_featured": "{tab} — featured",
     "loading": "Loading deck…",
     "end_deck_title": "You’ve swiped this list. Try another tab.",
@@ -41,7 +41,15 @@
     "lang_aria": "Change language",
     "lang_menu_aria": "Languages",
     "booking_offer": "Booking offer",
-    "em_dash": "—"
+    "em_dash": "—",
+    "stay_list_title": "Places you Stayed",
+    "stray_list_title": "Places you Strayed",
+    "list_empty_stay": "No Stays yet. Swipe right (or tap Stay) on a place you would visit.",
+    "list_empty_stray": "No Strays yet. Swipe left (or tap Stray) on a place you would skip.",
+    "close_list": "Close",
+    "daily_note": "Your Stay and Stray lists are saved on this device only.",
+    "daily_deck_label": "Today’s deck · {date}",
+    "end_deck_saved_prefix": "Saved on this device:"
   },
   "tabs": {
     "hidden-gems": "Hidden Gems",

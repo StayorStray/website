@@ -12,7 +12,7 @@
     "session_stats": "Bleiben {stay} · Weiter {stray}",
     "nav_categories": "Kategorien",
     "nav_footer": "Fußzeile",
-    "intro_blurb": "Hot-or-Not für echte Orte. Empfohlenes Deck: <strong>{featured}</strong>.",
+    "intro_blurb": "Wische echte Orte — Bleiben oder Weiter. Empfohlenes Deck: <strong>{featured}</strong>.",
     "deck_featured": "{tab} — empfohlen",
     "loading": "Deck wird geladen…",
     "end_deck_title": "Du hast diese Liste durchgewischt. Probiere einen anderen Tab.",
@@ -41,7 +41,15 @@
     "lang_aria": "Sprache ändern",
     "lang_menu_aria": "Sprachen",
     "booking_offer": "Buchungsangebot",
-    "em_dash": "—"
+    "em_dash": "—",
+    "stay_list_title": "Orte, bei denen du bleiben würdest",
+    "stray_list_title": "Orte, die du weiterwischen würdest",
+    "list_empty_stay": "Noch keine Bleiben. Wische nach rechts (oder tippe Bleiben) bei einem Ort, den du besuchen würdest.",
+    "list_empty_stray": "Noch keine Weiter. Wische nach links (oder tippe Weiter) bei einem Ort, den du überspringen würdest.",
+    "close_list": "Schließen",
+    "daily_note": "Deine Bleiben- und Weiter-Listen werden nur auf diesem Gerät gespeichert.",
+    "daily_deck_label": "Heutiges Deck · {date}",
+    "end_deck_saved_prefix": "Auf diesem Gerät gespeichert:"
   },
   "tabs": {
     "hidden-gems": "Versteckte Juwelen",

@@ -12,7 +12,7 @@
     "session_stats": "Quédate {stay} · Pasa {stray}",
     "nav_categories": "Categorías",
     "nav_footer": "Pie de página",
-    "intro_blurb": "Hot-or-Not para lugares reales. Mazo destacado: <strong>{featured}</strong>.",
+    "intro_blurb": "Desliza lugares reales — Quédate o Pasa. Mazo destacado: <strong>{featured}</strong>.",
     "deck_featured": "{tab} — destacado",
     "loading": "Cargando mazo…",
     "end_deck_title": "Has terminado esta lista. Prueba otra pestaña.",
@@ -41,7 +41,15 @@
     "lang_aria": "Cambiar idioma",
     "lang_menu_aria": "Idiomas",
     "booking_offer": "Oferta de reserva",
-    "em_dash": "—"
+    "em_dash": "—",
+    "stay_list_title": "Lugares donde te quedarías",
+    "stray_list_title": "Lugares que pasarías",
+    "list_empty_stay": "Aún no hay Quédate. Desliza a la derecha (o toca Quédate) en un lugar que visitarías.",
+    "list_empty_stray": "Aún no hay Pasa. Desliza a la izquierda (o toca Pasa) en un lugar que saltarías.",
+    "close_list": "Cerrar",
+    "daily_note": "Tus listas Quédate y Pasa se guardan solo en este dispositivo.",
+    "daily_deck_label": "Mazo de hoy · {date}",
+    "end_deck_saved_prefix": "Guardado en este dispositivo:"
   },
   "tabs": {
     "hidden-gems": "Joyas ocultas",

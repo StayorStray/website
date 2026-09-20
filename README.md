@@ -101,3 +101,27 @@ site/
 - Photo must depict the named place; skip locations without a clean reusable license.
 - Ads must search the same destination as the card.
 - Nothing public without Accuracy Auditor sign-off.
+
+## Daily deck rotation
+
+See `data/decks/README.md`. Runtime: `js/daily.js` (America/Chicago).
+
+- Up to **100** cards per tab per day from archived sets in `data/decks/`.
+- Until a tab has 100+ approved cards, the full approved pool is served (currently
+  Hidden Gems set-001 = 20). Order still changes daily; weekly remix changes the
+  shuffle family.
+- **Stay / Stray lists** are permanent in `localStorage` (`sos_stay_list` /
+  `sos_stray_list`), keyed by place id. Counts in the header are buttons that open
+  the on-device list panel.
+
+### Add a new archive set
+
+1. Auditor-approved batch → `data/decks/{tab}/set-00N.json`
+2. Register in `data/decks/manifest.json`
+3. Copy into `site/data/decks/` for deploy
+4. Never invent places/photos
+
+## Personal lists (local-only)
+
+Until a real account backend exists, Stay/Stray lists live only in the browser.
+Clearing site data clears lists. Daily deck rotation does not.

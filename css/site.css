@@ -75,6 +75,8 @@ img { max-width: 100%; display: block; }
   font-size: 0.75rem;
   color: var(--muted);
   white-space: nowrap;
+  order: 9;
+  flex-shrink: 0;
 }
 .session-stats strong { color: var(--text); font-weight: 600; }
 
@@ -414,9 +416,10 @@ img { max-width: 100%; display: block; }
   .tagline { font-size: 0.72rem; }
 }
 
-/* —— Language switcher (top-right) —— */
+/* —— Language switcher (top-right, sticky header trailing edge) —— */
 .lang-switcher {
   position: relative;
+  order: 10;
   flex-shrink: 0;
   margin-left: 0.25rem;
 }
@@ -492,7 +495,167 @@ img { max-width: 100%; display: block; }
   padding-left: 0.5rem;
   font-size: 0.8rem;
 }
-@media (max-width: 420px) {
-  .session-stats { font-size: 0.68rem; }
-  .tagline { font-size: 0.72rem; }
+
+/* —— Clickable Stay/Stray counts —— */
+.session-stats {
+  display: flex;
+  align-items: center;
+  gap: 0.15rem;
+}
+.stat-btn {
+  appearance: none;
+  border: 1px solid transparent;
+  background: transparent;
+  color: var(--muted);
+  font: inherit;
+  font-size: inherit;
+  padding: 0.25rem 0.35rem;
+  margin: 0;
+  border-radius: 8px;
+  cursor: pointer;
+  min-height: 44px;
+  white-space: nowrap;
+}
+.stat-btn:hover,
+.stat-btn:focus-visible {
+  border-color: var(--border);
+  color: var(--text);
+  outline: none;
+}
+.stat-btn.stat-stay:hover,
+.stat-btn.stat-stay:focus-visible { color: var(--stay); }
+.stat-btn.stat-stray:hover,
+.stat-btn.stat-stray:focus-visible { color: var(--stray); }
+.stat-btn strong { color: var(--text); font-weight: 600; }
+.stat-sep { color: var(--muted); user-select: none; }
+
+/* —— Stay/Stray list panel —— */
+body.list-panel-open { overflow: hidden; }
+.list-panel {
+  position: fixed;
+  inset: 0;
+  z-index: 80;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.list-panel[hidden] { display: none !important; }
+.list-panel-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+}
+.list-panel-sheet {
+  position: relative;
+  z-index: 1;
+  width: min(520px, 100%);
+  max-height: min(85vh, 720px);
+  display: flex;
+  flex-direction: column;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 16px 16px 0 0;
+  box-shadow: 0 -12px 40px rgba(0, 0, 0, 0.45);
+  padding: 0.75rem 1rem 1.25rem;
+}
+@media (min-width: 640px) {
+  .list-panel { align-items: center; }
+  .list-panel-sheet {
+    border-radius: 16px;
+    max-height: min(80vh, 640px);
+  }
+}
+.list-panel-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+.list-panel-title {
+  flex: 1;
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+}
+.list-panel-close {
+  appearance: none;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text);
+  font: inherit;
+  font-weight: 600;
+  font-size: 0.85rem;
+  min-height: 44px;
+  padding: 0 0.85rem;
+  border-radius: 999px;
+  cursor: pointer;
+}
+.list-panel-close:hover,
+.list-panel-close:focus-visible {
+  border-color: var(--accent);
+  color: var(--accent);
+  outline: none;
+}
+.list-panel-note {
+  margin: 0 0 0.75rem;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+.list-panel-body {
+  overflow: auto;
+  flex: 1;
+  -webkit-overflow-scrolling: touch;
+}
+.list-empty {
+  margin: 1rem 0;
+  color: var(--muted);
+  text-align: center;
+}
+.place-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.place-list-item {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+  padding: 0.5rem;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+}
+.place-list-thumb {
+  width: 56px;
+  height: 56px;
+  border-radius: 8px;
+  object-fit: cover;
+  flex-shrink: 0;
+  background: #000;
+}
+.place-list-thumb.placeholder {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.06);
+}
+.place-list-text { min-width: 0; }
+.place-list-name {
+  margin: 0;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+.place-list-line {
+  margin: 0.15rem 0 0;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.daily-deck-note {
+  margin: 0 0 0.75rem;
+  color: var(--muted);
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }

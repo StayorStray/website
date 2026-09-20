@@ -982,5 +982,937 @@
       "license_ok": true,
       "auditor_status": "approved"
     }
+  },
+  {
+    "id": "hidden-gems-021",
+    "tab": "hidden-gems",
+    "name": "Setenil de las Bodegas",
+    "short_line": "Andalusia, Spain",
+    "country": "Spain",
+    "lat": 36.8636,
+    "lng": -5.1814,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Setenil_de_las_Bodegas_-_Wallpaper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-021.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASetenil_de_las_Bodegas_-_Wallpaper.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Wiki2Fred",
+      "attribution": "Photo: Wiki2Fred, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Setenil de las Bodegas - Wallpaper.jpg' confirms Setenil de las Bodegas; desc: Vue panoramique sur Setenil de las Bodegas"
+    },
+    "facts": {
+      "one_liner": "Cádiz white town; houses under Río Guadalporcún limestone overhangs (Cuevas del Sol/Sombra).",
+      "why_go": "Setenil de las Bodegas sits in the Sierra de Cádiz along a narrow river gorge, where façades close natural rock overhangs so the cliff forms much of the roof—semi-troglodyte streets rather than fully carved caves. Visitors walk Cuevas del Sol and Cuevas de la Sombra, then climb to the castle and Iglesia de la Encarnación above the gorge. The historic centre is a declared conjunto histórico-artístico (1985). Olive and almond groves still shape the surrounding landscape; the bodegas that gave the town its name largely vanished after 19th-century phylloxera.",
+      "best_time": "Spring (March–May) and autumn (September–October) for milder walks in the gorge; summer afternoons are hot. Combine with a Ronda day trip; weekday mornings are quieter than weekend peaks.",
+      "how_to_get_there": "About 15–20 minutes by road from Ronda, ~90 minutes from Málaga or Cádiz by car. No train station—arrive by car or regional bus via Ronda/Olvera. Park on the upper town and walk down into the cave streets.",
+      "good_to_know": "The rock is the roof of many buildings: Cuevas del Sol is the sunnier, café-lined stretch; Cuevas de la Sombra stays cooler. Stay on public streets—many openings are still homes or shops.",
+      "official_or_tourism_url": "https://www.turismodecadiz.com/",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Setenil_de_las_Bodegas",
+        "https://www.turismodecadiz.com/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Setenil de las Bodegas, Spain",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Setenil%20de%20las%20Bodegas%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Setenil%20de%20las%20Bodegas%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Setenil%20de%20las%20Bodegas%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Setenil de las Bodegas"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-022",
+    "tab": "hidden-gems",
+    "name": "Procida",
+    "short_line": "Campania, Italy",
+    "country": "Italy",
+    "lat": 40.7567,
+    "lng": 14.0272,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Corricella_2016%2C_Procida_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-022.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACorricella_2016%2C_Procida_%282%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Ekrem Canli",
+      "attribution": "Photo: Ekrem Canli, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Corricella 2016, Procida (2).jpg' confirms Procida; desc: Port of Corricella in Procida"
+    },
+    "facts": {
+      "one_liner": "Phlegraean island near Naples; Marina Corricella pastel fishing harbour, car-free quay.",
+      "why_go": "Procida (Proceta) is a small Campanian island between Capo Miseno and Ischia, with ~10,000 residents and a working maritime character. People come for Marina Corricella—an amphitheatre of multicoloured façades above a vehicle-free fishing quay—plus Terra Murata, the fortified hilltop settlement. Ferries land at Marina Grande; Corricella is reached only by sea or stairways such as Gradinata del Pennino and Gradinata Scura. Procida was Italian Capital of Culture in 2022.",
+      "best_time": "May–June and September–October for warm weather and lighter crowds. July–August are busiest with domestic holidays; winter services run but are fewer.",
+      "how_to_get_there": "Hydrofoil (~35–40 min) from Naples Molo Beverello or ferry (~1 h) from Calata Porta di Massa; also frequent boats from Pozzuoli. All arrive at Marina Grande. No airport—use Napoli Capodichino then port transfer.",
+      "good_to_know": "Corricella has no cars; expect stairs and narrow lanes. Check Caremar/SNAV times the day before—rough seas can cancel hydrofoils. Overnight stays beat same-day Capri-style day trips.",
+      "official_or_tourism_url": "https://www.visitprocida.com/en/places/locations/marina-corricella/",
+      "sources": [
+        "https://www.visitprocida.com/en/places/locations/marina-corricella/",
+        "https://en.wikipedia.org/wiki/Procida",
+        "https://easy.caremar.it/it/orari-tratta/Napoli-Procida/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Procida, Italy",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Procida%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Procida%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Procida%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Procida"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-023",
+    "tab": "hidden-gems",
+    "name": "Manarola",
+    "short_line": "Cinque Terre, Italy",
+    "country": "Italy",
+    "lat": 44.1069,
+    "lng": 9.7283,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Manarola_NW_Cinque_Terre_Sep23_A7C_07233.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-023.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AManarola_NW_Cinque_Terre_Sep23_A7C_07233.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Timothy A. Gonsalves",
+      "attribution": "Photo: Timothy A. Gonsalves, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Manarola NW Cinque Terre Sep23 A7C 07233.jpg' confirms Manarola; desc: Manarola NW Cinque Terre Sep23 A7C 07233"
+    },
+    "facts": {
+      "one_liner": "Cinque Terre hamlet in Riomaggiore; cliffside tower-houses above a tiny rocky harbour.",
+      "why_go": "Manarola is one Cinque Terre village—a frazione of Riomaggiore (La Spezia)—not a stand-in for all five towns. Tall, narrow painted houses rise from a steep cliff around a small harbour used for boats, rock swimming, and diving rather than a sandy beach. Vineyards and olive terraces climb the slopes above; recorded settlement ties to the 13th-century Fieschi period. Within Cinque Terre National Park and the Porto Venere–Cinque Terre UNESCO coastal site, it is best explored on foot via carruggi and slate stairs.",
+      "best_time": "April–June and September–October for hiking weather and fewer peak crowds. Midsummer trains and paths are heavily loaded; winter is quieter with shorter ferry seasons.",
+      "how_to_get_there": "Regional trains on the Genova–La Spezia line stop at Manarola station above the village; walk downhill into the centre (steep). Seasonal Line 02 ferries (Navigazione Golfo dei Poeti) call at the harbour when seas allow. Cars are restricted—park outside and walk or use the train.",
+      "good_to_know": "Focus on Manarola’s harbour viewpoint (Via Belvedere) and village lanes; trail links (including Via dell’Amore segments) need current park status and often timed tickets. Buy the Cinque Terre Card if using trains heavily between villages.",
+      "official_or_tourism_url": "https://www.parconazionale5terre.it/Epun_dettaglio.php?id_pun=1809",
+      "sources": [
+        "https://www.parconazionale5terre.it/Epun_dettaglio.php?id_pun=1809",
+        "https://en.wikipedia.org/wiki/Manarola",
+        "https://whc.unesco.org/en/list/826/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Manarola, Italy",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Manarola%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Manarola%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Manarola%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Manarola"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-024",
+    "tab": "hidden-gems",
+    "name": "Hoi An Ancient Town",
+    "short_line": "Quảng Nam, Vietnam",
+    "country": "Vietnam",
+    "lat": 15.8801,
+    "lng": 108.338,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Hoi_An_Ancient_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-024.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHoi_An_Ancient_Town.jpg",
+      "license": "CC BY 4.0",
+      "author": "Andre Hospers",
+      "attribution": "Photo: Andre Hospers, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Hoi An Ancient Town.jpg' confirms Hoi An Ancient Town; desc: Hoi An Ancient Town"
+    },
+    "facts": {
+      "one_liner": "UNESCO trading-port old town on the Thu Bồn; timber shophouses, Japanese Covered Bridge.",
+      "why_go": "Hội An Ancient Town (Hội An) in Quảng Nam preserves a compact riverside trading port active from roughly the 15th–19th centuries, inscribed by UNESCO in 1999. Visitors come for timber shophouses, Chinese assembly halls, museums, and the Japanese Covered Bridge (Chùa Cầu), plus lantern-lit evening streets. The core is small and walkable; an official heritage ticket covers selected monuments. Pedestrian and non-motorized vehicle rules apply in the historic streets for much of the day.",
+      "best_time": "February–April is the driest, most comfortable window per local heritage guidance. May–August is hotter but often still dry; September–December brings heavier rain and possible flooding.",
+      "how_to_get_there": "No airport or railway in Hoi An. Fly into Da Nang (DAD), ~30 km / 45–60 minutes by taxi, Grab, shuttle, or public bus. Hue and Mỹ Sơn are common day trips.",
+      "good_to_know": "Buy the official entrance ticket at authorised booths before touring ticketed sites; keep the stub for re-entry checks. Dress modestly inside temples and historic houses; the old town is a lived-in neighbourhood, not a closed museum.",
+      "official_or_tourism_url": "http://www.hoianworldheritage.org.vn/en/news/Useful-Information/hoi-an-tourism-information-735.hwh",
+      "sources": [
+        "https://whc.unesco.org/en/list/948/",
+        "http://www.hoianworldheritage.org.vn/en/news/Useful-Information/hoi-an-tourism-information-735.hwh",
+        "http://hoianworldheritage.org.vn/en/news/Useful-Information/Experiences-on-travelling-to-Hoi-An-144.hwh"
+      ]
+    },
+    "ad": {
+      "destination_query": "Hoi An, Vietnam",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Hoi%20An%2C%20Vietnam&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Hoi%20An%2C%20Vietnam&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Hoi%20An%2C%20Vietnam&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Hoi An Ancient Town"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-025",
+    "tab": "hidden-gems",
+    "name": "Banff",
+    "short_line": "Alberta, Canada",
+    "country": "Canada",
+    "lat": 51.1784,
+    "lng": -115.5708,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Town_of_Banff_viewed_from_Sulphur_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-025.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATown_of_Banff_viewed_from_Sulphur_Mountain.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Ethan Sahagun",
+      "attribution": "Photo: Ethan Sahagun, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Town of Banff viewed from Sulphur Mountain.jpg' confirms Banff; desc: The town of Banff viewed from Sulphur Mountain."
+    },
+    "facts": {
+      "one_liner": "Townsite inside Banff National Park; Bow Valley base for lakes, trails, and Roam transit.",
+      "why_go": "Banff is a small mountain town (~4 km²) inside Banff National Park in Alberta’s Canadian Rockies, about 128 km west of Calgary. Visitors use the townsite as a walkable base for park attractions—Bow Falls, Sulphur Mountain gondola, Cave and Basin, Lake Minnewanka, Johnston Canyon, and day access toward Lake Louise—rather than treating “the Rockies” as a generic backdrop. Parks Canada manages the park; the Town of Banff runs local services and strongly encourages car-free travel once you arrive.",
+      "best_time": "June–September for hiking and lake access; September–October for fall colour and thinner crowds; winter for snow sports and quieter streets. Summer parking fills early on clear days.",
+      "how_to_get_there": "Fly to Calgary (YYC), then ~1.5 hours by highway, airport shuttle, or scheduled bus (e.g. Banff Airporter, Brewster Express, FlixBus). Inside Banff, walk, cycle, or use Roam Public Transit to town and major park stops.",
+      "good_to_know": "A national park pass is normally required for park entry (check Parks Canada for current rules). Downtown and attraction lots often fill by ~10:00 in peak summer—arrive late afternoon or leave the car at your lodging and use Roam.",
+      "official_or_tourism_url": "https://www.banff.ca/91/Getting-to-Banff",
+      "sources": [
+        "https://www.banff.ca/91/Getting-to-Banff",
+        "https://www.banfflakelouise.com/",
+        "https://en.wikipedia.org/wiki/Banff_National_Park",
+        "https://www.banff.ca/435/Roam-Public-Transit"
+      ]
+    },
+    "ad": {
+      "destination_query": "Banff, Alberta, Canada",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Banff%2C%20Alberta%2C%20Canada&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Banff%2C%20Alberta%2C%20Canada&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Banff%2C%20Alberta%2C%20Canada&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Banff"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-027",
+    "tab": "hidden-gems",
+    "name": "Aït Benhaddou",
+    "short_line": "Drâa-Tafilalet, Morocco",
+    "country": "Morocco",
+    "lat": 31.0472,
+    "lng": -7.1319,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Ait_Ben_Haddou_%2816112394620%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-027.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAit_Ben_Haddou_%2816112394620%29.jpg",
+      "license": "CC BY 2.0",
+      "author": "jjmusgrove from Glen Allen, VA, United States",
+      "attribution": "Photo: jjmusgrove from Glen Allen, VA, United States, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Ait Ben Haddou (16112394620).jpg' confirms Aït Benhaddou; desc: The agadir of Aït Benhaddou"
+    },
+    "facts": {
+      "one_liner": "UNESCO mudbrick ksar in Ouarzazate Province; Ounila Valley earthen fortified village.",
+      "why_go": "Aït Benhaddou (Ksar of Ait-Ben-Haddou; آيت بن حدّو) is a fortified earthen village (ksar/ighrem) on the southern High Atlas slopes in Ouarzazate Province, inscribed by UNESCO in 1987. High defensive walls with corner towers enclose packed dwellings of rammed earth and adobe—an exemplary pre-Saharan building tradition on a former caravan route toward Marrakesh. Most residents now live across the river in the modern village; a pedestrian bridge links the two. The site has also served as a film location (e.g. Gladiator, parts of Game of Thrones), which is secondary to its architectural value.",
+      "best_time": "October–April for cooler walking temperatures. Summer midday heat is intense; early morning or late afternoon is better for climbing to the granary viewpoint. After heavy rain, earthen paths can be slippery.",
+      "how_to_get_there": "About 30 km / 30–40 minutes from Ouarzazate by grand taxi or tour. From Marrakesh, allow roughly 4 hours via the Tizi n’Tichka road, usually as a day trip or overnight with Ouarzazate. No train—road only.",
+      "good_to_know": "Wear closed shoes for uneven mudbrick alleys and the hilltop climb. Guides and some individual buildings may charge separately; confirm current access after any regional weather or seismic events. This is not Chefchaouen—expect ochre earth walls, not blue medina lanes.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/444/",
+      "sources": [
+        "https://whc.unesco.org/en/list/444/",
+        "https://en.wikipedia.org/wiki/A%C3%AFt_Benhaddou",
+        "https://www.visitmorocco.com/en/travel/ait-ben-haddou"
+      ]
+    },
+    "ad": {
+      "destination_query": "Aït Benhaddou, Morocco",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=A%C3%AFt%20Benhaddou%2C%20Morocco&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=A%C3%AFt%20Benhaddou%2C%20Morocco&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=A%C3%AFt%20Benhaddou%2C%20Morocco&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Aït Benhaddou"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-028",
+    "tab": "hidden-gems",
+    "name": "Matera",
+    "short_line": "Basilicata, Italy",
+    "country": "Italy",
+    "lat": 40.6667,
+    "lng": 16.6,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Matera_from_Piazzetta_Pascoli-2930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-028.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMatera_from_Piazzetta_Pascoli-2930.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Isiwal",
+      "attribution": "Photo: Isiwal, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Matera from Piazzetta Pascoli-2930.jpg' confirms Matera; desc: The central district of Matera with cathedral, Palazzo Bernardini, seen from Belvedere Piazzetta Pascoli"
+    },
+    "facts": {
+      "one_liner": "Basilicata city of the Sassi; UNESCO cave districts and rupestrian churches.",
+      "why_go": "Matera’s historic core is famous for the Sassi—dense districts of cave dwellings and stone façades cut into the Gravina gorge—together with the Park of the Rupestrian Churches, inscribed by UNESCO in 1993. People visit to walk Sasso Caveoso and Sasso Barisano, enter rock-hewn churches, and see how a once-stigmatized cave city became a major cultural destination (European Capital of Culture 2019). Exploration is almost entirely on foot: steep lanes, stairs, and uneven stone. The “new town” above provides hotels and parking outside restricted zones.",
+      "best_time": "April–May and September–October for mild walking weather. July–August are hot on exposed stone; winter is quieter with shorter daylight.",
+      "how_to_get_there": "Nearest major airport Bari Palese (~60 km) with shuttles. From Bari Centrale, Ferrovie Appulo Lucane (FAL) to Matera Centrale (~100 min; limited/no trains on some holidays—buses substitute). Long-distance coaches serve Rome, Naples, and other cities. By car, use marked lots and respect the Sassi ZTL.",
+      "good_to_know": "Wear grippy shoes; many lanes are polished stone. Some cave churches and museums need tickets. Overnight stays let you see the Sassi lit after day-trippers leave.",
+      "official_or_tourism_url": "https://www.materawelcome.it/en/",
+      "sources": [
+        "https://whc.unesco.org/en/list/670/",
+        "https://www.materaturismo.it/en/how-to-get-to-matera/",
+        "https://www.materawelcome.it/en/",
+        "https://en.wikipedia.org/wiki/Matera"
+      ]
+    },
+    "ad": {
+      "destination_query": "Matera, Italy",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Matera%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Matera%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Matera%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Matera"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-029",
+    "tab": "hidden-gems",
+    "name": "Český Krumlov",
+    "short_line": "South Bohemian Region, Czechia",
+    "country": "Czechia",
+    "lat": 48.8108,
+    "lng": 14.3152,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/View_of_%C4%8Cesk%C3%BD_Krumlov_from_the_castle%2C_20250504_1305_8880.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-029.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AView_of_%C4%8Cesk%C3%BD_Krumlov_from_the_castle%2C_20250504_1305_8880.jpg",
+      "license": "CC BY 4.0",
+      "author": "Jakub Hałun",
+      "attribution": "Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:View of Český Krumlov from the castle, 20250504 1305 8880.jpg' confirms Český Krumlov; desc: View of Český Krumlov from the castle"
+    },
+    "facts": {
+      "one_liner": "South Bohemia UNESCO town on a Vltava bend; castle complex and medieval centre.",
+      "why_go": "Český Krumlov (formerly also Krumau) sits on a double bend of the Vltava in South Bohemia. Its historic centre and the large State Castle and Chateau complex—one of the Czech Republic’s major castle sites—form a UNESCO World Heritage property inscribed in 1992. Visitors walk the old town lanes, cross Lazebnický most, and tour castle courtyards, interiors (seasonal guided routes), and the Baroque theatre when open. Day-trip pressure from Prague is high; overnight stays change the evening atmosphere.",
+      "best_time": "Castle interiors and gardens generally run April–October. May–September are busiest; April and October balance open attractions with fewer crowds. Winter is quiet; some interiors close.",
+      "how_to_get_there": "Direct buses from Prague (~3 hours) are the simplest. Trains usually require a change at České Budějovice (~4 hours total); the station is a walk or short bus from the centre. Park in designated lots—the historic core is largely pedestrian.",
+      "good_to_know": "Book castle guided tours ahead in peak season. The centre climbs steeply toward the castle; cobbles are uneven. Infocentrum on náměstí Svornosti handles tickets and local advice.",
+      "official_or_tourism_url": "https://www.ckrumlov.info/en/cesky-krumlov/",
+      "sources": [
+        "https://www.ckrumlov.info/en/cesky-krumlov/",
+        "https://www.zamek-ceskykrumlov.eu/en/",
+        "https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Krumlov"
+      ]
+    },
+    "ad": {
+      "destination_query": "Český Krumlov, Czechia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=%C4%8Cesk%C3%BD%20Krumlov%2C%20Czechia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=%C4%8Cesk%C3%BD%20Krumlov%2C%20Czechia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=%C4%8Cesk%C3%BD%20Krumlov%2C%20Czechia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Český Krumlov"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-030",
+    "tab": "hidden-gems",
+    "name": "Fenghuang Ancient Town",
+    "short_line": "Hunan, China",
+    "country": "China",
+    "lat": 27.9481,
+    "lng": 109.5994,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Fenghuang_Ancient_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-030.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AFenghuang_Ancient_Town.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "于/Yu 回/Hui from Chengdu, China",
+      "attribution": "Photo: 于/Yu 回/Hui from Chengdu, China, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Fenghuang Ancient Town.jpg' confirms Fenghuang Ancient Town; desc: Beautiful Ancient Town – Fenghuang"
+    },
+    "facts": {
+      "one_liner": "Hunan riverside old town (凤凰古城); Tuojiang stilt houses, Miao–Tujia heritage.",
+      "why_go": "Fenghuang Ancient Town (凤凰古城, Fènghuáng Gǔchéng—“Phoenix” Ancient Town) in Fenghuang County, Xiangxi, Hunan, lines the Tuojiang (Tuo River) with Ming–Qing–style streets and wooden stilt houses (diaojiaolou). Visitors walk flagstone lanes, ride boats past riverside façades, and see Miao and Tujia cultural life in and around the county. The historic townscape has been on UNESCO’s Tentative List (Fenghuang Ancient City) since 2008—it is not yet a full World Heritage inscription. Night lighting along the river is a major draw; mornings are calmer.",
+      "best_time": "April–June and September–November for milder weather. Avoid China’s Golden Week peaks (early May, early October) if you can. Winter is quieter and colder; snow is possible.",
+      "how_to_get_there": "High-speed rail to Fenghuang Ancient Town Station (凤凰古城站), then local shuttle or taxi into the old town. Common gateways: Changsha (~2–3 h by rail) or Zhangjiajie (~1 h). No major airport in the town itself.",
+      "good_to_know": "Street walking is generally free; combo tickets cover selected heritage sites and daytime boat rides—night cruises are often sold separately. Stay overnight for dawn mist and evening lights; expect stairs and damp stone after rain.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/tentativelists/5337",
+      "sources": [
+        "https://whc.unesco.org/en/tentativelists/5337",
+        "https://en.wikipedia.org/wiki/Fenghuang_County",
+        "https://www.chinahighlights.com/fenghuang/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Fenghuang, Hunan, China",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Fenghuang%2C%20Hunan%2C%20China&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Fenghuang%2C%20Hunan%2C%20China&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Fenghuang%2C%20Hunan%2C%20China&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Fenghuang Ancient Town"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-031",
+    "tab": "hidden-gems",
+    "name": "Sintra",
+    "short_line": "Lisbon District, Portugal",
+    "country": "Portugal",
+    "lat": 38.8029,
+    "lng": -9.3817,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Pal%C3%A1cio_Nacional_da_Pena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-031.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APal%C3%A1cio_Nacional_da_Pena.jpg",
+      "license": "CC BY 2.0",
+      "author": "marek.krzystkiewicz",
+      "attribution": "Photo: marek.krzystkiewicz, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Palácio Nacional da Pena.jpg' confirms Sintra; desc: Pena National Palace"
+    },
+    "facts": {
+      "one_liner": "Hill town of Romantic palaces in UNESCO Cultural Landscape near Lisbon.",
+      "why_go": "Sintra sits on the wooded Serra de Sintra west of Lisbon and forms the Cultural Landscape of Sintra, inscribed by UNESCO in 1995 as an early centre of European Romantic architecture. Visitors come for the Park and National Palace of Pena, the Moorish Castle, the National Palace of Sintra in the historic centre, and related estates such as Monserrate and Quinta da Regaleira. Parques de Sintra manages timed tickets and park access; private cars are not authorised on the roads to Pena and the Moorish Castle, so buses or walking trails are the practical last link.",
+      "best_time": "Spring and autumn for milder weather and thinner queues; summer is peak and hottest. Book Pena and other Parques de Sintra tickets ahead, especially weekends.",
+      "how_to_get_there": "CP Sintra Line train from Lisbon (Rossio, Oriente, or Entrecampos) to Sintra station. Scotturb bus 434 links the station/Lourel car park with Pena and the Moorish Castle; buses 434/435 serve the National Palace area. Park at peripheral lots such as Lourel—historic-centre driving is restricted.",
+      "good_to_know": "Allow a full day if combining Pena Park (walk time from park gate to palace) with the Moorish Castle. Wear good shoes for hills and cobbles; check Parques de Sintra for current shuttle and access rules.",
+      "official_or_tourism_url": "https://www.parquesdesintra.pt/en/plan-your-visit/how-to-get-there/",
+      "sources": [
+        "https://whc.unesco.org/en/list/723/",
+        "https://www.parquesdesintra.pt/en/plan-your-visit/how-to-get-there/",
+        "https://www.parquesdesintra.pt/en/parks-monuments/park-and-national-palace-of-pena"
+      ]
+    },
+    "ad": {
+      "destination_query": "Sintra, Portugal",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sintra%2C%20Portugal&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sintra%2C%20Portugal&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sintra%2C%20Portugal&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Sintra"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-032",
+    "tab": "hidden-gems",
+    "name": "Zermatt",
+    "short_line": "Valais, Switzerland",
+    "country": "Switzerland",
+    "lat": 46.0207,
+    "lng": 7.7491,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/View_of_Matterhorn_from_Zermatt_village%2C_Valais%2C_Switzerland.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-032.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AView_of_Matterhorn_from_Zermatt_village%2C_Valais%2C_Switzerland.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Alltheswissthings",
+      "attribution": "Photo: Alltheswissthings, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:View of Matterhorn from Zermatt village, Valais, Switzerland.jpg' confirms Zermatt; desc: View of Matterhorn from Zermatt village, Valais, Switzerland"
+    },
+    "facts": {
+      "one_liner": "Car-free Valais village under the Matterhorn, reached by train via Täsch.",
+      "why_go": "Zermatt is a car-free mountain village in Valais known for its setting beneath the Matterhorn (4,478 m), which can be seen from points in the village such as the church square. Guests come for alpine hiking and skiing, Bahnhofstrasse, and high viewpoints including Gornergrat, Sunnegga, and Rothorn. The Gornergrat Bahn cogwheel railway starts opposite Zermatt station and reaches Gornergrat (~3,100 m) in about 33 minutes for a classic Matterhorn panorama among surrounding 4,000 m peaks.",
+      "best_time": "Winter for skiing on linked Matterhorn areas; summer/early autumn for hiking with long daylight. Shoulder months are quieter than school-holiday peaks.",
+      "how_to_get_there": "Private cars stop at Täsch (~5 km before Zermatt). Park at Matterhorn Terminal Täsch (covered spaces) and take the Matterhorn Gotthard Bahn shuttle (~12 minutes, frequent) into central Zermatt, or use a licensed taxi. Direct trains also run into Zermatt from the Swiss network (roughly 3.5–4 hours from major airports).",
+      "good_to_know": "Unauthorised driving into Zermatt risks fines. In town, walk, e-bus, e-taxi, or bicycle. Matterhorn climbing is for experienced alpinists only—most visitors enjoy views from village or mountain railways.",
+      "official_or_tourism_url": "https://zermatt.swiss/en/plan-book/arrival",
+      "sources": [
+        "https://zermatt.swiss/en/plan-book/arrival",
+        "https://www.myswitzerland.com/en/destinations/zermatt/",
+        "https://www.gornergrat.ch/en/stories/what-is-the-gornergrat"
+      ]
+    },
+    "ad": {
+      "destination_query": "Zermatt, Switzerland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Zermatt%2C%20Switzerland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Zermatt%2C%20Switzerland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Zermatt%2C%20Switzerland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Zermatt"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-033",
+    "tab": "hidden-gems",
+    "name": "Jodhpur Blue City",
+    "short_line": "Rajasthan, India",
+    "country": "India",
+    "lat": 26.2389,
+    "lng": 73.0243,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Blue_city_of_Jodhpur.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-033.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABlue_city_of_Jodhpur.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Room for thought",
+      "attribution": "Photo: Room for thought, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Blue city of Jodhpur.jpg' confirms Jodhpur Blue City; desc: Blue city of Jodhpur"
+    },
+    "facts": {
+      "one_liner": "Rajasthan’s Blue City of indigo-washed lanes beneath Mehrangarh Fort.",
+      "why_go": "Jodhpur, Rajasthan’s second-largest city, is widely called the Blue City because many houses, havelis, and temples in the old quarter are painted vivid blue, especially below the fort ridge. Mehrangarh Fort—begun under Rao Jodha in 1459 and still managed by the Mehrangarh Museum Trust—dominates the skyline and holds palace museums with Marwar collections. Nearby Jaswant Thada, a white marble memorial completed in 1906, is a common pairing with the fort visit.",
+      "best_time": "October–March for cooler daytime temperatures; summers are very hot. Early morning or late afternoon for old-city walks and fort views.",
+      "how_to_get_there": "Jodhpur has rail, road, and airport links within Rajasthan and from major Indian cities. The blue-washed lanes and Mehrangarh sit in/above the old city; autorickshaws and taxis reach the fort approaches—confirm current vehicle restrictions near the gates.",
+      "good_to_know": "Mehrangarh Museum is listed open daily 09:00–17:00; timed online tickets are advised by the Trust. Modest dress and water are useful in the old city; midday heat is intense outside winter.",
+      "official_or_tourism_url": "https://www.tourism.rajasthan.gov.in/jodhpur.html",
+      "sources": [
+        "https://www.tourism.rajasthan.gov.in/jodhpur.html",
+        "https://www.mehrangarh.org/visit/",
+        "https://mehrangarh.getepay.in/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Jodhpur, India",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Jodhpur%2C%20India&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Jodhpur%2C%20India&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Jodhpur%2C%20India&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Jodhpur Blue City"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-034",
+    "tab": "hidden-gems",
+    "name": "Valparaíso",
+    "short_line": "Valparaíso Region, Chile",
+    "country": "Chile",
+    "lat": -33.0472,
+    "lng": -71.6127,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Valpara%C3%ADso%2C_Chile.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-034.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AValpara%C3%ADso%2C_Chile.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Luciajimena1990",
+      "attribution": "Photo: Luciajimena1990, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Valparaíso, Chile.jpg' confirms Valparaíso; desc: Valparaíso, Chile"
+    },
+    "facts": {
+      "one_liner": "Chilean port of hillside cerros, murals, and UNESCO-listed elevators.",
+      "why_go": "Valparaíso’s Historic Quarter of the Seaport City was inscribed by UNESCO in 2003 for its amphitheatre-like layout of port plain and steep hills (cerros), late-19th-century architecture, and industrial funicular elevators (ascensores). Cerro Alegre and Cerro Concepción are the best-known visitor hills, with paseos, stairways, murals, and elevator links such as El Peral, Concepción, and Reina Victoria. The working port and street art culture remain central to why travellers stay overnight rather than only day-trip from Santiago.",
+      "best_time": "Chilean summer (Dec–Mar) for longer days; spring and autumn are milder. Foggy mornings (camanchaca) are common year-round on the coast.",
+      "how_to_get_there": "About 120 km west of Santiago via Route 68 (~1.5 hours by bus or car). From the Valparaíso bus terminal, taxis or short rides reach central elevators; walking between hills is steep.",
+      "good_to_know": "Carry small cash for elevator tickets and wear shoes with grip. Petty theft can occur in crowded areas—keep bags closed. Several elevators operate intermittently; Chile Travel lists Concepción, Artillería, El Peral, and Reina Victoria among heritage links to Alegre/Concepción.",
+      "official_or_tourism_url": "https://chile.travel/en/attractions/elevator-route/",
+      "sources": [
+        "https://whc.unesco.org/en/list/959/",
+        "https://chile.travel/en/attractions/elevator-route/",
+        "https://www.monumentos.gob.cl/monumentos/zonas-tipicas/cerros-alegre-y-concepcion"
+      ]
+    },
+    "ad": {
+      "destination_query": "Valparaíso, Chile",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Valpara%C3%ADso%2C%20Chile&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Valpara%C3%ADso%2C%20Chile&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Valpara%C3%ADso%2C%20Chile&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Valparaíso"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-035",
+    "tab": "hidden-gems",
+    "name": "Purmamarca",
+    "short_line": "Jujuy, Argentina",
+    "country": "Argentina",
+    "lat": -23.7456,
+    "lng": -65.4992,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Cerro_de_los_7_colores.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-035.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACerro_de_los_7_colores.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Abuelodelanada",
+      "attribution": "Photo: Abuelodelanada, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Cerro de los 7 colores.jpg' confirms Purmamarca; desc: Cerro de los 7 colores"
+    },
+    "facts": {
+      "one_liner": "Jujuy adobe town at the foot of Cerro de los Siete Colores.",
+      "why_go": "Purmamarca is a small adobe town in Jujuy Province at about 2,195 m, known for sitting beside Cerro de los Siete Colores (Seven Colors Hill / Seven Colours Hill). The village lies in the Quebrada de Humahuaca cultural landscape, inscribed by UNESCO in 2003 along the Río Grande corridor. Travellers come for the coloured sedimentary slopes visible from town, the Paseo de los Colorados walk behind the hill, craft markets, and as a base for the wider quebrada (Tilcara, Humahuaca, and related stops).",
+      "best_time": "Austral autumn and spring for clearer skies and milder nights; winter mornings can be cold at altitude. Summer brings more rain in the northwest Andes.",
+      "how_to_get_there": "About 65 km (~1 hour) from San Salvador de Jujuy via RN 9 then RN 52 (Purmamarca sits ~3 km west of RN 9 on RN 52). Regular buses leave from the new bus terminal in San Salvador de Jujuy roughly hourly from early morning into evening.",
+      "good_to_know": "Cerro de los Siete Colores is the local/provincial name for the landmark hill; it is not a separate UNESCO listing from Quebrada de Humahuaca. The Paseo de los Colorados is a ~3 km circuit with an entrance fee; altitude and sun call for water and layers. Local forms: Cerro de los Siete Colores / Seven Colors Hill.",
+      "official_or_tourism_url": "https://purmamarca.gob.ar/conoce-purmamarca/",
+      "sources": [
+        "https://purmamarca.gob.ar/conoce-purmamarca/",
+        "https://purmamarca.gob.ar/atractivos-turisticos/",
+        "https://whc.unesco.org/en/list/1116/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Purmamarca, Argentina",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Purmamarca%2C%20Argentina&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Purmamarca%2C%20Argentina&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Purmamarca%2C%20Argentina&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Purmamarca"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-036",
+    "tab": "hidden-gems",
+    "name": "Popeye Village",
+    "short_line": "Mellieħa, Malta",
+    "country": "Malta",
+    "lat": 35.9614,
+    "lng": 14.3417,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Popeye_Village_overview.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-036.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APopeye_Village_overview.JPG",
+      "license": "CC BY-SA 3.0",
+      "author": "Wusel007",
+      "attribution": "Photo: Wusel007, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Popeye Village overview.JPG' confirms Popeye Village; desc: Popeye Village overview"
+    },
+    "facts": {
+      "one_liner": "1980 Popeye film set at Anchor Bay, still open as a Malta attraction.",
+      "why_go": "Popeye Village (also called Sweethaven) at Anchor Bay near Mellieħa is the preserved wooden set built for the 1980 Robert Altman film Popeye, now run as a family visitor attraction. Guests walk the film-set streets overlooking the bay, see shows and museum/documentary content, and—depending on season—use water play areas and mini-golf. It is a purpose-built attraction rather than a historic Maltese village, distinct from Mdina or Valletta.",
+      "best_time": "Shoulder months for milder weather; high season (Jun–Sep) adds water features but is hottest and busiest. Open daily year-round per the operator’s seasonal calendar.",
+      "how_to_get_there": "On Malta’s northwest coast at Anchor Bay (Il-Bajja tal-Mellieħa area). Reachable by car, taxi, or local bus connections toward Mellieħa/Anchor Bay; check current routes from Valletta or northern resorts.",
+      "good_to_know": "As of the operator’s published 2026 calendar, Popeye Village remains open as a ticketed attraction (low/mid/high seasons with different hours and packages). Book online to skip queues; confirm hours before travel as seasonal offerings change.",
+      "official_or_tourism_url": "https://www.popeyemalta.com/",
+      "sources": [
+        "https://www.popeyemalta.com/",
+        "https://popeyemalta.com/packages-menu/seasonal/summer.html",
+        "https://popeyemalta.com/contact.html"
+      ]
+    },
+    "ad": {
+      "destination_query": "Popeye Village, Malta",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Popeye%20Village%2C%20Malta&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Popeye%20Village%2C%20Malta&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Popeye%20Village%2C%20Malta&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Popeye Village"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-037",
+    "tab": "hidden-gems",
+    "name": "Bled",
+    "short_line": "Upper Carniola, Slovenia",
+    "country": "Slovenia",
+    "lat": 46.3692,
+    "lng": 14.1136,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Bled_Overview.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-037.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABled_Overview.JPG",
+      "license": "CC BY-SA 3.0",
+      "author": "Adiel lo",
+      "attribution": "Photo: Adiel lo, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Bled Overview.JPG' confirms Bled; desc: Bled Overview"
+    },
+    "facts": {
+      "one_liner": "Alpine lake with island church and cliff-top castle in Upper Carniola.",
+      "why_go": "Bled (Blejsko jezero) is an Alpine resort in Upper Carniola on the edge of Triglav National Park, known for its lake, cliff-top Bled Castle (Blejski grad), and the only natural island in Slovenia. Travellers take a traditional pletna boat to Bled Island (Blejski otok) and climb 99 stone steps to the Church of the Mother of God on the Lake (Cerkev Marijinega vnebovzetja), with a wishing bell and lookout bell tower. The lakeshore path and cream cake (kremšnita) culture make it a short stay or day trip from Ljubljana.",
+      "best_time": "May–September for boating and swimming weather; autumn colours are strong. Winter is quieter; island buildings keep seasonal hours.",
+      "how_to_get_there": "About 55 km northwest of Ljubljana by road or bus. Pletna boats leave from lakeside points (e.g. Kazina, Mlino, Vila Bled, Velika Zaka); electric boat lines and small boats are also available. Castle access is by foot, bike, or nearby parking then a steep walk.",
+      "good_to_know": "Island entrance fees (church, bell tower, museum) are separate from boat hire—check blejskiotok.si for 2026 prices and hours. Only rowing/electric boats are used on the lake to protect the setting; bring cash for some lakeside services.",
+      "official_or_tourism_url": "https://www.bled.si/en/",
+      "sources": [
+        "https://www.bled.si/en/",
+        "https://www.slovenia.info/en/places-to-go/regions/alpine-slovenia/bled",
+        "https://www.blejskiotok.si/en/welcome-to-the-island/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Bled, Slovenia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bled%2C%20Slovenia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bled%2C%20Slovenia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bled%2C%20Slovenia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Bled"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-038",
+    "tab": "hidden-gems",
+    "name": "Xingping",
+    "short_line": "Guangxi, China",
+    "country": "China",
+    "lat": 24.7667,
+    "lng": 110.5,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Xingping_Ancient_Town_%28EAST_PAVILLION%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-038.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AXingping_Ancient_Town_%28EAST_PAVILLION%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "PQ77wd",
+      "attribution": "Photo: PQ77wd, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Xingping Ancient Town (EAST PAVILLION).jpg' confirms Xingping; desc: Xingping Ancient Town (EAST PAVILLION)"
+    },
+    "facts": {
+      "one_liner": "Li River karst town known for the vista on China’s ¥20 note.",
+      "why_go": "Xingping (兴坪; Xīngpíng) is a riverside town in Yangshuo County, Guangxi, on the Li River (漓江; Lí Jiāng) amid classic fengcong/fenglin karst peaks. It is a long-established river town with an old stone street and nearby fishing village architecture, and a common stop on Guilin–Yangshuo river trips. The Li River scenery just outside Xingping is the landscape featured on China’s fifth-series 20-yuan (¥20) banknote—often photographed from riverside viewpoints near town.",
+      "best_time": "April–May and September–November for clearer air and comfortable hiking; summer is hot and humid with more rain. Early morning for mist and lighter crowds.",
+      "how_to_get_there": "About 25–30 km from Yangshuo town; direct buses from Yangshuo Bus Station (~30–45 minutes). Yangshuo Railway Station sits near Xingping, with short shuttles into town. Guilin–Xingping buses also run; Li River cruises and Yangdi–Xingping rafts approach from the water.",
+      "good_to_know": "The ancient town streets are generally free to wander; some riverside viewpoints may charge a small local fee—confirm on site. Bring WeChat/Alipay or cash. Do not confuse with Xingping city in Shaanxi Province.",
+      "official_or_tourism_url": "https://www.travelchinaguide.com/attraction/guangxi/guilin/li_river/xingping.htm",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Li_River",
+        "https://www.travelchinaguide.com/attraction/guangxi/guilin/li_river/xingping.htm",
+        "https://en.wikivoyage.org/wiki/Yangshuo"
+      ]
+    },
+    "ad": {
+      "destination_query": "Xingping, Guangxi, China",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Xingping%2C%20Guangxi%2C%20China&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Xingping%2C%20Guangxi%2C%20China&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Xingping%2C%20Guangxi%2C%20China&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Xingping"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-039",
+    "tab": "hidden-gems",
+    "name": "Essaouira",
+    "short_line": "Marrakesh-Safi, Morocco",
+    "country": "Morocco",
+    "lat": 31.5085,
+    "lng": -9.7595,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Essaouira.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-039.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AEssaouira.jpg",
+      "license": "CC BY 2.0",
+      "author": "Andy Wright from Sheffield, UK",
+      "attribution": "Photo: Andy Wright from Sheffield, UK, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Essaouira.jpg' confirms Essaouira; desc: Essaouira"
+    },
+    "facts": {
+      "one_liner": "Atlantic medina of Vauban-style ramparts, distinct from inland Morocco.",
+      "why_go": "Essaouira (الصويرة; formerly Mogador) is an Atlantic fortified town whose Medina was inscribed by UNESCO in 2001 as a mid-18th-century seaport planned with European military (Vauban-influenced) walls in a North African setting. Visitors walk the ramparts and Skala, the working fishing port, and the white-and-blue medina alleys—often cooler and windier than inland cities. It is a coastal medina, not the blue mountain town of Chefchaouen and not the inland ksar of Aït Benhaddou.",
+      "best_time": "Spring and autumn for milder temperatures; summer is popular for wind sports but can be crowded. The alizé wind is frequent year-round.",
+      "how_to_get_there": "On Morocco’s Atlantic coast west of Marrakesh (coach ~2.5–3.5 hours depending on service). Domestic flights and coastal buses also serve the area; the medina is largely walkable once you arrive.",
+      "good_to_know": "Expect strong sea wind on the ramparts—secure hats and cameras. The UNESCO property is the Medina (and associated Mogador archipelago context), not the whole modern city. Local and French forms: Essaouira / الصويرة; historic name Mogador.",
+      "official_or_tourism_url": "https://www.visitmorocco.com/en/travel/essaouira-mogador",
+      "sources": [
+        "https://whc.unesco.org/en/list/753/",
+        "https://www.visitmorocco.com/en/travel/essaouira-mogador",
+        "https://www.visitmorocco.com/en/discover-morocco/medinas-in-morocco"
+      ]
+    },
+    "ad": {
+      "destination_query": "Essaouira, Morocco",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Essaouira%2C%20Morocco&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Essaouira%2C%20Morocco&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Essaouira%2C%20Morocco&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Essaouira"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-040",
+    "tab": "hidden-gems",
+    "name": "Kotor",
+    "short_line": "Bay of Kotor, Montenegro",
+    "country": "Montenegro",
+    "lat": 42.4247,
+    "lng": 18.7712,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/01_-_Kotor%2C_uptown.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-040.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3A01_-_Kotor%2C_uptown.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Misa.stefanovic.07",
+      "attribution": "Photo: Misa.stefanovic.07, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:01 - Kotor, uptown.jpg' confirms Kotor; desc: 01 - Kotor, uptown"
+    },
+    "facts": {
+      "one_liner": "Walled Bay of Kotor old town in Montenegro’s UNESCO bay landscape.",
+      "why_go": "Kotor (Котор) sits at the head of Boka Kotorska (Bay of Kotor) on Montenegro’s Adriatic coast. Its fortified old town of stone squares, churches, and alleys is part of the Natural and Culturo-Historical Region of Kotor, a UNESCO World Heritage property covering the inner bay’s historic settlements and mountain backdrop. Visitors walk the walled centre, climb toward the fortress/walls above town, and use Kotor as a base for Perast and boat trips on the bay.",
+      "best_time": "May–June and September–October for warm weather with fewer cruise-ship crowds than midsummer. Winter is quieter and wetter.",
+      "how_to_get_there": "Closest major airport is Tivat (TIV), a short coastal transfer to Kotor; Podgorica is farther inland. Buses and cars use the bay road; cruise ships dock near the old town in season.",
+      "good_to_know": "The UNESCO listing covers the wider bay cultural landscape (including towns such as Kotor and Perast), not only the old-town walls. Expect steep stairs if ascending the fortifications; mornings before ship excursions are quieter in peak season. Local forms: Kotor / Котор; Boka Kotorska / Bay of Kotor.",
+      "official_or_tourism_url": "https://www.montenegro.travel/en/unique-montenegro/jewels-of-the-adriatic/bay-of-kotor",
+      "sources": [
+        "https://whc.unesco.org/en/list/125/",
+        "https://www.montenegro.travel/en/unique-montenegro/jewels-of-the-adriatic/bay-of-kotor",
+        "https://kotor.me/en/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kotor, Montenegro",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kotor%2C%20Montenegro&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kotor%2C%20Montenegro&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kotor%2C%20Montenegro&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kotor"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
   }
 ]

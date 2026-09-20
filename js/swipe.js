@@ -9,8 +9,18 @@
   const FLY_MS = 300;
   const SWIPE_THRESHOLD = 80;
   const PREFETCH = 3;
-  const STORAGE_STAY = 'sos_stay_count';
-  const STORAGE_STRAY = 'sos_stray_count';
+  const STORAGE_STAY_LIST = 'sos_stay_list';
+  const STORAGE_STRAY_LIST = 'sos_stray_list';
+  const LEGACY_STAY = 'sos_stay_count';
+  const LEGACY_STRAY = 'sos_stray_count';
+
+  function escapeHtml(s) {
+    return String(s || '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
 
   const TAB_SLUGS = [
     { slug: 'hidden-gems', featured: true },
@@ -59,26 +69,211 @@
     return assetPath('data/' + tab + '.json');
   }
 
+  function readList(key) {
+    try {
+      const raw = localStorage.getItem(key);
+      if (!raw) return [];
+      const parsed = JSON.parse(raw);
+      return Array.isArray(parsed) ? parsed : [];
+    } catch (e) {
+      return [];
+    }
+  }
+
+  function writeList(key, list) {
+    try {
+      localStorage.setItem(key, JSON.stringify(list));
+    } catch (e) {
+      /* quota / private mode */
+    }
+  }
+
+  function getStayList() {
+    return readList(STORAGE_STAY_LIST);
+  }
+
+  function getStrayList() {
+    return readList(STORAGE_STRAY_LIST);
+  }
+
   function getCounts() {
+    return { stay: getStayList().length, stray: getStrayList().length };
+  }
+
+  function migrateLegacyCounts() {
+    try {
+      if (localStorage.getItem(LEGACY_STAY) != null) localStorage.removeItem(LEGACY_STAY);
+      if (localStorage.getItem(LEGACY_STRAY) != null) localStorage.removeItem(LEGACY_STRAY);
+    } catch (e) {
+      /* ignore */
+    }
+  }
+
+  function placeEntry(card) {
+    const img = (card && card.image) || {};
+    let thumb = '';
+    if (img.local_path) thumb = assetPath(img.local_path);
+    else if (img.url) thumb = img.url;
     return {
-      stay: parseInt(localStorage.getItem(STORAGE_STAY) || '0', 10) || 0,
-      stray: parseInt(localStorage.getItem(STORAGE_STRAY) || '0', 10) || 0,
+      id: card.id,
+      name: card.name || '',
+      short_line: card.short_line || card.country || '',
+      tab: card.tab || '',
+      thumb: thumb,
+      at: new Date().toISOString(),
     };
   }
 
-  function setCount(kind, n) {
-    localStorage.setItem(kind === 'stay' ? STORAGE_STAY : STORAGE_STRAY, String(n));
+  function withoutId(list, id) {
+    return list.filter(function (item) {
+      return item && item.id !== id;
+    });
+  }
+
+  function recordDecision(kind, card) {
+    let stay = getStayList();
+    let stray = getStrayList();
+    const entry = placeEntry(card);
+    stay = withoutId(stay, entry.id);
+    stray = withoutId(stray, entry.id);
+    if (kind === 'stay') stay.unshift(entry);
+    else stray.unshift(entry);
+    writeList(STORAGE_STAY_LIST, stay);
+    writeList(STORAGE_STRAY_LIST, stray);
+  }
+
+  function undoDecision(kind, cardId) {
+    if (kind === 'stay') writeList(STORAGE_STAY_LIST, withoutId(getStayList(), cardId));
+    else writeList(STORAGE_STRAY_LIST, withoutId(getStrayList(), cardId));
   }
 
   function updateStatsUI() {
     const el = document.getElementById('session-stats');
     if (!el) return;
     const c = getCounts();
-    el.innerHTML = t('session_stats', {
-      stay: '<strong>' + c.stay + '</strong>',
-      stray: '<strong>' + c.stray + '</strong>',
+    el.innerHTML =
+      '<button type="button" class="stat-btn stat-stay" data-list="stay" aria-haspopup="dialog">' +
+      escapeHtml(t('stay')) +
+      ' <strong>' +
+      c.stay +
+      '</strong></button>' +
+      '<span class="stat-sep" aria-hidden="true"> · </span>' +
+      '<button type="button" class="stat-btn stat-stray" data-list="stray" aria-haspopup="dialog">' +
+      escapeHtml(t('stray')) +
+      ' <strong>' +
+      c.stray +
+      '</strong></button>';
+    el.querySelectorAll('.stat-btn').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        openListPanel(btn.getAttribute('data-list'));
+      });
     });
   }
+
+  function ensureListPanel() {
+    let root = document.getElementById('list-panel');
+    if (root) return root;
+    root = document.createElement('div');
+    root.id = 'list-panel';
+    root.className = 'list-panel';
+    root.hidden = true;
+    root.setAttribute('role', 'dialog');
+    root.setAttribute('aria-modal', 'true');
+    root.innerHTML =
+      '<div class="list-panel-backdrop" data-close="1"></div>' +
+      '<div class="list-panel-sheet" role="document">' +
+      '<header class="list-panel-header">' +
+      '<h2 class="list-panel-title" id="list-panel-title"></h2>' +
+      '<button type="button" class="list-panel-close" id="list-panel-close"></button>' +
+      '</header>' +
+      '<p class="list-panel-note" id="list-panel-note" hidden></p>' +
+      '<div class="list-panel-body" id="list-panel-body"></div>' +
+      '</div>';
+    document.body.appendChild(root);
+    root.querySelector('[data-close]').addEventListener('click', closeListPanel);
+    document.getElementById('list-panel-close').addEventListener('click', closeListPanel);
+    if (!document.documentElement._sosListEsc) {
+      document.documentElement._sosListEsc = true;
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape') {
+          const p = document.getElementById('list-panel');
+          if (p && !p.hidden) {
+            e.preventDefault();
+            closeListPanel();
+          }
+        }
+      });
+    }
+    return root;
+  }
+
+  function closeListPanel() {
+    const root = document.getElementById('list-panel');
+    if (!root) return;
+    root.hidden = true;
+    document.body.classList.remove('list-panel-open');
+  }
+
+  function openListPanel(kind) {
+    const root = ensureListPanel();
+    const title = document.getElementById('list-panel-title');
+    const body = document.getElementById('list-panel-body');
+    const note = document.getElementById('list-panel-note');
+    const closeBtn = document.getElementById('list-panel-close');
+    const list = kind === 'stay' ? getStayList() : getStrayList();
+
+    title.textContent = kind === 'stay' ? t('stay_list_title') : t('stray_list_title');
+    root.setAttribute('aria-labelledby', 'list-panel-title');
+    closeBtn.textContent = t('close_list');
+    closeBtn.setAttribute('aria-label', t('close_list'));
+
+    const dailyNote = t('daily_note');
+    if (note) {
+      if (dailyNote && dailyNote !== 'daily_note') {
+        note.hidden = false;
+        note.textContent = dailyNote;
+      } else {
+        note.hidden = true;
+      }
+    }
+
+    if (!list.length) {
+      body.innerHTML =
+        '<p class="list-empty">' +
+        escapeHtml(kind === 'stay' ? t('list_empty_stay') : t('list_empty_stray')) +
+        '</p>';
+    } else {
+      body.innerHTML =
+        '<ul class="place-list">' +
+        list
+          .map(function (item) {
+            const thumb = item.thumb
+              ? '<img class="place-list-thumb" src="' +
+                escapeHtml(item.thumb) +
+                '" alt="" loading="lazy" width="56" height="56" />'
+              : '<span class="place-list-thumb placeholder" aria-hidden="true"></span>';
+            return (
+              '<li class="place-list-item">' +
+              thumb +
+              '<div class="place-list-text">' +
+              '<p class="place-list-name">' +
+              escapeHtml(item.name) +
+              '</p>' +
+              '<p class="place-list-line">' +
+              escapeHtml(item.short_line || '') +
+              '</p>' +
+              '</div></li>'
+            );
+          })
+          .join('') +
+        '</ul>';
+    }
+
+    root.hidden = false;
+    document.body.classList.add('list-panel-open');
+    closeBtn.focus();
+  }
+
 
   function renderTabNav(activeSlug) {
     const nav = document.getElementById('tab-nav');
@@ -103,13 +298,6 @@
     }).join('');
   }
 
-  function escapeHtml(s) {
-    return String(s || '')
-      .replace(/&/g, '&amp;')
-      .replace(/</g, '&lt;')
-      .replace(/>/g, '&gt;')
-      .replace(/"/g, '&quot;');
-  }
 
   function imageSrc(card) {
     const img = card.image || {};
@@ -162,14 +350,52 @@
   }
 
   Deck.prototype.load = async function () {
-    const res = await fetch(dataPath(this.tab), { cache: 'no-store' });
-    if (!res.ok) throw new Error('Failed to load ' + this.tab + ' data');
-    const data = await res.json();
-    this.cards = Array.isArray(data) ? data : [];
+    const Daily = window.StayOrStrayDaily;
+    if (Daily && Daily.selectDailyDeck) {
+      const picked = await Daily.selectDailyDeck(this.tab);
+      this.cards = picked.cards || [];
+      this.dailyMeta = picked;
+    } else {
+      const res = await fetch(dataPath(this.tab), { cache: 'no-store' });
+      if (!res.ok) throw new Error('Failed to load ' + this.tab + ' data');
+      const data = await res.json();
+      this.cards = Array.isArray(data) ? data : [];
+      this.dailyMeta = null;
+    }
     this.index = 0;
     this.last = null;
+    this.renderDailyNote();
     this.render();
     this.prefetch();
+  };
+
+  Deck.prototype.renderDailyNote = function () {
+    let el = document.getElementById('daily-deck-note');
+    if (!this.dailyMeta || !this.dailyMeta.dateKey) {
+      if (el) el.hidden = true;
+      return;
+    }
+    const noteText = t('daily_deck_label', {
+      date: this.dailyMeta.dateKey,
+      set: this.dailyMeta.setId || '',
+    });
+    if (!noteText || noteText === 'daily_deck_label') {
+      if (el) el.hidden = true;
+      return;
+    }
+    if (!el) {
+      el = document.createElement('p');
+      el.id = 'daily-deck-note';
+      el.className = 'daily-deck-note';
+      const label = document.querySelector('.deck-section-label');
+      if (label && label.parentNode) {
+        label.parentNode.insertBefore(el, label.nextSibling);
+      } else if (this.root && this.root.parentNode) {
+        this.root.parentNode.insertBefore(el, this.root);
+      }
+    }
+    el.hidden = false;
+    el.textContent = noteText;
   };
 
   Deck.prototype.prefetch = function () {
@@ -353,7 +579,25 @@
     const endStats = document.getElementById('end-stats');
     if (endStats) {
       const c = getCounts();
-      endStats.textContent = t('end_deck_session', { stay: c.stay, stray: c.stray });
+      endStats.innerHTML =
+        escapeHtml(t('end_deck_saved_prefix')) +
+        ' ' +
+        '<button type="button" class="stat-btn stat-stay" data-list="stay">' +
+        escapeHtml(t('stay')) +
+        ' <strong>' +
+        c.stay +
+        '</strong></button>' +
+        '<span class="stat-sep" aria-hidden="true"> · </span>' +
+        '<button type="button" class="stat-btn stat-stray" data-list="stray">' +
+        escapeHtml(t('stray')) +
+        ' <strong>' +
+        c.stray +
+        '</strong></button>';
+      endStats.querySelectorAll('.stat-btn').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          openListPanel(btn.getAttribute('data-list'));
+        });
+      });
     }
     if (this.live) this.live.textContent = t('end_of_deck_live');
   };
@@ -524,14 +768,7 @@
     const el = document.getElementById('active-card');
     if (el) el.classList.add(decision === 'stay' ? 'fly-stay' : 'fly-stray');
 
-    const counts = getCounts();
-    if (decision === 'stay') {
-      counts.stay += 1;
-      setCount('stay', counts.stay);
-    } else {
-      counts.stray += 1;
-      setCount('stray', counts.stray);
-    }
+    recordDecision(decision, card);
     updateStatsUI();
 
     this.last = { card: card, decision: decision, index: this.index };
@@ -546,14 +783,7 @@
 
   Deck.prototype.undo = function () {
     if (this.busy || !this.last) return;
-    const counts = getCounts();
-    if (this.last.decision === 'stay') {
-      counts.stay = Math.max(0, counts.stay - 1);
-      setCount('stay', counts.stay);
-    } else {
-      counts.stray = Math.max(0, counts.stray - 1);
-      setCount('stray', counts.stray);
-    }
+    undoDecision(this.last.decision, this.last.card.id);
     updateStatsUI();
     this.index = this.last.index;
     this.last = null;
@@ -577,10 +807,12 @@
 
   async function boot() {
     await waitForI18n();
+    migrateLegacyCounts();
     const tab = document.body.dataset.tab || 'hidden-gems';
     const showHome = document.body.dataset.showHome === 'true';
     renderTabNav(tab);
     updateStatsUI();
+    ensureListPanel();
     if (I18n() && I18n().applyChrome) I18n().applyChrome && I18n().applyChrome();
 
     const homeBtn = document.getElementById('home-btn');
@@ -597,7 +829,10 @@
         renderTabNav(tab);
         updateStatsUI();
         if (I18n().applyChrome) I18n().applyChrome && I18n().applyChrome();
-        if (deck && deck.root) deck.render();
+        if (deck) {
+          if (deck.renderDailyNote) deck.renderDailyNote();
+          if (deck.root) deck.render();
+        }
       });
     }
 
@@ -628,6 +863,8 @@
       if (e.target && /^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName)) return;
       // Don't steal keys while language menu is open / focused
       if (e.target && e.target.closest && e.target.closest('.lang-switcher')) return;
+      const panel = document.getElementById('list-panel');
+      if (panel && !panel.hidden) return;
       if (e.key === 'ArrowRight') {
         e.preventDefault();
         deck.decide('stay');
