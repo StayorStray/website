@@ -59,12 +59,20 @@ img { max-width: 100%; display: block; }
   font-size: 0.9rem;
 }
 .home-btn[hidden] { display: none !important; }
-.brand-block { flex: 1; min-width: 0; }
+.brand-block {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: fit-content;
+  max-width: min(260px, 62vw);
+}
 .brand,
 .site-logo {
   margin: 0;
-  display: inline-flex;
-  align-items: center;
+  display: block;
+  width: 100%;
   text-decoration: none;
   color: inherit;
   line-height: 0;
@@ -73,7 +81,8 @@ img { max-width: 100%; display: block; }
   display: block;
   height: 2.65rem;
   width: auto;
-  max-width: min(260px, 62vw);
+  max-width: 100%;
+  margin-inline: auto;
   /* Locked brand lockup — sharp & clear, no blur/filters */
   filter: none;
   image-rendering: auto;
@@ -82,9 +91,13 @@ img { max-width: 100%; display: block; }
   user-select: none;
 }
 .tagline {
-  margin: 0.15rem 0 0;
+  margin: 0.2rem 0 0;
   color: var(--muted);
   font-size: 0.8rem;
+  width: 100%;
+  text-align: center;
+  letter-spacing: 0.01em;
+  line-height: 1.25;
 }
 .session-stats {
   font-size: 0.75rem;
@@ -458,7 +471,16 @@ img { max-width: 100%; display: block; }
 
 @media (max-width: 420px) {
   .session-stats { font-size: 0.68rem; }
-  .tagline { font-size: 0.72rem; }
+  .brand-block {
+    max-width: min(220px, 58vw);
+  }
+  .site-logo img {
+    height: 2.4rem;
+  }
+  .tagline {
+    font-size: 0.68rem;
+    text-align: center;
+  }
 }
 
 /* —— Language switcher (top-right, sticky header trailing edge) —— */
