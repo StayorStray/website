@@ -1,0 +1,1012 @@
+{
+  "id": "hidden-gems-set-003",
+  "tab": "hidden-gems",
+  "label": "Hidden Gems — Set 3 (041–060)",
+  "card_ids": [
+    "hidden-gems-041",
+    "hidden-gems-042",
+    "hidden-gems-043",
+    "hidden-gems-044",
+    "hidden-gems-045",
+    "hidden-gems-046",
+    "hidden-gems-047",
+    "hidden-gems-048",
+    "hidden-gems-049",
+    "hidden-gems-050",
+    "hidden-gems-051",
+    "hidden-gems-052",
+    "hidden-gems-053",
+    "hidden-gems-054",
+    "hidden-gems-055",
+    "hidden-gems-056",
+    "hidden-gems-057",
+    "hidden-gems-058",
+    "hidden-gems-059",
+    "hidden-gems-060"
+  ],
+  "count": 20,
+  "auditor": "20/20 approved 2026-09-20",
+  "created": "2026-09-20T15:17:00-05:00",
+  "cards": [
+    {
+      "id": "hidden-gems-041",
+      "tab": "hidden-gems",
+      "name": "Wadi Musa",
+      "short_line": "Ma'an Governorate, Jordan",
+      "country": "Jordan",
+      "lat": 30.3217,
+      "lng": 35.4793,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Wadi_Musa_houses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-041.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AWadi_Musa_houses.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Fjmustak",
+        "attribution": "Photo: Fjmustak, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Wadi Musa houses.jpg' confirms Wadi Musa; desc: Houses of Wadi Musa, just outside the historic city of Petra in Jordan"
+      },
+      "facts": {
+        "one_liner": "Gateway town of Wadi Musa (Valley of Moses), base for visiting Petra.",
+        "why_go": "Wadi Musa is the modern Jordanian town that serves as the practical overnight base for Petra: hotels, restaurants, ATMs, and services cluster along the valley road that ends at the Petra Visitor Centre. The Arabic name means “Valley of Moses,” linked in local tradition to Ain Musa (Moses Spring) at the upper end of town. Most visitors sleep here to start early for the Siq and Nabataean monuments, then return for meals and rest; the town itself is a working service hub rather than a separate sightseeing destination.",
+        "best_time": "March–May and October–November for cooler hiking temperatures at Petra. Summer days are very hot; winter can be cold and wet. Two nights in Wadi Musa is the usual plan for a full Petra visit.",
+        "how_to_get_there": "Reach Wadi Musa by road from Amman (about 3 hours) or Aqaba (about 2 hours); JETT and other coaches serve the town. From hotels in the upper town, walk downhill, take a taxi, or use hotel shuttles to the Petra Visitor Centre and ticket gate at the lower end of Tourism Street.",
+        "good_to_know": "Hotels nearest the gate save the steep uphill walk after a long Petra day. The Jordan Pass often covers Petra entry—confirm current rules before arrival. Carry water and sun protection for the site; Ain Musa is a short stop at the top of town.",
+        "official_or_tourism_url": "https://www.visitpetra.jo/en",
+        "sources": [
+          "https://www.visitpetra.jo/en",
+          "https://www.roughguides.com/jordan/petra/wadi-musa-town/",
+          "https://international.visitjordan.com/home/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Wadi Musa, Jordan",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Wadi%20Musa%2C%20Jordan&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Wadi%20Musa%2C%20Jordan&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Wadi%20Musa%2C%20Jordan&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Wadi Musa"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-042",
+      "tab": "hidden-gems",
+      "name": "Luang Prabang",
+      "short_line": "Luang Prabang Province, Laos",
+      "country": "Laos",
+      "lat": 19.885,
+      "lng": 102.135,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/View_of_Mount_Phou_Si_and_Mekong_bank_at_sunset_seen_from_Wat_Chomphet_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-042.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AView_of_Mount_Phou_Si_and_Mekong_bank_at_sunset_seen_from_Wat_Chomphet_in_Luang_Prabang_Laos.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Basile Morin",
+        "attribution": "Photo: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:View of Mount Phou Si and Mekong bank at sunset seen from Wat Chomphet in Luang Prabang Laos.jpg' confirms Luang Prabang; desc: View of Mount Phou Si and water reflection of lights on the Mekong bank, at sunset with boats, seen from Wat Chomphet, at the top of a hill on the opposite bank"
+      },
+      "facts": {
+        "one_liner": "UNESCO old town on a Mekong–Nam Khan peninsula of temples and riverside lanes.",
+        "why_go": "Luang Prabang’s historic peninsula sits where the Mekong meets the Nam Khan and was inscribed by UNESCO in 1995 for its blend of traditional Lao temple architecture and French-colonial streetscapes. Visitors walk between Wat Xieng Thong, the former Royal Palace (National Museum), Mount Phousi viewpoints, morning alms routes, and the night market. Day trips commonly include Kuang Si Falls and Mekong boat rides to the Pak Ou caves.",
+        "best_time": "November–February for cooler, drier weather. October–November still green after the rains with fewer peak-season crowds. March–April is hotter and often hazy; May–September brings afternoon rains.",
+        "how_to_get_there": "Fly into Luang Prabang International Airport, or take the Laos–China Railway from Vientiane (about 2 hours) then a short transfer into town. The old-town peninsula is compact and walkable; tuk-tuks and bikes help for farther sights.",
+        "good_to_know": "Dress modestly at temples; remove shoes and cover shoulders and knees. Watch the tak bat (alms-giving) quietly without blocking the monks’ path. The seasonal Nam Khan bamboo bridge typically operates in the dry season only.",
+        "official_or_tourism_url": "https://tourismluangprabang.gov.la/",
+        "sources": [
+          "https://whc.unesco.org/en/list/479/",
+          "https://tourismluangprabang.gov.la/",
+          "https://www.roughguides.com/laos/luang-prabang/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Luang Prabang, Laos",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Luang%20Prabang%2C%20Laos&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Luang%20Prabang%2C%20Laos&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Luang%20Prabang%2C%20Laos&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Luang Prabang"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-043",
+      "tab": "hidden-gems",
+      "name": "Galle Fort",
+      "short_line": "Southern Province, Sri Lanka",
+      "country": "Sri Lanka",
+      "lat": 6.026,
+      "lng": 80.217,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Dutch_Galle_Fort%2C_Sri_Lanka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-043.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ADutch_Galle_Fort%2C_Sri_Lanka.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Icaptures84",
+        "attribution": "Photo: Icaptures84, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Dutch Galle Fort, Sri Lanka.jpg' confirms Galle Fort; desc: Dutch Galle Fort, Sri Lanka"
+      },
+      "facts": {
+        "one_liner": "Dutch-era UNESCO fort town with ramparts, bastions, and a working lighthouse.",
+        "why_go": "The Old Town of Galle and its Fortifications, inscribed by UNESCO in 1988, occupies a rocky promontory on Sri Lanka’s southwest coast. Portuguese foundations from the late 16th century were largely rebuilt by the Dutch after 1640 into the coral-and-granite ramparts, bastions, and street grid still lived in today. Walk the ramparts to Flag Rock and Point Utrecht Bastion, where the British-built Galle Lighthouse (current tower first lit 1939) still serves as a navigational aid; cafés, museums, and residences fill the lanes inside the walls.",
+        "best_time": "December–March for drier southwest-coast weather. Early morning or late afternoon for cooler rampart walks and sunset on the western walls; midday can be hot and busy with day-trippers.",
+        "how_to_get_there": "About 115 km / 2–2.5 hours from Colombo by train, bus, or car along the south coast. From Unawatuna or Hikkaduwa, a short tuk-tuk or bus ride reaches the fort gates. Inside, explore on foot—no ticket is required for the streets and ramparts.",
+        "good_to_know": "The fort is a lived-in neighbourhood, not a roped-off museum. The lighthouse exterior is a photo stop; entry to the light itself is not a public tour. Wear shoes with grip for uneven rampart stones.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/451/",
+        "sources": [
+          "https://whc.unesco.org/en/list/451/",
+          "https://ccf.gov.lk/heritage-sites/galle-fort/",
+          "https://en.wikipedia.org/wiki/Galle_Lighthouse"
+        ]
+      },
+      "ad": {
+        "destination_query": "Galle, Sri Lanka",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Galle%2C%20Sri%20Lanka&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Galle%2C%20Sri%20Lanka&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Galle%2C%20Sri%20Lanka&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Galle Fort"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-044",
+      "tab": "hidden-gems",
+      "name": "Ohrid",
+      "short_line": "Southwestern Region, North Macedonia",
+      "country": "North Macedonia",
+      "lat": 41.1231,
+      "lng": 20.8016,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ohrid_from_Samuel%27s_Fortress_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-044.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AOhrid_from_Samuel%27s_Fortress_2.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "kallerna",
+        "attribution": "Photo: kallerna, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Ohrid from Samuel's Fortress 2.jpg' confirms Ohrid; desc: Ohrid seen from Samuel's Fortress."
+      },
+      "facts": {
+        "one_liner": "Lake-and-old-town UNESCO city of churches on ancient Lake Ohrid.",
+        "why_go": "Ohrid sits on the northeastern shore of Lake Ohrid, part of the Natural and Cultural Heritage of the Ohrid region (UNESCO; nature 1979, culture 1980; later extended to include the Albanian shore). The old town climbs between Samuel’s Fortress and the lakefront with narrow Ottoman-era lanes, St. Sophia, Plaošnik, and the cliffside Church of St. John at Kaneo. The deep tectonic lake is noted for endemic freshwater species; boat trips often continue south toward the Monastery of Saint Naum.",
+        "best_time": "May–June and September for warm lake weather without July–August peak crowds. July–August suit swimming and nightlife but are busiest. Shoulder months are quieter for old-town walking.",
+        "how_to_get_there": "About three hours by bus from Skopje; Ohrid St. Paul the Apostle Airport (OHD) has seasonal flights. No rail link. The old town and Kaneo boardwalk are walkable; taxis and shore buses serve beach villages and St. Naum.",
+        "good_to_know": "Old-town parking is very limited—use edge lots and walk. Wear shoes for hills and cobbles. Kaneo and the lakefront are popular at sunset; mornings are calmer for churches and fortress views.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/99/",
+        "sources": [
+          "https://whc.unesco.org/en/list/99/",
+          "https://macedoniatourism.com/city/ohrid/",
+          "https://www.nationalgeographic.com/travel/article/discover-ohrid-north-macedonia-one-of-europes-oldest-lakeside-towns"
+        ]
+      },
+      "ad": {
+        "destination_query": "Ohrid, North Macedonia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ohrid%2C%20North%20Macedonia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ohrid%2C%20North%20Macedonia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ohrid%2C%20North%20Macedonia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Ohrid"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-045",
+      "tab": "hidden-gems",
+      "name": "Ronda",
+      "short_line": "Andalusia, Spain",
+      "country": "Spain",
+      "lat": 36.742,
+      "lng": -5.167,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/View_of_Puente_Nuevo_bridge_in_Ronda_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-045.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AView_of_Puente_Nuevo_bridge_in_Ronda_Spain.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Wolfgang Moroder",
+        "attribution": "Photo: Wolfgang Moroder, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:View of Puente Nuevo bridge in Ronda Spain.jpg' confirms Ronda; desc: View of the \"Ponte Nuevo\" bridge in Ronda"
+      },
+      "facts": {
+        "one_liner": "Andalusian town split by El Tajo gorge and spanned by Puente Nuevo.",
+        "why_go": "Ronda (Málaga province) straddles El Tajo, a limestone gorge more than 100 metres deep cut by the Guadalevín River. The 18th-century Puente Nuevo links the older La Ciudad quarter south of the gorge with the later Mercadillo side; Spain’s tourism board notes the bridge’s foundations reach about 98 metres in height. Beyond the viewpoint, the historic quarter holds Arab baths, Santa María la Mayor, and one of Spain’s oldest bullrings, with Mirador and Alameda walks overlooking the Serranía de Ronda.",
+        "best_time": "Spring and autumn for milder temperatures and clearer views. Summer is hot and busy with day-trippers from the Costa del Sol; winter is quieter and cooler.",
+        "how_to_get_there": "Train on the scenic Algeciras–Bobadilla line via Ronda (services from Málaga and other Andalusian cities—check Renfe). Buses and car links from Málaga and Seville. The bridge and old town are best explored on foot.",
+        "good_to_know": "Best gorge photos are often from Jardines de Cuenca, lower paths, or the Camino del Desfiladero del Tajo walkway (ticketed; check desfiladerodeltajo.info for current access). Pair a short overnight with white-village drives if time allows.",
+        "official_or_tourism_url": "https://www.spain.info/en/destination/ronda/",
+        "sources": [
+          "https://www.spain.info/en/destination/ronda/",
+          "https://www.andalucia.com/ronda/home.htm",
+          "https://ayuntamientoronda.es/el-ayuntamiento-de-ronda-completa-y-apertura-el-camino-del-desfiladero-del-tajo/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Ronda, Spain",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ronda%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ronda%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ronda%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Ronda"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-046",
+      "tab": "hidden-gems",
+      "name": "Dürnstein",
+      "short_line": "Lower Austria, Austria",
+      "country": "Austria",
+      "lat": 48.3956,
+      "lng": 15.5203,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/D%C3%BCrnstein_Panorama_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-046.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AD%C3%BCrnstein_Panorama_02.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Uoaei1",
+        "attribution": "Photo: Uoaei1, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Dürnstein Panorama 02.jpg' confirms Dürnstein; desc: Dürnstein in the Wachau, Lower Austria"
+      },
+      "facts": {
+        "one_liner": "Wachau Danube village of blue abbey tower and hilltop castle ruins.",
+        "why_go": "Dürnstein is a compact riverside village in Austria’s Wachau Cultural Landscape (UNESCO) between Melk and Krems. The blue-and-white tower of Stift Dürnstein (Dürnstein Abbey) anchors the Baroque riverside silhouette, while the ruined Burg Dürnstein sits on the ridge above—linked in tradition to the captivity of Richard the Lionheart. Vineyards, Heurigen wine taverns, and Danube paths make it a classic Wachau stop for wine, apricot products, and short hikes.",
+        "best_time": "April–October for boats, Wachaubahn seasonal trains, and terrace weather. Harvest season (early autumn) suits wine tastings; winter is quiet with limited boat schedules.",
+        "how_to_get_there": "From Vienna via Krems (A22/S5 or A1/S33), then about 7 km on the B3; from Melk about 30 km on the B3. VOR buses run roughly hourly from Krems or Melk. Danube boats and the seasonal Wachau railway also stop nearby—confirm current timetables.",
+        "good_to_know": "The historic centre is a no-parking zone; use paid lots outside and walk in (guests often receive a free ticket from accommodation). The castle ruin trail is steep and rocky—wear proper shoes.",
+        "official_or_tourism_url": "https://www.duernstein.at/en/getting-there",
+        "sources": [
+          "https://www.duernstein.at/en/getting-there",
+          "https://whc.unesco.org/en/list/970/",
+          "https://www.stift-duernstein.at/en/visit/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Dürnstein, Austria",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=D%C3%BCrnstein%2C%20Austria&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=D%C3%BCrnstein%2C%20Austria&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=D%C3%BCrnstein%2C%20Austria&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Dürnstein"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-047",
+      "tab": "hidden-gems",
+      "name": "Hydra",
+      "short_line": "Attica, Greece",
+      "country": "Greece",
+      "lat": 37.3494,
+      "lng": 23.465,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Hydra_Harbour_2013.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-047.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AHydra_Harbour_2013.JPG",
+        "license": "CC BY-SA 3.0",
+        "author": "Matti Blume (MB-one)",
+        "attribution": "Photo: Matti Blume (MB-one), CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Hydra Harbour 2013.JPG' confirms Hydra; desc: This file was uploaded with Commonist. Hydra Harbour"
+      },
+      "facts": {
+        "one_liner": "Car-free Saronic harbour island reached only by boat.",
+        "why_go": "Hydra (Ýdra) in the Saronic Gulf is built amphitheatrically around a stone harbour of merchant mansions that recall its 18th-century shipping wealth and role in the Greek Revolution of 1821. Visit Greece notes that private cars and motorcycles are prohibited; people move on foot, by donkey, or by water taxi along the coast. The car-free lanes, galleries, and swimming coves have long drawn artists and day-trippers seeking a quieter Aegean pace near Athens.",
+        "best_time": "May–June and September–October for swimming weather without midsummer ferry crowds. July–August are busiest; winter is quieter with fewer sailings.",
+        "how_to_get_there": "Passenger ferries and Flying Dolphins from Piraeus (about 1.5–2 hours depending on vessel). Or drive to Metochi on the Argolid coast, park, and cross by Freedom / Metochi Express boats (about 12 minutes) or water taxi. No private cars or motorcycles on the island.",
+        "good_to_know": "Pack light—luggage often moves by porter or mule from the quay. Wear shoes for steep stone lanes. Authorized service vehicles exist, but visitors should plan on walking everywhere around the port.",
+        "official_or_tourism_url": "https://www.visitgreece.gr/en/islands/saronic-islands/hydra",
+        "sources": [
+          "https://www.visitgreece.gr/en/islands/saronic-islands/hydra",
+          "https://www.hydra.gr/mobile/en_fromAthens.html",
+          "https://www.hydra.gr/mobile/en_come.html"
+        ]
+      },
+      "ad": {
+        "destination_query": "Hydra, Greece",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Hydra%2C%20Greece&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Hydra%2C%20Greece&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Hydra%2C%20Greece&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Hydra"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-048",
+      "tab": "hidden-gems",
+      "name": "Trinidad",
+      "short_line": "Sancti Spíritus, Cuba",
+      "country": "Cuba",
+      "lat": 21.8044,
+      "lng": -79.9847,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Plaza_Mayor%2C_Trinidad%2C_Cuba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-048.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APlaza_Mayor%2C_Trinidad%2C_Cuba.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Marc-Lautenbacher",
+        "attribution": "Photo: Marc-Lautenbacher, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Plaza Mayor, Trinidad, Cuba.jpg' confirms Trinidad; desc: The main square (Plaza Mayor) of Trinidad in Cuba is lined with colourful historic buildings constructed during the region’s prominence as a sugar-producing cen"
+      },
+      "facts": {
+        "one_liner": "Cuban colonial UNESCO town centred on Plaza Mayor and sugar-valley heritage.",
+        "why_go": "Trinidad in Sancti Spíritus Province (not Trinidad and Tobago) was founded in the early 16th century and inscribed with the Valley de los Ingenios by UNESCO in 1988. Plaza Mayor anchors the cobbled historic centre, with pastel houses, the Palacio Brunet (Romantic Museum), and the neoclassical Palacio Cantero (municipal history museum). Nearby, the Valle de los Ingenios preserves plantation and mill landscapes from the 18th–19th-century sugar boom.",
+        "best_time": "November–April for the drier season and more reliable travel. Summer is hotter and wetter; September–October carry higher tropical-storm risk. Mornings are cooler for Plaza Mayor and museum visits.",
+        "how_to_get_there": "Overland from Havana (roughly 5–7 hours by Viazul coach, colectivo, or private transfer, often via Cienfuegos). From the south coast, Playa Ancón is a short taxi ride for beach time. The historic centre is compact and best on foot.",
+        "good_to_know": "This is Trinidad, Cuba—confirm Sancti Spíritus / Cuban itineraries when booking. Cobblestones are uneven; cash and connectivity planning help outside major hotels. Combine Plaza Mayor with a Valle de los Ingenios stop (e.g. Manaca-Iznaga) if time allows.",
+        "official_or_tourism_url": "https://www.cubatravel.cu/en/destinations/trinidad/history-of-trinidad",
+        "sources": [
+          "https://whc.unesco.org/en/list/460/",
+          "https://www.cubatravel.cu/en/destinations/trinidad/history-of-trinidad",
+          "https://en.wikivoyage.org/wiki/Trinidad_(Cuba)"
+        ]
+      },
+      "ad": {
+        "destination_query": "Trinidad, Cuba",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Trinidad%2C%20Cuba&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Trinidad%2C%20Cuba&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Trinidad%2C%20Cuba&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Trinidad"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-049",
+      "tab": "hidden-gems",
+      "name": "San Miguel de Allende",
+      "short_line": "Guanajuato, Mexico",
+      "country": "Mexico",
+      "lat": 20.9144,
+      "lng": -100.745,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/ParroquiaSanMiguelFacade2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-049.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AParroquiaSanMiguelFacade2019.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Carlos Valenzuela",
+        "attribution": "Photo: Carlos Valenzuela, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:ParroquiaSanMiguelFacade2019.jpg' confirms San Miguel de Allende; desc: This is a photo of a monument in Mexico, identified by ID"
+      },
+      "facts": {
+        "one_liner": "Guanajuato centro of pink neo-Gothic Parroquia and Mexican Baroque mansions.",
+        "why_go": "San Miguel de Allende’s protective historic centre, inscribed with the Sanctuary of Jesús Nazareno de Atotonilco (14 km away) by UNESCO in 2008, grew from a 16th-century outpost on inland trade routes to an 18th-century Baroque town. The pink neo-Gothic façade of La Parroquia de San Miguel Arcángel dominates El Jardín Principal, surrounded by cobbled streets, rooftop views, and civic mansions. Atotonilco’s mural-filled sanctuary is a common half-day pairing with the centro.",
+        "best_time": "October–April for mild, mostly dry weather. December holidays, Semana Santa, and major festivals are busiest. June–September bring afternoon rains but greener hillsides.",
+        "how_to_get_there": "About 3.5–4.5 hours by road from Mexico City (bus from Terminal Norte via ETN/Primera Plus, shuttle, or car). Querétaro and León/Bajío airports are nearer alternatives with ground transfers. The centro is hilly and walkable; taxis help with luggage and Atotonilco.",
+        "good_to_know": "Cobblestones and steep lanes favour sturdy shoes. Dress modestly if entering the Parroquia during services; photography rules may vary. Book ahead for festival weekends when the Jardín fills early.",
+        "official_or_tourism_url": "https://www.visitsanmiguel.travel/en",
+        "sources": [
+          "https://whc.unesco.org/en/list/1274/",
+          "https://www.visitsanmiguel.travel/en",
+          "https://en.wikivoyage.org/wiki/San_Miguel_de_Allende"
+        ]
+      },
+      "ad": {
+        "destination_query": "San Miguel de Allende, Mexico",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=San%20Miguel%20de%20Allende%2C%20Mexico&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=San%20Miguel%20de%20Allende%2C%20Mexico&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=San%20Miguel%20de%20Allende%2C%20Mexico&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in San Miguel de Allende"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-050",
+      "tab": "hidden-gems",
+      "name": "Telč",
+      "short_line": "Vysočina Region, Czechia",
+      "country": "Czechia",
+      "lat": 49.1842,
+      "lng": 15.4528,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/N%C3%A1m%C4%9Bst%C3%AD_Zachari%C3%A1%C5%A1e_z_Hradce%2C_Tel%C4%8D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-050.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AN%C3%A1m%C4%9Bst%C3%AD_Zachari%C3%A1%C5%A1e_z_Hradce%2C_Tel%C4%8D.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "xkomczax",
+        "attribution": "Photo: xkomczax, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Náměstí Zachariáše z Hradce, Telč.jpg' confirms Telč; desc: This is a photo of a cultural monument of the Czech Republic,number:"
+      },
+      "facts": {
+        "one_liner": "Moravian UNESCO square of arcaded Renaissance houses and chateau.",
+        "why_go": "Telč’s Historic Centre, inscribed by UNESCO in 1992, is built around the triangular Náměstí Zachariáše z Hradce, lined with Renaissance and Baroque burgher houses under a continuous arcade, a fountain, and a plague column. The adjoining Telč Chateau (zámek) preserves Italianate Renaissance interiors from the era of Zachariáš of Hradec. Fishponds and remnant walls that once defended the planned medieval town frame the compact centre.",
+        "best_time": "May–September for open chateau seasons and square cafés. Shoulder months are quieter; December markets add atmosphere but shorter daylight. Check chateau opening hours—they vary by season and may close Mondays.",
+        "how_to_get_there": "Train or bus via Jihlava or other Vysočina hubs from Prague or Brno (allow roughly 2–3 hours depending on connection). The centre is small and entirely walkable from the station area.",
+        "good_to_know": "Start at the tourist information centre on the square (náměstí Zachariáše z Hradce 10) for maps and current sight hours. Combine with a chateau tour; facades are best photographed in soft morning or late-afternoon light.",
+        "official_or_tourism_url": "https://www.visitczechia.com/en-us/things-to-do/places/landmarks/unesco/c-telc-unesco",
+        "sources": [
+          "https://whc.unesco.org/en/list/621/",
+          "https://www.visitczechia.com/en-us/things-to-do/places/landmarks/unesco/c-telc-unesco",
+          "https://www.telc.eu/services/tourist_information_centre"
+        ]
+      },
+      "ad": {
+        "destination_query": "Telč, Czechia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Tel%C4%8D%2C%20Czechia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Tel%C4%8D%2C%20Czechia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Tel%C4%8D%2C%20Czechia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Telč"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-051",
+      "tab": "hidden-gems",
+      "name": "Gruyères",
+      "short_line": "Canton of Fribourg, Switzerland",
+      "country": "Switzerland",
+      "lat": 46.5244,
+      "lng": 7.0831,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Gruy%C3%A8res_et_sa_cit%C3%A9_m%C3%A9di%C3%A9vale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-051.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AGruy%C3%A8res_et_sa_cit%C3%A9_m%C3%A9di%C3%A9vale.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Christian David",
+        "attribution": "Photo: Christian David, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Gruyères et sa cité médiévale.jpg' confirms Gruyères; desc: The municipal area of Gruyères and its medieval town."
+      },
+      "facts": {
+        "one_liner": "Car-free Fribourg hill town of a 13th-century castle and Gruyère AOP cheese country.",
+        "why_go": "Gruyères sits in the Fribourg Pre-Alps as a preserved medieval hill town with a pedestrian historic centre. The Château de Gruyères, open year-round, presents castle rooms, ramparts, and a garden (seasonal) with views toward the Moléson. At the foot of the hill, La Maison du Gruyère show dairy lets visitors watch Gruyère AOP production and taste the cheese; Switzerland Tourism and La Gruyère Tourisme also flag fondue restaurants and nearby museums such as the HR Giger Museum and Tibet Museum along the main street.",
+        "best_time": "April–October for longer castle hours and open gardens; shoulder months are quieter than midsummer day-trip peaks. Winter is open but shorter daylight.",
+        "how_to_get_there": "Train to Bulle, then local train or bus to Gruyères (SBB timetables). From Gruyères station allow about 20 minutes’ walk uphill to the castle, or bus to Gruyères-Ville at the town entrance (5–10 minutes on foot). By car, park in paid lots P1–P3 outside the pedestrian zone—the town itself is closed to through traffic.",
+        "good_to_know": "Combine castle and Maison du Gruyère on the same day if time is short. Wear shoes for cobbles; strollers are restricted inside castle rooms. Picnics are not allowed on castle grounds—use the nearby Clos-aux-Cerfs picnic area.",
+        "official_or_tourism_url": "https://fribourg.ch/en/la-gruyere/gruyeres/",
+        "sources": [
+          "https://www.chateau-gruyeres.ch/en/information/",
+          "https://fribourg.ch/en/la-gruyere/gruyeres/",
+          "https://www.myswitzerland.com/en-gb/destinations/gruyeres-gruyeres/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Gruyères, Switzerland",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Gruy%C3%A8res%2C%20Switzerland&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Gruy%C3%A8res%2C%20Switzerland&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Gruy%C3%A8res%2C%20Switzerland&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Gruyères"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-052",
+      "tab": "hidden-gems",
+      "name": "Bibury",
+      "short_line": "Gloucestershire, England",
+      "country": "United Kingdom",
+      "lat": 51.7586,
+      "lng": -1.8322,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Arlington_Row_Bibury.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-052.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AArlington_Row_Bibury.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Saffron Blaze",
+        "attribution": "Photo: Saffron Blaze, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Arlington Row Bibury.jpg' confirms Bibury; desc: Arlington Row in Bibury, Gloucestershire was built in 1380 as a monastic wool store. The buildings were converted into weavers' cottages in the 17th century."
+      },
+      "facts": {
+        "one_liner": "Cotswolds village on the River Coln known for National Trust Arlington Row.",
+        "why_go": "Bibury lies on the River Coln in Gloucestershire, a classic Cotswold stone village. Arlington Row—owned by the National Trust—is a terrace of former weavers’ cottages believed to have begun as a monastic wool store around 1380 and converted in the 17th century; the cottages remain private homes (except holiday lets at Nos. 1 and 9) with no public interior access. Beside the row, Rack Isle is a boggy water meadow once used to dry washed wool on racks, now valued for wetland plants and wildlife along public footpaths.",
+        "best_time": "Weekday mornings outside July–August school holidays for thinner crowds and easier parking. Autumn through early spring is quieter than sunny summer weekends.",
+        "how_to_get_there": "On the B4425 between Cirencester and Burford. Nearest mainline station is Kemble (~14 miles / 22 km), then taxi or bus via Cirencester. Limited free roadside parking on The Street / by the Coln and near the Trout Farm; arrive early in peak season. Do not drive up Arlington Row—access is restricted to residents.",
+        "good_to_know": "View Arlington Row from public paths only and respect residents’ privacy. Dogs on leads are allowed on countryside paths. National Trust notes a level tarmac route in front of the cottages; the mill-stream bridge and path can be narrow.",
+        "official_or_tourism_url": "https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/bibury",
+        "sources": [
+          "https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/bibury",
+          "https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/bibury/things-to-do-in-bibury",
+          "https://www.bibury.com/how-to-get-to-bibury/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Bibury, United Kingdom",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bibury%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bibury%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bibury%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Bibury"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-053",
+      "tab": "hidden-gems",
+      "name": "Kutná Hora",
+      "short_line": "Central Bohemian Region, Czechia",
+      "country": "Czechia",
+      "lat": 49.9484,
+      "lng": 15.2682,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Kutna_Hora_2021_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-053.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AKutna_Hora_2021_35.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Scotch Mist",
+        "attribution": "Photo: Scotch Mist, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Kutna Hora 2021 35.jpg' confirms Kutná Hora; desc: Kutná Hora is a town in the Central Bohemian Region of the Czech Republic. The district of Sedlec is the location of the Gothic Church of the Assumption of Our "
+      },
+      "facts": {
+        "one_liner": "UNESCO silver-mining town of St Barbara’s Church and Sedlec’s cathedral and ossuary.",
+        "why_go": "Kutná Hora grew from late-13th-century silver mining and became a royal Bohemian city whose historic centre, Church of St Barbara, and Cathedral of Our Lady at Sedlec were inscribed by UNESCO in 1995. The late Gothic St Barbara’s Church and the Sedlec cathedral (Baroque–Gothic restoration associated with Jan Blažej Santini) anchor a well-preserved medieval urban fabric about 60 km east of Prague. In Sedlec, roughly 1.5 km from the historic centre, the Cemetery Church of All Saints with its ossuary (bone church) is a major visitor stop; timed tickets are sold online or at the Sedlec Information Centre.",
+        "best_time": "April–September for longer monument hours; spring and autumn usually mean milder weather than peak summer day trips from Prague. Winter hours are shorter.",
+        "how_to_get_there": "Direct or connecting trains from Praha hlavní nádraží to Kutná Hora hl.n. (about one hour). Sedlec Ossuary is a short walk or local hop from the main station area; continue by local bus, taxi, or onward local train/walk into the historic centre and St Barbara’s. Driving is straightforward from the D1 corridor—use signed parking near Sedlec streets or town lots.",
+        "good_to_know": "Reserve Sedlec ossuary entry for a specific time; capacity is limited and late arrival may forfeit entry. Photography is prohibited inside the ossuary. Pair Sedlec with St Barbara’s and the Italian Court (Vlašský dvůr) if doing a full day.",
+        "official_or_tourism_url": "https://www.sedlec.info/en/",
+        "sources": [
+          "https://whc.unesco.org/en/list/732/",
+          "https://www.sedlec.info/en/ossuary/before-visiting/",
+          "https://www.sedlec.info/en/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Kutná Hora, Czechia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kutn%C3%A1%20Hora%2C%20Czechia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kutn%C3%A1%20Hora%2C%20Czechia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kutn%C3%A1%20Hora%2C%20Czechia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Kutná Hora"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-054",
+      "tab": "hidden-gems",
+      "name": "Annecy",
+      "short_line": "Auvergne-Rhône-Alpes, France",
+      "country": "France",
+      "lat": 45.8992,
+      "lng": 6.1294,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Old_town_Annecy_-_France_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-054.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AOld_town_Annecy_-_France_2.jpg",
+        "license": "CC BY 4.0",
+        "author": "karlheinz klingbeil",
+        "attribution": "Photo: karlheinz klingbeil, CC BY 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Old town Annecy - France 2.jpg' confirms Annecy; desc: Old town Annecy - France"
+      },
+      "facts": {
+        "one_liner": "Haute-Savoie lake city of canals, Vieille Ville, and turquoise Lac d’Annecy.",
+        "why_go": "Annecy sits between the French Alps and Lac d’Annecy, with a medieval Vieille Ville of canals, bridges, and pastel façades nicknamed the Venice of the Alps by the Lake Annecy Tourist Office. Landmarks include the island Palais de l’Île, the lakeside Jardins de l’Europe and Pâquier, and the Château d’Annecy above the old town. Travellers come for lakeside walks and the Voie Verte cycle path around much of the lake, seasonal boat cruises, swimming beaches, and mountain day trips in Haute-Savoie.",
+        "best_time": "May–June and September for milder crowds and lake activity; July–August for swimming and peak events but busiest quays. Winter is quieter with a different lakeside mood.",
+        "how_to_get_there": "TGV and regional trains to Annecy station (short walk to the old town). Geneva Airport is roughly 40–45 minutes by road/bus across the border. From Lyon allow about 1.5–2 hours by train or motorway. Once there, walk or cycle the centre and lakeshore; parking in the old town is tight in summer.",
+        "good_to_know": "The Tourist Office covers the wider lake destination (beaches, nature reserves, cruises). Early mornings are best for canal photos before day-trippers arrive. Confirm seasonal boat and beach services before planning a full lake circuit.",
+        "official_or_tourism_url": "https://en.lac-annecy.com/",
+        "sources": [
+          "https://en.lac-annecy.com/",
+          "https://en.lac-annecy.com/must-sees/lake-annecy/activities-at-lake-annecy/",
+          "https://www.lac-annecy.com/immanquables/lac-annecy/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Annecy, France",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Annecy%2C%20France&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Annecy%2C%20France&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Annecy%2C%20France&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Annecy"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-055",
+      "tab": "hidden-gems",
+      "name": "Positano",
+      "short_line": "Campania, Italy",
+      "country": "Italy",
+      "lat": 40.628,
+      "lng": 14.485,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Positano_%28Italy%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-055.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APositano_%28Italy%29_04.jpg",
+        "license": "CC BY 4.0",
+        "author": "Bernard Gagnon",
+        "attribution": "Photo: Bernard Gagnon, CC BY 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Positano (Italy) 04.jpg' confirms Positano; desc: View of Positano on Amalfi Coast, Italy"
+      },
+      "facts": {
+        "one_liner": "Amalfi Coast cliff town of stacked pastel houses above Spiaggia Grande.",
+        "why_go": "Positano is a vertical cliff settlement on Campania’s Amalfi Coast (Costiera Amalfitana), inscribed by UNESCO in 1997 as a cultural landscape of terraced hillsides and historic coastal towns. Houses and hotels cascade down to Spiaggia Grande and Fornillo beaches, with stepped lanes, boutiques, and viewpoint terraces above the SS163 coastal road. It is typically the first major Amalfi Coast town reached when travelling east from Sorrento, and pairs easily with Amalfi, Ravello, and Capri by bus or seasonal ferry.",
+        "best_time": "April–June and September–October for ferry season and milder heat; July–August are busiest on buses and beaches. Winter is quieter but many ferry links pause.",
+        "how_to_get_there": "No station in Positano. Fly into Naples Capodichino, reach Sorrento (Curreri bus or Circumvesuviana via Napoli Centrale), then SITA Sud bus along the coast (~45 minutes). Seasonal ferries link Positano with Salerno, Sorrento, Amalfi, and Capri (roughly April–October). Driving the SS163 is scenic but slow and congested in peak summer.",
+        "good_to_know": "Expect many stairs from the pier to upper hotels—luggage porters operate at the beach pier. Buy SITA tickets before boarding; summer buses can be full. Modest footwear for polished steps; check municipal ZTL rules if driving.",
+        "official_or_tourism_url": "https://www.positano.com/en/e/how-to-get-here",
+        "sources": [
+          "https://whc.unesco.org/en/list/830/",
+          "https://www.positano.com/en/e/how-to-get-here",
+          "https://comune.positano.sa.it/argomenti/trasporto-pubblico"
+        ]
+      },
+      "ad": {
+        "destination_query": "Positano, Italy",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Positano%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Positano%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Positano%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Positano"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-056",
+      "tab": "hidden-gems",
+      "name": "Moulay Idriss Zerhoun",
+      "short_line": "Fès-Meknès, Morocco",
+      "country": "Morocco",
+      "lat": 34.0544,
+      "lng": -5.5222,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Moulay_Idriss_Zerhoun_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-056.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMoulay_Idriss_Zerhoun_1.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "ZAINEB HACHAMI",
+        "attribution": "Photo: ZAINEB HACHAMI, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Moulay Idriss Zerhoun 1.jpg' confirms Moulay Idriss Zerhoun; desc: Site du patrimoine culturel marocain"
+      },
+      "facts": {
+        "one_liner": "Hillside pilgrimage town at Mount Zerhoun near Roman Volubilis.",
+        "why_go": "Moulay Idriss Zerhoun spreads over two foothills of Mount Zerhoun and centres on the zawiya and mausoleum of Idris I, founder of the Idrisid dynasty and a major Moroccan pilgrimage figure. An August moussem draws pilgrims from across the country; the town is often described as Morocco’s leading holy city associated with Idris I. Non-Muslim visitors may walk the lanes, viewpoints, and main square and stay overnight (overnight stays for non-Muslims have been allowed since 2005), but the mausoleum and mosque prayer areas remain closed to non-Muslims. The Roman ruins of Volubilis lie a few kilometres away and are commonly combined on the same outing from Meknes.",
+        "best_time": "Spring and autumn for cooler hillside walking; summer mornings to avoid heat. Expect larger crowds and limited lodging during the August pilgrimage festival.",
+        "how_to_get_there": "About 25–30 km from Meknes by road; grands taxis and organised day trips from Meknes are the usual public option (no direct mainline train into town). Combine with Volubilis on the same circuit. Fez is farther but feasible as a longer day trip or with a driver.",
+        "good_to_know": "Dress modestly and ask before photographing people, especially near religious sites. Do not enter the mausoleum if you are not Muslim—view from the permitted threshold only. Steep lanes favour good walking shoes; donkeys remain everyday local transport. Distinct from Chefchaouen, Essaouira, or Aït Benhaddou.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/tentativelists/4501/",
+        "sources": [
+          "https://www.bbc.com/travel/article/20250620-a-technicolour-visit-to-moroccos-holiest-town",
+          "https://en.wikipedia.org/wiki/Moulay_Idriss_Zerhoun",
+          "https://whc.unesco.org/en/tentativelists/4501/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Moulay Idriss, Morocco",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Moulay%20Idriss%2C%20Morocco&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Moulay%20Idriss%2C%20Morocco&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Moulay%20Idriss%2C%20Morocco&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Moulay Idriss Zerhoun"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-057",
+      "tab": "hidden-gems",
+      "name": "Ushguli",
+      "short_line": "Samegrelo-Zemo Svaneti, Georgia",
+      "country": "Georgia",
+      "lat": 42.9178,
+      "lng": 43.0136,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ushguli_Svaneti_Georgia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-057.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AUshguli_Svaneti_Georgia.JPG",
+        "license": "CC BY-SA 3.0",
+        "author": "Florian Pinel",
+        "attribution": "Photo: Florian Pinel, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Ushguli Svaneti Georgia.JPG' confirms Ushguli; desc: Ushguli community, Svaneti, Georgia"
+      },
+      "facts": {
+        "one_liner": "High Svaneti village cluster of medieval towers under Mount Shkhara (UNESCO).",
+        "why_go": "Ushguli is a community of highland Svan villages in Upper Svaneti, Georgia, known for dense stone defensive towers (koshki) and churches in the Enguri valley below Mount Shkhara (5,193 m). Upper Svaneti was inscribed on the UNESCO World Heritage List in 1996; the listing highlights the exceptional medieval mountain settlements, with Chazhashi among the core tower villages visitors explore. Travellers come for tower lanes, Lamaria Church, valley viewpoints, and day walks toward Shkhara Glacier when weather allows.",
+        "best_time": "July–September for the most reliable road and guesthouse access; early autumn can be quieter. Shoulder months may be muddy; deep winter access depends on snow and official road notices.",
+        "how_to_get_there": "Usually via Mestia: shared 4x4/jeep day trips or private drivers (about 1.5 hours each way on the improved road in good conditions). Marshrutkas and shared vans gather in Mestia in the morning. A newer high-mountain route via Lentekhi/Zagari Pass toward Kutaisi exists in warmer months but is seasonal—confirm current status. Check Georgia Roads Department (georoad.ge) notices before travel; avalanche/snow can close Kala–Ushguli sections.",
+        "good_to_know": "Still visitable in summer with guesthouses open, but services thin outside peak season and many close in winter. Bring cash (no ATMs in Ushguli). Overnighting beats a rushed day trip for sunrise/sunset light. Dress modestly at churches; weather turns quickly at ~2,100 m.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/709/",
+        "sources": [
+          "https://whc.unesco.org/en/list/709/",
+          "https://wander-lush.org/visit-ushguli-georgia-travel-guide/",
+          "https://www.georoad.ge/?act=news&func=menu&lang=eng&page=1473&pid=1388404621"
+        ]
+      },
+      "ad": {
+        "destination_query": "Ushguli, Georgia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ushguli%2C%20Georgia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ushguli%2C%20Georgia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ushguli%2C%20Georgia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Ushguli"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-058",
+      "tab": "hidden-gems",
+      "name": "Sa Pa",
+      "short_line": "Lào Cai Province, Vietnam",
+      "country": "Vietnam",
+      "lat": 22.3402,
+      "lng": 103.844,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Sa_Pa_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-058.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASa_Pa_Town.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Christophe95",
+        "attribution": "Photo: Christophe95, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Sa Pa Town.jpg' confirms Sa Pa; desc: The town of Sa Pa."
+      },
+      "facts": {
+        "one_liner": "Lào Cai mountain town above Muong Hoa Valley rice terraces and Fansipan.",
+        "why_go": "Sa Pa (Sapa) stands at the head of a deep valley of farmed rice terraces in Lào Cai Province, northern Vietnam, with Mount Fansipan on the skyline. Vietnam Tourism highlights terrace treks to villages such as Cat Cat and Ta Phin, ethnic-minority markets (including Bac Ha on Sundays farther afield), and mountain lodges or homestays among the fields. A cable car climbs toward Fansipan’s summit area (~3,143 m), offering a faster alternative to multi-day climbs for many visitors.",
+        "best_time": "September–October for golden harvest terraces; April–May for clearer skies per Vietnam Tourism. June–August is warmer and wetter; November–March can be chilly and foggy.",
+        "how_to_get_there": "Overnight train from Hanoi to Lào Cai, then transfer van/bus up to Sa Pa (~1 hour). Direct buses and shuttle vans from Hanoi take about five to six hours into the town centre. In Sa Pa, walk, taxi, or rent bikes for valley roads; many terrace trails start a short ride from town.",
+        "good_to_know": "Paths are steep and can be slippery in rain—use proper footwear. Hire licensed local guides for overnight village treks. Weather changes fast at altitude; pack layers even in summer.",
+        "official_or_tourism_url": "https://www.vietnam.travel/places-to-go/northern-vietnam/sapa",
+        "sources": [
+          "https://www.vietnam.travel/places-to-go/northern-vietnam/sapa",
+          "https://www.vietnamairlines.com/mo/en/plan-book/travel/travel-guide/muong-hoa-valley",
+          "https://www.thevietnamguides.com/city/sapa/rice-terraces/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Sa Pa, Vietnam",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sa%20Pa%2C%20Vietnam&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sa%20Pa%2C%20Vietnam&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sa%20Pa%2C%20Vietnam&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Sa Pa"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-059",
+      "tab": "hidden-gems",
+      "name": "Bariloche",
+      "short_line": "Río Negro, Argentina",
+      "country": "Argentina",
+      "lat": -41.1335,
+      "lng": -71.3103,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bariloche_Centro_Civico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-059.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABariloche_Centro_Civico.jpg",
+        "license": "CC BY 2.0",
+        "author": "Phil Whitehouse",
+        "attribution": "Photo: Phil Whitehouse, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Bariloche Centro Civico.jpg' confirms Bariloche; desc: Town Hall in the ski resort of Bariloche, in the Argentinian Andes."
+      },
+      "facts": {
+        "one_liner": "Andean lakes gateway town on Nahuel Huapi in Argentine Patagonia.",
+        "why_go": "San Carlos de Bariloche sits on the southern shore of Lago Nahuel Huapi in Río Negro and is the principal gateway to Nahuel Huapi National Park. Visitors use the town for lake excursions (including departures around Puerto Pañuelo), scenic circuits such as Circuito Chico, trekking and ski areas in the surrounding Andes, and chocolate-shop downtown streets with alpine-influenced architecture. Official municipal tourism and Administración de Parques Nacionales pages treat Bariloche as the hub for park information, boat tours, and access toward Villa La Angostura and the Chilean lake crossings.",
+        "best_time": "Austral summer (Dec–Mar) for hiking and lake boats; winter for skiing. Shoulder spring/autumn are quieter but weather is changeable.",
+        "how_to_get_there": "Fly into San Carlos de Bariloche Airport (BRC) on domestic routes (and some seasonal Chile links). Long-distance buses connect from Buenos Aires and other Argentine cities (~1,640 km by road via RN routes ending on RN 40). The weekly Tren Patagónico links Viedma with Bariloche. From town, local buses, tours, and boats reach park trailheads and lake piers.",
+        "good_to_know": "Register for certain park hikes as required by APN and check road conditions in winter (chains may be needed). Lake weather shifts quickly—carry layers. Puerto Pañuelo is a common jump-off for Isla Victoria / Arrayanes and Blest-area boat trips.",
+        "official_or_tourism_url": "https://barilocheturismo.gob.ar/en/how-to-get-there",
+        "sources": [
+          "https://barilocheturismo.gob.ar/en/how-to-get-there",
+          "https://www.argentina.gob.ar/parquesnacionales/regionpatagonia/parque-nacional-nahuel-huapi",
+          "https://barilocheturismo.gob.ar/en/lake-tours"
+        ]
+      },
+      "ad": {
+        "destination_query": "Bariloche, Argentina",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bariloche%2C%20Argentina&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bariloche%2C%20Argentina&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bariloche%2C%20Argentina&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Bariloche"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-060",
+      "tab": "hidden-gems",
+      "name": "Bryggen, Bergen",
+      "short_line": "Vestland, Norway",
+      "country": "Norway",
+      "lat": 60.3976,
+      "lng": 5.3244,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bryggen%2C_Bergen%2C_Noruega%2C_2019-09-08%2C_DD_115-117_PAN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-060.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABryggen%2C_Bergen%2C_Noruega%2C_2019-09-08%2C_DD_115-117_PAN.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Diego Delso",
+        "attribution": "Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Bryggen, Bergen, Noruega, 2019-09-08, DD 115-117 PAN.jpg' confirms Bryggen, Bergen; desc: Bryggen, Bergen, Norway"
+      },
+      "facts": {
+        "one_liner": "UNESCO Hanseatic wooden wharf district on Bergen’s historic harbour.",
+        "why_go": "Bryggen is the old Hanseatic wharf of Bergen, inscribed by UNESCO in 1979 as a rare surviving northern European wooden trading quarter. From 1350 the German Hanseatic League ran an overseas Kontor here controlling stockfish trade; today’s gabled timber rows largely reflect rebuilding after the 1702 fire on medieval property lines, with about 62 buildings remaining. Narrow passages behind the harbour façades hold workshops, galleries, and the Hanseatic Museum and Schøtstuene, which interpret merchant life—distinct from a generic Bergen city visit.",
+        "best_time": "May–September for longer museum hours and outdoor walking; Visit Norway asks summer visitors to prefer off-peak hours to ease pressure on the fragile wooden fabric. Winter is quieter and wetter.",
+        "how_to_get_there": "Bryggen sits on Bergen’s Vågen harbour, walkable from Bergen railway station and the Fish Market. Fly into Bergen Airport (Flesland) then light rail/bus into the centre. Cruise and coastal ships dock nearby—follow signed walking routes to the wharf frontage.",
+        "good_to_know": "Exterior lanes are free to explore; museum tickets cover interior interpretation. Cobbles and wooden passages are only partly wheelchair-accessible; many shops have steps. No toilets on Bryggen itself. Treat it as a living heritage site—keep passages clear and avoid crowding doorways.",
+        "official_or_tourism_url": "https://www.visitnorway.com/listings/bryggen-in-bergen/18045/",
+        "sources": [
+          "https://whc.unesco.org/en/list/59/",
+          "https://www.visitnorway.com/listings/bryggen-in-bergen/18045/",
+          "https://hanseatiskemuseum.museumvest.no/en"
+        ]
+      },
+      "ad": {
+        "destination_query": "Bergen, Norway",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bergen%2C%20Norway&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bergen%2C%20Norway&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bergen%2C%20Norway&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Bryggen, Bergen"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    }
+  ]
+}

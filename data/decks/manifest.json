@@ -11,7 +11,7 @@
     "hidden-gems": {
       "live_file": "data/hidden-gems.json",
       "archive_dir": "data/decks/hidden-gems/",
-      "approved_count": 20,
+      "approved_count": 60,
       "catalog_target": 100,
       "sets": [
         {
@@ -39,15 +39,68 @@
             "hidden-gems-019",
             "hidden-gems-020"
           ],
-          "status": "approved",
-          "role": "archive_batch_001_020"
+          "status": "approved"
+        },
+        {
+          "id": "hidden-gems-set-002",
+          "file": "set-002.json",
+          "card_ids": [
+            "hidden-gems-021",
+            "hidden-gems-022",
+            "hidden-gems-023",
+            "hidden-gems-024",
+            "hidden-gems-025",
+            "hidden-gems-026",
+            "hidden-gems-027",
+            "hidden-gems-028",
+            "hidden-gems-029",
+            "hidden-gems-030",
+            "hidden-gems-031",
+            "hidden-gems-032",
+            "hidden-gems-033",
+            "hidden-gems-034",
+            "hidden-gems-035",
+            "hidden-gems-036",
+            "hidden-gems-037",
+            "hidden-gems-038",
+            "hidden-gems-039",
+            "hidden-gems-040"
+          ],
+          "status": "approved"
+        },
+        {
+          "id": "hidden-gems-set-003",
+          "file": "set-003.json",
+          "card_ids": [
+            "hidden-gems-041",
+            "hidden-gems-042",
+            "hidden-gems-043",
+            "hidden-gems-044",
+            "hidden-gems-045",
+            "hidden-gems-046",
+            "hidden-gems-047",
+            "hidden-gems-048",
+            "hidden-gems-049",
+            "hidden-gems-050",
+            "hidden-gems-051",
+            "hidden-gems-052",
+            "hidden-gems-053",
+            "hidden-gems-054",
+            "hidden-gems-055",
+            "hidden-gems-056",
+            "hidden-gems-057",
+            "hidden-gems-058",
+            "hidden-gems-059",
+            "hidden-gems-060"
+          ],
+          "status": "approved"
         }
       ],
       "daily_deck": {
-        "until_100": "Serve all approved cards (currently 20)",
+        "until_100": "Serve all 60 approved cards",
         "at_100_plus": "Each calendar day pick/build a 100-card set; remix weekly so sets are never 100% identical week-to-week"
       },
-      "next": "HG 021–040 Facts→Ads→Auditor → set-002; continue to 100"
+      "next": "HG 061–080 toward 100"
     }
   },
   "other_tabs": [

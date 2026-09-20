@@ -2,7 +2,7 @@
   "brand": "Stay or Stray",
   "tagline": "Swipe a place. Stay or stray.",
   "phase": "1-audit",
-  "updated": "2026-09-20T14:40:00-05:00",
+  "updated": "2026-09-20T15:16:00-05:00",
   "tabs": [
     "hidden-gems",
     "cities",
@@ -17,8 +17,8 @@
   ],
   "counts": {
     "pending": 0,
-    "approved": 39,
-    "rejected": 1
+    "approved": 60,
+    "rejected": 0
   },
   "cards": [
     {
@@ -260,11 +260,131 @@
       "tab": "hidden-gems",
       "name": "Kotor",
       "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-041",
+      "tab": "hidden-gems",
+      "name": "Wadi Musa",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-042",
+      "tab": "hidden-gems",
+      "name": "Luang Prabang",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-043",
+      "tab": "hidden-gems",
+      "name": "Galle Fort",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-044",
+      "tab": "hidden-gems",
+      "name": "Ohrid",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-045",
+      "tab": "hidden-gems",
+      "name": "Ronda",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-046",
+      "tab": "hidden-gems",
+      "name": "Dürnstein",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-047",
+      "tab": "hidden-gems",
+      "name": "Hydra",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-048",
+      "tab": "hidden-gems",
+      "name": "Trinidad",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-049",
+      "tab": "hidden-gems",
+      "name": "San Miguel de Allende",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-050",
+      "tab": "hidden-gems",
+      "name": "Telč",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-051",
+      "tab": "hidden-gems",
+      "name": "Gruyères",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-052",
+      "tab": "hidden-gems",
+      "name": "Bibury",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-053",
+      "tab": "hidden-gems",
+      "name": "Kutná Hora",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-054",
+      "tab": "hidden-gems",
+      "name": "Annecy",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-055",
+      "tab": "hidden-gems",
+      "name": "Positano",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-056",
+      "tab": "hidden-gems",
+      "name": "Moulay Idriss Zerhoun",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-057",
+      "tab": "hidden-gems",
+      "name": "Ushguli",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-058",
+      "tab": "hidden-gems",
+      "name": "Sa Pa",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-059",
+      "tab": "hidden-gems",
+      "name": "Bariloche",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-060",
+      "tab": "hidden-gems",
+      "name": "Bryggen, Bergen",
+      "auditor_status": "approved"
     }
   ],
-  "approved_count": 40,
+  "approved_count": 60,
   "rejected_count": 0,
   "pending_count": 0,
-  "last_audit": "2026-09-20T14:45:00-05:00",
-  "hidden_gems_approved": 40
+  "last_audit": "2026-09-20T15:16:00-05:00",
+  "hidden_gems_approved": 60
 }
