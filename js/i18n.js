@@ -142,6 +142,12 @@
       if (links[2]) links[2].textContent = t('home');
     }
 
+    var coffeeLink = document.getElementById('buy-me-coffee');
+    if (coffeeLink) {
+      coffeeLink.textContent = t('buy_me_coffee');
+      coffeeLink.setAttribute('aria-label', t('buy_me_coffee'));
+    }
+
     var disclosure = document.getElementById('affiliate-disclosure');
     if (disclosure) disclosure.textContent = t('disclosure');
 

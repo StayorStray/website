@@ -21,6 +21,7 @@
     "try_another_category": "Essayer une autre catégorie",
     "about": "À propos",
     "photo_credits": "Crédits photo",
+    "buy_me_coffee": "Offrez-moi un café",
     "disclosure": "En tant qu’affilié, nous pouvons percevoir une commission sur les réservations éligibles.",
     "about_blurb": "<strong>À propos de Stay or Stray.</strong> Glissez de vrais lieux visitables — Restez si vous iriez, Passez sinon. Les photos sont de vraies photographies sous licence (pas d’images IA). Les liens de réservation cherchent la même destination que la carte ; les IDs d’affiliation restent <code>YOUR_AFFILIATE_ID</code> jusqu’à configuration dans <code>config/affiliates.js</code>.",
     "credits_blurb": "Les crédits d’échantillon de la phase 0 apparaissent sous chaque carte. Les attributions complètes sont dans <code>data/hidden-gems.json</code> (licences CC Wikimedia Commons).",

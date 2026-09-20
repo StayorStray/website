@@ -21,6 +21,7 @@
     "try_another_category": "別のカテゴリを試す",
     "about": "このアプリについて",
     "photo_credits": "写真クレジット",
+    "buy_me_coffee": "コーヒーをおごる",
     "disclosure": "アフィリエイトとして、対象となる予約から収益を得ることがあります。",
     "about_blurb": "<strong>Stay or Stray について。</strong>実際に訪れることができる場所をスワイプ — 行きたいなら「行く」、スキップするなら「パス」。写真はライセンス取得済みの実写です（AI画像なし）。予約リンクはカードと同じ目的地を検索します。アフィリエイトIDは<code>config/affiliates.js</code>で設定するまで<code>YOUR_AFFILIATE_ID</code>のままです。",
     "credits_blurb": "フェーズ0のサンプルクレジットは各カードの下に表示されます。完全な帰属情報は<code>data/hidden-gems.json</code>にあります（Wikimedia Commons CCライセンス）。",

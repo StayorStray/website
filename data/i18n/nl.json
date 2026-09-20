@@ -21,6 +21,7 @@
     "try_another_category": "Probeer een andere categorie",
     "about": "Over",
     "photo_credits": "Fotocredits",
+    "buy_me_coffee": "Trakteer me op koffie",
     "disclosure": "Als affiliate kunnen we verdienen aan kwalificerende boekingen.",
     "about_blurb": "<strong>Over Stay or Stray.</strong> Veeg echte, bezoekbare plekken — Blijven als je zou gaan, Voorbij als je overslaat. Foto’s zijn gelicentieerde echte foto’s (geen AI-beelden). Boekingslinks zoeken dezelfde bestemming als de kaart; affiliate-ID’s blijven <code>YOUR_AFFILIATE_ID</code> tot ze zijn geconfigureerd in <code>config/affiliates.js</code>.",
     "credits_blurb": "Fase 0-voorbeeldcredits staan onder elke kaart. Volledige toeschrijvingen staan in <code>data/hidden-gems.json</code> (Wikimedia Commons CC-licenties).",

@@ -389,6 +389,23 @@ img { max-width: 100%; display: block; }
 }
 .site-footer a { color: var(--muted); }
 .site-footer a:hover { color: var(--accent); }
+.coffee-support { margin: 0 0 1rem; }
+.coffee-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0.55rem 1rem;
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  color: var(--text) !important;
+  font-weight: 700;
+  text-decoration: none;
+}
+.coffee-link:hover,
+.coffee-link:focus-visible {
+  background: var(--accent);
+  color: var(--bg) !important;
+}
 .disclosure { margin: 0 0 0.5rem; }
 .about-blurb { margin: 0.75rem 0 0; max-width: 40rem; }
 

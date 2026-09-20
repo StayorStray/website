@@ -21,6 +21,7 @@
     "try_another_category": "Try another category",
     "about": "About",
     "photo_credits": "Photo credits",
+    "buy_me_coffee": "Buy me a coffee",
     "disclosure": "As an affiliate we may earn from qualifying bookings.",
     "about_blurb": "<strong>About Stay or Stray.</strong> Swipe real, visitable places — Stay if you’d go, Stray if you’d skip. Photos are licensed real photographs (no AI images). Booking links search the same destination as the card; affiliate IDs stay as <code>YOUR_AFFILIATE_ID</code> until configured in <code>config/affiliates.js</code>.",
     "credits_blurb": "Phase 0 sample credits appear under each card. Full attributions live in <code>data/hidden-gems.json</code> (Wikimedia Commons CC licenses).",
