@@ -1,0 +1,1019 @@
+{
+  "id": "cities-set-001",
+  "tab": "cities",
+  "label": "Iconic Cities — Set 1 (001–020)",
+  "card_ids": [
+    "cities-001",
+    "cities-002",
+    "cities-003",
+    "cities-004",
+    "cities-005",
+    "cities-006",
+    "cities-007",
+    "cities-008",
+    "cities-009",
+    "cities-010",
+    "cities-011",
+    "cities-012",
+    "cities-013",
+    "cities-014",
+    "cities-015",
+    "cities-016",
+    "cities-017",
+    "cities-018",
+    "cities-019",
+    "cities-020"
+  ],
+  "count": 20,
+  "auditor": "20/20 approved 2026-09-20 (011 Mexico City Reforma facts cleared) — CITIES MVP READY",
+  "created": "2026-09-20T17:52:00-05:00",
+  "cards": [
+    {
+      "id": "cities-001",
+      "tab": "cities",
+      "name": "Paris",
+      "short_line": "Île-de-France, France",
+      "country": "France",
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Seine_and_Eiffel_Tower_from_Tour_Saint_Jacques_2013-08.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-001.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASeine_and_Eiffel_Tower_from_Tour_Saint_Jacques_2013-08.JPG",
+        "license": "CC BY-SA 3.0",
+        "author": "Zinneke",
+        "attribution": "Photo: Zinneke, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Seine and Eiffel Tower from Tour Saint Jacques 2013-08.JPG' confirms Paris; desc: Seine river and Eiffel Tower, seen from Tour Saint Jacques."
+      },
+      "facts": {
+        "one_liner": "Seine-side capital where the iron lattice of the Tour Eiffel defines the western skyline.",
+        "why_go": "Paris is France’s capital and a long-time draw for museums, cafés, and riverside walks. The classic view pairs the Seine with the Tour Eiffel (Eiffel Tower), built for the 1889 Exposition Universelle and still the city’s most recognised silhouette. Visitors come for the Louvre and Musée d’Orsay, Haussmann boulevards, and evening light on the river bridges. The photo angle—tower and Seine from Tour Saint-Jacques—matches the postcard pairing most first-timers seek.",
+        "best_time": "Late April–early June or September–mid-October for milder weather and thinner queues than peak July–August. Weekday mornings and after ~17:00 are generally quieter at the Tower.",
+        "how_to_get_there": "Fly into Charles de Gaulle (CDG) or Orly (ORY). From CDG, RER B reaches central stations such as Gare du Nord and Châtelet–Les Halles in about 30–40 minutes; Orly connects via Métro 14 or Orlyval+RER B. TGV and Eurostar serve Gare du Nord and other Paris termini.",
+        "good_to_know": "Book Tour Eiffel tickets online for a timed slot; summit access is lift-only from the second floor. The Métro/RER is densest for getting around—buy a Navigo Easy or use contactless.",
+        "official_or_tourism_url": "https://www.visitparisregion.com/en",
+        "sources": [
+          "https://www.visitparisregion.com/en/eiffel-tower",
+          "https://www.toureiffel.paris/en/planning-smooth-visit/attendance",
+          "https://www.bonjour-ratp.fr/en/aeroports/roissy-charles-de-gaulle/acces/rer/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Paris, France",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Paris%2C%20France&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Paris%2C%20France&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Paris%2C%20France&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Paris"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-002",
+      "tab": "cities",
+      "name": "Tokyo",
+      "short_line": "Tokyo Metropolis, Japan",
+      "country": "Japan",
+      "lat": 35.6762,
+      "lng": 139.6503,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Tokyo_skyline_seen_from_Tokyo_Skytree.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-002.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ATokyo_skyline_seen_from_Tokyo_Skytree.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Ruthsic",
+        "attribution": "Photo: Ruthsic, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Tokyo skyline seen from Tokyo Skytree.jpg' confirms Tokyo; desc: Tokyo skyline seen from Tokyo Skytree's 2nd observation tower"
+      },
+      "facts": {
+        "one_liner": "Japan’s capital megacity; from TOKYO SKYTREE® the dense eastern wards stretch to the horizon.",
+        "why_go": "Tokyo (東京) packs shrines, rail hubs, and neighbourhoods from Asakusa to Shibuya into one metropolis. Travellers come for food, design, and night neon as much as for museums and parks. TOKYO SKYTREE in Sumida stands 634 m as a freestanding broadcasting tower (opened 2012); its Tembo Deck (~350 m) and Tembo Galleria (~450 m) overlook the Sumida River and the city’s eastern skyline—the same view the photo records. Clear winter mornings can add Mount Fuji on the far horizon.",
+        "best_time": "March–May (sakura) and October–November for mild days; winter mornings often give the clearest long views from Skytree. Avoid Golden Week and Obon if you want lighter crowds.",
+        "how_to_get_there": "International flights arrive at Narita (NRT) or Haneda (HND). Keisei or JR/airport limousine links serve central Tokyo; some Keisei/Keikyu through-services reach Oshiage (next to Skytree). From central stations, Tokyo Metro Hanzōmon or Toei Asakusa lines stop at Oshiage; Tobu Skytree Line stops at Tokyo Skytree Station.",
+        "good_to_know": "Reserve Skytree timed tickets online, especially for sunset slots. An IC card (Suica/Pasmo) covers almost all metro and JR urban rides; keep cash for some small eateries.",
+        "official_or_tourism_url": "https://www.gotokyo.org/en/",
+        "sources": [
+          "https://www.gotokyo.org/en/spot/6/index.html",
+          "https://en.tokyo-skytree.jp/about/outline/",
+          "https://en.tokyo-skytree.jp/about/spec/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Tokyo, Japan",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Tokyo%2C%20Japan&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Tokyo%2C%20Japan&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Tokyo%2C%20Japan&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Tokyo"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-003",
+      "tab": "cities",
+      "name": "New York City",
+      "short_line": "New York, United States",
+      "country": "United States",
+      "lat": 40.7128,
+      "lng": -74.006,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Manhattan_from_Weehawken%2C_NJ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-003.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AManhattan_from_Weehawken%2C_NJ.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Dmitry Avdeev",
+        "attribution": "Photo: Dmitry Avdeev, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Manhattan from Weehawken, NJ.jpg' confirms New York City; desc: Midtown Manhattan as seen from Weehawken, NJ"
+      },
+      "facts": {
+        "one_liner": "Five-borough US megacity whose Midtown Manhattan skyline rises across the Hudson from New Jersey.",
+        "why_go": "New York City concentrates Broadway theatres, museums, and finance districts into a walkable core, especially Midtown Manhattan—Times Square, Rockefeller Center, Fifth Avenue shopping, and towers such as the Empire State Building. Visitors also use it as a base for Central Park, museums along Museum Mile, and ferries around the harbour. The classic Hudson-side panorama of Midtown from Weehawken, New Jersey, matches the photo: a wall of skyscrapers facing west across the river rather than a single landmark.",
+        "best_time": "April–May and mid-September–October for milder weather and fewer peak-summer crowds. January–March are colder but quieter and often cheaper for lodging.",
+        "how_to_get_there": "Fly into JFK or LaGuardia (Queens) or Newark Liberty (EWR, New Jersey). JFK links via AirTrain to subway/LIRR; Newark via AirTrain + NJ Transit to Penn Station; LaGuardia by bus/taxi/rideshare. Amtrak and regional rail serve Penn Station and Grand Central.",
+        "good_to_know": "A MetroCard or OMNY contactless tap covers subway and most buses. Midtown south of 61st Street falls inside the congestion-pricing zone if you drive; for the Weehawken skyline view, NY Waterway and similar ferries cross the Hudson to Midtown West.",
+        "official_or_tourism_url": "https://www.nyctourism.com/",
+        "sources": [
+          "https://www.nyctourism.com/new-york/manhattan/midtown/",
+          "https://www.nyctourism.com/getting-here/",
+          "https://www.travelandleisure.com/best-times-to-visit-new-york-city-7567866"
+        ]
+      },
+      "ad": {
+        "destination_query": "New York City, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=New%20York%20City%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=New%20York%20City%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=New%20York%20City%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in New York City"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-004",
+      "tab": "cities",
+      "name": "London",
+      "short_line": "England, United Kingdom",
+      "country": "United Kingdom",
+      "lat": 51.5074,
+      "lng": -0.1278,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/City_of_London_skyline_from_London_City_Hall_-_Oct_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-004.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACity_of_London_skyline_from_London_City_Hall_-_Oct_2008.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Diliff",
+        "attribution": "Photo: Diliff, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:City of London skyline from London City Hall - Oct 2008.jpg' confirms London; desc: The City of London skyline as viewed toward the north-west from the top floor viewing platform of London City Hall on the southern side of the Thames. In the fo"
+      },
+      "facts": {
+        "one_liner": "UK capital where the Square Mile’s modern towers face the Thames from the City Hall bank.",
+        "why_go": "London mixes royal parks, West End theatre, and free national museums with the dense financial core known as the City of London (the Square Mile). Travellers come for the British Museum, Tate Modern, markets, and river walks. The photo looks northwest from the former City Hall viewing platform on the south bank toward the City skyline—glass towers rising opposite the Thames rather than Big Ben alone. Tower Bridge and St Paul’s often sit in the same broader river panorama.",
+        "best_time": "May–June and September–October for milder days and fewer peak-summer crowds. January–March are usually cheapest but cooler and wetter; June–August are busiest.",
+        "how_to_get_there": "Heathrow (LHR) has Elizabeth line, Piccadilly line, and Heathrow Express into central London; Gatwick, Stansted, and Luton have dedicated rail links. London City Airport is closest to the City via DLR. Eurostar arrives at St Pancras International.",
+        "good_to_know": "Use contactless bank cards or an Oyster card on Tube, Elizabeth line, DLR, and buses—same daily capping. Book free City viewpoints (e.g. Sky Garden, Horizon 22) ahead when you want a Square Mile skyline without a paid attraction ticket.",
+        "official_or_tourism_url": "https://www.visitlondon.com/",
+        "sources": [
+          "https://www.visitlondon.com/things-to-do/visiting-london-for-the-first-time/best-time-to-visit",
+          "https://www.visitlondon.com/traveller-information/travel-to-london/airport",
+          "https://www.heathrow.com/transport-and-directions/getting-to-central-london"
+        ]
+      },
+      "ad": {
+        "destination_query": "London, United Kingdom",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=London%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=London%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=London%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in London"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-005",
+      "tab": "cities",
+      "name": "Rome",
+      "short_line": "Lazio, Italy",
+      "country": "Italy",
+      "lat": 41.9028,
+      "lng": 12.4964,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-005.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AColosseum_in_Rome%2C_Italy_-_April_2007.jpg",
+        "license": "CC BY-SA 2.5",
+        "author": "Diliff",
+        "attribution": "Photo: Diliff, CC BY-SA 2.5, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Colosseum in Rome, Italy - April 2007.jpg' confirms Rome; desc: A 4x4 segment panorama of the Coliseum at dusk. Taken by myself with a Canon 5D and 50mm f/1.8 lens at f/5.6."
+      },
+      "facts": {
+        "one_liner": "Italy’s capital; the Colosseum (Anfiteatro Flavio) still anchors the ancient city’s archaeological core.",
+        "why_go": "Rome (Roma) layers imperial ruins, papal basilicas, and neighbourhood trattorie across the historic centre. People visit for the Colosseum, Roman Forum and Palatine, the Pantheon, Vatican museums, and evening piazzas. The Flavian Amphitheatre—still the world’s largest amphitheatre—was built under Vespasian and Titus (c. 70–80 CE) and remains about 189 × 156 m and over 48 m high. The dusk Colosseum portrait in the photo is the monument most travellers come to see first.",
+        "best_time": "April–May and September–October for comfortable walking weather. Summer (June–August) is hottest and busiest; winter is quieter with shorter daylight and earlier last entry at the archaeological park.",
+        "how_to_get_there": "Fly into Leonardo da Vinci–Fiumicino (FCO) or Ciampino (CIA). From FCO, the Leonardo Express runs to Termini (~32 minutes); Metro B then stops at Colosseo. High-speed trains (Frecciarossa/Italo) link Termini and Tiburtina with Florence, Milan, Naples, and beyond.",
+        "good_to_know": "Colosseum entry requires a timed reservation on the official Parco Archeologico del Colosseo ticketing site; Forum–Palatine access is typically bundled. Arrive near opening (08:30) to avoid midday tour groups.",
+        "official_or_tourism_url": "https://www.turismoroma.it/en",
+        "sources": [
+          "https://www.turismoroma.it/en/places/flavian-amphitheatre-colosseum",
+          "https://colosseo.it/en/opening-times-and-tickets/",
+          "https://www.rome.info/attractions/colosseum/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Rome, Italy",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rome%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rome%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rome%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Rome"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-006",
+      "tab": "cities",
+      "name": "Istanbul",
+      "short_line": "Marmara, Türkiye",
+      "country": "Türkiye",
+      "lat": 41.0082,
+      "lng": 28.9784,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/View_of_Istanbul_from_Galata_Tower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-006.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AView_of_Istanbul_from_Galata_Tower.jpg",
+        "license": "CC0",
+        "author": "RndmCrs",
+        "attribution": "Photo: RndmCrs, CC0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:View of Istanbul from Galata Tower.jpg' confirms Istanbul; desc: View of Istanbul from Galata Tower"
+      },
+      "facts": {
+        "one_liner": "City on two continents; from Galata Tower the Historic Peninsula and Golden Horn fill the view.",
+        "why_go": "İstanbul (Istanbul) straddles Europe and Asia across the Bosphorus and has been a capital for Roman, Byzantine, and Ottoman eras. Visitors come for Hagia Sophia, the Blue Mosque (Sultanahmet Camii), Topkapı, Grand Bazaar, and ferry rides on the strait. Galata Tower (Galata Kulesi) in Beyoğlu looks across the Golden Horn toward the Historic Peninsula’s domes and minarets—the skyline the photo captures—rather than a single Asian-shore landmark. Food, ferries, and neighbourhoods from Karaköy to Kadıköy fill the rest of a stay.",
+        "best_time": "April–May and September–October for milder weather and fewer peak-summer crowds. July–August are hottest and busiest; winter is cooler and wetter but quieter.",
+        "how_to_get_there": "Fly into İstanbul Airport (IST) on the European side or Sabiha Gökçen (SAW) on the Asian side. Metro, Havaist/Havabus coaches, and taxis link both airports to the centre; from IST, metro connections reach central lines toward Taksim/Şişhane for Galata. Intercity high-speed trains serve Halkalı and Söğütlüçeşme with metro/ferry onward.",
+        "good_to_know": "An İstanbulkart covers metro, tram, buses, and many ferries. For Galata Tower Museum, go early or after dark for shorter queues; the balcony faces the Historic Peninsula across the Golden Horn.",
+        "official_or_tourism_url": "https://goturkiye.com/istanbul",
+        "sources": [
+          "https://goturkiye.com/istanbul",
+          "https://muze.gov.tr/muze-detay?distid=mrk&sectionid=glt04",
+          "https://galatakulesi.gov.tr/ziyaret"
+        ]
+      },
+      "ad": {
+        "destination_query": "Istanbul, Turkey",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Istanbul%2C%20Turkey&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Istanbul%2C%20Turkey&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Istanbul%2C%20Turkey&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Istanbul"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-007",
+      "tab": "cities",
+      "name": "Cairo",
+      "short_line": "Cairo Governorate, Egypt",
+      "country": "Egypt",
+      "lat": 30.0444,
+      "lng": 31.2357,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Cairo_skyline%2C_Nile_River%2C_Egypt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-007.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACairo_skyline%2C_Nile_River%2C_Egypt.jpg",
+        "license": "CC BY 4.0",
+        "author": "Vyacheslav Argenberg",
+        "attribution": "Photo: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Cairo skyline, Nile River, Egypt.jpg' confirms Cairo; desc: Cairo skyline, Nile River, Egypt."
+      },
+      "facts": {
+        "one_liner": "Egypt’s Nile-side capital; downtown towers and bridges frame the river that built the city.",
+        "why_go": "Cairo (القاهرة, al-Qāhira) is Egypt’s capital and the hub of Greater Cairo, stretching toward Giza. Travellers come for the Egyptian Museum (and the Grand Egyptian Museum at Giza), Islamic Cairo’s mosques and markets, and day trips to the Giza pyramids west of the Nile. The photo’s subject is the modern Nile waterfront and skyline—bridges, high-rises, and feluccas—rather than the desert plateau alone. Evening river walks and short felucca sails remain a local way to see that same corridor.",
+        "best_time": "October–April for cooler, drier days suited to outdoor walking. May–September are very hot; midday sightseeing is best kept short in summer.",
+        "how_to_get_there": "Cairo International Airport (CAI) is the main gateway, roughly 20–25 km northeast of downtown; allow 30–90 minutes by taxi or ride-hail depending on traffic. Metro Line 3 links the airport area toward the city; trains and coaches also connect Cairo with Alexandria and Upper Egypt.",
+        "good_to_know": "Traffic is heavy—budget extra time between Nile-side hotels and Giza. Carry small notes for tips and short taxi hops; many Nile hotels and cafés sit on Gezira/Zamalek and Corniche banks with skyline views matching the river photo.",
+        "official_or_tourism_url": "https://www.experienceegypt.eg/en/city/1/cairo-giza",
+        "sources": [
+          "https://www.experienceegypt.eg/en/city/1/cairo-giza",
+          "https://www.nationalgeographic.com/travel/article/cairo-egypt-travel-guide",
+          "http://cairo.gov.eg/en/Tourism"
+        ]
+      },
+      "ad": {
+        "destination_query": "Cairo, Egypt",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Cairo%2C%20Egypt&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Cairo%2C%20Egypt&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Cairo%2C%20Egypt&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Cairo"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-008",
+      "tab": "cities",
+      "name": "Rio de Janeiro",
+      "short_line": "Rio de Janeiro, Brazil",
+      "country": "Brazil",
+      "lat": -22.9068,
+      "lng": -43.1729,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/P%C3%A3o_de_A%C3%A7%C3%BAcar_Rio_de_Janeiro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-008.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AP%C3%A3o_de_A%C3%A7%C3%BAcar_Rio_de_Janeiro.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Marcia Photography",
+        "attribution": "Photo: Marcia Photography, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Pão de Açúcar Rio de Janeiro.jpg' confirms Rio de Janeiro; desc: Pão de Açúcar - Márcia Regina Machado - (09) .Jpeg"
+      },
+      "facts": {
+        "one_liner": "Brazilian coastal city where granite Pão de Açúcar rises above Guanabara Bay and Urca.",
+        "why_go": "Rio de Janeiro is Brazil’s best-known beach metropolis, with Copacabana and Ipanema, samba culture, and a UNESCO-listed urban cultural landscape of mountains meeting the sea. Travellers also visit Cristo Redentor on Corcovado and the Tijuca forest. Pão de Açúcar (Sugarloaf Mountain) in Urca is reached by the Bondinho cable cars and gives bay-and-city views; the photo shows that signature granite peak rather than a generic beach strip. Carnival and New Year’s Eve on Copacabana are peak cultural draws if you time a visit around them.",
+        "best_time": "May–September (drier, cooler austral winter) often brings clearer skies and fewer beach crowds than Dec–March summer heat and rain. Book Cableway slots ahead for sunset.",
+        "how_to_get_there": "Fly into Galeão–Antonio Carlos Jobim (GIG) for most international flights, or Santos Dumont (SDU) closer to the centre/South Zone. Buses, metro (Botafogo + bus 513 for Urca), taxis, and ride-hails cover the city; Parque Bondinho is at Av. Pasteur 520, Urca.",
+        "good_to_know": "Bondinho Park generally runs daily (check the day’s hours; last boarding is earlier than closing). Strong wind or lightning can pause cable cars. Use official taxis/apps at night; keep valuables discreet on beaches and transit.",
+        "official_or_tourism_url": "https://visitbrasil.com/en/location/rio-de-janeiro-en",
+        "sources": [
+          "https://visitbrasil.com/en/location/rio-de-janeiro-en",
+          "https://bondinho.com.br/en/perguntas-frequentes",
+          "https://www.bondinho.com.br/en/todos-os-ingressos"
+        ]
+      },
+      "ad": {
+        "destination_query": "Rio de Janeiro, Brazil",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rio%20de%20Janeiro%2C%20Brazil&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rio%20de%20Janeiro%2C%20Brazil&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rio%20de%20Janeiro%2C%20Brazil&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Rio de Janeiro"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-009",
+      "tab": "cities",
+      "name": "Sydney",
+      "short_line": "New South Wales, Australia",
+      "country": "Australia",
+      "lat": -33.8688,
+      "lng": 151.2093,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sydney_Opera_House_and_Harbour_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-009.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASydney_Opera_House_and_Harbour_Bridge.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "J woodward",
+        "attribution": "Photo: J woodward, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Sydney Opera House and Harbour Bridge.jpg' confirms Sydney; desc: Sydney Harbour Bridge and Opera House from a CBD Hotel"
+      },
+      "facts": {
+        "one_liner": "Harbour city of NSW where the Opera House sails sit under the Harbour Bridge at Circular Quay.",
+        "why_go": "Sydney is Australia’s largest city and a harbour capital built around Port Jackson. Visitors come for beaches (Bondi to Manly), coastal walks, and the Circular Quay precinct. The Sydney Opera House and Sydney Harbour Bridge form the classic postcard pair—exactly the CBD-hotel vantage the photo shows—with ferries crossing the water below. Aboriginal cultural tours, harbour islands, and the Royal Botanic Garden sit within easy reach of the Quay.",
+        "best_time": "March–May and September–November for mild temperatures and fewer peak-summer crowds. December–February are warmest (beach season); June–August are cooler and quieter.",
+        "how_to_get_there": "Sydney Airport (SYD / Kingsford Smith) is about 8–9 km south of the CBD; Airport Link trains run to Central and Circular Quay stations, with taxis and rideshares also common. Domestic and international terminals are linked by free shuttle/walkways.",
+        "good_to_know": "An Opal card or contactless tap covers trains, buses, light rail, and ferries. For the Opera House–Bridge view without a hotel window, Circular Quay wharves, the Botanic Garden foreshore, and harbour ferries give the same pairing.",
+        "official_or_tourism_url": "https://www.sydney.com/",
+        "sources": [
+          "https://www.sydney.com/",
+          "https://www.sydney.com/destinations/sydney/sydney-city/circular-quay",
+          "https://visitsydney.com/plan-your-trip/when-to-visit-sydney/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Sydney, Australia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sydney%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sydney%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sydney%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Sydney"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-010",
+      "tab": "cities",
+      "name": "Cape Town",
+      "short_line": "Western Cape, South Africa",
+      "country": "South Africa",
+      "lat": -33.9249,
+      "lng": 18.4241,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Cape_Town_skyline_with_Table_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-010.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACape_Town_skyline_with_Table_Mountain.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Islahaddow",
+        "attribution": "Photo: Islahaddow, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Cape Town skyline with Table Mountain.jpg' confirms Cape Town; desc: Cape Town skyline with Table Mountain from the roof of the Homecoming Centre, District Six Museum"
+      },
+      "facts": {
+        "one_liner": "Western Cape city whose CBD sits under the flat summit of Table Mountain (Hoerikwaggo).",
+        "why_go": "Cape Town (Kaapstad / iKapa) is South Africa’s legislative capital and a coastal gateway to the Cape Peninsula, Winelands, and Atlantic beaches. Travellers come for Table Mountain National Park, the V&A Waterfront, Robben Island, and Cape Point drives. The city’s skyline with Table Mountain’s flat plateau behind it—seen from District Six toward the mountain in the photo—is the defining urban silhouette. Cableway rides and hiking routes (Platteklip and others) put you on the plateau when weather allows.",
+        "best_time": "March–May and September–November for pleasant weather and clearer mountain views with fewer peak crowds. December–February are warmest and busiest; June–August (austral winter) bring more rain and occasional Cableway closures.",
+        "how_to_get_there": "Cape Town International Airport (CPT) is the main gateway; MyCiTi buses, taxis, and ride-hails reach the CBD and Waterfront. Long-distance coaches and the Blue Train/Rovos luxury rail serve selected routes; domestic flights link Johannesburg and Durban.",
+        "good_to_know": "Check Table Mountain Aerial Cableway status before you go—strong wind and cloud often close the upper station. Book Cableway tickets online in peak season; start early for hiking to avoid heat and afternoon cloud on the summit.",
+        "official_or_tourism_url": "https://www.capetown.travel/",
+        "sources": [
+          "https://www.capetown.travel/",
+          "https://www.tablemountain.net/plan-your-visit/ticket-prices",
+          "https://www.lonelyplanet.com/articles/best-time-to-visit-cape-town"
+        ]
+      },
+      "ad": {
+        "destination_query": "Cape Town, South Africa",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Cape%20Town%2C%20South%20Africa&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Cape%20Town%2C%20South%20Africa&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Cape%20Town%2C%20South%20Africa&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Cape Town"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-011",
+      "tab": "cities",
+      "name": "Mexico City",
+      "short_line": "Ciudad de México, Mexico",
+      "country": "Mexico",
+      "lat": 19.4326,
+      "lng": -99.1332,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-011.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACiudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg",
+        "license": "CC BY 2.0",
+        "author": "Alejandro Islas Photograph AC",
+        "attribution": "Photo: Alejandro Islas Photograph AC, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Ciudad.de.Mexico.City.Distrito.Federal.DF.Paseo.Reforma.Skyline.jpg' confirms Mexico City; desc: Buildings on Paseo de la Reforma in Colonia Cuauhtémoc and Colonia Juarez in Mexico City, Mexico. Categories: Paseo de la Reforma, Skylines of Mexico City, Torre Mayor. Not Pedregal/highway interchange."
+      },
+      "facts": {
+        "one_liner": "CDMX capital along Paseo de la Reforma — glass towers, Ángel, and Chapultepec axis.",
+        "why_go": "Mexico City (Ciudad de México / CDMX) is Mexico’s capital in the Valley of Mexico. The photo shows the modern skyline along Paseo de la Reforma — the diagonal boulevard of office towers (Torre Mayor / Torre Reforma class), monuments, and hotels that links the historic core toward Chapultepec. Travellers combine Reforma’s Ángel de la Independencia and Diana fountains with the UNESCO Historic Centre (Zócalo, Templo Mayor, Bellas Artes) and Chapultepec’s museums and castle. Altitude and a dense cultural calendar reward pacing the first day.",
+        "best_time": "March–May and October–November for milder, drier walking weather; late February–March for jacarandas along Reforma. June–September brings frequent afternoon rains; December–February nights can be cold at ~2,240 m.",
+        "how_to_get_there": "Fly into Aeropuerto Internacional de la Ciudad de México (AICM/MEX) or Felipe Ángeles (AIFA/NLU). From AICM, Metrobús Line 4 links toward San Lázaro and the Centro; authorized taxis and ride-hail are common. Metro and Metrobús reach Reforma and Chapultepec stations — avoid peak crush hours when possible.",
+        "good_to_know": "Sundays Reforma often opens for Ciclovía / pedestrian use — check the week’s closures. Keep bags closed on crowded Metro and Metrobús. Book Chapultepec museums for busy weekends.",
+        "official_or_tourism_url": "https://mexicocity.cdmx.gob.mx/?lang=en",
+        "sources": [
+          "https://mexicocity.cdmx.gob.mx/?lang=en",
+          "https://en.wikipedia.org/wiki/Paseo_de_la_Reforma",
+          "https://whc.unesco.org/en/list/412/",
+          "https://mexicocity.cdmx.gob.mx/e/best-seasons-to-visit-mexico-city/?lang=en"
+        ]
+      },
+      "ad": {
+        "destination_query": "Mexico City, Mexico",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Mexico%20City%2C%20Mexico&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Mexico%20City%2C%20Mexico&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Mexico%20City%2C%20Mexico&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Mexico City"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-012",
+      "tab": "cities",
+      "name": "Beijing",
+      "short_line": "Beijing Municipality, China",
+      "country": "China",
+      "lat": 39.9042,
+      "lng": 116.4074,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Forbidden_City_from_Jingshan_Hill.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-012.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AForbidden_City_from_Jingshan_Hill.jpg",
+        "license": "CC BY 3.0",
+        "author": "F3rn4nd0",
+        "attribution": "Photo: F3rn4nd0, CC BY 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Forbidden City from Jingshan Hill.jpg' confirms Beijing; desc: Image of the Hall of Imperial Longevity from the hills of the Jingshan Park. 景山寿皇殿"
+      },
+      "facts": {
+        "one_liner": "Capital on the Central Axis—Jingshan views over imperial roofs and a vast modern city.",
+        "why_go": "Beijing (北京) is China’s capital, planned for centuries along a north–south Central Axis that UNESCO listed in 2024. The photo from Jingshan Park frames yellow-tiled imperial halls—Shouhuang Hall / Hall of Imperial Longevity—with the Forbidden City (Palace Museum) and modern mid-rises beyond the tree canopy. Most first visits combine Tiananmen Square, the Palace Museum, and the short climb to Wanchun Pavilion for the classic roofscape. Hutongs, temple parks, and Great Wall day trips extend the city beyond the axis alone.",
+        "best_time": "Late March–May and mid-September–mid-October for milder air and clearer views. Avoid National Day Golden Week (1–7 Oct) and other public-holiday peaks when Palace Museum tickets sell out fast.",
+        "how_to_get_there": "Arrive at Beijing Capital (PEK) or Daxing (PKX); both connect by Airport Express / subway and taxis to the centre. Subway Line 1 / 8 and buses serve Tiananmen and Jingshan approaches. Palace Museum tickets are real-name and advance-only; foreign visitors to Jingshan may need a prior reservation (check current park rules).",
+        "good_to_know": "Palace Museum is typically closed Mondays (except some public holidays). Carry passport for ticketed sites. Air quality varies—check AQI before Jingshan viewpoints. Mobile payment and translation apps help outside tourist hubs.",
+        "official_or_tourism_url": "https://intl.dpm.org.cn/index.html?l=en",
+        "sources": [
+          "https://english.beijing.gov.cn/specials/parktours/guidevisitors/jingshanpark/",
+          "https://intl.dpm.org.cn/index.html?l=en",
+          "https://whc.unesco.org/en/list/1714/",
+          "https://whc.unesco.org/en/list/439/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Beijing, China",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Beijing%2C%20China&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Beijing%2C%20China&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Beijing%2C%20China&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Beijing"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-013",
+      "tab": "cities",
+      "name": "Mumbai",
+      "short_line": "Maharashtra, India",
+      "country": "India",
+      "lat": 19.076,
+      "lng": 72.8777,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Mumbai_Skyline_from_Marine_Drive.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-013.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMumbai_Skyline_from_Marine_Drive.JPG",
+        "license": "CC BY-SA 3.0",
+        "author": "Livelikerw",
+        "attribution": "Photo: Livelikerw, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Mumbai Skyline from Marine Drive.JPG' confirms Mumbai; desc: Mumbai Skyline from Marine Drive"
+      },
+      "facts": {
+        "one_liner": "Marine Drive’s C-curve on the Arabian Sea—Queen’s Necklace lights and Art Deco shore.",
+        "why_go": "Mumbai (मुंबई), Maharashtra’s capital on India’s west coast, is best introduced from Marine Drive—the ~3.6 km Back Bay promenade from Nariman Point toward Chowpatty. The curved skyline and tetrapod sea defences in the photo are the city’s classic waterfront frame; after dark the lamps earn the Queen’s Necklace nickname. Art Deco apartment blocks line the shore, while Gateway of India, CST, and Colaba sit a short hop south. Locals use the promenade for dawn walks and sunset gatherings as much as sightseeing.",
+        "best_time": "October–February for cooler evenings on the drive. Monsoon (roughly June–September) brings dramatic seas but wet paths; summer afternoons are hot—prefer early morning or sunset.",
+        "how_to_get_there": "Fly into Chhatrapati Shivaji Maharaj International Airport (BOM). Western Line locals to Churchgate or Marine Lines put you within a short walk of the promenade; prepaid taxi/app rides from the airport to South Mumbai take longer in peak traffic. Mumbai Central is the nearest major long-distance rail hub noted by Incredible India.",
+        "good_to_know": "The promenade is free and busy at sunset—keep valuables secure. Street food at Girgaon Chowpatty is popular; choose busy stalls. Tide spray can wet the parapet in monsoon; wear grippy shoes.",
+        "official_or_tourism_url": "https://www.incredibleindia.gov.in/en/maharashtra/mumbai/marine-drive",
+        "sources": [
+          "https://www.incredibleindia.gov.in/en/maharashtra/mumbai/marine-drive",
+          "https://en.wikipedia.org/wiki/Marine_Drive,_Mumbai",
+          "https://en.wikipedia.org/wiki/Mumbai"
+        ]
+      },
+      "ad": {
+        "destination_query": "Mumbai, India",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Mumbai%2C%20India&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Mumbai%2C%20India&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Mumbai%2C%20India&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Mumbai"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-014",
+      "tab": "cities",
+      "name": "Buenos Aires",
+      "short_line": "Buenos Aires, Argentina",
+      "country": "Argentina",
+      "lat": -34.6037,
+      "lng": -58.3816,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Puerto_Madero_Buenos_Aires.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-014.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APuerto_Madero_Buenos_Aires.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Oscar Costero",
+        "attribution": "Photo: Oscar Costero, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Puerto Madero Buenos Aires.jpg' confirms Buenos Aires; desc: Puerto Madero, Buenos Aires, 2017"
+      },
+      "facts": {
+        "one_liner": "Puerto Madero docks: brick warehouses, glass towers, and museum frigates on the diques.",
+        "why_go": "Buenos Aires, Argentina’s capital on the Río de la Plata, shows a regenerated face in Puerto Madero. The photo centres on the dockside promenade and the museum frigate ARA Presidente Sarmiento against renovated brick warehouses and newer towers. Santiago Calatrava’s Puente de la Mujer links the diques; nearby Costanera Sur Ecological Reserve adds a green walk. Pair the waterfront with Plaza de Mayo, Recoleta, or San Telmo rather than treating Puerto Madero as the whole city.",
+        "best_time": "March–May and September–November for comfortable dock walking. December–February can be hot and humid; June–August are cooler with sharper river wind.",
+        "how_to_get_there": "International flights use Ministro Pistarini (Ezeiza / EZE); domestic and some regional flights use Aeroparque Jorge Newbery (AEP). Tienda León and taxis/remises reach Puerto Madero from both; city Subte and buses cover the wider centre. Ferries to Uruguay leave from nearby terminals.",
+        "good_to_know": "Puerto Madero streets are largely named for women—useful for navigation. Reserve restaurants on weekend evenings. Carry a card/cash mix; check current exchange guidance before arrival. Ecological Reserve hours vary and it may close Mondays—verify before you go.",
+        "official_or_tourism_url": "https://turismo.buenosaires.gob.ar/en/recorrido/puerto-madero",
+        "sources": [
+          "https://turismo.buenosaires.gob.ar/en/recorrido/puerto-madero",
+          "https://turismo.buenosaires.gob.ar/en",
+          "https://en.wikipedia.org/wiki/Puerto_Madero"
+        ]
+      },
+      "ad": {
+        "destination_query": "Buenos Aires, Argentina",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Buenos%20Aires%2C%20Argentina&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Buenos%20Aires%2C%20Argentina&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Buenos%20Aires%2C%20Argentina&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Buenos Aires"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-015",
+      "tab": "cities",
+      "name": "Berlin",
+      "short_line": "Berlin, Germany",
+      "country": "Germany",
+      "lat": 52.52,
+      "lng": 13.405,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Brandenburger_Tor_abends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-015.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABrandenburger_Tor_abends.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Thomas Wolf, www.foto-tw.de",
+        "attribution": "Photo: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Brandenburger Tor abends.jpg' confirms Berlin; desc: The Brandenburg Gate in Berlin, Germany"
+      },
+      "facts": {
+        "one_liner": "Brandenburg Gate on Pariser Platz—neo-classical landmark of division and reunification.",
+        "why_go": "Berlin’s sandstone Brandenburg Gate (Brandenburger Tor), built 1788–1791 to Carl Gotthard Langhans’ design and crowned by Schadow’s Quadriga, stands on Pariser Platz at the west end of Unter den Linden. During the Wall years it sat in a restricted zone; since the Gate’s reopening on 22 December 1989 it has been a primary symbol of reunified Germany. From here you walk to the Reichstag, Holocaust Memorial, and Tiergarten, or continue into Mitte’s museums. The illuminated evening view matches the city’s signature postcard frame.",
+        "best_time": "May–September for longer daylight and outdoor festivals (visitBerlin). Shoulder months April and October suit walking with fewer peak-summer crowds; winter favours museums and Christmas markets.",
+        "how_to_get_there": "Fly into Berlin Brandenburg Airport (BER). Airport Express (FEX), regional trains, and S-Bahn S9/S45 run from the station under Terminal 1; buy a Berlin ABC ticket for the city centre. U-Bahn Brandenburger Tor (U5) and S-Bahn Brandenburger Tor serve the gate directly.",
+        "good_to_know": "The gate and plaza are free and open at all hours; Berlin Tourist Info in the south wing is typically open daily. Street performers and photo crowds peak midday—early morning or blue hour are calmer. Validate public-transport tickets before boarding.",
+        "official_or_tourism_url": "https://www.visitberlin.de/en/brandenburg-gate",
+        "sources": [
+          "https://www.visitberlin.de/en/brandenburg-gate",
+          "https://www.berlin.de/en/attractions-and-sights/3560266-3104052-brandenburg-gate.en.html",
+          "https://www.visitberlin.de/en/time-zone-time-visit-and-weather-berlin",
+          "https://www.berlin.de/en/public-transportation/2021627-2913840-transport-links-airport-berlin-brandenbu.en.html"
+        ]
+      },
+      "ad": {
+        "destination_query": "Berlin, Germany",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Berlin%2C%20Germany&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Berlin%2C%20Germany&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Berlin%2C%20Germany&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Berlin"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-016",
+      "tab": "cities",
+      "name": "Bangkok",
+      "short_line": "Bangkok, Thailand",
+      "country": "Thailand",
+      "lat": 13.7563,
+      "lng": 100.5018,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bangkok_Chao_Phraya_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-016.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABangkok_Chao_Phraya_River.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Ggnancyqi",
+        "attribution": "Photo: Ggnancyqi, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Bangkok Chao Phraya River.jpg' confirms Bangkok; desc: Night view of the Chao Phraya River from Millennium Hilton floor32."
+      },
+      "facts": {
+        "one_liner": "Chao Phraya night skyline—river ferries below Silom–Sathon towers and temples upriver.",
+        "why_go": "Bangkok (กรุงเทพฯ / Krung Thep), Thailand’s capital, is organised as much by the Chao Phraya River as by its roads. The night photo looks across the river toward the modern Silom–Sathon business strip—recognisable towers such as King Power MahaNakhon—while express boats still link piers toward Rattanakosin’s royal temples. Pair a river ride with Wat Arun, the Grand Palace area, and street-food neighbourhoods inland. Heat and traffic make the waterway a practical as well as scenic spine.",
+        "best_time": "November–February for cooler, drier air. March–May is hottest; May–October is rainy-season—expect brief downpours and humid evenings on the river.",
+        "how_to_get_there": "Most long-haul flights use Suvarnabhumi (BKK); Don Mueang (DMK) handles many low-cost and domestic routes. Airport Rail Link connects BKK toward Phaya Thai (BTS). BTS to Saphan Taksin reaches Sathorn Pier for Chao Phraya Express Boat lines toward Nonthaburi and historic piers.",
+        "good_to_know": "Boat lines use colour-coded flags/schedules—confirm destination piers before boarding. Dress modestly for temple interiors (covered shoulders/knees). Grab a stored-value card for BTS/MRT; river breezes help after hot street walks.",
+        "official_or_tourism_url": "https://www.tat.or.th/en",
+        "sources": [
+          "https://www.tat.or.th/en",
+          "https://www.chaophrayaexpressboat.com/?lang=en",
+          "https://thailand.go.th/public/index.php/guide-book-detail/001_01_108",
+          "https://en.wikipedia.org/wiki/Chao_Phraya_River"
+        ]
+      },
+      "ad": {
+        "destination_query": "Bangkok, Thailand",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bangkok%2C%20Thailand&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bangkok%2C%20Thailand&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bangkok%2C%20Thailand&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Bangkok"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-017",
+      "tab": "cities",
+      "name": "Toronto",
+      "short_line": "Ontario, Canada",
+      "country": "Canada",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Toronto_Skyline_viewed_from_Centre_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-017.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AToronto_Skyline_viewed_from_Centre_Island.jpg",
+        "license": "CC0",
+        "author": "TheWxResearcher",
+        "attribution": "Photo: TheWxResearcher, CC0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Toronto Skyline viewed from Centre Island.jpg' confirms Toronto; desc: Toronto's Skyline viewed from Centre Island in August 2024"
+      },
+      "facts": {
+        "one_liner": "Lake Ontario skyline from the Islands—CN Tower and downtown towers across the harbour.",
+        "why_go": "Toronto, Ontario’s capital on Lake Ontario, is defined from the water by the CN Tower (553 m) and the clustered financial-district towers. The photo from Centre Island shows that classic harbour silhouette—Rogers Centre’s dome beside the tower—used on countless city cards. Ferries from Jack Layton Terminal reach the Toronto Islands for beach and skyline views; downtown holds museums, neighbourhoods, and PATH walkways for winter. Multicultural food streets reward wandering beyond the waterfront alone.",
+        "best_time": "May–October for island ferries, patios, and festivals; late April–early May for High Park cherry blossoms. Summer is busiest; fall brings TIFF and cooler lake walks; winter suits museums and rink culture.",
+        "how_to_get_there": "Fly into Toronto Pearson (YYZ); UP Express trains reach Union Station in under half an hour. Billy Bishop (YTZ) serves shorter hops downtown. From Union, walk or streetcar to the harbour and CN Tower area; Toronto Islands ferries depart nearby.",
+        "good_to_know": "Island ferries fill on sunny weekends—arrive early or check schedules. CN Tower tickets are timed; clear late afternoons give day-to-night views. Winter wind off the lake is sharp—dress in layers on the waterfront.",
+        "official_or_tourism_url": "https://www.destinationtoronto.com/",
+        "sources": [
+          "https://www.destinationtoronto.com/things-to-do/attractions/must-see-attractions/cn-tower/",
+          "https://www.destinationtoronto.com/plan-your-trip/seasons/",
+          "https://www.cntower.ca/plan-your-visit/tickets-and-hours",
+          "https://en.wikipedia.org/wiki/Toronto"
+        ]
+      },
+      "ad": {
+        "destination_query": "Toronto, Canada",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Toronto%2C%20Canada&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Toronto%2C%20Canada&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Toronto%2C%20Canada&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Toronto"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-018",
+      "tab": "cities",
+      "name": "Seoul",
+      "short_line": "Seoul, South Korea",
+      "country": "South Korea",
+      "lat": 37.5665,
+      "lng": 126.978,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Seocho-gu_Skyline_from_Han_River_%E2%80%94_Dec_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-018.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASeocho-gu_Skyline_from_Han_River_%E2%80%94_Dec_2023.jpg",
+        "license": "CC0",
+        "author": "SpaceshipMe",
+        "attribution": "Photo: SpaceshipMe, CC0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Seocho-gu Skyline from Han River — Dec 2023.jpg' confirms Seoul; desc: A view of the skyline for Jamwon-dong from the adjacent side of the Han River, taken during sunset on December 12, 2023."
+      },
+      "facts": {
+        "one_liner": "Hangang apartment skyline at sunset—Seocho–Jamwon towers mirrored across the Han River.",
+        "why_go": "Seoul (서울), South Korea’s capital, is split by the Hangang (Han River), with dense residential towers lining parks such as those in Seocho-gu. The sunset photo from the far bank captures that river-wall skyline—everyday Seoul as much as palace tourism. Hangang parks support cycling, picnics, and seasonal night views toward Banpo and Some Sevit. Palaces, indie neighbourhoods, and mountain trails sit a subway ride from the bridges.",
+        "best_time": "April–May and September–October for mild park weather. Summer evenings are popular along the river after heat breaks; winter is clear but cold for long waterside walks.",
+        "how_to_get_there": "Fly into Incheon (ICN) or Gimpo (GMP). AREX links ICN to Seoul Station; subway and buses cover the rest. For Seocho / Banpo Hangang Park, subway to Express Bus Terminal, Sinnonhyeon, or nearby Line 3/7/9 stations, then walk or bike to the river.",
+        "good_to_know": "Hangang parks are free; rent Ttareungi bikes where available and yield to paths. Convenience-store picnic culture is normal—pack out trash. T-money cards simplify subway and buses. Check fountain or event schedules if aiming for Banpo night shows.",
+        "official_or_tourism_url": "https://english.visitkorea.or.kr/",
+        "sources": [
+          "https://english.visitkorea.or.kr/",
+          "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=197956",
+          "https://en.wikipedia.org/wiki/Han_River_(Korea)",
+          "https://en.wikipedia.org/wiki/Seoul"
+        ]
+      },
+      "ad": {
+        "destination_query": "Seoul, South Korea",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Seoul%2C%20South%20Korea&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Seoul%2C%20South%20Korea&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Seoul%2C%20South%20Korea&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Seoul"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-019",
+      "tab": "cities",
+      "name": "Marrakech",
+      "short_line": "Marrakesh-Safi, Morocco",
+      "country": "Morocco",
+      "lat": 31.6295,
+      "lng": -7.9811,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Marrakesh_rooftops.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-019.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMarrakesh_rooftops.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Anass Sedrati",
+        "attribution": "Photo: Anass Sedrati, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Marrakesh rooftops.jpg' confirms Marrakech; desc: Marrakesh rooftops"
+      },
+      "facts": {
+        "one_liner": "Ochre medina rooftops and riad courtyards—the Red City around Jemaa el-Fna.",
+        "why_go": "Marrakech (مراكش; also spelled Marrakesh), in Morocco’s Marrakesh-Safi region, is nicknamed the Red City for its pink-ochre walls and rooftops. The photo’s terracotta terraces, palm crowns, and courtyard riad look capture the medina fabric visitors explore on foot. Inside the walls, Jemaa el-Fna, the souks, and the Koutoubia minaret anchor evenings; palaces and gardens (Bahia, Majorelle/Menara area) fill quieter hours. It is an imperial city experience, distinct from blue mountain towns like Chefchaouen.",
+        "best_time": "March–May and September–November for walking weather. Midsummer days can be extremely hot; winter nights are cooler, with clearer mornings for rooftop views.",
+        "how_to_get_there": "Fly into Marrakech-Menara Airport (RAK), a short ride from the medina and Gueliz. Official taxis and airport buses serve the centre; trains link Marrakech with Casablanca and other Moroccan cities. Medina lanes are largely car-free—taxi to a gate, then walk or use a small luggage cart.",
+        "good_to_know": "Scout spelling is Marrakech; region labels may say Marrakesh-Safi. Dress modestly in the medina; agree taxi fares or use meters where available. Rooftop cafés need sturdy footing; keep valuables close in crowded souks. Book riads inside the walls for atmosphere, or Gueliz for easier vehicle access.",
+        "official_or_tourism_url": "https://www.visitmorocco.com/en/destinations/marrakech",
+        "sources": [
+          "https://www.visitmorocco.com/en/destinations/marrakech",
+          "https://www.visitmorocco.com/en/travel/marrakech/medina",
+          "https://en.wikipedia.org/wiki/Marrakesh"
+        ]
+      },
+      "ad": {
+        "destination_query": "Marrakech, Morocco",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Marrakech%2C%20Morocco&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Marrakech%2C%20Morocco&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Marrakech%2C%20Morocco&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Marrakech"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "cities-020",
+      "tab": "cities",
+      "name": "Prague",
+      "short_line": "Prague, Czechia",
+      "country": "Czechia",
+      "lat": 50.0755,
+      "lng": 14.4378,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Lascar_View_of_Prague%27s_skyline_from_the_Pet%C5%99%C3%ADnsk%C3%A1_rozhledna_%284501601667%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-020.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ALascar_View_of_Prague%27s_skyline_from_the_Pet%C5%99%C3%ADnsk%C3%A1_rozhledna_%284501601667%29.jpg",
+        "license": "CC BY 2.0",
+        "author": "Jorge Láscar from Australia",
+        "attribution": "Photo: Jorge Láscar from Australia, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Lascar View of Prague's skyline from the Petřínská rozhledna (4501601667).jpg' confirms Prague; desc: The Petřínská rozhledna (Petřín lookout tower) is a 60 metre high steel framework tower in Prague, which strongly resembles the Eiffel Tower. Although it is muc"
+      },
+      "facts": {
+        "one_liner": "Vltava and Castle skyline from Petřín—red roofs, spires, and Charles Bridge below.",
+        "why_go": "Prague (Praha), capital of Czechia, reads clearest from Petřín Hill: Castle complex and St. Vitus Cathedral above Malá Strana’s red roofs, the Vltava, and the historic bridges including Charles Bridge. Prague City Tourism calls Prague Castle one of the world’s largest castle complexes and a seat of Czech heads of state since 1918. Walk the bridge into Staré Město, then climb or ride the Petřín funicular for the viewpoint that matches the photo. Gothic, Baroque, and café culture fill the compact historic core.",
+        "best_time": "May–June and September for mild walking weather. July–August and Christmas markets are busiest; January–February are quieter and colder for outdoor viewpoints.",
+        "how_to_get_there": "Václav Havel Airport Prague (PRG) links to the centre by trolleybus 59 (to metro A at Nádraží Veleslavín), bus 100, night 910, or Airport Express to the Main Station. Metro, trams, and the Petřín funicular serve Castle and Petřín areas; tram 22 is a common Castle approach.",
+        "good_to_know": "Castle grounds have extended outdoor hours; interior tickets have seasonal times—buy at courtyard info centres. Expect security checks and limited parking. Petřín Tower (Petřínská rozhledna) is a separate climb from the hill paths. Validate transit tickets; the historic core is best on foot.",
+        "official_or_tourism_url": "https://prague.eu/en/",
+        "sources": [
+          "https://prague.eu/en/objevujte/prague-castle-prazsky-hrad/",
+          "https://prague.eu/en/getting-to-prague/",
+          "https://prague.eu/en/objevujte/petrin-tower-information-centre/",
+          "https://www.visitczechia.com/en-US"
+        ]
+      },
+      "ad": {
+        "destination_query": "Prague, Czechia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Prague%2C%20Czechia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Prague%2C%20Czechia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Prague%2C%20Czechia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Prague"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    }
+  ]
+}

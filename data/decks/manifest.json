@@ -160,11 +160,40 @@
     "cities": {
       "live_file": "data/cities.json",
       "archive_dir": "data/decks/cities/",
-      "approved_count": 0,
+      "approved_count": 20,
       "catalog_target": 100,
       "scale_target_met": false,
-      "sets": [],
-      "next": "Scout cities-001 … 020"
+      "mvp_ready": true,
+      "sets": [
+        {
+          "id": "cities-set-001",
+          "file": "set-001.json",
+          "card_ids": [
+            "cities-001",
+            "cities-002",
+            "cities-003",
+            "cities-004",
+            "cities-005",
+            "cities-006",
+            "cities-007",
+            "cities-008",
+            "cities-009",
+            "cities-010",
+            "cities-011",
+            "cities-012",
+            "cities-013",
+            "cities-014",
+            "cities-015",
+            "cities-016",
+            "cities-017",
+            "cities-018",
+            "cities-019",
+            "cities-020"
+          ],
+          "status": "approved"
+        }
+      ],
+      "next": "Cities 021–040 toward 100"
     }
   },
   "other_tabs": [
