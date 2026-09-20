@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Stay or Stray — Swipe a place. Stay or stray.</title>
+  <meta name="description" content="Swipe a place. Stay or stray. Real locations, licensed photos." />
+  <link rel="stylesheet" href="./css/site.css" />
+</head>
+<body data-tab="hidden-gems" data-asset-root="./" data-show-home="false">
+  <header class="site-header">
+    <a class="home-btn" id="home-btn" href="index.html" hidden>Home</a>
+    <div class="brand-block">
+      <p class="brand">Stay or Stray</p>
+      <p class="tagline">Swipe a place. Stay or stray.</p>
+    </div>
+    <div class="session-stats" id="session-stats" aria-live="polite">Stay <strong>0</strong> · Stray <strong>0</strong></div>
+  </header>
+
+  <main class="wrap">
+    <nav aria-label="Categories">
+      <ul class="tab-nav" id="tab-nav"></ul>
+    </nav>
+
+    <section>
+      <h1 class="sr-only">Stay or Stray</h1>
+      <p class="intro-blurb">Hot-or-Not for real places. Featured deck: <strong>Hidden Gems</strong>.</p>
+    </section>
+
+    <p class="deck-section-label">Hidden Gems — featured</p>
+    <div class="sr-only" id="deck-live" aria-live="polite"></div>
+    <div class="deck" id="deck-root">
+      <p class="end-deck">Loading deck…</p>
+    </div>
+  </main>
+
+  <footer class="site-footer" id="footer">
+    <nav aria-label="Footer">
+      <a href="index.html#about">About</a>
+      <a href="index.html#credits">Photo credits</a>
+      <a href="index.html">Home</a>
+    </nav>
+    <p class="disclosure" id="affiliate-disclosure">As an affiliate we may earn from qualifying bookings.</p>
+    <p id="about" class="about-blurb"><strong>About Stay or Stray.</strong> Swipe real, visitable places — Stay if you’d go, Stray if you’d skip. Photos are licensed real photographs (no AI images). Booking links search the same destination as the card; affiliate IDs stay as <code>YOUR_AFFILIATE_ID</code> until configured in <code>config/affiliates.js</code>.</p>
+    <p id="credits" class="about-blurb">Phase 0 sample credits appear under each card. Full attributions live in <code>data/hidden-gems.json</code> (Wikimedia Commons CC licenses).</p>
+  </footer>
+
+  <script src="./config/affiliates.js"></script>
+  <script src="./js/swipe.js"></script>
+</body>
+</html>
