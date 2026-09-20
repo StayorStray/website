@@ -11,96 +11,59 @@
     "hidden-gems": {
       "live_file": "data/hidden-gems.json",
       "archive_dir": "data/decks/hidden-gems/",
-      "approved_count": 60,
+      "approved_count": 79,
       "catalog_target": 100,
       "sets": [
         {
           "id": "hidden-gems-set-001",
           "file": "set-001.json",
-          "card_ids": [
-            "hidden-gems-001",
-            "hidden-gems-002",
-            "hidden-gems-003",
-            "hidden-gems-004",
-            "hidden-gems-005",
-            "hidden-gems-006",
-            "hidden-gems-007",
-            "hidden-gems-008",
-            "hidden-gems-009",
-            "hidden-gems-010",
-            "hidden-gems-011",
-            "hidden-gems-012",
-            "hidden-gems-013",
-            "hidden-gems-014",
-            "hidden-gems-015",
-            "hidden-gems-016",
-            "hidden-gems-017",
-            "hidden-gems-018",
-            "hidden-gems-019",
-            "hidden-gems-020"
-          ],
           "status": "approved"
         },
         {
           "id": "hidden-gems-set-002",
           "file": "set-002.json",
-          "card_ids": [
-            "hidden-gems-021",
-            "hidden-gems-022",
-            "hidden-gems-023",
-            "hidden-gems-024",
-            "hidden-gems-025",
-            "hidden-gems-026",
-            "hidden-gems-027",
-            "hidden-gems-028",
-            "hidden-gems-029",
-            "hidden-gems-030",
-            "hidden-gems-031",
-            "hidden-gems-032",
-            "hidden-gems-033",
-            "hidden-gems-034",
-            "hidden-gems-035",
-            "hidden-gems-036",
-            "hidden-gems-037",
-            "hidden-gems-038",
-            "hidden-gems-039",
-            "hidden-gems-040"
-          ],
           "status": "approved"
         },
         {
           "id": "hidden-gems-set-003",
           "file": "set-003.json",
-          "card_ids": [
-            "hidden-gems-041",
-            "hidden-gems-042",
-            "hidden-gems-043",
-            "hidden-gems-044",
-            "hidden-gems-045",
-            "hidden-gems-046",
-            "hidden-gems-047",
-            "hidden-gems-048",
-            "hidden-gems-049",
-            "hidden-gems-050",
-            "hidden-gems-051",
-            "hidden-gems-052",
-            "hidden-gems-053",
-            "hidden-gems-054",
-            "hidden-gems-055",
-            "hidden-gems-056",
-            "hidden-gems-057",
-            "hidden-gems-058",
-            "hidden-gems-059",
-            "hidden-gems-060"
-          ],
           "status": "approved"
+        },
+        {
+          "id": "hidden-gems-set-004",
+          "file": "set-004.json",
+          "status": "approved",
+          "excluded": [
+            "hidden-gems-074"
+          ],
+          "card_ids": [
+            "hidden-gems-061",
+            "hidden-gems-062",
+            "hidden-gems-063",
+            "hidden-gems-064",
+            "hidden-gems-065",
+            "hidden-gems-066",
+            "hidden-gems-067",
+            "hidden-gems-068",
+            "hidden-gems-069",
+            "hidden-gems-070",
+            "hidden-gems-071",
+            "hidden-gems-072",
+            "hidden-gems-073",
+            "hidden-gems-075",
+            "hidden-gems-076",
+            "hidden-gems-077",
+            "hidden-gems-078",
+            "hidden-gems-079",
+            "hidden-gems-080"
+          ]
         }
       ],
       "daily_deck": {
-        "until_100": "Serve all 60 approved cards",
+        "until_100": "Serve all 79 approved cards",
         "at_100_plus": "Each calendar day pick/build a 100-card set; remix weekly so sets are never 100% identical week-to-week"
       },
-      "next": "HG 061–080 toward 100"
+      "next": "Fix 074 Tam Cốc photo → re-audit; then HG 081–100 toward 100"
     }
   },
   "other_tabs": [

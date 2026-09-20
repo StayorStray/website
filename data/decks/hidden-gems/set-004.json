@@ -1,0 +1,969 @@
+{
+  "id": "hidden-gems-set-004",
+  "tab": "hidden-gems",
+  "label": "Hidden Gems — Set 4 (061–080 minus Tam Cốc 074)",
+  "card_ids": [
+    "hidden-gems-061",
+    "hidden-gems-062",
+    "hidden-gems-063",
+    "hidden-gems-064",
+    "hidden-gems-065",
+    "hidden-gems-066",
+    "hidden-gems-067",
+    "hidden-gems-068",
+    "hidden-gems-069",
+    "hidden-gems-070",
+    "hidden-gems-071",
+    "hidden-gems-072",
+    "hidden-gems-073",
+    "hidden-gems-075",
+    "hidden-gems-076",
+    "hidden-gems-077",
+    "hidden-gems-078",
+    "hidden-gems-079",
+    "hidden-gems-080"
+  ],
+  "count": 19,
+  "auditor": "19/20 approved 2026-09-20; 074 Tam Cốc rejected photo mismatch",
+  "created": "2026-09-20T15:47:00-05:00",
+  "excluded": [
+    "hidden-gems-074"
+  ],
+  "cards": [
+    {
+      "id": "hidden-gems-061",
+      "tab": "hidden-gems",
+      "name": "Piódão",
+      "short_line": "Coimbra District, Portugal",
+      "country": "Portugal",
+      "lat": 40.2297,
+      "lng": -7.8247,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Pi%C3%B3d%C3%A3o_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-061.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APi%C3%B3d%C3%A3o_03.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Ricardo Saraiva de Almeida",
+        "attribution": "Photo: Ricardo Saraiva de Almeida, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Piódão 03.jpg' confirms Piódão; desc: Piódão - povoação em Arganil, Portugal"
+      },
+      "facts": {
+        "one_liner": "Schist amphitheatre village in Serra do Açor, one of Portugal’s Aldeias Históricas.",
+        "why_go": "Piódão sits on a steep Serra do Açor hillside in Arganil municipality (Coimbra District), with dark schist houses and slate roofs stacked in an amphitheatre layout often likened to a nativity scene (presépio). Blue-painted doors and window frames break the uniform stone colour; Visit Portugal notes the village’s isolation helped preserve its fabric. The white Igreja Matriz de Nossa Senhora da Conceição, remodelled around 1898–1900 under Canon Manuel Fernandes Nogueira with cylindrical buttresses, stands out among the schist lanes. Piódão is one of the twelve Aldeias Históricas de Portugal and has been classified as a Place of Public Interest since 1978; nearby trails link Foz d’Égua and Chãs d’Égua, and a small river beach forms in warmer months.",
+        "best_time": "Spring and early autumn for mild hiking weather and clearer mountain light; summer for the river beach but hotter climbs. Winter is quieter and can be cold and damp in the serra.",
+        "how_to_get_there": "Drive via Arganil / Coja into Serra do Açor (winding mountain roads; parking at the village edge). Public transport is sparse—plan a car, taxi, or organised tour from Coimbra or the Centro region. Explore on foot once there; lanes are steep and narrow.",
+        "good_to_know": "Wear sturdy shoes for cobbles and steps. Pair the village with the PR2-style walks toward Foz d’Égua if you want water and more schist hamlets. Facilities are limited compared with larger towns—bring cash and check restaurant hours off-season.",
+        "official_or_tourism_url": "https://aldeiashistoricasdeportugal.com/en/aldeia/piodao/",
+        "sources": [
+          "https://aldeiashistoricasdeportugal.com/en/aldeia/piodao/",
+          "https://www.visitportugal.com/en/NR/exeres/5CE33438-DBF3-490E-B492-F2555775E149",
+          "https://wetravelportugal.com/piodao-portugal/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Piódão, Portugal",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Pi%C3%B3d%C3%A3o%2C%20Portugal&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Pi%C3%B3d%C3%A3o%2C%20Portugal&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Pi%C3%B3d%C3%A3o%2C%20Portugal&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Piódão"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-062",
+      "tab": "hidden-gems",
+      "name": "Marsaxlokk",
+      "short_line": "South Eastern Region, Malta",
+      "country": "Malta",
+      "lat": 35.8419,
+      "lng": 14.5431,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Puerto_de_Marsaxlokk%2C_isla_de_Malta%2C_Malta%2C_2021-08-21%2C_DD_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-062.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APuerto_de_Marsaxlokk%2C_isla_de_Malta%2C_Malta%2C_2021-08-21%2C_DD_14.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Diego Delso",
+        "attribution": "Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Puerto de Marsaxlokk, isla de Malta, Malta, 2021-08-21, DD 14.jpg' confirms Marsaxlokk; desc: Marsaxlokk Harbour, Malta Island, Malta"
+      },
+      "facts": {
+        "one_liner": "Southeastern Maltese fishing harbour of colourful luzzu boats and a Sunday fish market.",
+        "why_go": "Marsaxlokk is a working fishing village on Malta’s southeast coast, known for traditional luzzu boats in the bay and waterfront seafood restaurants. Every Sunday the promenade hosts a large open-air market centred on fresh fish and produce (Suq il-Ħadd ta’ Marsaxlokk), with souvenir and general stalls continuing later in the day. Visit Malta and Malta Public Transport flag the Sunday fish market, Marsaxlokk Bay, and nearby St Peter’s Pool as the main visitor draws. On other days the harbour is quieter—still a place for a waterfront meal and boat photos without the peak Sunday crowds.",
+        "best_time": "Sunday morning for the fish market (arrive early; fish stalls are strongest before midday). Weekdays for a calmer harbour and lunch. Combine with St Peter’s Pool in warmer months when swimming conditions allow.",
+        "how_to_get_there": "From Valletta Terminal take bus 81 or 85; on Sundays Malta Public Transport also lists TD10. Bus 119 links Marsaxlokk with Malta International Airport. Journey times from Valletta are typically around 45–60 minutes depending on traffic.",
+        "good_to_know": "The market is free to walk; fish selection thins by early afternoon while general stalls may continue. Expect coach crowds mid-morning on Sundays. An industrial LNG terminal is visible across the bay—part of the modern harbour setting, not a historic backdrop.",
+        "official_or_tourism_url": "https://www.visitmalta.com/en/attraction/marsaxlokk-market",
+        "sources": [
+          "https://www.visitmalta.com/en/attraction/marsaxlokk-market",
+          "https://www.publictransport.com.mt/goaroundmaltabybus/marsaxlokk/",
+          "https://marsaxlokklc.gov.mt/en/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Marsaxlokk, Malta",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Marsaxlokk%2C%20Malta&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Marsaxlokk%2C%20Malta&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Marsaxlokk%2C%20Malta&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Marsaxlokk"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-063",
+      "tab": "hidden-gems",
+      "name": "Vernazza",
+      "short_line": "Liguria, Italy",
+      "country": "Italy",
+      "lat": 44.135,
+      "lng": 9.6847,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Vernazza_dal_Sentiero_Azzurro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-063.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AVernazza_dal_Sentiero_Azzurro.jpg",
+        "license": "CC BY-SA 2.5",
+        "author": "СССР",
+        "attribution": "Photo: СССР, CC BY-SA 2.5, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Vernazza dal Sentiero Azzurro.jpg' confirms Vernazza; desc: Vernazza seen from the Azure Trail."
+      },
+      "facts": {
+        "one_liner": "One Cinque Terre harbour village: car-free Via Roma to Piazza Marconi and Doria Castle.",
+        "why_go": "Vernazza is a single Ligurian harbour village within the Cinque Terre National Park—not a stand-in for all five towns. Documented from 1080 as a fortified maritime settlement of the Obertenghi, it centres on a small natural harbour, Piazza Marconi, and a pedestrian main street with steep side steps (arpaie). Landmarks include the church of Santa Margherita d’Antiochia and the remains of the medieval castrum with its cylindrical Doria Castle tower above the bay. Visit Vernazza and the Park Authority present hiking paths, seasonal boat trips, and Ligurian wine and food as the village’s everyday draws.",
+        "best_time": "April–June and September–October for hiking and ferry season with fewer peak crowds than July–August. Winter is quieter; some boat links pause and trails can be wet or closed after storms.",
+        "how_to_get_there": "Train is the practical arrival: about 20 minutes from La Spezia Centrale or about 10 minutes from Levanto (Trenitalia; frequent in high season). Seasonal ferries link Vernazza with La Spezia, Portovenere, Riomaggiore, Manarola, Monterosso, and Levanto. The historic centre is car-free—park outside the village.",
+        "good_to_know": "This listing is Vernazza only (Manarola is already elsewhere in the catalog). Buy Cinque Terre train/trail tickets as required for park trails; check trail status after rain. Expect steep steps between harbour, castle, and upper lanes.",
+        "official_or_tourism_url": "https://visitvernazza.org/en/",
+        "sources": [
+          "https://visitvernazza.org/en/",
+          "https://www.parconazionale5terre.it/Epun_dettaglio.php?id_pun=1811",
+          "https://www.cinqueterre.it/en/the-cinque-terre/vernazza/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Vernazza, Italy",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Vernazza%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Vernazza%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Vernazza%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Vernazza"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-064",
+      "tab": "hidden-gems",
+      "name": "Mikulov",
+      "short_line": "South Moravian Region, Czechia",
+      "country": "Czechia",
+      "lat": 48.8056,
+      "lng": 16.6378,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Overview_of_Mikulov_from_Svat%C3%BD_Kope%C4%8Dek_2020_pano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-064.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AOverview_of_Mikulov_from_Svat%C3%BD_Kope%C4%8Dek_2020_pano.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Tadeáš Bednarz",
+        "attribution": "Photo: Tadeáš Bednarz, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Overview of Mikulov from Svatý Kopeček 2020 pano.jpg' confirms Mikulov; desc: This is a photo of a cultural monument of the Czech Republic,number:"
+      },
+      "facts": {
+        "one_liner": "South Moravian wine town of Mikulov Chateau at the edge of the Pálava hills.",
+        "why_go": "Mikulov (German: Nikolsburg) sits about 50 km southeast of Brno near the Austrian border, on the last hills of the Pálava range and amid vineyards of the Mikulov wine sub-region. The Baroque Mikulov Chateau—once Liechtenstein then Dietrichstein—dominates the skyline and houses the Regional Museum, including a large viticulture display and a giant wine barrel dated 1643 in the chateau cellar. VisitCzechia and the town tourism pages also point visitors to Svatý kopeček (Holy Hill) with its Stations of the Cross, the historic Jewish quarter, and cellar streets for tastings. The annual Pálava wine harvest (Pálavské vinobraní) fills the town over a September weekend.",
+        "best_time": "May–September for longer chateau hours, vineyard walks, and outdoor tastings; early–mid September for harvest-festival atmosphere. Winter is quieter with shorter daylight and reduced cellar hours.",
+        "how_to_get_there": "By car or bus from Brno (roughly one hour). Trains and regional buses serve Mikulov from Břeclav and other South Moravian hubs; check IDOS / Czech Railways for current connections. The tourist information centre on Náměstí can arrange cellar bookings and local tips.",
+        "good_to_know": "Mikulov is a wine-and-chateau day trip more than a mountain hike base—pair with Pálava Protected Landscape Area trails if you want nature. Book popular wine cellars ahead in harvest week. Cross-border day trips into Austria are short by road.",
+        "official_or_tourism_url": "https://www.mikulov.cz/en/",
+        "sources": [
+          "https://www.mikulov.cz/en/",
+          "https://www.visitczechia.com/en-us/things-to-do/places/landmarks/cities/t-mikulov",
+          "https://www.mikulov.cz/en/tourist/exhibitions-of-viticulture"
+        ]
+      },
+      "ad": {
+        "destination_query": "Mikulov, Czechia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Mikulov%2C%20Czechia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Mikulov%2C%20Czechia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Mikulov%2C%20Czechia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Mikulov"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-065",
+      "tab": "hidden-gems",
+      "name": "Werfen",
+      "short_line": "Salzburg, Austria",
+      "country": "Austria",
+      "lat": 47.4769,
+      "lng": 13.1886,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Castillo_de_Hohenwerfen%2C_Werfen%2C_Austria%2C_2019-05-17%2C_DD_115.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-065.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACastillo_de_Hohenwerfen%2C_Werfen%2C_Austria%2C_2019-05-17%2C_DD_115.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Diego Delso",
+        "attribution": "Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Castillo de Hohenwerfen, Werfen, Austria, 2019-05-17, DD 115.jpg' confirms Werfen; desc: Gate of castle Hohenwerfen, Werfen, near Salzburg, Austria. The medieval rock castle, situated on a 623 metres (2,044 ft) precipice overlooking the town of Werf"
+      },
+      "facts": {
+        "one_liner": "Salzach valley market town below Fortress Hohenwerfen and the Eisriesenwelt ice cave.",
+        "why_go": "Werfen is a market town in Austria’s Salzburg Land, in the Salzach valley about 40 km south of the city of Salzburg. Above the village, Fortress Hohenwerfen (Burg Hohenwerfen) occupies a rock cone with falconry shows and an inclined elevator option for the ascent. Higher still in the Tennengebirge, Eisriesenwelt is a large limestone ice cave open seasonally: visitor-centre access involves a mountain road or shuttle bus, then cable car and a guided walk inside (sturdy shoes and warm layers; cave temperatures typically below freezing). The town itself is the practical base for both sites rather than a large urban destination.",
+        "best_time": "Eisriesenwelt runs roughly 1 May–1 November (confirm current year on the official site); summer is busiest. Combine fortress and cave on a long day from Salzburg in shoulder months for cooler queues. Winter: fortress may remain open while the ice cave is closed.",
+        "how_to_get_there": "ÖBB / S-Bahn trains from Salzburg Hbf to Werfen about every half hour (~45 minutes). From the station, walk (~30 minutes) or shuttle to Hohenwerfen; for Eisriesenwelt take the local bus from Werfen station or Gries stop up the 5 km access road to the visitor centre, then cable car. By car: A10 Tauernautobahn (vignette required) to Werfen / Pass Lueg exits.",
+        "good_to_know": "Reserve Eisriesenwelt timed tickets online in peak season—capacity is limited. Photography is not permitted inside the cave. Allow about three hours for the full ice-cave visit (bus/cable car/walk/tour). The fortress and cave sit in opposite directions from the station—plan logistics if doing both.",
+        "official_or_tourism_url": "https://www.eisriesenwelt.at/en/",
+        "sources": [
+          "https://www.eisriesenwelt.at/en/plan-your-visit/arrival",
+          "https://www.eisriesenwelt.at/en/plan-your-visit/all-at-a-glance",
+          "https://www.burg-hohenwerfen.at/en/your-visit/contact-directions"
+        ]
+      },
+      "ad": {
+        "destination_query": "Werfen, Austria",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Werfen%2C%20Austria&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Werfen%2C%20Austria&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Werfen%2C%20Austria&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Werfen"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-066",
+      "tab": "hidden-gems",
+      "name": "Tobermory",
+      "short_line": "Isle of Mull, Scotland",
+      "country": "United Kingdom",
+      "lat": 56.623,
+      "lng": -6.066,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Tobermory_waterfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-066.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ATobermory_waterfront.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "DeFacto",
+        "attribution": "Photo: DeFacto, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Tobermory waterfront.jpg' confirms Tobermory; desc: Tobermory waterfront, Isle of Mull"
+      },
+      "facts": {
+        "one_liner": "Colourful harbour capital of the Isle of Mull, Inner Hebrides.",
+        "why_go": "Tobermory is Mull’s main town, laid out as a late-18th-century fishing port around a sheltered bay with brightly painted waterfront buildings. VisitScotland and CalMac present it as the island’s best-known settlement—shops, hotels, Tobermory Distillery, Mull Museum, and a working harbour used by fishing boats, yachts, and the Kilchoan ferry. The town is also a base for wildlife watching (eagles, otters, and marine life in surrounding waters) and for onward trips toward Calgary Bay, Iona, and Staffa. Local tourism materials note its use as a filming location for the children’s series Balamory.",
+        "best_time": "May–September for longer ferry schedules, distillery and wildlife boat options, and milder weather. Shoulder months are quieter; winter sailings and opening hours are reduced and weather is more changeable.",
+        "how_to_get_there": "CalMac ferry Oban–Craignure (~45 minutes; book vehicles ahead), then West Coast Motors bus or drive ~35–40 minutes to Tobermory. Alternative car ferries: Lochaline–Fishnish, or Kilchoan–Tobermory directly into the harbour. Reach Oban by ScotRail from Glasgow Queen Street or by Citylink coach.",
+        "good_to_know": "Mull roads include single-track sections with passing places—allow extra driving time. Buses do not meet every ferry; check Traveline Scotland. Tobermory can fill with day visitors in midsummer; overnight stays make wildlife and west-coast beaches easier.",
+        "official_or_tourism_url": "https://www.visitscotland.com/places-to-go/islands/isle-mull",
+        "sources": [
+          "https://www.visitscotland.com/places-to-go/islands/isle-mull",
+          "https://www.calmac.co.uk/en-gb/destinations/mull/",
+          "https://www.tobermory.co.uk/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Tobermory, Isle of Mull, United Kingdom",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Tobermory%2C%20Isle%20of%20Mull%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Tobermory%2C%20Isle%20of%20Mull%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Tobermory%2C%20Isle%20of%20Mull%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Tobermory"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-067",
+      "tab": "hidden-gems",
+      "name": "Collioure",
+      "short_line": "Occitanie, France",
+      "country": "France",
+      "lat": 42.525,
+      "lng": 3.0817,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/L%27%C3%A9glise_Notre-Dame-des-Anges_et_une_partie_du_port%2C_Collioure_%286%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-067.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AL%27%C3%A9glise_Notre-Dame-des-Anges_et_une_partie_du_port%2C_Collioure_%286%29.JPG",
+        "license": "CC BY-SA 3.0",
+        "author": "Citevia",
+        "attribution": "Photo: Citevia, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:L'église Notre-Dame-des-Anges et une partie du port, Collioure (6).JPG' confirms Collioure; desc: Vue depuis le château royal."
+      },
+      "facts": {
+        "one_liner": "Catalan Côte Vermeille harbour town of Matisse, Derain, and the Chemin du Fauvisme.",
+        "why_go": "Collioure sits on the Côte Vermeille in French Catalonia (Pyrénées-Orientales), where the Albères meet the Mediterranean among terraced vineyards. Visit Occitanie highlights the bay, Boramar beach, the Royal Castle (Château Royal), and Notre-Dame-des-Anges with its lighthouse-based bell tower. In summer 1905 Henri Matisse and André Derain worked here; their bright colour experiments helped launch Fauvism, and the official Chemin du Fauvisme places reproductions of their canvases around town. Fort Saint-Elme above the bay and the D86 corniche toward Port-Vendres and Banyuls add coastal and vineyard context.",
+        "best_time": "April–June and September–October for milder heat and easier parking; July–August are busiest on beaches and lanes. Markets run Wednesday and Sunday mornings on Place du Maréchal Leclerc (confirm with the tourist office).",
+        "how_to_get_there": "TER regional trains stop at Collioure with connections via Perpignan (TGV hub toward Paris). By car: A9 exit 42, then coastal roads; about 2–2.5 hours from Montpellier or Toulouse corridors. Nearest airport: Perpignan–Rivesaltes (~36 km).",
+        "good_to_know": "Follow the Chemin du Fauvisme on foot via booklet, guided visit from Vitrine sur le Fauvisme (seasonal), or the “Collioure le voyage commence” app. Steep lanes in the Mouré quarter; combine with anchovy and Collioure AOP wine tastings if that interests you. Distinct Catalan coast town—not inland Occitanie cities.",
+        "official_or_tourism_url": "https://www.tourisme-collioure.com/",
+        "sources": [
+          "https://www.visit-occitanie.com/en/discovering/major-sites/collioure-cote-vermeille/",
+          "https://www.tourisme-collioure.com/activites-collioure/immersion-culturelle-collioure/le-chemin-du-fauvisme-collioure/",
+          "https://www.tourisme-collioure.com/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Collioure, France",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Collioure%2C%20France&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Collioure%2C%20France&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Collioure%2C%20France&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Collioure"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-068",
+      "tab": "hidden-gems",
+      "name": "Asilah",
+      "short_line": "Tanger-Tetouan-Al Hoceima, Morocco",
+      "country": "Morocco",
+      "lat": 35.4653,
+      "lng": -6.0347,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Borj_Sidi_Mimoun_in_Asilah_city.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-068.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABorj_Sidi_Mimoun_in_Asilah_city.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "OussamaHamama",
+        "attribution": "Photo: OussamaHamama, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Borj Sidi Mimoun in Asilah city.jpg' confirms Asilah; desc: Overlooking the Atlantic Ocean, the \"Borj Sidi Mimoun\" tower stands as one of the city’s most prominent historical landmarks. It forms part of the Portuguese fo"
+      },
+      "facts": {
+        "one_liner": "Atlantic medina of Portuguese ramparts and mural walls from the Asilah Cultural Moussem.",
+        "why_go": "Asilah (also Assilah / Arzila) is a small Atlantic town south of Tangier with a whitewashed medina, Portuguese-era ramparts and sea walls, and beaches north and south of town. Since 1978 the Moussem Culturel International d’Asilah—cofounded by Mohamed Benaïssa and Mohamed Melehi with collaborators including Toni Maraini—has brought artists to paint medina walls, run workshops, and stage exhibitions and concerts; murals remain part of the streetscape between editions (MoMA’s post journal documents the festival’s origins). The medina is compact and walkable via Bab Al Homar and Bab Al Kasbah; it is distinct from blue Chefchaouen, windy Essaouira, or other Moroccan coastal stops.",
+        "best_time": "Late spring and early autumn for milder Atlantic weather and easier walking. Summer brings beach season and the main mural/festival activity (dates vary by year—check current Moussem announcements). Winter is quieter and cooler with Atlantic wind.",
+        "how_to_get_there": "ONCF trains on the Tangier–Rabat line stop at Asilah; the station is about 2 km from the medina (petit taxi or walk along the coast). Grand taxis and buses also run from Tangier (~45–60 minutes by road). Cars are not allowed inside the medina.",
+        "good_to_know": "Murals change over festival years; some walls are whitewashed between editions. Do not confuse Asilah with Chefchaouen (blue mountain medina) or Essaouira (larger Atlantic medina further south). Bring modest dress for medina lanes; sunset walks on the ramparts are a local favourite.",
+        "official_or_tourism_url": "https://post.moma.org/the-asilah-cultural-moussem-tricontinental-meeting-points-toni-maraini-in-conversation-with-morad-montazami/",
+        "sources": [
+          "https://post.moma.org/the-asilah-cultural-moussem-tricontinental-meeting-points-toni-maraini-in-conversation-with-morad-montazami/",
+          "https://www.slowmorocco.com/places/asilah-murals",
+          "https://en.wikivoyage.org/wiki/Asilah"
+        ]
+      },
+      "ad": {
+        "destination_query": "Asilah, Morocco",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Asilah%2C%20Morocco&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Asilah%2C%20Morocco&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Asilah%2C%20Morocco&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Asilah"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-069",
+      "tab": "hidden-gems",
+      "name": "Sibiu",
+      "short_line": "Transylvania, Romania",
+      "country": "Romania",
+      "lat": 45.7983,
+      "lng": 24.1256,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sibiu_%28Hermannstadt%2C_Nagyszeben%29_-_Large_Square_%28Pia%C8%9Ba_Mare%2C_Gro%C3%9Fer_Ring%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-069.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASibiu_%28Hermannstadt%2C_Nagyszeben%29_-_Large_Square_%28Pia%C8%9Ba_Mare%2C_Gro%C3%9Fer_Ring%29.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Pudelek",
+        "attribution": "Photo: Pudelek, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Sibiu (Hermannstadt, Nagyszeben) - Large Square (Piața Mare, Großer Ring).jpg' confirms Sibiu; desc: Sibiu (Hermannstadt, Nagyszeben), Romania - Large Square (Piața Mare, Großer Ring)"
+      },
+      "facts": {
+        "one_liner": "Transylvanian old town of Piața Mare and eye-shaped attic dormers (Ochii Sibiului).",
+        "why_go": "Sibiu (German: Hermannstadt) is a historic Transylvanian city whose Upper Town centres on Piața Mare (Large Square), Piața Mică (Small Square), and connecting passages and towers. County tourism materials highlight colourful façades, courtyards, churches, and the Council Tower for rooftop views toward the Făgăraș Mountains. The city’s famous “eyes”—Ochii Sibiului / Augen von Hermannstadt—are eyebrow-shaped attic dormers that ventilate lofts; most date from Baroque and 19th-century building phases and have become a local symbol. Sibiu was a European Capital of Culture in 2007 and keeps a busy festival and museum calendar.",
+        "best_time": "May–September for outdoor squares and longer daylight; December for Christmas markets if that interests you. Shoulder seasons are quieter for photographing the roofscape.",
+        "how_to_get_there": "Sibiu International Airport has seasonal and year-round links; the city is also reached by train and coach from Bucharest, Brașov, Cluj-Napoca, and other Romanian hubs (journey times vary—check CFR Călători and bus operators). The historic centre is compact and best walked from the station or a central hotel.",
+        "good_to_know": "Climb the Council Tower (Turnul Sfatului) for the classic view of dormer “eyes.” Local and German names both appear on maps (Sibiu / Hermannstadt). Pair with nearby Saxon villages or mountain day trips if extending a stay—do not confuse with Sighișoara further east.",
+        "official_or_tourism_url": "http://www.sibiu-turism.ro/Destinations-Historic-towns-Sibiu.aspx",
+        "sources": [
+          "http://www.sibiu-turism.ro/Destinations-Historic-towns-Sibiu.aspx",
+          "https://en.wikipedia.org/wiki/Eyes_of_Sibiu",
+          "https://turism.sibiu.ro/pdf/en2015.pdf"
+        ]
+      },
+      "ad": {
+        "destination_query": "Sibiu, Romania",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sibiu%2C%20Romania&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sibiu%2C%20Romania&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sibiu%2C%20Romania&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Sibiu"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-070",
+      "tab": "hidden-gems",
+      "name": "Jajce",
+      "short_line": "Central Bosnia Canton, Bosnia and Herzegovina",
+      "country": "Bosnia and Herzegovina",
+      "lat": 44.3419,
+      "lng": 17.2706,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Jajce_%E2%80%93_Pliva_waterfall.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-070.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AJajce_%E2%80%93_Pliva_waterfall.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Julian Nyča",
+        "attribution": "Photo: Julian Nyča, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Jajce – Pliva waterfall.jpg' confirms Jajce; desc: Pliva-Wasserfall in Jajce, unten der Vrbas"
+      },
+      "facts": {
+        "one_liner": "Fortress town where the Pliva falls into the Vrbas as a waterfall in the town centre.",
+        "why_go": "Jajce sits in Central Bosnia Canton at the confluence of the Pliva and Vrbas rivers. Visit Jajce / Agencija Jajce highlight the Pliva Waterfall (Plivski vodopad) in the town centre, the medieval fortress (Tvrđava) above the old town, rock-cut catacombs associated with Hrvoje Vukčić Hrvatinić, and the wooden Mlinčići watermills between the Large and Small Pliva Lakes a short way upstream. The fortress complex is linked to the late medieval Bosnian kingdom; the town also hosts the Museum of the Second AVNOJ Session (1943). The waterfall viewpoint platforms on the south bank are a free, central stop.",
+        "best_time": "April–June for fuller waterfall flow after snowmelt; June–August for lake swimming and mill visits (busier weekends). September–October for quieter sightseeing and autumn colour. Winter is quiet with reduced flow and some closures.",
+        "how_to_get_there": "Intercity buses from Sarajevo take roughly 3–3.5 hours to the lower town; driving the M5/M16 via Zenica and Donji Vakuf is about 2.5–3 hours (winding sections—allow buffer). Travnik is about 25–30 minutes away and pairs well on the same day. From the bus drop-off, walk up toward the waterfall and old town gate.",
+        "good_to_know": "Waterfall viewpoints are free; fortress and mill-area sites charge small local entry fees (confirm current amounts on visitjajce.ba). Climb to the fortress for confluence and waterfall views. Late summer flow can be thinner than spring—plan accordingly if the falls are your priority.",
+        "official_or_tourism_url": "https://visitjajce.ba/",
+        "sources": [
+          "https://visitjajce.ba/",
+          "https://www.agencija-jajce.ba/en/home/",
+          "https://www.bosnia-spirit.com/destinations/jajce/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Jajce, Bosnia and Herzegovina",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Jajce%2C%20Bosnia%20and%20Herzegovina&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Jajce%2C%20Bosnia%20and%20Herzegovina&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Jajce%2C%20Bosnia%20and%20Herzegovina&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Jajce"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-071",
+      "tab": "hidden-gems",
+      "name": "Plovdiv",
+      "short_line": "Plovdiv Province, Bulgaria",
+      "country": "Bulgaria",
+      "lat": 42.1354,
+      "lng": 24.7453,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Roman_Theatre_Plovdiv_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-071.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ARoman_Theatre_Plovdiv_3.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "MrPanyGoff",
+        "attribution": "Photo: MrPanyGoff, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Roman Theatre Plovdiv 3.jpg' confirms Plovdiv; desc: The ancient Roman theatre in Plovdiv, Bulgaria."
+      },
+      "facts": {
+        "one_liner": "Thracian-plain city of Old Town hills, Kapana craft quarter, and a working Roman theater.",
+        "why_go": "Plovdiv’s Ancient Plovdiv Architectural-Historical Reserve (Old Town) stacks Thracian, Hellenistic, Roman, Ottoman, and Bulgarian Revival layers across the Three Hills—Nebet Tepe fortifications, Hisar Kapia gate, and museum-houses with carved wood and murals. The Ancient Theatre of Philippopolis, built under Emperor Trajan (98–117 AD) and excavated 1968–1979, still hosts drama, dance, and music. Just below, Kapana is the city’s historic craft/charshiya district of narrow medieval streets, now galleries, workshops, cafés, and nightlife.",
+        "best_time": "April–June and September–October for milder weather and outdoor Old Town walking; summer evenings for open-air events at the Ancient Theatre. Winter is quieter with shorter daylight.",
+        "how_to_get_there": "Frequent BDZ trains from Sofia to Plovdiv (about 2–2.5 hours from Sofia Central). Sofia Airport connects by metro/bus to the central station. Plovdiv also has its own airport with limited scheduled service. Old Town and Kapana are walkable from the centre; cobbles and hills reward sturdy shoes.",
+        "good_to_know": "Combine Old Town museum-houses with a Kapana evening and check the theatre calendar for performances. Steep, sometimes slippery seating at the Ancient Theatre—bring water and watch your footing. Combined tickets for several Ancient Plovdiv sites are sold via the municipal Old Town institute.",
+        "official_or_tourism_url": "https://oldplovdiv.bg/en/index",
+        "sources": [
+          "https://oldplovdiv.bg/en/index",
+          "https://www.ancienttheaterplovdiv.eu/en/",
+          "https://visitkapana.bg/en/about-the-district/",
+          "https://www.tourism.government.bg/en/tourist-destinations/2799/5759"
+        ]
+      },
+      "ad": {
+        "destination_query": "Plovdiv, Bulgaria",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Plovdiv%2C%20Bulgaria&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Plovdiv%2C%20Bulgaria&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Plovdiv%2C%20Bulgaria&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Plovdiv"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-072",
+      "tab": "hidden-gems",
+      "name": "Sighișoara",
+      "short_line": "Transylvania, Romania",
+      "country": "Romania",
+      "lat": 46.2197,
+      "lng": 24.7922,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Sighi%C5%9Foara_178.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-072.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASighi%C5%9Foara_178.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Bogdan Muraru",
+        "attribution": "Photo: Bogdan Muraru, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Sighişoara 178.jpg' confirms Sighișoara; desc: Ansamblu fortificații: intrarea fortificată, Turnul cu Ceas, Turnul Tăbăcarilor, Turnul Cositorarilor, Turnul Frânghierilor, Turnul Măcelarilor și Bastionul Cas"
+      },
+      "facts": {
+        "one_liner": "UNESCO Transylvanian Saxon citadel town crowned by its Clock Tower museum.",
+        "why_go": "The Historic Centre of Sighişoara was inscribed by UNESCO in 1999 as a fortified medieval town founded by Transylvanian Saxon craftsmen and merchants. The citadel’s defensive system once included a long wall, guild towers, and bastions; nine towers and parts of the wall remain. The Clock Tower (Turnul cu Ceas), rebuilt after the 1676 fire with a baroque roof and four corner turrets, has housed the Sighișoara History Museum since 1899 and remains the town’s landmark gateway into the upper citadel—distinct from Sibiu’s larger Saxon historic centre farther west.",
+        "best_time": "May–September for longer museum hours and outdoor citadel walking; shoulder months are quieter than midsummer day-trip peaks. Winter hours are shorter; Mondays the History Museum is typically closed.",
+        "how_to_get_there": "By train or road in Mureș County, Transylvania—about 54 km southeast of Târgu Mureș (Visit Mureș). Connections via Brașov or Cluj are common for longer itineraries. Once there, the citadel is compact and best explored on foot; expect steep lanes and stairs to the Covered Staircase and Church on the Hill.",
+        "good_to_know": "Climb the Clock Tower for views and museum rooms (archaeology, clocks, pharmacy collection). Respect that the citadel remains a lived-in town, not an open-air museum. Confirm seasonal History Museum hours (summer vs winter schedules) before you go.",
+        "official_or_tourism_url": "https://www.primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/turism-00000D96",
+        "sources": [
+          "https://whc.unesco.org/en/list/902/",
+          "https://visitmures.com/en/blog/the-medieval-citadel-of-sighisoara",
+          "https://visitmures.com/en/sighisoara/built-heritage/museums/sighisoara-history-museum",
+          "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/serviciul+muzeul+de+istorie-00001E6A"
+        ]
+      },
+      "ad": {
+        "destination_query": "Sighișoara, Romania",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sighi%C8%99oara%2C%20Romania&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sighi%C8%99oara%2C%20Romania&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sighi%C8%99oara%2C%20Romania&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Sighișoara"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-073",
+      "tab": "hidden-gems",
+      "name": "Lijiang Old Town",
+      "short_line": "Yunnan, China",
+      "country": "China",
+      "lat": 26.8721,
+      "lng": 100.2299,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lijiang_Old_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-073.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ALijiang_Old_Town.jpg",
+        "license": "CC BY 2.0",
+        "author": "ChiralJon",
+        "attribution": "Photo: ChiralJon, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Lijiang Old Town.jpg' confirms Lijiang Old Town; desc: Pedestrian street in Lijiang (old town), Yunnan Province, China. 2008. About 2400 metres altitude."
+      },
+      "facts": {
+        "one_liner": "UNESCO Naxi old town in Yunnan with canals, timber houses, and mountain setting.",
+        "why_go": "The Old Town of Lijiang, inscribed by UNESCO in 1997 (criteria ii, iv, v), sits on the Lijiang plain at about 2,400 m in northwest Yunnan. The serial property comprises Dayan Old Town (including Black Dragon Pond / Heilong Pool), plus Baisha and Shuhe housing clusters. UNESCO highlights Naxi timber-framed, tile-roofed houses that blend Han, Bai, and Tibetan elements, an ingenious canal-and-spring water system still in use, and the town’s historic role on southern Silk Road / Tea-Horse routes linking Sichuan, Yunnan, and Tibet.",
+        "best_time": "Spring and autumn for milder highland weather; summer brings monsoon rain. Peak domestic holiday periods (especially Chinese New Year and Golden Week) are very crowded in Dayan’s core lanes.",
+        "how_to_get_there": "Fly into Lijiang Sanyi Airport, then road transfer into the city. High-speed and conventional rail also serve Lijiang on Yunnan routes. Dayan’s old streets are largely pedestrian—use taxis or buses to edge parking and walk in. Baisha (~8 km north) and Shuhe (~4 km northwest) are short taxi or bus hops from Dayan.",
+        "good_to_know": "Expect heavy tourism commercialization in central Dayan; early mornings are quieter. Altitude is noticeable for some visitors—pace yourself. Conservation and visitor-management pressures are documented by UNESCO monitoring; stay on public lanes and respect local housing.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/811/",
+        "sources": [
+          "https://whc.unesco.org/en/list/811/",
+          "https://whc.unesco.org/en/list/811/documents/",
+          "https://whc.unesco.org/download.cfm?id_document=10058"
+        ]
+      },
+      "ad": {
+        "destination_query": "Lijiang, China",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Lijiang%2C%20China&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Lijiang%2C%20China&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Lijiang%2C%20China&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Lijiang Old Town"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-075",
+      "tab": "hidden-gems",
+      "name": "Takayama",
+      "short_line": "Gifu Prefecture, Japan",
+      "country": "Japan",
+      "lat": 36.1461,
+      "lng": 137.2522,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Sanmachi_Takayama02ds3872.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-075.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASanmachi_Takayama02ds3872.jpg",
+        "license": "CC BY 2.5",
+        "author": "663highland",
+        "attribution": "Photo: 663highland, CC BY 2.5, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Sanmachi Takayama02ds3872.jpg' confirms Takayama; desc: Sanmachi in Takayama, Gifu prefecture, Japan"
+      },
+      "facts": {
+        "one_liner": "Hida mountain town of Edo-era Sanmachi streets and daily morning markets.",
+        "why_go": "Hida Takayama’s Sanmachi (and related Oshinmachi / Shimoni-no-machi) districts are designated Preservation Districts for Groups of Traditional Buildings, retaining Edo-period (1603–1867) merchant streetscapes of timber townhouses, craft shops, and sake breweries. Japan National Tourism Organization flags Takayama Jinya—the former shogunal government office—and two morning markets: Jinya-mae in front of the jinya and Miyagawa along the Miyagawa River, selling local produce, pickles, flowers, and crafts. The old town is a compact base for wider Hida day trips.",
+        "best_time": "Year-round; spring and autumn festival periods (Takayama Matsuri) are spectacular but crowded—book lodging early. Morning markets generally run until about noon; winter start times can be later. Early mornings are best for quieter Sanmachi lanes.",
+        "how_to_get_there": "JR Limited Express Hida from Nagoya to Takayama Station (about 2 hours 20 minutes). Connections also from Toyama (~1.5 hours) and highway buses from Matsumoto. Sanmachi is roughly a 15-minute walk east of the station (JNTO).",
+        "good_to_know": "Arrive at morning markets before mid-morning for fuller stalls. Many shop façades open around 09:00. Combine Sanmachi with Takayama Jinya and, if time allows, Hida Folk Village (Hida-no-Sato) outside the centre. Winter snow is common—wear non-slip footwear.",
+        "official_or_tourism_url": "https://www.hida.jp/english/",
+        "sources": [
+          "https://www.japan.travel/en/spot/152/",
+          "https://www.japan.travel/en/destinations/tokai/gifu/takayama-and-around/",
+          "https://www.hida.jp/english/",
+          "https://hietsuno-japan.com/en/thingstodo/morning_markets/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Takayama, Japan",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Takayama%2C%20Japan&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Takayama%2C%20Japan&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Takayama%2C%20Japan&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Takayama"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-076",
+      "tab": "hidden-gems",
+      "name": "Ollantaytambo",
+      "short_line": "Sacred Valley, Peru",
+      "country": "Peru",
+      "lat": -13.2581,
+      "lng": -72.2633,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Ollantaytambo_town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-076.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AOllantaytambo_town.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Ivanpares",
+        "attribution": "Photo: Ivanpares, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Ollantaytambo town.jpg' confirms Ollantaytambo; desc: Ollantaytambo town"
+      },
+      "facts": {
+        "one_liner": "Sacred Valley Inca town of lived-in streets plus the hillside fortress and terraces.",
+        "why_go": "Ollantaytambo (Urubamba Province, Cusco) pairs a continuously occupied Inca settlement—planned sectors such as Qosqo Ayllu and Araccama Ayllu with plazas, canals, and residential compounds—with the large Archaeological Park of terraces, platforms, storehouses, and ceremonial structures often called the fortress. Peru’s Dirección Desconcentrada de Cultura de Cusco notes imperial and late Inca phases (traditionally linked to Pachacútec) at about 2,860 m elevation. Mincetur named it Peru’s first “Pueblo con Encanto” (2022); it is also a principal train gateway toward Machu Picchu.",
+        "best_time": "Dry season (roughly May–September) for clearer Sacred Valley hiking and site visits; mornings are cooler and less crowded at the ruins. Rainy-season afternoons can be wet and slippery on stone steps.",
+        "how_to_get_there": "From Cusco by paved road via Chinchero–Urubamba (~61 km) or via Pisaq–Calca–Urubamba (~92 km), per Cultura Cusco. Collectivos and tourist buses serve the valley. PeruRail and Inca Rail trains to Aguas Calientes (Machu Picchu Pueblo) depart from Ollantaytambo station near town—arrive early with tickets in hand.",
+        "good_to_know": "Archaeological Park hours are listed as 07:00–16:30 by Cultura Cusco; entry is typically via the Cusco Tourist Ticket (boleto turístico) circuits—confirm current circuit coverage. Do not climb walls, fly drones without authorization, or bring food into the park. Altitude (~2,860 m) warrants a slow first day; the town streets themselves are part of the visit, not only the hillside ruins.",
+        "official_or_tourism_url": "https://www.culturacusco.gob.pe/parques/ollantaytambo/",
+        "sources": [
+          "https://www.culturacusco.gob.pe/parques/ollantaytambo/",
+          "https://www.gob.pe/institucion/mincetur/noticias/1091731-ollantaytambo-el-primer-pueblo-con-encanto-del-peru-y-una-joya-arquitectonica-camino-a-machu-picchu",
+          "https://www.perurail.com/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Ollantaytambo, Peru",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ollantaytambo%2C%20Peru&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ollantaytambo%2C%20Peru&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ollantaytambo%2C%20Peru&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Ollantaytambo"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-077",
+      "tab": "hidden-gems",
+      "name": "Villa de Leyva",
+      "short_line": "Boyacá, Colombia",
+      "country": "Colombia",
+      "lat": 5.6339,
+      "lng": -73.5256,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Plaza_Mayor_Villa_de_Leyva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-077.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APlaza_Mayor_Villa_de_Leyva.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "K.sarmientorojas",
+        "attribution": "Photo: K.sarmientorojas, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Plaza Mayor Villa de Leyva.jpg' confirms Villa de Leyva; desc: Durante el atardecer el sol golpea el suelo Plaza Mayor de Villa de Leyva, a lo lejos se visualizan algunas familias elevando cometa."
+      },
+      "facts": {
+        "one_liner": "Boyacá colonial town around Colombia’s vast cobbled Plaza Mayor.",
+        "why_go": "Villa de Leyva preserves a whitewashed colonial centre declared a National Monument in 1954. Colombia Travel highlights the Plaza Mayor—about 14,000 m² of stone paving with a central fountain, framed by the alcaldía, museums, hotels, and arcades—and the Parish Church of Our Lady of the Rosary (begun 1604). Beyond the square, visitors pair the historic centre with nearby paleontology sites (El Fósil, Paleontological Museum) and landscapes from páramo edges to desert pools such as Pozos Azules.",
+        "best_time": "Dry-season weekends fill quickly with Bogotá day-trippers; midweek or shoulder months are calmer. Evenings cool to roughly jacket weather year-round (average around 18°C per Colombia Travel). August kite festival and December lights are peak event periods.",
+        "how_to_get_there": "About 40 km west of Tunja (Boyacá capital) by road; buses and shared taxis run from Tunja and from Bogotá (roughly 3–4 hours depending on traffic). Once in town, the historic centre is walkable; taxis help for El Fósil or Pozos Azules.",
+        "good_to_know": "Wear comfortable shoes for cobbles. Sunscreen and a light jacket for cool evenings. Swimming is not allowed at Pozos Azules (Colombia Travel). Book lodging ahead for festival weekends.",
+        "official_or_tourism_url": "https://colombia.travel/en/villa-de-leyva",
+        "sources": [
+          "https://colombia.travel/en/villa-de-leyva",
+          "https://situr.boyaca.gov.co/atractivo-turistico/plaza-principal-o-plaza-mayor/",
+          "https://www.villadeleyva-boyaca.gov.co/MiMunicipio/paginas/sitios-de-interes.aspx"
+        ]
+      },
+      "ad": {
+        "destination_query": "Villa de Leyva, Colombia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Villa%20de%20Leyva%2C%20Colombia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Villa%20de%20Leyva%2C%20Colombia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Villa%20de%20Leyva%2C%20Colombia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Villa de Leyva"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-078",
+      "tab": "hidden-gems",
+      "name": "Woodstock, Vermont",
+      "short_line": "Windsor County, Vermont",
+      "country": "United States",
+      "lat": 43.6242,
+      "lng": -72.5186,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Woodstock%2C_Vermont.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-078.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AWoodstock%2C_Vermont.jpg",
+        "license": "CC BY-SA 2.0",
+        "author": "Dougtone",
+        "attribution": "Photo: Dougtone, CC BY-SA 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Woodstock, Vermont.jpg' confirms Woodstock, Vermont; desc: Woodstock, Vermont"
+      },
+      "facts": {
+        "one_liner": "Walkable Windsor County village green with Billings Farm and a national historical park.",
+        "why_go": "Woodstock, Vermont (not the New York festival town) is a classic New England village around a green of shops, inns, and restaurants in Windsor County. Nearby Billings Farm & Museum is a working dairy farm and 1890s farm-life museum a short walk from the village; across Route 12, Marsh-Billings-Rockefeller National Historical Park interprets conservation history on linked historic grounds. Local tourism also points to covered-bridge scenery, farms, and seasonal festivals such as Wassail Weekend.",
+        "best_time": "September–October for foliage; December for holiday events; summer for farm and outdoor activities. Winter is quieter with snow sports nearby; spring mud season can make some trails soft.",
+        "how_to_get_there": "By car via US-4 through central Vermont (about 2.5–3 hours from Boston; roughly 4–5 hours from New York City depending on traffic). No Amtrak station in town—drive or connect via White River Junction / Lebanon NH area. The village centre is walkable; free/paid lots serve downtown and Billings Farm has free visitor parking.",
+        "good_to_know": "Billings Farm & Museum and the National Historical Park are adjacent but separately managed (NPS passes do not cover Billings Farm admission). Pets are not allowed on Billings Farm grounds (service animals excepted). Confirm seasonal farm and park hours before visiting.",
+        "official_or_tourism_url": "https://www.woodstockvt.com/",
+        "sources": [
+          "https://www.woodstockvt.com/",
+          "https://billingsfarm.org/visit/",
+          "https://www.nps.gov/mabi/index.htm",
+          "https://www.nps.gov/mabi/planyourvisit/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Woodstock, Vermont, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Woodstock%2C%20Vermont%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Woodstock%2C%20Vermont%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Woodstock%2C%20Vermont%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Woodstock, Vermont"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-079",
+      "tab": "hidden-gems",
+      "name": "Arrowtown",
+      "short_line": "Otago, New Zealand",
+      "country": "New Zealand",
+      "lat": -44.9386,
+      "lng": 168.8344,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/00_0352_Buildings_in_Arrowtown.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-079.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3A00_0352_Buildings_in_Arrowtown.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "W. Bulach",
+        "attribution": "Photo: W. Bulach, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:00 0352 Buildings in Arrowtown.jpg' confirms Arrowtown; desc: Arrowtown, eine ehemalige Goldgräberstadt auf der Südinsel von Neuseeland (nahe Queenstown). Die Aufnahme zeigt das historische Gebäude der Arrowtown Pharmacy."
+      },
+      "facts": {
+        "one_liner": "Otago gold-rush village of Buckingham Street cottages and Chinese Settlement huts.",
+        "why_go": "Arrowtown (Kā-Muriwai) on the Arrow River began as an 1862 gold town after Māori shearer Jack Tewa’s find drew miners to the valley. Tohu Whenua and local tourism highlight more than 60 historic buildings, including Buckingham Street’s avenue of cottages and former banks, plus the restored Arrowtown Chinese Settlement along Bush Creek—huts of mostly Cantonese miners invited after many Europeans left for the West Coast rush, occupied into the early 20th century and now cared for by DOC. Lakes District Museum interprets the gold story; trails follow river and hills.",
+        "best_time": "Autumn (March–May) for famous tree colour along the avenues; summer for walking and biking; winter for nearby ski fields with a quieter village base. Weekends from Queenstown can be busy year-round.",
+        "how_to_get_there": "About a 20-minute drive from Queenstown / Tāhuna (~7.5 km off SH6 per Tohu Whenua). Local buses and tours also link Queenstown and Arrowtown. Once there, historic streets and the Chinese Settlement are walkable; bike the Queenstown Trail network for longer outings.",
+        "good_to_know": "Visit the Chinese Settlement respectfully—structures are heritage-protected and free to view. Combine Buckingham Street with the museum and a riverside walk. Gold-panning hire is a common family activity along the Arrow; check current operators at the Information Centre.",
+        "official_or_tourism_url": "https://www.arrowtown.com/",
+        "sources": [
+          "https://www.arrowtown.com/",
+          "https://tohuwhenua.nz/regions/otago/arrowtown/",
+          "https://www.arrowtown.com/plan-your-visit/information-centre/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Arrowtown, New Zealand",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Arrowtown%2C%20New%20Zealand&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Arrowtown%2C%20New%20Zealand&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Arrowtown%2C%20New%20Zealand&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Arrowtown"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    },
+    {
+      "id": "hidden-gems-080",
+      "tab": "hidden-gems",
+      "name": "Capri Marina Grande",
+      "short_line": "Campania, Italy",
+      "country": "Italy",
+      "lat": 40.5556,
+      "lng": 14.2406,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Marina_Grande_Capri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/hidden-gems/hidden-gems-080.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMarina_Grande_Capri.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Wolfgang Moroder",
+        "attribution": "Photo: Wolfgang Moroder, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Marina Grande Capri.jpg' confirms Capri Marina Grande; desc: Marina Grande port in Capri."
+      },
+      "facts": {
+        "one_liner": "Capri’s main harbor: ferry pier, funicular hub, pebble beach, and fishing houses.",
+        "why_go": "Marina Grande is Capri’s sole commercial port—the landing for ferries and hydrofoils from Naples, Sorrento, and other Campania ports—and the island’s transport crossroads. Capri.com describes the colorful waterfront hamlet (within Capri town municipality) with ferry ticket offices, tourist information, buses, open taxis, and the funicular that climbs in minutes to Capri’s Piazzetta. The harbor also launches boat tours and Blue Grotto transfers, holds the island’s largest pebble beach (public plus beach clubs), and sits near the Church of San Costanzo and the base of the Scala Fenicia (Phoenician Steps) toward Anacapri.",
+        "best_time": "April–June and September–October for ferry frequency without peak August crowds; July–August are busiest at the pier. Winter service continues but with fewer boats and a quieter waterfront.",
+        "how_to_get_there": "All public ferries and hydrofoils to Capri dock at Marina Grande (Caremar and other operators from Naples Beverello / Porta di Massa, Sorrento, and seasonal Amalfi Coast links). From the pier, take the funicular or bus uphill—do not expect to “arrive in Capri town” without this transfer. Private boats use the adjacent marina on Via Cristoforo Colombo.",
+        "good_to_know": "This entry is the harbor, not a whole-island brochure: many day-trippers pass through quickly en route to the Piazzetta or Anacapri. Return to the pier well before your ferry in peak season. Evenings are calmer for a waterfront meal; the climb of the Phoenician Steps (hundreds of stone stairs) is strenuous and best in cooler hours.",
+        "official_or_tourism_url": "https://www.capri.com/en/e/marina-grande",
+        "sources": [
+          "https://www.capri.com/en/e/marina-grande",
+          "https://www.capri.net/en/e/marina-grande",
+          "https://shop.caremar.it/en/timetable/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Capri, Italy",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Capri%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Capri%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Capri%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Capri Marina Grande"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      }
+    }
+  ]
+}

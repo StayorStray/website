@@ -2,7 +2,7 @@
   "brand": "Stay or Stray",
   "tagline": "Swipe a place. Stay or stray.",
   "phase": "1-audit",
-  "updated": "2026-09-20T15:16:00-05:00",
+  "updated": "2026-09-20T15:47:00-05:00",
   "tabs": [
     "hidden-gems",
     "cities",
@@ -17,8 +17,8 @@
   ],
   "counts": {
     "pending": 0,
-    "approved": 60,
-    "rejected": 0
+    "approved": 79,
+    "rejected": 1
   },
   "cards": [
     {
@@ -380,11 +380,131 @@
       "tab": "hidden-gems",
       "name": "Bryggen, Bergen",
       "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-061",
+      "tab": "hidden-gems",
+      "name": "Piódão",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-062",
+      "tab": "hidden-gems",
+      "name": "Marsaxlokk",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-063",
+      "tab": "hidden-gems",
+      "name": "Vernazza",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-064",
+      "tab": "hidden-gems",
+      "name": "Mikulov",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-065",
+      "tab": "hidden-gems",
+      "name": "Werfen",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-066",
+      "tab": "hidden-gems",
+      "name": "Tobermory",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-067",
+      "tab": "hidden-gems",
+      "name": "Collioure",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-068",
+      "tab": "hidden-gems",
+      "name": "Asilah",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-069",
+      "tab": "hidden-gems",
+      "name": "Sibiu",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-070",
+      "tab": "hidden-gems",
+      "name": "Jajce",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-071",
+      "tab": "hidden-gems",
+      "name": "Plovdiv",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-072",
+      "tab": "hidden-gems",
+      "name": "Sighișoara",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-073",
+      "tab": "hidden-gems",
+      "name": "Lijiang Old Town",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-074",
+      "tab": "hidden-gems",
+      "name": "Tam Cốc",
+      "auditor_status": "rejected"
+    },
+    {
+      "id": "hidden-gems-075",
+      "tab": "hidden-gems",
+      "name": "Takayama",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-076",
+      "tab": "hidden-gems",
+      "name": "Ollantaytambo",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-077",
+      "tab": "hidden-gems",
+      "name": "Villa de Leyva",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-078",
+      "tab": "hidden-gems",
+      "name": "Woodstock, Vermont",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-079",
+      "tab": "hidden-gems",
+      "name": "Arrowtown",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-080",
+      "tab": "hidden-gems",
+      "name": "Capri Marina Grande",
+      "auditor_status": "approved"
     }
   ],
-  "approved_count": 60,
-  "rejected_count": 0,
+  "approved_count": 79,
+  "rejected_count": 1,
   "pending_count": 0,
-  "last_audit": "2026-09-20T15:16:00-05:00",
-  "hidden_gems_approved": 60
+  "last_audit": "2026-09-20T15:47:00-05:00",
+  "hidden_gems_approved": 79
 }
