@@ -66,7 +66,7 @@ img { max-width: 100%; display: block; }
   flex-direction: column;
   align-items: flex-start;
   width: fit-content;
-  max-width: min(260px, 62vw);
+  max-width: min(300px, 68vw);
 }
 .brand,
 .site-logo {
@@ -79,7 +79,7 @@ img { max-width: 100%; display: block; }
 }
 .site-logo img {
   display: block;
-  height: 2.65rem;
+  height: 3.15rem;
   width: auto;
   max-width: 100%;
   margin-inline: auto;
@@ -91,9 +91,9 @@ img { max-width: 100%; display: block; }
   user-select: none;
 }
 .tagline {
-  margin: 0.2rem 0 0;
+  margin: 0.15rem 0 0;
   color: var(--muted);
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   width: 100%;
   text-align: center;
   letter-spacing: 0.01em;
@@ -472,13 +472,13 @@ img { max-width: 100%; display: block; }
 @media (max-width: 420px) {
   .session-stats { font-size: 0.68rem; }
   .brand-block {
-    max-width: min(220px, 58vw);
+    max-width: min(260px, 66vw);
   }
   .site-logo img {
-    height: 2.4rem;
+    height: 2.9rem;
   }
   .tagline {
-    font-size: 0.68rem;
+    font-size: 0.62rem;
     text-align: center;
   }
 }
