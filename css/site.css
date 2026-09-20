@@ -60,14 +60,28 @@ img { max-width: 100%; display: block; }
 }
 .home-btn[hidden] { display: none !important; }
 .brand-block { flex: 1; min-width: 0; }
-.brand {
+.brand,
+.site-logo {
   margin: 0;
-  font-family: var(--font-display);
-  font-size: 1.15rem;
-  letter-spacing: 0.01em;
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+  line-height: 0;
+}
+.site-logo img {
+  display: block;
+  height: 2.45rem;
+  width: auto;
+  max-width: min(230px, 58vw);
+  /* Keep SVG crisp — no blur/filters */
+  filter: none;
+  image-rendering: auto;
+  -webkit-user-drag: none;
+  user-select: none;
 }
 .tagline {
-  margin: 0.1rem 0 0;
+  margin: 0.15rem 0 0;
   color: var(--muted);
   font-size: 0.8rem;
 }

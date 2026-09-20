@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 40" fill="none" role="img" aria-labelledby="sos-mark-title">
+  <title id="sos-mark-title">Stay or Stray</title>
+  <g fill="#ffffff" transform="translate(10 4)">
+    <path d="M8 22.5
+      C8 21.2 8.9 20.2 10.1 19.9
+      L42 12.5
+      L58 4.2
+      C58.7 3.8 59.6 4.1 59.9 4.9
+      L62.5 12.2
+      L78 14.8
+      C79.4 15.1 79.4 17.1 78 17.4
+      L62.5 20
+      L59.2 28.8
+      C58.8 29.7 57.7 30 56.9 29.4
+      L48.5 22.8
+      L28 25.2
+      L16.5 31.2
+      C15.7 31.6 14.7 31.2 14.5 30.3
+      L12.2 23.8
+      L8.8 23.2
+      C8.3 23.1 8 22.8 8 22.5
+      Z"/>
+    <rect x="-2" y="21.4" width="5" height="1.6" rx="0.6" opacity="0.9"/>
+    <rect x="-10" y="21.4" width="5" height="1.6" rx="0.6" opacity="0.65"/>
+  </g>
+</svg>
