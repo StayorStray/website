@@ -71,12 +71,13 @@ img { max-width: 100%; display: block; }
 }
 .site-logo img {
   display: block;
-  height: 2.45rem;
+  height: 2.65rem;
   width: auto;
-  max-width: min(230px, 58vw);
-  /* Keep SVG crisp — no blur/filters */
+  max-width: min(260px, 62vw);
+  /* Locked brand lockup — sharp & clear, no blur/filters */
   filter: none;
   image-rendering: auto;
+  -ms-interpolation-mode: bicubic;
   -webkit-user-drag: none;
   user-select: none;
 }

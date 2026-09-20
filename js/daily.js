@@ -293,9 +293,13 @@
 
     var allCards = inventory.allCards;
     var archiveSets = inventory.sets;
-    // The live catalog is authoritative while archive sets are still partial.
-    // Otherwise a stale set (for example 001–020) hides newly approved cards.
-    if (liveCatalog.length > allCards.length) {
+    // The live catalog is authoritative while the inventory is under 100.
+    // Otherwise archive rotation can serve only one partial set (for example
+    // 20 cards) instead of all currently approved cards.
+    if (liveCatalog.length && liveCatalog.length <= TARGET_SIZE) {
+      allCards = liveCatalog.slice();
+      archiveSets = [];
+    } else if (liveCatalog.length > allCards.length) {
       allCards = liveCatalog.slice();
       archiveSets = [];
     } else if (!allCards.length) {
