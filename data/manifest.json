@@ -2,7 +2,7 @@
   "brand": "Stay or Stray",
   "tagline": "Swipe a place. Stay or stray.",
   "phase": "1-audit",
-  "updated": "2026-09-20T16:05:00-05:00",
+  "updated": "2026-09-20T16:49:00-05:00",
   "tabs": [
     "hidden-gems",
     "cities",
@@ -17,8 +17,8 @@
   ],
   "counts": {
     "pending": 0,
-    "approved": 80,
-    "rejected": 0
+    "approved": 99,
+    "rejected": 1
   },
   "cards": [
     {
@@ -499,6 +499,126 @@
       "id": "hidden-gems-080",
       "tab": "hidden-gems",
       "name": "Capri Marina Grande",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-081",
+      "tab": "hidden-gems",
+      "name": "Göreme",
+      "auditor_status": "rejected"
+    },
+    {
+      "id": "hidden-gems-082",
+      "tab": "hidden-gems",
+      "name": "Alberobello",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-083",
+      "tab": "hidden-gems",
+      "name": "Slavonice",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-084",
+      "tab": "hidden-gems",
+      "name": "Melk",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-085",
+      "tab": "hidden-gems",
+      "name": "Rocamadour",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-086",
+      "tab": "hidden-gems",
+      "name": "Frigiliana",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-087",
+      "tab": "hidden-gems",
+      "name": "Ifrane",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-088",
+      "tab": "hidden-gems",
+      "name": "Henningsvær",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-089",
+      "tab": "hidden-gems",
+      "name": "Visby",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-090",
+      "tab": "hidden-gems",
+      "name": "Porvoo",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-091",
+      "tab": "hidden-gems",
+      "name": "Perast",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-092",
+      "tab": "hidden-gems",
+      "name": "Počitelj",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-093",
+      "tab": "hidden-gems",
+      "name": "Mai Châu",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-094",
+      "tab": "hidden-gems",
+      "name": "Tenganan",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-095",
+      "tab": "hidden-gems",
+      "name": "Ainokura",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-096",
+      "tab": "hidden-gems",
+      "name": "Jasper",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-097",
+      "tab": "hidden-gems",
+      "name": "El Chaltén",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-098",
+      "tab": "hidden-gems",
+      "name": "Vicuña",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-099",
+      "tab": "hidden-gems",
+      "name": "Pisac",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-100",
+      "tab": "hidden-gems",
+      "name": "Barichara",
       "auditor_status": "approved"
     }
   ],

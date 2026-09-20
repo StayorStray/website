@@ -3928,5 +3928,938 @@
       "license_ok": true,
       "auditor_status": "approved"
     }
+  },
+  {
+    "id": "hidden-gems-082",
+    "tab": "hidden-gems",
+    "name": "Alberobello",
+    "short_line": "Apulia, Italy",
+    "country": "Italy",
+    "lat": 40.7864,
+    "lng": 17.2403,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Trulli_di_Alberobello.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-082.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATrulli_di_Alberobello.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Tiziana Mercurio",
+      "attribution": "Photo: Tiziana Mercurio, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Trulli di Alberobello.jpg' confirms Alberobello; desc: Veduta dall'alto delle tipiche case pugliesi"
+    },
+    "facts": {
+      "one_liner": "UNESCO trulli town in Puglia’s Itria Valley with conical dry-stone limestone houses.",
+      "why_go": "Alberobello, in Bari province’s Itria Valley, is the densest surviving concentration of trulli—limestone dwellings with corbelled conical roofs built without mortar. UNESCO inscribed The Trulli of Alberobello in 1996; Italia.it and the World Heritage brief note more than 1,500 structures, mainly in Rione Monti (the busier, shop-lined hill of about 1,000 trulli) and quieter residential Rione Aia Piccola. Highlights include the two-storey Trullo Sovrano (house-museum), the Siamese Trulli, Casa Pezzolla’s Museo del Territorio, and the Belvedere Santa Lucia viewpoint.",
+      "best_time": "April–June and September–October for comfortable walking weather and fewer midsummer day-trip crowds; July–August are hottest and busiest.",
+      "how_to_get_there": "Ferrovie Sud Est trains link Bari Centrale with Alberobello (about 1.5 hours); the station is a short walk from the trulli quarters. By car, the SS172 dei Trulli connects neighbouring Locorotondo and Martina Franca. Bari Airport is the usual long-haul gateway.",
+      "good_to_know": "Quarters are free to wander; museums and Trullo Sovrano charge separately. Aia Piccola is largely residential—keep voices down. Uneven limestone paving is slippery when wet; half a day covers the core, a full day if you combine Monti, Aia Piccola, and interiors.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/787/",
+      "sources": [
+        "https://whc.unesco.org/en/list/787/",
+        "https://www.italia.it/en/puglia/things-to-do/alberobello",
+        "https://visit.puglia.it/en/alberobello"
+      ]
+    },
+    "ad": {
+      "destination_query": "Alberobello, Italy",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Alberobello%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Alberobello%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Alberobello%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Alberobello"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-083",
+    "tab": "hidden-gems",
+    "name": "Slavonice",
+    "short_line": "South Bohemian Region, Czechia",
+    "country": "Czechia",
+    "lat": 48.9975,
+    "lng": 15.3514,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Slavonice_square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-083.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASlavonice_square.jpg",
+      "license": "CC BY 3.0",
+      "author": "Vít Luštinec",
+      "attribution": "Photo: Vít Luštinec, CC BY 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Slavonice square.jpg' confirms Slavonice; desc: Slavonice square(Czech republic)."
+    },
+    "facts": {
+      "one_liner": "South Bohemian Renaissance square town of sgraffito façades near the Austrian border.",
+      "why_go": "Slavonice is a compact South Bohemian town whose twin squares—Náměstí Míru and Horní náměstí—are lined with Gothic-cored houses rebuilt in the 16th century with richly etched Renaissance sgraffito. Declared an urban conservation area in 1961, it preserves vaulted halls, gables, and underground drainage tunnels begun in the medieval period. Between the squares rises the Church of the Assumption (tower built 1503–1549); VisitCzechia links the town’s prosperity to a historic Prague–Vienna post stage, after which war, plague, and a 1750 fire largely froze further rebuilding—leaving a quieter counterpart to nearby Telč rather than a copy of it.",
+      "best_time": "May–September when the tourist information centre, underground tours, and tower climbs keep fuller hours; shoulder months are quieter. Winter is atmospheric but many indoor sites run reduced schedules.",
+      "how_to_get_there": "By road or regional bus/train links in South Bohemia near the Austrian border; Telč is about 22 km away (railway link since 1902). From Prague or Brno, plan a bus or car via Telč or Jindřichův Hradec. The historic centre is walkable once you arrive.",
+      "good_to_know": "Facades are best seen from the squares; interiors and the underground system need tickets and seasonal hours via the TIC on náměstí Míru. Combine with Czech Canada countryside walks or Landštejn Castle if you have a second day. Distinct from Telč’s larger UNESCO square already in the catalog.",
+      "official_or_tourism_url": "https://i.slavonice-mesto.cz/",
+      "sources": [
+        "https://www.jiznicechy.cz/en/targets/1129-slavonice-renaissance-complex-of-historical-monuments",
+        "https://www.visitczechia.com/en-us/things-to-do/places/landmarks/cities/t-slavonice",
+        "https://i.slavonice-mesto.cz/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Slavonice, Czechia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Slavonice%2C%20Czechia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Slavonice%2C%20Czechia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Slavonice%2C%20Czechia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Slavonice"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-084",
+    "tab": "hidden-gems",
+    "name": "Melk",
+    "short_line": "Lower Austria, Austria",
+    "country": "Austria",
+    "lat": 48.2275,
+    "lng": 15.3311,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Melk_Abbey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-084.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMelk_Abbey.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Vpa248",
+      "attribution": "Photo: Vpa248, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Melk Abbey.jpg' confirms Melk; desc: The abbey of Melk, Austria"
+    },
+    "facts": {
+      "one_liner": "Wachau Danube abbey town crowned by Baroque Stift Melk Benedictine monastery.",
+      "why_go": "Melk anchors the western end of the Wachau Cultural Landscape, the Danube stretch between Melk and Krems inscribed by UNESCO in 2000. Above the town, Stift Melk has housed Benedictine monks continuously since 1089; the present Baroque complex was built mainly 1702–1746 to designs by Jakob Prandtauer. A visit typically includes the abbey museum in the former Imperial rooms, Marble Hall, balcony over the Danube, historic library, abbey church, and—April to October—the abbey park with its Baroque pavilion. The riverside town below is a natural stop on Wachau wine and cycle itineraries, distinct from cliffside Dürnstein farther east.",
+      "best_time": "April–October for full park access and longer opening hours; May–September add more English guided-tour slots. Winter visits are possible but often guided-tour only on weekdays—check stiftmelk.at calendars.",
+      "how_to_get_there": "ÖBB trains serve Melk on the Vienna–St. Pölten–Linz corridor; from the station it is a short uphill walk or local hop to the abbey. Danube ships and the Wachau Ticket (train/ship/abbey packages) link Melk with Krems and valley towns. Vienna is about one hour by train.",
+      "good_to_know": "Plan at least 2.5 hours for abbey, church, bastion, and park. Parking on Stiftsstraße can be validated with an admission ticket. Combine with Wachau terraced vineyards and apricot country, but treat Melk as the abbey town rather than a duplicate of Dürnstein.",
+      "official_or_tourism_url": "https://www.stiftmelk.at/en/",
+      "sources": [
+        "https://www.stiftmelk.at/en/",
+        "https://www.stiftmelk.at/en/visit-experience/opening-hours-prices-guided-tours/",
+        "https://whc.unesco.org/en/list/970/",
+        "https://www.austria.info/en-us/locations/melk-abbey/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Melk, Austria",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Melk%2C%20Austria&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Melk%2C%20Austria&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Melk%2C%20Austria&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Melk"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-085",
+    "tab": "hidden-gems",
+    "name": "Rocamadour",
+    "short_line": "Occitanie, France",
+    "country": "France",
+    "lat": 44.7997,
+    "lng": 1.6175,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Cit%C3%A9_religieuse_de_Rocamadour.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-085.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACit%C3%A9_religieuse_de_Rocamadour.jpg",
+      "license": "CC0",
+      "author": "Simon Strueux",
+      "attribution": "Photo: Simon Strueux, CC0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Cité religieuse de Rocamadour.jpg' confirms Rocamadour; desc: Cité religieuse de Rocamadour"
+    },
+    "facts": {
+      "one_liner": "Cliffside Lot pilgrimage village of sanctuary chapels above the Alzou canyon.",
+      "why_go": "Rocamadour clings in tiers to a limestone cliff above the Alzou in France’s Lot department, a medieval pilgrimage site long associated with the Black Madonna in the Chapelle Notre-Dame. The sanctuary cluster includes seven chapels; the Basilica of Saint-Sauveur and the Crypt of Saint-Amadour are components of UNESCO’s Routes of Santiago de Compostela in France (inscribed 1998). Pilgrims and visitors traditionally climb the Grand Escalier (about 216 steps) from the single main street—Rue de la Couronnerie—up to the religious terrace, with a castle belvedere higher still.",
+      "best_time": "April–June and September–October for milder walking weather; July–August bring heavy day-trip traffic. Winter is quieter; check sanctuary and lift/ascenseur seasonal notices.",
+      "how_to_get_there": "By car via the Lot / Dordogne Valley road network (near Gramat); regional trains and coaches serve nearby hubs such as Brive-la-Gaillarde with onward bus or taxi. Park at L’Hospitalet or designated lots and walk or ride the municipal shuttle/lift systems when operating. The historic core is pedestrian.",
+      "good_to_know": "Steep stairs dominate access to the chapels; only limited areas are step-free—confirm current lift status. Respect ongoing religious use. Pairing with nearby Gouffre de Padirac is common but makes for a long day. Goat cheese labelled Rocamadour is a local AOP product sold in village shops.",
+      "official_or_tourism_url": "https://www.sanctuairerocamadour.com/",
+      "sources": [
+        "https://whc.unesco.org/en/list/868/",
+        "https://www.france.fr/en/article/rocamadour-village-cliff/",
+        "https://www.villes-sanctuaires.com/en/villes-sanctuaires/rocamadour",
+        "https://www.sanctuairerocamadour.com/venir/infos-pratiques/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Rocamadour, France",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rocamadour%2C%20France&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rocamadour%2C%20France&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rocamadour%2C%20France&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Rocamadour"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-086",
+    "tab": "hidden-gems",
+    "name": "Frigiliana",
+    "short_line": "Andalusia, Spain",
+    "country": "Spain",
+    "lat": 36.7928,
+    "lng": -3.8947,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/FrigilianaPano3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-086.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AFrigilianaPano3.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Aqwis",
+      "attribution": "Photo: Aqwis, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:FrigilianaPano3.jpg' confirms Frigiliana; desc: View of Frigiliana, a town in Andalusia, Spain."
+    },
+    "facts": {
+      "one_liner": "Axarquía white village of steep Morisco lanes overlooking the Mediterranean coast.",
+      "why_go": "Frigiliana sits about 300 m above sea level in Málaga’s eastern Axarquía, on the edge of the Sierras de Almijara, Tejeda y Alhama natural park and a short hop inland from Nerja. Its praised historic quarter is a steep lattice of whitewashed Morisco-era lanes, passages, and stacked houses—framed by the official tourism site as among the clearest surviving examples of Arab vernacular layout in the province. Landmarks include the 17th-century Church of San Antonio, Casa del Apero (cultural centre and tourist office), Fuente Vieja, and El Ingenio, linked to cane-honey (miel de caña) production that has continued locally for centuries. It is a white village of the Costa del Sol hinterland, not a gorge town like Ronda or Setenil, not blue Júzcar, and not highland Albarracín.",
+      "best_time": "March–June and September–November for comfortable climbing of the old quarter; midsummer afternoons are hot. Weekday mornings are quieter than weekend peaks from the coast.",
+      "how_to_get_there": "About 6 km inland from Nerja by local bus or taxi; roughly one hour by road from Málaga Airport via the A-7 then inland links. Park at lower or Plaza de las Tres Culturas car parks and walk up—lanes are too narrow for casual driving.",
+      "good_to_know": "Expect steep cobbles—wear grip shoes. Look for ceramic history panels in the barrio alto. Festival of the Three Cultures (late August) and Holy Week processions are major local dates. Sample miel de caña products if offered in village shops.",
+      "official_or_tourism_url": "https://www.turismofrigiliana.es/en/overview.html",
+      "sources": [
+        "https://www.turismofrigiliana.es/en/overview.html",
+        "https://turismoaxarquiacostadelsol.com/en/municipalities/frigiliana/",
+        "https://www.spain.info/en/destination/frigiliana/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Frigiliana, Spain",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Frigiliana%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Frigiliana%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Frigiliana%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Frigiliana"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-087",
+    "tab": "hidden-gems",
+    "name": "Ifrane",
+    "short_line": "Fès-Meknès, Morocco",
+    "country": "Morocco",
+    "lat": 33.5228,
+    "lng": -5.1106,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ifrane_Morocco.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-087.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AIfrane_Morocco.jpg",
+      "license": "CC BY 4.0",
+      "author": "NLOTFI17",
+      "attribution": "Photo: NLOTFI17, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Ifrane Morocco.jpg' confirms Ifrane; desc: City of Ifrane in Morocco is a beautiful place especially in winter."
+    },
+    "facts": {
+      "one_liner": "Middle Atlas resort town of chalet roofs, cool summers, and nearby cedar forests.",
+      "why_go": "Ifrane is a planned Middle Atlas resort at about 1,650 m in Morocco’s Fès-Meknès region, known for red-tiled chalet-style houses, parks, and cooler summer air than the imperial cities on the plains. The Moroccan National Tourist Office highlights nearby lakes (including Dayet Aoua), woodland walks, and the Michlifen ski area above town. Day trips commonly continue to the cedar stands around Azrou—home to wild Barbary macaques—making Ifrane a highland base rather than a medina destination. It is distinct from blue Chefchaouen, windy Atlantic Essaouira, mural-walled Asilah, and the inland ksar of Aït Benhaddou.",
+      "best_time": "Late spring through early autumn for hiking and lake outings; winter for snow and Michlifen skiing when conditions allow. Weekends see day-trippers from Fès.",
+      "how_to_get_there": "About 60–70 km south of Fès by road (roughly 1–1.5 hours by car or grand taxi). CTM/local coaches and shared taxis serve Ifrane and neighbouring Azrou; a private car or tour is easiest if combining Michlifen and the cedar forest in one day. Fès–Saïs Airport is the usual air gateway.",
+      "good_to_know": "Nights are cool even in summer—pack a layer. Do not feed macaques in the cedar forest; keep food sealed. Al Akhawayn University campus and the stone lion sculpture are town landmarks. Confirm ski-lift operation before winter visits.",
+      "official_or_tourism_url": "https://www.visitmorocco.com/en/travel/ifrane",
+      "sources": [
+        "https://www.visitmorocco.com/en/travel/ifrane",
+        "https://www.michlifen.com/en/",
+        "https://en.wikipedia.org/wiki/Ifrane"
+      ]
+    },
+    "ad": {
+      "destination_query": "Ifrane, Morocco",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ifrane%2C%20Morocco&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ifrane%2C%20Morocco&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ifrane%2C%20Morocco&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Ifrane"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-088",
+    "tab": "hidden-gems",
+    "name": "Henningsvær",
+    "short_line": "Lofoten, Norway",
+    "country": "Norway",
+    "lat": 68.1528,
+    "lng": 14.2006,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Henningsv%C3%A6r%2C_Lofoten%2C_Norway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-088.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHenningsv%C3%A6r%2C_Lofoten%2C_Norway.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Christoph Strässler from Oberdorf BL, Schweiz",
+      "attribution": "Photo: Christoph Strässler from Oberdorf BL, Schweiz, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Henningsvær, Lofoten, Norway.jpg' confirms Henningsvær; desc: The harbour of the village Henningsvær, in Lofoten, region Nordland in Norway. Picture taken on the 15th of march 2019."
+    },
+    "facts": {
+      "one_liner": "Lofoten fishing village on bridged islets near Svolvær—distinct from Reine farther west.",
+      "why_go": "Henningsvær is a working Arctic fishing village in Vågan municipality, spread across small islands off Austvågøya and linked by bridges about 25 km from Svolvær. Visit Lofoten notes its role in Lofoten fishery history, harbour life, craft shops, and galleries (including KaviarFactory), plus climbing access to nearby walls and Festvågtinden. February–March bring the skrei cod season and busy quays; summer adds midnight-sun light, kayaking, and RIB sea-eagle trips. It is a protected cultural environment among Norway’s historic fishing villages—and a different stop from Reine on Moskenesøya farther southwest along E10.",
+      "best_time": "June–August for long daylight, open cafés, and boat trips; February–April for cod fishery atmosphere and possible northern lights. Some restaurants close in late December–January—verify hours.",
+      "how_to_get_there": "Fly into Svolvær (SVJ) or Leknes (LKN), or take ferry/express boat routes into Lofoten, then drive or bus via E10 and road 816. Visit Lofoten recommends parking in the larger public lots and walking the narrow village streets; the Reis app covers regional buses. Summer hop-on Arctic Route coaches also pass the junction.",
+      "good_to_know": "Respect residents and quiet evenings—many locals rise early for fishing. Do not touch drying stockfish. The harbour-side football pitch is heavily photographed; follow local drone rules. Shop and eat locally; public toilets are provided—do not use the shoreline.",
+      "official_or_tourism_url": "https://visitlofoten.com/en/destination/henningsvaer/",
+      "sources": [
+        "https://visitlofoten.com/en/destination/henningsvaer/",
+        "https://www.visitnorway.com/places-to-go/northern-norway/the-lofoten-islands/fishing-culture/",
+        "https://www.visitnorway.com/listings/nature-and-sea-eagle-safari-from-henningsvaer-with-lofoten-opplevelser/500188/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Henningsvaer, Lofoten, Norway",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Henningsvaer%2C%20Lofoten%2C%20Norway&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Henningsvaer%2C%20Lofoten%2C%20Norway&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Henningsvaer%2C%20Lofoten%2C%20Norway&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Henningsvær"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-089",
+    "tab": "hidden-gems",
+    "name": "Visby",
+    "short_line": "Gotland, Sweden",
+    "country": "Sweden",
+    "lat": 57.6348,
+    "lng": 18.2948,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Visby_ringmur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-089.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AVisby_ringmur.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Xr.Stg",
+      "attribution": "Photo: Xr.Stg, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Visby ringmur.jpg' confirms Visby; desc: Visby ringmur. Del av landmuren Östermur med en Kaponniär och Dalmanska tornet. Det finns två Kaponniärer, som byggdes på 1500-talet för att kunna försvara mure"
+    },
+    "facts": {
+      "one_liner": "UNESCO Hanseatic town on Gotland ringed by a 3.4 km medieval limestone wall.",
+      "why_go": "Visby, on Sweden’s Baltic island of Gotland, was the Hanseatic League’s main Baltic centre from the 12th to 14th centuries. UNESCO inscribed the Hanseatic Town of Visby in 1995, citing its 13th-century ramparts and more than 200 warehouses and merchants’ dwellings as northern Europe’s best-preserved fortified commercial city. The ring wall (ringmuren) runs about 3.4 km with towers and gates; inside are cobbled streets, church ruins (such as St Nicolai and St Karin), and still-active Sankta Maria Cathedral. Botanical gardens, Almedalen park, and Baltic shore walks sit just beyond the medieval core.",
+      "best_time": "May–September for outdoor wall walks and café culture; August’s Medieval Week is lively but crowded. Spring and autumn are quieter; ferries and flights run year-round with thinner winter services.",
+      "how_to_get_there": "Destination Gotland ferries from Nynäshamn or Oskarshamn (about three hours—book ahead in summer). Flights into Visby Airport (VBY) are a few kilometres from town. The walled centre is best on foot; island buses and bike hire cover wider Gotland day trips.",
+      "good_to_know": "The wall circuit is free from the outside; wear sturdy shoes. Church ruins may host concerts—check access rules. Book lodging early for Medieval Week and peak July. Try saffranspannkaka (saffron pancake) with local dewberry jam as a Gotland café classic.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/731/",
+      "sources": [
+        "https://whc.unesco.org/en/list/731/",
+        "https://visitsweden.com/where-to-go/southern-sweden/gotland/visby/",
+        "https://fenomenalen.se/region-gotland-in-english/the-hanseatic-town-of-visby"
+      ]
+    },
+    "ad": {
+      "destination_query": "Visby, Sweden",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Visby%2C%20Sweden&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Visby%2C%20Sweden&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Visby%2C%20Sweden&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Visby"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-090",
+    "tab": "hidden-gems",
+    "name": "Porvoo",
+    "short_line": "Uusimaa, Finland",
+    "country": "Finland",
+    "lat": 60.3925,
+    "lng": 25.6653,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Porvoo_old_town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-090.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APorvoo_old_town.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Teemu Eskola",
+      "attribution": "Photo: Teemu Eskola, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Porvoo old town.jpg' confirms Porvoo; desc: Porvoo old town viewed from a hotair balloon"
+    },
+    "facts": {
+      "one_liner": "Finnish riverside old town of wooden houses and red-ochre warehouses near Helsinki.",
+      "why_go": "Porvoo (Borgå), one of Finland’s oldest towns, sits on the Porvoonjoki about an hour east of Helsinki. Visit Porvoo and Visit Finland highlight Old Porvoo’s colourful wooden houses on cobbled lanes and the red-ochre riverside warehouses that form one of the country’s most photographed national landscapes. Porvoo Cathedral crowns the hill above the river; cafés, artisan shops, and the National Urban Park along the valley reward a slow wander beyond the postcard viewpoint from the opposite bank.",
+      "best_time": "Year-round; June–August are busiest with day-trippers and possible steamship sailings from Helsinki. Spring blossom, autumn colour, and quiet snowy winters each change the riverside mood—early or late day visits dodge peak crowds.",
+      "how_to_get_there": "Regular buses from Helsinki Kamppi take just over an hour. In summer, M/S J.L. Runeberg steamship sails from Helsinki Market Square, and a museum railway operates seasonal Saturday services. Drivers use the Porvoonväylä / old Porvoo road; once there, Old Town is walkable.",
+      "good_to_know": "Wear shoes suited to cobbles. Brunberg chocolates and Runeberg tarts are local sweet traditions. Overnight stays reveal a quieter evening after day-trippers leave. Respect residential lanes—many wooden houses are lived in.",
+      "official_or_tourism_url": "https://www.visitporvoo.fi/en/sights/old-porvoo/",
+      "sources": [
+        "https://www.visitporvoo.fi/en/sights/old-porvoo/",
+        "https://www.visitfinland.com/en/articles/day-trip-to-porvoo-in-every-season/",
+        "https://fcb.visitfinland.com/en/discover/destinations/porvoo/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Porvoo, Finland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Porvoo%2C%20Finland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Porvoo%2C%20Finland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Porvoo%2C%20Finland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Porvoo"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-091",
+    "tab": "hidden-gems",
+    "name": "Perast",
+    "short_line": "Bay of Kotor, Montenegro",
+    "country": "Montenegro",
+    "lat": 42.4864,
+    "lng": 18.6986,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Perast_Montenegro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-091.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APerast_Montenegro.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Моругін",
+      "attribution": "Photo: Моругін, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Perast Montenegro.jpg' confirms Perast; desc: Місто Пераст у Чорногорії"
+    },
+    "facts": {
+      "one_liner": "Baroque Bay of Kotor waterfront town facing the artificial islet of Our Lady of the Rocks.",
+      "why_go": "Perast sits on the Bay of Kotor shore as a compact Venetian-era maritime settlement—distinct from the walled old town of Kotor farther into the bay. Under Venetian rule (1420–1797) it grew as a seafaring checkpoint without continuous town walls, relying on palace towers and the Holy Cross Fort (1570) above. MPI Muzeji Kotor’s Perast Museum, in the 17th-century Bujović Palace, presents maritime, ethnographic, and art collections tied to captains such as Marko Martinović (maritime school, 1698) and painter Tripo Kokolja. Offshore, Our Lady of the Rocks (Gospa od Škrpjela) is a man-made islet traditionally begun after an icon find dated 22 July 1452; the church-museum holds Kokolja’s cycle and votive art, and the Fašinada custom of adding stones is still marked each 22 July.",
+      "best_time": "May–June and September–October for milder bay weather and fewer day-trip crowds than midsummer; 22 July for Fašinada if you want the stone-throwing procession. Winter is quieter with shorter daylight.",
+      "how_to_get_there": "Local buses and taxis run along the bay road from Kotor (roughly half an hour by bus). Once in Perast, walk the waterfront; licensed small boats ferry visitors to Our Lady of the Rocks a few minutes offshore. Combine with—but do not confuse with—Kotor’s UNESCO walled old town, a separate stop farther southeast.",
+      "good_to_know": "Perast’s core is largely pedestrian along the shore; wear shoes suited to stone quays. Confirm boat return times and weather before crossing to the islet. The Perast Museum is the best single indoor orientation to the town’s Venetian maritime past.",
+      "official_or_tourism_url": "https://muzejikotor.me/en/home/perast-museum/",
+      "sources": [
+        "https://muzejikotor.me/en/home/perast-museum/",
+        "http://perast.com/html-ENGLESKI/history.html",
+        "https://en.wikipedia.org/wiki/Our_Lady_of_the_Rocks",
+        "https://doi.org/10.3390/rel14040522"
+      ]
+    },
+    "ad": {
+      "destination_query": "Perast, Montenegro",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Perast%2C%20Montenegro&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Perast%2C%20Montenegro&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Perast%2C%20Montenegro&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Perast"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-092",
+    "tab": "hidden-gems",
+    "name": "Počitelj",
+    "short_line": "Herzegovina-Neretva, Bosnia and Herzegovina",
+    "country": "Bosnia and Herzegovina",
+    "lat": 43.1347,
+    "lng": 17.7311,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/JuPo%C4%8Ditelj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-092.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AJuPo%C4%8Ditelj.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Ziegler175",
+      "attribution": "Photo: Ziegler175, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:JuPočitelj.jpg' confirms Počitelj; desc: Počitelj (Bosnien)"
+    },
+    "facts": {
+      "one_liner": "Neretva-side stone fortress town of medieval walls and Ottoman-era houses in Čapljina municipality.",
+      "why_go": "Počitelj climbs a rocky amphitheatre on the left bank of the Neretva south of Mostar, in today’s Čapljina municipality. Written sources first name it in mid-15th-century charters as a possession of Stjepan Vukčić Kosača; Hungarians held and reinforced it from 1465 before Ottoman capture in 1471. The site evolved through medieval, early Ottoman, and late-Ottoman phases—citadel tower and walls above, and an oriental-Mediterranean stone settlement below that peaked in the 18th century. UNESCO lists “The historic urban site of Počitelj” on Bosnia and Herzegovina’s Tentative List (submitted 2007); it is a protected national historic ensemble, not yet a World Heritage property.",
+      "best_time": "Spring and autumn for cooler walking on steep stone lanes; summer is hot on the exposed cliff. Allow time for the climb to the fortress viewpoint above the river.",
+      "how_to_get_there": "On the main Mostar–Metković corridor south of Mostar (UNESCO Tentative List text). Day trips by bus, taxi, or hire car from Mostar are common; the historic core is compact and explored on foot via stairs and cobbles.",
+      "good_to_know": "Expect steep, uneven stone paths—sturdy footwear helps. Distinguish Počitelj’s cliff town from Mostar’s Old Bridge core farther north. Confirm current site access and any local ticket or conservation rules on arrival; avoid climbing unstable walls.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/tentativelists/5092",
+      "sources": [
+        "https://whc.unesco.org/en/tentativelists/5092",
+        "https://muzejbosanskogkraljevstva.ba/en/pocitelj-2/",
+        "https://civvih.icomos.org/wp-content/uploads/2022/11/2013-Budapest-Presentation-VJEKOS1.pdf"
+      ]
+    },
+    "ad": {
+      "destination_query": "Počitelj, Bosnia and Herzegovina",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Po%C4%8Ditelj%2C%20Bosnia%20and%20Herzegovina&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Po%C4%8Ditelj%2C%20Bosnia%20and%20Herzegovina&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Po%C4%8Ditelj%2C%20Bosnia%20and%20Herzegovina&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Počitelj"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-093",
+    "tab": "hidden-gems",
+    "name": "Mai Châu",
+    "short_line": "Hòa Bình Province, Vietnam",
+    "country": "Vietnam",
+    "lat": 20.6667,
+    "lng": 105.0833,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Mai_Chau_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-093.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMai_Chau_5.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Shyamal",
+      "attribution": "Photo: Shyamal, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Mai Chau 5.jpg' confirms Mai Châu; desc: Mai Chau"
+    },
+    "facts": {
+      "one_liner": "Hòa Bình valley of White Thai stilt-house villages and rice paddies within easy reach of Hanoi.",
+      "why_go": "Mai Châu is a flat-bottomed agricultural valley in Hòa Bình Province (about 140 km from Hanoi per Vietnam Tourism) ringed by limestone hills, known for White Thai (Thái Trắng) communities in stilt-house villages—especially Lác (Lac) and Pom Coong. Official Vietnam Tourism highlights overnight homestays in those villages, cycling quiet valley paths past paddies, textile weaving, and evening cultural performances. It is a lowland valley stay distinct from Sa Pa’s high-mountain markets and from Tam Cốc’s Ninh Bình river-cave boat route already treated elsewhere in the catalog.",
+      "best_time": "Vietnam Tourism recommends March–May and September–November; October harvest often turns paddies golden. June–August monsoon can flood local roads.",
+      "how_to_get_there": "Road from Hanoi takes about three hours by bus, shuttle, private car, or motorbike (Vietnam Tourism). Local buses reach Mai Châu town near Lac and Pom Coong; bicycles or electric carts suit the valley floor. Morning departures make Thung Khe Pass viewpoints easier in clear light.",
+      "good_to_know": "Homestays are the core experience—expect simple shared facilities in traditional houses. Bargain gently for textiles; support weavers directly when possible. Combine with Pù Luông or Hòa Bình Lake only if you want longer outdoor days beyond the valley.",
+      "official_or_tourism_url": "https://www.vietnam.travel/places-to-go/northern-vietnam/mai-chau",
+      "sources": [
+        "https://www.vietnam.travel/places-to-go/northern-vietnam/mai-chau",
+        "https://www.vietnam.travel/things-to-do/7-essential-things-do-mai-chau"
+      ]
+    },
+    "ad": {
+      "destination_query": "Mai Chau, Vietnam",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Mai%20Chau%2C%20Vietnam&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Mai%20Chau%2C%20Vietnam&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Mai%20Chau%2C%20Vietnam&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Mai Châu"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-094",
+    "tab": "hidden-gems",
+    "name": "Tenganan",
+    "short_line": "Bali, Indonesia",
+    "country": "Indonesia",
+    "lat": -8.4769,
+    "lng": 115.5669,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Desa_Tenganan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-094.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ADesa_Tenganan.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Arthamade",
+      "attribution": "Photo: Arthamade, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Desa Tenganan.jpg' confirms Tenganan; desc: Tenganan village atmosphere, 2016"
+    },
+    "facts": {
+      "one_liner": "East Bali Bali Aga village famed for geringsing double-ikat cloth and the Mekare-kare pandan rite.",
+      "why_go": "Tenganan Pegringsingan (Karangasem, East Bali) is a Bali Aga (pre-Majapahit) village that keeps endogamous community rules, a planned traditional streetscape, and ritual life centered on Indra worship. Indonesia’s official tourism village listing and Indonesia Travel flag rare Tenun Gringsing (geringsing)—double-ikat weaving practiced here among only a few places worldwide—and the Mekare-kare (perang pandan / pandan war) ceremony. Gamelan selunding (iron metallophones) is another local specialty. Culturally it is distinct from Penglipuran’s Bangli tourist village farther west: Tenganan’s identity is Bali Aga governance plus geringsing, not Bangli’s neat bamboo-lane preservation district.",
+      "best_time": "Dry season (roughly April–October) for easier village walking; Mekare-kare timing follows the local ceremonial calendar (often mid-year—confirm current dates with the village). Mornings are quieter before day-tour groups.",
+      "how_to_get_there": "Indonesia Travel places it about a two-hour drive from Denpasar; common approaches are by hired car from Candidasa, Ubud, or Sanur into Karangasem. The village center is walked on foot once you arrive.",
+      "good_to_know": "Dress modestly; follow local rules on photography during ceremonies. Authentic geringsing is costly and slow to produce—ask weavers about process rather than chasing bargains. Entry often involves a community contribution; use the official desa wisata contacts when arranging guides or weaving demos.",
+      "official_or_tourism_url": "https://jadesta.kemenpar.go.id/desa/tenganan_pegringsingan",
+      "sources": [
+        "https://jadesta.kemenpar.go.id/desa/tenganan_pegringsingan",
+        "https://www.indonesia.travel/in/en/travel-ideas/culture/makin-tahu-tentang-bali-yuk-lakukan-7-kegiatan-seru-ini-di-desa-tenganan-pegringsingan/",
+        "https://en.wikipedia.org/wiki/Tenganan"
+      ]
+    },
+    "ad": {
+      "destination_query": "Tenganan, Indonesia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Tenganan%2C%20Indonesia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Tenganan%2C%20Indonesia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Tenganan%2C%20Indonesia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Tenganan"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-095",
+    "tab": "hidden-gems",
+    "name": "Ainokura",
+    "short_line": "Toyama Prefecture, Japan",
+    "country": "Japan",
+    "lat": 36.4258,
+    "lng": 136.9356,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Ainokura_in_Gokayama_area.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-095.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAinokura_in_Gokayama_area.jpg",
+      "license": "Public Domain",
+      "author": "minque",
+      "attribution": "Photo: minque, Public Domain, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Ainokura in Gokayama area.jpg' confirms Ainokura; desc: ​富山県南砺市（旧平村） 越中五箇山 相倉合掌集落"
+    },
+    "facts": {
+      "one_liner": "Gokayama gassho-zukuri village in Toyama on the UNESCO Shirakawa-go and Gokayama serial property.",
+      "why_go": "Ainokura (Nanto City, Toyama) is one of three inscribed villages in UNESCO’s Historic Villages of Shirakawa-go and Gokayama (1995)—alongside Ogimachi (Shirakawa-go, Gifu) and Suganuma (also Gokayama). The World Heritage Center site notes about 20 surviving gassho-style thatched houses in the preservation district (mostly late Edo–Meiji), 16 households as of 2023, and a National Historic Site designation of surrounding forest since 1970. Visit Toyama describes Ainokura as the largest Gokayama thatched cluster, with some houses open as museums, cafés, or inns. It is the Gokayama/Toyama counterpart to—not a substitute for—busier Ogimachi in Shirakawa-go already in the catalog.",
+      "best_time": "Year-round; winter snow is dramatic but access can be slower. Spring and autumn offer milder walking. Overnight stays show evening and early-morning quiet better than day trips.",
+      "how_to_get_there": "Visit Toyama: about 25 minutes by bus from JR Johana Station to Ainokura-guchi then a short walk; World Heritage Bus from Takaoka/Shin-Takaoka toward Gokayama; or about 20 minutes by car from the Gokayama IC on the Tokai-Hokuriku Expressway (National Route 156).",
+      "good_to_know": "Most houses remain private homes—stay on public paths and respect residents. Village viewing is generally free; parking fees apply (confirm current rates on Visit Toyama). Combine with Suganuma if exploring wider Gokayama; do not equate Ainokura with Shirakawa-go’s Ogimachi.",
+      "official_or_tourism_url": "https://whc-shirakawa-goandgokayama.jp/en/three_villages/ainokura/",
+      "sources": [
+        "https://whc.unesco.org/en/list/734/",
+        "https://whc-shirakawa-goandgokayama.jp/en/three_villages/ainokura/",
+        "https://visit-toyama-japan.com/en/places-to-go/41003"
+      ]
+    },
+    "ad": {
+      "destination_query": "Ainokura, Japan",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ainokura%2C%20Japan&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ainokura%2C%20Japan&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ainokura%2C%20Japan&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Ainokura"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-096",
+    "tab": "hidden-gems",
+    "name": "Jasper",
+    "short_line": "Alberta, Canada",
+    "country": "Canada",
+    "lat": 52.8737,
+    "lng": -118.0814,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Town_of_Jasper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-096.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATown_of_Jasper.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Nikky D2",
+      "attribution": "Photo: Nikky D2, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Town of Jasper.jpg' confirms Jasper; desc: A view of the town of Jasper, Alberta, as seen from the top of the Jasper Skytram"
+    },
+    "facts": {
+      "one_liner": "Townsite gateway inside Jasper National Park on Highway 16 and the Icefields Parkway.",
+      "why_go": "Jasper is a lived-in municipality inside Jasper National Park in Alberta’s Canadian Rockies—Canada’s largest Rocky Mountain national park at about 11,228 km² (Canadian Encyclopedia / Parks Canada management materials). The Municipality of Jasper (formed 20 July 2001) runs local services while Parks Canada retains land-use planning inside the park. The townsite is the northern Rockies service hub on the Yellowhead Highway (Hwy 16) and the north end of the Icefields Parkway (Hwy 93) toward Lake Louise and Banff—geographically and administratively distinct from Banff townsite farther south already in the catalog. Tourism Jasper’s Visitor Experience Centre (414 Patricia Street) and the historic Parks Canada information centre on Connaught Drive orient visitors to trails, wildlife viewing, and park logistics.",
+      "best_time": "July–August for fullest trail and road access; June and September for fewer crowds and still-open high passes. Winter brings skiing and quieter streets but shorter daylight and icy conditions. Book lodging early in peak summer.",
+      "how_to_get_there": "By car on Highway 16 (Yellowhead) east–west, or south via the Icefields Parkway from Lake Louise/Banff. VIA Rail’s Canadian and regional buses serve Jasper. The townsite is walkable for services; a vehicle or tours help for park day trips beyond town.",
+      "good_to_know": "A national-park pass is required for park activities beyond the townsite core—check current Parks Canada fees. Wildlife (including elk and bears) enter town and roadside areas; store food properly and keep distance. After the 2024 Jasper wildfire season, verify road, trail, and facility reopenings before travel.",
+      "official_or_tourism_url": "https://www.jasper.travel/plan-your-trip/information/",
+      "sources": [
+        "https://www.jasper-alberta.ca/p/how-your-government-works",
+        "https://www.jasper.travel/plan-your-trip/information/",
+        "https://thecanadianencyclopedia.ca/en/article/jasper-national-park"
+      ]
+    },
+    "ad": {
+      "destination_query": "Jasper, Alberta, Canada",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Jasper%2C%20Alberta%2C%20Canada&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Jasper%2C%20Alberta%2C%20Canada&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Jasper%2C%20Alberta%2C%20Canada&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Jasper"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-097",
+    "tab": "hidden-gems",
+    "name": "El Chaltén",
+    "short_line": "Santa Cruz, Argentina",
+    "country": "Argentina",
+    "lat": -49.3314,
+    "lng": -72.8864,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/El_Chalt%C3%A9n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-097.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AEl_Chalt%C3%A9n.jpg",
+      "license": "CC BY 2.0",
+      "author": "David",
+      "attribution": "Photo: David, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:El Chaltén.jpg' confirms El Chaltén; desc: This few is from one of the mountains above El Chaltén"
+    },
+    "facts": {
+      "one_liner": "Santa Cruz trail town at the foot of Fitz Roy on the northern edge of Los Glaciares National Park.",
+      "why_go": "El Chaltén sits in southwest Santa Cruz Province, about 90 km west of Route 40 after Lake Viedma, on the northern edge of Los Glaciares National Park facing Cerro Fitz Roy (Cerro Chaltén) and Cerro Torre. Official municipal tourism states the town was founded 12 October 1985 for geopolitical reasons and declared Argentina’s National Capital of Trekking on 28 July 1994. Well-marked park trails lead to viewpoints such as Laguna de los Tres, Laguna Capri, and Laguna Torre—day hikes from town without needing technical climbing.",
+      "best_time": "Austral summer (roughly November–March) for longest days and fullest trail access; shoulder months can be windier and quieter. Winter brings snow, shorter days, and limited services. Local tourism suggests 3–4 days to sample main trails.",
+      "how_to_get_there": "Fly into El Calafate then bus or transfer north/west toward El Chaltén via Route 40 and the paved approach past Lake Viedma (municipal tourism). Once there, most classic viewpoints start as walking trails from town; agencies and guides serve longer or technical outings.",
+      "good_to_know": "Patagonian wind and sudden weather changes are normal—carry layers, water, and sun protection even on “easy” trails. Register or follow current Parque Nacional Los Glaciares guidance at the local APN office. Lodging fills in peak summer; book ahead.",
+      "official_or_tourism_url": "https://elchalten.tur.ar/en/",
+      "sources": [
+        "https://elchalten.tur.ar/en/",
+        "https://www.elchalten.gob.ar/historia/",
+        "https://www.elchalten.gob.ar/el-chalten/"
+      ]
+    },
+    "ad": {
+      "destination_query": "El Chalten, Argentina",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=El%20Chalten%2C%20Argentina&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=El%20Chalten%2C%20Argentina&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=El%20Chalten%2C%20Argentina&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in El Chaltén"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-098",
+    "tab": "hidden-gems",
+    "name": "Vicuña",
+    "short_line": "Elqui Valley, Chile",
+    "country": "Chile",
+    "lat": -30.0333,
+    "lng": -70.7167,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Plaza_de_Armas_Vicu%C3%B1a_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-098.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APlaza_de_Armas_Vicu%C3%B1a_-_panoramio.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "René Bongard",
+      "attribution": "Photo: René Bongard, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Plaza de Armas Vicuña - panoramio.jpg' confirms Vicuña; desc: Plaza de Armas, Vicuña, Chile"
+    },
+    "facts": {
+      "one_liner": "Elqui Valley town of Gabriela Mistral heritage and public astronomy near Mamalluca Observatory.",
+      "why_go": "Vicuña is the main inland town of Chile’s Elqui Valley (Coquimbo Region), birthplace of Nobel laureate Gabriela Mistral (1889). Chile Travel’s culture-and-astronomy itinerary pairs the Gabriela Mistral Museum and pisco heritage with night observing at public facilities such as El Pangue Observatory; the municipal Observatorio Mamalluca (San Martín 275, Vicuña) runs guided astronomical and planetarium tours for visitors. In 2015 the International Dark-Sky Association designated the nearby AURA Observatory complex as the Gabriela Mistral Dark Sky Sanctuary—the world’s first International Dark Sky Sanctuary—underscoring the valley’s research and tourism skies.",
+      "best_time": "Year-round for clear highland desert skies; nights are cold even after hot days—bring layers for observatory visits. Book astronomy tours in advance, especially weekends and holidays.",
+      "how_to_get_there": "Chile Travel: fly Santiago–La Serena (La Florida / LSC), then about 60 km inland on Route 41 to Vicuña (roughly one hour by car, bus, or tour). Mamalluca sales/contact is handled in Vicuña; confirm departure logistics when reserving.",
+      "good_to_know": "Daytime is for museums, pisco culture, and valley walks; nighttime is for telescopes—plan a stay overnight. Semi-arid climate: sunscreen by day, warm jacket by night. Research observatories (Cerro Tololo / AURA Sanctuary) are not the same as public tourist observatories—use Mamalluca or El Pangue for visitor sessions.",
+      "official_or_tourism_url": "https://chile.travel/en/itineraries/culture-and-astronomy-in-vicuna-and-the-elqui-valley/",
+      "sources": [
+        "https://chile.travel/en/itineraries/culture-and-astronomy-in-vicuna-and-the-elqui-valley/",
+        "https://reservas.observatoriomamalluca.cl/",
+        "https://darksky.org/news/chilean-astronomical-site-becomes-worlds-first-international-dark-sky-sanctuary/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Vicuna, Chile",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Vicuna%2C%20Chile&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Vicuna%2C%20Chile&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Vicuna%2C%20Chile&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Vicuña"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-099",
+    "tab": "hidden-gems",
+    "name": "Pisac",
+    "short_line": "Sacred Valley, Peru",
+    "country": "Peru",
+    "lat": -13.4225,
+    "lng": -71.8467,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Pisac_terraces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-099.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APisac_terraces.jpg",
+      "license": "CC BY 2.0",
+      "author": "Ricardo Sánchez",
+      "attribution": "Photo: Ricardo Sánchez, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Pisac terraces.jpg' confirms Pisac; desc: Terraces at Pisac archaelogical site"
+    },
+    "facts": {
+      "one_liner": "Sacred Valley market town below a large Inca archaeological park at the valley’s Cusco-side entrance.",
+      "why_go": "Pisac (Pisaq) in Calca Province combines a busy valley-floor town and artisan market with the hilltop Parque Arqueológico de Pisaq. Peru’s Dirección Desconcentrada de Cultura – Cusco describes the complex as a royal estate linked to Inka Pachacútec, with agricultural terraces, domestic and ceremonial buildings, and fine masonry commanding the valley; the archaeological park covers about 9,063 hectares at roughly 3,400 m elevation. Access is via the Cusco–Calca road (~33 km from Cusco to Pisac town, then ~9 km up to the park). It is the eastern Sacred Valley counterpart to Ollantaytambo’s fortress-town farther northwest already in the catalog—market-plus-ruins here versus Ollantaytambo’s living Inca street grid and train gateway toward Machu Picchu.",
+      "best_time": "Dry season (roughly May–September) for clearer hilltop walks; Sunday market is traditionally the largest gathering of vendors. Early morning reduces both heat and tour-bus density at ruins and stalls.",
+      "how_to_get_there": "Collectivo, bus, or taxi from Cusco along the Sacred Valley road to Pisac plaza; continue by taxi or on foot/vehicle to the archaeological park entrance. Ruins visit hours listed by DDC Cusco: 07:00–16:30; entry is via the Cusco Tourist Ticket system (boleto turístico)—confirm current circuit validity at an authorized sales point.",
+      "good_to_know": "Altitude (~3,400 m at the park) can affect pacing—hydrate and ascend gradually. Do not climb walls or fly drones without DDC authorization. Town market browsing is separate from the archaeological ticket; keep valuables secure in crowded stalls.",
+      "official_or_tourism_url": "https://www.culturacusco.gob.pe/parques/pisaq/",
+      "sources": [
+        "https://www.culturacusco.gob.pe/parques/pisaq/",
+        "https://www.munipisac.gob.pe/inicio/",
+        "https://en.wikipedia.org/wiki/Inca_complex_at_P%C3%ADsac"
+      ]
+    },
+    "ad": {
+      "destination_query": "Pisac, Peru",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Pisac%2C%20Peru&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Pisac%2C%20Peru&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Pisac%2C%20Peru&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Pisac"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
+    "id": "hidden-gems-100",
+    "tab": "hidden-gems",
+    "name": "Barichara",
+    "short_line": "Santander, Colombia",
+    "country": "Colombia",
+    "lat": 6.6358,
+    "lng": -73.2231,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Calle_de_Barichara.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-100.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACalle_de_Barichara.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Felipeeramirez",
+      "attribution": "Photo: Felipeeramirez, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Calle de Barichara.jpg' confirms Barichara"
+    },
+    "facts": {
+      "one_liner": "Colonial Santander stone town on Colombia’s Pueblos Patrimonio network, with the Camino Real to Guane.",
+      "why_go": "Barichara, in Santander’s Guanentá province, was founded in 1705 and is known for cobbled streets, tapia and cut-stone houses, and clay-tile roofs. Colombia’s Red Turística de Pueblos Patrimonio lists it as a Pueblo Patrimonio since 2010; its historic centre was declared a National Monument in 1975 (now Bien de Interés Cultural). Landmarks include the stone Iglesia de la Inmaculada Concepción y San Lorenzo Mártir, Capilla de Santa Bárbara, and Casa de la Cultura. The Camino de Guane—an approximately 5.6 km stone path attributed to Guane indigenous builders and later paved, declared a National Monument in 1988—links Barichara to the village of Guane. It is a Santander colonial stone town distinct from Boyacá’s Villa de Leyva already in the catalog.",
+      "best_time": "Dryer months are more comfortable for the Camino Real hike; average temperature is cited around 23 °C. Weekdays are quieter than festival weekends (e.g., San Lorenzo in August, green film festival in September).",
+      "how_to_get_there": "Pueblos Patrimonio guidance: nearest major airport Palonegro (Bucaramanga); overland roughly 100 km from Bucaramanga’s bus terminal toward San Gil, then about 25 km to Barichara. The historic centre is walked; the Camino Real to Guane starts from the town edge.",
+      "good_to_know": "Bring water, sun protection, and sturdy shoes for the Camino Real’s stone path and tropical dry-forest heat. Sample local stone carving (picapedreros) workshops near town if interested in craft. Respect residential quiet—Barichara markets calm as part of its appeal.",
+      "official_or_tourism_url": "https://redturisticadepueblospatrimonio.com.co/en/node/888",
+      "sources": [
+        "https://redturisticadepueblospatrimonio.com.co/en/node/888",
+        "https://en.wikipedia.org/wiki/Barichara",
+        "https://normograma.mincultura.gov.co/compilacion/docs/resolucion_mincultura_0688_2015.htm"
+      ]
+    },
+    "ad": {
+      "destination_query": "Barichara, Colombia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Barichara%2C%20Colombia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Barichara%2C%20Colombia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Barichara%2C%20Colombia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Barichara"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
   }
 ]
