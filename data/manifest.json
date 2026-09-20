@@ -2,7 +2,7 @@
   "brand": "Stay or Stray",
   "tagline": "Swipe a place. Stay or stray.",
   "phase": "1-audit",
-  "updated": "2026-09-20T15:47:00-05:00",
+  "updated": "2026-09-20T16:05:00-05:00",
   "tabs": [
     "hidden-gems",
     "cities",
@@ -17,8 +17,8 @@
   ],
   "counts": {
     "pending": 0,
-    "approved": 79,
-    "rejected": 1
+    "approved": 80,
+    "rejected": 0
   },
   "cards": [
     {
@@ -463,7 +463,7 @@
       "id": "hidden-gems-074",
       "tab": "hidden-gems",
       "name": "Tam Cốc",
-      "auditor_status": "rejected"
+      "auditor_status": "approved"
     },
     {
       "id": "hidden-gems-075",
@@ -502,9 +502,9 @@
       "auditor_status": "approved"
     }
   ],
-  "approved_count": 79,
-  "rejected_count": 1,
+  "approved_count": 80,
+  "rejected_count": 0,
   "pending_count": 0,
-  "last_audit": "2026-09-20T15:47:00-05:00",
-  "hidden_gems_approved": 79
+  "last_audit": "2026-09-20T16:05:00-05:00",
+  "hidden_gems_approved": 80
 }

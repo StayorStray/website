@@ -3584,6 +3584,56 @@
     }
   },
   {
+    "id": "hidden-gems-074",
+    "tab": "hidden-gems",
+    "name": "Tam Cốc",
+    "short_line": "Ninh Bình Province, Vietnam",
+    "country": "Vietnam",
+    "lat": 20.2175,
+    "lng": 105.9219,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Tam_C%E1%BB%91c01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/hidden-gems-074.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATam_C%E1%BB%91c01.jpg",
+      "license": "CC BY 2.0",
+      "author": "Juliana Ng",
+      "attribution": "Photo: Juliana Ng, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Tam Cốc01.jpg' confirms Tam Cốc; desc: Ngo Dong River, Way to the Tam Coc caves; categories include Ngo Dong River and Tam Coc"
+    },
+    "facts": {
+      "one_liner": "Ninh Bình boat route through rice paddies and three limestone caves on the Ngô Đồng.",
+      "why_go": "Tam Cốc (“three caves”) is the named sampan cruise on the Ngô Đồng River inside the Tam Cốc–Bích Động tourism area of Ninh Hải, about 7 km from Ninh Bình city. Local tourism describes Hang Cả (~127 m), Hang Hai, and Hang Ba as limestone caves the river cuts through, with the round-trip boat ride typically about two hours past paddies and karst towers. The site sits within the Tràng An Landscape Complex, a UNESCO mixed World Heritage property inscribed in 2014 that explicitly includes the Trang An–Tam Coc–Bich Dong Scenic Landscape among its protected areas.",
+      "best_time": "Late May–early June for golden rice along the river when fields are ripening; green paddies earlier in the growing season. Dry-season mornings are often clearer for photos; weekends and holidays bring long boat queues.",
+      "how_to_get_there": "From Hanoi, take a train or bus to Ninh Bình (about 2–2.5 hours), then taxi/xe ôm or local transfer ~7 km to the Tam Cốc–Bích Động wharf. Day tours from Hanoi are common. Boats are the primary way to experience the named Tam Cốc cave route—tickets are sold at the official tourism site.",
+      "good_to_know": "Bring sun protection and cash for boat tickets and optional electric-car transfers within the site. Modest dress if combining Bích Động Pagoda. Do not tip-pressure boat rowers beyond posted practice; confirm current tariffs at the Ninh Bình Tourism desk rather than relying on undated blog prices.",
+      "official_or_tourism_url": "https://dulichninhbinh.com.vn/en/item/1754",
+      "sources": [
+        "https://dulichninhbinh.com.vn/en/item/1754",
+        "https://dulichninhbinh.com.vn/en/item/1776",
+        "https://whc.unesco.org/en/list/1438/",
+        "https://dulichninhbinh.com.vn/en/item/1860"
+      ]
+    },
+    "ad": {
+      "destination_query": "Tam Coc, Ninh Binh, Vietnam",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Tam%20Coc%2C%20Ninh%20Binh%2C%20Vietnam&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Tam%20Coc%2C%20Ninh%20Binh%2C%20Vietnam&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Tam%20Coc%2C%20Ninh%20Binh%2C%20Vietnam&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Tam Cốc"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved"
+    }
+  },
+  {
     "id": "hidden-gems-075",
     "tab": "hidden-gems",
     "name": "Takayama",
