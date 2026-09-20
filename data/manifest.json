@@ -1,0 +1,145 @@
+{
+  "brand": "Stay or Stray",
+  "tagline": "Swipe a place. Stay or stray.",
+  "phase": "1-audit",
+  "updated": "2026-09-20T13:50:00-05:00",
+  "tabs": [
+    "hidden-gems",
+    "cities",
+    "pubs",
+    "countries",
+    "arenas",
+    "beaches",
+    "parks",
+    "landmarks",
+    "islands",
+    "luxury"
+  ],
+  "counts": {
+    "pending": 0,
+    "approved": 20,
+    "rejected": 0
+  },
+  "cards": [
+    {
+      "id": "hidden-gems-001",
+      "tab": "hidden-gems",
+      "name": "Giethoorn",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-002",
+      "tab": "hidden-gems",
+      "name": "Chefchaouen",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-003",
+      "tab": "hidden-gems",
+      "name": "Hallstatt",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-004",
+      "tab": "hidden-gems",
+      "name": "Colmar",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-005",
+      "tab": "hidden-gems",
+      "name": "Civita di Bagnoregio",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-006",
+      "tab": "hidden-gems",
+      "name": "Shirakawa-go",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-007",
+      "tab": "hidden-gems",
+      "name": "Sidi Bou Said",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-008",
+      "tab": "hidden-gems",
+      "name": "Čičmany",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-009",
+      "tab": "hidden-gems",
+      "name": "Reine",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-010",
+      "tab": "hidden-gems",
+      "name": "Albarracín",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-011",
+      "tab": "hidden-gems",
+      "name": "Waitomo",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-012",
+      "tab": "hidden-gems",
+      "name": "Guatapé",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-013",
+      "tab": "hidden-gems",
+      "name": "Penglipuran",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-014",
+      "tab": "hidden-gems",
+      "name": "Gásadalur",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-015",
+      "tab": "hidden-gems",
+      "name": "Eguisheim",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-016",
+      "tab": "hidden-gems",
+      "name": "Mostar",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-017",
+      "tab": "hidden-gems",
+      "name": "Júzcar",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-018",
+      "tab": "hidden-gems",
+      "name": "Portree",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-019",
+      "tab": "hidden-gems",
+      "name": "Oia",
+      "auditor_status": "approved"
+    },
+    {
+      "id": "hidden-gems-020",
+      "tab": "hidden-gems",
+      "name": "Rothenburg ob der Tauber",
+      "auditor_status": "approved"
+    }
+  ]
+}
