@@ -51,7 +51,12 @@
     "close_list": "閉じる",
     "daily_note": "「行く」と「パス」のリストはこの端末にのみ保存されます。",
     "daily_deck_label": "今日のデッキ · {date}",
-    "end_deck_saved_prefix": "この端末に保存："
+    "end_deck_saved_prefix": "この端末に保存：",
+    "move_up": "上へ",
+    "move_down": "下へ",
+    "move_top": "先頭へ",
+    "move_bottom": "末尾へ",
+    "stay_reorder_note": "矢印で「行く」リストの順位を変えられます。順序はこの端末に保存されます。"
   },
   "tabs": {
     "hidden-gems": "隠れた名所",

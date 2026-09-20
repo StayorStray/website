@@ -51,7 +51,12 @@
     "close_list": "Schließen",
     "daily_note": "Deine Bleiben- und Weiter-Listen werden nur auf diesem Gerät gespeichert.",
     "daily_deck_label": "Heutiges Deck · {date}",
-    "end_deck_saved_prefix": "Auf diesem Gerät gespeichert:"
+    "end_deck_saved_prefix": "Auf diesem Gerät gespeichert:",
+    "move_up": "Nach oben",
+    "move_down": "Nach unten",
+    "move_top": "Ganz nach oben",
+    "move_bottom": "Ganz nach unten",
+    "stay_reorder_note": "Mit den Pfeilen deine Bleiben-Liste sortieren. Die Reihenfolge wird auf diesem Gerät gespeichert."
   },
   "tabs": {
     "hidden-gems": "Versteckte Juwelen",

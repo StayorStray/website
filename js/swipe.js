@@ -147,6 +147,30 @@
     else writeList(STORAGE_STRAY_LIST, withoutId(getStrayList(), cardId));
   }
 
+  function moveListItem(kind, id, dir) {
+    const key = kind === 'stay' ? STORAGE_STAY_LIST : STORAGE_STRAY_LIST;
+    const list = (kind === 'stay' ? getStayList() : getStrayList()).slice();
+    const idx = list.findIndex(function (item) {
+      return item && item.id === id;
+    });
+    if (idx < 0) return;
+    let newIdx = idx;
+    if (dir === 'up') newIdx = idx - 1;
+    else if (dir === 'down') newIdx = idx + 1;
+    else if (dir === 'top') newIdx = 0;
+    else if (dir === 'bottom') newIdx = list.length - 1;
+    else return;
+    if (newIdx < 0 || newIdx >= list.length || newIdx === idx) return;
+    const item = list.splice(idx, 1)[0];
+    list.splice(newIdx, 0, item);
+    const body = document.getElementById('list-panel-body');
+    const scroll = body ? body.scrollTop : 0;
+    writeList(key, list);
+    openListPanel(kind);
+    const body2 = document.getElementById('list-panel-body');
+    if (body2) body2.scrollTop = scroll;
+  }
+
   function updateStatsUI() {
     const el = document.getElementById('session-stats');
     if (!el) return;
@@ -192,6 +216,18 @@
     document.body.appendChild(root);
     root.querySelector('[data-close]').addEventListener('click', closeListPanel);
     document.getElementById('list-panel-close').addEventListener('click', closeListPanel);
+    document.getElementById('list-panel-body').addEventListener('click', function (e) {
+      const btn = e.target.closest('[data-move]');
+      if (!btn || btn.disabled) return;
+      const li = btn.closest('.place-list-item');
+      if (!li) return;
+      const id = li.getAttribute('data-id');
+      const dir = btn.getAttribute('data-move');
+      const kind = root.getAttribute('data-list-kind');
+      if (!id || !dir || !kind) return;
+      e.preventDefault();
+      moveListItem(kind, id, dir);
+    });
     if (!document.documentElement._sosListEsc) {
       document.documentElement._sosListEsc = true;
       document.addEventListener('keydown', function (e) {
@@ -222,14 +258,19 @@
     const closeBtn = document.getElementById('list-panel-close');
     const list = kind === 'stay' ? getStayList() : getStrayList();
 
+    root.setAttribute('data-list-kind', kind);
     title.textContent = kind === 'stay' ? t('stay_list_title') : t('stray_list_title');
     root.setAttribute('aria-labelledby', 'list-panel-title');
     closeBtn.textContent = t('close_list');
     closeBtn.setAttribute('aria-label', t('close_list'));
 
-    const dailyNote = t('daily_note');
     if (note) {
-      if (dailyNote && dailyNote !== 'daily_note') {
+      const reorderNote = t('stay_reorder_note');
+      const dailyNote = t('daily_note');
+      if (kind === 'stay' && list.length > 1 && reorderNote && reorderNote !== 'stay_reorder_note') {
+        note.hidden = false;
+        note.textContent = reorderNote;
+      } else if (dailyNote && dailyNote !== 'daily_note') {
         note.hidden = false;
         note.textContent = dailyNote;
       } else {
@@ -243,17 +284,49 @@
         escapeHtml(kind === 'stay' ? t('list_empty_stay') : t('list_empty_stray')) +
         '</p>';
     } else {
+      const labelUp = escapeHtml(t('move_up'));
+      const labelDown = escapeHtml(t('move_down'));
+      const labelTop = escapeHtml(t('move_top'));
+      const labelBottom = escapeHtml(t('move_bottom'));
+      const last = list.length - 1;
       body.innerHTML =
         '<ul class="place-list">' +
         list
-          .map(function (item) {
+          .map(function (item, index) {
             const thumb = item.thumb
               ? '<img class="place-list-thumb" src="' +
                 escapeHtml(item.thumb) +
                 '" alt="" loading="lazy" width="56" height="56" />'
               : '<span class="place-list-thumb placeholder" aria-hidden="true"></span>';
+            const atTop = index === 0;
+            const atBottom = index === last;
+            const reorder =
+              '<div class="place-list-reorder" role="group">' +
+              '<button type="button" class="place-list-move" data-move="top" aria-label="' +
+              labelTop +
+              '"' +
+              (atTop ? ' disabled' : '') +
+              '>⤒</button>' +
+              '<button type="button" class="place-list-move" data-move="up" aria-label="' +
+              labelUp +
+              '"' +
+              (atTop ? ' disabled' : '') +
+              '>▲</button>' +
+              '<button type="button" class="place-list-move" data-move="down" aria-label="' +
+              labelDown +
+              '"' +
+              (atBottom ? ' disabled' : '') +
+              '>▼</button>' +
+              '<button type="button" class="place-list-move" data-move="bottom" aria-label="' +
+              labelBottom +
+              '"' +
+              (atBottom ? ' disabled' : '') +
+              '>⤓</button>' +
+              '</div>';
             return (
-              '<li class="place-list-item">' +
+              '<li class="place-list-item" data-id="' +
+              escapeHtml(item.id) +
+              '">' +
               thumb +
               '<div class="place-list-text">' +
               '<p class="place-list-name">' +
@@ -262,7 +335,9 @@
               '<p class="place-list-line">' +
               escapeHtml(item.short_line || '') +
               '</p>' +
-              '</div></li>'
+              '</div>' +
+              reorder +
+              '</li>'
             );
           })
           .join('') +

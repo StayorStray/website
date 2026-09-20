@@ -51,7 +51,12 @@
     "close_list": "Close",
     "daily_note": "Your Stay and Stray lists are saved on this device only.",
     "daily_deck_label": "Today’s deck · {date}",
-    "end_deck_saved_prefix": "Saved on this device:"
+    "end_deck_saved_prefix": "Saved on this device:",
+    "move_up": "Move up",
+    "move_down": "Move down",
+    "move_top": "Move to top",
+    "move_bottom": "Move to bottom",
+    "stay_reorder_note": "Use the arrows to rank your Stays. Order is saved on this device."
   },
   "tabs": {
     "hidden-gems": "Hidden Gems",

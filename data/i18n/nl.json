@@ -51,7 +51,12 @@
     "close_list": "Sluiten",
     "daily_note": "Je Blijven- en Voorbij-lijsten worden alleen op dit apparaat opgeslagen.",
     "daily_deck_label": "Deck van vandaag · {date}",
-    "end_deck_saved_prefix": "Opgeslagen op dit apparaat:"
+    "end_deck_saved_prefix": "Opgeslagen op dit apparaat:",
+    "move_up": "Omhoog",
+    "move_down": "Omlaag",
+    "move_top": "Naar boven",
+    "move_bottom": "Naar beneden",
+    "stay_reorder_note": "Gebruik de pijlen om je Blijven-lijst te rangschikken. Volgorde wordt op dit apparaat opgeslagen."
   },
   "tabs": {
     "hidden-gems": "Verborgen parels",

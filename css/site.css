@@ -724,7 +724,10 @@ body.list-panel-open { overflow: hidden; }
   display: inline-block;
   background: rgba(255, 255, 255, 0.06);
 }
-.place-list-text { min-width: 0; }
+.place-list-text {
+  min-width: 0;
+  flex: 1;
+}
 .place-list-name {
   margin: 0;
   font-weight: 600;
@@ -734,6 +737,42 @@ body.list-panel-open { overflow: hidden; }
   margin: 0.15rem 0 0;
   color: var(--muted);
   font-size: 0.8rem;
+}
+.place-list-reorder {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(44px, auto));
+  grid-auto-rows: minmax(44px, auto);
+  gap: 0.15rem;
+  flex-shrink: 0;
+  margin-left: auto;
+  align-content: center;
+}
+.place-list-move {
+  appearance: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  min-height: 44px;
+  padding: 0;
+  margin: 0;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--surface);
+  color: var(--text);
+  font-size: 0.85rem;
+  line-height: 1;
+  cursor: pointer;
+}
+.place-list-move:hover:not(:disabled),
+.place-list-move:focus-visible:not(:disabled) {
+  border-color: var(--accent);
+  color: var(--accent);
+  outline: none;
+}
+.place-list-move:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
 }
 
 .daily-deck-note {

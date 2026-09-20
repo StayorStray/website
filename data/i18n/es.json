@@ -51,7 +51,12 @@
     "close_list": "Cerrar",
     "daily_note": "Tus listas Quédate y Pasa se guardan solo en este dispositivo.",
     "daily_deck_label": "Mazo de hoy · {date}",
-    "end_deck_saved_prefix": "Guardado en este dispositivo:"
+    "end_deck_saved_prefix": "Guardado en este dispositivo:",
+    "move_up": "Subir",
+    "move_down": "Bajar",
+    "move_top": "Al inicio",
+    "move_bottom": "Al final",
+    "stay_reorder_note": "Usa las flechas para ordenar tus Quédate. El orden se guarda en este dispositivo."
   },
   "tabs": {
     "hidden-gems": "Joyas ocultas",
