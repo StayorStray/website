@@ -1,0 +1,288 @@
+{
+  "ui": {
+    "brand": "Stay or Stray",
+    "tagline": "Veeg een plek. Blijven of voorbijgaan.",
+    "meta_description": "Veeg een plek. Blijven of voorbijgaan. Echte locaties, gelicentieerde foto’s.",
+    "home": "Home",
+    "stay": "Blijven",
+    "stray": "Voorbij",
+    "stay_btn": "Blijven →",
+    "stray_btn": "← Voorbij",
+    "undo": "Laatste ongedaan maken",
+    "session_stats": "Blijven {stay} · Voorbij {stray}",
+    "nav_categories": "Categorieën",
+    "nav_footer": "Voettekst",
+    "intro_blurb": "Veeg echte plekken — Blijven of Voorbij. Uitgelicht deck: <strong>{featured}</strong>.",
+    "deck_featured": "{tab} — uitgelicht",
+    "loading": "Deck laden…",
+    "end_deck_title": "Je hebt deze lijst doorgeveegd. Probeer een ander tabblad.",
+    "end_deck_session": "Deze sessie: {stay} Blijven · {stray} Voorbij",
+    "end_of_deck_live": "Einde van het deck.",
+    "try_another_category": "Probeer een andere categorie",
+    "about": "Over",
+    "photo_credits": "Fotocredits",
+    "disclosure": "Als affiliate kunnen we verdienen aan kwalificerende boekingen.",
+    "about_blurb": "<strong>Over Stay or Stray.</strong> Veeg echte, bezoekbare plekken — Blijven als je zou gaan, Voorbij als je overslaat. Foto’s zijn gelicentieerde echte foto’s (geen AI-beelden). Boekingslinks zoeken dezelfde bestemming als de kaart; affiliate-ID’s blijven <code>YOUR_AFFILIATE_ID</code> tot ze zijn geconfigureerd in <code>config/affiliates.js</code>.",
+    "credits_blurb": "Fase 0-voorbeeldcredits staan onder elke kaart. Volledige toeschrijvingen staan in <code>data/hidden-gems.json</code> (Wikimedia Commons CC-licenties).",
+    "best_time": "Beste tijd",
+    "how_to_get_there": "Hoe er te komen",
+    "good_to_know": "Goed om te weten",
+    "photo_credit": "Fotocredit:",
+    "ad_kicker": "Blijf in de buurt",
+    "ad_cta": "Vind een verblijf in {name}",
+    "ad_note": "Opent partnerzoeken voor {destination}. Affiliate-ID-placeholder tot geconfigureerd.",
+    "this_place": "deze plek",
+    "more": "Meer",
+    "less": "Minder",
+    "could_not_load": "Deck kon niet worden geladen",
+    "serve_http": "Serveer deze map via HTTP (zie README).",
+    "empty_deck": "Nog geen plekken in dit deck.",
+    "card_live": "Kaart {n} van {total}: {name}",
+    "lang_aria": "Taal wijzigen",
+    "lang_menu_aria": "Talen",
+    "booking_offer": "Boekingsaanbieding",
+    "em_dash": "—",
+    "stay_list_title": "Plekken die je Bleef",
+    "stray_list_title": "Plekken die je Voorbijging",
+    "list_empty_stay": "Nog geen Blijven. Veeg rechts (of tik Blijven) op een plek die je zou bezoeken.",
+    "list_empty_stray": "Nog geen Voorbij. Veeg links (of tik Voorbij) op een plek die je zou overslaan.",
+    "close_list": "Sluiten",
+    "daily_note": "Je Blijven- en Voorbij-lijsten worden alleen op dit apparaat opgeslagen.",
+    "daily_deck_label": "Deck van vandaag · {date}",
+    "end_deck_saved_prefix": "Opgeslagen op dit apparaat:"
+  },
+  "tabs": {
+    "hidden-gems": "Verborgen parels",
+    "cities": "Iconische steden",
+    "pubs": "Unieke pubs",
+    "countries": "Landen",
+    "arenas": "Sportarena’s",
+    "beaches": "Stranden & kusten",
+    "parks": "Nationale parken",
+    "landmarks": "Historische bezienswaardigheden",
+    "islands": "Eilanden",
+    "luxury": "Luxe verblijven"
+  },
+  "cards": {
+    "hidden-gems-001": {
+      "short_line": "Overijssel, Nederland",
+      "country": "Nederland",
+      "facts": {
+        "one_liner": "Kanaaldorp in Weerribben-Wieden; ~2.800 inwoners, autovrije historische kern, bevaarbare waterwegen.",
+        "why_go": "Giethoorn is een levend dorp in de Kop van Overijssel, vaak Hollands Venetië genoemd vanwege de grachten, rietgedekte boerderijen en houten bruggen. Bezoekers verkennen met fluisterboot, fiets of te voet — niet via een museumpoort. Het oude centrum heeft geen doorgaand autoverkeer; nabijgelegen meren ontstonden door historische turfwinning. Voor bootverhuur is geen vaarbewijs nodig, maar vooraf boeken wordt sterk aangeraden op drukke dagen.",
+        "best_time": "Mei–september voor varen en lange dagen; kom vóór 10:00 of na 16:00 voor rustigere grachten. Schoudermanden april en oktober zijn milder en minder druk.",
+        "how_to_get_there": "Geen station in het dorp. Trein naar Steenwijk, daarna bus 70 of seizoensgebonden Giethoorn Express (270) naar Hylkemaweg–Giethoorn Centrum / Hollands Venetië. Met de auto: parkeer op de P-route aan de rand; het centrum is autovrij. Circa 10 minuten rijden vanaf Steenwijk, 30 vanaf Zwolle.",
+        "good_to_know": "Het is een bewoond dorp (~2.600–2.800 mensen), geen attractiepark — blijf van privé-tuinen en paden af. Geen entreegeld om door het dorp te lopen."
+      }
+    },
+    "hidden-gems-002": {
+      "short_line": "Tanger-Tétouan-Al Hoceima, Marokko",
+      "country": "Marokko",
+      "facts": {
+        "one_liner": "Rif-bergstadje (~600 m) bekend als Chaouen; blauwgewassen medina, Kasbah en wandeltoegang.",
+        "why_go": "Chefchaouen (ook Chaouen / شفشاون) ligt in het westelijke Rif tussen Tétouan en Ouazzane. Mensen komen voor de blauw-witte medinastraatjes, Place Outa Hammam met het Kasbah-museum, en dagwandelingen naar Akchour en Nationaal Park Talassemtane. De Andalusisch beïnvloede plattegrond en bergsetting onderscheiden het van grotere keizerlijke steden. Vroege ochtend en late namiddag geven beter licht en minder dagjesmensen.",
+        "best_time": "April–mei en september–oktober voor milde dagen en betere wandelcondities. Juli–augustus zijn warmer en drukker met binnenlands weekendverkeer; de winter is stiller maar koeler en natter.",
+        "how_to_get_there": "De meeste bezoekers komen per bus of gedeelde grand taxi vanuit Tanger, Tétouan of Fès (bergwegen; reken enkele uren). Geen treinstation — gebruik CTM/lokale coaches naar de nieuwe stad, wandel of taxi daarna de medina in.",
+        "good_to_know": "Kleed je bescheiden in de medina; vraag toestemming vóór het fotograferen van bewoners. Combineer de stad met een begeleide hike in plaats van alleen straatfoto’s — Ras el-Maa en het Spaanse Moskee-uitzicht zijn korte wandelingen vanaf de oude wijk."
+      }
+    },
+    "hidden-gems-003": {
+      "short_line": "Opper-Oostenrijk, Oostenrijk",
+      "country": "Oostenrijk",
+      "facts": {
+        "one_liner": "Marktplaats aan de Hallstätter See; UNESCO Hallstatt–Dachstein/Salzkammergut-kern, zoutmijnerfgoed.",
+        "why_go": "Hallstatt is een kleine gemeente aan de zuidwestelijke oever van de Hallstätter See onder het Dachstein-massief in Opper-Oostenrijk. Bezoekers komen voor de oude stad aan het meer, zoutmijn- en museumgeschiedenis (de Hallstattcultuur is hiernaar genoemd), de Skywalk boven de daken en het Beinhaus-ossuarium. De nederzetting ligt op een smalle strook tussen klif en water, dus verkenning gebeurt vooral te voet. Dagtoerismedruk is hoog; overnachten of heel vroeg aankomen verandert de ervaring.",
+        "best_time": "Mei–juni en september–oktober voor milder weer en minder piekdrukte. Juli–augustus en zonnige weekenden zien zwaar dagtoerisme; de winter is stiller met mogelijke sneeuw.",
+        "how_to_get_there": "Trein via ÖBB naar Attnang-Puchheim, daarna Salzkammergutbahn naar station Hallstatt op de overoever; veer (~15 min) naar de dorpspier. Vanuit Salzburg bus 150 naar Bad Ischl, daarna lokale bussen (overstappen bij Gosaumühle voor Hallstatt Lahn). Met de auto is een Oostenrijkse snelwegvignet verplicht; parkeren in het dorp is schaars — boek vooraf of reis vroeg.",
+        "good_to_know": "Tourbussen zijn tijdslotbeperkt; overnachtingsgasten krijgen voorrang. Parkeren in het centrum is grotendeels voor bewoners — plan openbaar vervoer of gereserveerde terreinen."
+      }
+    },
+    "hidden-gems-004": {
+      "short_line": "Grand Est, Frankrijk",
+      "country": "Frankrijk",
+      "facts": {
+        "one_liner": "Elzasser prefectuurstad; vakwerkoud stad, Petite Venise-kanalen en knooppunt van de Elzas-wijnroute.",
+        "why_go": "Colmar (Elzassisch: Colmer) is de prefectuur van Haut-Rhin tussen de Vogezen en de Rijn, bekend als hoofdstad van de Elzaswijnen. Reizigers komen voor het beschermde historische centrum — Petite Venise, de Looierswijk, Maison Pfister, Maison des Têtes — en het Unterlindenmuseum met het Isenheimer altaarstuk. De voetgangerskern mengt Franse en Germaanse architectuur over eeuwen. Het werkt als basis voor de Route des Vins en naburige dorpen.",
+        "best_time": "Mei–juni en september–oktober voor wandelweer en wijngaardseizoen. Decemberkerstmarkten zijn populair maar druk; juli–augustus is piek zomer.",
+        "how_to_get_there": "Gare de Colmar heeft frequente TER/TGV-verbonden treinen vanuit Straatsburg en Mulhouse. Dichtstbijzijnde grote luchthavens: Bazel–Mulhouse–Freiburg (~52 km) en Straatsburg (~68 km). Centrum is wandelbaar vanaf het station; toeristenbureau aan Place Unterlinden.",
+        "good_to_know": "Verlichting in de oude stad is het sterkst vrijdag–zaterdagavonden het hele jaar en dagelijks tijdens grote evenementen (wijnfeest, Kerst). Het toeristenbureau heeft kaarten van Petite Venise en museumticketinfo."
+      }
+    },
+    "hidden-gems-005": {
+      "short_line": "Lazio, Italië",
+      "country": "Italië",
+      "facts": {
+        "one_liner": "Klifdorp boven de Valle dei Calanchi; alleen toegankelijk via voetbrug vanaf Bagnoregio, betaalde toegang.",
+        "why_go": "Civita di Bagnoregio is een frazione van Bagnoregio in Tuscia, gelegen op broze tuf boven kleiachtige badlands. Bezoekers steken een versterkte voetbrug over naar een compact middeleeuws stratenplan met Etruskische wortels, de San Donato-kerk en calanchi-uitzichten. Voortdurende erosie leverde de bijnaam „la città che muore” op, dus de setting zelf is deel van het bezoek. Slechts een handvol permanente bewoners blijft; dagtoerisme is de hoofdactiviteit.",
+        "best_time": "April–juni en september–oktober voor koelere brugklimmen. Vermijd middags hitte in juli–augustus; vroege ochtend of late avond zijn comfortabeler en minder druk.",
+        "how_to_get_there": "A1-afslag Orvieto (~18 km) of Attigliano (~30 km) naar Bagnoregio. Parkeer bij Piazzale Battaglini; shuttle of ~1,3 km wandeling naar Belvedere, daarna de ~300 m brug te voet. Trein naar Orvieto of Viterbo, daarna COTRAL-bus naar Bagnoregio. Online tickethouders gaan direct naar de bruggingang.",
+        "good_to_know": "Toegang is ticketed (beheerd door Casa Civita); de brugklim is steil — ongeschikt bij piekhitte voor iedereen met hart-/mobiliteitsproblemen. Fietsen zijn niet toegestaan in het dorp."
+      }
+    },
+    "hidden-gems-006": {
+      "short_line": "Prefectuur Gifu, Japan",
+      "country": "Japan",
+      "facts": {
+        "one_liner": "Ogimachi gasshō-zukuri-dorp (白川郷); UNESCO Historische dorpen van Shirakawa-go en Gokayama.",
+        "why_go": "Het Ogimachi-gehucht van Shirakawa-gō in Shirakawa Village (Gifu) bewaart steile rietgedekte gasshō-zukuri-boerderijen aangepast aan zware sneeuw. Samen met Gokayama-sites in Toyama vormt het een UNESCO-werelderfgoed, ingeschreven in 1995. Bezoekers wandelen door de dorpslanen, klimmen naar het uitkijkpunt en kunnen optioneel overnachten in boerderijlogies. Verschillende huizen fungeren als musea over zijdeteelt en dakconstructie; vele blijven privéwoningen.",
+        "best_time": "Eind april–mei (groen), mid-oktober (bladeren/Doburoku Festival-periode) en winter voor sneeuwscènes als wegen en kleding klaar zijn. Golden Week en herfstfestivaldata brengen drukte.",
+        "how_to_get_there": "Geen passagiersrail in het dorp. Snelwegbussen (vaak reservering verplicht) vanuit Takayama (~50 min), Kanazawa (~75 min) of Nagoya. Met de auto: Seseragi Park Parking van het dorp, daarna Deai-brug oversteken; voertuigtoegang tot de werelderfgoedkern is beperkt. Winterrijden vraagt winterbanden of kettingen.",
+        "good_to_know": "Gebruik officieel Seseragi-parkeren — niet privé-lokkers bij de ingang. Respecteer bewoners: veel gebouwen zijn woningen, en brandrisico is hoog in rietgedekte clusters."
+      }
+    },
+    "hidden-gems-007": {
+      "short_line": "Gouvernement Tunis, Tunesië",
+      "country": "Tunesië",
+      "facts": {
+        "one_liner": "Klifvoorstad ~20 km NO van Tunis; witte muren, blauwe luiken, uitzicht op de Golf van Tunis (سيدي بو سعيد).",
+        "why_go": "Sidi Bou Saïd kijkt uit over de Golf van Tunis vanaf een steile landtong, bekend om Andalusische huizen in wit en kobaltblauw. Bezoekers wandelen Rue Hedi Zarrouk en zijstraatjes, stoppen bij klifcafés en bezoeken Dar Ennejma Ezzahra (Centrum voor Arabische en Mediterrane Muziek) of huismusea zoals Dar el-Annabi. Het combineert makkelijk met de ruïnes van Carthago enkele kilometers westwaarts. Het bovenste dorp is compact en grotendeels voetgangersgebied.",
+        "best_time": "Lente en herfst voor mild weer en dunnere menigten dan piekzomer. Kom vóór 11:00 of blijf overnachten voor rustigere straten; middagen trekken dagjesmensen.",
+        "how_to_get_there": "TGM-forenzentrein vanaf Tunis Marine richting La Marsa; uitstappen bij station Sidi Bou Saïd (~0,5 km onder het centrum), daarna omhoog wandelen. Taxi’s/rideshares droppen bij Rue Hedi Zarrouk. Combineer met Carthago op dezelfde TGM-lijn.",
+        "good_to_know": "Tijdens ramadan sluiten veel overdagse eetkraampjes — plan iftar of eet buiten vastenuren. De jachthaven bereik je via de steile „365 trappen” (in de praktijk minder); de bovenstraten zijn het hoofd-fotocircuit."
+      }
+    },
+    "hidden-gems-008": {
+      "short_line": "Žilina-regio, Slowakije",
+      "country": "Slowakije",
+      "facts": {
+        "one_liner": "Bergdorp in Rajecká dolina; blokhutten met witte geometrische wandpatronen (volksarchitectuurreservaat).",
+        "why_go": "Čičmany ligt in district Žilina tussen de Strážovské vrchy en Malá Fatra, beroemd om houten huizen beschilderd met kenmerkende witte ornamenten. Een volksarchitectuurreservaat (1977) beschermt een cluster van deze huizen; Radenov dom en huis nr. 42 huisvesten etnografische displays van Považské múzeum over dagelijks leven, klederdracht en ambachten. Patronen verschijnen ook in lokale borduurkunst. Het dorp zelf blijft klein en residentieel.",
+        "best_time": "Mei–september voor openluchtwandelen en museumuren; juli–augustus hebben de langste museumdagen. Winter is sfeervol maar koud en diensten dunner.",
+        "how_to_get_there": "Met de auto via Rajecká Lesná / Rajecké Teplice ten zuiden van Žilina (bergdalwegen). Openbaar vervoer is beperkt — check regionale bussen vanuit Žilina naar Čičmany en bevestig retourtijden. Museumadres: Čičmany 137.",
+        "good_to_know": "Museum gesloten op maandag; di–vr ongeveer 9:00–15:00 met middagpauze, langer in het weekend — bevestig actuele uren op pmza.sk vóór vertrek. Wandel respectvol door het lagere dorp; veel beschilderde huizen zijn privéwoningen."
+      }
+    },
+    "hidden-gems-009": {
+      "short_line": "Lofoten, Noorwegen",
+      "country": "Noorwegen",
+      "facts": {
+        "one_liner": "Vissersdorp op Moskenesøya; gemeentelijk centrum van Moskenes, poolcirkel, E10-toegang, ~300 inwoners.",
+        "why_go": "Reine ligt tussen Vestfjorden en Reinefjorden op Moskenesøya in de Lofoten-archipel. Mensen komen voor haven- en berguitzichten, rorbu-cabines, stokvisrekken en hikes zoals Reinebringen (stenen trap gebouwd 2016–2019). Het blijft een werkende visverwerkingsgemeenschap, niet alleen een uitzichtpunt. Naburige Hamnøy en Å zijn korte hops langs dezelfde weg.",
+        "best_time": "Juni–augustus voor hiken, veerboten en middernachtzon. Mei en september zijn stiller met lange dagen. Oktober–maart voor noorderlichtpotentieel, maar verwacht korte dagen, beperkte diensten en gevaarlijke winterpaden.",
+        "how_to_get_there": "Veer Bodø–Moskenes, daarna bus/taxi naar Reine; of vlieg naar Leknes of Svolvær en ga verder per bus/auto op E10. Check Reis Nordland (reisnordland.com / Reis-app) voor bus 300 / Lofotekspressen en lokale links. Openbaar parkeren in het dorp — straten zijn smal.",
+        "good_to_know": "Reinebringen wordt in de winter sterk afgeraden om veiligheidsredenen. Respecteer actief visserijwerk en raak drogende stokvis niet aan; gebruik alleen gemarkeerde campings."
+      }
+    },
+    "hidden-gems-010": {
+      "short_line": "Teruel, Spanje",
+      "country": "Spanje",
+      "facts": {
+        "one_liner": "Roze ommuurde heuvelstad in een Guadalaviar-meander; Sierra de Albarracín, Monumento Nacional sinds 1961.",
+        "why_go": "Albarracín klimt een rotsachtige lus van de Guadalaviar op ongeveer 1.180 m in zuidelijk Aragón. Bezoekers wandelen door het middeleeuwse stratenlabyrint, kathedraal en muren (Torre del Andador-uitzichten) en roze zandstenen gevels. De omliggende sierra biedt wandelen en het Rodeno-dennen-/rotslandschap populair bij klimmers. Het is hoofdstad van de comarca Sierra de Albarracín en lid van Spanje’s Mooiste Dorpen-associatie.",
+        "best_time": "Mei–juni en september–oktober voor comfortabel wandelen en herfstkleur in de sierra. Zomers zijn warm overdag met koelere nachten; winters kunnen sneeuw brengen en stillere straten.",
+        "how_to_get_there": "Beste met de auto: ~2 u vanaf Valencia (A-23), ~3 u vanaf Madrid, ~5 u vanaf Barcelona. Busverbinding vanaf Teruel busstation meestal ma–za (bijv. Teruel 08:50 / Albarracín 14:10 volgens gemeentelijke info — bevestig actuele tijden). Beperkte zon-/feestdagservice.",
+        "good_to_know": "Gebruik aangewezen parkeerplaatsen buiten de historische kern; straten zijn zeer smal. Check albarracin.es of Albarracín Movilidad voor actuele bustickets vóór je op een zelfde-dagverbinding vanuit Teruel vertrouwt."
+      }
+    },
+    "hidden-gems-011": {
+      "short_line": "Waikato, Nieuw-Zeeland",
+      "country": "Nieuw-Zeeland",
+      "facts": {
+        "one_liner": "Begeleide kalksteengrotten met een stille boottocht onder Arachnocampa luminosa-glowworms.",
+        "why_go": "De Waitomo Glowworm Caves zijn een showcave-complex in landelijk Waikato waar begeleide tours door zalen zoals de Cathedral lopen vóór een korte boottocht door de glowwormgrot. Discover Waitomo beheert de officiële Glowworm Cave naast nabijgelegen Ruakuri- en Aranui-grotten, dus het gebied werkt als halve-dag of multi-grotstop tussen Auckland en Rotorua. Verwacht koele, vochtige ondergrondse omstandigheden en een cashless bezoekerscentrum op 39 Waitomo Village Road.",
+        "best_time": "Jaarrond; zomer (dec–feb) heeft langere dagen en meer vertrekken, terwijl schoudermanden (mrt–mei, sep–nov) stiller zijn. Boek vooraf in schoolvakanties.",
+        "how_to_get_there": "Ongeveer 1 uur over de weg vanaf Hamilton, ~2,5 uur vanaf Auckland. Rijd via SH3/SH37 naar Waitomo Village, of sluit aan bij dagtochten vanuit Auckland/Rotorua. Tours checken in bij het Glowworm Caves Visitor Centre.",
+        "good_to_know": "Vooraf online boeken via Discover Waitomo is essentieel; check in 30 minuten vóór vertrek. Draag gesloten schoenen en een warme laag — paden kunnen nat en glad zijn. Fotoregels variëren per toursectie."
+      }
+    },
+    "hidden-gems-012": {
+      "short_line": "Antioquia, Colombia",
+      "country": "Colombia",
+      "facts": {
+        "one_liner": "Antioquiaans meerstadje van beschilderde zócalos naast El Peñón de Guatapé (La Piedra del Peñol).",
+        "why_go": "Guatapé, ongeveer 75 km ten oosten van Medellín, is bekend om felbeschilderde huisonderzijden (zócalos) die lokale ambachten, flora en geschiedenis tonen langs straten zoals Calle del Recuerdo. Het Peñol-Guatapé-reservoir, aangelegd voor een waterkrachtproject dat in de jaren 1970 duizenden hectares onder water zette, omlijst boottochten en waterfrontwandelingen. Nabijgelegen El Peñón de Guatapé — een ~220 m granieten monoliet tussen Guatapé en El Peñol — heeft een trap van ongeveer 700 treden naar een reservoiruitzicht.",
+        "best_time": "Droge seizoen (dec–mrt) is het helderst voor de rotsklim en foto’s; Guatapé wordt jaarrond bezocht. Weekdagen zijn minder druk dan weekenden.",
+        "how_to_get_there": "Bussen rijden vanaf Terminal del Norte in Medellín naar Guatapé (~2 uur). De rots ligt aan de El Peñol–Guatapé-weg, een korte rit of wandeling vóór het stadje. Dagtochten vanuit Medellín zijn gebruikelijk.",
+        "good_to_know": "Neem contant geld (COP) mee voor de rotstoegang en parkeren; kaartacceptatie ter plaatse is onbetrouwbaar. Klim vroeg in de ochtend of laat in de middag om hitte en piekrijen te vermijden."
+      }
+    },
+    "hidden-gems-013": {
+      "short_line": "Bali, Indonesië",
+      "country": "Indonesië",
+      "facts": {
+        "one_liner": "Hooglanddorp in Bangli met één stenen hoofdstraat, omheinde compounds en een bamboebos.",
+        "why_go": "Penglipuran (Desa Wisata Penglipuran) in Kubu, regentschap Bangli, is een Bali Aga-gemeenschap bekend om zijn ordelijke steengeplaveide hoofdstraat met verzorgde tuinen en traditionele boogpoorten naar het dorpstempel. Bezoekers kunnen woonlanen belopen, aangewezen huizen betreden en het bamboebos aan de dorpsrand bereiken. UN Tourism noemde het een van de Best Tourism Villages in 2023.",
+        "best_time": "Droge seizoen (apr–okt) voor wandelcomfort; ochtenden zijn koeler en minder druk. Gesloten op Nyepi; kan pauzeren voor ceremonies.",
+        "how_to_get_there": "In de Bangli-hooglanden van Oost-Bali, ongeveer 1–1,5 uur met de auto vanaf Ubud of zuid-Balinese resorts. Adres: Jl. Penglipuran, Kubu, Bangli. Geen openbare online tickets — koop bij de officiële balie.",
+        "good_to_know": "Vanaf 1 jan 2026 verkoopt het dorp alleen bezoekpakketten (geen aparte entreeprijs) bij de officiële balie; contant IDR of QRIS. Kleed je bescheiden; tempelinnerlijke heiligdommen zijn verboden terrein."
+      }
+    },
+    "hidden-gems-014": {
+      "short_line": "Vágar, Faeröer",
+      "country": "Faeröer",
+      "facts": {
+        "one_liner": "Klein Vágar-klifdorp boven Múlafossur, een waterval die recht in de Atlantische Oceaan stort.",
+        "why_go": "Gásadalur ligt aan de westkant van Vágar met een handvol huizen (officiële toerismebronnen noemden circa 13 inwoners per 2023) boven zeekliffen. Het landmark is Múlafossur, de waterval die vanaf de dorpsrand in de oceaan stort, met Mykines zichtbaar op heldere dagen. Wegtoegang kwam pas met de Gásadalstunnilin-tunnel in 2005; daarvoor bereikte men de nederzetting te voet over de bergen vanuit Bøur.",
+        "best_time": "Mei–sep voor langere dagen en milder weer; verwacht wind en mist elke maand. Winterbezoeken zijn mogelijk maar weersafhankelijk.",
+        "how_to_get_there": "Rijd vanaf Vágar Airport of Sørvágur door de tunnel vanaf Bøur (~15–20 min vanaf het luchthavengebied). Parkeer alleen op gemarkeerde plekken en wandel ~5 minuten naar het omheinde uitzichtpunt. Optionele veeleisende hike: het oude postbodepad vanuit Bøur.",
+        "good_to_know": "Blijf binnen hekken — klifterrein is steil en gevaarlijk. Rijd niet over gras of blokkeer lokale toegang. Neem lagen mee; wind bij het uitzichtpunt kan sterk zijn."
+      }
+    },
+    "hidden-gems-015": {
+      "short_line": "Grand Est, Frankrijk",
+      "country": "Frankrijk",
+      "facts": {
+        "one_liner": "Concentrisch Elzas-wijndorp van vakwerkhuizen op de Route des Vins d’Alsace.",
+        "why_go": "Eguisheim (Pays d’Eguisheim) is een middeleeuws dorp bij Colmar aangelegd in concentrische straten langs voormalige wallen, met name Rue du Rempart. Vakwerkgevels, bloemenpracht en Place du Château — met kapel en standbeeld van paus Leo IX, traditioneel verbonden aan het dorp — maken het een compacte wandelstop op de Elzas-wijnroute. Het staat op de lijst van Les Plus Beaux Villages de France.",
+        "best_time": "Apr–jun voor bloemen en mildere menigten; sep–okt voor wijngaardkleur en oogst. Jul–aug en decemberkerstmarkten zijn het drukst.",
+        "how_to_get_there": "~7 km zuidwest van Colmar (trein naar Gare de Colmar, daarna lokale bus of taxi/fiets). Met de auto: A35-afslag Sainte-Croix-en-Plaine / Herrlisheim richting Eguisheim. De historische kern is wandelbaar (~250 m dwars).",
+        "good_to_know": "Toeristenbureau op 22a Grand Rue (Office de Tourisme Pays d’Eguisheim et de Rouffach). Kom vroeg in het weekend; parkeren raakt snel vol in het hoogseizoen en rond kerstmarkten."
+      }
+    },
+    "hidden-gems-016": {
+      "short_line": "Herzegovina-Neretva, Bosnië en Herzegovina",
+      "country": "Bosnië en Herzegovina",
+      "facts": {
+        "one_liner": "UNESCO Oude Brug (Stari Most) en rivierbazaar over de Neretva-kloof.",
+        "why_go": "Mostars Old Bridge Area of the Old City is een UNESCO-werelderfgoed (ingeschreven 2005) gecentreerd op Stari Most, de gereconstrueerde Ottomaanse stenen boog over de Neretva. De omliggende Kujundžiluk-bazaarlanen mengen Ottomaans, Mediterraan en Oostenrijks-Hongaars weefsel, hersteld na oorlogsvernietiging in de jaren 1990. Lokale duikers van Klub skakača u vodu Mostari zetten de brugspringtraditie voort die toeschouwers in warme maanden vaak vanaf de oevers bekijken.",
+        "best_time": "Mei–jun en sep voor warm weer met minder menigten; jul–aug is piek voor brugduikshows en hitte. Winter is stil maar koeler voor wandelen.",
+        "how_to_get_there": "ŽFBH-treinen en frequente bussen verbinden Sarajevo en Mostar (~2–2,5 uur per spoor wanneer in dienst). De oude stad is compact en wandelbaar vanaf Mostar station/busterminals met een korte wandeling of taxi naar Stari Most.",
+        "good_to_know": "Stari Most oversteken is gratis en voetgangers; verwacht gladde kinderkopjes. Brugsprongen zijn het meest betrouwbaar ongeveer jun–sep laat in de ochtend tot mid-middag — kijk vanaf de oever, tip als je meedoet aan een collecte, en spring nooit zelf zonder clubtraining."
+      }
+    },
+    "hidden-gems-017": {
+      "short_line": "Andalusië, Spanje",
+      "country": "Spanje",
+      "facts": {
+        "one_liner": "Blauwgeverfd pueblo in Málaga’s Genal-vallei, officieel gepromoot als La Aldea Azul.",
+        "why_go": "Júzcar is een kleine gemeente in de Serranía de Ronda / Valle del Genal, ongeveer 22 km van Ronda. In 2011 werden de gebouwen blauw geverfd voor een Smurfenfilm-promotie; bewoners stemden later om de kleur te behouden, en na een rechtenconflict wordt de plek als La Aldea Azul gemarket in plaats van een officieel Smurfendorp. Naast de blauwe straten gebruiken bezoekers het als basis voor Genal-valleiwandelingen, inclusief herfstkastanjekleur in het nabijgelegen Bosque de Cobre.",
+        "best_time": "Lente (apr–jun) en herfst (sep–nov) — herfst voor kastanje (Bosque de Cobre)-kleur. Zomers zijn heet; winters mild maar stiller.",
+        "how_to_get_there": "Rijd MA-515 vanaf Ronda (~30 min) of via binnenlandse routes vanaf Málaga (~1,5–2 uur, ~113–115 km). Beperkte lokale bussen van Ronda naar Genal-dorpen — bevestig retourtijden. Parkeren bij de dorpsingang.",
+        "good_to_know": "Verwacht de blauwe verf, geen gelicentieerde Smurfenbeelden of branding — het dorp heeft zich herpositioneerd naar lokale natuur en kastanjethema’s. Combineer met andere witte Genal-dorpen als je een auto hebt."
+      }
+    },
+    "hidden-gems-018": {
+      "short_line": "Isle of Skye, Schotland",
+      "country": "Verenigd Koninkrijk",
+      "facts": {
+        "one_liner": "Skyes havenhoofdstad (Port Rìgh) aan een beschutte baai tegenover Raasay.",
+        "why_go": "Portree is de hoofdstad en servicehub op het Isle of Skye, rond een beschutte haven aan Loch Portree / de Sound of Raasay met felbeschilderde waterfrontgebouwen en een werkende pier. Ontwikkeld als vissersnederzetting in de vroege 19e eeuw, concentreert het nu winkels, accommodatie en de toeristische informatie van het eiland, en is een startpunt voor boottochten en eilandsightseeing. Heuvels zoals Ben Tianavaig kaderen de baai; Raasay’s Dun Caan is over het water zichtbaar.",
+        "best_time": "Mei–sep voor langere dagen en meer diensten; schoudermanden zijn stiller. Weer is jaarrond wisselvallig — pak waterdichte kleding.",
+        "how_to_get_there": "Rijd via de gratis Skye Bridge (Kyle of Lochalsh–Kyleakin), daarna A87 naar Portree (~1 uur vanaf de brug). Scottish Citylink-coaches vanuit Inverness en Glasgow bedienen Somerled Square; CalMac-veerboten bereiken Skye bij Armadale (Mallaig) met doorverbinding per bus. Geen spoor op Skye.",
+        "good_to_know": "Boek Citylink-zitplaatsen in de zomer. Lokale Stagecoach-bussen bedienen Staffin, Uig en Dunvegan maar rijden weinig — check dienstregelingen. Havenpontontoegang kan sluiten tijdens cruiseoperaties."
+      }
+    },
+    "hidden-gems-019": {
+      "short_line": "Santorini, Griekenland",
+      "country": "Griekenland",
+      "facts": {
+        "one_liner": "Noordwestelijk Santorini-dorp op de calderarand — witgekalkte lanen, kasteelruïnes en zonsondergangmenigten.",
+        "why_go": "Oia (Οία, vaak gespeld Ia; uitgesproken EE-ah) ligt aan de noordwestelijke rand van Santorini’s caldera, ongeveer 70–100 m boven zee, met witte Cycladische huizen, blauwkoepelige kerken en windmolens langs de klif. Reizigers komen voor caldera-uitzichten, grotwoningen en de verwoeste Kasteli van Agios Nikolaos (Londsa / Oia Castle) aan de westpunt — een gratis openlucht-uitzichtpunt in plaats van een betaald fort. Onder het dorp bereik je Ammoudi Bay via honderden trappen met haventavernes en bootlinks naar Therasia. Nikolaou Nomikou is de hoofdvoetgangersas door winkels en galeries.",
+        "best_time": "April–juni en september–oktober voor milder weer en dunnere menigten. Juli–augustus zonsondergangen bij de kasteelruïnes trekken dichte menigten; ochtenden zijn stiller om de lanen te belopen.",
+        "how_to_get_there": "Vlieg of veer naar Santorini, neem daarna de KTEL-bus van Fira naar Oia (~20 minuten) of een taxi/huurauto (parkeren raakt vol in piekseizoen). Het dorpscentrum is grotendeels autovrij — verken te voet.",
+        "good_to_know": "Kom ruim vóór zonsondergang als je ruimte wilt bij de kasteelruïnes; bezoek anders eerder voor lege lanen en dezelfde caldera-uitzichten. Optioneel: het Fira–Oia-calderarandpad eindigt hier als je liever inlopen dan bus nemen."
+      }
+    },
+    "hidden-gems-020": {
+      "short_line": "Beieren, Duitsland",
+      "country": "Duitsland",
+      "facts": {
+        "one_liner": "Goed bewaarde Frankische ommuurde stad op de Romantische Straße met een bewandelbaar ~4 km wallencircuit.",
+        "why_go": "Rothenburg ob der Tauber is een belangrijke toeristenstad in Midden-Franken waarvan het oude centrum wordt omsloten door ongeveer vier kilometer middeleeuwse muren en tientallen torens. Bezoekers wandelen de Rothenburger Turmweg langs de vestingwerken, passeren poorten zoals Rödertor en Spitaltor, en verkennen Marktplatz en het Plönlein-uitzicht. Het ligt op Duitslands Romantische Straße en trekt dagjesmensen én overnachtingen in historische herbergen.",
+        "best_time": "Apr–jun en sep–okt voor milder weer; decemberkerstmarktperiode is het drukst. Vroege ochtend- of avondmuurwandelingen vermijden piekbusgroepen.",
+        "how_to_get_there": "Regionale treinen naar station Rothenburg ob der Tauber (verbindingen via Steinach); korte wandeling of bus naar de oude stad. Met de auto via A7, daarna lokale wegen; parkeer buiten de muren en loop naar binnen. Ook bereikbaar met Romantische Straße-bussen vanuit andere Frankische steden.",
+        "good_to_know": "Haal de Engelse Tower Trail-brochure bij Tourist Information, Marktplatz 2. Veel van de muurwandeling is rond de klok open als voetpad; let op ongelijke stenen en steile afgronden. Themajaar 2026: City.Landscape.Nature."
+      }
+    }
+  }
+}
