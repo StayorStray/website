@@ -266,6 +266,45 @@
         }
       ],
       "next": "Pubs 021–040 toward 100"
+    },
+    "countries": {
+      "live_file": "data/countries.json",
+      "archive_dir": "data/decks/countries/",
+      "approved_count": 20,
+      "catalog_target": 100,
+      "scale_target_met": false,
+      "mvp_ready": true,
+      "sets": [
+        {
+          "id": "countries-set-001",
+          "file": "set-001.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "countries-001",
+            "countries-002",
+            "countries-003",
+            "countries-004",
+            "countries-005",
+            "countries-006",
+            "countries-007",
+            "countries-008",
+            "countries-009",
+            "countries-010",
+            "countries-011",
+            "countries-012",
+            "countries-013",
+            "countries-014",
+            "countries-015",
+            "countries-016",
+            "countries-017",
+            "countries-018",
+            "countries-019",
+            "countries-020"
+          ]
+        }
+      ],
+      "next": "Countries 021–040 toward 100"
     }
   },
   "other_tabs": [
@@ -285,5 +324,5 @@
     "stray_key": "sos_stray_list",
     "scope": "on-device localStorage only; keyed by place id; survives daily rotation"
   },
-  "updated_at": "2026-09-20T20:35:00-05:00"
+  "updated_at": "2026-09-20T21:29:00-05:00"
 }

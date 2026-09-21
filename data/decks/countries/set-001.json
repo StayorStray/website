@@ -1,0 +1,1039 @@
+{
+  "id": "countries-set-001",
+  "tab": "countries",
+  "label": "Countries — Set 1 (001–020)",
+  "card_ids": [
+    "countries-001",
+    "countries-002",
+    "countries-003",
+    "countries-004",
+    "countries-005",
+    "countries-006",
+    "countries-007",
+    "countries-008",
+    "countries-009",
+    "countries-010",
+    "countries-011",
+    "countries-012",
+    "countries-013",
+    "countries-014",
+    "countries-015",
+    "countries-016",
+    "countries-017",
+    "countries-018",
+    "countries-019",
+    "countries-020"
+  ],
+  "count": 20,
+  "auditor": "20/20 approved 2026-09-20 (Accuracy Auditor Countries MVP 001–020) — COUNTRIES MVP READY",
+  "created": "2026-09-20T21:29:00-05:00",
+  "cards": [
+    {
+      "id": "countries-001",
+      "tab": "countries",
+      "name": "Japan",
+      "short_line": "East Asia",
+      "country": "Japan",
+      "lat": 35.3606,
+      "lng": 138.7274,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Mt_Fuji_At_Lake_Kawaguchi_%28109762227%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-001.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMt_Fuji_At_Lake_Kawaguchi_%28109762227%29.jpeg",
+        "license": "CC BY-SA 3.0",
+        "author": "Kumiko Nakashima",
+        "attribution": "Photo: Kumiko Nakashima, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Mt Fuji At Lake Kawaguchi (109762227).jpeg' confirms Japan; desc: 500px provided description: Mt Fuji At Lake Kawaguchi [#sky ,#flowers ,#landscape ,#spring ,#blue ,#clouds ,#green ,#pink ,#mountain ,#cloud ,#Canon ,#Japan ,#M"
+      },
+      "facts": {
+        "one_liner": "Fuji Five Lakes spring: Mount Fuji above pink shibazakura (moss phlox) fields.",
+        "why_go": "Japan’s country card here is Mount Fuji rising over a carpet of shibazakura (moss phlox)—pink, white, and purple groundcover—not a lake-surface reflection. The classic festival framing is at Fuji Motosuko Resort near Lake Motosu in the Fuji Five Lakes area of Yamanashi, with Kawaguchiko as the usual rail/bus hub. Clear days put the snow-capped cone above the flower beds and tree line. The bloom window is short, typically mid-April into late May.",
+        "best_time": "Mid-April to late May for peak shibazakura (confirm festival dates each year). Clear winter days also favour Fuji views without the flower carpet.",
+        "how_to_get_there": "Train or highway bus to Kawaguchiko Station, then local bus (e.g. Shibazakura Liner in festival season) toward Fuji Motosuko / Lake Motosu. From Tokyo, expect a half-day transfer; allow extra time on holiday weekends.",
+        "good_to_know": "This photo is a flower-field vista with Fuji—no lake surface in frame. Festival admission and shuttle hours change yearly; check JNTO / Fuji Motosuko Resort before you go.",
+        "official_or_tourism_url": "https://www.japan.travel/en/spot/1325/",
+        "sources": [
+          "https://www.japan.travel/en/spot/1325/",
+          "https://www.fujimotosuko-resort.jp/en/index.html",
+          "https://www.yamanashi-kankou.jp/english/explore-by-area/fujisan-fujigoko/fuji-motosuko-resort-fuji-shibazakura-festival.html"
+        ]
+      },
+      "ad": {
+        "destination_query": "Kawaguchiko, Japan",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kawaguchiko%2C%20Japan&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kawaguchiko%2C%20Japan&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kawaguchiko%2C%20Japan&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Kawaguchiko"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:28:00-05:00",
+        "auditor_notes": "Remake OK: JPG is Fuji over pink shibazakura field (no lake); facts now match Motosu/Kawaguchiko festival framing. CC BY-SA 3.0. Ad Kawaguchiko."
+      }
+    },
+    {
+      "id": "countries-002",
+      "tab": "countries",
+      "name": "Italy",
+      "short_line": "Southern Europe",
+      "country": "Italy",
+      "lat": 40.6333,
+      "lng": 14.6029,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Amalfi_Coast%2C_Italy_Panoramic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-002.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AAmalfi_Coast%2C_Italy_Panoramic.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Mайкл Гиммельфарб",
+        "attribution": "Photo: Mайкл Гиммельфарб, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Amalfi Coast, Italy Panoramic.jpg' confirms Italy; desc: The town of Atrani on the Amalfi Coast, Italy."
+      },
+      "facts": {
+        "one_liner": "Campania’s cliff coast: stacked pastel houses of Atrani above the Tyrrhenian.",
+        "why_go": "Italy’s Amalfi Coast (Costiera Amalfitana) is the UNESCO-listed cliffscape of Campania between the Gulf of Salerno and the Lattari Mountains—pastel towns clinging above the Tyrrhenian. The photo shows Atrani, Italy’s smallest municipality by area, nestled between Monte Aureo and Monte Civita at the mouth of the Valle del Dragone, next door to Amalfi. Visitors come for coastal walks, ferries between villages, lemon terraces, and the medieval street fabric that still reads as a vertical Mediterranean townscape. Inscribed by UNESCO in 1997 as an outstanding cultural landscape of human settlement on steep terrain.",
+        "best_time": "April–June and September–October for mild weather and thinner crowds than midsummer. August is the busiest month on the Costiera; winter is quieter but wetter, with reduced ferry schedules.",
+        "how_to_get_there": "Fly into Naples (NAP). Train to Salerno or Sorrento, then SITA bus along SS163 or Travelmar/other ferries between coastal towns. Atrani is about a 15-minute walk from Amalfi (or a short bus hop); parking on the coast is scarce.",
+        "good_to_know": "Buy SITA bus tickets before boarding; coastal roads are narrow and congested in peak season. Combine Atrani with Amalfi cathedral and a ferry hop to Positano or Minori rather than driving every segment.",
+        "official_or_tourism_url": "https://www.italia.it/en/campania/things-to-do/the-amalfi-coast",
+        "sources": [
+          "https://www.italia.it/en/campania/things-to-do/the-amalfi-coast",
+          "https://www.amalficoastunesco.it/en/municipalities/atrani.html",
+          "https://whc.unesco.org/en/list/830/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Amalfi Coast, Italy",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Amalfi%20Coast%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Amalfi%20Coast%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Amalfi%20Coast%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Amalfi Coast"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:22:37-05:00"
+      }
+    },
+    {
+      "id": "countries-003",
+      "tab": "countries",
+      "name": "France",
+      "short_line": "Western Europe",
+      "country": "France",
+      "lat": 47.61611,
+      "lng": 1.51722,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Chambord_Castle_Northwest_facade.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-003.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AChambord_Castle_Northwest_facade.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Benh LIEU SONG",
+        "attribution": "Photo: Benh LIEU SONG, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Chambord Castle Northwest facade.jpg' confirms France; desc: Northwest façade of Chambord castle. Built between 1519 and 1547 by François I, it was heavily extended afterwards by Henri II and Louis XIV to its final shape "
+      },
+      "facts": {
+        "one_liner": "Loire Valley icon: François I’s Château de Chambord rising from the Sologne park.",
+        "why_go": "France’s Loire château country is embodied by Château de Chambord, the vast Renaissance hunting palace begun in 1519 for François I in the Sologne marshlands. The photo matches the northwest façade and forested approach: a keep bristling with chimneys and lantern towers, famous for its double-helix staircase (linked to Leonardo da Vinci’s influence) and roof terraces. Louis XIV completed much of the finishing; since 1981 the château sits within the Loire Valley UNESCO World Heritage landscape. Travellers visit for the architecture, formal gardens, and the walled 5,440-hectare national estate around it.",
+        "best_time": "May–June and September for mild weather, open gardens, and lighter crowds than July–August. Arrive near opening (09:00) or after mid-afternoon; weekdays outside French school holidays are calmer. Closed 1 January and 25 December.",
+        "how_to_get_there": "About 2 hours by car south of Paris (A10 exits Mer or Blois). By rail: train to Blois-Chambord (~80 minutes from Paris), then Rémi line 2 château shuttle (~25 minutes) or taxi. Coach day trips also run from Paris.",
+        "good_to_know": "Buy tickets via chambord.org; allow several hours for keep, terraces, and park paths. Low-season Mondays may close—check the official calendar. Bike-friendly estate with Loire à Vélo routes.",
+        "official_or_tourism_url": "https://www.chambord.org/en/",
+        "sources": [
+          "https://www.chambord.org/en/history/the-chateau/as-history-unfolds/",
+          "https://www.chambord.org/en/plan-your-visit/getting-to-the-palace/",
+          "https://www.chambord.org/en/plan-your-visit/opening-hours/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Chambord, France",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Chambord%2C%20France&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Chambord%2C%20France&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Chambord%2C%20France&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Chambord"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:22:37-05:00"
+      }
+    },
+    {
+      "id": "countries-004",
+      "tab": "countries",
+      "name": "Spain",
+      "short_line": "Southern Europe",
+      "country": "Spain",
+      "lat": 36.9519,
+      "lng": -3.3889,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Landscape_detail_Alhambra_Granada_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-004.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ALandscape_detail_Alhambra_Granada_Spain.jpg",
+        "license": "CC0",
+        "author": "Jebulon",
+        "attribution": "Photo: Jebulon, CC0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Landscape detail Alhambra Granada Spain.jpg' confirms Spain; desc: Alhambra, overlooking Granada, Spain."
+      },
+      "facts": {
+        "one_liner": "Andalusia’s hilltop Alhambra overlooking the tiled roofs of Granada.",
+        "why_go": "Spain’s most visited Islamic-palace complex is the Alhambra above Granada—Nasrid fortresses, palaces, and gardens facing the Albaicín and Sierra Nevada. The photo is the classic overlook: red walls and towers above the city, not a beach resort namesake. Built as the court of the Nasrid dynasty (13th–15th centuries) and later adapted under Christian rule (Palace of Charles V), it was inscribed with the Generalife on UNESCO’s list in 1984; the Albaicín joined in 1994. Travellers come for timed Nasrid Palace rooms, Generalife gardens, and dusk views back over Granada.",
+        "best_time": "April–June and September–October for comfortable walking weather. Summer day visits run longer hours but are hotter and busier; book tickets months ahead for peak dates. Early morning and night visits (when offered) are cooler.",
+        "how_to_get_there": "Fly into Granada (GRX) or Málaga (AGP) with bus/train links to Granada. From the city centre, city buses C30, C32, or C35 climb to the monument; walking approaches include Cuesta Gomérez. Private cars must use Ronda Sur—not the historic centre streets.",
+        "good_to_know": "Buy only via the official Patronato ticket site; Nasrid Palaces require the exact timed slot printed on the ticket, and original ID is required. Allow about three hours for a general visit.",
+        "official_or_tourism_url": "https://www.alhambra-patronato.es/en/",
+        "sources": [
+          "https://www.alhambra-patronato.es/en/",
+          "https://www.spain.info/en/top/how-to-buy-tickets-visit-alhambra/",
+          "https://whc.unesco.org/en/list/314/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Granada, Spain",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Granada%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Granada%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Granada%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Granada"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:22:37-05:00"
+      }
+    },
+    {
+      "id": "countries-005",
+      "tab": "countries",
+      "name": "Greece",
+      "short_line": "Southern Europe",
+      "country": "Greece",
+      "lat": 37.9715,
+      "lng": 23.7267,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/The_Acropolis_of_Athens_from_Philopappos_Hill_on_April_28%2C_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-005.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Acropolis_of_Athens_from_Philopappos_Hill_on_April_28%2C_2020.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "George E. Koronaios",
+        "attribution": "Photo: George E. Koronaios, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:The Acropolis of Athens from Philopappos Hill on April 28, 2020.jpg' confirms Greece; desc: The Acropolis of Athens from Philopappos Hill on April 28, 2020."
+      },
+      "facts": {
+        "one_liner": "Athens country card: the Acropolis and Parthenon seen from Philopappos Hill.",
+        "why_go": "Greece’s capital skyline is defined by the Acropolis—Parthenon, Propylaia, and supporting monuments on a limestone rock above central Athens. The photo is shot from Philopappos (Filopappou) Hill to the southwest, one of the city’s best free vantage points for an eye-level view of the citadel rather than a close-up among the columns. The hill’s summit holds the 2nd-century CE marble monument to Gaius Julius Antiochus Epiphanes Philopappos; Official Athens notes it as a prime Acropolis and cityscape lookout. Pair the viewpoint with a timed Acropolis ticket and the pedestrian Dionysiou Areopagitou promenade.",
+        "best_time": "April–May and September–October for milder temperatures and thinner queues at the Acropolis. For the Philopappos vista, early morning or late afternoon/sunset give the best light; avoid summer midday heat on exposed paths.",
+        "how_to_get_there": "Fly into Athens International (ATH); Metro Line 3 to Syntagma, then Line 2 to Acropoli (~55–70 minutes). From Acropoli station, walk west along Dionysiou Areopagitou and Apostolou Pavlou to Philopappos paths (~15–25 minutes uphill). Thissio (Line 1) is another approach.",
+        "good_to_know": "Philopappos Hill is a free public park with no ticket; upper paths are uneven and poorly lit after dark. Book Acropolis entry on the official Hellenic Ministry ticketing channels; wear sturdy shoes for both sites.",
+        "official_or_tourism_url": "https://www.thisisathens.org/attractions/philopappou-monument",
+        "sources": [
+          "https://www.thisisathens.org/attractions/philopappou-monument",
+          "https://www.thisisathens.org/neighbourhoods/acropolis-koukaki-guide",
+          "https://www.visitgreece.gr/en/experiences/culture/archaeological-sites-monuments/acropolis-of-athens"
+        ]
+      },
+      "ad": {
+        "destination_query": "Athens, Greece",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Athens%2C%20Greece&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Athens%2C%20Greece&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Athens%2C%20Greece&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Athens"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:22:37-05:00"
+      }
+    },
+    {
+      "id": "countries-006",
+      "tab": "countries",
+      "name": "Portugal",
+      "short_line": "Southern Europe",
+      "country": "Portugal",
+      "lat": 41.1567,
+      "lng": -7.787,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/The_Douro_Valley_vineyards_terraced.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-006.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Douro_Valley_vineyards_terraced.jpg",
+        "license": "CC BY 2.0",
+        "author": "mat's eye",
+        "attribution": "Photo: mat's eye, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:The Douro Valley vineyards terraced.jpg' confirms Portugal; desc: Terraced vineyards in the Portuguese wine region of the Douro"
+      },
+      "facts": {
+        "one_liner": "Northern Portugal’s Alto Douro: schist terraces of vines stacked above the river.",
+        "why_go": "Portugal’s wine heartland is the Douro Valley upstream of Porto, where steep schist slopes are cut into continuous vineyard terraces (socalcos) above the Douro River. The photo shows that iconic terraced landscape of the Alto Douro Wine Region—UNESCO-listed as a cultural landscape in 2001 for nearly two millennia of viticulture and port-wine production. Travellers come for quintas (wine estates), riverboat views, and the scenic Linha do Douro railway through Peso da Régua and Pinhão. It is a country-scale signature of northern Portugal, not a city plaza or Atlantic beach.",
+        "best_time": "April–May for green vines and mild weather; late September–October for harvest and autumn colour. July–August can be very hot in the valley floor; winter is quieter with shorter daylight.",
+        "how_to_get_there": "Fly into Porto (OPO). Take CP’s Linha do Douro from Porto (São Bento/Campanhã) to Régua (~2 hours) or Pinhão (~2½–3 hours), or drive the A4/N222. River cruises also link Porto with valley towns; base in Pinhão or Régua for vineyard access.",
+        "good_to_know": "Book quinta tastings and popular train/cruise seats ahead in harvest season. Roads are winding; if driving, allow extra time between viewpoints. Pinhão station’s azulejo panels are a classic photo stop.",
+        "official_or_tourism_url": "https://www.visitportugal.com/en/content/douro-valley",
+        "sources": [
+          "https://www.visitportugal.com/en/content/douro-valley",
+          "https://whc.unesco.org/en/list/1046/",
+          "https://www.lonelyplanet.com/articles/guide-to-douro-valley-portugal"
+        ]
+      },
+      "ad": {
+        "destination_query": "Douro Valley, Portugal",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Douro%20Valley%2C%20Portugal&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Douro%20Valley%2C%20Portugal&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Douro%20Valley%2C%20Portugal&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Douro Valley"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:22:37-05:00"
+      }
+    },
+    {
+      "id": "countries-007",
+      "tab": "countries",
+      "name": "Morocco",
+      "short_line": "North Africa",
+      "country": "Morocco",
+      "lat": 31.047,
+      "lng": -7.132,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ksar_A%C3%AFt_Benhaddou%2C_Marocco_%28%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-007.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AKsar_A%C3%AFt_Benhaddou%2C_Marocco_%28%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%2C_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93%29.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Petar Milošević",
+        "attribution": "Photo: Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Ksar Aït Benhaddou, Marocco (أيت بن حدو، المغرب, ⴰⵢⵜ ⵃⴰⴷⴷⵓ).jpg' confirms Morocco; desc: Ksar Aït Benhaddou, Marocco Aït Benhaddou (Arabic: آيت بن حدّو) is a historic ighrem or ksar (fortified village) along the former caravan route between the Saha"
+      },
+      "facts": {
+        "one_liner": "Ouarzazate gateway: earthen ksar of Aït Benhaddou on the old Sahara caravan route.",
+        "why_go": "Morocco’s southern kasbah country is epitomised by Ksar Aït Benhaddou (Aït Ben Haddou), a fortified earthen village (ighrem) of crenellated towers and packed-clay houses rising from a hillside above a seasonal river. UNESCO inscribed the ksar in 1987 as an outstanding example of southern Moroccan pre-Saharan architecture on the former caravan route between the Sahara and Marrakech. The photo matches that stacked mud-brick silhouette—not a coastal medina or Atlas ski resort. Film crews have long used the site; visitors climb to the upper granary for desert-edge views toward Ouarzazate.",
+        "best_time": "March–May and September–November for cooler days and clearer light. Summer afternoons are intense; winter mornings can be chilly at altitude. Visit early or late for softer sun on the façades.",
+        "how_to_get_there": "From Marrakech, drive or tour ~180–190 km via the N9 and Tizi n’Tichka Pass (~3.5–4.5 hours). CTM/Supratours buses reach Ouarzazate; from there a grand taxi covers the remaining ~30 km to the ksar. Many travellers overnight in Ouarzazate or on the Marrakech–Merzouga route.",
+        "good_to_know": "The village is generally accessible in daylight; some private houses and guided climbs may request a local tip. Wear closed shoes for uneven alleys; combine with nearby Telouet or Ouarzazate’s Taourirt Kasbah if time allows.",
+        "official_or_tourism_url": "https://www.visitmorocco.com/en/travel/ait-benhaddou",
+        "sources": [
+          "https://whc.unesco.org/en/list/444/",
+          "https://www.visitmorocco.com/en/travel/ait-benhaddou",
+          "https://www.visitmorocco.com/en/discover-morocco/astounding-array-human-heritage-recognized-unesco"
+        ]
+      },
+      "ad": {
+        "destination_query": "Ait Benhaddou, Morocco",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ait%20Benhaddou%2C%20Morocco&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ait%20Benhaddou%2C%20Morocco&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ait%20Benhaddou%2C%20Morocco&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Ait Benhaddou"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:22:37-05:00"
+      }
+    },
+    {
+      "id": "countries-008",
+      "tab": "countries",
+      "name": "Egypt",
+      "short_line": "North Africa",
+      "country": "Egypt",
+      "lat": 29.9792,
+      "lng": 31.1342,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-008.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AAll_Gizah_Pyramids.jpg",
+        "license": "CC BY-SA 2.0",
+        "author": "Ricardo Liberato",
+        "attribution": "Photo: Ricardo Liberato, CC BY-SA 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:All Gizah Pyramids.jpg' confirms Egypt; desc: All Giza Pyramids in one shot."
+      },
+      "facts": {
+        "one_liner": "Giza Plateau silhouette: Khufu, Khafre, and Menkaure pyramids on the desert edge.",
+        "why_go": "Egypt’s defining country vista in this photo is the Giza Plateau west of Cairo—the three Fourth Dynasty royal pyramids (Khufu, Khafre, and Menkaure) lined on the desert edge of the Nile Valley. The shot shows the classic all-three-pyramids silhouette with smaller queens’ pyramids nearby; the Great Sphinx is not in this frame. The Ministry of Tourism and Antiquities presents each as a 4th Dynasty royal tomb (c. 2613–2494 BCE). Sunset and clear winter light emphasise the limestone faces against open sky.",
+        "best_time": "October–April for cooler desert days. Summer heat is intense; mornings are better for walking the plateau.",
+        "how_to_get_there": "From Cairo, taxi or ride-hail to the Giza Plateau entrance (Nazlet El-Samman / plateau gates). Metro to Giza then local transport is possible but slower. Allow time for security and ticket lines.",
+        "good_to_know": "This card’s photo shows the pyramids only—no Sphinx. Tickets, hours, and camel/photo rules change; check the Ministry site the day you visit. Stay hydrated and watch for midday haze.",
+        "official_or_tourism_url": "https://egymonuments.gov.eg/",
+        "sources": [
+          "https://egymonuments.gov.eg/",
+          "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+          "https://whc.unesco.org/en/list/86/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Giza, Egypt",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Giza%2C%20Egypt&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Giza%2C%20Egypt&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Giza%2C%20Egypt&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Giza"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:28:00-05:00",
+        "auditor_notes": "Remake OK: JPG is Liberato all-three Giza pyramids + queens’ pyramids; Sphinx dropped from one_liner; why_go/good_to_know explicitly no Sphinx. CC BY-SA 2.0. Ad Giza."
+      }
+    },
+    {
+      "id": "countries-009",
+      "tab": "countries",
+      "name": "India",
+      "short_line": "South Asia",
+      "country": "India",
+      "lat": 27.1751,
+      "lng": 78.0421,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Taj_Mahal%2C_Agra%2C_India_edit2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-009.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ATaj_Mahal%2C_Agra%2C_India_edit2.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Yann; edited by King of Hearts",
+        "attribution": "Photo: Yann; edited by King of Hearts, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Taj Mahal, Agra, India edit2.jpg' confirms India; desc: Taj Mahal, Agra, India."
+      },
+      "facts": {
+        "one_liner": "Agra’s white-marble Taj Mahal—Shah Jahan’s mausoleum on the Yamuna.",
+        "why_go": "India’s most recognised monument is the Taj Mahal in Agra, Uttar Pradesh—a white-marble mausoleum on the Yamuna commissioned by Mughal emperor Shah Jahan for Mumtaz Mahal, with construction beginning in 1632. UNESCO listed it in 1983 as a masterpiece of Mughal architecture blending Persian, Islamic, and Indian forms. The photo is the classic riverside elevation with its central dome and flanking minarets—the Agra icon, not Delhi’s Red Fort or Jaipur’s palaces. Travellers often combine it with Agra Fort and a sunrise or late-afternoon garden visit.",
+        "best_time": "October–March for cooler weather; arrive at opening (30 minutes before sunrise) for softer light, or late afternoon for clearer visibility than foggy winter dawns. Closed to general viewing on Fridays.",
+        "how_to_get_there": "From Delhi, take a fast train (e.g. Gatimaan, Shatabdi, or Vande Bharat services) to Agra Cantt, then auto-rickshaw, taxi, or e-rickshaw to the eastern or western gates (~6 km). Agra also has Kheria Airport (AGR) with limited flights. Yamuna Expressway coaches link Delhi and Agra by road.",
+        "good_to_know": "Book ASI e-tickets via official portals (asiagracircle.in / authorised ASI payment links); separate queues for domestic and foreign visitors. The southern gate is exit-only. Main mausoleum interior access is optional and separately ticketed; children under 15 enter free per official site rules.",
+        "official_or_tourism_url": "https://www.tajmahal.gov.in/visiting-hours.aspx",
+        "sources": [
+          "https://www.tajmahal.gov.in/visiting-hours.aspx",
+          "https://whc.unesco.org/en/list/252/",
+          "https://agra.nic.in/tourist-place/tajmahal/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Agra, India",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Agra%2C%20India&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Agra%2C%20India&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Agra%2C%20India&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Agra"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:22:37-05:00"
+      }
+    },
+    {
+      "id": "countries-010",
+      "tab": "countries",
+      "name": "Thailand",
+      "short_line": "Southeast Asia",
+      "country": "Thailand",
+      "lat": 14.34306,
+      "lng": 100.54167,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Ayutthaya_Thailand_2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-010.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AAyutthaya_Thailand_2004.jpg",
+        "license": "Public Domain",
+        "author": "Evilarry",
+        "attribution": "Photo: Evilarry, Public Domain, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Ayutthaya Thailand 2004.jpg' confirms Thailand; desc: Wat Chai Watthanaram, Ayutthaya Historical Park, central Thailand."
+      },
+      "facts": {
+        "one_liner": "Ayutthaya’s riverside Wat Chai Watthanaram—Khmer-style prang above the Chao Phraya.",
+        "why_go": "Thailand’s former capital Ayutthaya is remembered through brick temple ruins of the Historic City of Ayutthaya (UNESCO, 1991). The photo shows Wat Chai Watthanaram on the west bank of the Chao Phraya outside the city island—a grand Khmer-influenced complex traditionally linked to King Prasat Thong, with a central prang, corner chedis, and a gallery of Buddha images. Provincial tourism calls it among Ayutthaya’s most complete and photogenic archaic sites, especially at sunset by the river. It is the country-card ruin vista, not Bangkok’s Grand Palace or a beach island.",
+        "best_time": "November–February cool season for comfortable cycling among the ruins. Early morning or late afternoon for softer light and fewer tour groups; sunset at Wat Chai Watthanaram is popular. Avoid midday heat in March–May.",
+        "how_to_get_there": "From Bangkok, take a train from Krung Thep Aphiwat or Hua Lamphong to Ayutthaya station, or a bus/minivan from Mo Chit. Cross to the west-bank temples by tuk-tuk, songthaew, bicycle, or river boat. Wat Chai Watthanaram sits outside the island to the west along the Chao Phraya.",
+        "good_to_know": "Ayutthaya Historical Park sites have posted daytime hours (Go Ayutthaya lists 08:00–18:00 for this temple). Bring sun cover and water; a bicycle loop covering Wat Mahathat, Wat Phra Si Sanphet, and Wat Chai Watthanaram is a common day plan. Dress respectfully at active worship areas within the park.",
+        "official_or_tourism_url": "https://go.ayutthaya.go.th/en/tourist-attraction/wat-chai-watthanaram-chai-watthanaram-temple/",
+        "sources": [
+          "https://go.ayutthaya.go.th/en/tourist-attraction/wat-chai-watthanaram-chai-watthanaram-temple/",
+          "https://whc.unesco.org/en/list/576/",
+          "https://www.tourismthailand.org/Destinations/Provinces/Phra-Nakhon-Si-Ayutthaya/219"
+        ]
+      },
+      "ad": {
+        "destination_query": "Ayutthaya, Thailand",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ayutthaya%2C%20Thailand&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ayutthaya%2C%20Thailand&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ayutthaya%2C%20Thailand&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Ayutthaya"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:22:37-05:00"
+      }
+    },
+    {
+      "id": "countries-011",
+      "tab": "countries",
+      "name": "Australia",
+      "short_line": "Oceania",
+      "country": "Australia",
+      "lat": -25.3444,
+      "lng": 131.0369,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Petermann_Ranges_%28AU%29%2C_Uluru-Kata_Tjuta_National_Park%2C_Uluru%2C_Kuniya_Walk_--_2019_--_3651.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-011.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APetermann_Ranges_%28AU%29%2C_Uluru-Kata_Tjuta_National_Park%2C_Uluru%2C_Kuniya_Walk_--_2019_--_3651.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Dietmar Rabich",
+        "attribution": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Petermann Ranges (AU), Uluru-Kata Tjuta National Park, Uluru, Kuniya Walk -- 2019 -- 3651.jpg' confirms Australia; desc: Kuniya Walk near Mutitjulu Waterhole at Uluru (Ayers Rock) in Uluṟu-Kata Tjuṯa National Park, Petermann Ranges, Northern Territory, Australia"
+      },
+      "facts": {
+        "one_liner": "Red Centre icon: Uluru’s sandstone walls from the Kuniya Walk to Muṯitjulu Waterhole.",
+        "why_go": "Australia’s desert heart is framed by Uluṟu (Ayers Rock), the vast sandstone monolith in Uluṟu-Kata Tjuṯa National Park, Northern Territory—jointly managed with Aṉangu Traditional Owners and inscribed on the UNESCO World Heritage List for both natural and cultural values. The photo matches the Kuniya Walk near Muṯitjulu Waterhole: a short, shady approach along Uluru’s base where river red gums and rock shelters meet one of the rock’s few permanent water sources. Parks Australia presents this living cultural landscape as the setting of the Kuniya–Liru Tjukurpa stories; visitors learn on-site rather than retelling those stories elsewhere. Pair the walk with sunrise or sunset viewing areas, the Cultural Centre, and Kata Tjuṯa’s domes farther west.",
+        "best_time": "May–September for cooler walking weather; finish longer base walks before late morning in heat. After rain, waterfalls sheet down Uluru near Kuniya—spectacular but brief. Extreme summer heat makes midday walking unsafe.",
+        "how_to_get_there": "Fly into Ayers Rock/Connellan Airport (AYQ) at Yulara (direct services from Sydney, Melbourne, Brisbane, and Cairns). Drive ~465 km (~5.5 hours) from Alice Springs, or join a guided Red Centre tour. A park pass is required for entry; buy online or at the entry station.",
+        "good_to_know": "Kuniya Walk is roughly 1 km return (about 30–45 minutes); no toilets on the track—an emergency call device is available. Climbing Uluru is closed out of respect for Aṉangu. Carry water, stay on marked paths, and check park alerts for heat or cultural closures.",
+        "official_or_tourism_url": "https://uluru.gov.au/things-do/activities/walks/uluru-walks/kuniya-walk-mutitjulu-waterhole/",
+        "sources": [
+          "https://uluru.gov.au/things-do/activities/walks/uluru-walks/kuniya-walk-mutitjulu-waterhole/",
+          "https://uluru.gov.au/plan/getting-here/",
+          "https://uluru.gov.au/plan/buy-your-pass/",
+          "https://northernterritory.com/uluru-and-surrounds/see-and-do/kuniya-walk-to-muitjulu-waterhole"
+        ]
+      },
+      "ad": {
+        "destination_query": "Uluru, Australia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Uluru%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Uluru%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Uluru%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Uluru"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:22:37-05:00"
+      }
+    },
+    {
+      "id": "countries-012",
+      "tab": "countries",
+      "name": "New Zealand",
+      "short_line": "Oceania",
+      "country": "New Zealand",
+      "lat": -44.6414,
+      "lng": 167.926,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Milford_Sound_in_Fiordland_National_Park_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-012.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMilford_Sound_in_Fiordland_National_Park_05.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Krzysztof Golik",
+        "attribution": "Photo: Krzysztof Golik, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Milford Sound in Fiordland National Park 05.jpg' confirms New Zealand; desc: Milford Sound in Fiordland National Park, South Island of New Zealand"
+      },
+      "facts": {
+        "one_liner": "Fiordland classic: sheer cliffs and Mitre Peak rising from Milford Sound / Piopiotahi.",
+        "why_go": "New Zealand’s South Island postcard is Milford Sound / Piopiotahi—a glacially carved fiord in Fiordland National Park and the Te Wāhipounamu South-West New Zealand World Heritage Area. The photo vista is the classic water-level view of dark cliffs plunging to the fiord, with Mitre Peak’s sheer walls rising about 1,692 m from the water. DOC notes this as one of the country’s wettest places (up to ~7 m of rain a year), so temporary waterfalls stripe the walls after storms. Most visitors combine the scenic Milford Road (SH94) from Te Anau with a short cruise or kayak under those cliffs rather than treating the terminal village as the destination alone.",
+        "best_time": "October–April for longer daylight and milder road conditions. May–September can bring snow, ice, and avalanche controls on SH94—check road status before leaving Te Anau. Rainy days often mean the most dramatic waterfall displays.",
+        "how_to_get_there": "Drive SH94 from Te Anau (~120 km; allow about 2–2¼ hours each way without stops) or join a coach/cruise day trip from Te Anau or Queenstown. Fill fuel and bring food before Te Anau—services between town and Milford are limited. Homer Tunnel links the last high section to the fiord.",
+        "good_to_know": "Freedom camping within 200 m of Milford Road is not allowed. Parking near the cruise terminal is limited and may be charged; free Deepwater Basin parking means a longer walk. Know earthquake/tsunami guidance for Piopiotahi; drones need a DOC permit.",
+        "official_or_tourism_url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/places-to-go/milford-road-milford-sound-area/",
+        "sources": [
+          "https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/places-to-go/milford-road-milford-sound-area/",
+          "https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/places-to-go/milford-road-milford-sound-area/milford-road-tips-for-drivers/",
+          "https://www.nzta.govt.nz/projects/sh94-milford-road/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Milford Sound, New Zealand",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Milford%20Sound%2C%20New%20Zealand&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Milford%20Sound%2C%20New%20Zealand&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Milford%20Sound%2C%20New%20Zealand&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Milford Sound"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:22:37-05:00"
+      }
+    },
+    {
+      "id": "countries-013",
+      "tab": "countries",
+      "name": "Brazil",
+      "short_line": "South America",
+      "country": "Brazil",
+      "lat": -25.6953,
+      "lng": -54.4367,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Igua%C3%A7u_Falls_view_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-013.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AIgua%C3%A7u_Falls_view_5.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Daniel Furquim",
+        "attribution": "Photo: Daniel Furquim, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Iguaçu Falls view 5.jpg' confirms Brazil; desc: Iguaçu falls - Brazil side Fun fact: The river flows through Brazil for most of its course but, most of the falls are on the Argentine side."
+      },
+      "facts": {
+        "one_liner": "Brazil’s Iguaçu: close curtain of falling water on the Paraná river border.",
+        "why_go": "Brazil’s country card here is Parque Nacional do Iguaçu in Paraná—a close-in curtain of Iguaçu Falls plunging through Atlantic Forest on the Brazilian side of the border with Argentina. The photo crops a roaring section of white water and spray rather than a wide horseshoe panorama or boardwalks. UNESCO lists the Brazilian park for its multi-drop cascade system set in subtropical forest. Foz do Iguaçu is the gateway city for Brazilian-side trails and viewpoints.",
+        "best_time": "March–June often brings stronger flow; August–October can be lower but clearer. Rainy periods raise volume and spray. Year-round destination—check park hours.",
+        "how_to_get_there": "Fly into Foz do Iguaçu (IGU) or cross from Puerto Iguazú / Ciudad del Este. Brazilian park buses and taxis run from town to the park entrance; follow signed Brazilian-side trails for curtain viewpoints.",
+        "good_to_know": "This photo is a closer falls crop—no walkways or full horseshoe in frame. Waterproof phone cover helps. Border formalities apply if you also visit the Argentine park.",
+        "official_or_tourism_url": "https://www.icmbio.gov.br/parnaiguacu/",
+        "sources": [
+          "https://whc.unesco.org/en/list/355/",
+          "https://en.wikipedia.org/wiki/Igua%C3%A7u_National_Park",
+          "https://www.icmbio.gov.br/parnaiguacu/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Foz do Iguacu, Brazil",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Foz%20do%20Iguacu%2C%20Brazil&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Foz%20do%20Iguacu%2C%20Brazil&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Foz%20do%20Iguacu%2C%20Brazil&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Foz do Iguacu"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:28:00-05:00",
+        "auditor_notes": "Remake OK: JPG is closer Iguaçu curtain crop (no horseshoe, no walkways); facts rewritten to Brazilian park curtain framing. CC BY-SA 4.0. Ad Foz do Iguacu."
+      }
+    },
+    {
+      "id": "countries-014",
+      "tab": "countries",
+      "name": "Peru",
+      "short_line": "South America",
+      "country": "Peru",
+      "lat": -13.1631,
+      "lng": -72.545,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/99_-_Machu_Picchu_-_Juin_2009.edit3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-014.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3A99_-_Machu_Picchu_-_Juin_2009.edit3.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Martin St-Amant (S23678)",
+        "attribution": "Photo: Martin St-Amant (S23678), CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:99 - Machu Picchu - Juin 2009.edit3.jpg' confirms Peru; desc: Machu Picchu from Wayna Picchu"
+      },
+      "facts": {
+        "one_liner": "Andean citadel from Wayna Picchu: terraces and peaks above the Urubamba bend.",
+        "why_go": "Peru’s defining highland vista is the Historic Sanctuary of Machu Picchu—UNESCO World Heritage at about 2,430 m on the eastern Andes, with giant stone walls and terraces cut into tropical mountain forest. The photo is the classic overlook from Wayna Picchu (Huayna Picchu / Wayna Pikchu), the steep peak that rises roughly 260 m above the llaqta and wraps the Urubamba River bend behind the ruins. The Incas built a trail, temples, and terraces on that summit; today it is a limited-capacity add-on circuit sold through Peru’s Ministry of Culture, separate from standard citadel tickets. Most visitors overnight in Aguas Calientes (Machupicchu Pueblo) or day-trip by train from the Sacred Valley / Cusco.",
+        "best_time": "May–September (dry season) for clearer views and safer trails; June–August are busiest—book Wayna Picchu slots months ahead. November–March brings more rain and possible trail closures; always confirm current circuit availability.",
+        "how_to_get_there": "Fly into Cusco (CUZ). Train to Machupicchu Pueblo, then Consetur bus up to the citadel gate—or hike the steep access road. Entry requires a dated, timed Ministry of Culture ticket; Wayna Picchu needs the specific mountain circuit (often Circuit 3 / Route 3-A style products—check the live portal).",
+        "good_to_know": "Carry passport matching your ticket. Wayna Picchu is steep, exposed, and capacity-limited—not suitable for vertigo or poor fitness. Altitude: pace day one in Cusco. Tickets are time-specific; allow buffer for train and bus delays.",
+        "official_or_tourism_url": "https://www.machupicchu.gob.pe/?lang=en",
+        "sources": [
+          "https://whc.unesco.org/en/list/274/",
+          "https://reservas.machupicchu.gob.pe/inicio",
+          "https://www.machupicchu.gob.pe/purchase-of-tickets-in-person/?lang=en",
+          "https://en.wikipedia.org/wiki/Huayna_Picchu"
+        ]
+      },
+      "ad": {
+        "destination_query": "Machu Picchu, Peru",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Machu%20Picchu%2C%20Peru&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Machu%20Picchu%2C%20Peru&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Machu%20Picchu%2C%20Peru&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Machu Picchu"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:22:37-05:00"
+      }
+    },
+    {
+      "id": "countries-015",
+      "tab": "countries",
+      "name": "Canada",
+      "short_line": "North America",
+      "country": "Canada",
+      "lat": 51.4254,
+      "lng": -116.1773,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-015.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMoraine_Lake_17092005.jpg",
+        "license": "Public Domain",
+        "author": "Gorgo",
+        "attribution": "Photo: Gorgo, Public Domain, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Moraine Lake 17092005.jpg' confirms Canada; desc: Valley of the Ten Peaks and Moraine Lake, Banff National Park, Canada. Mountains from left to right: Tonsa (3057 m), Mount Perren (3051 m), Mount Allen (3310 m)"
+      },
+      "facts": {
+        "one_liner": "Rockies turquoise: Moraine Lake and the Valley of the Ten Peaks in Banff.",
+        "why_go": "Canada’s Banff National Park postcard is Moraine Lake—a glacially fed alpine lake about 14 km from the community of Lake Louise, Alberta, set in the Valley of the Ten Peaks at roughly 1,884–1,887 m. The photo matches the classic Rockpile / lakeshore frame: vivid turquoise water backed by a wall of peaks (including Tonsa, Mount Perren, Mount Allen, and neighbours). Rockpile Loop (~0.7 km) and the Lakeshore Trail (~1.3 km one way) deliver the viewpoint most visitors seek. Personal vehicles are barred year-round on Moraine Lake Road; summer access is by Parks Canada shuttle, Roam transit connections, licensed operators, or lodge guests.",
+        "best_time": "Parks Canada Moraine Lake shuttles typically run early June through mid-October (weather permitting)—2026 dates listed as 1 June–12 October. Peak colour and crowds hit July–September; early shuttle windows are calmer. Winter road access is for skiing only; the lakeshore is not a casual winter walk.",
+        "how_to_get_there": "Fly into Calgary (YYC), then drive the Trans-Canada to Banff / Lake Louise. Reserve a Parks Canada shuttle from the Lake Louise Park and Ride (reservation.pc.gc.ca); a national park entry pass is also required. Roam Public Transit links Banff townsite toward Lake Louise with connector options in season.",
+        "good_to_know": "Moraine Lake is treated as backcountry: no cell service, Wi-Fi, running water, or lighting at the shore—pit toilets only. Shuttle seats sell out; do not rely on day-of parking. Stay off unstable rockpile edges for photos.",
+        "official_or_tourism_url": "https://parks.canada.ca/pn-np/ab/banff/visit/parkbus/louise",
+        "sources": [
+          "https://parks.canada.ca/pn-np/ab/banff/visit/parkbus/louise",
+          "https://parks.canada.ca/pn-np/ab/banff/activ/randonnee-hiking",
+          "https://en.wikipedia.org/wiki/Moraine_Lake"
+        ]
+      },
+      "ad": {
+        "destination_query": "Moraine Lake, Canada",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Moraine%20Lake%2C%20Canada&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Moraine%20Lake%2C%20Canada&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Moraine%20Lake%2C%20Canada&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Moraine Lake"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:22:37-05:00"
+      }
+    },
+    {
+      "id": "countries-016",
+      "tab": "countries",
+      "name": "United States",
+      "short_line": "North America",
+      "country": "United States",
+      "lat": 36.0544,
+      "lng": -112.1401,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Grand_Canyon_Powell_Point_Evening_Light_02_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-016.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AGrand_Canyon_Powell_Point_Evening_Light_02_2013.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Tuxyso",
+        "attribution": "Photo: Tuxyso, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Grand Canyon Powell Point Evening Light 02 2013.jpg' confirms United States; desc: Grand Canyon South Rim photographed from Powell Point with warm evening light"
+      },
+      "facts": {
+        "one_liner": "South Rim sunset light: Powell Point overlook and memorial on Hermit Road.",
+        "why_go": "The United States’ Grand Canyon National Park is introduced here from Powell Point on the South Rim’s Hermit Road—a viewpoint with benches, interpretive exhibits, and the Powell Memorial honouring Major John Wesley Powell’s 1869 and 1871–72 Colorado River expeditions. NPS calls it a strong sunrise and sunset overlook with a two-way shuttle stop, ideal when time is short. Hermit Road runs about 7 miles (11 km) from the Village Transfer to Hermits Rest with nine rim overlooks; the Canyon Rim Trail parallels much of the road for walkers. The photo’s warm evening light across layered cliffs is the classic South Rim country-card mood.",
+        "best_time": "April–May and September–October for milder rim temperatures and clearer air. Summer afternoons are hot and thunderstorm-prone; winter can close or icy Hermit Road sections but opens private-vehicle access December–February when shuttles pause.",
+        "how_to_get_there": "Fly into Flagstaff (FLG), Phoenix (PHX), or Las Vegas (LAS), then drive to Grand Canyon Village (South Rim). March 1–November 30, Hermit Road is closed to most private cars—use the free Hermits Rest (Red) Route shuttle, walk, or bike. Private vehicles (under length limits) are allowed on Hermit Road only in December–February.",
+        "good_to_know": "Park entry fees/passes apply at the South Rim entrance. Stay behind railings—rim edges are abrupt. Bring layers; wind and evening chill are common even after hot days. Round-trip Hermit Road shuttle without getting off is about 80 minutes.",
+        "official_or_tourism_url": "https://www.nps.gov/places/000/powell-point.htm",
+        "sources": [
+          "https://www.nps.gov/places/000/powell-point.htm",
+          "https://www.nps.gov/grca/planyourvisit/hermit-road.htm",
+          "https://www.nps.gov/grca/planyourvisit/shuttle-buses.htm"
+        ]
+      },
+      "ad": {
+        "destination_query": "Grand Canyon, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Grand%20Canyon%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Grand%20Canyon%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Grand%20Canyon%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Grand Canyon"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:22:37-05:00"
+      }
+    },
+    {
+      "id": "countries-017",
+      "tab": "countries",
+      "name": "United Kingdom",
+      "short_line": "Northern Europe",
+      "country": "United Kingdom",
+      "lat": 51.1279,
+      "lng": 1.3134,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Dover_White_Cliffs_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-017.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ADover_White_Cliffs_9.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "kallerna",
+        "attribution": "Photo: kallerna, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Dover White Cliffs 9.jpg' confirms United Kingdom; desc: White Cliffs of Dover, Kent, UK."
+      },
+      "facts": {
+        "one_liner": "Dover chalk close-up: White Cliffs face with nesting seabirds on Kent’s coast.",
+        "why_go": "The United Kingdom’s White Cliffs of Dover appear here as a tight chalk-face portrait—layered Cretaceous cliff rock with seabirds—rather than a wide Channel panorama toward France. The cliffs are Late Cretaceous chalk on Kent’s Strait of Dover shoreline, rising locally to about 110 m. National Trust and Visit Kent routes along the cliff-top paths give access to similar faces and nesting ledges in season. Dover Castle sits inland above the same chalk ridge.",
+        "best_time": "April–September for longer daylight and more bird activity. Winter winds are strong on the cliff edge; paths can be muddy.",
+        "how_to_get_there": "Train to Dover Priory from London; local buses or a short taxi to National Trust White Cliffs visitor access / Langdon Cliffs. Walking trails continue along the cliff tops.",
+        "good_to_know": "This photo is a cliff-face close-up with birds—not a distant France-across-the-Channel vista. Stay behind barriers; cliff edges can crumble. Check National Trust path notices after storms.",
+        "official_or_tourism_url": "https://www.nationaltrust.org.uk/visit/kent/the-white-cliffs-of-dover",
+        "sources": [
+          "https://www.nationaltrust.org.uk/visit/kent/the-white-cliffs-of-dover",
+          "https://www.visitkent.co.uk/",
+          "https://en.wikipedia.org/wiki/White_Cliffs_of_Dover"
+        ]
+      },
+      "ad": {
+        "destination_query": "Dover, United Kingdom",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Dover%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Dover%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Dover%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Dover"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:28:00-05:00",
+        "auditor_notes": "Remake OK: JPG is Dover chalk-face close-up (flint texture, no Channel/France vista); facts rewritten for cliff close-up. Prior audit noted seabirds on this same JPG; Commons File:Dover White Cliffs 9.jpg CC BY-SA 4.0. Ad Dover."
+      }
+    },
+    {
+      "id": "countries-018",
+      "tab": "countries",
+      "name": "Iceland",
+      "short_line": "Northern Europe",
+      "country": "Iceland",
+      "lat": 63.532111,
+      "lng": -19.511139,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Sk%C3%B3gafoss_July_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-018.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASk%C3%B3gafoss_July_2014.JPG",
+        "license": "CC BY-SA 4.0",
+        "author": "Martin Falbisoner",
+        "attribution": "Photo: Martin Falbisoner, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Skógafoss July 2014.JPG' confirms Iceland; desc: Skógafoss, Iceland, July 2014"
+      },
+      "facts": {
+        "one_liner": "South Coast curtain: 60 m Skógafoss on the Skógá near the village of Skógar.",
+        "why_go": "Iceland’s South Coast country card is Skógafoss—a broad ~60 m waterfall on the Skógá River beside the village of Skógar, where former sea cliffs mark the edge of the coastal lowlands. Visit South Iceland highlights the sheer curtain of water, frequent rainbows in spray on sunny days, and the staircase to the upper rim that continues toward further falls and the Fimmvörðuháls trek between Eyjafjallajökull and Mýrdalsjökull. The photo matches that classic frontal view of the falls with mist at the base. Skógar’s folk museum and nearby Ring Road stops (Seljalandsfoss, black-sand shores) make it a natural day-trip anchor from Reykjavík or Selfoss.",
+        "best_time": "May–September for longer daylight and milder path conditions; midnight-sun evenings can empty the crowds. Winter visits are possible but icy on the stairs—check conditions. Midday sun often produces the strongest rainbows in the spray.",
+        "how_to_get_there": "Drive Route 1 (Ring Road) east from Reykjavík (~2–2.5 hours) to Skógar; signed turnoff to the falls parking area. Summer buses serve the South Coast; rental cars are the usual independent option. The falls sit a short walk from the lot.",
+        "good_to_know": "The waterfall itself is free to approach; parking areas may require payment via local systems—check signs on arrival. Expect heavy spray at the base; the staircase to the top is steep and can be crowded. Overnight camping in the main parking lot is not permitted.",
+        "official_or_tourism_url": "https://www.south.is/en/destinations/nature/waterfalls/skogafoss-waterfall",
+        "sources": [
+          "https://www.south.is/en/destinations/nature/waterfalls/skogafoss-waterfall",
+          "https://en.wikipedia.org/wiki/Sk%C3%B3gafoss",
+          "https://guidetoiceland.is/connect-with-locals/regina/the-beautiful-skogafoss-waterfall-and-the-legend-of-the-treasure-chest"
+        ]
+      },
+      "ad": {
+        "destination_query": "Skogafoss, Iceland",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Skogafoss%2C%20Iceland&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Skogafoss%2C%20Iceland&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Skogafoss%2C%20Iceland&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Skogafoss"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:22:37-05:00"
+      }
+    },
+    {
+      "id": "countries-019",
+      "tab": "countries",
+      "name": "South Africa",
+      "short_line": "Southern Africa",
+      "country": "South Africa",
+      "lat": -33.9625,
+      "lng": 18.4096,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Table_Mountain_DanieVDM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-019.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ATable_Mountain_DanieVDM.jpg",
+        "license": "CC BY 2.0",
+        "author": "Danie van der Merwe from Cape Town, South Africa",
+        "attribution": "Photo: Danie van der Merwe from Cape Town, South Africa, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Table Mountain DanieVDM.jpg' confirms South Africa; desc: Taffelberget och Kapstaden i Sydafrika, sett från en strand vid stadsdelen Bloubergstrand"
+      },
+      "facts": {
+        "one_liner": "Table Bay postcard: flat-topped Table Mountain and Cape Town from Bloubergstrand.",
+        "why_go": "South Africa’s Cape Town skyline is defined by Table Mountain—the flat-topped sandstone landmark that anchors Table Mountain National Park above the city bowl, harbour, and Atlantic seaboard. The photo is the classic Bloubergstrand (Blaauwberg) view across Table Bay: mountain plateau, city fabric, and often Robben Island on the water—Cape Town Tourism calls this neighbourhood one of the best mountain-view shores, also known for wind sports at Big Bay. Travellers usually combine the beachfront panorama with a Cableway or hike onto the table itself, then explore the V&A Waterfront, Cape Point, or Winelands. Cloud “tablecloth” days can hide the summit even when the bay is clear.",
+        "best_time": "October–April for warmer beach and summit weather; summer southeast winds (the Cape Doctor) can close or delay the Cableway. May–September is cooler and wetter but often clearer for mountain photography between fronts.",
+        "how_to_get_there": "Fly into Cape Town International (CPT). Bloubergstrand lies roughly 25–30 km north of the city centre via the R27 / Otto du Plessis Drive. For the summit, use the Table Mountain Aerial Cableway on Tafelberg Road (weather-dependent) or marked hiking routes within the national park—check SANParks and Cableway status the same day.",
+        "good_to_know": "Cableway tickets and park rules change with weather and fire risk—verify before you go. Bloubergstrand beaches are windy; secure hats and drones thoughtfully. Sunset from the Blue Peter lawn / promenade is a local ritual for the mountain silhouette.",
+        "official_or_tourism_url": "https://www.capetown.travel/neighbourhoods/bloubergstrand/",
+        "sources": [
+          "https://www.capetown.travel/neighbourhoods/bloubergstrand/",
+          "https://www.capetown.travel/where-to-find-the-best-views-of-table-mountain-in-cape-town/",
+          "https://en.wikipedia.org/wiki/Table_Mountain",
+          "https://www.tablemountain.net/plan-your-visit/ticket-prices"
+        ]
+      },
+      "ad": {
+        "destination_query": "Cape Town, South Africa",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Cape%20Town%2C%20South%20Africa&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Cape%20Town%2C%20South%20Africa&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Cape%20Town%2C%20South%20Africa&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Cape Town"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:22:37-05:00"
+      }
+    },
+    {
+      "id": "countries-020",
+      "tab": "countries",
+      "name": "Türkiye",
+      "short_line": "Western Asia / Europe",
+      "country": "Türkiye",
+      "lat": 38.6431,
+      "lng": 34.828,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cappadocia_Chimneys_Wikimedia_Commons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-020.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACappadocia_Chimneys_Wikimedia_Commons.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Benh LIEU SONG",
+        "attribution": "Photo: Benh LIEU SONG, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Cappadocia Chimneys Wikimedia Commons.jpg' confirms Türkiye; desc: Fairy Chimneys rock formation, nearby Gorëme, in Cappadocia, central Turkey."
+      },
+      "facts": {
+        "one_liner": "Cappadocia hoodoos: fairy chimneys and rock-cut valleys around Göreme.",
+        "why_go": "Türkiye’s Cappadocia country card is the fairy-chimney landscape of Göreme National Park and the Rock Sites of Cappadocia—UNESCO World Heritage on the central Anatolian plateau. Volcanic tuff eroded into ridges, valleys, and pinnacles (hoodoos) between Nevşehir, Ürgüp, and Avanos, with Erciyes and Hasan volcanoes framing the region. The photo matches the classic chimneys near Göreme: honey-toned spires honeycombed with caves once used as dwellings and churches. From the 4th century, monastic communities cut cells and later frescoed rupestral churches; underground towns such as Kaymaklı and Derinkuyu show refuge architecture. Most travellers base in Göreme for valley walks, the Open-Air Museum, and dawn balloon flights over the same formations.",
+        "best_time": "April–June and September–October for mild hiking weather and reliable balloon mornings. July–August are hot at midday; winter can bring snow on the chimneys and fewer flights. Book museum and balloon slots ahead in peak months.",
+        "how_to_get_there": "Fly into Kayseri (ASR) or Nevşehir Kapadokya (NAV), then transfer (~1–1.5 hours) to Göreme. Intercity buses serve Nevşehir/Göreme from major Turkish cities. The Göreme Open-Air Museum sits about 1–1.5 km from town; valley trailheads fan out on foot or by short dolmuş/taxi.",
+        "good_to_know": "Open-Air Museum hours and Dark Church (Karanlık Kilise) add-on tickets are set by Turkish Museums—check muze.gov.tr before visiting. Balloon flights are weather-cancelled often; keep a flexible morning. Stay on marked paths—soft tuff erodes easily.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/357/",
+        "sources": [
+          "https://whc.unesco.org/en/list/357/",
+          "https://muze.gov.tr/muze-detay?DistId=grm&SectionId=grm01",
+          "https://www.turkishmuseums.com/blog/detail/the-unesco-sites-of-turkiye-goreme-open-air-museum-and-cappadocia/10110/4"
+        ]
+      },
+      "ad": {
+        "destination_query": "Goreme, Turkey",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Goreme%2C%20Turkey&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Goreme%2C%20Turkey&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Goreme%2C%20Turkey&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Goreme"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T21:22:37-05:00"
+      }
+    }
+  ]
+}
