@@ -160,7 +160,7 @@
     "cities": {
       "live_file": "data/cities.json",
       "archive_dir": "data/decks/cities/",
-      "approved_count": 40,
+      "approved_count": 59,
       "catalog_target": 100,
       "scale_target_met": false,
       "mvp_ready": true,
@@ -196,9 +196,37 @@
             "cities-039",
             "cities-040"
           ]
+        },
+        {
+          "id": "cities-set-003",
+          "file": "set-003.json",
+          "status": "approved",
+          "count": 19,
+          "card_ids": [
+            "cities-041",
+            "cities-042",
+            "cities-043",
+            "cities-044",
+            "cities-045",
+            "cities-046",
+            "cities-047",
+            "cities-048",
+            "cities-049",
+            "cities-050",
+            "cities-051",
+            "cities-052",
+            "cities-053",
+            "cities-055",
+            "cities-056",
+            "cities-057",
+            "cities-058",
+            "cities-059",
+            "cities-060"
+          ],
+          "note": "Belgrade (cities-054) rejected and excluded."
         }
       ],
-      "next": "Cities 041–060 toward 100"
+      "next": "Cities 061–080 toward 100"
     }
   },
   "other_tabs": [
@@ -217,5 +245,6 @@
     "stay_key": "sos_stay_list",
     "stray_key": "sos_stray_list",
     "scope": "on-device localStorage only; keyed by place id; survives daily rotation"
-  }
+  },
+  "updated_at": "2026-09-20T19:29:54-05:00"
 }

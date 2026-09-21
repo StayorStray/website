@@ -1,0 +1,971 @@
+[
+  {
+    "id": "cities-041",
+    "tab": "cities",
+    "name": "Edinburgh",
+    "short_line": "Scotland, United Kingdom",
+    "country": "United Kingdom",
+    "lat": 55.9533,
+    "lng": -3.1883,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Edinburgh%27s_Skyline_from_Castle_Hill_%281%29_-_geograph.org.uk_-_4836425.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-041.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AEdinburgh%27s_Skyline_from_Castle_Hill_%281%29_-_geograph.org.uk_-_4836425.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "David Hillas",
+      "attribution": "Photo: David Hillas, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Edinburgh's Skyline from Castle Hill (1) - geograph.org.uk - 4836425.jpg' confirms Edinburgh; desc: Edinburgh's Skyline from Castle Hill (1)"
+    },
+    "facts": {
+      "one_liner": "Castle Hill rooftops toward Calton Hill, Scott Monument, and the Firth of Forth.",
+      "why_go": "Edinburgh, Scotland’s capital, is framed from Castle Hill by dense Old Town sandstone tenements and steep slate roofs—exactly the skyline the photo captures. Looking out from the castle approaches, dark Gothic pinnacles of New College rise in the mid-ground, while the needle of the Scott Monument and Calton Hill’s neoclassical monuments (including the Nelson Monument and National Monument columns) mark the eastward view; the Firth of Forth glints on the horizon. The Old and New Towns form a UNESCO World Heritage Site (inscribed 1995), contrasting the medieval ridge of the Royal Mile with the Georgian New Town below. Pair the rampart panorama with a walk down the Mile or up Calton Hill for the classic reverse view of Castle Rock.",
+      "best_time": "May–September for longer daylight and hill walks; August brings the Festivals and peak crowds. April and October are milder with fewer visitors; winter suits museums and Hogmanay, with short, cold days and frequent wind.",
+      "how_to_get_there": "Fly into Edinburgh Airport (EDI). Trams run from the terminal to Haymarket, Princes Street, and St Andrew Square; buses and taxis also reach the centre. Castle Hill and the Royal Mile are walkable from Waverley Station; local buses serve the Old Town approaches.",
+      "good_to_know": "Edinburgh Castle tickets often sell out in peak season—book timed entry online via Historic Environment Scotland. The Castle Esplanade is free to approach for eastward views; interior castle areas need tickets. Wear layers and grippy shoes for cobbles and wind on the rock.",
+      "official_or_tourism_url": "https://www.edinburghcastle.scot/",
+      "sources": [
+        "https://www.edinburghcastle.scot/",
+        "https://www.historicenvironment.scot/visit/all/edinburgh-castle/",
+        "https://whc.unesco.org/en/list/728/",
+        "https://ewh.org.uk/the-unesco-world-heritage-site/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Edinburgh, United Kingdom",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Edinburgh%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Edinburgh%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Edinburgh%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Edinburgh"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-042",
+    "tab": "cities",
+    "name": "Copenhagen",
+    "short_line": "Capital Region, Denmark",
+    "country": "Denmark",
+    "lat": 55.6761,
+    "lng": 12.5683,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Copenhagen_Harbour_at_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-042.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACopenhagen_Harbour_at_sunset.jpg",
+      "license": "CC BY 4.0",
+      "author": "European Commission",
+      "attribution": "Photo: European Commission, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Copenhagen Harbour at sunset.jpg' confirms Copenhagen; desc: Copenhagen Harbour at sunset"
+    },
+    "facts": {
+      "one_liner": "Harbour at sunset: waterfront piers, cranes, chimneys, and wind turbines on the Øresund.",
+      "why_go": "Copenhagen, Denmark’s capital on the Øresund, is a harbour city—and the photo shows that working waterfront at golden hour, not a postcard canal alone. Dark water reflects low sun while a docked naval vessel, concrete pier with gantry cranes, red-roofed warehouses, and industrial stacks (with offshore wind turbines on the horizon) define the Inner Harbour and Amager approaches. Clean harbour bathing zones such as Islands Brygge sit within the same maritime fabric, and canal boats link Nyhavn, Christianshavn, and the Opera House. Stay for sunset light over the water, then bike or metro into Indre By for museums, parks, and neighbourhood cafés.",
+      "best_time": "May–September for long evenings, harbour swimming, and outdoor terraces. December brings Christmas markets and hygge lighting; winter days are short and often grey. Shoulder months April and October are quieter for walking the quays.",
+      "how_to_get_there": "Fly into Copenhagen Airport (CPH) on Amager. Metro M2 reaches the city centre; trains, buses, and bikes cover the harbour districts. Harbour buses and canal tours connect waterfront stops; cycling is the local default on dedicated lanes.",
+      "good_to_know": "Swim only in designated harbour baths and marked bathing zones—follow local water-quality notices. A Copenhagen Card can cover transit and many attractions. Drivers are secondary here; bikes and public transport are easier for harbour-hopping.",
+      "official_or_tourism_url": "https://www.visitcopenhagen.com/copenhagen/",
+      "sources": [
+        "https://www.visitcopenhagen.com/copenhagen/",
+        "https://www.visitcopenhagen.com/copenhagen/things-to-do/outdoor/baths-and-beaches",
+        "https://www.visitcopenhagen.com/copenhagen/planning/classic-canal-tour-gdk410731",
+        "https://en.wikipedia.org/wiki/Port_of_Copenhagen"
+      ]
+    },
+    "ad": {
+      "destination_query": "Copenhagen, Denmark",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Copenhagen%2C%20Denmark&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Copenhagen%2C%20Denmark&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Copenhagen%2C%20Denmark&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Copenhagen"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-043",
+    "tab": "cities",
+    "name": "Stockholm",
+    "short_line": "Stockholm County, Sweden",
+    "country": "Sweden",
+    "lat": 59.3293,
+    "lng": 18.0686,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/DSC00742-4_Panorama%2C_Gamla_Stan%2C_Stockholm%2C_Sweden_%28375141068%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-043.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ADSC00742-4_Panorama%2C_Gamla_Stan%2C_Stockholm%2C_Sweden_%28375141068%29.jpg",
+      "license": "CC BY 2.0",
+      "author": "Jim G from Silicon Valley, CA, USA",
+      "attribution": "Photo: Jim G from Silicon Valley, CA, USA, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:DSC00742-4 Panorama, Gamla Stan, Stockholm, Sweden (375141068).jpg' confirms Stockholm; desc: Gamla Stan, situated on the island of Stadsholmen, is Stockholm’s old medieval town that emerged in the 13th century. Gamla Stan is home to the present Royal Pa"
+    },
+    "facts": {
+      "one_liner": "Stortorget in Gamla Stan: terracotta and ochre façades facing the old Stock Exchange.",
+      "why_go": "Stockholm’s Old Town, Gamla Stan, sits chiefly on Stadsholmen—the medieval island heart of the city since the 13th century. The photo centres on Stortorget, Stockholm’s oldest square: a row of narrow, colourful merchant houses (notably deep terracotta and stepped-gable ochre façades) faces the neoclassical Stock Exchange Building (Börshuset), home to the Nobel Prize Museum under its green copper dome. Most surviving houses date from the 1600s–1700s along cobbled lanes that lead to the Royal Palace, Storkyrkan, and waterfront Skeppsbron. Duck off Västerlånggatan into quieter alleys for fika, then time a palace visit for the changing of the guard.",
+      "best_time": "May–September for outdoor café seating and long daylight. December brings Christmas markets on Stortorget; winter days are short and icy underfoot. Shoulder seasons (May–June, September) balance mild weather and thinner crowds.",
+      "how_to_get_there": "Fly into Stockholm Arlanda (ARN); Arlanda Express and commuter trains reach Stockholm Central. Gamla Stan is a short walk or T-bana stop (Gamla Stan) from the centre; ferries and bridges link surrounding islands. SL tickets cover metro, buses, and many boats.",
+      "good_to_know": "Stortorget is often crowded midday—early morning or evening is calmer for photos. Cobblestones are uneven; wear stable shoes. English is widely spoken; cards are accepted almost everywhere.",
+      "official_or_tourism_url": "https://www.visitstockholm.com/stockholms-districts/gamla-stan/",
+      "sources": [
+        "https://www.visitstockholm.com/stockholms-districts/gamla-stan/",
+        "https://visitsweden.com/where-to-go/middle-sweden/stockholm/stockholm-old-town/",
+        "https://www.visitstockholm.com/see-do/attractions/attractions-in-gamla-stan/",
+        "https://en.wikipedia.org/wiki/Stortorget,_Stockholm"
+      ]
+    },
+    "ad": {
+      "destination_query": "Stockholm, Sweden",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Stockholm%2C%20Sweden&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Stockholm%2C%20Sweden&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Stockholm%2C%20Sweden&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Stockholm"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-044",
+    "tab": "cities",
+    "name": "Helsinki",
+    "short_line": "Uusimaa, Finland",
+    "country": "Finland",
+    "lat": 60.1699,
+    "lng": 24.9384,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Helsinki_July_2013-27a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-044.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHelsinki_July_2013-27a.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Alvesgaspar",
+      "attribution": "Photo: Alvesgaspar, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Helsinki July 2013-27a.jpg' confirms Helsinki; desc: The Lutheran Cathedral in Helsinki, Finland"
+    },
+    "facts": {
+      "one_liner": "White Lutheran Cathedral: green copper domes above Senate Square’s monumental steps.",
+      "why_go": "Helsinki’s Lutheran Cathedral (Helsingin tuomiokirkko) crowns Senate Square as the city’s neoclassical emblem—the exact subject of the photo. Carl Ludvig Engel designed the Greek-cross church as the climax of his Empire-style centre; construction ran roughly 1830–1852, with later alterations by Ernst Lohrmann adding the four corner domes and zinc statues of the Twelve Apostles on the roofline. The brilliant white façade, central green copper dome with clock drum, Corinthian colonnade, and broad granite steps rising from the square define first views of the Finnish capital. Originally dedicated as St Nicholas’s Church under Russian rule, it became Helsinki Cathedral after Finnish independence and remains an active Evangelical Lutheran place of worship.",
+      "best_time": "June–August for long Nordic daylight and outdoor square life. May and September are milder with fewer peak crowds; midwinter brings short days, snow, and Saint Lucy celebrations at the cathedral.",
+      "how_to_get_there": "Fly into Helsinki-Vantaa Airport (HEL). Trains and Finnair City Buses reach the centre; trams and metro serve Senate Square approaches. The cathedral sits at Unioninkatu 29 in Kruununhaka, a short walk from the Market Square and harbour.",
+      "good_to_know": "Visiting hours change for services and ceremonies—check helsingintuomiokirkko.fi before you go. Dress respectfully inside; photography rules may vary during worship. An accessible route runs via the Crypt entrance on Kirkkokatu.",
+      "official_or_tourism_url": "https://www.helsingintuomiokirkko.fi/en/index/uusipaataso.html",
+      "sources": [
+        "https://www.helsingintuomiokirkko.fi/en/index/uusipaataso.html",
+        "https://www.visitfinland.com/en/product/203b0043-2c47-4532-bb4b-08d385a78198/helsinki-cathedral/",
+        "https://en.wikipedia.org/wiki/Helsinki_Cathedral",
+        "https://www.myhelsinki.fi/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Helsinki, Finland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Helsinki%2C%20Finland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Helsinki%2C%20Finland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Helsinki%2C%20Finland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Helsinki"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-045",
+    "tab": "cities",
+    "name": "Dublin",
+    "short_line": "Leinster, Ireland",
+    "country": "Ireland",
+    "lat": 53.3498,
+    "lng": -6.2603,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Cityscape_At_Sunset_Dublin_Ireland_Cityscape_Photography_%28179394129%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-045.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACityscape_At_Sunset_Dublin_Ireland_Cityscape_Photography_%28179394129%29.jpeg",
+      "license": "CC BY 3.0",
+      "author": "Giuseppe Milo",
+      "attribution": "Photo: Giuseppe Milo, CC BY 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Cityscape At Sunset Dublin Ireland Cityscape Photography (179394129).jpeg' confirms Dublin; desc: 500px provided description: If you like my pictures check out my gallery at www.pixael.com/en/pictures You can follow me on www.facebook.com/giuseppemilophoto t"
+    },
+    "facts": {
+      "one_liner": "Liffey sunset: Custom House dome, Liberty Hall, and the Spire above the quays.",
+      "why_go": "Dublin, Ireland’s capital on the River Liffey, shows its north–south cityscape most clearly at sunset along the quays—the scene in the photo. On the north bank, James Gandon’s neoclassical Custom House (built 1781–1791) rises with its green copper dome; nearby Liberty Hall’s slab tower and the distant needle of the Spire of Dublin on O’Connell Street punctuate the skyline, while south-bank offices and bridges complete the river frame. The Custom House Visitor Centre interprets the building’s architecture, the 1921 fire, and restoration. From here, walk west toward Ha’penny Bridge and Temple Bar or east into the Docklands for a compact capital between Dublin Bay and the mountains.",
+      "best_time": "May–September for warmer weather and longer evenings; May–June and September are often milder with fewer peak crowds. November–February are quieter and cooler; pack layers and rain gear year-round.",
+      "how_to_get_there": "Fly into Dublin Airport (DUB). Aircoach, Dublin Bus, and taxis/apps reach the centre; the Liffey quays and Custom House area are walkable from Connolly and Tara Street stations. Luas trams and Dublin Bus cover wider districts—cars are rarely needed downtown.",
+      "good_to_know": "The city centre is compact and best on foot; keep valuables secure in crowded tourist streets. Confirm Custom House Visitor Centre opening times before visiting. Weather changes quickly—waterproofs beat umbrellas in Atlantic wind.",
+      "official_or_tourism_url": "https://www.visitdublin.com/",
+      "sources": [
+        "https://www.visitdublin.com/",
+        "https://heritageireland.ie/places-to-visit/custom-house-visitor-centre/",
+        "https://www.gov.ie/en/department-of-housing-local-government-and-heritage/organisation-information/the-custom-house/",
+        "https://www.ireland.com/en-gb/destinations/experiences/dublin/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Dublin, Ireland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Dublin%2C%20Ireland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Dublin%2C%20Ireland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Dublin%2C%20Ireland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Dublin"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-046",
+    "tab": "cities",
+    "name": "Brussels",
+    "short_line": "Brussels-Capital, Belgium",
+    "country": "Belgium",
+    "lat": 50.8503,
+    "lng": 4.3517,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Grand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-046.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AGrand-Place%2C_Brussels_-_panorama%2C_June_2018.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Celuici",
+      "attribution": "Photo: Celuici, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Grand-Place, Brussels - panorama, June 2018.jpg' confirms Brussels; desc: Panorama of the Grand-Place, Brussels, Belgium taken in June 2018"
+    },
+    "facts": {
+      "one_liner": "Grand-Place panorama: Gothic Town Hall spire, gilded guild houses, King’s House.",
+      "why_go": "Brussels’ Grand-Place (Grote Markt) is the cobbled rectangular square in the photo—a UNESCO World Heritage Site since 1998. The Brabant Gothic City Hall (Hôtel de Ville), with its tall openwork spire topped by Saint Michael, anchors one long side; facing it, the neo-Gothic King’s House (Maison du Roi / Broodhuis) holds the Museum of the City of Brussels, while richly gilded late-17th-century guild houses close the other façades. After French bombardment in 1695 destroyed much of the medieval market core, the square was rebuilt with remarkable speed and ornamental coherence—still largely the ensemble you see. Festivals, the summer Flower Carpet in designated years, and winter lights keep the square a living civic stage.",
+      "best_time": "April–June and September–October for comfortable walking weather. Summer hosts outdoor events and can be busy; December brings Christmas markets and illuminations. Midweek mornings are calmer for photographs.",
+      "how_to_get_there": "Fly into Brussels Airport (BRU) or Brussels South Charleroi (CRL). Trains link BRU to Brussels-Central / Midi; metro and trams serve Bourse and Gare Centrale near the Grand-Place. The square is pedestrian; arrive on foot from Central Station in minutes.",
+      "good_to_know": "The Grand-Place is open at all hours as a public square; City Hall interior tours and the City Museum have separate hours and tickets. Pickpockets work crowded tourist zones—keep bags closed. French and Dutch are official; English is common in visitor services.",
+      "official_or_tourism_url": "https://www.visit.brussels/en/visitors/venue-details.Grand-Place.3743",
+      "sources": [
+        "https://www.visit.brussels/en/visitors/venue-details.Grand-Place.3743",
+        "https://whc.unesco.org/en/list/857/",
+        "https://www.brussels.be/grand-place-brussels",
+        "https://en.wikipedia.org/wiki/Grand-Place"
+      ]
+    },
+    "ad": {
+      "destination_query": "Brussels, Belgium",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Brussels%2C%20Belgium&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Brussels%2C%20Belgium&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Brussels%2C%20Belgium&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Brussels"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-047",
+    "tab": "cities",
+    "name": "Zurich",
+    "short_line": "Zurich, Switzerland",
+    "country": "Switzerland",
+    "lat": 47.3769,
+    "lng": 8.5417,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/The_Zurich_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-047.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Zurich_skyline.jpg",
+      "license": "CC BY 2.0",
+      "author": "sdh_zh",
+      "attribution": "Photo: sdh_zh, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:The Zurich skyline.jpg' confirms Zurich; desc: Zurich from the Limmat"
+    },
+    "facts": {
+      "one_liner": "Limmat night skyline: Grossmünster twins, Fraumünster spire, St. Peter’s clock.",
+      "why_go": "Zurich, Switzerland’s largest city, gathers around the Limmat as it leaves Lake Zurich—the blue-hour river view in the photo. On the right bank, the twin towers of the Grossmünster define the skyline; opposite, Fraumünster’s slender green-turquoise spire and St Peter’s broad illuminated clock face rise above the Altstadt, lights streaking across the water. Münsterbrücke and riverside promenades link the churches, Niederdorf lanes, and Bahnhofstrasse. Climb Grossmünster’s Karlsturm when open for a daytime panorama, or linger on the quays after dusk when reflections make the classic Zurich postcard.",
+      "best_time": "May–September for lakeside walks, swimming spots, and long evenings. December brings Christmas lights and markets; winter can be foggy along the lake. Shoulder months offer milder crowds for Old Town wandering.",
+      "how_to_get_there": "Fly into Zurich Airport (ZRH). Direct trains reach Zürich HB in about 10–15 minutes; trams continue toward Central, Rathaus, and the Limmat quays. The Old Town churches are walkable from the main station across the river bridges.",
+      "good_to_know": "A Zürich Card covers local transit and many discounts. Drinking fountains citywide supply potable water. Grossmünster renovation works (announced into the late 2020s) may affect access—check zuerich.com before climbing the tower.",
+      "official_or_tourism_url": "https://www.zuerich.com/en",
+      "sources": [
+        "https://www.zuerich.com/en",
+        "https://www.zuerich.com/en/visit/attractions/grossmunster",
+        "https://www.myswitzerland.com/en/destinations/zurich/",
+        "https://www.zuerich.com/en/inform-plan/getting-there-and-mobility-on-location/travel-to-zurich/zurich-airport-to-city-center"
+      ]
+    },
+    "ad": {
+      "destination_query": "Zurich, Switzerland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Zurich%2C%20Switzerland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Zurich%2C%20Switzerland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Zurich%2C%20Switzerland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Zurich"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-048",
+    "tab": "cities",
+    "name": "Madrid",
+    "short_line": "Community of Madrid, Spain",
+    "country": "Spain",
+    "lat": 40.4168,
+    "lng": -3.7038,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Madrid_%28Spain%29_%2836399050433%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-048.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMadrid_%28Spain%29_%2836399050433%29.jpg",
+      "license": "CC BY 2.0",
+      "author": "Jose A.",
+      "attribution": "Photo: Jose A., CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Madrid (Spain) (36399050433).jpg' confirms Madrid; desc: Madrid (Spain)"
+    },
+    "facts": {
+      "one_liner": "Northern skyline: Torre Picasso, Torre Europa, and Sierra de Guadarrama beyond.",
+      "why_go": "Madrid, Spain’s capital on the Meseta, mixes historic core with modern office towers—and the photo frames the northern business skyline rather than Plaza Mayor. Torre Picasso (157 m, designed by Minoru Yamasaki, built 1982–1988) and cylindrical Torre Europa rise above mid-rise neighbourhoods, with the boldly banded Hotel Puerta América in the foreground and the Sierra de Guadarrama often hazing the horizon. That contrast—everyday Madrid rooftops against AZCA-era high-rises and near mountains—is the city’s contemporary postcard. Use this as a cue to balance Gran Vía and the Golden Triangle of museums (Prado, Reina Sofía, Thyssen) with a look at the capital’s postwar vertical growth.",
+      "best_time": "April–May and September–October for mild walking weather. July–August are very hot for midday sightseeing; winters are cooler but often sunny. Evenings stay lively year-round.",
+      "how_to_get_there": "Fly into Adolfo Suárez Madrid-Barajas (MAD), about 12 km northeast of the centre. Metro Line 8, Cercanías from T4, the Airport Express bus, and official taxis (fixed fare into the M-30 zone) reach downtown. Metro and buses serve Castellana / AZCA and the historic core.",
+      "good_to_know": "Many museums offer free or reduced entry in late afternoon or on set evenings—check current schedules. Midday summer heat is intense; plan indoor time then. Validate metro tickets and watch for pickpockets on busy lines.",
+      "official_or_tourism_url": "https://www.esmadrid.com/en",
+      "sources": [
+        "https://www.esmadrid.com/en",
+        "https://www.esmadrid.com/en/tourist-information/torre-picasso",
+        "https://www.esmadrid.com/en/getting-madrid-plane",
+        "https://www.spain.info/en/destination/madrid/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Madrid, Spain",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Madrid%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Madrid%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Madrid%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Madrid"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-049",
+    "tab": "cities",
+    "name": "Milan",
+    "short_line": "Lombardy, Italy",
+    "country": "Italy",
+    "lat": 45.4642,
+    "lng": 9.19,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/20110511_Milan_Duomo_030.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-049.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3A20110511_Milan_Duomo_030.jpg",
+      "license": "CC BY 2.0",
+      "author": "Christopher John SSF",
+      "attribution": "Photo: Christopher John SSF, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:20110511 Milan Duomo 030.jpg' confirms Milan; desc: Milan Duomo"
+    },
+    "facts": {
+      "one_liner": "Duomo terraces: Gothic marble spires and saint statues above Galleria and Milan.",
+      "why_go": "Milan’s Duomo (Cathedral-Basilica of the Nativity of Saint Mary) is Italy’s largest church within the republic—and the photo is taken from its roof terraces, looking past carved Candoglia-marble spires and rooftop saint statues toward the city. Construction began in 1386 under Archbishop Antonio da Saluzzo and Gian Galeazzo Visconti; the Veneranda Fabbrica still maintains the fabric, with final details completed only in 1965. Below the pinnacles, the glass-and-iron dome of Galleria Vittorio Emanuele II sits amid terracotta roofs, while Porta Nuova towers mark the modern north horizon. Climb the terraces (stairs or lift) for this signature Milan view after visiting the nave and museum complex.",
+      "best_time": "April–June and September–October for comfortable terrace weather. August is hot and many locals leave the city; winter fog can soft-focus distant views. Book rooftop slots ahead in peak season.",
+      "how_to_get_there": "Fly into Milan Malpensa (MXP), Linate (LIN), or Bergamo Orio al Serio (BGY). Trains and shuttles reach Milano Centrale or city metro; Duomo station (M1/M3) exits onto the cathedral square. The monumental complex is entirely walkable once downtown.",
+      "good_to_know": "Dress codes apply inside the cathedral (covered shoulders and knees). Terrace access is weather-dependent and ticketed separately from nave entry—confirm hours on duomomilano.it. Marble floors and roof surfaces can be slippery when wet.",
+      "official_or_tourism_url": "https://www.duomomilano.it/en/",
+      "sources": [
+        "https://www.duomomilano.it/en/",
+        "https://www.duomomilano.it/en/art-and-culture/the-cathedral/",
+        "https://www.yesmilano.it/",
+        "https://en.wikipedia.org/wiki/Milan_Cathedral"
+      ]
+    },
+    "ad": {
+      "destination_query": "Milan, Italy",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Milan%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Milan%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Milan%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Milan"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-050",
+    "tab": "cities",
+    "name": "Munich",
+    "short_line": "Bavaria, Germany",
+    "country": "Germany",
+    "lat": 48.1351,
+    "lng": 11.582,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Munich_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-050.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMunich_skyline.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Stefan Kühn",
+      "attribution": "Photo: Stefan Kühn, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Munich skyline.jpg' confirms Munich; desc: Skyline Munich, Frauenkirche and steeple of New Town Hall"
+    },
+    "facts": {
+      "one_liner": "Altstadt skyline: Frauenkirche onion domes beside the New Town Hall steeple.",
+      "why_go": "Munich’s historic centre is defined by the pair in the photo: the late-Gothic brick Frauenkirche (Cathedral of Our Lady) with twin towers capped by green copper onion domes (Welsche Hauben, added around 1525), and the ornate neo-Gothic steeple of the New Town Hall (Neues Rathaus) on Marienplatz. Jörg von Halsbach’s cathedral rose mainly 1468–1488; Georg von Hauberrisser’s New Town Hall was completed in phases through 1905, with an 85 m tower and famous Glockenspiel. Red-tiled roofs fill the mid-ground between them, with the Olympic Tower sometimes needle-thin on the far horizon. Watch the carillon from the square, then climb Old Peter or the Town Hall tower for your own Altstadt panorama.",
+      "best_time": "May–September for beer-garden weather and clear Alpine views from towers. Late September–early October brings Oktoberfest crowds; December markets warm the squares. April and September–October balance mild days and thinner queues.",
+      "how_to_get_there": "Fly into Munich Airport (MUC). S-Bahn lines S1/S8 reach Marienplatz; U-Bahn U3/U6 also serve the square. The Frauenkirche is a two-minute walk from Marienplatz; the Altstadt is largely pedestrian.",
+      "good_to_know": "Frauenkirche interior entry is free outside services; the south tower climb is ticketed and not wheelchair accessible. New Town Hall tower lifts run on timed slots—book ahead in peak season. Glockenspiel plays daily at set midday hours (plus a late-afternoon show in warmer months).",
+      "official_or_tourism_url": "https://www.muenchen.de/en",
+      "sources": [
+        "https://www.muenchen.de/en/sights/attractions/new-town-hall",
+        "https://www.muenchen.de/en/sights/cathedral-church-our-lady-all-about-frauenkirche-munich",
+        "https://www.munich.travel/en",
+        "https://en.wikipedia.org/wiki/Frauenkirche,_Munich"
+      ]
+    },
+    "ad": {
+      "destination_query": "Munich, Germany",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Munich%2C%20Germany&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Munich%2C%20Germany&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Munich%2C%20Germany&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Munich"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-051",
+    "tab": "cities",
+    "name": "Krakow",
+    "short_line": "Lesser Poland, Poland",
+    "country": "Poland",
+    "lat": 50.0647,
+    "lng": 19.945,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Krakow_2024_105_Old_Town_Hall_Tower_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-051.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AKrakow_2024_105_Old_Town_Hall_Tower_View.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Scotch Mist",
+      "attribution": "Photo: Scotch Mist, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Krakow 2024 105 Old Town Hall Tower View.jpg' confirms Krakow; desc: The Town Hall Tower (Wieża ratuszowa) is one of the main focal points of the Main Market Square in the Old Town of Kraków, Poland. The Tower is the only remaini"
+    },
+    "facts": {
+      "one_liner": "From Town Hall Tower: Rynek Główny, St Adalbert, and St Mary’s brick Gothic towers.",
+      "why_go": "Krakow (Kraków), Poland’s historic royal capital on the Vistula, is framed here from the Town Hall Tower (Wieża ratuszowa)—the sole surviving Gothic remnant of the old town hall on Main Market Square (Rynek Główny), about 70 m tall with a visitor deck. The photo looks across the square’s café umbrellas and colorful kamienice (including Pałac Krzysztofory) toward the small domed Church of St. Adalbert in the foreground and the dark brick mass of St. Mary’s Basilica beyond, with more church roofs stretching into the haze. The square, laid out under the 1257 Magdeburg-law charter, sits inside UNESCO’s Historic Centre of Kraków (inscribed 1978). Climb the tower, then continue to the Cloth Hall, Wawel, and Kazimierz.",
+      "best_time": "May–September for long outdoor days on the Rynek; April and October are milder with thinner crowds. Winter brings Christmas markets and short, cold daylight—tower decks can be windy.",
+      "how_to_get_there": "Fly into Kraków John Paul II International Airport (KRK). Airport trains and buses reach the centre; the Main Market Square is walkable from Kraków Główny station. Trams ring the Planty; the Town Hall Tower entrance is on the square itself.",
+      "good_to_know": "Town Hall Tower is a Museum of Kraków branch—check mhk.pl for seasonal hours and last entry. St. Mary’s hejnał trumpet call sounds hourly from the taller tower. Keep valuables secure on the crowded square; cobbles are uneven.",
+      "official_or_tourism_url": "https://krakow.travel/en/",
+      "sources": [
+        "https://krakow.travel/en/",
+        "https://whc.unesco.org/en/list/29/",
+        "https://en.wikipedia.org/wiki/Town_Hall_Tower,_Krak%C3%B3w",
+        "https://en.wikipedia.org/wiki/Main_Square,_Krak%C3%B3w"
+      ]
+    },
+    "ad": {
+      "destination_query": "Krakow, Poland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Krakow%2C%20Poland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Krakow%2C%20Poland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Krakow%2C%20Poland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Krakow"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-052",
+    "tab": "cities",
+    "name": "Bucharest",
+    "short_line": "Bucharest, Romania",
+    "country": "Romania",
+    "lat": 44.4268,
+    "lng": 26.1025,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bucharest-Skyline-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-052.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABucharest-Skyline-01.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "seisdeagosto",
+      "attribution": "Photo: seisdeagosto, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Bucharest-Skyline-01.jpg' confirms Bucharest; desc: Bucharest Skyline, view from the Intercontinental Hotel In the front view: University Square, Bucharest Faculty of Letters and the Bucharest Faculty of Architec"
+    },
+    "facts": {
+      "one_liner": "University Square from the Intercontinental—Parliament’s white bulk on the horizon.",
+      "why_go": "Bucharest (București), Romania’s capital, is captured here from high floors of the Intercontinental (now Grand Hotel Bucharest) looking over University Square (Piața Universității). In the frame: the neoclassical University of Bucharest Faculty buildings, busy boulevards with yellow taxis, the BCR bank corner, and—on the distant horizon—the vast white Palace of the Parliament (Palatul Parlamentului), about 270 m long, 245 m wide, and 84 m high, with roughly 365,000 m² of developed floor area. Built from the mid-1980s under Ceaușescu and later adapted for the legislature and conference centre, it remains a defining civic silhouette. Pair the square with Old Town (Centrul Vechi), Calea Victoriei, and a guided Parliament visit.",
+      "best_time": "April–June and September–October for comfortable walking weather. July–August are hot; winter is cold with shorter days but fewer outdoor crowds.",
+      "how_to_get_there": "Fly into Henri Coandă International Airport (OTP). Airport buses, trains, and taxis/apps reach the centre; Universitate metro station sits under the square. The Intercontinental faces Nicolae Bălcescu / University Square.",
+      "good_to_know": "Parliament interior tours book via the International Conference Centre (cic.cdep.ro)—bring ID. University Square is a major transit hub; watch traffic when crossing. English is common in hotels and museums; cards are widely accepted.",
+      "official_or_tourism_url": "https://visitbucharest.ro/",
+      "sources": [
+        "https://visitbucharest.ro/",
+        "https://cic.cdep.ro/en/prezentare/cladire",
+        "https://en.wikipedia.org/wiki/Palace_of_the_Parliament",
+        "https://commons.wikimedia.org/wiki/File:Bucharest-Skyline-01.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Bucharest, Romania",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bucharest%2C%20Romania&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bucharest%2C%20Romania&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bucharest%2C%20Romania&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Bucharest"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-053",
+    "tab": "cities",
+    "name": "Sofia",
+    "short_line": "Sofia City, Bulgaria",
+    "country": "Bulgaria",
+    "lat": 42.6977,
+    "lng": 23.3219,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Sofia_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-053.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASofia_skyline.jpg",
+      "license": "CC BY 2.0",
+      "author": "Sami C",
+      "attribution": "Photo: Sami C, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Sofia skyline.jpg' confirms Sofia; desc: Skyline of Sofia from NDK."
+    },
+    "facts": {
+      "one_liner": "Sofia from NDK: red roofs, park green, and Vitosha’s blue ridge on the horizon.",
+      "why_go": "Sofia (София), Bulgaria’s capital at the foot of Vitosha Mountain, is shown here from the National Palace of Culture (NDK / Национален дворец на културата)—the large congress and arts complex opened in 1981 on Bulgaria Square. The photo looks out over NDK’s landscaped park and promenade toward a dense mid-rise city of terracotta roofs under a clear sky, with the long blue ridge of Vitosha filling the horizon. That mountain backdrop is Sofia’s geographic signature and a favorite sunset frame from the NDK terraces. From here, walk Vitosha Boulevard toward Alexander Nevsky Cathedral, Serdica’s ruins, and the city’s thermal-spring heritage.",
+      "best_time": "May–September for park walks and clear Vitosha views; shoulder months are milder. Winter can bring snow on the mountain and cold city days—ideal for museums and cafés.",
+      "how_to_get_there": "Fly into Sofia Airport (SOF). Metro Line 1/4 and buses link the airport to the centre; NDK has its own metro station. Trams and walking cover Vitosha Blvd and the historic core.",
+      "good_to_know": "NDK’s outdoor parks and fountains are free to stroll; interior access depends on events (check ndk.bg). Vitosha day hikes need weather-ready layers. Cyrillic signage is standard—offline maps help.",
+      "official_or_tourism_url": "https://www.visitsofia.bg/?lang=en",
+      "sources": [
+        "https://www.visitsofia.bg/?lang=en",
+        "https://www.sofiacityguide.com/visit-the-sofia-national-palace-of-culture-fountain-area/",
+        "https://en.wikipedia.org/wiki/National_Palace_of_Culture",
+        "https://commons.wikimedia.org/wiki/File:Sofia_skyline.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Sofia, Bulgaria",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sofia%2C%20Bulgaria&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sofia%2C%20Bulgaria&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sofia%2C%20Bulgaria&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Sofia"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-055",
+    "tab": "cities",
+    "name": "Zagreb",
+    "short_line": "Zagreb, Croatia",
+    "country": "Croatia",
+    "lat": 45.815,
+    "lng": 15.9819,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Zagreb_Altstadt.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-055.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AZagreb_Altstadt.JPG",
+      "license": "CC BY-SA 3.0",
+      "author": "Zeitblick",
+      "attribution": "Photo: Zeitblick, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Zagreb Altstadt.JPG' confirms Zagreb; desc: Zagreb View from Lotrščak"
+    },
+    "facts": {
+      "one_liner": "Upper Town from Lotrščak: terracotta roofs, St Catherine’s, and cathedral spires.",
+      "why_go": "Zagreb, Croatia’s capital, is shown from Lotrščak Tower looking over the Altstadt—Upper Town (Gornji Grad / Gradec) with its sea of orange terracotta roofs. Prominent in the frame is the white Baroque façade of St. Catherine’s Church (Crkva sv. Katarine), completed in the early 17th century by the Jesuits and often cited as Zagreb’s finest Baroque church, with Zagreb Cathedral’s twin neo-Gothic spires rising in the distance over Kaptol. Lotrščak, part of the medieval southern defences, still fires a noon cannon (a tradition since 1877) and offers a classic panorama; the Strossmayer Promenade below is another free viewpoint. Add St. Mark’s Church, Stone Gate, and Donji Grad museums.",
+      "best_time": "April–June and September–October for comfortable Upper Town walking. July–August are warmer; Advent and winter markets are a highlight despite short days.",
+      "how_to_get_there": "Fly into Zagreb Franjo Tuđman Airport (ZAG). Airport buses and taxis reach the centre; the funicular links Lower and Upper Town near Lotrščak. Trams cover Donji Grad and Kaptol approaches.",
+      "good_to_know": "Climb Lotrščak for the full deck view; the noon Grič cannon is loud—stand clear if you are nearby. Cathedral spires have undergone post-2020 earthquake restoration—exteriors remain a skyline landmark. Upper Town hills mean stairs and cobbles.",
+      "official_or_tourism_url": "https://www.infozagreb.hr/en/",
+      "sources": [
+        "https://www.infozagreb.hr/en/",
+        "https://en.wikipedia.org/wiki/St._Catherine%27s_Church,_Zagreb",
+        "https://en.wikipedia.org/wiki/Gornji_grad,_Zagreb",
+        "https://en.wikipedia.org/wiki/Zagreb_cathedral"
+      ]
+    },
+    "ad": {
+      "destination_query": "Zagreb, Croatia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Zagreb%2C%20Croatia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Zagreb%2C%20Croatia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Zagreb%2C%20Croatia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Zagreb"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-056",
+    "tab": "cities",
+    "name": "Valletta",
+    "short_line": "Valletta, Malta",
+    "country": "Malta",
+    "lat": 35.8989,
+    "lng": 14.5146,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Valletta_from_Sliema.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-056.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AValletta_from_Sliema.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Evafuentes78",
+      "attribution": "Photo: Evafuentes78, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Valletta from Sliema.jpg' confirms Valletta; desc: This media is about Maltese cultural property with inventory number Malta.pdf Valletta, Malta."
+    },
+    "facts": {
+      "one_liner": "Valletta from Sliema: Carmelite dome, St Paul’s spire, limestone walls over water.",
+      "why_go": "Valletta, Malta’s fortified capital on a peninsula between Grand Harbour and Marsamxett Harbour, is classic from Sliema across the water. The photo shows honey limestone walls rising from the rocky shore, a dense grid of ochre buildings, the broad dome of the Basilica of Our Lady of Mount Carmel, and the slender spire of St Paul’s Anglican Pro-Cathedral. Founded in 1566 by the Knights of St John after the Great Siege, the city packs some 320 monuments into roughly 55–75 ha and has been a UNESCO World Heritage Site since 1980. Ferry or waterfront walks from Sliema/Tigné give this skyline; on shore, add St John’s Co-Cathedral and the Upper Barrakka Gardens.",
+      "best_time": "March–June and September–November for warm walking without peak summer heat. July–August are hottest; winter is mild by European standards with shorter daylight.",
+      "how_to_get_there": "Fly into Malta International Airport (MLA). Buses and taxis reach Valletta; ferries cross Marsamxett between Valletta and Sliema. The peninsula is compact and best explored on foot.",
+      "good_to_know": "Wear sturdy shoes for bastion slopes and stepped streets. Churches expect modest dress. Sunset from Tigné Point or Sliema promenade is a favorite free skyline frame; bring sun protection year-round.",
+      "official_or_tourism_url": "https://www.visitmalta.com/en/info/valletta-malta",
+      "sources": [
+        "https://www.visitmalta.com/en/info/valletta-malta",
+        "https://whc.unesco.org/en/list/131/",
+        "https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Mount_Carmel,_Valletta",
+        "https://commons.wikimedia.org/wiki/File:Valletta_from_Sliema.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Valletta, Malta",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Valletta%2C%20Malta&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Valletta%2C%20Malta&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Valletta%2C%20Malta&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Valletta"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-057",
+    "tab": "cities",
+    "name": "Reykjavik",
+    "short_line": "Capital Region, Iceland",
+    "country": "Iceland",
+    "lat": 64.1466,
+    "lng": -21.9426,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/HDR_Reykjavik_skyline_%2810139777493%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-057.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHDR_Reykjavik_skyline_%2810139777493%29.jpg",
+      "license": "CC BY 2.0",
+      "author": "allen watkin from London, UK",
+      "attribution": "Photo: allen watkin from London, UK, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:HDR Reykjavik skyline (10139777493).jpg' confirms Reykjavik; desc: Oct 2009"
+    },
+    "facts": {
+      "one_liner": "Reykjavik HDR: colorful roofs to Faxaflói Bay with snowy Mount Esja beyond.",
+      "why_go": "Reykjavik (Reykjavík), Iceland’s capital on Faxaflói Bay, is shown in this HDR skyline as a dense low-rise city of brightly colored pitched roofs stepping down to dark bay water, with the long, snow-dusted massif of Mount Esja on the far shore. Esja rises to about 914 m and is the capital’s iconic hiking backdrop—Visit Reykjavík notes trails drawing tens of thousands of visitors yearly, with views back over the city and bay. Downtown highlights include Hallgrímskirkja’s tower viewpoint, the Old Harbour, Harpa Concert Hall, and the waterfront Sun Voyager sculpture. Day trips and northern-lights evenings often use the clearer skies toward Kjalarnes and Esja.",
+      "best_time": "June–August for long daylight and milder walking weather. September–April bring aurora chances and winter hiking conditions on Esja—dress for wind, rain, and rapid changes.",
+      "how_to_get_there": "Fly into Keflavík International Airport (KEF); Flybus and taxis reach Reykjavík (~45 minutes). City buses cover downtown; most central sights are walkable. Esja trailheads are a short drive or bus ride from the city.",
+      "good_to_know": "Weather shifts fast—layers, waterproof shell, and sturdy shoes are essentials even in summer. Reykjavík is compact; book popular geothermal pools and day tours ahead in peak season. Credit cards are widely used.",
+      "official_or_tourism_url": "https://visitreykjavik.is/",
+      "sources": [
+        "https://visitreykjavik.is/",
+        "https://visitreykjavik.is/city-areas/esja-kjalarnes",
+        "https://en.wikipedia.org/wiki/Esja",
+        "https://commons.wikimedia.org/wiki/File:HDR_Reykjavik_skyline_(10139777493).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Reykjavik, Iceland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Reykjavik%2C%20Iceland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Reykjavik%2C%20Iceland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Reykjavik%2C%20Iceland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Reykjavik"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-058",
+    "tab": "cities",
+    "name": "Tallinn",
+    "short_line": "Harju County, Estonia",
+    "country": "Estonia",
+    "lat": 59.437,
+    "lng": 24.7536,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/City_covered_in_snow_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-058.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACity_covered_in_snow_%28Unsplash%29.jpg",
+      "license": "CC0",
+      "author": "Ilya Orehov iliched",
+      "attribution": "Photo: Ilya Orehov iliched, CC0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:City covered in snow (Unsplash).jpg' confirms Tallinn; desc: Old Town of Tallinn, Tallinn, Estonia"
+    },
+    "facts": {
+      "one_liner": "Tallinn Old Town in snow—medieval towers, St Olaf’s spire, and Baltic light.",
+      "why_go": "Tallinn, Estonia’s capital on the Baltic, appears here as the UNESCO Historic Centre (Old Town) under fresh snow: circular medieval wall towers with red conical roofs, steep tiled houses, bare frosted trees, and the tall slender spire of St. Olaf’s Church (Oleviste) rising against a pale winter sky, with Tallinn Bay on the horizon. Inscribed in 1997, the Old Town is an exceptionally complete Hanseatic trading city—Toompea upper town and the lower town’s walls, churches, and merchant streets still read as a medieval skyline from land and sea. Winter softens the stone; clear days reward Kohtuotsa and Patkuli viewpoints even when some tower climbs are seasonal.",
+      "best_time": "May–September for milder outdoor exploring and open observation towers. December–February deliver the snow-and-Christmas-market mood of this photo—dress for ice, wind, and short daylight.",
+      "how_to_get_there": "Fly into Tallinn Airport (TLL), a short tram/bus/taxi ride from the centre. Ferries link Helsinki; Old Town is compact and walkable. Trams skirt the historic core.",
+      "good_to_know": "St. Olaf’s viewing platform is typically seasonal (often closed in deep winter)—confirm on visittallinn.ee. Cobblestones are slippery when icy. Old Town is a living neighbourhood; keep noise down in residential lanes at night.",
+      "official_or_tourism_url": "https://www.visittallinn.ee/eng",
+      "sources": [
+        "https://www.visittallinn.ee/eng",
+        "https://whc.unesco.org/en/list/822/",
+        "https://visitestonia.com/en/where-to-go/tallinns-unesco-heritage-a-guided-walk-through-old-town",
+        "https://commons.wikimedia.org/wiki/File:City_covered_in_snow_(Unsplash).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Tallinn, Estonia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Tallinn%2C%20Estonia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Tallinn%2C%20Estonia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Tallinn%2C%20Estonia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Tallinn"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-059",
+    "tab": "cities",
+    "name": "Riga",
+    "short_line": "Riga, Latvia",
+    "country": "Latvia",
+    "lat": 56.9496,
+    "lng": 24.1052,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Gogojo_iela_and_Riga_skyline_from_Latvian_Academy_of_Sciences_Observation_deck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-059.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AGogojo_iela_and_Riga_skyline_from_Latvian_Academy_of_Sciences_Observation_deck.jpg",
+      "license": "CC BY 3.0",
+      "author": "Tim Adams",
+      "attribution": "Photo: Tim Adams, CC BY 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Gogojo iela and Riga skyline from Latvian Academy of Sciences Observation deck.jpg' confirms Riga; desc: Gogojo iela and Riga skyline from Latvian Academy of Sciences Observation deck"
+    },
+    "facts": {
+      "one_liner": "Riga from the Academy deck: Gogoļa street, onion domes, and the city sprawl.",
+      "why_go": "Riga, Latvia’s capital on the Daugava, is framed from the Latvian Academy of Sciences observation deck (Panorama Riga)—a 17th-floor open balcony about 65 m up at Akadēmijas laukums 1. The photo looks along Gogoļa iela over dense historic blocks, rail lines, and the bright green-and-blue onion domes of the nearby Annunciation church, with the wider city stretching to a hazy horizon. Latvia.travel highlights views toward Old Town spires, Central Market bustle, the National Library across the river, and the Zaķusala TV tower. Pair the deck with UNESCO’s Historic Centre of Riga (1997)—famed for its Art Nouveau streets—and the Central Market halls.",
+      "best_time": "May–September for clear deck views and outdoor Old Town walking. Winter is cold and dark but atmospheric around Christmas markets; wind on the balcony can be sharp year-round.",
+      "how_to_get_there": "Fly into Riga International Airport (RIX). Airport buses and taxis reach the centre; trams and buses serve the Academy / Central Market area. Old Town is a short walk or tram ride from the deck.",
+      "good_to_know": "A lift reaches the 15th floor; stairs continue to the 17th-floor balcony—confirm seasonal hours on latvia.travel or Live Riga. Dress for wind at height. Art Nouveau streets around Alberta iela reward a separate walking loop.",
+      "official_or_tourism_url": "https://www.liveriga.com/en/",
+      "sources": [
+        "https://www.latvia.travel/en/sight/latvian-academy-sciences-observation-deck",
+        "https://www.liveriga.com/en/4084-latvian-academy-of-sciences-observation-deck",
+        "https://whc.unesco.org/en/list/852/",
+        "https://commons.wikimedia.org/wiki/File:Gogojo_iela_and_Riga_skyline_from_Latvian_Academy_of_Sciences_Observation_deck.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Riga, Latvia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Riga%2C%20Latvia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Riga%2C%20Latvia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Riga%2C%20Latvia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Riga"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  },
+  {
+    "id": "cities-060",
+    "tab": "cities",
+    "name": "Vilnius",
+    "short_line": "Vilnius County, Lithuania",
+    "country": "Lithuania",
+    "lat": 54.6872,
+    "lng": 25.2797,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Vilnius_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/cities/cities-060.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AVilnius_skyline.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Žemėpatis",
+      "attribution": "Photo: Žemėpatis, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Vilnius skyline.jpg' confirms Vilnius; desc: Vilnius skyline, 2019 09"
+    },
+    "facts": {
+      "one_liner": "Vilnius 2019 skyline: glass CBD towers rising beyond a dark pine canopy.",
+      "why_go": "Vilnius, Lithuania’s capital, shows its modern face in this 2019 skyline: a cluster of glass office towers in the Šnipiškės New City Centre rising behind a continuous dark pine canopy—Go Vilnius markets the city as a “city in the forest,” with green space a defining trait. Landmarks in the business district include Europa Tower on Konstitucijos Avenue (opened 2004; about 148 m architectural / 153 m to tip, among the tallest in the Baltics) and distinctive curved headquarters such as Swedbank’s complex. Cross the Neris to the UNESCO Vilnius Historic Centre for baroque churches and Gediminas Castle Hill—the contrast between forest-edge CBD and Old Town is the city’s signature.",
+      "best_time": "May–September for park and riverside walks with long daylight. Autumn colours suit the forested frame; winter is cold and atmospheric for Old Town and museums.",
+      "how_to_get_there": "Fly into Vilnius Airport (VNO). Airport buses and trains reach the centre quickly; buses and trolleybuses serve Šnipiškės and Old Town. The CBD and historic core are linked by bridges over the Neris.",
+      "good_to_know": "Europa Tower and some CBD terraces have offered observation access at times—confirm current visitor rules. Old Town cobbles and hills need comfortable shoes. English is widely spoken in tourist and business areas.",
+      "official_or_tourism_url": "https://www.govilnius.lt/?lang=en",
+      "sources": [
+        "https://www.govilnius.lt/?lang=en",
+        "https://whc.unesco.org/en/list/541/",
+        "https://en.wikipedia.org/wiki/Europa_Tower",
+        "https://commons.wikimedia.org/wiki/File:Vilnius_skyline.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Vilnius, Lithuania",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Vilnius%2C%20Lithuania&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Vilnius%2C%20Lithuania&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Vilnius%2C%20Lithuania&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Vilnius"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-20T19:35:00-05:00"
+    }
+  }
+]
