@@ -1,0 +1,1032 @@
+{
+  "id": "pubs-set-001",
+  "tab": "pubs",
+  "label": "Pubs — Set 1 (001–020)",
+  "card_ids": [
+    "pubs-001",
+    "pubs-002",
+    "pubs-003",
+    "pubs-004",
+    "pubs-005",
+    "pubs-006",
+    "pubs-007",
+    "pubs-008",
+    "pubs-009",
+    "pubs-010",
+    "pubs-011",
+    "pubs-012",
+    "pubs-013",
+    "pubs-014",
+    "pubs-015",
+    "pubs-016",
+    "pubs-017",
+    "pubs-018",
+    "pubs-019",
+    "pubs-020"
+  ],
+  "count": 20,
+  "auditor": "20/20 approved 2026-09-20 (Accuracy Auditor Unique Pubs MVP 001–020) — PUBS MVP READY",
+  "created": "2026-09-20T20:35:00-05:00",
+  "cards": [
+    {
+      "id": "pubs-001",
+      "tab": "pubs",
+      "name": "The Brazen Head",
+      "short_line": "Dublin, Ireland",
+      "country": "Ireland",
+      "lat": 53.3447,
+      "lng": -6.2755,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/The_Brazen_Head_pub_exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-001.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Brazen_Head_pub_exterior.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Matthewvetter",
+        "attribution": "Photo: Matthewvetter, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:The Brazen Head pub exterior.jpg' confirms The Brazen Head; desc: Exterior shot of The Brazen Head pub in Dublin, Ireland"
+      },
+      "facts": {
+        "one_liner": "Dublin Bridge Street pub with a brick façade, gold sign, and claim as Ireland’s oldest hostelry.",
+        "why_go": "The Brazen Head sits on Lower Bridge Street beside Father Matthew Bridge, where an inn has long claimed roots back to 1198; the present coaching-inn fabric is largely mid-18th century (c. 1754). The photo matches the weathered brick exterior: crenellated parapet, barred windows, hanging baskets, and the black-and-gold “The Brazen Head” board above a plaque advertising Ireland’s oldest pub. Barrels often sit on the pavement outside; inside, the rooms still run as a gastrobar with nightly traditional music.",
+        "best_time": "Weekday early afternoon for a quieter exterior photo and seat; evenings bring live traditional music (typically from about 9pm) and fuller rooms. Sunday afternoon sessions are a local favourite.",
+        "how_to_get_there": "20 Lower Bridge Street, Dublin 8 (D08 WC64), a short walk west of Christ Church Cathedral and south of the Liffey. LUAS Red Line to Four Courts or Smithfield; buses along the quays and Bridge Street; about 15–20 minutes’ walk from Temple Bar.",
+        "good_to_know": "OPEN as of 2025–2026 (official site: daily from 12pm to late; food until 9pm). Cash/card as posted; groups under 8 generally walk in without reservations. Busy tourist landmark—arrive early if you want a table near the music room.",
+        "official_or_tourism_url": "https://brazenhead.com/",
+        "sources": [
+          "https://brazenhead.com/",
+          "https://brazenhead.com/story/",
+          "https://www.visitdublin.com/the-brazen-head"
+        ]
+      },
+      "ad": {
+        "destination_query": "The Brazen Head, Dublin, Ireland",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=The%20Brazen%20Head%2C%20Dublin%2C%20Ireland&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=The%20Brazen%20Head%2C%20Dublin%2C%20Ireland&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=The%20Brazen%20Head%2C%20Dublin%2C%20Ireland&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Dublin"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-002",
+      "tab": "pubs",
+      "name": "Ye Olde Cheshire Cheese",
+      "short_line": "London, United Kingdom",
+      "country": "United Kingdom",
+      "lat": 51.5133,
+      "lng": -0.1072,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ye_Olde_Cheshire_Cheese%2C_London_-_geograph.org.uk_-_4759346.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-002.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AYe_Olde_Cheshire_Cheese%2C_London_-_geograph.org.uk_-_4759346.jpg",
+        "license": "CC BY-SA 2.0",
+        "author": "Peter Trimming",
+        "attribution": "Photo: Peter Trimming, CC BY-SA 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Ye Olde Cheshire Cheese, London - geograph.org.uk - 4759346.jpg' confirms Ye Olde Cheshire Cheese; desc: Ye Olde Cheshire Cheese, London"
+      },
+      "facts": {
+        "one_liner": "Fleet Street alley pub rebuilt after the Great Fire—sign reads Ye Olde Cheshire Cheese, Rebuilt 1667.",
+        "why_go": "Tucked off Fleet Street in Wine Office Court, this Samuel Smith’s house is one of the City’s best-known historic pubs: a maze of panelled rooms rebuilt after the Great Fire and famous with literary regulars from Dr Johnson’s circle to Dickens. The photo shows the narrow stone alley approach—the circular hanging sign announcing “Ye Olde Cheshire Cheese REBUILT 1667,” lantern, and steps down into the bars. Come for the subterranean feel of the courts rather than a street-front terrace.",
+        "best_time": "Midweek mid-afternoon is usually calmer than lunch or after-work peaks; evenings and weekends fill the interconnecting rooms quickly.",
+        "how_to_get_there": "145 Fleet Street, London EC4A 2BP; entrance via Wine Office Court off Fleet Street. Closest Tube: Blackfriars, Temple, or Chancery Lane; City Thameslink / Blackfriars also nearby.",
+        "good_to_know": "OPEN as of 2025–2026 (official hours Mon–Sat 12–23:00, Sun 12–22:30). Samuel Smith’s beers only; no wheelchair access (steep historic layout). No smoking/drinking in the alley—follow posted notices.",
+        "official_or_tourism_url": "https://ye-olde-cheshire-cheese.co.uk/",
+        "sources": [
+          "https://ye-olde-cheshire-cheese.co.uk/",
+          "https://www.visitlondon.com/things-to-do/place/605551-ye-olde-cheshire-cheese",
+          "https://camra.org.uk/pubs/olde-cheshire-cheese-london-156637"
+        ]
+      },
+      "ad": {
+        "destination_query": "Ye Olde Cheshire Cheese, London, United Kingdom",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ye%20Olde%20Cheshire%20Cheese%2C%20London%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ye%20Olde%20Cheshire%20Cheese%2C%20London%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ye%20Olde%20Cheshire%20Cheese%2C%20London%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in London"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-003",
+      "tab": "pubs",
+      "name": "Hofbräuhaus am Platzl",
+      "short_line": "Munich, Germany",
+      "country": "Germany",
+      "lat": 48.1376,
+      "lng": 11.5799,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/M%C3%BCnchen%2C_Hofbr%C3%A4uhaus_am_Platzl_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-003.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AM%C3%BCnchen%2C_Hofbr%C3%A4uhaus_am_Platzl_01.jpg",
+        "license": "CC BY 3.0",
+        "author": "Bayreuth2009",
+        "attribution": "Photo: Bayreuth2009, CC BY 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:München, Hofbräuhaus am Platzl 01.jpg' confirms Hofbräuhaus am Platzl; desc: München, Hofbräuhaus am Platzl"
+      },
+      "facts": {
+        "one_liner": "Munich’s state beer palace on Platzl—white Neo-Renaissance façade with the crowned blue HB monogram.",
+        "why_go": "Staatliches Hofbräuhaus am Platzl began as Duke Wilhelm V’s court brewery in 1589; King Ludwig I opened it to the public in 1828, and the present tavern building is Max Littmann’s 1896–97 Neo-Renaissance rebuild (post-war reconstruction finished by 1958). The photo captures the Platzl exterior: pale façade, ornate bay/erker, arched ground-floor entrance, and the large blue crowned “HB” with “Hofbräuhaus” script. Inside, the Schwemme seats about a thousand at long tables with daily Bavarian music; brewing itself moved away long ago (now Riem).",
+        "best_time": "Late morning opening or mid-afternoon on weekdays for a less crowded hall; summer evenings and weekends in the Altstadt are busiest. Wirtsgarten is seasonal.",
+        "how_to_get_there": "Platzl 9, 80331 Munich. S-Bahn/U-Bahn to Marienplatz or Isartor; about a 5–7 minute walk through the Old Town. Tram Nationaltheater also nearby.",
+        "good_to_know": "OPEN daily ~11:00–00:00 as of 2025–2026 (kitchen earlier; last drinks ~23:30). No reservation needed for the Schwemme—share tables; groups of 4+ can book other rooms. Free entry during opening hours; Maßkrug lockers are for regulars only.",
+        "official_or_tourism_url": "https://www.hofbraeuhaus.de/en/",
+        "sources": [
+          "https://www.hofbraeuhaus.de/en/",
+          "https://www.hofbraeuhaus.de/en/history/",
+          "https://www.muenchen.de/en/sights/buildings-and-monuments/hofbrauhaus-am-platzl"
+        ]
+      },
+      "ad": {
+        "destination_query": "Hofbrauhaus, Munich, Germany",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Hofbrauhaus%2C%20Munich%2C%20Germany&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Hofbrauhaus%2C%20Munich%2C%20Germany&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Hofbrauhaus%2C%20Munich%2C%20Germany&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Munich"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-004",
+      "tab": "pubs",
+      "name": "Augustiner-Keller",
+      "short_line": "Munich, Germany",
+      "country": "Germany",
+      "lat": 48.1475,
+      "lng": 11.5503,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Gateway_19-05-24_1134.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-004.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AGateway_19-05-24_1134.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Chris Light",
+        "attribution": "Photo: Chris Light, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Gateway 19-05-24 1134.jpg' confirms Augustiner-Keller; desc: Entrance to thee Augustiner-Keller, Beer Garden."
+      },
+      "facts": {
+        "one_liner": "Munich’s oldest beer garden—enter under chestnuts through the Arnulfstraße 52 gateway.",
+        "why_go": "Augustiner-Keller on Arnulfstraße is Munich’s oldest beer garden: the site appears on an 1812 city map, and the outdoor layout has kept much the same look since the 1890s, with more than 100 chestnut trees shading about 5,000 seats. The photo is the street gateway—stone pillars, green wooden pergola, Arnulfstr. 52 sign, and the path rising into the garden—not the indoor Keller alone. Augustiner Edelstoff is poured from wooden barrels; self-service and waiter areas sit under the trees beside Circus Krone.",
+        "best_time": "Warm, dry afternoons April–September when the garden is officially open (seasonal; weather-dependent). Weekday early evening beats peak weekend crush.",
+        "how_to_get_there": "Arnulfstraße 52, 80335 Munich, west of the Hauptbahnhof toward Circus Krone. S-Bahn/U-Bahn Hauptbahnhof then ~10-minute walk; tram/bus along Arnulfstraße.",
+        "good_to_know": "OPEN as of 2025–2026: beer garden typically 11:00–midnight when weather and demand allow (kitchen earlier); restaurant/terraces keep longer winter hours—check the day’s status on augustinerkeller.de. Bring your own snack for the self-service area if you follow local custom; no prices listed here.",
+        "official_or_tourism_url": "https://www.augustinerkeller.de/en/Beer-garden",
+        "sources": [
+          "https://www.augustinerkeller.de/en/Beer-garden",
+          "https://www.augustinerkeller.de/en/Welcome/Contact",
+          "https://www.augustinerkeller.de/en/The-tradition/The-story"
+        ]
+      },
+      "ad": {
+        "destination_query": "Augustiner-Keller, Munich, Germany",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Augustiner-Keller%2C%20Munich%2C%20Germany&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Augustiner-Keller%2C%20Munich%2C%20Germany&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Augustiner-Keller%2C%20Munich%2C%20Germany&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Munich"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-005",
+      "tab": "pubs",
+      "name": "Schlenkerla",
+      "short_line": "Bamberg, Germany",
+      "country": "Germany",
+      "lat": 49.8914,
+      "lng": 10.8864,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Bamberg-Schlenkerla-P8257314.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-005.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABamberg-Schlenkerla-P8257314.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "ermell",
+        "attribution": "Photo: ermell, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Bamberg-Schlenkerla-P8257314.jpg' confirms Schlenkerla; desc: Heller brewery tavern \"Schlenkerla\" in Bamberg (Germany). Still operating (Dominikanerstraße 6; official hours daily)."
+      },
+      "facts": {
+        "one_liner": "Bamberg’s Schlenkerla — historic Heller brewery tavern tapping Aecht Schlenkerla Rauchbier.",
+        "why_go": "Schlenkerla on Dominikanerstraße 6 is the historic brewery tavern of Heller-Bräu Trum in Bamberg’s old town, first mentioned as the House of the Blue Lion in 1405 and still run by the Trum family. The Commons photo shows the timber-framed façade and hanging signs of the Ausschank where Aecht Schlenkerla Rauchbier (smoked beer) is still drawn from wooden barrels. Bamberg’s UNESCO old town sits around the Domberg above; the tavern is a short walk downhill from the cathedral. Morning pint service starts early; the Dominikanerhof beer garden opens weather permitting in warmer months.",
+        "best_time": "Year-round for the tavern (daily hours). Beer garden typically Easter to early October when weather allows. Expect Christmas/New Year closures — check schlenkerla.de for holiday dates.",
+        "how_to_get_there": "Dominikanerstraße 6, 96049 Bamberg. Train to Bamberg station, then walk (~15–20 min) into the Altstadt toward Dominikanerstraße below the Dom, or use local buses. Table reservations advised for peak evenings.",
+        "good_to_know": "OPEN daily roughly 9:30–23:30; kitchen ~11:00–22:00 (confirm on schlenkerla.de). Smoked beer tastes intensely of beechwood at first sip — the house says keep going.",
+        "official_or_tourism_url": "https://www.schlenkerla.de/schlenkerla/ausschank/schlenkerlae.html",
+        "sources": [
+          "https://www.schlenkerla.de/schlenkerla/ausschank/schlenkerlae.html",
+          "https://www.schlenkerla.de/indexe.html",
+          "https://commons.wikimedia.org/wiki/File:Bamberg-Schlenkerla-P8257314.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Schlenkerla, Bamberg, Germany",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Schlenkerla%2C%20Bamberg%2C%20Germany&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Schlenkerla%2C%20Bamberg%2C%20Germany&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Schlenkerla%2C%20Bamberg%2C%20Germany&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Bamberg"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-006",
+      "tab": "pubs",
+      "name": "McSorley’s Old Ale House",
+      "short_line": "New York City, United States",
+      "country": "United States",
+      "lat": 40.7288,
+      "lng": -73.9897,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/McSorley%27s_Old_Ale_House_001_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-006.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMcSorley%27s_Old_Ale_House_001_crop.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Leonard J. DeFrancisci",
+        "attribution": "Photo: Leonard J. DeFrancisci, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:McSorley's Old Ale House 001 crop.jpg' confirms McSorley’s Old Ale House; desc: McSorley's Old Ale House, 15 East 7th Street, Manhattan, New York."
+      },
+      "facts": {
+        "one_liner": "East Village saloon since 1854—dark green front, gold window lettering, green barrels on 7th Street.",
+        "why_go": "McSorley’s Old Ale House at 15 East 7th Street bills itself as New York’s oldest continuously operated saloon (est. 1854), with sawdust floors, history-patched walls, and a famously short ale menu. The photo is the classic storefront: “McSORLEY’S OLD ALE HOUSE / ESTABLISHED 1854” board, multi-pane windows with gold slogans, open doorway, and green sidewalk barrels. Women were barred until a 1970 court fight; today it remains a first-come, cash-only East Village landmark.",
+        "best_time": "Weekday mid-afternoon usually means shorter waits than Friday–Saturday nights; it does not take reservations.",
+        "how_to_get_there": "15 East 7th Street, New York, NY 10003 (between Second and Third Avenues). Subway: 6 to Astor Place; R/W to 8th Street–NYU; F to 2nd Avenue.",
+        "good_to_know": "OPEN as of 2025–2026 (official: Mon–Sat 11am–1am, Sun noon–1am). Cash only; no reservations. Expect a line at peak times—plan accordingly.",
+        "official_or_tourism_url": "https://mcsorleysoldalehouse.nyc/",
+        "sources": [
+          "https://mcsorleysoldalehouse.nyc/",
+          "https://mcsorleysoldalehouse.nyc/contact-us/",
+          "https://www.timeout.com/newyork/bars/mcsorleys-old-ale-house"
+        ]
+      },
+      "ad": {
+        "destination_query": "McSorley's, New York City, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=McSorley's%2C%20New%20York%20City%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=McSorley's%2C%20New%20York%20City%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=McSorley's%2C%20New%20York%20City%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in New York City"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-007",
+      "tab": "pubs",
+      "name": "The Long Hall",
+      "short_line": "Dublin, Ireland",
+      "country": "Ireland",
+      "lat": 53.3398,
+      "lng": -6.2645,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/The_Long_Hall_Public_House_-_geograph.org.uk_-_4796156.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-007.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Long_Hall_Public_House_-_geograph.org.uk_-_4796156.jpg",
+        "license": "CC BY-SA 2.0",
+        "author": "Ian S",
+        "attribution": "Photo: Ian S, CC BY-SA 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:The Long Hall Public House - geograph.org.uk - 4796156.jpg' confirms The Long Hall; desc: The Long Hall Public House"
+      },
+      "facts": {
+        "one_liner": "Victorian Dublin pub on South Great George’s—ruby-red front, striped awnings, and gold script sign.",
+        "why_go": "The Long Hall at 51 South Great George’s Street has traded as a public house since 1766; Patrick Dolan’s 1879–1881 refit created the affluent Victorian interior of mahogany, mirrors, and clocks that Visit Dublin still highlights. The photo is the narrow street façade: deep red ground floor, “The Long Hall” in gold script with the number 51, red-and-white striped awnings on every floor, and twin doors flanking a central window. Locals and visitors still use it as a classic city-centre pint stop rather than a theme-park bar.",
+        "best_time": "Weekday afternoons for a calmer stand at the bar; Friday–Saturday evenings fill quickly. Daylight helps for the striped-awning exterior shot.",
+        "how_to_get_there": "51 South Great George’s Street, Dublin 2 (D02 DV74), between Dame Street and Aungier Street, near Dublin Castle. LUAS Green Line to Trinity or St Stephen’s Green; many city buses along George’s Street.",
+        "good_to_know": "OPEN as of 2025–2026 (recent tourism and local listings show regular daytime–evening hours; confirm by phone +353 1 475 1590 before late visits). Compact Victorian rooms—standing room common at peak.",
+        "official_or_tourism_url": "https://www.visitdublin.com/the-long-hall-pub",
+        "sources": [
+          "https://www.visitdublin.com/the-long-hall-pub",
+          "https://www.dublintown.ie/stories-guides/in-for-the-long-hall-250-years-of-a-dublin-pub/",
+          "https://www.dublintown.ie/business/the-long-hall/"
+        ]
+      },
+      "ad": {
+        "destination_query": "The Long Hall, Dublin, Ireland",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=The%20Long%20Hall%2C%20Dublin%2C%20Ireland&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=The%20Long%20Hall%2C%20Dublin%2C%20Ireland&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=The%20Long%20Hall%2C%20Dublin%2C%20Ireland&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Dublin"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-008",
+      "tab": "pubs",
+      "name": "U Fleků",
+      "short_line": "Prague, Czechia",
+      "country": "Czechia",
+      "lat": 50.0788,
+      "lng": 14.417,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Prag%2C_U_Flek%C5%AF_--_2019_--_6735.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-008.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APrag%2C_U_Flek%C5%AF_--_2019_--_6735.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Dietmar Rabich",
+        "attribution": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Prag, U Fleků -- 2019 -- 6735.jpg' confirms U Fleků; desc: This is a photo of a cultural monument of the Czech Republic,number:"
+      },
+      "facts": {
+        "one_liner": "Prague brewery-pub brewing since 1499—street clock spelling PIVOVAR U FLEKŮ under a golden bear.",
+        "why_go": "U Fleků on Křemencova is among Central Europe’s longest continuously brewing houses: written records begin in 1499 with maltster Vít Skřemenec, and the house still pours its house Flekovský dark lager (13°) with Old Bohemian food across multiple historic halls and a garden. The photo focuses on the ornate street clock—black ironwork, letters circling “PIVOVAR U FLEKŮ,” golden bear finial, and “Dej Bůh štěstí” on the side panel—mounted on the ochre façade. Prague City Tourism lists it as a landmark brewery-restaurant rather than a quiet neighbourhood bar.",
+        "best_time": "Late morning or early afternoon before tour groups peak; evenings and weekends are lively. Museum and cabaret need advance booking.",
+        "how_to_get_there": "Křemencova 11, Prague 1 (New Town / near Národní). Metro B to Národní třída; tram to Národní divadlo or Karlovo náměstí; short walk into Křemencova.",
+        "good_to_know": "OPEN daily 10:00–23:00 as of 2025–2026 per Prague City Tourism and the brewery (typically closed 24 Dec). Reservations recommended for halls; expect a tourist-heavy courtyard. Brewery museum and weekend cabaret are separate, bookable experiences.",
+        "official_or_tourism_url": "https://www.ufleku.cz/en/",
+        "sources": [
+          "https://www.ufleku.cz/en/",
+          "https://en.ufleku.cz/about-us/history-of-the-brewery-u-fleku/",
+          "https://prague.eu/en/objevujte/u-fleku-brewery-and-restaurant/"
+        ]
+      },
+      "ad": {
+        "destination_query": "U Fleku, Prague, Czechia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=U%20Fleku%2C%20Prague%2C%20Czechia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=U%20Fleku%2C%20Prague%2C%20Czechia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=U%20Fleku%2C%20Prague%2C%20Czechia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Prague"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-009",
+      "tab": "pubs",
+      "name": "Auerbachs Keller",
+      "short_line": "Leipzig, Germany",
+      "country": "Germany",
+      "lat": 51.3398,
+      "lng": 12.3754,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Leipzig%2C_Auerbachs_Keller%2C_Schriftzug%2C_3.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-009.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ALeipzig%2C_Auerbachs_Keller%2C_Schriftzug%2C_3.jpeg",
+        "license": "CC0",
+        "author": "Aisano",
+        "attribution": "Photo: Aisano, CC0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Leipzig, Auerbachs Keller, Schriftzug, 3.jpeg' confirms Auerbachs Keller; desc: Schriftzug an Auerbachs Keller in Leipzig. Ohne Blitz aufgenommen."
+      },
+      "facts": {
+        "one_liner": "Leipzig cellar tavern since 1525—Fraktur Schriftzug marks Goethe’s Faust haunt in Mädler-Passage.",
+        "why_go": "Auerbachs Keller began as physician Heinrich Stromer von Auerbach’s student wine cellar in 1525 beneath what is now Mädler-Passage. Goethe studied in Leipzig from 1765 and drew on the cellar’s Faust barrel-ride paintings (1625) for the Auerbachs Keller scene in Faust; bronze Faust/Mephisto figures still stand on the passage stairs. The photo is the exterior Schriftzug—dark Fraktur metal letters “Auerbachs / Keller” on a pale wall—so the visit starts at that named entrance before descending to Großer Keller, historic Weinstuben, and Mephisto Bar.",
+        "best_time": "Weekday lunch or early evening; Advent weekends are especially busy. Book for Großer Keller and Faust-themed tours.",
+        "how_to_get_there": "Mädler-Passage, Grimmaische Straße 2–4, 04109 Leipzig (city centre). Tram/S-Bahn to Augustusplatz or Markt; short walk into the passage.",
+        "good_to_know": "OPEN as of 2025–2026: Großer Keller typically Mon/Thu/Sun 12–22, Tue–Wed 17–22, Fri–Sat 12–23; Mephisto Bar has separate (often longer) hours—confirm on auerbachs-keller-leipzig.de. Historic wine rooms often need groups or guided programmes. 500th-anniversary programming has run in the mid-2020s.",
+        "official_or_tourism_url": "https://auerbachs-keller-leipzig.de/",
+        "sources": [
+          "https://auerbachs-keller-leipzig.de/",
+          "https://www.auerbachs-keller-leipzig.de/en/service/general/Interestin-facts.php",
+          "https://www.auerbachs-keller-leipzig.de/en/contact/address.php"
+        ]
+      },
+      "ad": {
+        "destination_query": "Auerbachs Keller, Leipzig, Germany",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Auerbachs%20Keller%2C%20Leipzig%2C%20Germany&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Auerbachs%20Keller%2C%20Leipzig%2C%20Germany&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Auerbachs%20Keller%2C%20Leipzig%2C%20Germany&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Leipzig"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-010",
+      "tab": "pubs",
+      "name": "The George Inn",
+      "short_line": "London Southwark, United Kingdom",
+      "country": "United Kingdom",
+      "lat": 51.5042,
+      "lng": -0.09,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/The_George_Inn_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-010.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_George_Inn_1.jpg",
+        "license": "CC BY-SA 2.0",
+        "author": "Ewan Munro from London, UK",
+        "attribution": "Photo: Ewan Munro from London, UK, CC BY-SA 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:The George Inn 1.jpg' confirms The George Inn; desc: Proper old galleried coaching inn, owned by the National Trust, and run by Greene King (hence, slightly disappointing beers, though the one they brew for this p"
+      },
+      "facts": {
+        "one_liner": "London’s last galleried coaching inn—white timber galleries above a cobbled Southwark courtyard.",
+        "why_go": "The George Inn on Borough High Street is London’s last remaining galleried coaching inn: a National Trust property leased to Greene King, rebuilt after the 1676 Southwark fire and still opening onto a cobbled yard. The photo shows the white façade with black framing, two tiers of open wooden galleries, hanging baskets, St George hanging sign, and picnic tables in the courtyard—exactly the coaching-inn silhouette visitors come to see. Dickens knew the site (mentioned in Little Dorrit); Borough Market and London Bridge sit minutes away.",
+        "best_time": "Dry midday or late afternoon for courtyard seating and clear gallery photos; Friday–Saturday evenings and market days are busiest. Book ahead for indoor meals.",
+        "how_to_get_there": "The George Inn Yard, 75–77 Borough High Street, Southwark, London SE1 1NH. Tube/rail: London Bridge (Northern, Jubilee, National Rail); short walk south along Borough High Street.",
+        "good_to_know": "OPEN as of 2025–2026 (Greene King typically Mon–Wed 11–23, Thu–Sat 11–00, Sun 11–23—confirm current hours). National Trust owns the building; the pub is run by Greene King tenants. Courtyard seating is weather-dependent; dog- and family-friendly per operator.",
+        "official_or_tourism_url": "https://www.nationaltrust.org.uk/visit/london/george-inn",
+        "sources": [
+          "https://www.nationaltrust.org.uk/visit/london/george-inn",
+          "https://www.greeneking.co.uk/pubs/greater-london/george-southwark",
+          "https://camra.org.uk/pubs/george-london-158364"
+        ]
+      },
+      "ad": {
+        "destination_query": "The George Inn, London, United Kingdom",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=The%20George%20Inn%2C%20London%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=The%20George%20Inn%2C%20London%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=The%20George%20Inn%2C%20London%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in London"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-011",
+      "tab": "pubs",
+      "name": "Delirium Café",
+      "short_line": "Brussels, Belgium",
+      "country": "Belgium",
+      "lat": 50.848,
+      "lng": 4.354,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Delirium_Cafe_in_Brussels_-_4592114611.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-011.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ADelirium_Cafe_in_Brussels_-_4592114611.jpg",
+        "license": "CC0",
+        "author": "Nicolas Vigier",
+        "attribution": "Photo: Nicolas Vigier, CC0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Delirium Cafe in Brussels - 4592114611.jpg' confirms Delirium Café; desc: Délirium Café, Brussels"
+      },
+      "facts": {
+        "one_liner": "Délirium Café: Impasse alley near Grand-Place; Guinness-record beer list since 2004.",
+        "why_go": "Delirium Café anchors Delirium Village in Impasse de la Fidélité / Getrouwheidsgang, a few hundred metres from Brussels’ Grand-Place. The pink-elephant façade on the narrow alley marks the bar named after Huyghe’s Delirium Tremens; Jeanneke Pis stands nearby. In January 2004 Guinness World Records certified it for 2,004 commercially available beers—still the claim visitors chase from the outdoor tables and entrance shown in the photo. Inside, the list runs to thousands of bottles and taps from Belgium and abroad.",
+        "best_time": "Late afternoon or weekday evenings are easier than Friday–Saturday nights, when the Impasse fills with groups. Summer evenings spill onto the alley; winter is more indoors-focused.",
+        "how_to_get_there": "Walk from Grand-Place / Bourse (about 5 minutes) into Impasse de la Fidélité 4A. Central Brussels metro (Bourse/Beurs, De Brouckère) and trams serve the area; no car access in the pedestrian alley.",
+        "good_to_know": "OPEN as of 2025–2026 (official Delirium Village hours listed; NYE 2025–26 events posted). No table reservations for the café. Crowds and noise are part of the visit; ask staff for the beer book if the list overwhelms.",
+        "official_or_tourism_url": "https://www.deliriumvillage.com/bar/delirium-cafe/",
+        "sources": [
+          "https://www.deliriumvillage.com/bar/delirium-cafe/",
+          "https://www.deliriumvillage.com/contact/",
+          "https://en.wikipedia.org/wiki/Delirium_Caf%C3%A9"
+        ]
+      },
+      "ad": {
+        "destination_query": "Delirium Cafe, Brussels, Belgium",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Delirium%20Cafe%2C%20Brussels%2C%20Belgium&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Delirium%20Cafe%2C%20Brussels%2C%20Belgium&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Delirium%20Cafe%2C%20Brussels%2C%20Belgium&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Brussels"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-012",
+      "tab": "pubs",
+      "name": "U Zlatého Tygra",
+      "short_line": "Prague, Czechia",
+      "country": "Czechia",
+      "lat": 50.0855,
+      "lng": 14.418,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/U_zlat%C3%A9ho_tygra_%28Star%C3%A9_M%C4%9Bsto%29-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-012.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AU_zlat%C3%A9ho_tygra_%28Star%C3%A9_M%C4%9Bsto%29-2.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Yair Haklai",
+        "attribution": "Photo: Yair Haklai, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:U zlatého tygra (Staré Město)-2.jpg' confirms U Zlatého Tygra; desc: U zlatého tygra (Staré Město)-2"
+      },
+      "facts": {
+        "one_liner": "Old Town pivnice on Husova; Hrabal haunt; Pilsner Urquell; Clinton–Havel 1994 visit.",
+        "why_go": "U Zlatého Tygra (At the Golden Tiger) is a classic Old Town pivnice at Husova 17, a short walk from Karlova and the tourist spine yet still a locals’ beer hall. Writer Bohumil Hrabal made it famous in his stories; on 11 January 1994 President Václav Havel brought Bill Clinton (and Madeleine Albright) here for Pilsner Urquell. The modest street façade in the photo matches the unflashy entrance regulars queue at—inside it’s standing-room beer culture more than a tourist showpiece.",
+        "best_time": "Opens 15:00 daily; arrive early if you want a seat. Weekday afternoons are calmer than weekend evenings.",
+        "how_to_get_there": "Husova 17, Praha 1–Staré Město. Metro A to Staroměstská or tram along Národní/Karlova corridor; walk from Old Town Square in a few minutes.",
+        "good_to_know": "OPEN as of 2025–2026 (official site and Prague City Tourism: daily 15:00–23:00). Phone reservations possible (+420 222 221 111); cash culture and table-sharing norms still apply. Expect Pilsner Urquell as the house pour.",
+        "official_or_tourism_url": "https://uzlatehotygra.cz/en",
+        "sources": [
+          "https://uzlatehotygra.cz/en",
+          "https://prague.eu/cs/objevujte/u-zlateho-tygra/",
+          "https://english.radio.cz/pub-u-zlateho-tygra-serving-great-and-good-and-regular-joes-over-150-years-8605129"
+        ]
+      },
+      "ad": {
+        "destination_query": "U Zlateho Tygra, Prague, Czechia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=U%20Zlateho%20Tygra%2C%20Prague%2C%20Czechia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=U%20Zlateho%20Tygra%2C%20Prague%2C%20Czechia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=U%20Zlateho%20Tygra%2C%20Prague%2C%20Czechia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Prague"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-013",
+      "tab": "pubs",
+      "name": "The Grapes",
+      "short_line": "Limehouse, London, United Kingdom",
+      "country": "United Kingdom",
+      "lat": 51.508,
+      "lng": -0.032,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Grapes%2C_Limehouse%2C_E14_%283679094059%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-013.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AGrapes%2C_Limehouse%2C_E14_%283679094059%29.jpg",
+        "license": "CC BY-SA 2.0",
+        "author": "Ewan Munro from London, UK",
+        "attribution": "Photo: Ewan Munro from London, UK, CC BY-SA 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Grapes, Limehouse, E14 (3679094059).jpg' confirms The Grapes; desc: A well-regarded riverside pub, specialising in fish dishes. Address: 76 Narrow Street (formerly Fore Street). Former Name(s): The Bunch of Grapes. Owner: Punch "
+      },
+      "facts": {
+        "one_liner": "Grade II Thames-side Limehouse pub on Narrow Street; Dickens link; McKellen leasehold.",
+        "why_go": "The Grapes sits at 76 Narrow Street, Limehouse, with a heated terrace that hangs over the Thames toward Canary Wharf and the City—the riverside exterior the photo shows. A pub has stood here for centuries; Charles Dickens knew the stretch and alluded to it in Our Mutual Friend. Leaseholder Sir Ian McKellen (with partners) keeps it as a traditional Victorian long-bar house; under-18s are not admitted.",
+        "best_time": "Lunch or early evening for river light on the deck; Monday 20:00 quiz nights are popular. Weekdays quieter than weekends.",
+        "how_to_get_there": "76 Narrow Street, London E14 8BP. DLR/National Rail to Limehouse (~10-minute walk) or buses along Commercial Road; limited street parking.",
+        "good_to_know": "OPEN as of 2025–2026 (official site hours Mon–Sat 12:00–23:00, Sun 12:00–22:30; CAMRA updated 2026). No under-18s; pub does not take table reservations. Grade II listed riverside building.",
+        "official_or_tourism_url": "https://www.thegrapes.co.uk/",
+        "sources": [
+          "https://www.thegrapes.co.uk/",
+          "https://www.thegrapes.co.uk/about.php",
+          "https://camra.org.uk/pubs/grapes-limehouse-155228"
+        ]
+      },
+      "ad": {
+        "destination_query": "The Grapes, Limehouse, London, United Kingdom",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=The%20Grapes%2C%20Limehouse%2C%20London%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=The%20Grapes%2C%20Limehouse%2C%20London%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=The%20Grapes%2C%20Limehouse%2C%20London%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Limehouse"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-014",
+      "tab": "pubs",
+      "name": "Sean’s Bar",
+      "short_line": "Athlone, Ireland",
+      "country": "Ireland",
+      "lat": 53.4239,
+      "lng": -7.9407,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Sean%27s_Bar%2C_Athlone%2C_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-014.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASean%27s_Bar%2C_Athlone%2C_2025.jpg",
+        "license": "CC BY 4.0",
+        "author": "(Oinkers42)",
+        "attribution": "Photo: (Oinkers42), CC BY 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Sean's Bar, Athlone, 2025.jpg' confirms Sean’s Bar; desc: Sean's Bar in Athlone, Ireland in 2025"
+      },
+      "facts": {
+        "one_liner": "Athlone Main Street pub; Guinness-certified oldest pub in Ireland (site claim AD 900).",
+        "why_go": "Sean’s Bar faces Main Street in Athlone beside the Shannon and Athlone Castle—the low street façade captured in a 2025 Commons photo. Proprietors claim a tavern on the site since AD 900; Guinness World Records certified it as the oldest pub in Ireland in 2004. Architectural inventories date the standing building around the early 18th century (c.1725), so visit for the living pub and the framed claim rather than a verified Dark Ages structure.",
+        "best_time": "Daytime for history displays and quieter pints; evenings for traditional music when scheduled. Closed Christmas Day.",
+        "how_to_get_there": "13 Main Street, Athlone, Co. Westmeath N37 V2C4. Train to Athlone station then short walk/taxi; on the Shannon Navigation for boat arrivals. M6 from Dublin (~1.5–2 h by car).",
+        "good_to_know": "OPEN as of 2025–2026 (official seansbar.ie hours: Mon–Thu 10:30–23:30, Fri–Sat 10:30–00:30, Sun 12:30–23:00). Walk-in only for the bar; optional paid experiences (Irish coffee talk, whiskey tasting) book separately.",
+        "official_or_tourism_url": "https://www.seansbar.ie/",
+        "sources": [
+          "https://www.seansbar.ie/",
+          "https://en.wikipedia.org/wiki/Sean%27s_Bar",
+          "https://www.bbc.com/travel/article/20190311-an-irish-pub-born-in-the-dark-ages"
+        ]
+      },
+      "ad": {
+        "destination_query": "Sean's Bar, Athlone, Ireland",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sean's%20Bar%2C%20Athlone%2C%20Ireland&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sean's%20Bar%2C%20Athlone%2C%20Ireland&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sean's%20Bar%2C%20Athlone%2C%20Ireland&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Athlone"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-015",
+      "tab": "pubs",
+      "name": "Het Elfde Gebod",
+      "short_line": "Antwerp, Belgium",
+      "country": "Belgium",
+      "lat": 51.221,
+      "lng": 4.401,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/%27Het_Elfde_Gebod%27_Antwerpen_%284378621091%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-015.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3A%27Het_Elfde_Gebod%27_Antwerpen_%284378621091%29.jpg",
+        "license": "CC BY 2.0",
+        "author": "FaceMePLS from The Hague, The Netherlands",
+        "attribution": "Photo: FaceMePLS from The Hague, The Netherlands, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:'Het Elfde Gebod' Antwerpen (4378621091).jpg' confirms Het Elfde Gebod; desc: Kathedraalcafé en heiligenbeelden museum aan de Torfbrug."
+      },
+      "facts": {
+        "one_liner": "Cathedral café on Torfbrug by Antwerp’s Onze-Lieve-Vrouwekathedraal; Belgian beer.",
+        "why_go": "Het Elfde Gebod (“The Eleventh Commandment”) occupies a tall Flemish façade on Torfbrug 10, steps from Antwerp’s Cathedral of Our Lady—the exterior and cathedral setting the photo records. Marketed as the Kathedraal location, it serves Belgian food and beers in a 16th-century merchant-house shell. Inside, shelves of saint statues and ecclesiastical kitsch give the café its nickname as a heiligenbeelden museum; a second riverside Elfde Gebod opened at Suikerrui 1 in December 2023.",
+        "best_time": "Lunch through early evening before cathedral closing crowds peak; Friday–Saturday nights busier with live music.",
+        "how_to_get_there": "Torfbrug 10, 2000 Antwerpen, beside the cathedral. Tram/metro to Groenplaats or Cathedral stop; short walk from Grote Markt.",
+        "good_to_know": "OPEN as of 2025–2026 (official elfdegebod.com lists daily service; cathedral site typically ~12:00–22:00, Fri–Sat sometimes to 23:00). Book ahead for dinner; distinguish Torfbrug (cathedral) from the newer Suikerrui riverside branch.",
+        "official_or_tourism_url": "https://elfdegebod.com/",
+        "sources": [
+          "https://elfdegebod.com/",
+          "https://elfdegebod.com/neem-contact-op-met/?lang=nl",
+          "https://elfdegebod.com/about-us/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Het Elfde Gebod, Antwerp, Belgium",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Het%20Elfde%20Gebod%2C%20Antwerp%2C%20Belgium&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Het%20Elfde%20Gebod%2C%20Antwerp%2C%20Belgium&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Het%20Elfde%20Gebod%2C%20Antwerp%2C%20Belgium&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Antwerp"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-016",
+      "tab": "pubs",
+      "name": "The Oxford Bar",
+      "short_line": "Edinburgh, United Kingdom",
+      "country": "United Kingdom",
+      "lat": 55.953,
+      "lng": -3.205,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/The_Oxford_Bar%2C_Edinburgh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-016.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Oxford_Bar%2C_Edinburgh.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Lokal_Profil",
+        "attribution": "Photo: Lokal_Profil, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:The Oxford Bar, Edinburgh.jpg' confirms The Oxford Bar; desc: The Oxford Bar, Edinburgh."
+      },
+      "facts": {
+        "one_liner": "Tiny New Town bar on Young Street; Rebus/Rankin favourite; historic stand-up interior.",
+        "why_go": "The Oxford Bar occupies a small Category B–listed frontage at 8 Young Street in Edinburgh’s New Town—the unassuming exterior in the photo. CAMRA rates the interior outstanding nationally: a cramped stand-up front bar little changed since the late 19th century, with a side sitting room. Ian Rankin’s Inspector Rebus drinks here, and Rankin himself is a regular—literary tourism without a theme-park makeover.",
+        "best_time": "Weekday afternoons for space in the tiny bar; evenings fill quickly. Daily noon–midnight per CAMRA (confirm by phone).",
+        "how_to_get_there": "8 Young Street, Edinburgh EH2 4JB, off Charlotte Square / Queen Street. Short walk from Princes Street or Haymarket; no step-free access.",
+        "good_to_know": "OPEN as of 2025–2026 (CAMRA last updated early 2026; hours listed noon–midnight daily). Children not admitted. Real ales; quiet, basic, and deliberately unflashy—cash/card norms vary, so ask.",
+        "official_or_tourism_url": "https://camra.org.uk/pubs/oxford-bar-edinburgh-150888",
+        "sources": [
+          "https://camra.org.uk/pubs/oxford-bar-edinburgh-150888",
+          "https://edinburgh.camra.org.uk/viewnode.php?id=187767",
+          "https://www.yelp.com/biz/oxford-bar-edinburgh"
+        ]
+      },
+      "ad": {
+        "destination_query": "The Oxford Bar, Edinburgh, United Kingdom",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=The%20Oxford%20Bar%2C%20Edinburgh%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=The%20Oxford%20Bar%2C%20Edinburgh%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=The%20Oxford%20Bar%2C%20Edinburgh%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Edinburgh"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-017",
+      "tab": "pubs",
+      "name": "Crown Liquor Saloon",
+      "short_line": "Belfast, United Kingdom",
+      "country": "United Kingdom",
+      "lat": 54.595,
+      "lng": -5.932,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/The_Crown_Liquor_Saloon%2C_Great_Victoria_Street%2C_Belfast_-_geograph.org.uk_-_2732488.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-017.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Crown_Liquor_Saloon%2C_Great_Victoria_Street%2C_Belfast_-_geograph.org.uk_-_2732488.jpg",
+        "license": "CC BY-SA 2.0",
+        "author": "Colin Park",
+        "attribution": "Photo: Colin Park, CC BY-SA 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:The Crown Liquor Saloon, Great Victoria Street, Belfast - geograph.org.uk - 2732488.jpg' confirms Crown Liquor Saloon; desc: The Crown Liquor Saloon, Great Victoria Street, Belfast"
+      },
+      "facts": {
+        "one_liner": "National Trust Victorian gin palace on Great Victoria Street; tiled façade and snugs.",
+        "why_go": "The Crown Liquor Saloon (Crown Bar) presents a polychromatic tiled street front and mosaic entrance at 46 Great Victoria Street—the exterior the photo shows. Refurbished as a Victorian gin palace in 1885 and owned by the National Trust since 1978, it is leased to Nicholson’s (Mitchells & Butlers). Inside are ten wooden snugs with bell pushes and match plates, stained glass, and gas lighting; the Grade A listed shell is as famous as the pints.",
+        "best_time": "Daytime for photographing the façade and snugs with fewer drinkers; evenings busier. National Trust calendar shows ongoing 2026 opening.",
+        "how_to_get_there": "46 Great Victoria Street, Belfast BT2 7BA, opposite the Europa Hotel / near Great Victoria Street station. Central Belfast buses and Glider stops nearby.",
+        "good_to_know": "OPEN as of 2025–2026 (National Trust listing live for Sep–Dec 2026; Nicholson’s operates the pub). Expect queues for popular snugs; exterior photo is the tiled Great Victoria Street front—not an interior shot.",
+        "official_or_tourism_url": "https://www.nationaltrust.org.uk/visit/northern-ireland/the-crown-bar",
+        "sources": [
+          "https://www.nationaltrust.org.uk/visit/northern-ireland/the-crown-bar",
+          "https://www.nicholsonspubs.co.uk/restaurants/scotlandandnorthernireland/thecrownliquorsaloonbelfast",
+          "https://en.wikipedia.org/wiki/Crown_Liquor_Saloon"
+        ]
+      },
+      "ad": {
+        "destination_query": "Crown Liquor Saloon, Belfast, United Kingdom",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Crown%20Liquor%20Saloon%2C%20Belfast%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Crown%20Liquor%20Saloon%2C%20Belfast%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Crown%20Liquor%20Saloon%2C%20Belfast%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Belfast"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-018",
+      "tab": "pubs",
+      "name": "Bar Marsella",
+      "short_line": "Barcelona, Spain",
+      "country": "Spain",
+      "lat": 41.3785,
+      "lng": 2.17,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/004_Bar_Marsella%2C_c._Sant_Pau_65_%28Barcelona%29%2C_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-018.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3A004_Bar_Marsella%2C_c._Sant_Pau_65_%28Barcelona%29%2C_interior.jpg",
+        "license": "CC BY 4.0",
+        "author": "Enric",
+        "attribution": "Photo: Enric, CC BY 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:004 Bar Marsella, c. Sant Pau 65 (Barcelona), interior.jpg' confirms Bar Marsella; desc: Bar Marsella, c. Sant Pau 65 (Barcelona), interior"
+      },
+      "facts": {
+        "one_liner": "El Raval absinthe bar on Carrer de Sant Pau; preserved late-19th-century interior.",
+        "why_go": "Bar Marsella at Carrer de Sant Pau 65 (El Raval) is one of Barcelona’s emblematic absinthe bars—the photo is the dusty, mirrored INTERIOR, not the street front. Oral tradition places a bar here since the early 1800s; documentary listings begin in the late 19th century (Anuario references from 1899). Artists including Picasso and Hemingway are linked to its bohemian reputation. In 2013 Barcelona City Council bought the building to keep the bar operating; hydraulic mosaic floors, wooden shelving, and aged bottles define the room you see.",
+        "best_time": "Evening absinthe service (city guide lists from 18:00 most days). Weeknights calmer than Friday–Saturday.",
+        "how_to_get_there": "Carrer de Sant Pau 65, 08001 Barcelona (Ciutat Vella / El Raval). Metro Liceu (L3) or Paral·lel; short walk from La Rambla into Sant Pau.",
+        "good_to_know": "OPEN as of 2025–2026 (Ajuntament / Meet Barcelona listing with hours; Ruta dels Emblemàtics status Obert). Absinthe is served with water, sugar, and fork—order deliberately. Interior is heritage-catalogued; treat décor as fragile.",
+        "official_or_tourism_url": "https://www.meet.barcelona/en/visit-and-love-it/points-interest-city/bar-marsella-92086038702",
+        "sources": [
+          "https://www.meet.barcelona/en/visit-and-love-it/points-interest-city/bar-marsella-92086038702",
+          "https://rutadelsemblematics.cat/barcelona-bar-marsella.html",
+          "https://guia.barcelona.cat/es/detall/bar-marsella_92086038702.html"
+        ]
+      },
+      "ad": {
+        "destination_query": "Bar Marsella, Barcelona, Spain",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bar%20Marsella%2C%20Barcelona%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bar%20Marsella%2C%20Barcelona%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bar%20Marsella%2C%20Barcelona%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Barcelona"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-019",
+      "tab": "pubs",
+      "name": "Pete’s Tavern",
+      "short_line": "New York City, United States",
+      "country": "United States",
+      "lat": 40.7367,
+      "lng": -73.9866,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Pete%27s_Tavern_%2851708610272%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-019.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APete%27s_Tavern_%2851708610272%29.jpg",
+        "license": "CC BY 2.0",
+        "author": "ajay_suresh",
+        "attribution": "Photo: ajay_suresh, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Pete's Tavern (51708610272).jpg' confirms Pete’s Tavern; desc: Pete's Tavern"
+      },
+      "facts": {
+        "one_liner": "Gramercy corner tavern since 1864; claims continuous NYC bar/restaurant operation.",
+        "why_go": "Pete’s Tavern occupies the corner of East 18th Street and Irving Place in Gramercy, less than five minutes from Union Square—the street exterior in the photo. A drinking room opened here in 1864 (building 1851); as Healy’s Café it was a haunt of O. Henry, who lived nearby at 55 Irving Place and is long associated with writing The Gift of the Magi in a booth. The house claims continuous operation through Prohibition as a florist-fronted speakeasy; the rosewood bar, tin ceiling, and tile floor remain signature fixtures.",
+        "best_time": "Lunch or early evening for the corner façade and patio; late nights busier. Outdoor café seasons spring–fall.",
+        "how_to_get_there": "129 East 18th Street, New York, NY 10003. Subway to Union Square (4/5/6/L/N/Q/R/W) then walk east; multiple buses on Third Avenue / 14th Street.",
+        "good_to_know": "OPEN as of 2025–2026 (official site: daily noon–2 am; kitchen closes 23:00 Sun–Thu, midnight Fri–Sat; Resy bookings into 2026). Corner exterior is the photo subject; interior booths and bar are upstairs/inside from the street view.",
+        "official_or_tourism_url": "https://www.petestavern.com/",
+        "sources": [
+          "https://www.petestavern.com/",
+          "https://www.petestavern.com/ourhistory",
+          "https://www.nyctourism.com/restaurants/petes-tavern/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Pete's Tavern, New York City, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Pete's%20Tavern%2C%20New%20York%20City%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Pete's%20Tavern%2C%20New%20York%20City%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Pete's%20Tavern%2C%20New%20York%20City%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in New York City"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    },
+    {
+      "id": "pubs-020",
+      "tab": "pubs",
+      "name": "In ’t Aepjen",
+      "short_line": "Amsterdam, Netherlands",
+      "country": "Netherlands",
+      "lat": 52.3765,
+      "lng": 4.9008,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Aepjen-amsterdam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/pubs/pubs-020.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AAepjen-amsterdam.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Paul2",
+        "attribution": "Photo: Paul2, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Aepjen-amsterdam.jpg' confirms In ’t Aepjen; desc: 't Aepjen at Zeedijk 1 in Amsterdam, a one of two surviving wooden houses in the city, built between 1546 and 1550. Since 1987, the ground floor is bar named In"
+      },
+      "facts": {
+        "one_liner": "Zeedijk wooden house (c.1546–50); café In ’t Aepjen on the ground floor since 1987.",
+        "why_go": "In ’t Aepjen occupies the ground floor of Zeedijk 1, one of Amsterdam’s last surviving timber-fronted houses, built between about 1546 and 1550—the wooden façade the photo shows. Owned by Vereniging Hendrick de Keyser since 1920 and restored 1986–87, the building’s timber frame and jutting storeys are the draw even before you order a jenever. The café opened after that restoration; upper floors connect to hotel use. Folklore ties the name to sailors and the saying “in de aap gelogeerd,” though historians note the house was not proven as an early inn.",
+        "best_time": "Daylight for the wooden elevation on Zeedijk; evenings for brown-café atmosphere. Near Centraal Station, so mornings can be quieter than late nights.",
+        "how_to_get_there": "Zeedijk 1, 1012 AN Amsterdam, at the start of Zeedijk by Nieuwmarkt/Red Light District. Walk from Amsterdam Centraal (~5–8 minutes) or metro Nieuwmarkt.",
+        "good_to_know": "OPEN as of 2025–2026 (Hendrick de Keyser feature June 2026 describes current Café In ’t Aepjen; traveller listings show daytime–late hours—confirm same-day). Rijksmonument wooden front: photograph from the street; ground floor is the café.",
+        "official_or_tourism_url": "https://www.hendrickdekeyser.nl/nieuws/huis-uitgelicht-het-aepgen",
+        "sources": [
+          "https://www.hendrickdekeyser.nl/nieuws/huis-uitgelicht-het-aepgen",
+          "https://nl.wikipedia.org/wiki/In_%27t_Aepjen",
+          "http://amsterdamsights.com/eatdrink/intaepjen.html"
+        ]
+      },
+      "ad": {
+        "destination_query": "In 't Aepjen, Amsterdam, Netherlands",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=In%20't%20Aepjen%2C%20Amsterdam%2C%20Netherlands&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=In%20't%20Aepjen%2C%20Amsterdam%2C%20Netherlands&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=In%20't%20Aepjen%2C%20Amsterdam%2C%20Netherlands&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Amsterdam"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-20T20:35:00-05:00"
+      }
+    }
+  ]
+}

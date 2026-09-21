@@ -227,6 +227,45 @@
         }
       ],
       "next": "Cities 061–080 toward 100"
+    },
+    "pubs": {
+      "live_file": "data/pubs.json",
+      "archive_dir": "data/decks/pubs/",
+      "approved_count": 20,
+      "catalog_target": 100,
+      "scale_target_met": false,
+      "mvp_ready": true,
+      "sets": [
+        {
+          "id": "pubs-set-001",
+          "file": "set-001.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "pubs-001",
+            "pubs-002",
+            "pubs-003",
+            "pubs-004",
+            "pubs-005",
+            "pubs-006",
+            "pubs-007",
+            "pubs-008",
+            "pubs-009",
+            "pubs-010",
+            "pubs-011",
+            "pubs-012",
+            "pubs-013",
+            "pubs-014",
+            "pubs-015",
+            "pubs-016",
+            "pubs-017",
+            "pubs-018",
+            "pubs-019",
+            "pubs-020"
+          ]
+        }
+      ],
+      "next": "Pubs 021–040 toward 100"
     }
   },
   "other_tabs": [
@@ -246,5 +285,5 @@
     "stray_key": "sos_stray_list",
     "scope": "on-device localStorage only; keyed by place id; survives daily rotation"
   },
-  "updated_at": "2026-09-20T19:29:54-05:00"
+  "updated_at": "2026-09-20T20:35:00-05:00"
 }
