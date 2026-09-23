@@ -305,6 +305,45 @@
         }
       ],
       "next": "Countries 021–040 toward 100"
+    },
+    "arenas": {
+      "live_file": "data/arenas.json",
+      "archive_dir": "data/decks/arenas/",
+      "approved_count": 20,
+      "catalog_target": 100,
+      "scale_target_met": false,
+      "mvp_ready": true,
+      "sets": [
+        {
+          "id": "arenas-set-001",
+          "file": "set-001.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "arenas-001",
+            "arenas-002",
+            "arenas-003",
+            "arenas-004",
+            "arenas-005",
+            "arenas-006",
+            "arenas-007",
+            "arenas-008",
+            "arenas-009",
+            "arenas-010",
+            "arenas-011",
+            "arenas-012",
+            "arenas-013",
+            "arenas-014",
+            "arenas-015",
+            "arenas-016",
+            "arenas-017",
+            "arenas-018",
+            "arenas-019",
+            "arenas-020"
+          ]
+        }
+      ],
+      "next": "Arenas 021–040 toward 100"
     }
   },
   "other_tabs": [
@@ -324,5 +363,5 @@
     "stray_key": "sos_stray_list",
     "scope": "on-device localStorage only; keyed by place id; survives daily rotation"
   },
-  "updated_at": "2026-09-20T21:29:00-05:00"
+  "updated_at": "2026-09-23T16:52:00-05:00"
 }
