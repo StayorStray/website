@@ -1,0 +1,1053 @@
+{
+  "tab": "parks",
+  "set": "set-001",
+  "created": "2026-09-23T18:40:50-05:00",
+  "count": 20,
+  "ids": [
+    "parks-001",
+    "parks-002",
+    "parks-003",
+    "parks-004",
+    "parks-005",
+    "parks-006",
+    "parks-007",
+    "parks-008",
+    "parks-009",
+    "parks-010",
+    "parks-011",
+    "parks-012",
+    "parks-013",
+    "parks-014",
+    "parks-015",
+    "parks-016",
+    "parks-017",
+    "parks-018",
+    "parks-019",
+    "parks-020"
+  ],
+  "cards": [
+    {
+      "id": "parks-001",
+      "tab": "parks",
+      "name": "Yellowstone National Park",
+      "short_line": "Wyoming, United States",
+      "country": "United States",
+      "lat": 44.428,
+      "lng": -110.5885,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Grand_Prismatic_Spring_and_Midway_Geyser_Basin_from_above.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-001.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AGrand_Prismatic_Spring_and_Midway_Geyser_Basin_from_above.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Brocken Inaglory",
+        "attribution": "Photo: Brocken Inaglory, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Grand Prismatic Spring and Midway Geyser Basin from above.jpg' confirms Yellowstone National Park; desc: Grand Prismatic Spring and Midway Geyser Basin; visual landmark proof (iconic park vista)"
+      },
+      "facts": {
+        "one_liner": "Midway Geyser Basin’s Grand Prismatic—rainbow rings of thermophiles around Yellowstone’s largest hot spring.",
+        "why_go": "The hero photo is Grand Prismatic Spring and Midway Geyser Basin from above: a deep blue center ringed by yellow, orange, and rusty microbial mats, with steam drifting over boardwalks and the Firehole River corridor. NPS notes Grand Prismatic is Yellowstone’s largest hot spring—roughly 200–330 feet across and more than 121 feet deep—colored by heat-loving thermophiles that grade from colorless and yellow in the hottest water to orange, brown, and green in cooler margins. From the Fairy Falls parking area, the Grand Prismatic Overlook Trail climbs about 105 feet over 0.6 miles for the classic aerial-style view that matches this image; the Midway boardwalks put you at spring level. Stay on boardwalks—hydrothermal water can cause severe burns.",
+        "best_time": "Late spring through early fall when park roads to Midway are open to regular vehicles (West Entrance–Madison typically mid-April through late October; confirm NPS road dates). Early morning for lighter parking and clearer steam views; midsummer midday can haze boardwalk views with steam.",
+        "how_to_get_there": "Fly into West Yellowstone (seasonal), Bozeman, Jackson, Cody, Billings, or Idaho Falls, then drive. Midway Geyser Basin sits on the Grand Loop between Madison and Old Faithful—about 30 minutes West Entrance to Madison, then south toward Old Faithful. Park at Midway for boardwalks or ~1 mile south at Fairy Falls for the overlook trail; parking is very limited 10 am–6 pm.",
+        "good_to_know": "Publicly visitable U.S. national park; entrance pass required (no prices listed here). No timed entry for Midway itself. Remain on boardwalks and designated trails; supervise children. Check NPS Current Conditions and road status before travel—seasonal closures and temporary trail restrictions can affect Fairy Falls beyond the overlook.",
+        "official_or_tourism_url": "https://www.nps.gov/places/000/grand-prismatic-spring.htm",
+        "sources": [
+          "https://www.nps.gov/places/000/grand-prismatic-spring.htm",
+          "https://www.nps.gov/thingstodo/yell-trail-grand-prismatic-overlook.htm",
+          "https://www.nps.gov/yell/planyourvisit/directions.htm",
+          "https://www.nps.gov/yell/planyourvisit/parkroads.htm"
+        ]
+      },
+      "ad": {
+        "destination_query": "West Yellowstone, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=West%20Yellowstone%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=West%20Yellowstone%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=West%20Yellowstone%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in West Yellowstone"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — Grand Prismatic / Midway rainbow hot spring from overlook (blue center, orange/rust rings, boardwalk, steam). NOT Old Faithful. Facts/NPS Grand Prismatic match THIS JPG. Ad West Yellowstone OK. Brocken Inaglory CC BY-SA 3.0."
+      }
+    },
+    {
+      "id": "parks-002",
+      "tab": "parks",
+      "name": "Yosemite National Park",
+      "short_line": "California, United States",
+      "country": "United States",
+      "lat": 37.8651,
+      "lng": -119.5383,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Tunnel_View%2C_Yosemite_Valley%2C_Yosemite_NP_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-002.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ATunnel_View%2C_Yosemite_Valley%2C_Yosemite_NP_-_Diliff.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Diliff",
+        "attribution": "Photo: Diliff, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Tunnel View, Yosemite Valley, Yosemite NP - Diliff.jpg' confirms Yosemite National Park; desc: View of the valley of Yosemite (from Tunnel View) in the Yosemite National Park, California, USA; visual landmark proof (iconic park vista)"
+      },
+      "facts": {
+        "one_liner": "Tunnel View’s classic Yosemite Valley frame—El Capitan, Bridalveil Fall, and Half Dome on the skyline.",
+        "why_go": "The hero photo is Tunnel View looking east into Yosemite Valley: El Capitan’s granite wall on the left, Bridalveil Fall and Cathedral Rocks on the right, and Half Dome centered on the far skyline—NPS’s most famous valley panorama. The overlook sits at the east portal of the nearly mile-long Wawona Tunnel on Wawona Road (Highway 41); the tunnel opened to the public in 1933 and is listed for its significant park design. NPS calls the view spectacular at sunset or after a storm clears, when mist and side-light cut the walls. No hike is required: parking and a short paved walk reach the railing, with a bronze tactile model of the valley nearby.",
+        "best_time": "Year-round by vehicle; spring for strong Bridalveil flow, clear winter days after storms for dramatic light. Arrive early or near dusk for parking—peak summer can bring thousands of visitors daily. Weekdays tend to be less congested than weekends.",
+        "how_to_get_there": "Drive into Yosemite Valley via Highway 41 from the south (Wawona Road); Tunnel View is the first major stop after exiting Wawona Tunnel toward the valley. Nearest major airports include Fresno (FAT) and Sacramento/San Francisco with longer drives. Follow NPS road and parking updates for valley congestion.",
+        "good_to_know": "Publicly visitable; park entrance fee/pass required (no prices listed). Yosemite is not using a season-wide timed entry reservation system in 2026—expect active traffic and parking management instead. Overlook is wheelchair accessible from designated parking.",
+        "official_or_tourism_url": "https://www.nps.gov/places/000/tunnel-view.htm",
+        "sources": [
+          "https://www.nps.gov/places/000/tunnel-view.htm",
+          "https://www.nps.gov/yose/planyourvisit/viewpoints.htm",
+          "https://nps.gov/yose/planyourvisit/reservations.htm"
+        ]
+      },
+      "ad": {
+        "destination_query": "Yosemite Valley, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Yosemite%20Valley%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Yosemite%20Valley%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Yosemite%20Valley%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Yosemite Valley"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — Tunnel View: El Cap left, Bridalveil/Cathedral Rocks right, Half Dome skyline. Facts match. Ad Yosemite Valley OK. Diliff CC BY-SA 3.0."
+      }
+    },
+    {
+      "id": "parks-003",
+      "tab": "parks",
+      "name": "Grand Canyon National Park",
+      "short_line": "Arizona, United States",
+      "country": "United States",
+      "lat": 36.0544,
+      "lng": -112.1401,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Grand_Canyon_South_Rim_at_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-003.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AGrand_Canyon_South_Rim_at_Sunset.jpg",
+        "license": "CC0",
+        "author": "Mgimelfarb",
+        "attribution": "Photo: Mgimelfarb, CC0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Grand Canyon South Rim at Sunset.jpg' confirms Grand Canyon National Park; desc: Grand Canyon South Rim at Sunset.; visual landmark proof (iconic park vista)"
+      },
+      "facts": {
+        "one_liner": "South Rim sunset—layered Colorado River canyon walls catching low orange and pink light.",
+        "why_go": "The hero photo is Grand Canyon’s South Rim at sunset: stepped cliffs and buttes glowing orange and rose as the sun drops across a mile-deep canyon cut by the Colorado River. NPS notes the South Rim averages about 7,000 feet elevation and is open 24 hours a day year-round around Grand Canyon Village, with free shuttle access to many overlooks. For sunset, parks staff recommend arriving up to 90 minutes early and staying after the sun sets—the sky and remaining light on pinnacles often intensify after the disk disappears. Popular Hermit Road viewpoints such as Hopi Point draw crowds; Mohave and Pima Points are often less congested alternatives with long west–east vistas.",
+        "best_time": "South Rim year-round; November–February is typically least crowded but colder and icy. Spring and fall balance milder weather with strong sunset light. Hermit Road is generally closed to private vehicles March 1–November 30 (use free Red Route shuttle).",
+        "how_to_get_there": "Fly into Flagstaff (FLG), Phoenix (PHX), or Las Vegas (LAS), then drive to Grand Canyon Village / South Rim (AZ-64). Park near the Visitor Center and use free Village, Kaibab, and Hermits Rest shuttles to rim overlooks. Lodging and camping in the village book early in peak seasons.",
+        "good_to_know": "Publicly visitable; entrance pass required (no prices listed). South Rim services operate year-round. Elevation can feel strenuous. Check NPS sunrise/sunset tables (Arizona stays on Mountain Standard Time year-round). Hermit Road: last outbound Red buses leave at sunset with a return sweep about one hour later in shuttle season.",
+        "official_or_tourism_url": "https://www.nps.gov/grca/planyourvisit/basicinfo.htm",
+        "sources": [
+          "https://www.nps.gov/grca/planyourvisit/basicinfo.htm",
+          "https://www.nps.gov/grca/planyourvisit/sunrise_set_moon.htm",
+          "https://www.nps.gov/grca/planyourvisit/shuttle-buses.htm"
+        ]
+      },
+      "ad": {
+        "destination_query": "Grand Canyon Village, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Grand%20Canyon%20Village%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Grand%20Canyon%20Village%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Grand%20Canyon%20Village%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Grand Canyon Village"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — South Rim sunset layered canyon want-to-go vista. Facts match. Ad Grand Canyon Village OK. Mgimelfarb CC0."
+      }
+    },
+    {
+      "id": "parks-004",
+      "tab": "parks",
+      "name": "Banff National Park",
+      "short_line": "Alberta, Canada",
+      "country": "Canada",
+      "lat": 51.4968,
+      "lng": -115.9281,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Moraine_Lake_Banff_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-004.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMoraine_Lake_Banff_National_Park.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Dylannother",
+        "attribution": "Photo: Dylannother, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Moraine Lake Banff National Park.jpg' confirms Banff National Park; desc: Moraine Lake thawing in the spring; visual landmark proof (iconic park vista)"
+      },
+      "facts": {
+        "one_liner": "Moraine Lake in Banff’s Valley of the Ten Peaks—turquoise meltwater, often ice-rimmed in spring thaw.",
+        "why_go": "The hero photo shows Moraine Lake thawing in spring: broken ice floes on still turquoise water beneath the jagged Ten Peaks, with rock rubble and sparse shoreline trees—not a midsummer crowded dock scene. Glacial silt (rock flour) suspended in meltwater scatters light to create the lake’s trademark blue-green when ice unlocks. Parks Canada treats Moraine Lake as a backcountry lakeshore destination: Moraine Lake Road is closed year-round to personal vehicles, with access by reserved Parks Canada shuttle, licensed commercial operators, or Moraine Lake Lodge guests. The classic rockpile shoreline and canoe dock area frame the Ten Peaks backdrop once the ice goes out.",
+        "best_time": "Parks Canada Moraine Lake shuttle season for 2026: June 1–October 12 (weather permitting)—prime for open water and peak turquoise. Early season (soon after ice-out) matches the thawing photo mood; midsummer is busiest. Lake Louise Lakeshore shuttles start earlier (May 15).",
+        "how_to_get_there": "Fly into Calgary (YYC), drive Trans-Canada Highway to Banff/Lake Louise. Check in at the Lake Louise Park and Ride (Lake Louise Ski Resort / 1 Whitehorn Road) for reserved Parks Canada shuttles to Moraine Lake; Roam transit and licensed operators also serve the area. Do not plan to drive a private car to the Moraine parking lot.",
+        "good_to_know": "Publicly visitable national park; Parks Canada entry pass plus a separate shuttle (or licensed operator) reservation are required for most visitors—no prices listed here. Moraine has pit toilets only—no cell service, Wi‑Fi, running water, or lighting. Book shuttle seats early; seats typically sell out.",
+        "official_or_tourism_url": "https://www.parks.canada.ca/pn-np/ab/banff/visit/parkbus/louise",
+        "sources": [
+          "https://www.parks.canada.ca/pn-np/ab/banff/visit/parkbus/louise",
+          "https://www.parks.canada.ca/pn-np/ab/banff/visit/parkbus/louise/faq",
+          "https://parks.canada.ca/pn-np/ab/banff/visit/les10-top10/louise"
+        ]
+      },
+      "ad": {
+        "destination_query": "Lake Louise, Canada",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Lake%20Louise%2C%20Canada&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Lake%20Louise%2C%20Canada&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Lake%20Louise%2C%20Canada&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Lake Louise"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — Moraine Lake Valley of the Ten Peaks with spring ice on turquoise water. Facts thaw/shuttle match. Ad Lake Louise OK. Dylannother CC BY-SA 4.0."
+      }
+    },
+    {
+      "id": "parks-005",
+      "tab": "parks",
+      "name": "Jasper National Park",
+      "short_line": "Alberta, Canada",
+      "country": "Canada",
+      "lat": 52.8734,
+      "lng": -117.9543,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Maligne_Lake%2C_Jasper_National_Park%2C_Alberta%2C_Canada2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-005.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMaligne_Lake%2C_Jasper_National_Park%2C_Alberta%2C_Canada2.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Joli Rumi",
+        "attribution": "Photo: Joli Rumi, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Maligne Lake, Jasper National Park, Alberta, Canada2.jpg' confirms Jasper National Park; desc: Maligne Lake, Jasper National Park, Alberta, Canada; visual landmark proof (iconic park vista)"
+      },
+      "facts": {
+        "one_liner": "Maligne Lake—largest natural lake in the Canadian Rockies, ringed by snow-capped peaks.",
+        "why_go": "The hero photo is Maligne Lake itself: a long, glacier-fed expanse of deep blue water framed by forested shores and snow-and-ice-capped mountains—the classic Jasper alpine-lake vista. Parks Canada calls Maligne the largest natural lake in the Canadian Rockies, about 22 km long, stretching past Spirit Island toward Coronet Glacier melt channels. Lodgepole pine and spruce around the north end shelter moose, Harlequin ducks, and other wildlife. Spirit Island—one of the Rockies’ most photographed islets—lies about 14 km up-lake with no road or trail access; tour boats or private non-motorized craft are the only ways to reach it, while the lakeshore day-use area matches the open water-and-peaks composition in the photo.",
+        "best_time": "Late May through mid-October for road access, boat cruises, and paddling; summer for fullest services. Winter brings cross-country skiing on Maligne Valley trails when conditions allow. Early morning for calm water reflections and wildlife along Maligne Lake Road.",
+        "how_to_get_there": "Base in Jasper townsite. Drive Highway 16 east briefly, then Maligne Lake Road about 48 km to the lakeshore (allow ~1–1.5 hours for wildlife delays and parking). Fly into Edmonton (YEG) or Calgary (YYC) and continue by road; seasonal rail and coach options serve Jasper. Boat cruises and rentals operate seasonally from the historic boathouse area.",
+        "good_to_know": "Publicly visitable; Parks Canada entry pass required for adults (youth admission policies apply—confirm current rules; no prices listed). Watch for wildlife jams on Maligne Lake Road. Boat cruise tickets are separate from park entry. Stay overnight in Jasper; day-use parking at the lake fills in peak season.",
+        "official_or_tourism_url": "https://parks.canada.ca/pn-np/ab/jasper/activ/itineraires-itineraries/lac-maligne",
+        "sources": [
+          "https://parks.canada.ca/pn-np/ab/jasper/activ/itineraires-itineraries/lac-maligne",
+          "https://www.jasper.travel/directory/maligne-lake-cruise/",
+          "https://www.banffjaspercollection.com/attractions/maligne-lake-cruise/faqs/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Jasper, Canada",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Jasper%2C%20Canada&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Jasper%2C%20Canada&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Jasper%2C%20Canada&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Jasper"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — Maligne Lake Jasper: long lake, forested shores, snow peaks (winter/ice mood). Commons-confirmed Maligne; facts lake+peaks match THIS JPG. Ad Jasper OK. Joli Rumi CC BY-SA 4.0."
+      }
+    },
+    {
+      "id": "parks-006",
+      "tab": "parks",
+      "name": "Torres del Paine National Park",
+      "short_line": "Magallanes, Chile",
+      "country": "Chile",
+      "lat": -51.0,
+      "lng": -73.0,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Cuernos_del_Paine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-006.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACuernos_del_Paine.jpg",
+        "license": "CC BY 2.0",
+        "author": "refractor",
+        "attribution": "Photo: refractor, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Cuernos del Paine.jpg' confirms Torres del Paine National Park; desc: Los Cuernos del Paine, Parque Nacional Torres del Paine, Patagonia, Chileincorrectly titled \"Torres del Paine\"; visual landmark proof (iconic park vista)"
+      },
+      "facts": {
+        "one_liner": "Los Cuernos del Paine—horn peaks with dark sedimentary caps over pale granite above Patagonian lakes.",
+        "why_go": "The hero photo shows Los Cuernos del Paine (the Horns), not the three Torres spires: sharp ridgelines with contrasting dark caps over lighter granite walls rising above lakes and steppe. CONAF describes the Paine massif as an independent mountain system shaped by glacial advance and retreat, with sedimentary rock high and granite below—the geologic recipe behind the Cuernos’ banded look. The park (created 1959; UNESCO Biosphere Reserve since 1978) pairs those horns with guanaco steppe, lenga forest, and icefields fed by the Southern Patagonian Ice Field. Day visitors and W-circuit hikers see the Cuernos from lakeshores and trail segments toward Refugio Los Cuernos and Valle Francés.",
+        "best_time": "Southern Hemisphere summer (roughly December–February) for longest daylight and fullest trail services; shoulder months (Oct–Nov, Mar–Apr) for fewer crowds and changeable weather. Winter visits are possible on authorized routes with winter protocols—confirm CONAF notices. Circuito Macizo Paine (O circuit) noted closed into late 2026 on CONAF channels—verify before booking multi-day treks.",
+        "how_to_get_there": "Fly into Punta Arenas, bus or drive to Puerto Natales (~250 km paved), then continue ~80–150 km to park gates (Laguna Amarga, Sarmiento, or Serrano approaches). Regular buses from Puerto Natales typically leave morning and early afternoon toward Laguna Amarga / Pudeto / administration. Buy entrance passes via Chile’s official Pases Parques system in advance.",
+        "good_to_know": "Publicly visitable national park; ticketed entry via Pases Parques (buy ahead—no prices listed). Overnight W/O trekking requires confirmed campsite/refuge reservations with authorized operators. Strict fire and camping rules; no drones without special authorization. Strong Patagonian wind year-round—pack layers.",
+        "official_or_tourism_url": "https://www.conaf.cl/parque_nacionales/parque-nacional-torres-del-paine/",
+        "sources": [
+          "https://www.conaf.cl/parque_nacionales/parque-nacional-torres-del-paine/",
+          "https://parquetorresdelpaine.cl/sistemas-de-reservas/",
+          "https://www.pasesparques.cl/es/puerto-natales-298/parque-nacional-torres-del-paine-3412"
+        ]
+      },
+      "ad": {
+        "destination_query": "Puerto Natales, Chile",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Puerto%20Natales%2C%20Chile&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Puerto%20Natales%2C%20Chile&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Puerto%20Natales%2C%20Chile&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Puerto Natales"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — Los Cuernos (horns with dark sedimentary caps over pale granite), NOT the three Torres towers. Facts correctly say Cuernos. Ad Puerto Natales OK. refractor CC BY 2.0."
+      }
+    },
+    {
+      "id": "parks-007",
+      "tab": "parks",
+      "name": "Iguazú National Park",
+      "short_line": "Misiones, Argentina",
+      "country": "Argentina",
+      "lat": -25.6953,
+      "lng": -54.4367,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/A_view_of_Iguazu_Falls_from_the_Argentina_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-007.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AA_view_of_Iguazu_Falls_from_the_Argentina_side.jpg",
+        "license": "CC BY 4.0",
+        "author": "Horacio Cambeiro",
+        "attribution": "Photo: Horacio Cambeiro, CC BY 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:A view of Iguazu Falls from the Argentina side.jpg' confirms Iguazú National Park; desc: A view of Iguazu Falls from the Argentina side; visual landmark proof (iconic park vista)"
+      },
+      "facts": {
+        "one_liner": "Argentina-side Iguazú Falls—jungle-framed cataracts and boardwalk circuits in Parque Nacional Iguazú.",
+        "why_go": "The hero photo is the Argentine side of Iguazú Falls: multiple horseshoe curtains of white water plunging into mist below subtropical Selva Paranaense canopy—the view from Área Cataratas walkways rather than a Brazilian panorama. Argentina’s Parque Nacional Iguazú (created 1934; UNESCO World Heritage 1984) protects more than 67,000 hectares of Atlantic Forest ecoregion around the falls on the border with Brazil. Ticketed circuits include the Upper Circuit (panoramic tops of the falls), Lower Circuit (closer spray and stairs sections), and Garganta del Diablo (Devil’s Throat) reached via the Ecological Train of the Jungle. The Argentine boardwalks weave among dozens of individual drops, matching the layered falls-through-forest composition in the photo.",
+        "best_time": "Year-round; park open every day including holidays. Shoulder seasons (roughly Apr–Jun, Aug–Sep) often balance flow and humidity; summer is hotter and wetter with fuller spray. Morning entry time slots help beat heat and crowds.",
+        "how_to_get_there": "Fly into Cataratas del Iguazú Airport (IGR) near Puerto Iguazú, or cross from Foz do Iguaçu, Brazil, with valid border documents. Buses from Puerto Iguazú terminal (Río Uruguay line) run frequently to Ruta Nacional 101 Km 142 Área Cataratas. On-site parking is available at the portal; tickets for general entry are sold online and at boletería.",
+        "good_to_know": "Publicly visitable; ticketed national park (entry includes open circuits and Ecological Train—no prices listed). Respect the time window on your ticket. General Área Cataratas hours typically 8:00–18:00 (last entry 16:00); extended hours on some peak dates. Insect repellent recommended; no pets inside. Circuit openings can change with weather/safety.",
+        "official_or_tourism_url": "https://www.argentina.gob.ar/parquesnacionales/nea/parque-nacional-iguazu",
+        "sources": [
+          "https://www.argentina.gob.ar/parquesnacionales/nea/parque-nacional-iguazu",
+          "https://www.argentina.gob.ar/parquesnacionales/nea/parque-nacional-iguazu/planea-tu-visita",
+          "https://iguazuargentina.com/planifica-tu-visita/faqs/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Puerto Iguazú, Argentina",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Puerto%20Iguaz%C3%BA%2C%20Argentina&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Puerto%20Iguaz%C3%BA%2C%20Argentina&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Puerto%20Iguaz%C3%BA%2C%20Argentina&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Puerto Iguazú"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — Argentina-side Iguazú multi-curtain falls through jungle canopy. Facts Área Cataratas match. Ad Puerto Iguazú OK. Horacio Cambeiro CC BY 4.0."
+      }
+    },
+    {
+      "id": "parks-008",
+      "tab": "parks",
+      "name": "Serengeti National Park",
+      "short_line": "Mara Region, Tanzania",
+      "country": "Tanzania",
+      "lat": -2.3333,
+      "lng": 34.8333,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Serengeti_National_Park_15_-_landscape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-008.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASerengeti_National_Park_15_-_landscape.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Thomas Fuhrmann",
+        "attribution": "Photo: Thomas Fuhrmann, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Serengeti National Park 15 - landscape.jpg' confirms Serengeti National Park; desc: Serengeti National Park, Tanzania - The image was taken during 5 weeks of traveling on an overlander camping tour through east and south Africa in 2015. - Die A; visual landmark proof (iconic park vista)"
+      },
+      "facts": {
+        "one_liner": "Serengeti savanna—endless grassland plains under big East African skies.",
+        "why_go": "The hero photo is classic Serengeti landscape: open savanna grassland rolling to the horizon under a wide sky, with scattered trees and the soft light of the plains—not a dense forest or crater rim scene. TANAPA highlights Serengeti for its grassland ecosystem and the Great Migration of more than a million wildebeest and zebra, plus Big Five wildlife and hundreds of bird species. The park is open year-round; dry-season light often clarifies these long views, while green-season rains renew the short-grass plains. Game drives across the central and southern plains deliver the same flat-to-rolling savanna geometry shown in the image.",
+        "best_time": "June–October dry season for easier road travel and concentrated wildlife viewing; January–February southern plains calving. Migration river crossings (western/northern corridors) typically peak mid-year but shift with rainfall—confirm current herd locations with operators.",
+        "how_to_get_there": "Fly into Kilimanjaro (JRO) or Arusha (ARK), then road safari or scheduled/charter flights to Seronera and other park airstrips. Overland circuits commonly enter via Naabi Hill and other gates from Arusha/Ngorongoro. Independent self-drive is uncommon for first-timers; most visitors join licensed safari operators. Gates typically close by 6 pm.",
+        "good_to_know": "Publicly visitable Tanzania National Parks (TANAPA) park; conservation fees and vehicle/guide arrangements apply (no prices listed)—book through official TANAPA channels or licensed operators. Stay overnight in park lodges/camps or just outside. Follow guide instructions; off-road driving rules vary by zone. Pack binoculars, sunscreen, and neutral clothing.",
+        "official_or_tourism_url": "https://www.tanzaniaparks.go.tz/en/serengeti",
+        "sources": [
+          "https://www.tanzaniaparks.go.tz/en/serengeti",
+          "https://www.tanzaniaparks.go.tz/plan-a-trip",
+          "https://www.tanzaniaparks.go.tz/tourism/visitor-information/tariff"
+        ]
+      },
+      "ad": {
+        "destination_query": "Arusha, Tanzania",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Arusha%2C%20Tanzania&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Arusha%2C%20Tanzania&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Arusha%2C%20Tanzania&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Arusha"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — Classic Serengeti open savanna plains + acacias; Commons File confirms park. Facts grassland ecosystem match. Ad Arusha gateway OK. Thomas Fuhrmann CC BY-SA 4.0."
+      }
+    },
+    {
+      "id": "parks-009",
+      "tab": "parks",
+      "name": "Kruger National Park",
+      "short_line": "Limpopo / Mpumalanga, South Africa",
+      "country": "South Africa",
+      "lat": -23.9884,
+      "lng": 31.5547,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kruger_National_Park_%28ZA%29%2C_Sonnenaufgang_--_2024_--_0038.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-009.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AKruger_National_Park_%28ZA%29%2C_Sonnenaufgang_--_2024_--_0038.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Dietmar Rabich",
+        "attribution": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Kruger National Park (ZA), Sonnenaufgang -- 2024 -- 0038.jpg' confirms Kruger National Park; desc: Sunrise in Kruger National Park, Mpumalanga, South AfricaPlanning for the national park began in the 1890s, when South African bishop Jacob Louis Grobler and ot; visual landmark proof (bushveld/landscape vista — replaced elephant close wildlife hero)"
+      },
+      "facts": {
+        "one_liner": "Kruger bushveld at sunrise—golden light over Lowveld trees, grass, and open savanna.",
+        "why_go": "The hero photo is a Kruger sunrise bushveld landscape: warm low light washing acacia and mixed woodland, pale grass, and open sky—habitat atmosphere rather than a close wildlife portrait. South African National Parks (SANParks) manages Kruger as one of Africa’s great self-drive and guided safari parks, with rest camps such as Skukuza anchoring the southern and central bushveld. Early morning is when temperatures are cooler, predators are often still active, and the same golden sidelight in the photo paints the vegetation. Day visitors and overnight guests explore tar and gravel loops from gates toward riverine corridors and open plains.",
+        "best_time": "May–September dry winter for easier wildlife spotting along water and clearer mornings; summer (Nov–Mar) for lush green bushveld and afternoon storms. Sunrise and the first hours after gate opening are prime for landscape light and game activity.",
+        "how_to_get_there": "Fly into Johannesburg (ORTIA/JNB) and drive to southern gates (e.g., Paul Kruger Gate toward Skukuza), or fly to Skukuza / nearby airfields when schedules allow. Self-drive rental cars and SANParks guided sunrise drives are common. Confirm current gate opening times seasonally with SANParks before departing—day visitors must exit by closing time.",
+        "good_to_know": "Publicly visitable; conservation fees and day-visit or overnight bookings via SANParks (no prices listed). Advance day-visit reservations recommended on busy holidays. Stay on roads; speed limits and gate curfews are enforced. Malaria precautions apply in much of Kruger—follow current health advice. Never exit vehicles except in designated rest-camp or picnic areas.",
+        "official_or_tourism_url": "https://www.sanparks.org/parks/kruger/what-to-do/day-visits",
+        "sources": [
+          "https://www.sanparks.org/parks/kruger/what-to-do/day-visits",
+          "https://www.sanparks.org/parks/kruger/travel/entrance-gates",
+          "https://www.sanparks.org/parks/kruger/travel/how-to-get-there"
+        ]
+      },
+      "ad": {
+        "destination_query": "Skukuza, South Africa",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Skukuza%2C%20South%20Africa&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Skukuza%2C%20South%20Africa&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Skukuza%2C%20South%20Africa&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Skukuza"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — Kruger bushveld sunrise habitat (intentional landscape vs wildlife close-up). Commons Sonnenaufgang Kruger 2024 confirms. Facts sunrise bushveld match. Ad Skukuza OK. Dietmar Rabich CC BY-SA 4.0."
+      }
+    },
+    {
+      "id": "parks-010",
+      "tab": "parks",
+      "name": "Plitvice Lakes National Park",
+      "short_line": "Lika-Senj, Croatia",
+      "country": "Croatia",
+      "lat": 44.8654,
+      "lng": 15.582,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Plitvice_Lakes_National_Park%2C_Croatia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-010.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APlitvice_Lakes_National_Park%2C_Croatia.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Epistola8",
+        "attribution": "Photo: Epistola8, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Plitvice Lakes National Park, Croatia.jpg' confirms Plitvice Lakes National Park; desc: Plitvice Lakes National Park, Croatia; visual landmark proof (iconic park vista)"
+      },
+      "facts": {
+        "one_liner": "Sixteen tufa-dammed lakes linked by turquoise falls—Croatia’s flagship UNESCO park.",
+        "why_go": "The hero photo matches Plitvice’s signature scene: stepped turquoise-to-emerald lakes cascading over living tufa barriers and waterfalls between forested shores. UNESCO and the park explain that calcium carbonate deposition—helped by mosses, algae, and bacteria—builds porous travertine (tufa) dams that continually reshape 16 named lakes in Upper and Lower groups. Park interpreters note Lower Lakes canyon walks often show surreal turquoise and deep-blue tones, while forest-wrapped Upper Lakes lean emerald green depending on light, depth, and dissolved matter. Wooden boardwalks, an electric boat on Kozjak, and a panoramic train stitch the viewpoints that produce this postcard composition.",
+        "best_time": "May–June and September–October for strong color, active waterfalls, and fewer peak-summer crowds. Arrive at your booked morning slot or later afternoon. Winter: Lower Lakes usually open; Upper Lakes often closed until roughly early April depending on weather.",
+        "how_to_get_there": "Drive or coach along state road D1 between Zagreb and Zadar/Split; bus stops serve Entrance 1 and Entrance 2. Nearest major airports include Zagreb (ZAG) and Zadar (ZAD). Buy timed e-tickets for your chosen entrance and visit window via the official park webshop before arrival.",
+        "good_to_know": "Publicly visitable; timed ticketed entry required (online strongly recommended; on-site if capacity remains—no prices listed). Ticket includes electric boat and panoramic train. Swimming is strictly prohibited; drones are not allowed. Validate your ticket at the selected entrance within the booked time window (limited lateness tolerance). Stay on marked paths to protect fragile tufa.",
+        "official_or_tourism_url": "https://np-plitvicka-jezera.hr/en/",
+        "sources": [
+          "https://np-plitvicka-jezera.hr/en/",
+          "https://np-plitvicka-jezera.hr/en/faq/",
+          "https://np-plitvicka-jezera.hr/en/amazing-facts-about-plitvice-lakes/",
+          "https://whc.unesco.org/en/list/98/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Plitvice Lakes, Croatia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Plitvice%20Lakes%2C%20Croatia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Plitvice%20Lakes%2C%20Croatia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Plitvice%20Lakes%2C%20Croatia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Plitvice Lakes"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — Plitvice turquoise lake + limestone canyon path (Lower Lakes character). Facts tufa lakes/boardwalks align. Ad Plitvice Lakes OK. Epistola8 CC BY-SA 4.0."
+      }
+    },
+    {
+      "id": "parks-011",
+      "tab": "parks",
+      "name": "Triglav National Park",
+      "short_line": "Julian Alps, Slovenia",
+      "country": "Slovenia",
+      "lat": 46.3833,
+      "lng": 13.8333,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Panorama_of_the_Triglav_National_park_including_Triglav.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-011.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APanorama_of_the_Triglav_National_park_including_Triglav.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Filip Troníček",
+        "attribution": "Photo: Filip Troníček, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Panorama of the Triglav National park including Triglav.jpg' confirms Triglav National Park; desc: Summer panorama of the Triglav National park including Triglav from the Šija peak; visual landmark proof (iconic park vista)"
+      },
+      "facts": {
+        "one_liner": "Slovenia’s only national park: summer Julian Alps ridges with Triglav (2,864 m) at the heart.",
+        "why_go": "The hero photo is a summer panorama of Triglav National Park with Mount Triglav itself in view—the three-headed limestone summit that names Slovenia’s only national park and is the country’s highest peak at 2,864 m. Official park pages place the reserve in the Eastern Julian Alps near Italy and Austria (~84,000 ha). Ridges and alpine meadows like the Šija viewpoint frame classic Julian Alps scenery; Lake Bohinj and the Soča catchments sit within or beside the park’s settled valleys. Hiking ranges from valley walks to demanding alpine routes—summiting Triglav needs fitness, early starts, and often a licensed mountain guide per park safety advice.",
+        "best_time": "Mid-May through October for snow-free high trails and summer panoramas matching the photo; winter brings ski touring and snow but many high routes need alpine skills. Check Julian Alps visitor guides and mountain forecasts before heading above the tree line.",
+        "how_to_get_there": "Gateway towns Bled and Bohinj (Bohinjsko jezero) host official Triglav National Park information centres; Dom Trenta serves the Soča side. Arrive via Ljubljana or Klagenfurt, then bus or car toward Bled/Bohinj/Kranjska Gora. Summer public-transport routes into the park are promoted on tnp.si—prefer buses over crowded valley parking.",
+        "good_to_know": "PUBLIC / OPEN — Slovenia’s only national park; visitors are guests under park rules. Info centres: Triglavska roža Bled, Bohinj (Stara Fužina), Dom Trenta. Stay on marked paths; Triglav summit is serious alpine terrain. Quiet zones and codes of conduct apply—check boards and the summer Julian Alps guide.",
+        "official_or_tourism_url": "https://www.tnp.si/en/visiting-park/",
+        "sources": [
+          "https://www.tnp.si/en/visiting-park/",
+          "https://www.tnp.si/en/park/basic-information/triglavski-narodni-park/",
+          "https://www.tnp.si/en/visiting-park/information-for-visitors/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Bled, Slovenia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bled%2C%20Slovenia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bled%2C%20Slovenia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bled%2C%20Slovenia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Bled"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — Summer Julian Alps panorama including Triglav massif (Commons Šija viewpoint). Facts match. Ad Bled OK. Filip Troníček CC BY-SA 4.0."
+      }
+    },
+    {
+      "id": "parks-012",
+      "tab": "parks",
+      "name": "Fiordland National Park",
+      "short_line": "South Island, New Zealand",
+      "country": "New Zealand",
+      "lat": -45.4167,
+      "lng": 167.7167,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Milford_Sound_in_Fiordland_National_Park_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-012.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMilford_Sound_in_Fiordland_National_Park_01.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Krzysztof Golik",
+        "attribution": "Photo: Krzysztof Golik, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Milford Sound in Fiordland National Park 01.jpg' confirms Fiordland National Park; desc: Milford Sound in Fiordland National Park, South Island of New Zealand; visual landmark proof (iconic park vista)"
+      },
+      "facts": {
+        "one_liner": "Milford Sound / Piopiotahi: sheer fiord walls, Mitre Peak, and glacial U-shaped valleys in Fiordland.",
+        "why_go": "The hero image shows Milford Sound / Piopiotahi inside Fiordland National Park—the classic drowned glacial valley with sheer rock walls dropping to dark water. DOC highlights iconic Mitre Peak rising ~1,692 m from the fiord, extreme rainfall (up to ~7 m/year), and underwater depths to ~265 m. Milford Road (SH94) from Te Anau is one of New Zealand’s great scenic drives (~120 km; allow ~2+ hours without stops) through Homer Tunnel to the foreshore walk and cruise terminal. Part of Te Wāhipounamu – South West New Zealand World Heritage Area.",
+        "best_time": "Summer (Dec–Feb) for longer daylight and more settled driving weather; Fiordland rain and cloud can hit any month—waterfalls are dramatic after rain. Winter brings snow/avalanche risk and possible SH94 closures; check road status before leaving Te Anau.",
+        "how_to_get_there": "Base in Te Anau (Fiordland National Park Visitor Centre). Drive or coach SH94 to Milford Sound / Piopiotahi; limited facilities at the sound itself. Parking near the boat terminal can be busy—DOC notes foreshore walking options and campsites along the highway (book ahead). No freedom camping within 200 m of the Milford Road.",
+        "good_to_know": "PUBLIC / OPEN — DOC-managed national park; day visitors welcome at Piopiotahi foreshore and cruise piers. Changeable weather, rockfall, and tsunami awareness apply at the sound. Drones need a permit. Mobile coverage is patchy along SH94—plan fuel and timing from Te Anau.",
+        "official_or_tourism_url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/places-to-go/milford-road-milford-sound-area/",
+        "sources": [
+          "https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/places-to-go/milford-road-milford-sound-area/",
+          "https://www.doc.govt.nz/footer-links/contact-us/visitor-centres/fiordland-national-park-visitor-centre/",
+          "https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/know-before-you-go/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Te Anau, New Zealand",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Te%20Anau%2C%20New%20Zealand&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Te%20Anau%2C%20New%20Zealand&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Te%20Anau%2C%20New%20Zealand&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Te Anau"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — Milford Sound / Piopiotahi fiord walls + Mitre Peak character. Facts DOC match. Ad Te Anau OK. Krzysztof Golik CC BY-SA 4.0."
+      }
+    },
+    {
+      "id": "parks-013",
+      "tab": "parks",
+      "name": "Tongariro National Park",
+      "short_line": "North Island, New Zealand",
+      "country": "New Zealand",
+      "lat": -39.2,
+      "lng": 175.6,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Tongariro_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-013.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ATongariro_National_Park.jpg",
+        "license": "CC0",
+        "author": "Jolaus",
+        "attribution": "Photo: Jolaus, CC0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Tongariro National Park.jpg' confirms Tongariro National Park; desc: Atzean Ngauruhoe mendia; visual landmark proof (iconic park vista)"
+      },
+      "facts": {
+        "one_liner": "NZ’s oldest park: alpine volcanic cones—Ngauruhoe’s steep cone defines the photo’s skyline.",
+        "why_go": "The Commons hero shows Tongariro’s alpine volcanic landscape with Mount Ngauruhoe’s symmetrical cone in view—the stark lava, scoria, and alpine desert that make this dual UNESCO World Heritage park famous. DOC presents Tongariro as New Zealand’s oldest national park, recognised for Māori cultural/spiritual values and outstanding volcanoes (Tongariro, Ngauruhoe, Ruapehu). Whakapapa Village is the main western gateway with the Tongariro National Park Visitor Centre; the Alpine Crossing and Northern Circuit traverse volcanic hazard zones—check GeoNet alert levels and track status.",
+        "best_time": "Late spring–early autumn (roughly Nov–April) for more settled Alpine Crossing conditions; May–October often needs alpine skills, ice axe/crampons, and guides. Volcanic and avalanche risks exist year-round—verify DOC alerts before you go.",
+        "how_to_get_there": "Drive ~4–5 hours from Auckland or Wellington to Whakapapa Village via SH47/SH48. Nearby bases: Waimarino (formerly National Park Village), Ohakune, Tūrangi. National buses serve the corridor; shuttles link towns to trackheads. Book Alpine Crossing shuttle/track use as DOC recommends; parking at Mangatepopo is time-limited in peak season.",
+        "good_to_know": "PUBLIC / OPEN — DOC national park; day walks and Great Walks available. Mountains are sacred to Ngāti Tūwharetoa—climbing Ngauruhoe/Tongariro summits is asked against. No dogs anywhere in the park. Book/check volcanic risk pages; drones need permits.",
+        "official_or_tourism_url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/",
+        "sources": [
+          "https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/",
+          "https://www.doc.govt.nz/footer-links/contact-us/visitor-centres/tongariro-national-park-visitor-centre/",
+          "https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/know-before-you-go/volcanic-risk-in-tongariro-national-park/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Tongariro National Park, New Zealand",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Tongariro%20National%20Park%2C%20New%20Zealand&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Tongariro%20National%20Park%2C%20New%20Zealand&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Tongariro%20National%20Park%2C%20New%20Zealand&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Tongariro National Park"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — Tongariro Alpine Crossing: Red Crater foreground + Ngauruhoe cone skyline. Facts Ngauruhoe volcanic landscape match. Ad Tongariro NP OK. Jolaus CC0."
+      }
+    },
+    {
+      "id": "parks-014",
+      "tab": "parks",
+      "name": "Shiretoko National Park",
+      "short_line": "Hokkaido, Japan",
+      "country": "Japan",
+      "lat": 44.1,
+      "lng": 145.1,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Shiretoko_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-014.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AShiretoko_National_Park.jpg",
+        "license": "Public Domain",
+        "author": "Trengarasu",
+        "attribution": "Photo: Trengarasu, Public Domain, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Shiretoko National Park.jpg' confirms Shiretoko National Park; desc: View of Shiretoko National Park. Mount Iō (right) and Mount Shiretoko (far left) seen from Sea of Okhotsk. Six seperate photos wer taken and stiched together wi; visual landmark proof (iconic park vista)"
+      },
+      "facts": {
+        "one_liner": "UNESCO peninsula: volcanic spine from Sea of Okhotsk—Mount Iō and Mount Shiretoko in view.",
+        "why_go": "The hero panorama looks across Shiretoko National Park from the Sea of Okhotsk side toward Mount Iō (Io-zan, ~1,562 m) and Mount Shiretoko (~1,254 m)—the harsh volcanic spine of Hokkaido’s northeastern peninsula. Japan National Parks and UNESCO describe cliffs plunging to the Okhotsk coast, brown-bear habitat, and a land–sea ecosystem inscribed as World Heritage in 2005. Utoro is the main west-coast base for sightseeing boats, the Nature Center, and Shiretoko Five Lakes boardwalks; Rausu serves the east coast and Nemuro Strait wildlife cruises.",
+        "best_time": "Late spring–autumn for hiking, Five Lakes boardwalks, and mountain views like the photo; Shiretoko Pass (Route 334) closes in winter heavy snow. Winter (Jan–Mar) is for drift-ice experiences from Utoro/Rausu—different scenery, same park.",
+        "how_to_get_there": "Fly to Memanbetsu or Nakashibetsu, then bus/car to Utoro (Shari) or Rausu. Cross-peninsula via Shiretoko Pass when open. Start at Shiretoko World Heritage Conservation Center or Nature Center in/near Utoro for maps and bear-season guidance.",
+        "good_to_know": "PUBLIC / OPEN — national park and UNESCO World Heritage with visitor centres and marked trails. Brown bears are common—follow Field House briefings at Five Lakes; guided options in peak bear season. Remote cape areas may be boat-access only. Pack layers; weather turns fast on the peninsula.",
+        "official_or_tourism_url": "https://www.japan.travel/national-parks/parks/shiretoko/explore/",
+        "sources": [
+          "https://www.japan.travel/national-parks/parks/shiretoko/explore/",
+          "https://whc.unesco.org/en/list/1193/",
+          "https://policies.env.go.jp/park/shiretoko/rausu-vc/english/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Utoro, Japan",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Utoro%2C%20Japan&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Utoro%2C%20Japan&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Utoro%2C%20Japan&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Utoro"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — Shiretoko from Sea of Okhotsk: volcanic peninsula coast/mountains (Commons Mount Iō / Mount Shiretoko stitch). Facts match. Ad Utoro OK. Trengarasu Public Domain."
+      }
+    },
+    {
+      "id": "parks-015",
+      "tab": "parks",
+      "name": "Zhangjiajie National Forest Park",
+      "short_line": "Hunan, China",
+      "country": "China",
+      "lat": 29.3167,
+      "lng": 110.4333,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Zhangjiajie_National_Forest_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-015.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AZhangjiajie_National_Forest_Park.jpg",
+        "license": "CC BY 2.0",
+        "author": "Kuruman from Tokyo, Japan",
+        "attribution": "Photo: Kuruman from Tokyo, Japan, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Zhangjiajie National Forest Park.jpg' confirms Zhangjiajie National Forest Park; desc: Zhangjiajie National Forest Park; visual landmark proof (iconic park vista)"
+      },
+      "facts": {
+        "one_liner": "Quartz-sandstone pillar peaks of Wulingyuan—China’s first national forest park, mist-clad towers.",
+        "why_go": "The hero shot is the signature pillar-peak forest: hundreds of narrow quartz-sandstone columns rising from wooded valleys—the landform that made Zhangjiajie National Forest Park and the wider Wulingyuan Scenic and Historic Interest Area world-famous. UNESCO records more than 3,000 sandstone pillars and peaks across Wulingyuan (many over 200 m), with ravines, streams, caves, and natural bridges. Yuanjiajie and Tianzi Mountain viewpoints deliver the classic pillar skylines; Golden Whip Stream walks the canyon floor beneath the towers. China’s first national forest park (est. 1982); Wulingyuan inscribed UNESCO World Heritage in 1992.",
+        "best_time": "Spring and autumn for clearer views and milder temperatures; summer is lush but hotter/hazier with peak crowds. Winter can bring ice and thinner crowds—mist often softens the pillars year-round.",
+        "how_to_get_there": "Fly or train to Zhangjiajie City, then transfer to Wulingyuan District gates (East/South entrances commonly used). Park eco-shuttles link major zones; cableways and the Bailong Elevator are optional paid vertical links. Allow at least one full day for Yuanjiajie/Tianzi pillar viewpoints.",
+        "good_to_know": "PUBLIC / VISITOR SITE — ticketed scenic area within a national forest park / UNESCO Wulingyuan. Real-name ticketing and multi-day passes are typical—confirm current entry rules. Stay on boardwalks; weather and cloud layers change pillar visibility hour to hour.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/640/",
+        "sources": [
+          "https://whc.unesco.org/en/list/640/",
+          "https://whhlyt.hunan.gov.cn/whhlyt/english/Tourism/NationalForestParks/202205/t20220530_24762927.html",
+          "https://national-parks.org/china/zhangjiajie/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Zhangjiajie, China",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Zhangjiajie%2C%20China&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Zhangjiajie%2C%20China&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Zhangjiajie%2C%20China&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Zhangjiajie"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — Zhangjiajie/Wulingyuan quartz-sandstone pillar forest want-to-go vista. Facts UNESCO pillars match. Ad Zhangjiajie OK. Kuruman CC BY 2.0."
+      }
+    },
+    {
+      "id": "parks-016",
+      "tab": "parks",
+      "name": "Jiuzhaigou Valley National Park",
+      "short_line": "Sichuan, China",
+      "country": "China",
+      "lat": 33.2,
+      "lng": 103.9,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-016.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3A1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Chensiyuan",
+        "attribution": "Photo: Chensiyuan, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons Quality image 'File:1 jiuzhaigou valley wu hua hai 2011b.jpg' — Five Flower Lake (Wǔhuā Hǎi), Rize Valley, Jiuzhaigou Valley National Park; wide coloured-lake shoreline + autumn alpine forest (replaced tight clear-water close-up File:Jiuzhaigou Valley.jpg)",
+        "credit": "Photo: Chensiyuan, CC BY-SA 4.0, via Wikimedia Commons"
+      },
+      "facts": {
+        "one_liner": "Five Flower Lake’s turquoise mosaic—submerged trunks, boardwalks, autumn forest in Jiuzhaigou.",
+        "why_go": "The hero shows Five Flower Lake (Wuhuahai / Wǔhuā Hǎi) in Jiuzhaigou’s Rize Valley: a wide turquoise multi-coloured basin, clear enough to reveal submerged trunks and lake-bottom travertine, edged by shoreline boardwalks and autumn alpine forest. The park’s English site places the lake at about 2,472 m elevation, roughly 5 m deep and 90,000 m², and attributes its shifting blues, greens, and other hues to travertine and uneven submerged plants. UNESCO’s World Heritage brief for Jiuzhaigou Valley (~72,000 ha, northern Sichuan) frames this fairyland of strange-coloured lakes and alpine forest—exactly the postcard scene in the photo.",
+        "best_time": "Peak visiting season is roughly April–mid-November for full valley access and lake colours; autumn foliage reflected on Five Flower Lake is especially prized. Arrive early for clearer water and fewer crowds on the boardwalks; check official hours before winter or after storms.",
+        "how_to_get_there": "Fly into Jiuzhai Huanglong Airport (JZH) or travel overland from Chengdu to Zhangzha / the park entrance. Inside the scenic area, sightseeing buses link valley nodes; Five Flower Lake sits on the Rize branch and is reached via park transport plus boardwalks. Overnight stays are outside the scenic core.",
+        "good_to_know": "PUBLIC / VISITOR SITE — ticketed national park; reserve real-name tickets via official channels and carry ID. Sightseeing transport inside is standard; no overnighting in the scenic area. Stay on boardwalks at Five Flower Lake to protect water quality. Confirm seasonal hours on en.jiuzhai.com.",
+        "official_or_tourism_url": "https://en.jiuzhai.com/about/more-about-jiuzhai/83-five-flower-lake",
+        "sources": [
+          "https://en.jiuzhai.com/about/more-about-jiuzhai/83-five-flower-lake",
+          "https://whc.unesco.org/en/list/637/",
+          "https://en.jiuzhai.com/about/visitor-information"
+        ]
+      },
+      "ad": {
+        "destination_query": "Jiuzhaigou, China",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Jiuzhaigou%2C%20China&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Jiuzhaigou%2C%20China&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Jiuzhaigou%2C%20China&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Jiuzhaigou"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:29-05:00",
+        "audit_notes": "PASS — Five Flower Lake (Wuhuahai) wide: turquoise multi-colour basin, submerged trunks, shoreline boardwalks, autumn alpine forest. Want-to-go park vista (BoOnE photo bar). Facts realigned to this crop; ad Jiuzhaigou OK. License CC BY-SA 4.0 Chensiyuan. Replaces prior clear-water close-up reject."
+      }
+    },
+    {
+      "id": "parks-017",
+      "tab": "parks",
+      "name": "Cairngorms National Park",
+      "short_line": "Scotland, United Kingdom",
+      "country": "United Kingdom",
+      "lat": 57.0833,
+      "lng": -3.6667,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Cairngorms_National_Park_%28P%C3%A0irc_N%C3%A0iseanta_a%27_Mhonaidh_Ruaidh%29_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-017.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACairngorms_National_Park_%28P%C3%A0irc_N%C3%A0iseanta_a%27_Mhonaidh_Ruaidh%29_23.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "FrDr",
+        "attribution": "Photo: FrDr, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Cairngorms National Park (Pàirc Nàiseanta a' Mhonaidh Ruaidh) 23.jpg' confirms Cairngorms National Park; desc: Cairngorms National Park (Pàirc Nàiseanta a' Mhonaidh Ruaidh); visual landmark proof (iconic park vista)"
+      },
+      "facts": {
+        "one_liner": "UK’s largest national park: Highland heather, pinewoods, and broad Cairngorm mountain vistas.",
+        "why_go": "The hero vista is classic Cairngorms National Park—open Highland slopes, moor, and mountain massif that define Scotland’s high plateau country. The Cairngorms National Park Authority calls it the UK’s largest national park, set in the heart of the Scottish Highlands with wilderness, heritage, and outdoor adventure year-round. Aviemore is the best-known gateway for Speyside walks, Rothiemurchus forests, and access toward the Cairngorm mountain range; the park mixes ancient Caledonian pinewood, heather moor, and arctic-alpine summits.",
+        "best_time": "Late spring–early autumn for long walking days and clearer high-plateau access; autumn brings colour and stags’ roaring. Winter offers snow sports and dark skies but mountain weather turns severe—check forecasts and avalanche advice for higher routes.",
+        "how_to_get_there": "Aviemore is on the Highland Main Line from Edinburgh/Glasgow/Inverness and on the A9. Local buses and the Cairngorm Mountain funicular/road serve higher trailheads when operating. Start planning at cairngorms.co.uk and Aviemore visitor information.",
+        "good_to_know": "PUBLIC / OPEN — national park with free countryside access under Scottish outdoor access rights; follow the Scottish Outdoor Access Code. Mountain weather changes fast above the tree line. Support local businesses—park guidance emphasises sustainable visiting among ~2 million annual visitors.",
+        "official_or_tourism_url": "https://cairngorms.co.uk/visiting/plan-your-visit",
+        "sources": [
+          "https://cairngorms.co.uk/visiting/plan-your-visit",
+          "https://cairngorms.co.uk/the-national-park/about",
+          "https://www.nature.scot/enjoying-outdoors/scottish-outdoor-access-code"
+        ]
+      },
+      "ad": {
+        "destination_query": "Aviemore, United Kingdom",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Aviemore%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Aviemore%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Aviemore%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Aviemore"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — Cairngorms heather, pine, highland plateau/mountain vista. Facts UK largest NP match. Ad Aviemore OK. FrDr CC BY-SA 4.0."
+      }
+    },
+    {
+      "id": "parks-018",
+      "tab": "parks",
+      "name": "Lake District National Park",
+      "short_line": "Cumbria, United Kingdom",
+      "country": "United Kingdom",
+      "lat": 54.4609,
+      "lng": -3.0886,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Derwentwater%2C_Lake_District%2C_Keswick_%28200509%29_%289451398665%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-018.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ADerwentwater%2C_Lake_District%2C_Keswick_%28200509%29_%289451398665%29.jpg",
+        "license": "CC BY 2.0",
+        "author": "Robert Linsdell from St. Andrews, Canada",
+        "attribution": "Photo: Robert Linsdell from St. Andrews, Canada, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Derwentwater, Lake District, Keswick (200509) (9451398665).jpg' confirms Lake District National Park; desc: Derwentwater, Lake District, Keswick, Cumbria, England; visual landmark proof (iconic park vista)"
+      },
+      "facts": {
+        "one_liner": "Derwentwater by Keswick: mirror lake, Cat Bells skyline, and Borrowdale fells in the Lakes.",
+        "why_go": "The hero photo is Derwentwater near Keswick—the broad northern Lake District lake with wooded shores and fells rising behind, a short walk from town. The Lake District National Park Authority describes Derwentwater as a shimmering jewel ~10 minutes from Keswick, flanked by Cat Bells to the west and Friar’s Crag viewpoints to the east, opening south into Borrowdale. Launch boats, lakeshore paths, and Miles Without Stiles easy-access routes make this one of the park’s most visited day-bases. The wider English Lake District is also a UNESCO cultural landscape.",
+        "best_time": "Late spring–early autumn for milder lakeshore walks and boat services; shoulder seasons mean fewer crowds. Winter can be atmospheric with snow on the fells—paths may be icy. Summer weekends in Keswick are busy; arrive early or use buses/boats.",
+        "how_to_get_there": "Keswick is linked by Stagecoach buses from Penrith (West Coast Main Line) and other Lakes towns. Derwentwater shore and Theatre by the Lake sit just south of the centre; Keswick Launch offers cruises and hop-on access to western-shore walks (e.g., toward Cat Bells). Check current information-centre locations in town.",
+        "good_to_know": "PUBLIC / OPEN — national park countryside with lakeshore paths and town facilities. Open-water swimming needs care—follow swim-safe guidance; check byelaws for craft. Check, Clean, Dry kit to limit invasive species. Friar’s Crag and Howrahs Path are popular accessible viewpoints.",
+        "official_or_tourism_url": "https://lakedistrict.gov.uk/explore/places-to-go/explore-derwentwater-and-keswick/",
+        "sources": [
+          "https://lakedistrict.gov.uk/explore/places-to-go/explore-derwentwater-and-keswick/",
+          "https://www.nationaltrust.org.uk/visit/lake-district/borrowdale-and-derwent-water/things-to-see-at-derwent-water-and-keswick",
+          "https://lakedistrict.gov.uk/explore/information-centres/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Keswick, United Kingdom",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Keswick%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Keswick%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Keswick%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Keswick"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — Derwentwater near Keswick: lake + wooded islands + Borrowdale fells. Facts Cat Bells/Derwentwater match. Ad Keswick OK. Robert Linsdell CC BY 2.0."
+      }
+    },
+    {
+      "id": "parks-019",
+      "tab": "parks",
+      "name": "Swiss National Park",
+      "short_line": "Engadin, Switzerland",
+      "country": "Switzerland",
+      "lat": 46.6667,
+      "lng": 10.1833,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-019.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABergtocht_van_Pras%C3%BCras%2C_door_het_Val_Trupchun_naar_Alp_Purcher_18-09-2019._%28actm.%29_07.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Agnes Monkelbaan",
+        "attribution": "Photo: Agnes Monkelbaan, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Bergtocht van Prasüras, door het Val Trupchun naar Alp Purcher 18-09-2019. (actm.) 07.jpg' confirms Swiss National Park; desc: Mountain tour from Prasüras, through the Val Trupchun to Alp Purcher in the Swiss National Park. Wildlife observation place.; visual landmark proof (iconic park vista)"
+      },
+      "facts": {
+        "one_liner": "Alps’ oldest national park: Val Trupchun wildlife valley from Prasüras toward Alp Purcher.",
+        "why_go": "The hero image matches a Val Trupchun mountain tour—alpine meadows, rock folds near Alp Purcher, and high Engadin walls inside the Swiss National Park. Founded 1 August 1914, it is the oldest national park in the Alps and Switzerland’s largest wilderness (~170 km²) with ~100 km of marked trails and IUCN Ia-level protection. Val Trupchun (from S-chanf / Prasüras) is renowned for red deer, ibex, chamois, and marmots; guided day walks follow the valley toward Alp Trupchun. Zernez holds the National Park Centre gateway exhibition and trail desk.",
+        "best_time": "Mid-June through October for open high trails and guided Trupchun walks; autumn rut concentrates deer interest. Winter: the park is generally closed to visitors (no skiing inside). Always check current trail condition boards before setting out.",
+        "how_to_get_there": "Rail to Zernez (Rhätische Bahn), then local buses toward Pass dal Fuorn trailheads—or to S-chanf for Val Trupchun. Park/start at free Prasüras car park (S-chanf, Parc Naziunal); private cars are banned deeper into the valley—walk or use Express Parc Naziunel (T19) toward Punt da Val da Scrigns. Start with the National Park Centre in Zernez.",
+        "good_to_know": "PUBLIC / OPEN (on marked trails only) — strict wilderness rules: stay on official paths; no dogs (even leashed); no camping/fires; no picking plants. Entry only via official entrances. Binoculars help for wildlife; hire available at the Centre. Mobile coverage is incomplete.",
+        "official_or_tourism_url": "https://nationalpark.ch/en/visit/",
+        "sources": [
+          "https://nationalpark.ch/en/visit/",
+          "https://nationalpark.ch/en/about/national-park/",
+          "https://nationalpark.ch/besuchen/exkursionen/trupchun/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Zernez, Switzerland",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Zernez%2C%20Switzerland&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Zernez%2C%20Switzerland&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Zernez%2C%20Switzerland&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Zernez"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS — Val Trupchun / Swiss National Park alpine valley toward Alp Purcher (Commons Prasüras tour). Facts match. Ad Zernez OK. Agnes Monkelbaan CC BY-SA 4.0."
+      }
+    },
+    {
+      "id": "parks-020",
+      "tab": "parks",
+      "name": "Picos de Europa National Park",
+      "short_line": "Asturias / Cantabria / León, Spain",
+      "country": "Spain",
+      "lat": 43.2,
+      "lng": -4.8333,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Sotres-Naranjo_de_Bulnes_al_fondo_PN_Picos_de_Europa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-020.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASotres-Naranjo_de_Bulnes_al_fondo_PN_Picos_de_Europa.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "AnaisGoepner",
+        "attribution": "Photo: AnaisGoepner, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Sotres-Naranjo de Bulnes al fondo PN Picos de Europa.jpg' confirms Picos de Europa National Park; desc: Picos de Europa; visual landmark proof (Naranjo de Bulnes / limestone peaks — replaced sheep-forward File:Picos de Europa.jpg)"
+      },
+      "facts": {
+        "one_liner": "Asturian limestone giants: Sotres village with Naranjo de Bulnes (Picu Urriellu) behind.",
+        "why_go": "The upgraded hero shows Sotres with Naranjo de Bulnes / Picu Urriellu (~2,519 m) rising behind—the iconic freestanding limestone tower of Picos de Europa National Park. Official park guidance names Sotres as the usual start for the most-used footpath toward Urriellu (Vega de Urriellu refuge approaches); Camarmeña viewpoints also frame the peak above the Cares. The park spans Asturias, Cantabria, and León with classic karst massifs, alpine pastures, and villages. Cangas de Onís is a primary Asturian gateway toward Covadonga and the northern valleys.",
+        "best_time": "June–September for more reliable high-mountain hiking weather toward Urriellu; shoulder months are quieter but fog and snow lingering are common. Winter/spring need full alpine awareness—AEMET issues Picos-specific forecasts including avalanche risk.",
+        "how_to_get_there": "From Oviedo toward Arriondas/Cangas de Onís, then AS-114 to Arenas de Cabrales and on to Poncebos/Tielve/Sotres. Santiago Airport (SCQ) or Asturias (OVD) plus car/bus are common. Seasonal public-transport plans may restrict private cars toward Covadonga Lakes—check current park notices. Sotres itself is reached by mountain road beyond Cabrales.",
+        "good_to_know": "PUBLIC / OPEN — national park with free trail access on marked routes; stay on paths in restricted-use zones. No wild camping (limited high bivouac rules above 1,600 m). Dogs on lead; swimming in park lakes/rivers generally prohibited. Summiting Urriellu is technical climbing—not a hike; village and trail views match the photo without climbing the tower.",
+        "official_or_tourism_url": "https://parquenacionalpicoseuropa.es/english/plan-your-visit",
+        "sources": [
+          "https://parquenacionalpicoseuropa.es/english/plan-your-visit",
+          "https://parquenacionalpicoseuropa.es/english/information-points",
+          "https://www.miteco.gob.es/en/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/picos-europa/guia-visitante/ruta-vega-urriellu.html"
+        ]
+      },
+      "ad": {
+        "destination_query": "Cangas de Onís, Spain",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Cangas%20de%20On%C3%ADs%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Cangas%20de%20On%C3%ADs%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Cangas%20de%20On%C3%ADs%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Cangas de Onís"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T18:40:00-05:00",
+        "audit_notes": "PASS special — Naranjo de Bulnes (Picu Urriellu) unmistakable tooth limestone left; Commons ObjectName Sotres–Naranjo al fondo; pastoral Sotres-area meadows/hut/cattle with Urriellu behind matches facts framing. Ad Cangas de Onís gateway OK. AnaisGoepner CC BY-SA 4.0."
+      }
+    }
+  ]
+}
