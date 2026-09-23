@@ -1,8 +1,8 @@
 {
-  "id": "arenas-set-001",
   "tab": "arenas",
-  "label": "Arenas — Set 1 (001–020)",
-  "card_ids": [
+  "set": "set-001",
+  "count": 20,
+  "ids": [
     "arenas-001",
     "arenas-002",
     "arenas-003",
@@ -24,9 +24,6 @@
     "arenas-019",
     "arenas-020"
   ],
-  "count": 20,
-  "auditor": "20/20 approved 2026-09-23 (Accuracy Auditor Sports Arenas MVP 001–020) — ARENAS MVP READY",
-  "created": "2026-09-23T16:51:00-05:00",
   "cards": [
     {
       "id": "arenas-001",
@@ -75,7 +72,8 @@
         "facts_verified": true,
         "license_ok": true,
         "auditor_status": "approved",
-        "audited_at": "2026-09-23T16:51:04-05:00"
+        "audited_at": "2026-09-23T16:51:04-05:00",
+        "audit_notes": "PASS — local JPG is Wembley arch+bowl from Olympic Way (not UKAD sign). Commons File:New Wembley Stadium and Arch from Olympic Way - geograph.org.uk - 2406320.jpg, David Hawgood, CC BY-SA 2.0, FoP-UK. Facts/ad London OK."
       }
     },
     {
@@ -175,7 +173,8 @@
         "facts_verified": true,
         "license_ok": true,
         "auditor_status": "approved",
-        "audited_at": "2026-09-23T16:51:04-05:00"
+        "audited_at": "2026-09-23T16:51:04-05:00",
+        "audit_notes": "PASS — local JPG shows post-reno stainless steel-louvre wrap (Dec 2024 MottaW). Commons File:M-estadio-santiago-bernabeu-diciembre-2024-c.jpg CC BY 4.0. Facts claim matches photo; ad Madrid OK. Spain FoP same standard as approved arenas-002."
       }
     },
     {
@@ -426,7 +425,8 @@
         "facts_verified": true,
         "license_ok": true,
         "auditor_status": "approved",
-        "audited_at": "2026-09-23T16:51:04-05:00"
+        "audited_at": "2026-09-23T16:51:04-05:00",
+        "audit_notes": "PASS — name Estadio Banorte; local JPG shows ESTADIO BANORTE rim + Banorte gate branding; Azteca historic alias in facts OK; ad Mexico City. Commons File:Estadio Azteca y sus alrededores 46.jpg, ProtoplasmaKid, CC BY 4.0 (Apr 2026 reopen)."
       }
     },
     {
@@ -438,29 +438,29 @@
       "lat": 41.9484,
       "lng": -87.6553,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Wrigley_Field_marquee_gates_IMG_2345.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Wrigley_Field_grandstand_exterior%2C_November_2025.jpg",
         "local_path": "images/arenas/arenas-009.jpg",
         "source": "Wikimedia Commons",
-        "source_page": "https://commons.wikimedia.org/wiki/File%3AWrigley_Field_marquee_gates_IMG_2345.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Wrigley_Field_grandstand_exterior,_November_2025.jpg",
         "license": "CC BY-SA 4.0",
-        "author": "SecretName101",
-        "attribution": "Photo: SecretName101, CC BY-SA 4.0, via Wikimedia Commons",
+        "author": "Spatms",
+        "attribution": "Photo: Spatms, CC BY-SA 4.0, via Wikimedia Commons",
         "verified_real_location": true,
         "shows_named_place": true,
         "ai_generated": false,
-        "proof_notes": "Commons file 'File:Wrigley Field marquee gates IMG 2345.jpg' confirms Wrigley Field; desc: Entrance gates beneath Wrigley's marquee"
+        "proof_notes": "Commons File:Wrigley Field grandstand exterior, November 2025.jpg (Spatms). Visually verified: classic Wrigley marquee ('WRIGLEY FIELD HOME OF CHICAGO CUBS') on green-steel grandstand exterior from plaza; stadium is unmistakable main subject. Replaces green gates/crowd crop."
       },
       "facts": {
-        "one_liner": "Cubs’ Friendly Confines—red Clark & Addison marquee gates, ivy walls, National Historic Landmark.",
-        "why_go": "Wrigley Field, opened in 1914 as Weeghman Park and home of the Chicago Cubs since 1916, is a National Historic Landmark and the oldest National League ballpark still standing. The photo is specifically the entrance gates beneath the iconic red marquee at Clark and Addison—installed in 1934 and as photographed a landmark as the ivy outfield walls. Non-game ballpark tours explore dugouts, clubhouse areas, press levels and the field when operations allow; Gallagher Way on the west side is a public gathering plaza on many dates. The Cubs still play a full MLB schedule here through 2025–2026.",
-        "best_time": "Daylight for marquee photos from the Clark/Addison corner; non-game-day tours usually offer the deepest access. Game days are atmospheric but crowded—arrive early if you only want the exterior marquee shot.",
+        "one_liner": "Cubs’ Friendly Confines—red Clark & Addison marquee on the green-steel grandstand, ivy walls, National Historic Landmark.",
+        "why_go": "Wrigley Field, opened in 1914 as Weeghman Park and home of the Chicago Cubs since 1916, is a National Historic Landmark and the oldest National League ballpark still standing. The photo shows the classic exterior: the iconic red WRIGLEY FIELD HOME OF CHICAGO CUBS marquee on the green-steel grandstand façade above Gate 3, seen from the brick plaza—unmistakably the ballpark rather than a gate-crowd crop. Non-game ballpark tours explore dugouts, clubhouse areas, press levels and the field when operations allow; Gallagher Way on the west side is a public gathering plaza on many dates. The Cubs still play a full MLB schedule here through 2025–2026.",
+        "best_time": "Daylight for marquee and grandstand exterior photos from the Clark/Addison plaza; non-game-day tours usually offer the deepest access. Game days are atmospheric but crowded—arrive early for a clear exterior shot.",
         "how_to_get_there": "1060 W. Addison St., Chicago, IL 60613 (Clark & Addison). CTA Red Line to Addison; buses along Clark and Addison. Tour meeting points are posted on cubs.com (often Gallagher Way / Clark Street side).",
-        "good_to_know": "OPEN for MLB games and official tours 2025–2026 (mlb.com/cubs). Marquee Gate is the classic photo spot; bag and security rules apply on game days. Confirm tour inventory on the Cubs ballpark tours page.",
+        "good_to_know": "OPEN for MLB games and official tours 2025–2026 (mlb.com/cubs). The marquee-and-grandstand exterior is the classic plaza photo; bag and security rules apply on game days. Confirm tour inventory on the Cubs ballpark tours page.",
         "official_or_tourism_url": "https://www.mlb.com/cubs/ballpark/tours",
         "sources": [
           "https://www.mlb.com/cubs/ballpark/tours",
           "https://www.nps.gov/places/wrigley-field.htm",
-          "https://www.mlb.com/cubs/news/marquee-at-wrigley-field-a-beloved-relic/c-71241044"
+          "https://commons.wikimedia.org/wiki/File:Wrigley_Field_grandstand_exterior,_November_2025.jpg"
         ]
       },
       "ad": {
@@ -476,7 +476,8 @@
         "facts_verified": true,
         "license_ok": true,
         "auditor_status": "approved",
-        "audited_at": "2026-09-21T00:06:47-05:00"
+        "audited_at": "2026-09-23T17:19:46-05:00",
+        "audit_notes": "PASS — hero marquee + green-steel grandstand (Spatms CC BY-SA 4.0); facts describe same exterior crop; HARD PHOTO BAR OK; ad Chicago."
       }
     },
     {
@@ -488,29 +489,29 @@
       "lat": 42.3467,
       "lng": -71.0972,
       "image": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Fenway_Park_exterior%2C_April_12%2C_2018_%2839613672440%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Fenway_Park_-_Yankees_vs_Red_Sox_%2851530420169%29.jpg",
         "local_path": "images/arenas/arenas-010.jpg",
         "source": "Wikimedia Commons",
-        "source_page": "https://commons.wikimedia.org/wiki/File:Fenway_Park_exterior%2C_April_12%2C_2018_(39613672440).jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Fenway_Park_-_Yankees_vs_Red_Sox_(51530420169).jpg",
         "license": "CC BY 2.0",
-        "author": "Daniel Hartwig from San Jose, CA, USA",
-        "attribution": "Photo: Daniel Hartwig from San Jose, CA, USA, CC BY 2.0, via Wikimedia Commons",
+        "author": "Kevin Read",
+        "attribution": "Photo: Kevin Read, CC BY 2.0, via Wikimedia Commons",
         "verified_real_location": true,
         "shows_named_place": true,
         "ai_generated": false,
-        "proof_notes": "Commons file 'File:Fenway Park exterior, April 12, 2018 (39613672440).jpg' confirms Fenway Park"
+        "proof_notes": "Commons File:Fenway Park - Yankees vs Red Sox (51530420169).jpg (Kevin Read). Visually verified: wide Fenway bowl at dusk with Green Monster, diamond, light towers, and packed stands. Replaces 1912 plaque/lettering facade crop."
       },
       "facts": {
-        "one_liner": "Boston Red Sox home since 1912—brick exterior on Jersey Street, Green Monster beyond Lansdowne.",
-        "why_go": "Fenway Park opened in 1912 and remains the oldest Major League Baseball ballpark still in use, home of the Boston Red Sox. The photo shows the packed brick and painted exterior streetscape typical of the Jersey Street / Yawkey Way approach rather than an in-bowl seat view. Official year-round guided tours (about an hour) typically highlight the Green Monster, Pesky’s Pole, press areas and the Living Museum when the route allows. Walking Lansdowne Street behind the Monster and circling Jersey Street gives the classic exterior circuit even without a ticket.",
-        "best_time": "Non-game weekdays for calmer exterior photos and fuller tour access; night games light the brick façades. Tours often pause or shorten three hours before first pitch on home dates—book ahead in summer.",
+        "one_liner": "Boston Red Sox home since 1912—Green Monster left-field wall and Fenway bowl under the light towers.",
+        "why_go": "Fenway Park opened in 1912 and remains the oldest Major League Baseball ballpark still in use, home of the Boston Red Sox. The photo is a wide in-bowl dusk view with the Green Monster left-field wall, diamond, light towers, and packed stands—Fenway’s signature architecture rather than a Jersey Street façade plaque. Official year-round guided tours (about an hour) typically highlight the Green Monster, Pesky’s Pole, press areas and the Living Museum when the route allows. Walking Lansdowne Street behind the Monster and circling Jersey Street still gives the classic exterior circuit even without a ticket.",
+        "best_time": "Non-game weekdays for calmer exterior photos and fuller tour access; dusk/night games light the Monster and brick façades. Tours often pause or shorten three hours before first pitch on home dates—book ahead in summer.",
         "how_to_get_there": "4 Jersey Street, Boston, MA 02215. MBTA Green Line (B/C/D) to Kenmore or Fenway; walk to Gate D / Team Store area for tours. Limited neighborhood parking—transit is strongly preferred.",
         "good_to_know": "OPEN for Red Sox games and public tours 2025–2026 (mlb.com/redsox). Exterior is freely viewable from public sidewalks; bag policies and street closures tighten on game days.",
         "official_or_tourism_url": "https://www.mlb.com/redsox/ballpark/tours",
         "sources": [
           "https://www.mlb.com/redsox/ballpark/tours",
           "https://www.mlb.com/redsox/ballpark/facts-figures",
-          "https://www.mlb.com/news/featured/fenway-park-guide-capacity-seating-chart-parking-and-more"
+          "https://commons.wikimedia.org/wiki/File:Fenway_Park_-_Yankees_vs_Red_Sox_(51530420169).jpg"
         ]
       },
       "ad": {
@@ -526,7 +527,8 @@
         "facts_verified": true,
         "license_ok": true,
         "auditor_status": "approved",
-        "audited_at": "2026-09-21T00:06:47-05:00"
+        "audited_at": "2026-09-23T17:19:46-05:00",
+        "audit_notes": "PASS — hero wide bowl + Green Monster at dusk (Kevin Read CC BY 2.0); facts describe in-bowl view; HARD PHOTO BAR OK; ad Boston."
       }
     },
     {
@@ -839,29 +841,29 @@
       "lat": 53.4631,
       "lng": -2.2913,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Outside_Old_Trafford_%2851398555412%29.jpg/1280px-Outside_Old_Trafford_%2851398555412%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumb1280",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Manchester_United_Old_Trafford.jpg",
         "local_path": "images/arenas/arenas-017.jpg",
         "source": "Wikimedia Commons",
-        "source_page": "https://commons.wikimedia.org/wiki/File%3AOutside_Old_Trafford_%2851398555412%29.jpg",
-        "license": "CC BY 2.0",
-        "author": "Daniel from Glasgow, United Kingdom",
-        "attribution": "Photo: Daniel from Glasgow, United Kingdom, CC BY 2.0, via Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Manchester_United_Old_Trafford.jpg",
+        "license": "CC BY-SA 3.0 de",
+        "author": "Arne Müseler / www.arne-mueseler.com",
+        "attribution": "Photo: Arne Müseler / www.arne-mueseler.com, CC BY-SA 3.0 de, via Wikimedia Commons",
         "verified_real_location": true,
         "shows_named_place": true,
         "ai_generated": false,
-        "proof_notes": "Commons file 'File:Outside Old Trafford (51398555412).jpg' confirms Old Trafford"
+        "proof_notes": "Commons File:Manchester United Old Trafford.jpg (Arne Müseler). Visually verified: aerial of Old Trafford itself — red bowl, pitch, white roof trusses, and 'WELCOME TO OLD TRAFFORD / THEATRE OF DREAMS' exterior signage. Replaces United Trinity statue-only crop."
       },
       "facts": {
-        "one_liner": "Manchester United’s Theatre of Dreams; United Trinity statue outside East Stand.",
-        "why_go": "Old Trafford in Trafford, Greater Manchester, is Manchester United’s home ground—the photo centres on the United Trinity bronze of George Best, Denis Law, and Sir Bobby Charlton outside the stadium, with WELCOME HOME club branding behind. Sculptor Philip Jackson’s statue was unveiled in May 2008 and remains a pilgrimage stop on Sir Matt Busby Way / the East Stand forecourt. Inside, the Old Trafford Tour & Museum (~70 minutes plus museum floors) visits dressing rooms, the players’ tunnel, pitchside dugouts, and the press area on non-home-match days.",
-        "best_time": "Sunday–Thursday openings are shorter than Friday–Saturday; avoid home matchdays when tours and museum close. Arrive early to photograph the Trinity statue before joining the Sir Alex Ferguson Stand reception.",
+        "one_liner": "Manchester United’s Theatre of Dreams—Old Trafford bowl, white roof trusses, and East Stand façade.",
+        "why_go": "Old Trafford in Trafford, Greater Manchester, is Manchester United’s home ground—the photo is an aerial of the stadium itself, with the red seating bowl, pitch, white cantilever roof trusses, and exterior WELCOME TO OLD TRAFFORD / THEATRE OF DREAMS branding. Official Old Trafford Tour & Museum visits (~70 minutes plus museum floors) cover dressing rooms, the players’ tunnel, pitchside dugouts, and the press area on non-home-match days. Sir Matt Busby Way and the East Stand forecourt remain the classic street-level approach for matchday atmosphere and exterior photos.",
+        "best_time": "Sunday–Thursday openings are shorter than Friday–Saturday; avoid home matchdays when tours and museum close. Clear daylight shows the roof lattice and bowl best from the Trafford side approaches.",
         "how_to_get_there": "Sir Matt Busby Way, Old Trafford, Manchester M16 0RA. Metrolink to Old Trafford or Wharfside; National Rail to Manchester United Football Ground on matchdays. Tour parking guidance uses postcode M16 0SZ (E2 car park when open).",
-        "good_to_know": "OPEN as of 2025–2026 (manutd.com Tour & Museum hours and booking live). Tours start from Sir Alex Ferguson Stand reception; allow time for bag checks. Fixture changes can cancel tour days—check confirmation email.",
+        "good_to_know": "OPEN as of 2025–2026 (manutd.com Tour & Museum hours and booking live). Tours start from Sir Alex Ferguson Stand reception; allow time for bag checks. Fixture changes can cancel tour days—check confirmation email. The United Trinity statue on the East Stand forecourt is a separate street-level stop, not the hero view.",
         "official_or_tourism_url": "https://www.manutd.com/en/club/visit-old-trafford/museum-stadium-tours",
         "sources": [
           "https://www.manutd.com/en/club/visit-old-trafford/museum-stadium-tours",
-          "https://philipjacksonsculptures.co.uk/public-commissions/the-united-trinity/",
-          "http://news.bbc.co.uk/1/hi/england/manchester/7426075.stm"
+          "https://commons.wikimedia.org/wiki/File:Manchester_United_Old_Trafford.jpg",
+          "https://en.wikipedia.org/wiki/Old_Trafford"
         ]
       },
       "ad": {
@@ -877,7 +879,8 @@
         "facts_verified": true,
         "license_ok": true,
         "auditor_status": "approved",
-        "audited_at": "2026-09-21T00:06:47-05:00"
+        "audited_at": "2026-09-23T17:19:46-05:00",
+        "audit_notes": "PASS — hero aerial stadium bowl (Arne Müseler CC BY-SA 3.0 de); not Trinity statue; facts describe aerial stadium; HARD PHOTO BAR OK; ad Manchester."
       }
     },
     {
@@ -889,29 +892,29 @@
       "lat": 53.4308,
       "lng": -2.9609,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Anfield_Stadium.jpg/1280px-Anfield_Stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumb1280",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Anfield_stadium_%28Liverpool%29_panorama_view_from_main_stand.jpg",
         "local_path": "images/arenas/arenas-018.jpg",
         "source": "Wikimedia Commons",
-        "source_page": "https://commons.wikimedia.org/wiki/File%3AAnfield_Stadium.jpg",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Anfield_stadium_(Liverpool)_panorama_view_from_main_stand.jpg",
         "license": "CC BY-SA 4.0",
-        "author": "Vojta.zurek",
-        "attribution": "Photo: Vojta.zurek, CC BY-SA 4.0, via Wikimedia Commons",
+        "author": "Yurificacion",
+        "attribution": "Photo: Yurificacion, CC BY-SA 4.0, via Wikimedia Commons",
         "verified_real_location": true,
         "shows_named_place": true,
         "ai_generated": false,
-        "proof_notes": "Commons file 'File:Anfield Stadium.jpg' confirms Anfield"
+        "proof_notes": "Commons File:Anfield stadium (Liverpool) panorama view from main stand.jpg (Yurificacion). Visually verified: fuller Anfield bowl — red seats spelling L.F.C., Sir Kenny Dalglish Stand fascia, pitch. Replaces Kop/Paisley Gateway entrance crop."
       },
       "facts": {
-        "one_liner": "Liverpool FC’s Anfield: The Kop façade, Paisley Gateway, and stadium tours.",
-        "why_go": "Anfield in Liverpool’s Anfield district is Liverpool FC’s home—the street-level corner in the photo shows The Kop stand lettering, club crest, Stadium Tours Reception, and the ornate Paisley Gateway honouring former manager Bob Paisley. The Kop end remains the club’s best-known support terrace; guided LFC Stadium Tours & Museum visit the This Is Anfield sign, players’ tunnel, dugouts, dressing room, and trophy displays on non-restricted days. Matchday and Legends experiences are bookable separately through the club’s tour system.",
-        "best_time": "Weekday tour slots for quieter streets around the Paisley Gateway; Premier League home weekends for Kop atmosphere. Museum-only tickets suit visitors when full stadium tours are sold out.",
+        "one_liner": "Liverpool FC’s Anfield—full red bowl, The Kop’s L.F.C. seats, and Sir Kenny Dalglish Stand.",
+        "why_go": "Anfield in Liverpool’s Anfield district is Liverpool FC’s home—the photo is a fuller interior bowl panorama from the Main Stand side, with red seating, The Kop’s L.F.C. lettering, Sir Kenny Dalglish Stand fascia, and the pitch (not a street-level Kop/Paisley Gateway crop). Guided LFC Stadium Tours & Museum visit the This Is Anfield sign, players’ tunnel, dugouts, dressing room, and trophy displays on non-restricted days. Matchday and Legends experiences are bookable separately through the club’s tour system.",
+        "best_time": "Weekday tour slots for quieter access; Premier League home weekends for Kop atmosphere. Museum-only tickets suit visitors when full stadium tours are sold out.",
         "how_to_get_there": "Anfield Road / Walton Breck Road area, Liverpool L4 0TH. Bus corridors from Liverpool city centre (Queen Square / Lime Street); limited nearby parking on matchdays—use park-and-ride or walk from Sandhills / Kirkdale rail where practical.",
-        "good_to_know": "OPEN as of 2025–2026 (liverpoolfc.com / bookings.liverpoolfc.com tour calendar listing autumn 2026 slots). External memorials such as the Paisley Gateway are outside the paid tour route—photograph them from the street before entry.",
+        "good_to_know": "OPEN as of 2025–2026 (liverpoolfc.com / bookings.liverpoolfc.com tour calendar). Street-level landmarks such as the Paisley Gateway and Kop façade are separate exterior stops before the paid tour—photograph them from the pavement; they are not the hero image.",
         "official_or_tourism_url": "https://www.liverpoolfc.com/stadium-tours",
         "sources": [
           "https://www.liverpoolfc.com/stadium-tours",
           "https://bookings.liverpoolfc.com/stadiumtours/booking/default.htm",
-          "https://www.liverpoolfc.com/news/first-team/162535-tribute-75-years-to-the-day-bob-arrived"
+          "https://commons.wikimedia.org/wiki/File:Anfield_stadium_(Liverpool)_panorama_view_from_main_stand.jpg"
         ]
       },
       "ad": {
@@ -927,7 +930,8 @@
         "facts_verified": true,
         "license_ok": true,
         "auditor_status": "approved",
-        "audited_at": "2026-09-21T00:06:47-05:00"
+        "audited_at": "2026-09-23T17:19:46-05:00",
+        "audit_notes": "PASS — hero bowl panorama (Yurificacion CC BY-SA 4.0); facts describe bowl / Kop seats / Dalglish Stand; HARD PHOTO BAR OK; ad Liverpool."
       }
     },
     {
@@ -1030,5 +1034,6 @@
         "audited_at": "2026-09-21T00:06:47-05:00"
       }
     }
-  ]
+  ],
+  "note": "hero interest swaps 009/010/017/018 2026-09-23"
 }
