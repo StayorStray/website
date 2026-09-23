@@ -344,6 +344,45 @@
         }
       ],
       "next": "Arenas 021–040 toward 100"
+    },
+    "beaches": {
+      "live_file": "data/beaches.json",
+      "archive_dir": "data/decks/beaches/",
+      "approved_count": 20,
+      "catalog_target": 100,
+      "scale_target_met": false,
+      "mvp_ready": true,
+      "sets": [
+        {
+          "id": "beaches-set-001",
+          "file": "set-001.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "beaches-001",
+            "beaches-002",
+            "beaches-003",
+            "beaches-004",
+            "beaches-005",
+            "beaches-006",
+            "beaches-007",
+            "beaches-008",
+            "beaches-009",
+            "beaches-010",
+            "beaches-011",
+            "beaches-012",
+            "beaches-013",
+            "beaches-014",
+            "beaches-015",
+            "beaches-016",
+            "beaches-017",
+            "beaches-018",
+            "beaches-019",
+            "beaches-020"
+          ]
+        }
+      ],
+      "next": "Beaches 021–040 toward 100"
     }
   },
   "other_tabs": [
@@ -363,5 +402,5 @@
     "stray_key": "sos_stray_list",
     "scope": "on-device localStorage only; keyed by place id; survives daily rotation"
   },
-  "updated_at": "2026-09-23T16:52:00-05:00"
+  "updated_at": "2026-09-23T18:04:08-05:00"
 }

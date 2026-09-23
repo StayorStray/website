@@ -1,1 +1,863 @@
-[]
+[
+  {
+    "id": "beaches-001",
+    "tab": "beaches",
+    "name": "Whitehaven Beach",
+    "short_line": "Whitsunday Island, Australia",
+    "country": "Australia",
+    "lat": -20.2889,
+    "lng": 149.0375,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Whitehaven_Beach%2C_Whitsunday_Island%2C_Queensland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-001.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AWhitehaven_Beach%2C_Whitsunday_Island%2C_Queensland.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Slug69",
+      "attribution": "Photo: Slug69, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Whitehaven Beach, Whitsunday Island, Queensland.jpg' confirms Whitehaven Beach; desc: Whitehaven Beach on Whitsunday Island, Queensland"
+    },
+    "facts": {
+      "one_liner": "Whitsunday Island’s ~7 km silica-sand shore—white sand, turquoise shallows, forested hills.",
+      "why_go": "Whitehaven Beach runs along the south-east side of Whitsunday Island inside Whitsunday Islands National Park, in the Great Barrier Reef World Heritage Area. The photo matches the classic day-trip scene: brilliant white silica sand, clear turquoise shallows, green forested ridges across the bay, and tour boats and yachts at anchor. Tourism Whitsundays notes the sand is renowned as pure silica that stays cool underfoot, and many full-day trips pair the beach with nearby Tongue Bay and the Hill Inlet lookout for the swirling sand-and-tide view. There is no public ferry; visitors arrive by commercial tour, yacht, or scenic flight from Airlie Beach, Hamilton Island, or Daydream Island.",
+      "best_time": "April–October for milder temperatures and lower humidity. November–March is warmer and wetter; marine-stinger risk is higher roughly November–May—follow crew and park safety advice.",
+      "how_to_get_there": "Fly into Whitsunday Coast Airport (Proserpine) for Airlie Beach/Shute Harbour, or Great Barrier Reef Airport on Hamilton Island. From Airlie Beach, Shute Harbour, Hamilton Island, or Daydream Island, join a boat, high-speed, sailing, or scenic-flight day trip—there is no scheduled public ferry direct to Whitehaven.",
+      "good_to_know": "Publicly visitable national-park beach (day-use and camping by permit). Anchor access is possible at all tides; nearest public moorings are at Tongue Bay. Check Queensland Parks alerts and marine forecasts before departing; wear protective clothing when swimming in stinger season.",
+      "official_or_tourism_url": "https://www.tourismwhitsundays.com.au/products/whitehaven-beach",
+      "sources": [
+        "https://www.tourismwhitsundays.com.au/products/whitehaven-beach",
+        "https://www.tourismwhitsundays.com.au/plan/visitor-information/faqs",
+        "https://parks.qld.gov.au/parks/whitsunday-islands/attractions/whitehaven-beach-day-use-area"
+      ]
+    },
+    "ad": {
+      "destination_query": "Airlie Beach, Australia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Airlie%20Beach%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Airlie%20Beach%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Airlie%20Beach%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Airlie Beach"
+    }
+  },
+  {
+    "id": "beaches-002",
+    "tab": "beaches",
+    "name": "Navagio Beach",
+    "short_line": "Zakynthos, Greece",
+    "country": "Greece",
+    "lat": 37.8594,
+    "lng": 20.6247,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Shipwreck_at_Navagio_Beach_Zakynthos_Greece_%2845557496695%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-002.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AShipwreck_at_Navagio_Beach_Zakynthos_Greece_%2845557496695%29.jpg",
+      "license": "CC BY 2.0",
+      "author": "dronepicr",
+      "attribution": "Photo: dronepicr, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Shipwreck at Navagio Beach Zakynthos Greece (45557496695).jpg' confirms Navagio Beach; desc: Shipwreck at Navagio Beach Zakynthos Greece"
+    },
+    "facts": {
+      "one_liner": "Zakynthos cove where the rusting Panagiotis wreck sits under sheer limestone cliffs.",
+      "why_go": "Navagio (Shipwreck Beach) is Zakynthos’s most photographed west-coast cove: a crescent of pale shore cupped by towering limestone cliffs above intense turquoise water. The landmark in the photo is the rusting hull of the Panagiotis, which ran aground here in 1980 and still sits mid-beach. Visit Greece notes the classic approaches by boat from Agios Nikolaos, Porto Vromi, or Zakynthos Town, plus the clifftop observation platform that frames the postcard aerial angle. The cove remains a top highlight for photography even when landing is restricted.",
+      "best_time": "May–October for boat season and clearer seas; early morning for softer light and fewer vessels. Outside summer, weather and operator schedules vary—confirm before travelling.",
+      "how_to_get_there": "Fly or ferry to Zakynthos (Zante). Reach the free clifftop viewpoint by road on the north-west coast. Boat excursions toward the cove traditionally depart Porto Vromi, Agios Nikolaos, or Zakynthos Town—follow current Port Authority rules on approach distance.",
+      "good_to_know": "VIEWABLE but NOT landable (2026): Greek authorities have banned visitor access to the beach and swimming in the cove through 31 October 2026 due to rockfall risk; vessels must keep a prescribed distance from the shore. The upper observation platform is the permitted land-side viewpoint once protective fencing is in place—check Visit Greece / local notices before you go.",
+      "official_or_tourism_url": "https://www.visitgreece.gr/en/experiences/beaches/beloved-beaches/navagio-beach",
+      "sources": [
+        "https://www.visitgreece.gr/en/experiences/beaches/beloved-beaches/navagio-beach",
+        "https://www.tovima.com/society/zakynthos-navagio-beach-access-curbs-extended-through-2026/",
+        "https://www.athens24.com/news/greece-closes-zakynthos-navagio-beach-to-tourists-until-october-2026.html"
+      ]
+    },
+    "ad": {
+      "destination_query": "Zakynthos, Greece",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Zakynthos%2C%20Greece&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Zakynthos%2C%20Greece&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Zakynthos%2C%20Greece&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Zakynthos"
+    }
+  },
+  {
+    "id": "beaches-003",
+    "tab": "beaches",
+    "name": "Anse Source d'Argent",
+    "short_line": "La Digue, Seychelles",
+    "country": "Seychelles",
+    "lat": -4.3708,
+    "lng": 55.8275,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Anse_Source_d%27Argent_2-La_Digue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-003.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAnse_Source_d%27Argent_2-La_Digue.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Tobias Alt, Tobi 87",
+      "attribution": "Photo: Tobias Alt, Tobi 87, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Anse Source d'Argent 2-La Digue.jpg' confirms Anse Source d'Argent; desc: Another spectacular beach of Anse Source d'Argent on the island of La Digue, Seychelles."
+    },
+    "facts": {
+      "one_liner": "La Digue’s granite-boulder beach—sculpted rocks, shallow turquoise lagoon, palms.",
+      "why_go": "Anse Source d’Argent on La Digue is the Seychelles postcard most visitors recognise: pale sand threaded with massive, weathered granite boulders rising from a shallow turquoise lagoon. The photo shows those sculpted rocks in the foreground, palms and tropical scrub along the shore, and a green island silhouette across the water—typical of this west-coast cove. Access is through L’Union Estate, a former coconut plantation with a traditional mill, colonial house, and giant tortoises on the path to the beach. It is one of the most photographed shorelines in the Indian Ocean granitic islands.",
+      "best_time": "April–May and October–November often balance warm seas with fewer peak-holiday crowds; May–September is the drier trade-wind season. Arrive early for quieter sand and softer light among the boulders.",
+      "how_to_get_there": "Fly into Mahé (SEZ), then Cat Cocos (or similar) ferry to La Digue—often via Praslin. From La Passe jetty, walk or cycle south to L’Union Estate; from the estate entrance it is about 1 km on marked paths to the beach.",
+      "good_to_know": "Publicly visitable via paid estate entry (L’Union Estate). Beach access is through the estate path—bike parking is usually available before the final stretch. Bring water shoes for rocky shallows; check ferry schedules and estate hours locally.",
+      "official_or_tourism_url": "https://www.seychelles.travel/",
+      "sources": [
+        "https://www.seychelles.travel/",
+        "https://northabroad.com/anse-source-dargent-beach-la-digue-seychelles-travel-guide-how-to-visit/",
+        "https://booking.catcocos.com/"
+      ]
+    },
+    "ad": {
+      "destination_query": "La Digue, Seychelles",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=La%20Digue%2C%20Seychelles&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=La%20Digue%2C%20Seychelles&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=La%20Digue%2C%20Seychelles&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in La Digue"
+    }
+  },
+  {
+    "id": "beaches-004",
+    "tab": "beaches",
+    "name": "Cathedrals Beach (Spain)",
+    "short_line": "Ribadeo, Spain",
+    "country": "Spain",
+    "lat": 43.5544,
+    "lng": -7.1247,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Playa_de_Las_Catedrales_%28Ribadeo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-004.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APlaya_de_Las_Catedrales_%28Ribadeo%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Jl FilpoC",
+      "attribution": "Photo: Jl FilpoC, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "SWAP from shortlist 'Grace Bay': Commons file 'File:Playa de Las Catedrales (Ribadeo).jpg' confirms Cathedrals Beach; desc: Playa de Las Catedrales. Famosa playa de la Mariña Lucense."
+    },
+    "facts": {
+      "one_liner": "Galicia’s Praia das Catedrais—layered rock arches and caves revealed at low tide.",
+      "why_go": "Cathedrals Beach (Praia das Catedrales / As Catedrais) near Ribadeo on Galicia’s Cantabrian coast is named for the monumental natural arches and buttress-like cliffs carved from horizontally layered rock. The photo matches that Atlantic drama: dark, stacked sedimentary walls, wet sand at low tide between the formations, and churning green sea under a heavy sky—not a tropical bay. Turismo Ribadeo stresses that the caves, islets, and cathedral-like arches are fully revealed only when the tide drops. It is a Xunta de Galicia natural monument, free to visit with seasonal capacity controls.",
+      "best_time": "Plan around low tide—ideally arrive about an hour before low water (check the official tide table). Outside July–September and Semana Santa you usually avoid free-reservation crowds; spring and autumn can be dramatic for photos.",
+      "how_to_get_there": "Base in Ribadeo (Lugo province). Drive or bus along the coast to the As Catedrais parking/access area west of town; walk down to the sand only when the tide allows. Nearest major airports include Asturias (OVD) or A Coruña (LCG), then road transfer.",
+      "good_to_know": "Publicly visitable natural monument. Free advance reservation is required during Semana Santa and 1 July–30 September via the Xunta site (ascatedrais.xunta.gal); rest of year access is generally open under local rules. Never get cut off by the rising tide—watch times and lifeguard flags.",
+      "official_or_tourism_url": "https://turismoribadeo.gal/en/as-catedrais-beach/tides/",
+      "sources": [
+        "https://turismoribadeo.gal/en/as-catedrais-beach/tides/",
+        "https://ascatedrais.xunta.gal/monatr/inicio.?lang=es",
+        "https://012.xunta.gal/es/prai-das-catedrais"
+      ]
+    },
+    "ad": {
+      "destination_query": "Ribadeo, Spain",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ribadeo%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ribadeo%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ribadeo%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Ribadeo"
+    }
+  },
+  {
+    "id": "beaches-005",
+    "tab": "beaches",
+    "name": "Copacabana",
+    "short_line": "Rio de Janeiro, Brazil",
+    "country": "Brazil",
+    "lat": -22.9711,
+    "lng": -43.1822,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Aerial_view_of_Copacabana_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-005.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_Copacabana_beach.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Gustavo Facci from Argentina",
+      "attribution": "Photo: Gustavo Facci from Argentina, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Aerial view of Copacabana beach.jpg' confirms Copacabana; desc: Vista aerea de Copacabana - Río de Janeiro, Brasil - Febrero 2011"
+    },
+    "facts": {
+      "one_liner": "Rio’s crescent Atlantic beach—calçadão wave mosaic, hotels, Dois Irmãos beyond.",
+      "why_go": "Copacabana is Rio de Janeiro’s most famous urban beach: a long Atlantic crescent lined by Avenida Atlântica and a dense wall of hotels and apartments. The aerial photo shows the sweep of pale sand, turquoise nearshore water, and the black-and-white wave-pattern calçadão (Portuguese-stone promenade) redesigned by landscape architect Roberto Burle Marx in the 1970s. Looking southwest along the bay, the green granite peaks of Morro Dois Irmãos often close the far skyline. Beach life here is public and continuous—kiosks, volleyball, and evening promenade walks are part of the neighbourhood rhythm.",
+      "best_time": "May–October tends to be cooler and drier than midsummer; mornings and late afternoons are more comfortable than midday heat. Carnival and New Year’s Eve (Réveillon) bring the densest crowds.",
+      "how_to_get_there": "Fly into Galeão (GIG) or Santos Dumont (SDU). Metro to Cardeal Arcoverde, Siqueira Campos, or Cantagalo stations put you steps from the beach; buses and taxis/rideshares serve Avenida Atlântica. The neighbourhood sits between Leme and Ipanema/Arpoador.",
+      "good_to_know": "Fully public urban beach open year-round. Use normal big-city caution with belongings; swim where conditions and lifeguards allow. The calçadão is a landmark in its own right for walking and people-watching.",
+      "official_or_tourism_url": "https://riotur.rio/es/que_fazer/copacabana-y-leme-2/",
+      "sources": [
+        "https://riotur.rio/es/que_fazer/copacabana-y-leme-2/",
+        "https://mam.rio/lugar-de-estar/avenida-atlantica-ev/",
+        "https://www.neh.gov/article/making-promenade-modern-0"
+      ]
+    },
+    "ad": {
+      "destination_query": "Rio de Janeiro, Brazil",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rio%20de%20Janeiro%2C%20Brazil&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rio%20de%20Janeiro%2C%20Brazil&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rio%20de%20Janeiro%2C%20Brazil&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Rio de Janeiro"
+    }
+  },
+  {
+    "id": "beaches-006",
+    "tab": "beaches",
+    "name": "Bondi Beach",
+    "short_line": "Sydney, Australia",
+    "country": "Australia",
+    "lat": -33.8915,
+    "lng": 151.2767,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Sydney_%28AU%29%2C_Bondi_Beach_--_2019_--_2354.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-006.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASydney_%28AU%29%2C_Bondi_Beach_--_2019_--_2354.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Dietmar Rabich",
+      "attribution": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Sydney (AU), Bondi Beach -- 2019 -- 2354.jpg' confirms Bondi Beach; desc: Bondi Beach, Sydney, New South Wales, Australia"
+    },
+    "facts": {
+      "one_liner": "Sydney’s iconic eastern beach—golden crescent, surf breaks, apartments on the headland.",
+      "why_go": "Bondi Beach is Sydney’s best-known eastern-suburb shoreline: a broad crescent of golden sand facing the Tasman Sea, backed by cafés, the pavilion, and apartment blocks climbing Ben Buckler headland. The photo captures that busy metropolitan beach day—packed towels on pale sand, turquoise water with sets of white surf, and the built-up northern headland in the distance. Tourism Australia highlights early surfers, ocean pools, and the suburb’s walkable café and bar scene. The Bondi to Coogee Coastal Walk starts here and threads south past Tamarama, Bronte, and Clovelly.",
+      "best_time": "Spring and autumn for warm days without peak-summer density; summer (Dec–Feb) is prime swimming and surfing but busiest. Early mornings are quieter; Sculpture by the Sea runs along the Bondi–Tamarama cliffs in October–November.",
+      "how_to_get_there": "From Sydney CBD, train to Bondi Junction then bus to Bondi Beach (or rideshare/taxi). Sydney Airport (SYD) is roughly 13 km away. Parking is limited—public transport is usually simpler on weekends.",
+      "good_to_know": "Fully public, patrolled beach. Swim only between the red-and-yellow flags; Bondi has strong rips, especially near the southern end. Lifeguard hours vary by season—check Waverley Council beach info before entering the water.",
+      "official_or_tourism_url": "https://www.australia.com/en-us/places/sydney-and-surrounds/guide-to-bondi.html",
+      "sources": [
+        "https://www.australia.com/en-us/places/sydney-and-surrounds/guide-to-bondi.html",
+        "https://www.nsw.gov.au/visiting-and-exploring-nsw/locations-and-attractions/bondi-to-coogee-coastal-walk",
+        "https://www.sydney.com/things-to-do/nature-and-parks/walks/bondi-to-coogee-coastal-walk"
+      ]
+    },
+    "ad": {
+      "destination_query": "Sydney, Australia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sydney%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sydney%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sydney%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Sydney"
+    }
+  },
+  {
+    "id": "beaches-007",
+    "tab": "beaches",
+    "name": "Waikiki Beach",
+    "short_line": "Honolulu, United States",
+    "country": "United States",
+    "lat": 21.2767,
+    "lng": -157.8278,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Waikiki_Beach_%282024%29-L1004709.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-007.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AWaikiki_Beach_%282024%29-L1004709.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Frank Schulenburg",
+      "attribution": "Photo: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Waikiki Beach (2024)-L1004709.jpg' confirms Waikiki Beach; desc: Waikiki Beach on March 2, 2024. View towards Diamond Head"
+    },
+    "facts": {
+      "one_liner": "Honolulu’s hotel-lined shore looking southeast to Diamond Head (Lēʻahi).",
+      "why_go": "Waikīkī Beach is Oʻahu’s classic urban shoreline in Honolulu: a string of public sand segments fronting high-rise hotels, with gentle nearshore waves and a long tradition of surfing and outrigger canoeing. The photo’s defining landmark is Diamond Head (Lēʻahi), the brown volcanic tuff cone closing the southeast horizon beyond the hotel skyline and palm-lined sand. Beach chairs, umbrellas, and longboards on the sand match the everyday visitor scene along Kalākaua Avenue. Lifeguarded sections and a dense resort strip make it one of Hawaii’s easiest first-beach stops.",
+      "best_time": "Year-round swimming climate; April–June and September–November often feel less crowded than peak winter holidays and midsummer. Early morning offers calmer sand and clearer Diamond Head views before day-trippers arrive.",
+      "how_to_get_there": "Fly into Daniel K. Inouye International Airport (HNL). From the airport, taxi, rideshare, TheBus, or hotel shuttle to Waikīkī. Once there, the beach is walkable from Kalākaua Avenue hotels; TheBus also links to Diamond Head State Monument for the crater hike (reservations required for non-residents).",
+      "good_to_know": "Fully public beach stretches; hotel chairs may be private but the sand and water are open. Stay inside lifeguard-flagged areas. Diamond Head State Monument needs timed entry reservations for non-residents—book ahead if you want the crater summit after the beach.",
+      "official_or_tourism_url": "https://www.gohawaii.com/islands/oahu/things-to-do/beaches/waikiki-beach",
+      "sources": [
+        "https://www.gohawaii.com/islands/oahu/things-to-do/beaches/waikiki-beach",
+        "https://dlnr.hawaii.gov/dsp/parks/oahu/diamond-head-state-monument/",
+        "https://www.gohawaii.com/islands/oahu/regions/honolulu/waikiki"
+      ]
+    },
+    "ad": {
+      "destination_query": "Honolulu, United States",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Honolulu%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Honolulu%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Honolulu%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Honolulu"
+    }
+  },
+  {
+    "id": "beaches-008",
+    "tab": "beaches",
+    "name": "Railay Beach",
+    "short_line": "Krabi, Thailand",
+    "country": "Thailand",
+    "lat": 8.0117,
+    "lng": 98.8378,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Railay_Beach_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-008.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ARailay_Beach_5.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "kallerna",
+      "attribution": "Photo: kallerna, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Railay Beach 5.jpg' confirms Railay Beach; desc: West Rai Leh (Railay) beach, Rai Leh (Railay) bay, Krabi, Thailand."
+    },
+    "facts": {
+      "one_liner": "Krabi’s boat-only peninsula—West Rai Leh sand under towering limestone karsts.",
+      "why_go": "Railay (Rai Leh) is a limestone peninsula on the Krabi coast, cut off from the mainland by cliffs so there are no roads in—only boats. West Railay (West Rai Leh) is the broad, swimmable bay shown in the photo: pale golden sand, calm turquoise water, and sheer karst walls rising over the beach with more jagged limestone across the bay. Sunbathers pack the shore on clear days; rock climbers base nearby at Tonsai and East Railay. Tourism Authority of Thailand lists Railay among Krabi’s signature Andaman attractions, typically reached by longtail from Ao Nang.",
+      "best_time": "November–April is the drier Andaman season with calmer seas for boat transfers. May–October brings more rain and occasional rough crossings; mornings are usually quieter on West Railay sand.",
+      "how_to_get_there": "Fly into Krabi (KBV) or travel via Phuket then road to Ao Nang. Shared longtail boats leave the southern end of Ao Nang Beach (and sometimes Nopparat Thara) for West Railay—roughly 10–20 minutes when seas allow. From Krabi Town, boats via Ao Nam Mao are another common route.",
+      "good_to_know": "Publicly visitable; no road access—expect to wade ashore from longtails at some tides. West Railay suits swimming and sunsets; East Railay is muddier and more about climbing access. Confirm last return boats before dusk.",
+      "official_or_tourism_url": "https://www.tourismthailand.org/Attraction/railay-beach",
+      "sources": [
+        "https://www.tourismthailand.org/Attraction/railay-beach",
+        "https://thailandlongtail.com/guides/ao-nang-to-railay-longtail/",
+        "https://www.tourismthailand.org/Attraction/ao-railay"
+      ]
+    },
+    "ad": {
+      "destination_query": "Krabi, Thailand",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Krabi%2C%20Thailand&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Krabi%2C%20Thailand&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Krabi%2C%20Thailand&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Krabi"
+    }
+  },
+  {
+    "id": "beaches-009",
+    "tab": "beaches",
+    "name": "Playa Norte",
+    "short_line": "Isla Mujeres, Mexico",
+    "country": "Mexico",
+    "lat": 21.2667,
+    "lng": -86.75,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Playa_Norte%2C_Isla_Mujeres_QR_2020_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-009.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APlaya_Norte%2C_Isla_Mujeres_QR_2020_01.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Bernard DUPONT",
+      "attribution": "Photo: Bernard DUPONT, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Playa Norte, Isla Mujeres QR 2020 01.jpg' confirms Playa Norte; desc: Isla Mujeres, Quintana Roo, MEXICO"
+    },
+    "facts": {
+      "one_liner": "Isla Mujeres’ north shore—waist-deep turquoise shallows, palms, and calm bay boats.",
+      "why_go": "Playa Norte anchors the northern tip of Isla Mujeres, a short ferry ride from Cancún across the Caribbean. The photo matches its signature look: exceptionally calm, pale-turquoise water that stays shallow far from shore, white sand, a fringe of palms and low-rise hotels, and pleasure boats at anchor in the protected bay. Swimmers and waders fill the shallows on sunny days—this is a swimming beach more than a surf break. Quintana Roo tourism promotes Isla Mujeres as a Pueblo Mágico day-trip and overnight base from Cancún.",
+      "best_time": "December–April is the drier high season; May–June and September–November can be quieter between holiday peaks. Mornings usually mean calmer water and thinner crowds before mainland day-trippers arrive.",
+      "how_to_get_there": "Fly into Cancún (CUN). Take a passenger ferry from Puerto Juárez or Hotel Zone terminals (Playa Tortugas / El Embarcadero and similar) to Isla Mujeres—crossings are typically about 15–30 minutes. From the island ferry dock, Playa Norte is a short walk or taxi/golf-cart ride north.",
+      "good_to_know": "Fully public beach. Water is shallow and generally gentle, but still use sun protection and watch boat traffic near moorings. Golf carts are the common island transport; ferry schedules run frequently through the day.",
+      "official_or_tourism_url": "https://siturq.gob.mx/destino/36886f72-12b4-3449-8c05-7c58bd152261",
+      "sources": [
+        "https://siturq.gob.mx/pueblo-magico/d8ba411d-a509-11ee-a22f-00224821d409",
+        "https://isla-mujeres.net/getting-to-isla-mujeres/",
+        "https://www.xcaret.com/en/xailing/ferry-isla-mujeres/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Isla Mujeres, Mexico",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Isla%20Mujeres%2C%20Mexico&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Isla%20Mujeres%2C%20Mexico&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Isla%20Mujeres%2C%20Mexico&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Isla Mujeres"
+    }
+  },
+  {
+    "id": "beaches-010",
+    "tab": "beaches",
+    "name": "Pink Sands Beach",
+    "short_line": "Harbour Island, Bahamas",
+    "country": "Bahamas",
+    "lat": 25.5,
+    "lng": -76.6333,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pink_Sands_Beach%2C_Harbour_Island%2C_Bahamas_%285279465868%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-010.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APink_Sands_Beach%2C_Harbour_Island%2C_Bahamas_%285279465868%29.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Mike's Birds from Riverside, CA, US",
+      "attribution": "Photo: Mike's Birds from Riverside, CA, US, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Pink Sands Beach, Harbour Island, Bahamas (5279465868).jpg' confirms Pink Sands Beach; desc: More photos at &lt;a href=\"http://www.caribbean-island-resorts.com/\" rel=\"nofollow\"&gt;Caribbean Island Resorts&lt;/a&gt;"
+    },
+    "facts": {
+      "one_liner": "Harbour Island’s Atlantic shore—pale pink sand from crushed foraminifera shells.",
+      "why_go": "Pink Sands Beach runs more than three miles along Harbour Island’s eastern Atlantic coast, typically 50–100 feet wide, and is the island’s signature natural attraction. Official Bahamas tourism explains the pale pink tone as crushed remains of Foraminifera—tiny marine organisms with pink or red shells—washed ashore from nearby reefs such as Devil’s Backbone and mixed with coral sand; the colour shows best in wet sand at the waterline. The photo’s empty diagonal shoreline, soft pink foreground, and turquoise-to-deep-blue gradient match that quiet Atlantic stretch rather than a crowded hotel pool beach.",
+      "best_time": "December–April is the drier peak season with reliable sunshine; May–November is warmer and wetter, with hurricane-season awareness from roughly June–November. Soft morning or late-day light deepens the pink tone for photos.",
+      "how_to_get_there": "Fly to North Eleuthera (ELH), taxi to Three Island Dock / Government Dock area, then a short water taxi to Harbour Island. From Dunmore Town, walk, taxi, or golf cart east to the beach. Alternative: Bahamas Ferries from Nassau on scheduled sailings—confirm current timetable.",
+      "good_to_know": "Publicly accessible beach. Sand is often cool underfoot per Bahamas tourism notes. Bring reef-safe sunscreen; Atlantic swells can be stronger than the island’s sheltered west side—swim with care and local advice.",
+      "official_or_tourism_url": "https://www.bahamas.com/natural-wonders/harbour-island-pink-sand-beach",
+      "sources": [
+        "https://www.bahamas.com/natural-wonders/harbour-island-pink-sand-beach",
+        "https://bahamasferries.com/your-travel/",
+        "https://www.conchandcoconut.com/blogs/the-good-life/getting-to-harbour-island-bahamas"
+      ]
+    },
+    "ad": {
+      "destination_query": "Harbour Island, Bahamas",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Harbour%20Island%2C%20Bahamas&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Harbour%20Island%2C%20Bahamas&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Harbour%20Island%2C%20Bahamas&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Harbour Island"
+    }
+  },
+  {
+    "id": "beaches-011",
+    "tab": "beaches",
+    "name": "Seven Mile Beach",
+    "short_line": "Grand Cayman, Cayman Islands",
+    "country": "Cayman Islands",
+    "lat": 19.3333,
+    "lng": -81.3833,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Seven_Mile_Beach_Facing_North.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-011.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASeven_Mile_Beach_Facing_North.jpg",
+      "license": "CC BY 4.0",
+      "author": "Coolcaesar",
+      "attribution": "Photo: Coolcaesar, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Seven Mile Beach Facing North.jpg' confirms Seven Mile Beach; desc: Seven Mile Beach, Grand Cayman, Cayman Islands, facing north. Photographed by user Coolcaesar on May 24, 2026."
+    },
+    "facts": {
+      "one_liner": "Grand Cayman’s west-coast coral-sand shore: resorts, calm turquoise, public walks.",
+      "why_go": "Seven Mile Beach runs along Grand Cayman’s western Caribbean shore—the long white-sand crescent with resort balconies, palm line, and pale turquoise shallows shown in the photo. Despite the name, the continuous sand stretch is roughly six miles; it is still the island’s most developed beachfront and a classic swim-and-stroll base near George Town. Official tourism notes soft white sand, clear calm water, watersports, and resort restaurants along the shore. Designated public access points (including West Bay Public Beach, Governor’s Beach, and Cemetery Beach) keep the shoreline walkable for visitors who are not hotel guests.",
+      "best_time": "December–April for drier, peak-season beach days; May–November is warmer and wetter with fewer crowds. Calm water is typical year-round on this lee shore—check local advisories after tropical systems.",
+      "how_to_get_there": "Fly into Owen Roberts International Airport (GCM) on Grand Cayman. Taxi or rental car reaches the Seven Mile corridor in roughly 10–20 minutes depending on traffic and your beach access. Use marked public beaches if you are not staying beachfront; the shore itself is open to walkers along the sand.",
+      "good_to_know": "PUBLIC / OPEN — shoreline is publicly walkable; use official public beach access points for parking and facilities. Shallow entry suits families; snorkel near Cemetery Reef and other marked spots. Sections can erode after storms—expect uneven sand width in places.",
+      "official_or_tourism_url": "https://www.visitcaymanislands.com/things-to-do/beaches/seven-mile-beach",
+      "sources": [
+        "https://www.visitcaymanislands.com/things-to-do/beaches/seven-mile-beach",
+        "https://www.visitcaymanislands.com/things-to-do/beaches",
+        "https://en.wikipedia.org/wiki/Seven_Mile_Beach,_Grand_Cayman"
+      ]
+    },
+    "ad": {
+      "destination_query": "Grand Cayman, Cayman Islands",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Grand%20Cayman%2C%20Cayman%20Islands&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Grand%20Cayman%2C%20Cayman%20Islands&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Grand%20Cayman%2C%20Cayman%20Islands&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Grand Cayman"
+    }
+  },
+  {
+    "id": "beaches-012",
+    "tab": "beaches",
+    "name": "Camps Bay",
+    "short_line": "Cape Town, South Africa",
+    "country": "South Africa",
+    "lat": -33.9519,
+    "lng": 18.3781,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Camps_Bay_%E2%80%93_Cape_Town_suburbs%2C_beach%2C_Lion%27s_Head%2C_Twelve_Apostles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-012.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACamps_Bay_%E2%80%93_Cape_Town_suburbs%2C_beach%2C_Lion%27s_Head%2C_Twelve_Apostles.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Krigore",
+      "attribution": "Photo: Krigore, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Camps Bay – Cape Town suburbs, beach, Lion's Head, Twelve Apostles.jpg' confirms Camps Bay; desc: Camps Bay – Cape Town suburbs, beach and Lion's Head peak with Twelve Apostles mountain range"
+    },
+    "facts": {
+      "one_liner": "Camps Bay under Lion’s Head and the Twelve Apostles: Atlantic Blue Flag shore.",
+      "why_go": "Camps Bay sits on Cape Town’s Atlantic Seaboard about 15 minutes from the city centre—the white sand, granite boulder foreground, Lion’s Head cone, and Twelve Apostles peaks in the photo are the suburb’s signature frame. City of Cape Town classifies Camps Bay Beach as a Blue Flag shore with a tidal pool, summer lifeguards, toilets, and partial disability access on Victoria Road. Cape Town Tourism highlights the palm-lined strip, frosty Atlantic swim, and sunset dining opposite the sand. Table Mountain National Park’s Apostles and Lion’s Head rise immediately behind the houses, so beach time pairs naturally with coast walks or a late-day hike.",
+      "best_time": "November–March (Southern Hemisphere summer) for warmest beach weather, volleyball events, and longest evenings; still popular year-round. Atlantic water stays cold—expect a bracing swim even in peak season.",
+      "how_to_get_there": "From Cape Town CBD drive over Kloof Nek or along the Sea Point–Clifton coastal road to Victoria Road, Camps Bay (~15 minutes without heavy traffic). Cape Town International Airport (CPT) is typically 30–45 minutes by car. MyCiTi and taxis/ride-hails serve the Atlantic Seaboard; parking at the beach is limited on sunny weekends.",
+      "good_to_know": "PUBLIC / OPEN — municipal Blue Flag beach. Dogs restricted 09:00–18:00 Nov–Mar; not allowed in tidal pool/Blue Flag zones. Southerly summer winds are partly blocked by the mountains, but the water remains cold; bring wind layers for sunset.",
+      "official_or_tourism_url": "https://www.capetown.travel/your-neighbourhood-guide-to-camps-bay/",
+      "sources": [
+        "https://www.capetown.travel/your-neighbourhood-guide-to-camps-bay/",
+        "https://www.capetown.gov.za/work%20and%20business/see-all-city-facilities/our-recreational-facilities/Beaches/camps-bay-beach",
+        "https://www.capetown.travel/neighbourhoods/camps-bay/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Cape Town, South Africa",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Cape%20Town%2C%20South%20Africa&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Cape%20Town%2C%20South%20Africa&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Cape%20Town%2C%20South%20Africa&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Cape Town"
+    }
+  },
+  {
+    "id": "beaches-013",
+    "tab": "beaches",
+    "name": "Matira Beach",
+    "short_line": "Bora Bora, French Polynesia",
+    "country": "French Polynesia",
+    "lat": -16.5289,
+    "lng": -151.7456,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Matira_Beach%2C_Bora_Bora%2C_French_Polynesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-013.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMatira_Beach%2C_Bora_Bora%2C_French_Polynesia.jpg",
+      "license": "CC BY 2.5",
+      "author": "The original uploader was Sba2 at English Wikipedia.",
+      "attribution": "Photo: The original uploader was Sba2 at English Wikipedia., CC BY 2.5, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Matira Beach, Bora Bora, French Polynesia.jpg' confirms Matira Beach; desc: Matira beach and lagoon, Bora Bora, looking west towards Hotel Bora Bora (distant right) from the hill behind the Matira Hotel. Other images by this c"
+    },
+    "facts": {
+      "one_liner": "Matira Point public lagoon: Bora Bora’s free snorkel shore and Hawaiki Nui finish.",
+      "why_go": "Matira Beach (Plage de Matira) sits on Bora Bora’s southern main-island coast at Matira Point—the elevated lagoon view with pale turquoise shallows, dark blue channel, outer reef line, palms, and thatched fales matches the photo. Tahiti Tourisme lists it as Bora Bora’s most popular public beach, free to visit, with a picnic park beside the sand and wheelchair access with assistance. It is the traditional finish of the Hawaiki Nui va’a (outrigger) race and a prime lagoon snorkel spot for colourful reef life without booking a private resort beach. The Motu Mute lagoon ring beyond the reef is the classic Bora Bora postcard from this side of the island.",
+      "best_time": "May–October (dry/cooler Austral winter) for clearer skies and calmer trade-wind days; November–April is warmer and wetter. Official listing: open every day through 2026.",
+      "how_to_get_there": "Fly to Bora Bora Airport (BOB) on Motu Mute, then boat transfer to Vaitape on the main island; continue by rental car, bike, or taxi south along the coastal road to Matira. Inter-island connections typically route via Tahiti (PPT). No resort stay is required—the municipal public beach is open to all.",
+      "good_to_know": "PUBLIC / OPEN — free municipal beach (Tahiti Tourisme). Respect posted rules (often no alcohol/pets at the managed picnic area). Bring reef-safe sunscreen and water shoes; lagoon current and boat traffic vary—snorkel near shore and watch for marked zones.",
+      "official_or_tourism_url": "https://tahititourisme.pf/en-pf/activities/points-of-interest/plage-de-matira-bora-bora-en-en-pf-3352956/",
+      "sources": [
+        "https://tahititourisme.pf/en-pf/activities/points-of-interest/plage-de-matira-bora-bora-en-en-pf-3352956/",
+        "https://www.tahititourisme.com/natural-heritage/plage-de-matira/",
+        "https://tahititourisme.pf/experiences/les-spots-a-ne-pas-manquer/plage-de-matira-bora-bora-fr-3352956/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Bora Bora, French Polynesia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bora%20Bora%2C%20French%20Polynesia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bora%20Bora%2C%20French%20Polynesia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bora%20Bora%2C%20French%20Polynesia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Bora Bora"
+    }
+  },
+  {
+    "id": "beaches-014",
+    "tab": "beaches",
+    "name": "Tulum Beach",
+    "short_line": "Tulum, Mexico",
+    "country": "Mexico",
+    "lat": 20.2147,
+    "lng": -87.4294,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Ruins_at_Tulum%2C_QR_Mexico_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-014.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ARuins_at_Tulum%2C_QR_Mexico_2023.jpg",
+      "license": "CC BY 2.0",
+      "author": "Erik Cleves Kristensen",
+      "attribution": "Photo: Erik Cleves Kristensen, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Ruins at Tulum, QR Mexico 2023.jpg' confirms Tulum Beach; desc: Maya ruins at Tulum"
+    },
+    "facts": {
+      "one_liner": "Maya cliff city over a Caribbean cove: Tulum’s ruins frame the beach below.",
+      "why_go": "Tulum’s archaeological zone is a Late Postclassic Maya walled city on Quintana Roo’s Caribbean cliffs—the stone temple perched above turquoise water and palm jungle in the photo is the site’s defining postcard (El Castillo and the cliff group overlook La Caleta cove). INAH presents Tulum as a coastal ceremonial and trading centre whose eastern edge faces the sea; visitors walk among temples, murals, and the defensive wall with the beach visible below. Ticketed site hours are typically 08:00–17:00 with last entry 15:30. Beyond the ruins, Tulum’s hotel-zone and town beaches remain major public swim destinations along the Riviera Maya.",
+      "best_time": "November–April for drier weather and clearer cliff views; arrive at opening to beat heat and cruise-day crowds. Hurricane season peaks roughly June–November—monitor forecasts.",
+      "how_to_get_there": "Fly into Cancún (CUN) or Tulum International (TQO), then drive or bus Federal Highway 307 to the Zona Arqueológica (Km 230). ADO and shared shuttles serve Tulum town; from town, taxi, bike, or colectivo reaches the ruins entrance. Combine the site visit with nearby public beach accesses outside the archaeological fence.",
+      "good_to_know": "PUBLIC / OPEN — INAH archaeological zone is ticketed and open daily; fees and Parque del Jaguar add-ons change, so check current INAH/Mundo Maya rules before you go (no prices listed here). Swimming from the cliff cove has often been restricted—use designated public beaches nearby. No smoking, food, or pets inside the zone.",
+      "official_or_tourism_url": "https://lugares.inah.gob.mx/en/node/4361",
+      "sources": [
+        "https://lugares.inah.gob.mx/en/node/4361",
+        "https://lugares.inah.gob.mx/es/node/5786",
+        "https://www.inah.gob.mx/zonas/99-zona-arqueologica-de-tulum"
+      ]
+    },
+    "ad": {
+      "destination_query": "Tulum, Mexico",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Tulum%2C%20Mexico&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Tulum%2C%20Mexico&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Tulum%2C%20Mexico&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Tulum"
+    }
+  },
+  {
+    "id": "beaches-015",
+    "tab": "beaches",
+    "name": "Horseshoe Bay",
+    "short_line": "Southampton Parish, Bermuda",
+    "country": "Bermuda",
+    "lat": 32.2506,
+    "lng": -64.8764,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Horseshoe_Bay_beach%2C_Bermuda_IMG_0356.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-015.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHorseshoe_Bay_beach%2C_Bermuda_IMG_0356.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Captain-tucker",
+      "attribution": "Photo: Captain-tucker, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Horseshoe Bay beach, Bermuda IMG 0356.jpg' confirms Horseshoe Bay Bermuda; desc: Horseshoe Bay beach, Bermuda"
+    },
+    "facts": {
+      "one_liner": "Bermuda’s pink-sand crescent at Horseshoe Bay: limestone rocks, South Shore Park.",
+      "why_go": "Horseshoe Bay Beach in Southampton Parish is Bermuda’s signature South Shore crescent—the pale pink sand, turquoise Atlantic, and dark limestone outcrops in the photo match the island’s most photographed cove. Official Go To Bermuda materials credit the pink tint to crushed foraminifera shells mixed with pale sand, and place the beach at the heart of South Shore Park with a coastal trail to neighbouring bays. Lifeguards, rentals, and bus access make it the easiest full-service pink-sand day trip on the island. Port Royal Cove and the rock shelves at either end give sheltered paddling pockets when the open Atlantic is lively.",
+      "best_time": "May–October for warmest swimming; shoulder months still suit strolls when water is cooler. Cruise-ship days and weekends are busiest—early morning is calmer.",
+      "how_to_get_there": "Public bus route #7 links Hamilton with Horseshoe Bay (short walk from the stop). Scooter or car via South Road (Route 7) in Southampton; parking sits near the beach entrance. L.F. Wade International Airport (BDA) is the island’s gateway—taxi or bus onward.",
+      "good_to_know": "PUBLIC / OPEN — free public beach (parksdept@gov.bm). Pink hue is strongest near the wet sand at low tide. Do not remove sand or shells (illegal). Atlantic surf and undertow can be strong outside sheltered pockets—heed lifeguard flags.",
+      "official_or_tourism_url": "https://www.gotobermuda.com/listings/beaches-water-activities/horseshoe-bay-beach",
+      "sources": [
+        "https://www.gotobermuda.com/listings/beaches-water-activities/horseshoe-bay-beach",
+        "https://www.gotobermuda.com/plan/inspiration/article/why-bermuda-has-pink-sand",
+        "https://www.gotobermuda.com/plan/inspiration/article/bermudas-top-beach-horseshoe-bay"
+      ]
+    },
+    "ad": {
+      "destination_query": "Southampton, Bermuda",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Southampton%2C%20Bermuda&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Southampton%2C%20Bermuda&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Southampton%2C%20Bermuda&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Southampton"
+    }
+  },
+  {
+    "id": "beaches-016",
+    "tab": "beaches",
+    "name": "Cannon Beach",
+    "short_line": "Oregon, United States",
+    "country": "United States",
+    "lat": 45.8918,
+    "lng": -123.9615,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Haystack_Rock%2C_Cannon_Beach%2C_Oregon%2C_USA%2C_14_Aug_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-016.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHaystack_Rock%2C_Cannon_Beach%2C_Oregon%2C_USA%2C_14_Aug_2025.jpg",
+      "license": "CC BY 4.0",
+      "author": "Euthman",
+      "attribution": "Photo: Euthman, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Haystack Rock, Cannon Beach, Oregon, USA, 14 Aug 2025.jpg' confirms Cannon Beach; desc: Haystack Rock is a seastack off the coast of Cannon Beach, Oregon, USA. Photographed from shore near mid tide."
+    },
+    "facts": {
+      "one_liner": "Haystack Rock at Cannon Beach: 235-ft basalt stack, Needles, and Oregon tidepools.",
+      "why_go": "Cannon Beach’s iconic landmark is Haystack Rock—a 235-foot (72 m) basalt sea stack rising from the Pacific with the smaller Needles beside it, exactly as the photo shows. Oregon State Parks notes the stack less than a mile north of Tolovana Beach State Recreation Site; the intertidal zone is a Marine Garden and part of Oregon Islands National Wildlife Refuge. At low tide you can walk the wet sand to tidepools teeming with anemones and stars, while tufted puffins and other seabirds nest on the rock in spring and summer. The City of Cannon Beach’s Haystack Rock Awareness Program stations interpreters on daytime low tides to protect wildlife and teach visitors.",
+      "best_time": "Summer for minus tides and easiest tidepooling; April–August for puffin nesting season. Winter brings dramatic surf and king tides—view from safe high ground. Check a NOAA tide chart; HRAP recommends ~1 ft or lower for pool access.",
+      "how_to_get_there": "From Portland take US-26 west then US-101 south into Cannon Beach (~90 minutes). Park near Hemlock & Gower (City Hall / 163 E Gower) and walk west to the beach, then south ~12–15 minutes to Haystack Rock; Tolovana Beach State Recreation Site also provides day-use beach access. No overnight parking at Tolovana.",
+      "good_to_know": "PUBLIC / OPEN — Oregon ocean shore is public; climbing above the barnacle line / nesting rock is prohibited. Walk on sand only in tidepools; no collecting. Pets on leash; drones banned near nesting birds at Tolovana/Haystack area.",
+      "official_or_tourism_url": "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=141",
+      "sources": [
+        "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=141",
+        "https://www.haystackrockawareness.com/planning-your-visit",
+        "https://en.wikipedia.org/wiki/Haystack_Rock"
+      ]
+    },
+    "ad": {
+      "destination_query": "Cannon Beach, United States",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Cannon%20Beach%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Cannon%20Beach%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Cannon%20Beach%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Cannon Beach"
+    }
+  },
+  {
+    "id": "beaches-017",
+    "tab": "beaches",
+    "name": "Myrtos Beach",
+    "short_line": "Kefalonia, Greece",
+    "country": "Greece",
+    "lat": 38.3431,
+    "lng": 20.5361,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Myrtos_Beach%2C_Kefalonia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-017.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMyrtos_Beach%2C_Kefalonia.jpg",
+      "license": "CC BY 2.0",
+      "author": "Matt Sims",
+      "attribution": "Photo: Matt Sims, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Myrtos Beach, Kefalonia.jpg' confirms Myrtos Beach; desc: Myrtos Beach, Kefalonia, Greece."
+    },
+    "facts": {
+      "one_liner": "Myrtos white-pebble crescent under Kefalonia cliffs between Agia Dynati and Kalon Oros.",
+      "why_go": "Myrtos Beach is Kefalonia’s signature Ionian cove—the high cliff viewpoint over a white crescent, milky turquoise water, and switchback road in the photo is the classic approach. Visit Kefalonia describes a roughly 700-metre arc of dazzling white pebbles between the mountains Agia Dynati and Kalon Oros, about 2.4 km below Divarata, with Blue Flag recognition noted for 2026. Fine limestone sediment gives the nearshore water its electric pale blue; sunbeds and a snack bar operate in season. The steep descent and sheer cliffs are as much part of the experience as the swim.",
+      "best_time": "Late May–September for warm sea and open beach services; June–early July and September for fewer peak-August crowds. Midday heat on the white pebbles is intense—bring shade and water.",
+      "how_to_get_there": "Fly into Kefalonia Airport (EFL) or ferry to the island, then drive to Divarata and descend the steep paved road to the beach parking (walking the road is not recommended). Seasonal local buses serve the bottom—check Tourist Information in Agia Efimia for timetables. Viewpoint pullouts above the beach are ideal for the postcard photo even if you skip the swim.",
+      "good_to_know": "PUBLIC / OPEN — popular free-access beach with seasonal services. Strong undercurrents and deep water are common on breezy days—swim with caution and heed any posted warnings. Wear water shoes on pebbles; the access road is steep and narrow for nervous drivers.",
+      "official_or_tourism_url": "https://visitkefalonia.eu/myrtos-beach/",
+      "sources": [
+        "https://visitkefalonia.eu/myrtos-beach/",
+        "https://www.visit-greece.info/en/ionian-islands/kefalonia/myrtos-beach/",
+        "https://en.wikipedia.org/wiki/Myrtos_Beach"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kefalonia, Greece",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kefalonia%2C%20Greece&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kefalonia%2C%20Greece&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kefalonia%2C%20Greece&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kefalonia"
+    }
+  },
+  {
+    "id": "beaches-018",
+    "tab": "beaches",
+    "name": "Zlatni Rat",
+    "short_line": "Bol, Brač, Croatia",
+    "country": "Croatia",
+    "lat": 43.2572,
+    "lng": 16.6336,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Zlatni_rat_beach_twist_-_Bol_Brac_Croatia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-018.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AZlatni_rat_beach_twist_-_Bol_Brac_Croatia.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Marin0110",
+      "attribution": "Photo: Marin0110, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Zlatni rat beach twist - Bol Brac Croatia.jpg' confirms Zlatni Rat; desc: Top of the Zlatni rat beach in between the shift from west to east side."
+    },
+    "facts": {
+      "one_liner": "Zlatni Rat Golden Horn: Brač pebble spit whose tip shifts with wind and current.",
+      "why_go": "Zlatni Rat (Golden Horn / Golden Cape) is the horn-shaped white-pebble spit ~2 km west of Bol on Brač’s south coast—the aerial V of pine grove, pale stones, and turquoise halo in the photo is Croatia’s most recognisable beach landform. Bol’s tourist office and the beach’s own site describe a roughly half-kilometre pebble tongue into the Hvar Channel whose tip continually reshapes under wind and sea currents (a protected geomorphological phenomenon). A pine promenade or tourist train links Bol centre to the beach in about 15 minutes; Maestral afternoons draw windsurfers to the west side. Remains of a Roman piscina sit in the shade of the pine grove behind the sand.",
+      "best_time": "June–September for warm Adriatic swimming and full beach services; May and October for fewer crowds. Tip orientation shifts most in autumn–spring storms; summer tips usually point south or slightly east under Maestral.",
+      "how_to_get_there": "Ferry to Brač (e.g. Split–Supetar) then bus or car to Bol, or seasonal catamarans direct to Bol. From Bol harbour walk the seaside promenade (~15 minutes) or ride the tourist train that runs about every 30 minutes. Brač Airport (BWK) serves summer charters near Bol.",
+      "good_to_know": "PUBLIC / OPEN — free beach access; rentals and cafés operate in season. Currents near the tip can pull swimmers east toward Bol—stay close to shore if you are not a strong swimmer. Westernmost coves are traditionally clothing-optional.",
+      "official_or_tourism_url": "https://bol.hr/en/",
+      "sources": [
+        "https://bol.hr/en/",
+        "https://www.zlatniratbol.com/en/welcome/",
+        "https://en.wikipedia.org/wiki/Zlatni_rat"
+      ]
+    },
+    "ad": {
+      "destination_query": "Bol, Croatia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bol%2C%20Croatia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bol%2C%20Croatia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bol%2C%20Croatia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Bol"
+    }
+  },
+  {
+    "id": "beaches-019",
+    "tab": "beaches",
+    "name": "Ipanema",
+    "short_line": "Rio de Janeiro, Brazil",
+    "country": "Brazil",
+    "lat": -22.9838,
+    "lng": -43.2096,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ipanema_e_o_Morro_Dois_Irm%C3%A3os.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-019.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AIpanema_e_o_Morro_Dois_Irm%C3%A3os.JPG",
+      "license": "CC BY-SA 3.0",
+      "author": "Mteixeira62",
+      "attribution": "Photo: Mteixeira62, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Ipanema e o Morro Dois Irmãos.JPG' confirms Ipanema; desc: Vista da praia de Ipanema e do Morro Dois Irmãos e Pedra da Gávea. Rio de Janeiro, Brasil."
+    },
+    "facts": {
+      "one_liner": "Ipanema with Morro Dois Irmãos: Rio’s bossa beach from Arpoador toward Leblon.",
+      "why_go": "Ipanema Beach is Rio’s ~2 km Atlantic arc from Arpoador to Jardim de Alá—the photo’s curved sand, apartment wall, active surf, and twin granite peaks of Morro Dois Irmãos are the classic Ipanema/Leblon frame Riotur celebrates. Made world-famous by Tom Jobim and Vinicius de Moraes’s “The Girl from Ipanema,” the shore remains a local meeting place especially around Posto 9, with surfing, volleyball, futevôlei, and sunset crowds that applaud the day’s end. Riotur notes Sunday vehicle restrictions on the beachfront lanes until 18:00 for bikes and leisure. Dois Irmãos (~533 m) anchors the western skyline and can be hiked from Vidigal for the reverse view over Ipanema.",
+      "best_time": "April–June and September–October for milder heat and clearer light; December–March is peak summer heat and holiday crowds. Early morning or late afternoon beat the midday glare and densest sand traffic.",
+      "how_to_get_there": "Fly into Galeão (GIG) or Santos Dumont (SDU). Metro Line 1/4 to General Osório (Ipanema) or Cantagalo; buses and ride-hails run along Vieira Souto. Walk the calçadão between Arpoador and Leblon; lifeguard posts (postos) mark sections of the beach.",
+      "good_to_know": "PUBLIC / OPEN — free city beach with lifeguard posts. Swim only between flagged safe zones; rip currents are common. Keep valuables minimal on the sand; Sunday bike lane is popular. Dois Irmãos hike is best with a local guide via Vidigal.",
+      "official_or_tourism_url": "https://riotur.rio/en/que_fazer/ipanema-2/",
+      "sources": [
+        "https://riotur.rio/en/que_fazer/ipanema-2/",
+        "https://riotur.rio/en/que_fazer/dois-irmaos-trail/",
+        "https://riotur.rio/en/que_fazer/rio-beaches/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Rio de Janeiro, Brazil",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rio%20de%20Janeiro%2C%20Brazil&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rio%20de%20Janeiro%2C%20Brazil&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rio%20de%20Janeiro%2C%20Brazil&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Rio de Janeiro"
+    }
+  },
+  {
+    "id": "beaches-020",
+    "tab": "beaches",
+    "name": "Lanikai Beach",
+    "short_line": "Oahu, United States",
+    "country": "United States",
+    "lat": 21.3931,
+    "lng": -157.715,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Lanikai_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/beaches/beaches-020.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALanikai_Beach.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "R. Sullivan Sullynyflhi",
+      "attribution": "Photo: R. Sullivan Sullynyflhi, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Lanikai Beach.jpg' confirms Lanikai Beach; desc: Lanikai Beach, Oahu, Hawaii"
+    },
+    "facts": {
+      "one_liner": "Lanikai white sand facing Nā Mokulua: Kailua’s windward Oʻahu shore and the Mokes.",
+      "why_go": "Lanikai Beach (in the Kaʻōhao / Kailua neighbourhood on Oʻahu’s windward coast) is a short white-sand strip whose postcard is the twin offshore islets Nā Mokulua—“the Mokes”—exactly as the photo frames them. Soft powder sand and clear turquoise water draw sunrise photographers, swimmers, and kayakers; the larger northern islet (Moku Nui) allows limited daytime landing while Moku Iki is a closed seabird sanctuary. The beach itself is public shoreline reached only by marked walkways between private homes—there is no county park lot, restroom, shower, or lifeguard on the sand. Nearby Kailua Beach Park supplies facilities when you need them.",
+      "best_time": "Weekday early mornings for space and soft light; weekends and holidays fill fast. Trade-wind mornings often favour calm nearshore water; check ocean conditions before paddling to the Mokulua.",
+      "how_to_get_there": "From Honolulu take Pali or Likelike Highway to Kailua, then follow signs into Lanikai / Mokulua Drive. Use only marked public beach access paths (DLNR lists several along Mokulua Drive). Street parking is scarce and strictly ticketed—consider parking in Kailua town and walking or using Kailua Beach Park as a base.",
+      "good_to_know": "PUBLIC / OPEN shoreline via access paths — not a full beach park. No lifeguards or facilities on Lanikai sand; bring water and shade. Obey all parking signs (fines are steep). Respect residential neighbours; pack out trash. Kayak crossings to the Mokes are open-ocean—guides recommended for beginners.",
+      "official_or_tourism_url": "https://dlnr.hawaii.gov/occl/beach-access/",
+      "sources": [
+        "https://dlnr.hawaii.gov/occl/beach-access/",
+        "https://dlnr.hawaii.gov/ld/files/2025/06/Beach-Locations-1601_V.5.pdf",
+        "https://en.wikipedia.org/wiki/Lanikai_Beach",
+        "https://www.to-hawaii.com/oahu/beaches/lanikai-beach/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kailua, United States",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kailua%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kailua%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kailua%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kailua"
+    }
+  }
+]
