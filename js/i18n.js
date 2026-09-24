@@ -341,7 +341,8 @@
 
     wrap.appendChild(btn);
     wrap.appendChild(menu);
-    header.appendChild(wrap);
+    var end = header.querySelector('.header-end');
+    (end || header).appendChild(wrap);
 
     if (!document.documentElement._sosLangDocBound) {
       document.documentElement._sosLangDocBound = true;
