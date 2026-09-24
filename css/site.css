@@ -424,12 +424,13 @@ img { max-width: 100%; display: block; }
   min-height: 0;
   width: 100%;
   overflow: hidden;
+  flex: 1 1 auto;
 }
 .klook-widget-mount iframe {
   max-width: 100% !important;
 }
 .klook-fallback--secondary {
-  margin-top: 0.5rem;
+  margin: 0 0 0.45rem;
   font-size: 0.85rem;
   min-height: 40px;
 }
@@ -442,22 +443,28 @@ img { max-width: 100%; display: block; }
 }
 
 /* Wide desktop: pin rail in far-right viewport gutter (below sticky header).
-   ~720px centered wrap + gap + ~200px rail needs roughly ≥1200px. */
+   ~720px centered wrap + gap + ~200–240px rail needs roughly ≥1200px.
+   JS syncs top/height to deck chrome → Stay/Stray buttons. */
 @media (min-width: 1200px) {
   .klook-rail--desktop {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+    align-items: stretch;
     position: fixed;
-    top: 5.5rem;
+    top: 5.5rem; /* overridden by syncKlookRailGeometry */
     right: 1.25rem;
-    width: 200px;
-    max-height: calc(100vh - 6.5rem);
+    width: 220px;
+    min-height: min(70vh, 36rem);
+    max-height: none;
     overflow: auto;
     z-index: 30; /* below .site-header (40) so counts/lang stay clear */
     margin: 0;
     touch-action: manipulation;
     pointer-events: auto;
+  }
+  .klook-rail--desktop .klook-widget-mount {
+    min-height: 12rem;
   }
   .klook-rail--mobile { display: none; }
 }

@@ -446,8 +446,8 @@
       cls +
       '" aria-label="Things to do nearby">' +
       '<p class="klook-kicker">Things to do nearby</p>' +
-      '<div class="klook-widget-mount" data-klook-mount></div>' +
       fallback +
+      '<div class="klook-widget-mount" data-klook-mount></div>' +
       '</aside>'
     );
   }
@@ -795,6 +795,28 @@
     });
 
     this.mountKlookWidget();
+    const selfRail = this;
+    // Re-measure after layout / photo intrinsic size settles.
+    requestAnimationFrame(function () {
+      selfRail.syncKlookRailGeometry();
+      requestAnimationFrame(function () {
+        selfRail.syncKlookRailGeometry();
+      });
+    });
+    const photoImg = document.querySelector('#photo-stage img');
+    if (photoImg) {
+      if (photoImg.complete) {
+        this.syncKlookRailGeometry();
+      } else {
+        photoImg.addEventListener(
+          'load',
+          function () {
+            selfRail.syncKlookRailGeometry();
+          },
+          { once: true }
+        );
+      }
+    }
 
     const stayBtn = document.getElementById('btn-stay');
     if (stayBtn) stayBtn.focus({ preventScroll: true });
@@ -809,6 +831,54 @@
   };
 
 
+  Deck.prototype.syncKlookRailGeometry = function () {
+    if (!this.root) return;
+    const rail = this.root.querySelector('.klook-rail--desktop');
+    if (!rail) return;
+    const useDesktop =
+      typeof window.matchMedia === 'function' &&
+      window.matchMedia('(min-width: 1200px)').matches;
+    if (!useDesktop) {
+      rail.style.top = '';
+      rail.style.height = '';
+      rail.style.minHeight = '';
+      return;
+    }
+
+    // Align with TODAY'S DECK / section label (deck chrome above the card),
+    // falling back to the tab row when those are missing.
+    const daily = document.getElementById('daily-deck-note');
+    const topEl =
+      (daily && !daily.hidden ? daily : null) ||
+      document.querySelector('.deck-section-label') ||
+      document.querySelector('.tab-nav');
+    const stayBtn = document.getElementById('btn-stay');
+    const strayBtn = document.getElementById('btn-stray');
+    const photo =
+      document.getElementById('photo-stage') ||
+      (this.root.querySelector('.card-active .photo-stage'));
+
+    if (!topEl || (!stayBtn && !strayBtn)) return;
+
+    const topRect = topEl.getBoundingClientRect();
+    let bottom = 0;
+    if (stayBtn) bottom = Math.max(bottom, stayBtn.getBoundingClientRect().bottom);
+    if (strayBtn) bottom = Math.max(bottom, strayBtn.getBoundingClientRect().bottom);
+
+    const top = Math.max(0, Math.round(topRect.top));
+    let height = Math.round(bottom - top);
+    if (photo) {
+      const photoH = Math.round(photo.getBoundingClientRect().height);
+      // Panel at least as tall as the card image band.
+      height = Math.max(height, photoH);
+    }
+    height = Math.max(height, 280);
+
+    rail.style.top = top + 'px';
+    rail.style.height = height + 'px';
+    rail.style.minHeight = height + 'px';
+  };
+
   Deck.prototype.mountKlookWidget = function () {
     if (!this.root) return;
     const src = klookWidgetSrc();
@@ -816,6 +886,9 @@
     this.root.querySelectorAll('[data-klook-mount]').forEach(function (mount) {
       mount.innerHTML = '';
     });
+
+    this.syncKlookRailGeometry();
+
     if (!src) return;
 
     const desktop = this.root.querySelector('.klook-rail--desktop');
@@ -838,10 +911,12 @@
       if (fallback) fallback.hidden = false;
     };
     script.onload = function () {
-      // Keep fallback as secondary CTA under the widget.
+      // Keep fallback as compact top CTA once the widget mounts below it.
       if (fallback) fallback.classList.add('klook-fallback--secondary');
     };
     mount.appendChild(script);
+
+    this._klookWasDesktop = useDesktop;
 
     if (!this._klookResizeBound) {
       this._klookResizeBound = true;
@@ -850,8 +925,14 @@
       window.addEventListener('resize', function () {
         clearTimeout(timer);
         timer = setTimeout(function () {
-          if (self.root && self.root.querySelector('.klook-rail')) {
+          if (!(self.root && self.root.querySelector('.klook-rail'))) return;
+          const nowDesktop =
+            typeof window.matchMedia === 'function' &&
+            window.matchMedia('(min-width: 1200px)').matches;
+          if (nowDesktop !== self._klookWasDesktop) {
             self.mountKlookWidget();
+          } else {
+            self.syncKlookRailGeometry();
           }
         }, 200);
       });
