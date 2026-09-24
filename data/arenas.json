@@ -1007,5 +1007,1045 @@
       "auditor_status": "approved",
       "audited_at": "2026-09-21T00:06:47-05:00"
     }
+  },
+  {
+    "id": "arenas-021",
+    "tab": "arenas",
+    "name": "Tottenham Hotspur Stadium",
+    "short_line": "London, United Kingdom",
+    "country": "United Kingdom",
+    "lat": 51.6042,
+    "lng": -0.0663,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Tottenham_Hotspur_Stadium_Dec_2023_01_lighter.jpg",
+      "local_path": "images/arenas/arenas-021.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Tottenham_Hotspur_Stadium_Dec_2023_01_lighter.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Acabashi",
+      "attribution": "Photo: Acabashi, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Tottenham Hotspur Stadium Dec 2023 01 lighter.jpg (Acabashi). Visually verified: wide exterior of Tottenham Hotspur Stadium rising above Tottenham terraces with metallic façade and south-stand glazing; stadium is main subject."
+    },
+    "facts": {
+      "one_liner": "Spurs’ 62,850-seat North London home—metallic façade rising above Tottenham terraces.",
+      "why_go": "Tottenham Hotspur Stadium opened in 2019 on the High Road in Tottenham and holds about 62,850 for football, with a retractable pitch that also hosts NFL and concerts. The photo is a wide exterior view: the stadium’s grey metallic panel skin and south-stand glazing loom above traditional London terraced rooftops and trees—exactly the street-to-bowl contrast that defines the ground from the neighbourhood. Official stadium tours (self-guided and guided Technical Tours) run from the Tottenham Experience on non-event days and cover First Team areas, the tunnel, pitchside, and NFL facilities. It remains the club’s open, working home through the 2025–2026 Premier League calendar.",
+      "best_time": "Clear daylight for the exterior over the terraces; weekday non-match mornings for quieter plazas and fuller tour routes. Match and concert days pause or shorten tours—check the stadium calendar before booking.",
+      "how_to_get_there": "782 High Road, London N17 0BX. Tube to Seven Sisters or Tottenham Hale then bus/walk, or White Hart Lane Overground; follow High Road signage to the Tottenham Experience for tours.",
+      "good_to_know": "OPEN for Premier League fixtures, NFL, concerts, and stadium tours through 2025–2026 (tottenhamhotspurstadium.com). Tours start inside the Tottenham Experience / Spurs Shop; bag checks apply. No public matchday parking at the stadium—use public transport.",
+      "official_or_tourism_url": "https://www.tottenhamhotspurstadium.com/",
+      "sources": [
+        "https://www.tottenhamhotspurstadium.com/attractions",
+        "https://www.tottenhamhotspur.com/the-stadium",
+        "https://ask.tottenhamhotspur.com/hc/en-us/articles/360015517740-Stadium-Tours-FAQs"
+      ]
+    },
+    "ad": {
+      "destination_query": "London, United Kingdom",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=London%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=London%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=London%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in London"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Tottenham Hotspur Stadium metallic façade over Tottenham terraces (Acabashi CC BY-SA 4.0). Facts/ad London OK. Coords North London.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-022",
+    "tab": "arenas",
+    "name": "Stade de France",
+    "short_line": "Saint-Denis, France",
+    "country": "France",
+    "lat": 48.9244,
+    "lng": 2.3601,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Stade_de_France_%40_Saint-Denis_%2828359861273%29.jpg",
+      "local_path": "images/arenas/arenas-022.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Stade_de_France_@_Saint-Denis_(28359861273).jpg",
+      "license": "CC BY 2.0",
+      "author": "Guilhem Vellut",
+      "attribution": "Photo: Guilhem Vellut, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Stade de France @ Saint-Denis (28359861273).jpg (Guilhem Vellut). Visually verified: plaza approach with floating elliptical roof, masts/cables, and STADE FRANCE façade signage; stadium is main subject."
+    },
+    "facts": {
+      "one_liner": "France’s ~80,000-seat national stadium—floating elliptical roof on the Saint-Denis plaza.",
+      "why_go": "Stade de France in Saint-Denis is France’s national stadium, opened for the 1998 FIFA World Cup and still home to France football and rugby internationals plus major concerts. The photo shows the plaza approach: the elliptical white roof appears to float on masts and cables, with STADEFRANCE façade signage at ground level—classic exterior identity of the venue. Guided Stadium Tours (about 1½ hours via Cultival, entrance Porte H) cover stands, locker rooms, the players’ tunnel, and the museum when the event calendar allows. The stadium remains open for events and tours through 2025–2026, including post–Paris 2024 use.",
+      "best_time": "Sunny days for plaza and roof photos; book English or French tour slots on non-event days. Cultival notes the pitch can be covered or unseen during concert build periods (including into late 2026)—confirm before you go.",
+      "how_to_get_there": "Stade de France, 93200 Saint-Denis. RER B La Plaine–Stade de France, RER D Stade de France–Saint-Denis, Métro 13 Saint-Denis–Porte de Paris, or Métro 14 Saint-Denis–Pleyel; follow plaza walkways to Porte H for tours.",
+      "good_to_know": "OPEN for internationals, concerts, and guided tours 2025–2026 (stadefrance.com / Cultival). Tours are not run on event days; arrive ~30 minutes early for bag checks. Hotels search uses Saint-Denis (Paris metro is an easy backup if inventory is thin).",
+      "official_or_tourism_url": "https://www.stadefrance.com/en/tour-pass",
+      "sources": [
+        "https://www.stadefrance.com/en/tour-pass",
+        "https://www.cultival.fr/en_GB/products/indiv/behind-the-scenes-at-the-stade-de-france",
+        "https://parisjetaime.com/eng/culture/stade-de-france-p3568"
+      ]
+    },
+    "ad": {
+      "destination_query": "Saint-Denis, France",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Saint-Denis%2C%20France&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Saint-Denis%2C%20France&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Saint-Denis%2C%20France&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Saint-Denis"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Stade de France plaza with floating elliptical roof + STADE DE FRANCE gate signage (Guilhem Vellut CC BY 2.0). Ad Saint-Denis OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-023",
+    "tab": "arenas",
+    "name": "Stadio Olimpico",
+    "short_line": "Rome, Italy",
+    "country": "Italy",
+    "lat": 41.9341,
+    "lng": 12.4547,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Stadio_Olimpico_%28Roma%2C_ITA%29.jpg",
+      "local_path": "images/arenas/arenas-023.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_(Roma,_ITA).jpg",
+      "license": "CC BY 3.0",
+      "author": "ildirettore",
+      "attribution": "Photo: ildirettore, CC BY 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Stadio Olimpico (Roma, ITA).jpg (ildirettore). Visually verified: open seating bowl with blue seats, pitch, and scoreboard reading Stadio Olimpico; unmistakable stadium identity."
+    },
+    "facts": {
+      "one_liner": "Rome’s Foro Italico bowl—blue seats, white tensile roof, home of Roma and Lazio.",
+      "why_go": "Stadio Olimpico in the Foro Italico complex is Italy’s national stadium and the shared Serie A home of AS Roma and SS Lazio; it staged the 1960 Olympics and 1990 World Cup matches. The photo is an interior bowl view: tiers of deep blue seats, green pitch, white tensile roof ring, and a large video board—clear stadium identity from the stands. The official Stadio Olimpico Tour (Sport e Salute / Vivaticket) opens locker rooms, mixed zone, pitchside, and stands daily except match days. It remains an active, open venue for football, rugby, and concerts through 2025–2026.",
+      "best_time": "Non-match days 10:00–18:00 for the official tour; bright daylight for bowl photos. Avoid Roma/Lazio home dates and major concerts when the tour pauses.",
+      "how_to_get_there": "Viale dei Gladiatori / Piazzale del Foro Italico, Rome. Tour entrance at the Monte Mario Tribune side (Via dei Gladiatori 2 ticket office). Metro Ottaviano then bus, or tram/bus lines serving Foro Italico; taxis drop at the complex.",
+      "good_to_know": "OPEN for Serie A, internationals, and the Stadio Olimpico Tour 2025–2026 (sportesalute.eu / vivaticket). Book online; route can change around events. Do not confuse with the nearby Stadio dei Marmi athletics field.",
+      "official_or_tourism_url": "https://www.sportesalute.eu/stadioolimpicotour-en.html",
+      "sources": [
+        "https://www.sportesalute.eu/stadioolimpicotour-en.html",
+        "https://www.sportesalute.eu/stadioolimpicotour-en/info-and-tickets.html",
+        "https://www.turismoroma.it/it/luoghi/stadio-olimpico-tour"
+      ]
+    },
+    "ad": {
+      "destination_query": "Rome, Italy",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rome%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rome%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rome%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Rome"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Stadio Olimpico blue-seat bowl; scoreboard reads Stadio Olimpico (ildirettore CC BY 3.0). Interior bowl with clear venue identity (not identity-less interior). Ad Rome OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-024",
+    "tab": "arenas",
+    "name": "Yankee Stadium",
+    "short_line": "New York, United States",
+    "country": "United States",
+    "lat": 40.8296,
+    "lng": -73.9262,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Yankee_Stadium_%2827353652982%29.jpg",
+      "local_path": "images/arenas/arenas-024.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_(27353652982).jpg",
+      "license": "CC BY 2.0",
+      "author": "Kanesue",
+      "attribution": "Photo: Kanesue, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Yankee Stadium (27353652982).jpg (Kanesue). Visually verified: Gate 4 limestone façade with YANKEE STADIUM gold lettering and NY plaza logo; named ballpark is main subject."
+    },
+    "facts": {
+      "one_liner": "The Bronx ballpark’s Gate 4 limestone façade—gold YANKEE STADIUM lettering and NY plaza logo.",
+      "why_go": "Yankee Stadium (opened 2009 next to the original site) is the New York Yankees’ home in the Bronx, with classic limestone façades echoing the 1923 park. The photo is the Gate 4 exterior head-on: arched windows, gold “YANKEE STADIUM” lettering, Gate 4 canopy, and the interlocking NY logo set in the plaza pavement—unmistakable street identity. Official public and pregame tours (mlb.com/yankees) typically include the museum and Monument Park when the schedule allows. The ballpark remains open for MLB seasons, concerts, and tours through 2025–2026.",
+      "best_time": "Non-game weekdays for Classic Tours; arrive early on game days for Pregame or Gameday Express options (game ticket often required separately). Overcast light flatters the limestone façade for photos.",
+      "how_to_get_there": "1 E 161st St, Bronx, NY 10451. Subway 4/B/D to 161 St–Yankee Stadium; Metro-North to Yankees–E 153rd Street. Classic Tours often check in near Gate 6 / Hard Rock Café—confirm the entrance on your ticket.",
+      "good_to_know": "OPEN for Yankees home games and official stadium tours 2025–2026 (mlb.com/yankees ballpark tours). Buy tours online in advance; routes and dates change with the schedule. Restricted bag policy on event days.",
+      "official_or_tourism_url": "https://www.mlb.com/yankees/ballpark/tours/public",
+      "sources": [
+        "https://www.mlb.com/yankees/ballpark/tours/public",
+        "https://www.mlb.com/yankees/ballpark/information",
+        "https://www.nyctourism.com/sports/yankee-stadium/"
+      ]
+    },
+    "ad": {
+      "destination_query": "New York, United States",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=New%20York%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=New%20York%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=New%20York%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in New York"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Yankee Stadium Gate 4 limestone façade with gold YANKEE STADIUM + NY plaza logo (Kanesue CC BY 2.0). Ad New York OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-025",
+    "tab": "arenas",
+    "name": "Soldier Field",
+    "short_line": "Chicago, United States",
+    "country": "United States",
+    "lat": 41.8623,
+    "lng": -87.6167,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Soldier_Field_Chicago.jpg",
+      "local_path": "images/arenas/arenas-025.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Soldier_Field_Chicago.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "BryanDavis",
+      "attribution": "Photo: BryanDavis, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Soldier Field Chicago.jpg. Visually verified: stone façade inscribed SOLDIER FIELD / Dedicated to the Men and Women of the Armed Services with service seals and modern glass bowl rising above historic wall."
+    },
+    "facts": {
+      "one_liner": "Chicago’s lakefront memorial stadium—SOLDIER FIELD stone wall under the modern glass bowl.",
+      "why_go": "Soldier Field on Museum Campus has been Chicago’s lakefront stadium since 1924 and is dedicated to the men and women of the U.S. armed services; it is home to the NFL Chicago Bears and MLS Chicago Fire FC. The photo focuses on the historic stone façade inscription “SOLDIER FIELD / DEDICATED TO THE MEN AND WOMEN OF THE ARMED SERVICES,” service-branch seals, and the modern glass-and-steel bowl rising above—memorial exterior meeting today’s bowl. Official Classic and VIP stadium tours cover courtyard, locker/interview rooms, colonnades, and field access when scheduled. The venue remains open for NFL, MLS, concerts, and tours through 2025–2026.",
+      "best_time": "Non-event mornings for tours (check-in typically Gate 1); bright daylight for the memorial wall and seals. Summer lakefront evenings are busy on game/concert nights.",
+      "how_to_get_there": "1410 Special Olympics Drive (Museum Campus), Chicago, IL 60605. CTA Roosevelt (Red/Orange/Green) then walk/bus, or Metra to Museum Campus/11th St; rideshares use Special Olympics Drive / Museum Campus Drive.",
+      "good_to_know": "OPEN for Bears, Fire FC, concerts, and public stadium tours 2025–2026 (soldierfield.com). Book Classic/VIP tours in advance; tour@soldierfield.net for reschedules. Exterior memorials are walkable around the site even without a tour ticket.",
+      "official_or_tourism_url": "https://www.soldierfield.com/stadium-tours",
+      "sources": [
+        "https://www.soldierfield.com/stadium-tours",
+        "https://www.soldierfield.com/stadium-tours/public-tours",
+        "https://www.choosechicago.com/listing/soldier-field/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Chicago, United States",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Chicago%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Chicago%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Chicago%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Chicago"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Soldier Field memorial stone wall inscribed SOLDIER FIELD with service seals; modern glass bowl visible above (BryanDavis CC BY-SA 3.0). CLOSE CALL: wall/lettering-forward framing but named stadium exterior + bowl identity sells visit. Ad Chicago OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-026",
+    "tab": "arenas",
+    "name": "MetLife Stadium",
+    "short_line": "East Rutherford, United States",
+    "country": "United States",
+    "lat": 40.8128,
+    "lng": -74.0742,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/MetLife_Stadium_exterior_Super_Bowl_XLVIII.jpg",
+      "local_path": "images/arenas/arenas-026.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:MetLife_Stadium_exterior_Super_Bowl_XLVIII.jpg",
+      "license": "CC BY 2.0",
+      "author": "Anthony Quintano",
+      "attribution": "Photo: Anthony Quintano, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "SWAP from Cape Town Stadium: Commons Category:Cape Town Stadium carries COM:FOP-South Africa (no acceptable FoP for modern architecture). Replacement Commons File:MetLife Stadium exterior Super Bowl XLVIII.jpg (Anthony Quintano). Visually verified: MetLife Stadium exterior with MetLife rim lettering and Super Bowl XLVIII plaza numerals; named stadium is main subject."
+    },
+    "facts": {
+      "one_liner": "NFL’s MetLife Stadium in East Rutherford, NJ—louvered exterior with MetLife rim lettering (not Cape Town).",
+      "why_go": "MetLife Stadium in the Meadowlands Sports Complex, East Rutherford, New Jersey, is the shared home of the NFL New York Giants and New York Jets and a 2026 FIFA World Cup host (including the final). The photo is the exterior plaza view with horizontal grey façade louvers, “MetLife” lettering on the rim, and Super Bowl XLVIII plaza numerals—clearly the New Jersey MetLife bowl, not Cape Town Stadium. Official guided tours (public weekends and private weekdays) visit press box, clubs, suites, and field when the calendar allows. The stadium remains open for NFL, concerts, World Cup preparations, and tours through 2025–2026.",
+      "best_time": "Select weekend public tours (often 10:00 / 13:00 / 16:00) or private weekday slots; field access may pause in peak event months. Overcast light suits the grey louvered skin for exterior photos.",
+      "how_to_get_there": "One MetLife Stadium Drive, East Rutherford, NJ 07073. NJ Transit to Meadowlands Sports Complex / Secaucus Junction with event shuttles; tour guests typically park free in Lots F/G and enter via the MetLife Gate. NYC PATH/bus connections serve the Meadowlands on event days.",
+      "good_to_know": "OPEN as MetLife Stadium (East Rutherford, NJ)—NOT Cape Town. Tours and NFL/events continue 2025–2026 (metlifestadium.com); World Cup 2026 may alter tour products mid-year. Buy tickets in advance (Ticketmaster for public tours). Hotels deeplink uses East Rutherford; nearby Secaucus/NYC inventory is a practical backup.",
+      "official_or_tourism_url": "https://www.metlifestadium.com/stadium-tours/about-stadium-tours",
+      "sources": [
+        "https://www.metlifestadium.com/stadium-tours/about-stadium-tours",
+        "https://www.metlifestadium.com/stadium-tours/public-weekend-tours",
+        "https://www.njtransit.com/Meadowlands"
+      ]
+    },
+    "ad": {
+      "destination_query": "East Rutherford, United States",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=East%20Rutherford%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=East%20Rutherford%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=East%20Rutherford%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in East Rutherford"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — LOCK MetLife Stadium East Rutherford NJ: MetLife rim lettering + Super Bowl XLVIII plaza numerals (Anthony Quintano CC BY 2.0; Commons Flickr caption East Rutherford). Coords 40.8128,-74.0742 ≠ Cape Town. Ad East Rutherford OK. NOT Cape Town / NOT other MetLife.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-027",
+    "tab": "arenas",
+    "name": "Lord's Cricket Ground",
+    "short_line": "London, United Kingdom",
+    "country": "United Kingdom",
+    "lat": 51.5294,
+    "lng": -0.1725,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Pavilion_-_Lord%27s_Cricket_Ground.JPG",
+      "local_path": "images/arenas/arenas-027.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:The_Pavilion_-_Lord's_Cricket_Ground.JPG",
+      "license": "CC BY-SA 3.0",
+      "author": "PaddyBriggs",
+      "attribution": "Photo: PaddyBriggs, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:The Pavilion - Lord's Cricket Ground.JPG (PaddyBriggs). Visually verified: Grade II Lord's Pavilion as unmistakable ground identity with cricket field and stands."
+    },
+    "facts": {
+      "one_liner": "The Home of Cricket—Grade II* Victorian Pavilion overlooking the Lord’s outfield.",
+      "why_go": "Lord’s Cricket Ground in St John’s Wood is MCC’s historic home and England’s most famous cricket venue, hosting Tests, ODIs, and the Hundred. The photo centres on the red-brick Victorian Pavilion with white balconies and twin cupolas beside the green outfield—Grade II* architecture that anchors the ground’s identity. Official Lord’s Guided Tours (~100 minutes) take visitors through the Pavilion, Long Room, dressing rooms, Barclays Media Centre, and MCC Museum (Ashes Urn) when operations allow. The ground remains open for matches and MCC tours through 2025–2026.",
+      "best_time": "Non-match days for the fullest Pavilion access; August–October 2026 lists frequent daily slots on lords.org. Match days and ground operations can restrict advertised rooms—book and confirm.",
+      "how_to_get_there": "St John’s Wood Road, London NW8 8QN. Tube to St John’s Wood (Jubilee) or Marylebone; short walk to the Grace Gates / tour meeting point as printed on your booking.",
+      "good_to_know": "OPEN for cricket and Lord’s Tours & Museum 2025–2026 (lords.org). Museum entry is tied to a tour booking. Dress smart-casual for Pavilion areas; follow MCC tour guidance on photography.",
+      "official_or_tourism_url": "https://www.lords.org/lords/lord-s-experience/tours",
+      "sources": [
+        "https://www.lords.org/lords/lord-s-experience/tours",
+        "https://www.lords.org/lords/lord-s-experience/tours/lords-guided-tour",
+        "https://www.visitlondon.com/things-to-do/place/115503-lords-cricket-ground-and-lords-tour"
+      ]
+    },
+    "ad": {
+      "destination_query": "London, United Kingdom",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=London%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=London%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=London%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in London"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Lord's Pavilion Grade II* over cricket field with floodlight (PaddyBriggs CC BY-SA 3.0). Unmistakable Home of Cricket. Ad London OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-028",
+    "tab": "arenas",
+    "name": "Eden Gardens",
+    "short_line": "Kolkata, India",
+    "country": "India",
+    "lat": 22.5646,
+    "lng": 88.3433,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Eden_Gardens_Kolkata.jpg",
+      "local_path": "images/arenas/arenas-028.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eden_Gardens_Kolkata.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Partha Bhaumik",
+      "attribution": "Photo: Partha Bhaumik, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Eden Gardens Kolkata.jpg (Partha Bhaumik). Visually verified: packed Eden Gardens bowl with floodlight towers, colorful canopy roof, and KOLKATA scoreboard; stadium bowl is main subject."
+    },
+    "facts": {
+      "one_liner": "Kolkata’s packed cricket bowl—floodlight towers, colourful canopy, and KOLKATA on the big screen.",
+      "why_go": "Eden Gardens beside the Maidan is India’s most storied cricket stadium, managed by the Cricket Association of Bengal and home to international cricket and IPL’s Kolkata Knight Riders. The photo is a match-day interior bowl: multi-tier stands under colourful roof panels, red-and-white lattice floodlight towers, a crowded lower tier, and a video board reading KOLKATA—clear Eden Gardens identity. Regular daily public stadium tours are not advertised; access is primarily via match tickets or occasional CAB-arranged visits. The venue remains an active, open international and IPL ground through 2025–2026.",
+      "best_time": "IPL and international fixtures for the full bowl atmosphere; winter–spring (Nov–Mar) for milder Kolkata weather. Non-match exterior views from the Maidan side are easier without a ticket.",
+      "how_to_get_there": "Eden Gardens, Maidan / B.B.D. Bagh area, Kolkata 700021. Nearest Metro: Eden Gardens / Chandni Chowk / Central; taxis and rideshares to the Maidan gates. Follow CAB/match-day entry instructions on ticketed days.",
+      "good_to_know": "OPEN as an active CAB/IPL/international stadium 2025–2026 (cricketassociationofbengal.com). No reliable walk-up interior tour schedule—plan a match or contact CAB for special access. Exterior/Maidan approaches are the usual tourist stop on non-match days.",
+      "official_or_tourism_url": "https://cricketassociationofbengal.com/edengarden.php",
+      "sources": [
+        "https://cricketassociationofbengal.com/edengarden.php",
+        "https://www.stadiumscene.tv/stadium/eden-gardens",
+        "https://www.kolkatatrips.com/eden-gardens/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kolkata, India",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kolkata%2C%20India&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kolkata%2C%20India&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kolkata%2C%20India&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kolkata"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Eden Gardens packed bowl, lattice floodlights, colorful canopy; scoreboard KOLKATA (Partha Bhaumik CC BY-SA 2.0). CLOSE CALL: board shows city not 'Eden Gardens' text — architecture + match bowl unmistakable. Ad Kolkata OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-029",
+    "tab": "arenas",
+    "name": "Beijing National Stadium",
+    "short_line": "Beijing, China",
+    "country": "China",
+    "lat": 39.9929,
+    "lng": 116.3903,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Beijing_China_Beijing-National-Stadium-02.jpg",
+      "local_path": "images/arenas/arenas-029.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Beijing_China_Beijing-National-Stadium-02.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "CEphoto, Uwe Aranas",
+      "attribution": "Photo: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Beijing China Beijing-National-Stadium-02.jpg (CEphoto, Uwe Aranas). Visually verified: Bird's Nest steel-lattice exterior as main subject from plaza approach."
+    },
+    "facts": {
+      "one_liner": "The Bird’s Nest—2008/2022 Olympic steel-lattice exterior on Beijing Olympic Park.",
+      "why_go": "Beijing National Stadium (the Bird’s Nest) in Olympic Park hosted the 2008 Summer Olympics ceremonies and the 2022 Winter Olympics opening and closing—unique as a dual-Olympic ceremonies venue—with about 91,000 spectator capacity. The photo is the plaza exterior: silver-grey steel lattice shell with red bowl visible through the weave, landscaped path, and clear sky—classic Bird’s Nest street presence. Official tourism visits and ticketed routes (including VIP/Top Wonder options) run from the National Stadium operator; VisitBeijing lists full-day hours roughly 10:00–22:00 with last entry ~21:00 when not closed for events. It remains open as a tourist and event landmark through 2025–2026.",
+      "best_time": "Clear daylight for lattice-and-red contrast; evenings for lit exterior. Check n-s.cn / VisitBeijing before going—major events shorten or close tourist routes.",
+      "how_to_get_there": "No. 1 National Stadium South Road, Chaoyang, Beijing (Olympic Park). Subway Line 8 Olympic Sports Center or Olympic Green stations; walk the park paths to the Bird’s Nest plaza.",
+      "good_to_know": "OPEN for tourism and events 2025–2026 (n-s.cn / VisitBeijing). Buy admission tickets for interior/route access; plaza views of the lattice exterior are free from Olympic Park approaches. Pair with the nearby National Aquatics Center (Water Cube).",
+      "official_or_tourism_url": "https://www.n-s.cn/",
+      "sources": [
+        "https://www.n-s.cn/",
+        "https://r.visitbeijing.com.cn/attraction/738",
+        "https://www.n-s.cn/en/tours_f410b1709b904922a5ddabe06ad78cf7.html"
+      ]
+    },
+    "ad": {
+      "destination_query": "Beijing, China",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Beijing%2C%20China&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Beijing%2C%20China&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Beijing%2C%20China&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Beijing"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Beijing National Stadium Bird's Nest steel lattice from plaza (CEphoto Uwe Aranas CC BY-SA 3.0). Iconic exterior main subject. Ad Beijing OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-030",
+    "tab": "arenas",
+    "name": "Seoul World Cup Stadium",
+    "short_line": "Seoul, South Korea",
+    "country": "South Korea",
+    "lat": 37.5683,
+    "lng": 126.8973,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Seoul_World_Cup_Stadium_01.jpg",
+      "local_path": "images/arenas/arenas-030.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Seoul_World_Cup_Stadium_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Exj",
+      "attribution": "Photo: Exj, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Seoul World Cup Stadium 01.jpg (Exj). Visually verified: plaza entrance with SEOUL WORLD CUP STADIUM lettering and kite-shaped roof canopy; named stadium is main subject."
+    },
+    "facts": {
+      "one_liner": "2002 World Cup host in Mapo—kite-inspired roof canopy and SEOUL WORLD CUP STADIUM gates.",
+      "why_go": "Seoul World Cup Stadium in Mapo-gu was built for the 2002 FIFA World Cup and is the home of K League club FC Seoul; its roof canopy is often described as inspired by a traditional Korean kite. The photo shows the plaza entrance: wide stairs, “SEOUL WORLD CUP STADIUM” lettering, FC Seoul red banners, and the mast-supported white canopy—named stadium as the clear subject. Visit Seoul documents a public stadium tour (VIP room, field viewing, locker/warm-up areas, history exhibits) on non-match days. The venue remains open for K League, events, and tours through 2025–2026.",
+      "best_time": "Non-match tour days (Visit Seoul notes closures Mondays, holidays, and match days; multiple daily slots when open). Match days for FC Seoul atmosphere with red-banner plazas.",
+      "how_to_get_there": "240 World Cup-ro, Mapo-gu, Seoul 03932. Subway Line 6 World Cup Stadium Station (Exits toward the stadium); short walk to the main stairs and tour lobby.",
+      "good_to_know": "OPEN for FC Seoul, events, and stadium tours 2025–2026 (english.visitseoul.net). Tour fees are modest (Visit Seoul lists adult ~₩1,000); schedules pause for matches and some holidays—confirm before visiting. Phone listed by Visit Seoul: +82-2-2128-2002.",
+      "official_or_tourism_url": "https://english.visitseoul.net/entertainment/Seoul-World-Cup-Stadium/ENP002101",
+      "sources": [
+        "https://english.visitseoul.net/entertainment/Seoul-World-Cup-Stadium/ENP002101",
+        "https://www.fcseoul.com/",
+        "https://korean.visitseoul.net/attractions/%EC%84%9C%EC%9A%B8%EC%9B%94%EB%93%9C%EC%BB%B5%EA%B2%BD%EA%B8%B0%EC%9E%A5_/2101"
+      ]
+    },
+    "ad": {
+      "destination_query": "Seoul, South Korea",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Seoul%2C%20South%20Korea&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Seoul%2C%20South%20Korea&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Seoul%2C%20South%20Korea&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Seoul"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Seoul World Cup Stadium plaza entrance with SEOUL WORLD CUP STADIUM lettering + kite roof (Exj CC BY-SA 4.0). Ad Seoul OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-031",
+    "tab": "arenas",
+    "name": "Estadio Más Monumental",
+    "short_line": "Buenos Aires, Argentina",
+    "country": "Argentina",
+    "lat": -34.5594,
+    "lng": -58.4494,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Estadio_de_River_Plate_desde_la_Av._Lugones.JPG",
+      "local_path": "images/arenas/arenas-031.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Estadio_de_River_Plate_desde_la_Av._Lugones.JPG",
+      "license": "CC BY 3.0",
+      "author": "GelpgimLa22 (Sergio Panei Pitrau)",
+      "attribution": "Photo: GelpgimLa22 (Sergio Panei Pitrau), CC BY 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Estadio de River Plate desde la Av. Lugones.JPG (GelpgimLa22). Visually verified: River Plate Estadio Monumental exterior from Av. Lugones with floodlight towers and bowl massing (≠ Bombonera)."
+    },
+    "facts": {
+      "one_liner": "River Plate’s Núñez home—South America’s largest club bowl, commercially Estadio Más Monumental.",
+      "why_go": "Estadio Más Monumental (historic Estadio Monumental Antonio Vespucio Liberti) is Club Atlético River Plate’s home in Buenos Aires’s Núñez neighbourhood and Argentina’s largest football stadium. The photo shows the massive multi-tier concrete exterior from Avenida Lugones: red rim branding, lattice floodlight towers, and the open bowl massing that distinguishes it from Boca’s Bombonera. Museo River plus Express or Full stadium tours take visitors into stands, tunnel, and pitch-side areas on non-match days. It remains River’s active match venue through 2025–2026 while further expansion and roofing works continue under the Más Monumental naming deal.",
+      "best_time": "Non-match weekdays for Museo River and Full tour access (often ~11:00–17:00); clear daylight for exterior shots from Av. Lugones / Figueroa Alcorta. Match-day and event prep cancel or shorten tours—confirm before you go.",
+      "how_to_get_there": "Av. Pres. Figueroa Alcorta 7597, Núñez, CABA. Mitre line to Núñez or Belgrano Norte to Scalabrini Ortiz; buses 15, 29, 37, 42, 57, 130, 152 and others serve the stadium district.",
+      "good_to_know": "OPEN for matches and Museo River / stadium tours 2025–2026 (club-operated). Commercial name is Estadio Más Monumental (Grupo De Narváez / Chango Más naming rights); fans still say El Monumental. Capacity is in the mid-80,000s after recent expansion—further roof/seat works are planned. Do not confuse with La Bombonera in La Boca.",
+      "official_or_tourism_url": "https://www.cariverplate.com.ar/",
+      "sources": [
+        "https://www.cariverplate.com.ar/",
+        "https://www.civitatis.com/en/buenos-aires/museo-river-plate-tickets-estadio-monumental/",
+        "https://www.thestadiumbusiness.com/2022/04/06/river-plate-strikes-naming-rights-deal-for-el-monumental/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Buenos Aires, Argentina",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Buenos%20Aires%2C%20Argentina&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Buenos%20Aires%2C%20Argentina&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Buenos%20Aires%2C%20Argentina&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Buenos Aires"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Estadio Más Monumental / River Plate from Av. Lugones with floodlight towers (GelpgimLa22 CC BY 3.0). ≠ Bombonera. Ad Buenos Aires OK. Current commercial name on card.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-032",
+    "tab": "arenas",
+    "name": "Neo Química Arena",
+    "short_line": "São Paulo, Brazil",
+    "country": "Brazil",
+    "lat": -23.5453,
+    "lng": -46.4742,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Arena_Corinthians_vista_da_Esta%C3%A7%C3%A3o_Corinthians%E2%80%93Itaquera.jpg",
+      "local_path": "images/arenas/arenas-032.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Arena_Corinthians_vista_da_Estação_Corinthians–Itaquera.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Juan Benjamin Samaniêgo",
+      "attribution": "Photo: Juan Benjamin Samaniêgo, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Arena Corinthians vista da Estação Corinthians–Itaquera.jpg (Juan Benjamin Samaniêgo). Visually verified: Neo Química Arena / Arena Corinthians white roof and bowl from station overlook; stadium is main subject."
+    },
+    "facts": {
+      "one_liner": "Corinthians’ Itaquera home—white floating roof above Radial Leste, still called Neo Química Arena.",
+      "why_go": "Neo Química Arena (built as Arena Corinthians; FIFA name Arena de São Paulo at the 2014 World Cup) is Sport Club Corinthians Paulista’s purpose-built home in São Paulo’s Itaquera district. The photo matches the elevated view from Estação Corinthians–Itaquera: a rectangular white bowl with a thin floating roof canopy above a grassy embankment and the Radial Leste highway. Tour Casa do Povo walks museum spaces, press areas, locker room, tunnel, and pitch edge. The venue is OPEN for Brasileiro fixtures and guided tours through 2025–2026 and has hosted FIFA Women’s World Cup 2027 technical visits.",
+      "best_time": "Weekday Tour Casa do Povo slots (~10:00–16:00) for quieter visits; weekends cost more and sell out faster. Exterior photos from the metro station overlook work in soft overcast light.",
+      "how_to_get_there": "Av. Miguel Ignácio Curi / Av. Sport Club Corinthians Paulista area, Itaquera, São Paulo. Metro Linha Vermelha to Corinthians–Itaquera; walk the elevated connection toward the arena. Match-day parking is limited—prefer metro.",
+      "good_to_know": "OPEN as Neo Química Arena (current commercial name; still widely called Arena Corinthians). Official arena site and Tour Casa do Povo book visits separately from match tickets. Capacity is roughly 48,000–49,000 for club football after World Cup temporary seating was removed.",
+      "official_or_tourism_url": "https://www.neoquimicaarena.com.br/",
+      "sources": [
+        "https://www.neoquimicaarena.com.br/",
+        "https://www.tourcasadopovo.com.br/",
+        "https://www.corinthians.com.br/clube/visitas"
+      ]
+    },
+    "ad": {
+      "destination_query": "São Paulo, Brazil",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=S%C3%A3o%20Paulo%2C%20Brazil&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=S%C3%A3o%20Paulo%2C%20Brazil&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=S%C3%A3o%20Paulo%2C%20Brazil&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in São Paulo"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Neo Química Arena / Arena Corinthians white cantilever roof from station overlook (Juan Benjamin Samaniêgo CC BY-SA 4.0). Current name Neo Química. Ad São Paulo OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-033",
+    "tab": "arenas",
+    "name": "Parc des Princes",
+    "short_line": "Paris, France",
+    "country": "France",
+    "lat": 48.8414,
+    "lng": 2.253,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Parc_des_Princes_%40_Paris_16_%2832835075813%29.jpg",
+      "local_path": "images/arenas/arenas-033.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Parc_des_Princes_@_Paris_16_(32835075813).jpg",
+      "license": "CC BY 2.0",
+      "author": "Guilhem Vellut",
+      "attribution": "Photo: Guilhem Vellut, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Parc des Princes @ Paris 16 (32835075813).jpg (Guilhem Vellut). Visually verified: street approach ending at Parc des Princes with signature concrete exterior fins/ribs."
+    },
+    "facts": {
+      "one_liner": "PSG’s 16th-arrondissement fortress—Roger Taillibert’s concrete rib exoskeleton on a residential street.",
+      "why_go": "Parc des Princes has been Paris Saint-Germain’s home since 1974 and remains the club’s primary stadium in the 16th arrondissement. The photo is a street-level approach ending at the stadium’s signature concrete exterior fins—the curved vertical ribs of Roger Taillibert’s 1972 rebuild—framed by Parisian apartments and spring blossom. Official Stadium Tours (Gate L) cover stands, VIP areas, press room, locker room, tunnel, and pitchside with multilingual audio. Ligue 1, European nights, and public tours keep the venue active through 2025–2026.",
+      "best_time": "School holidays and weekends roughly 10:00–17:00 for Stadium Tour (last departure); Fridays often open too. Matchday tour products exist but change with the fixture list—book the live calendar.",
+      "how_to_get_there": "24 rue du Commandant Guilbaud, 75016 Paris. Metro Porte de Saint-Cloud (L9) or Porte d’Auteuil (L10); buses along Boulevard Murat. Stadium Tour meeting point is Gate L opposite the PSG shop.",
+      "good_to_know": "OPEN for PSG matches and Stadium Tours 2025–2026 (stadiumtour.psg.fr lists dates into 2026). About 47,929 seats. Do not confuse with Stade de France in Saint-Denis—this is the club ground inside Paris proper.",
+      "official_or_tourism_url": "https://stadiumtour.psg.fr/en/",
+      "sources": [
+        "https://stadiumtour.psg.fr/en/",
+        "https://www.psg.fr/en/the-club/facilities/parc-des-princes/practical-information",
+        "https://ticket.parisjetaime.com/en/theme-parks-c6/psg-stadium-tour-27"
+      ]
+    },
+    "ad": {
+      "destination_query": "Paris, France",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Paris%2C%20France&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Paris%2C%20France&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Paris%2C%20France&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Paris"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Parc des Princes signature concrete fins at end of Paris street (Guilhem Vellut CC BY 2.0). CLOSE CALL: street-approach framing with cars FG — ribs still unmistakable. Ad Paris OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-034",
+    "tab": "arenas",
+    "name": "Celtic Park",
+    "short_line": "Glasgow, United Kingdom",
+    "country": "United Kingdom",
+    "lat": 55.8497,
+    "lng": -4.2055,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Celtic_Park%2C_Parkhead%2C_Glasgow_-_geograph.org.uk_-_5828341.jpg",
+      "local_path": "images/arenas/arenas-034.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Celtic_Park,_Parkhead,_Glasgow_-_geograph.org.uk_-_5828341.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Mike Pennington",
+      "attribution": "Photo: Mike Pennington, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Celtic Park, Parkhead, Glasgow - geograph.org.uk - 5828341.jpg (Mike Pennington). Visually verified: night exterior of Celtic Park with green-lit façade and CELTIC FOOTBALL CLUB 1888 neon; stadium is main subject."
+    },
+    "facts": {
+      "one_liner": "Parkhead’s green-lit cathedral—Celtic Park night façade with ‘CELTIC FOOTBALL CLUB 1888’ neon.",
+      "why_go": "Celtic Park in Glasgow’s Parkhead is Celtic Football Club’s home since 1892 and one of Britain’s largest club grounds (about 60,411 seats). The photo shows the night exterior: emerald-green façade lighting, heritage murals in the glass, cantilever roof steel, and the glowing ‘CELTIC FOOTBALL CLUB 1888’ roofline lettering. Official stadium tours (~60 minutes) start at the Sports Bar and typically include dressing room, boardroom, tunnel, dugout, and pitchside. Tours and Scottish Premiership fixtures keep the ground OPEN through the 2025–26 and 2026–27 seasons.",
+      "best_time": "Book non-match daytime tours for fullest routes; night exteriors deliver the green neon look in the photo. Home fixtures reschedule tours—Celtic publishes season calendars online.",
+      "how_to_get_there": "Janefield Street / Kerrydale Street, Parkhead, Glasgow G40 3RE. Train to Dalmarnock or Celtic Park event services; buses along London Road and Springfield Road. Tour meeting point: Sports Bar, south-west corner of the stadium.",
+      "good_to_know": "OPEN for matches and Celtic Park Stadium Tours 2025–2027 (celticfc.com). Tour & Dine packages add Number 7 Restaurant on select Fridays–Sundays. Arrive ~10–15 minutes early; late arrivals may miss the slot.",
+      "official_or_tourism_url": "https://www.celticfc.com/visit-celtic-park/stadium-tours/",
+      "sources": [
+        "https://www.celticfc.com/visit-celtic-park/stadium-tours/",
+        "https://www.celticfc.com/visit-celtic-park/getting-to-celtic-park/celtic-park-maps",
+        "https://www.peoplemakeglasgow.com/see-do/attractions/celtic-park-stadium-tour"
+      ]
+    },
+    "ad": {
+      "destination_query": "Glasgow, United Kingdom",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Glasgow%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Glasgow%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Glasgow%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Glasgow"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Celtic Park night exterior green-lit façade + CELTIC FOOTBALL CLUB 1888 neon (Mike Pennington CC BY-SA 2.0). Stadium main subject. Ad Glasgow OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-035",
+    "tab": "arenas",
+    "name": "Estádio da Luz",
+    "short_line": "Lisbon, Portugal",
+    "country": "Portugal",
+    "lat": 38.7527,
+    "lng": -9.1847,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Estadio_Benfica_April_2013-1.jpg",
+      "local_path": "images/arenas/arenas-035.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Estadio_Benfica_April_2013-1.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Alvesgaspar",
+      "attribution": "Photo: Alvesgaspar, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Estadio Benfica April 2013-1.jpg (Alvesgaspar). Visually verified: Estádio da Luz exterior with distinctive red tubular arches and white roof canopy."
+    },
+    "facts": {
+      "one_liner": "Benfica’s Cathedral of Light—red tubular arches and white roof over Lisbon’s Estádio da Luz.",
+      "why_go": "Estádio da Luz (Estádio do Sport Lisboa e Benfica) opened in 2003 as Benfica’s rebuilt home and staged the UEFA Euro 2004 final. The photo shows the exterior’s defining silhouette: bright red tubular steel arches spanning a white ribbed roof canopy above the red-and-grey façade, with the bus/transfer forecourt in front. Combined Stadium + Museum (Cosme Damião) visits and Immersive VR stops run most days; pitchside access can close for events. The ground remains OPEN for Primeira Liga, Europe, and public visits through 2025–2026 as capacity upgrades continue toward higher seat totals.",
+      "best_time": "Summer hours typically 09:30–19:00 (15 Jun–15 Sep) and winter 10:00–18:00; match days shorten routes. Daylight flatters the red arches against blue sky as in the photo.",
+      "how_to_get_there": "Av. Eusébio da Silva Ferreira, 1500-313 Lisboa. Metro Linha Azul to Colégio Militar / Luz; short walk to the stadium esplanade. Tickets via slbenfica.pt or Benfica Official Stores.",
+      "good_to_know": "OPEN for Stadium and Museum visits 2025–2026 (official Benfica ticketing). Public Stadium+Museum tickets from about €24; members cheaper. Confirm pitch/bench access on the day—events alter the route.",
+      "official_or_tourism_url": "https://www.slbenfica.pt/en-us/loja/bilhetes/estadio-e-museu",
+      "sources": [
+        "https://www.slbenfica.pt/en-us/loja/bilhetes/estadio-e-museu",
+        "https://www.slbenfica.pt/en-us/loja/bilhetes/estadio-e-museu/disponibilidade",
+        "https://www.visitlisboa.com/en/places/estadio-da-luz"
+      ]
+    },
+    "ad": {
+      "destination_query": "Lisbon, Portugal",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Lisbon%2C%20Portugal&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Lisbon%2C%20Portugal&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Lisbon%2C%20Portugal&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Lisbon"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Estádio da Luz red tubular arches + white roof (Alvesgaspar CC BY-SA 3.0). Ad Lisbon OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-036",
+    "tab": "arenas",
+    "name": "Friends Arena",
+    "short_line": "Solna, Sweden",
+    "country": "Sweden",
+    "lat": 59.3725,
+    "lng": 18.0,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Friends_Arena.jpg",
+      "local_path": "images/arenas/arenas-036.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Friends_Arena.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Frankie Fouganthin",
+      "attribution": "Photo: Frankie Fouganthin, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Friends Arena.jpg (Frankie Fouganthin). Visually verified: Friends Arena metallic triangular-panel exterior with friends ARENA branding; named arena is main subject."
+    },
+    "facts": {
+      "one_liner": "Sweden’s national arena in Solna—metallic triangular-panel shell; photo shows Friends Arena branding.",
+      "why_go": "Friends Arena opened in Solna in October 2012 as Sweden’s national stadium and AIK’s home, with a retractable roof and about 50,000 sports / 60,000 concert capacity. The photo matches the plaza exterior: faceted silver triangular-panel façade and the dark wall still carrying ‘friends ARENA’ / Swedbank partnership signage. Since 12 July 2024 the commercial name is Strawberry Arena (Stockholm Live / Strawberry naming partnership); the building and location are unchanged. It remains OPEN for Allsvenskan, national-team football, and major concerts into 2026.",
+      "best_time": "Clear daylight for the quilted metal façade (as photographed); check strawberryarena.se event calendar before planning a plaza visit—concert load-ins close approaches. Winter snow patches appear around the plaza.",
+      "how_to_get_there": "Arenavägen / Nationalarenan area, Solna (north of central Stockholm). Pendeltåg to Solna station (~10-minute walk) or Tunnelbana blue line toward Näckrosen / Solna centrum then walk. Prefer rail on event days.",
+      "good_to_know": "OPEN under current commercial name Strawberry Arena (rebrand July 2024); card title keeps Friends Arena to match the Scout photo’s façade branding. Operated by Nationalarenan i Solna AB (Stockholm Live). Confirm event access—there is no daily public museum tour like club grounds elsewhere.",
+      "official_or_tourism_url": "https://strawberryarena.se/en/",
+      "sources": [
+        "https://strawberryarena.se/en/the-arena/",
+        "https://strawberryarena.se/en/your-visit/get-to-the-arena/",
+        "https://press.stockholmlive.com/posts/pressreleases/nationalarenan-i-solna-byter-namn-till-strawb"
+      ]
+    },
+    "ad": {
+      "destination_query": "Solna, Sweden",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Solna%2C%20Sweden&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Solna%2C%20Sweden&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Solna%2C%20Sweden&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Solna"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Friends Arena metallic triangular-panel shell with friends ARENA signage (Frankie Fouganthin CC BY-SA 3.0). CLOSE CALL: commercial rebrand Jul 2024 to Strawberry Arena; card title keeps Friends to match Scout photo; facts disclose rebrand. Ad Solna OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-037",
+    "tab": "arenas",
+    "name": "Ernst-Happel-Stadion",
+    "short_line": "Vienna, Austria",
+    "country": "Austria",
+    "lat": 48.2092,
+    "lng": 16.4208,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/EHStadion040606w.jpg",
+      "local_path": "images/arenas/arenas-037.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:EHStadion040606w.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Extrawurst",
+      "attribution": "Photo: Extrawurst, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:EHStadion040606w.jpg (Extrawurst). Visually verified: Ernst-Happel-Stadion exterior bowl with white lattice roof ring and plaza; stadium is main subject."
+    },
+    "facts": {
+      "one_liner": "Vienna’s Prater national stadium—white lattice roof ring above stone football sculptures on the plaza.",
+      "why_go": "Ernst-Happel-Stadion (opened 1931 as Wiener Praterstadion; renamed for coach Ernst Happel) is the City of Vienna’s main football arena in the Prater and Austria’s national stadium. The photo shows the exterior bowl’s concrete ribs crowned by the white steel lattice roof ring, with oversized stone football sculptures on the damp plaza in the foreground. It hosted Euro 2008 matches and remains a UEFA five-star venue for internationals and concerts. Stadt Wien lists about 50,000 seats (more for pitch-standing concerts).",
+      "best_time": "Daylight non-event days for plaza and exterior photos; event calendars on Ticketmaster / Wiener Sportstätten fill summer concert nights. Confirm any public tour windows directly with Wiener Sportstätten—schedules are event-driven rather than daily museum hours.",
+      "how_to_get_there": "Meiereistraße 7, 1020 Vienna (Prater). U2 to Stadion; short walk through the Prater grounds. Trams and buses also serve the stadium area.",
+      "good_to_know": "OPEN as Vienna’s city stadium for football and concerts 2025–2026 (wien.gv.at / Wiener Sportstätten). Contact info@wienersportstaetten.at for visit or group enquiries. Photovoltaic roof works have made it a showcase energy-autonomous stadium project for the city.",
+      "official_or_tourism_url": "https://www.wien.gv.at/freizeit/ernst-happel-stadion",
+      "sources": [
+        "https://www.wien.gv.at/freizeit/ernst-happel-stadion",
+        "https://www.wien.info/en/see-do/sports/football",
+        "https://www.uefa.com/MultimediaFiles/Download/PressConference/Competitions/MediaServices/70/35/91/703591_DOWNLOAD.pdf"
+      ]
+    },
+    "ad": {
+      "destination_query": "Vienna, Austria",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Vienna%2C%20Austria&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Vienna%2C%20Austria&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Vienna%2C%20Austria&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Vienna"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Ernst-Happel-Stadion white lattice roof ring + soccer-ball plaza bollards (Extrawurst CC BY-SA 3.0). Ad Vienna OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-038",
+    "tab": "arenas",
+    "name": "Stadion Narodowy",
+    "short_line": "Warsaw, Poland",
+    "country": "Poland",
+    "lat": 52.2395,
+    "lng": 21.0457,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Stadion_Narodowy_w_Warszawie_20120422.jpg",
+      "local_path": "images/arenas/arenas-038.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Stadion_Narodowy_w_Warszawie_20120422.jpg",
+      "license": "Public domain",
+      "author": "Przemysław Jahr",
+      "attribution": "Photo: Przemysław Jahr, Public domain, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Stadion Narodowy w Warszawie 20120422.jpg (Przemysław Jahr). Visually verified: Warsaw National Stadium exterior with red-and-white mesh façade and perimeter masts."
+    },
+    "facts": {
+      "one_liner": "Warsaw’s National Stadium—red-and-white basket façade and perimeter masts of PGE Narodowy.",
+      "why_go": "Stadion Narodowy (commercially PGE Narodowy) opened on the site of the old 10th-Anniversary Stadium for UEFA Euro 2012 and is Poland’s national football venue on the Vistula. The photo shows the unmistakable exterior: woven red-and-white mesh cladding, angled silver perimeter masts, and cable-supported roof above raised plaza stairs. Official guided tours (Monday–Sunday, event permitting) meet above Gate 1 and include a Viewing Point; football-themed routes visit players’ zones. The stadium stays OPEN for internationals, concerts, and tours through 2025–2026.",
+      "best_time": "Book tours.pgenarodowy.pl slots on non-event weekdays; bright daylight highlights the red-white mesh as in the photo. Arrive early at Main Reception (turnstiles S/R)—late arrivals over 15 minutes can lose the tour.",
+      "how_to_get_there": "al. Księcia J. Poniatowskiego 1, 03-901 Warszawa. Metro M2 / SKM to Warszawa Stadion; walk Aleja Zieleniecka toward Gate 1. Trams and buses serve Rondo Waszyngtona.",
+      "good_to_know": "OPEN under commercial name PGE Narodowy; card title keeps Stadion Narodowy (National Stadium). Tours daily subject to events—print or digital tickets accepted for individuals. Comfortable footwear; no cloakroom on the route.",
+      "official_or_tourism_url": "https://tours.pgenarodowy.pl/before-the-visit",
+      "sources": [
+        "https://tours.pgenarodowy.pl/before-the-visit",
+        "https://tours.pgenarodowy.pl/routes/football-excitement",
+        "https://www.warsawtour.pl/en/what-to-see/pge-narodowy/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Warsaw, Poland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Warsaw%2C%20Poland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Warsaw%2C%20Poland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Warsaw%2C%20Poland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Warsaw"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Stadion Narodowy / PGE Narodowy red-white mesh façade + perimeter masts (Przemysław Jahr Public domain). Card title Stadion Narodowy; facts note PGE. Ad Warsaw OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-039",
+    "tab": "arenas",
+    "name": "Accor Stadium",
+    "short_line": "Sydney, Australia",
+    "country": "Australia",
+    "lat": -33.8471,
+    "lng": 151.0633,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Australia_Stadium.jpg",
+      "local_path": "images/arenas/arenas-039.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Australia_Stadium.jpg",
+      "license": "CC BY-SA 2.5",
+      "author": "Adam.J.W.C.",
+      "attribution": "Photo: Adam.J.W.C., CC BY-SA 2.5, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Australia Stadium.jpg (Adam.J.W.C.). Visually verified: Stadium Australia / Accor Stadium plaza exterior with arched roof and circular ramp towers (ANZ-era signage; same venue ≠ MCG)."
+    },
+    "facts": {
+      "one_liner": "Sydney Olympic Park’s Stadium Australia—Accor Stadium today; photo still shows ANZ-era plaza signage.",
+      "why_go": "Accor Stadium (built as Stadium Australia for the Sydney 2000 Olympics; later Telstra / ANZ naming eras) is Australia’s largest stadium at Sydney Olympic Park. The photo is the plaza exterior with the white arched roof trusses, circular ramp towers, and a central blue ‘ANZ STADIUM’ banner—legacy branding on the same building now commercially Accor Stadium. It hosts NRL, football, rugby, concerts, and major finals. NSW tourism and the official Accor Stadium site list it as open for events; regular public behind-the-scenes tours are limited compared with club museums, so check event and hospitality calendars.",
+      "best_time": "Clear daylight for plaza and arch photos (as shown); event days pack Olympic Park—arrive early via train. Confirm any ALL–Accor or event-package tour offers rather than assuming walk-up museum hours.",
+      "how_to_get_there": "Edwin Flack Avenue, Sydney Olympic Park NSW 2127. Train to Olympic Park station (via Lidcombe); follow pedestrian plazas to the stadium. Parking should be pre-booked on big-event days.",
+      "good_to_know": "OPEN as Accor Stadium (current commercial name); also still called Stadium Australia. Photo shows ANZ Stadium-era façade lettering—same Sydney Olympic Park venue, not the MCG or another Sydney ground. Capacity is event-dependent (around 80,000+). Prefer official accorstadium.com.au for fixtures and transport.",
+      "official_or_tourism_url": "https://www.accorstadium.com.au/",
+      "sources": [
+        "https://www.accorstadium.com.au/",
+        "https://www.accorstadium.com.au/plan-your-visit/transport",
+        "https://www.nsw.gov.au/visiting-and-exploring-nsw/locations-and-attractions/accor-stadium-stadium-australia"
+      ]
+    },
+    "ad": {
+      "destination_query": "Sydney, Australia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sydney%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sydney%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sydney%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Sydney"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — Accor Stadium / Stadium Australia plaza exterior with arched roof + circular ramps; photo shows ANZ-era banner (Adam.J.W.C. CC BY-SA 2.5). Card uses current Accor name; facts note ANZ photo era. ≠ MCG. Ad Sydney OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "arenas-040",
+    "tab": "arenas",
+    "name": "Rogers Centre",
+    "short_line": "Toronto, Canada",
+    "country": "Canada",
+    "lat": 43.6414,
+    "lng": -79.3894,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/ON_-_Rogers_Centre_Toronto.jpg",
+      "local_path": "images/arenas/arenas-040.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:ON_-_Rogers_Centre_Toronto.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Taxiarchos228",
+      "attribution": "Photo: Taxiarchos228, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:ON - Rogers Centre Toronto.jpg (Taxiarchos228). Visually verified: Rogers Centre exterior with closed retractable dome and ROGERS CENTRE red lettering; named stadium is main subject."
+    },
+    "facts": {
+      "one_liner": "Toronto’s retractable-dome ballpark—Rogers Centre on the waterfront beside the CN Tower, not Vancouver.",
+      "why_go": "Rogers Centre (opened 1989 as SkyDome) is the Toronto Blue Jays’ downtown home at 1 Blue Jays Way, with a white multi-panel retractable roof. The photo shows the closed dome exterior from the harbour side: red ‘ROGERS CENTRE’ lettering on the concrete ring, renovated perimeter, and waterfront walkway with kayaks in the foreground—clear Toronto identity, not BC Place. Classic Ballpark Tours (~60 minutes from Gate 6A) cover renovated clubs, suites, history, and usually field access; pregame variants add batting-practice viewing. The venue is OPEN for MLB, concerts, and tours through 2026.",
+      "best_time": "Book Classic Tours on non-game or early gameday mornings; bright sun pops the white roof as in the photo. Tour schedules release monthly on mlb.com/bluejays—sold-out days simply disappear from the calendar.",
+      "how_to_get_there": "1 Blue Jays Way, Toronto, ON. Walking distance from Union Station and the CN Tower; subway/GO to Union then west along Front / Bremner. Ballpark Tours entrance: Gate 6A (arrive ~15 minutes early).",
+      "good_to_know": "OPEN as Rogers Centre, Toronto (MUST not confuse with BC Place, Vancouver). Classic tours from about CAD $40; clubhouse not included; field access subject to ops. Bag size limits apply; tickets non-refundable per Blue Jays tour T&Cs.",
+      "official_or_tourism_url": "https://www.mlb.com/bluejays/ballpark/rogers-centre-tours",
+      "sources": [
+        "https://www.mlb.com/bluejays/ballpark/rogers-centre-tours",
+        "https://www.mlb.com/bluejays/ballpark/rogers-centre",
+        "https://www.mlb.com/bluejays/ballpark/information/history"
+      ]
+    },
+    "ad": {
+      "destination_query": "Toronto, Canada",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Toronto%2C%20Canada&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Toronto%2C%20Canada&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Toronto%2C%20Canada&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Toronto"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T02:10:00-05:00",
+      "audit_notes": "PASS — LOCK Rogers Centre Toronto: white retractable dome + ROGERS CENTRE red lettering (Taxiarchos228 CC BY-SA 3.0; Commons object location Toronto). Coords 43.6414,-79.3894 ≠ BC Place Vancouver. Ad Toronto OK. NOT BC Place / NOT Vancouver.",
+      "reject_reason": null
+    }
   }
 ]

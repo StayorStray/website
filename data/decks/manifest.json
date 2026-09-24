@@ -363,7 +363,7 @@
     "arenas": {
       "live_file": "data/arenas.json",
       "archive_dir": "data/decks/arenas/",
-      "approved_count": 20,
+      "approved_count": 40,
       "catalog_target": 100,
       "scale_target_met": false,
       "mvp_ready": true,
@@ -394,6 +394,33 @@
             "arenas-018",
             "arenas-019",
             "arenas-020"
+          ]
+        },
+        {
+          "id": "arenas-set-002",
+          "file": "set-002.json",
+          "status": "approved",
+          "card_ids": [
+            "arenas-021",
+            "arenas-022",
+            "arenas-023",
+            "arenas-024",
+            "arenas-025",
+            "arenas-026",
+            "arenas-027",
+            "arenas-028",
+            "arenas-029",
+            "arenas-030",
+            "arenas-031",
+            "arenas-032",
+            "arenas-033",
+            "arenas-034",
+            "arenas-035",
+            "arenas-036",
+            "arenas-037",
+            "arenas-038",
+            "arenas-039",
+            "arenas-040"
           ]
         }
       ],

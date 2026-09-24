@@ -1,0 +1,133 @@
+{
+  "id": "arenas-set-002",
+  "tab": "arenas",
+  "label": "Sports Arenas — Set 2 (021–040)",
+  "card_ids": [
+    "arenas-021",
+    "arenas-022",
+    "arenas-023",
+    "arenas-024",
+    "arenas-025",
+    "arenas-026",
+    "arenas-027",
+    "arenas-028",
+    "arenas-029",
+    "arenas-030",
+    "arenas-031",
+    "arenas-032",
+    "arenas-033",
+    "arenas-034",
+    "arenas-035",
+    "arenas-036",
+    "arenas-037",
+    "arenas-038",
+    "arenas-039",
+    "arenas-040"
+  ],
+  "count": 20,
+  "auditor": "20/20 approved 2026-09-24 (Accuracy Auditor Arenas fill 021–040)",
+  "notes": "Thin-tab fill. Swap: arenas-026 MetLife Stadium (not Cape Town). arenas-040 Rogers Centre kept.",
+  "archived_at": "2026-09-24T02:09:58-05:00",
+  "cards": [
+    {
+      "id": "arenas-021",
+      "name": "Tottenham Hotspur Stadium",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "arenas-022",
+      "name": "Stade de France",
+      "country": "France"
+    },
+    {
+      "id": "arenas-023",
+      "name": "Stadio Olimpico",
+      "country": "Italy"
+    },
+    {
+      "id": "arenas-024",
+      "name": "Yankee Stadium",
+      "country": "United States"
+    },
+    {
+      "id": "arenas-025",
+      "name": "Soldier Field",
+      "country": "United States"
+    },
+    {
+      "id": "arenas-026",
+      "name": "MetLife Stadium",
+      "country": "United States"
+    },
+    {
+      "id": "arenas-027",
+      "name": "Lord's Cricket Ground",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "arenas-028",
+      "name": "Eden Gardens",
+      "country": "India"
+    },
+    {
+      "id": "arenas-029",
+      "name": "Beijing National Stadium",
+      "country": "China"
+    },
+    {
+      "id": "arenas-030",
+      "name": "Seoul World Cup Stadium",
+      "country": "South Korea"
+    },
+    {
+      "id": "arenas-031",
+      "name": "Estadio Más Monumental",
+      "country": "Argentina"
+    },
+    {
+      "id": "arenas-032",
+      "name": "Neo Química Arena",
+      "country": "Brazil"
+    },
+    {
+      "id": "arenas-033",
+      "name": "Parc des Princes",
+      "country": "France"
+    },
+    {
+      "id": "arenas-034",
+      "name": "Celtic Park",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "arenas-035",
+      "name": "Estádio da Luz",
+      "country": "Portugal"
+    },
+    {
+      "id": "arenas-036",
+      "name": "Friends Arena",
+      "country": "Sweden"
+    },
+    {
+      "id": "arenas-037",
+      "name": "Ernst-Happel-Stadion",
+      "country": "Austria"
+    },
+    {
+      "id": "arenas-038",
+      "name": "Stadion Narodowy",
+      "country": "Poland"
+    },
+    {
+      "id": "arenas-039",
+      "name": "Accor Stadium",
+      "country": "Australia"
+    },
+    {
+      "id": "arenas-040",
+      "name": "Rogers Centre",
+      "country": "Canada"
+    }
+  ]
+}
