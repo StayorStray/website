@@ -1,1 +1,1026 @@
-[]
+[
+  {
+    "id": "landmarks-001",
+    "tab": "landmarks",
+    "name": "Taj Mahal",
+    "short_line": "Agra, India",
+    "country": "India",
+    "lat": 27.1751,
+    "lng": 78.0421,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-001.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATaj_Mahal_%28Edited%29.jpeg",
+      "license": "CC BY-SA 4.0",
+      "author": "Yann; edited by Jim Carter",
+      "attribution": "Photo: Yann; edited by Jim Carter, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Taj Mahal (Edited).jpeg' — Taj Mahal hero; mausoleum, reflection, wide visible; desc: Taj Mahal, Agra. FP on the English Wikipedia."
+    },
+    "facts": {
+      "one_liner": "Shah Jahan’s white-marble mausoleum for Mumtaz Mahal, mirrored in the charbagh pools.",
+      "why_go": "The hero photo is the Taj Mahal’s ivory marble tomb rising beyond the formal Mughal garden, its dome and four minarets doubled in the long reflecting pool—the classic Agra view from the southern approach. UNESCO records the mausoleum built on the Yamuna’s right bank between 1631 and 1648 by Mughal emperor Shah Jahan for Mumtaz Mahal, set in a nearly 17-hectare charbagh whose walkways and water channels frame that distant, perfectly symmetrical silhouette. The main gateway, mosque, and guest house complete the complex; light shifts the marble from soft dawn pink to midday white. Enter via the Eastern or Western Gate; the southern gate is exit only.",
+      "best_time": "October–March for cooler weather; arrive at opening (about 30 minutes before sunrise) for soft light on the reflection and thinner crowds. Closed to general visitors on Fridays. Winter fog can mute the view—check local forecasts.",
+      "how_to_get_there": "Base in Agra. About 6 km from Agra Cantt railway station and roughly 8–13 km from Agra Airport (Kheria); ISBT is nearby. Petrol/diesel vehicles stop about 500 m short—use battery buses or golf carts from Shilpgram (Eastern Gate) or Western Gate parking. ASI e-tickets available online.",
+      "good_to_know": "Publicly visitable Archaeological Survey of India monument; timed/ticketed entry (no prices listed here). Optional paid access into the main mausoleum chamber. Free entry for children under 15 per official rules. Night viewing only on full-moon dates and adjacent days (not Fridays or during Ramzan)—confirm on tajmahal.gov.in.",
+      "official_or_tourism_url": "https://www.tajmahal.gov.in/visiting-hours.aspx",
+      "sources": [
+        "https://whc.unesco.org/en/list/252",
+        "https://www.tajmahal.gov.in/visiting-hours.aspx",
+        "https://agra.nic.in/tourist-place/tajmahal/",
+        "https://asi.nic.in/pages/WorldHeritageAgra"
+      ]
+    },
+    "ad": {
+      "destination_query": "Agra, India",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Agra%2C%20India&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Agra%2C%20India&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Agra%2C%20India&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Agra"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:10:32-05:00",
+      "audit_notes": "PASS — classic Taj mausoleum + charbagh reflecting pool wide exterior; Yann/Jim Carter CC BY-SA 4.0. Facts match THIS JPG. Ad Agra OK."
+    }
+  },
+  {
+    "id": "landmarks-002",
+    "tab": "landmarks",
+    "name": "Great Wall of China",
+    "short_line": "Mutianyu / Jinshanling, China",
+    "country": "China",
+    "lat": 40.4319,
+    "lng": 116.5704,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/The_Great_Wall_of_China_at_Jinshanling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-002.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Great_Wall_of_China_at_Jinshanling.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Vincent Ndaku",
+      "attribution": "Photo: Vincent Ndaku, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:The Great Wall of China at Jinshanling.jpg' — Great Wall of China hero; jinshanling, mutianyu, stretch visible; desc: The Great Wall of China at Jinshanling"
+    },
+    "facts": {
+      "one_liner": "Jinshanling’s Ming watchtowers snaking over Hebei ridges—the photographer’s Wall stretch.",
+      "why_go": "The hero photo shows the Great Wall at Jinshanling: brick battlements and dense watchtowers climbing green mountain ridges in a long, undulating line—not the crowded Badaling or Mutianyu cable-car plazas. Jinshanling sits in Luanping County, Hebei, about 130 km northeast of central Beijing, linking toward Simatai and Gubeikou; Chinese tourism sources call it a Ming-era essence section rebuilt under Qi Jiguang’s command in the late 16th century, with dozens of enemy towers along roughly 10 km of wall. UNESCO inscribed the Great Wall for its Ming masonry mastery and 2,000-year defensive history. Half-restored, half-wild stretches make this the classic hiking-and-photography panorama matching the image.",
+      "best_time": "Spring and autumn (especially May–June for green hills; October for clearer views and cooler hiking). Summer heat is intense on exposed stone; winter can bring ice and snow on steep steps.",
+      "how_to_get_there": "Day trip from Beijing: direct Jinshanling tourist coaches from Dongzhimen (and seasonal weekend buses from Wangjing West), private car (~2–2.5 hours via Jingcheng Expressway), or rail to Gubeikou then taxi (~20 minutes). Confirm same-day return schedules before hiking—transport is scarcer than at Mutianyu.",
+      "good_to_know": "Publicly visitable scenic area; ticketed entry at the gate (no prices listed). Wear sturdy shoes—steps and unrestored sections are steep. Cable car operates seasonally at some gates; sunrise access may require earlier main-gate hours—verify with the scenic area. Part of the UNESCO Great Wall serial property.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/438/",
+      "sources": [
+        "https://whc.unesco.org/en/list/438/",
+        "https://www.chinahighlights.com/greatwall/section/jinshanling-greatwall.htm",
+        "https://www.ctagws.com/h-nd-1274.html"
+      ]
+    },
+    "ad": {
+      "destination_query": "Jinshanling, China",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Jinshanling%2C%20China&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Jinshanling%2C%20China&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Jinshanling%2C%20China&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Jinshanling"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:10:32-05:00",
+      "audit_notes": "PASS — Jinshanling Great Wall watchtowers on green ridges; Vincent Ndaku CC BY-SA 3.0. Facts correctly Jinshanling (not Badaling). Ad Jinshanling OK. short_line also names Mutianyu — photo is Jinshanling only (non-blocking)."
+    }
+  },
+  {
+    "id": "landmarks-003",
+    "tab": "landmarks",
+    "name": "Machu Picchu",
+    "short_line": "Cusco Region, Peru",
+    "country": "Peru",
+    "lat": -13.1631,
+    "lng": -72.545,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/80_-_Machu_Picchu_-_Juin_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-003.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3A80_-_Machu_Picchu_-_Juin_2009.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Martin St-Amant (S23678)",
+      "attribution": "Photo: Martin St-Amant (S23678), CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:80 - Machu Picchu - Juin 2009.jpg' — Machu Picchu hero; citadel, ruins, wide visible; desc: The Macchu Picchu, a UNESCO World Heritage Site near Cusco in Peru, at twilight"
+    },
+    "facts": {
+      "one_liner": "Inca citadel on a cloud-forest ridge—terraces and Huayna Picchu at twilight.",
+      "why_go": "The hero photo is the Machu Picchu citadel in wide view: agricultural terraces, stone quarters, and the saddle between peaks catching last light—the UNESCO mixed World Heritage heart of the Historic Sanctuary. UNESCO places the site at about 2,430 m above sea level among roughly 200 structures built in the 15th century and abandoned in the 16th, rediscovered for a wider audience in 1911. Walls, ramps, and terraces read as extensions of the rock escarpment beneath Huayna Picchu. Timed circuits now control routes through the llaqta; Circuit 2 viewpoints typically deliver the classic citadel panorama closest to this image.",
+      "best_time": "Drier months roughly May–September offer clearer skies but peak crowds; April and October balance weather and pressure. Early morning entry slots give softer light matching twilight-style photos.",
+      "how_to_get_there": "Fly to Cusco, transfer to Ollantaytambo, then train to Machu Picchu Pueblo (Aguas Calientes); Consettur buses climb to the citadel gate. Alternate: longer Inca Trail or other authorized trail permits via agencies. Buy official entry on Peru’s Ministry of Culture TuBoleto platform before you go.",
+      "good_to_know": "Publicly visitable; advance date/circuit tickets required (no prices listed). Daily capacity is capped; mountain add-ons (Huayna Picchu, Machu Picchu Mountain) sell out early. Altitude and steep stone paths—pace yourself. Guides recommended for first visits.",
+      "official_or_tourism_url": "https://tuboleto.cultura.pe",
+      "sources": [
+        "https://whc.unesco.org/en/list/274/",
+        "https://tuboleto.cultura.pe",
+        "https://visitaareasnaturales.sernanp.gob.pe/en/anps/historic-sanctuary-of-machupicchu/",
+        "https://www.perurail.com/tickets-to-machu-picchu/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Aguas Calientes, Peru",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Aguas%20Calientes%2C%20Peru&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Aguas%20Calientes%2C%20Peru&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Aguas%20Calientes%2C%20Peru&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Aguas Calientes"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:10:32-05:00",
+      "audit_notes": "PASS — Machu Picchu citadel + Huayna Picchu twilight wide site vista; Martin St-Amant CC BY-SA 3.0. Facts match. Ad Aguas Calientes OK."
+    }
+  },
+  {
+    "id": "landmarks-004",
+    "tab": "landmarks",
+    "name": "Colosseum",
+    "short_line": "Rome, Italy",
+    "country": "Italy",
+    "lat": 41.8902,
+    "lng": 12.4922,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-004.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AColosseum_in_Rome%2C_Italy_-_April_2007.jpg",
+      "license": "CC BY-SA 2.5",
+      "author": "Diliff",
+      "attribution": "Photo: Diliff, CC BY-SA 2.5, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Colosseum in Rome, Italy - April 2007.jpg' — Colosseum hero; exterior, rome, amphitheatre visible; desc: A 4x4 segment panorama of the Coliseum at dusk. Taken by myself with a Canon 5D and 50mm f/1.8 lens at f/5.6."
+    },
+    "facts": {
+      "one_liner": "Rome’s Flavian Amphitheatre at dusk—arched travertine rings over the archaeological park.",
+      "why_go": "The hero photo is the Colosseum’s exterior at dusk: stacked arches of the Flavian Amphitheatre glowing against a twilight sky in a wide panorama of Piazza del Colosseo. The Parco archeologico del Colosseo notes it was built in the 1st century CE under the Flavian emperors as the world’s largest amphitheatre, hosting animal hunts and gladiatorial games until late antiquity—its nickname comes from a colossal statue that once stood nearby. From outside you read the broken outer ring and intact arcades; timed tickets also open interior orders and optional arena, underground, or attic experiences. The monument sits at the heart of Rome’s UNESCO Historic Centre zone.",
+      "best_time": "Shoulder seasons (spring and autumn) for milder weather; first morning slot or late afternoon for softer exterior light and less heat. Summer midday is hottest and busiest. Check Parco hours—last admissions are well before closing.",
+      "how_to_get_there": "Metro Line B to Colosseo station; buses 51, 75, 81, 85, 87, 118; tram 3. Address: Piazza del Colosseo. Individual timed-entry holders use the entrance near the Arch of Constantine (Valadier Spur). Book on the official ticketing portal up to 30 days ahead.",
+      "good_to_know": "Publicly visitable archaeological park; compulsory timed Colosseum reservation (no prices listed). Standard tickets include Forum–Palatine access within the ticket rules. Arrive ~15 minutes early with photo ID matching the name on the ticket. Free first-Sunday mornings follow park rules—expect queues.",
+      "official_or_tourism_url": "https://colosseo.it/en/area/the-colosseum/",
+      "sources": [
+        "https://colosseo.it/en/area/the-colosseum/",
+        "https://colosseo.it/en/opening-times-and-tickets/",
+        "https://ticketing.colosseo.it/en"
+      ]
+    },
+    "ad": {
+      "destination_query": "Rome, Italy",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rome%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rome%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rome%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Rome"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:10:32-05:00",
+      "audit_notes": "PASS — Colosseum exterior dusk/blue-hour arched facade; Diliff CC BY-SA 2.5. Site as subject (not statue proxy). Ad Rome OK."
+    }
+  },
+  {
+    "id": "landmarks-005",
+    "tab": "landmarks",
+    "name": "Petra",
+    "short_line": "Ma'an Governorate, Jordan",
+    "country": "Jordan",
+    "lat": 30.3285,
+    "lng": 35.4444,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Al_Khazneh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-005.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAl_Khazneh.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Bernard Gagnon",
+      "attribution": "Photo: Bernard Gagnon, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Al Khazneh.jpg' — Petra hero; treasury, khazneh, siq visible; desc: Facade of Al Khazneh, Petra, Jordan"
+    },
+    "facts": {
+      "one_liner": "Al-Khazneh’s Hellenistic façade bursting from the Siq—Petra’s Nabataean Treasury.",
+      "why_go": "The hero photo is Al-Khazneh (the Treasury): a towering rock-cut façade of columns, pediment, and urn suddenly revealed at the end of Petra’s Siq gorge. UNESCO describes Petra as the Nabataean caravan capital between the Red Sea and Dead Sea—half built, half carved into red sandstone—where Eastern traditions meet Hellenistic architecture. Jordan’s Ministry of Tourism lists the main trail from the Visitor Center through the Siq to al-Khaznah as the classic first approach; the walk is easy but can take up to about an hour at a photo-friendly pace. The Treasury is the iconic reveal; trails continue to Royal Tombs, the Colonnaded Street, and Qasr al-Bint.",
+      "best_time": "Spring (March–May) and autumn (September–November) for mild temperatures per Visit Petra. Enter at opening for cooler air and fewer tour groups at the Treasury façade.",
+      "how_to_get_there": "Stay in Wadi Musa. Reach Petra by car, bus, or taxi from Amman (~3–3.5 hours) or Aqaba (~2 hours), or join organized tours. Tickets at the Visitor Center or online via PetraPass (PDTRA). You cannot drive to the Treasury—walk (or use permitted club-car options on longer routes).",
+      "good_to_know": "Publicly visitable archaeological park; ticketed (no prices listed). Multi-day tickets must be used on consecutive days. Wear sturdy shoes, carry water, dress for sun and modest local norms. Petra by Night (candlelit Siq to Treasury) is separate and runs select evenings—Jordan Pass does not include it.",
+      "official_or_tourism_url": "https://www.visitpetra.jo/en/FAQS",
+      "sources": [
+        "https://whc.unesco.org/en/list/326",
+        "https://mota.gov.jo/EN/Pages/Petra",
+        "https://www.visitpetra.jo/en/FAQS",
+        "https://petrapass.pdtra.gov.jo/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Wadi Musa, Jordan",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Wadi%20Musa%2C%20Jordan&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Wadi%20Musa%2C%20Jordan&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Wadi%20Musa%2C%20Jordan&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Wadi Musa"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:10:32-05:00",
+      "audit_notes": "PASS — Al-Khazneh (Treasury) full rock-cut facade = Petra iconic site reveal; Bernard Gagnon CC BY-SA 3.0. Facts match. Ad Wadi Musa OK."
+    }
+  },
+  {
+    "id": "landmarks-006",
+    "tab": "landmarks",
+    "name": "Angkor Wat",
+    "short_line": "Siem Reap, Cambodia",
+    "country": "Cambodia",
+    "lat": 13.4125,
+    "lng": 103.867,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Angkor_Wat_reflection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-006.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAngkor_Wat_reflection.jpg",
+      "license": "CC BY 2.0",
+      "author": "David Wilmot from Wimbledon, United Kingdom",
+      "attribution": "Photo: David Wilmot from Wimbledon, United Kingdom, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Angkor Wat reflection.jpg' — Angkor Wat hero; reflection, temple, towers visible; desc: AngkorAngkor Wat reflection"
+    },
+    "facts": {
+      "one_liner": "Khmer temple-mountain mirrored in its moat—Angkor Wat’s five towers at dawn.",
+      "why_go": "The hero photo is Angkor Wat reflected in still water: the central towers and galleries doubled in the moat or northern reflecting pool—the most famous sunrise frame in Cambodia. UNESCO’s Angkor property spans ~400 km² of Khmer capitals from the 9th–15th centuries; Angkor Wat itself is the park’s signature temple-mountain, a masterpiece of Khmer art closely tied to its hydraulic landscape. APSARA and Angkor Enterprise manage conservation and visitor access for the living archaeological park north of Siem Reap. Approach across the western causeway for the classic axial view that matches the reflection image.",
+      "best_time": "November–February is cooler and drier but busiest for sunrise. Arrive before dawn for the reflection shot; mid-morning light still flatters the towers with fewer sunrise crowds.",
+      "how_to_get_there": "Fly into Siem Reap (or travel overland), then tuk-tuk, taxi, bicycle, or licensed tour to Angkor Archaeological Park (~6–7 km north of town). Buy Angkor Pass only through official Angkor Enterprise channels before or at ticket offices; temples have staggered opening times—Angkor Wat typically opens earliest for sunrise.",
+      "good_to_know": "Publicly visitable; Angkor Pass required (1-, 3-, or 7-day options—no prices listed). Dress code: covered shoulders and knees at temples. Stay on designated paths; the site is a living heritage landscape with villages inside the park. Confirm current pass rules at angkorenterprise.gov.kh.",
+      "official_or_tourism_url": "https://www.angkorenterprise.gov.kh/",
+      "sources": [
+        "https://whc.unesco.org/en/list/668",
+        "https://www.angkorenterprise.gov.kh/",
+        "https://www.siemreap.net/guides/angkor/hours-admission/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Siem Reap, Cambodia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Siem%20Reap%2C%20Cambodia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Siem%20Reap%2C%20Cambodia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Siem%20Reap%2C%20Cambodia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Siem Reap"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:10:32-05:00",
+      "audit_notes": "PASS — Angkor Wat towers reflected in water, wide temple-mountain site; David Wilmot CC BY 2.0. Facts match. Ad Siem Reap OK."
+    }
+  },
+  {
+    "id": "landmarks-007",
+    "tab": "landmarks",
+    "name": "Chichén Itzá",
+    "short_line": "Yucatán, Mexico",
+    "country": "Mexico",
+    "lat": 20.6843,
+    "lng": -88.5678,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Chichen_Itza_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-007.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AChichen_Itza_3.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Daniel Schwen",
+      "attribution": "Photo: Daniel Schwen, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Chichen Itza 3.jpg' — Chichén Itzá hero; castillo, pyramid, kukulkan visible; desc: El Castillo (pyramid of Kukulcán) in Chichén Itzá"
+    },
+    "facts": {
+      "one_liner": "El Castillo—Kukulkán’s stepped pyramid dominating Chichén Itzá’s Great Plaza.",
+      "why_go": "The hero photo is El Castillo (Temple of Kukulkán): the nine-tiered pyramid with stairways on four sides rising over Chichén Itzá’s main leveling—the site’s signature Maya-Toltec temple. INAH describes it as a solar-calendar monument linked to Kukulkan; at the equinoxes, light and shadow create a serpent descending the north balustrade, and UNESCO listed the city in 1988 as a powerful Terminal Classic capital. Climbing El Castillo is not allowed; the plaza viewpoint still delivers the full pyramid silhouette in the photo. Nearby stand the Great Ball Court, Temple of the Warriors, and platforms of Venus and the Tzompantli.",
+      "best_time": "November–February for cooler mornings; arrive at opening (08:00) before tour-bus peaks. Equinox dates draw heavy crowds for the serpent-shadow effect—arrive early if that is your goal.",
+      "how_to_get_there": "Federal Highway 180 (Mérida–Cancún); exit at Pisté for the zone. About 45 minutes from Valladolid, ~1.5–2 hours from Mérida, longer from Cancún. ADO buses, colectivos, rental cars, and tours all serve the site. Combined INAH + Yucatán state fees apply at entry.",
+      "good_to_know": "Publicly visitable INAH archaeological zone; open daily 08:00–16:00, last access 15:00 (confirm on INAH). No climbing pyramids; no food, pets, smoking, or flash. Ticketed (no prices listed); Sundays free for Mexican nationals/residents with ID under published rules.",
+      "official_or_tourism_url": "https://lugares.inah.gob.mx/en/node/4335",
+      "sources": [
+        "https://lugares.inah.gob.mx/en/node/4335",
+        "https://whc.unesco.org/en/list/483",
+        "https://www.inah.gob.mx/boletines/la-zona-arqueologica-de-chichen-itza-implementara-el-operativo-equinoccio-de-otono-2026"
+      ]
+    },
+    "ad": {
+      "destination_query": "Chichen Itza, Mexico",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Chichen%20Itza%2C%20Mexico&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Chichen%20Itza%2C%20Mexico&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Chichen%20Itza%2C%20Mexico&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Chichen Itza"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:10:32-05:00",
+      "audit_notes": "PASS — El Castillo / Kukulkán pyramid corner vista at Chichén Itzá; Daniel Schwen CC BY-SA 4.0. Site subject. Ad Chichen Itza OK."
+    }
+  },
+  {
+    "id": "landmarks-008",
+    "tab": "landmarks",
+    "name": "Stonehenge",
+    "short_line": "Wiltshire, United Kingdom",
+    "country": "United Kingdom",
+    "lat": 51.1789,
+    "lng": -1.8262,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-008.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AStonehenge2007_07_30.jpg",
+      "license": "CC BY 2.0",
+      "author": "garethwiscombe",
+      "attribution": "Photo: garethwiscombe, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Stonehenge2007 07 30.jpg' — Stonehenge hero; circle, sarsen, wide visible; desc: Stonehenge"
+    },
+    "facts": {
+      "one_liner": "Neolithic sarsen circle on Salisbury Plain—lintels and uprights in open grassland.",
+      "why_go": "The hero photo is Stonehenge’s sarsen circle from a wide landscape angle: massive sandstone uprights capped with lintels on the chalk downland, the silhouette English Heritage calls the world’s most famous prehistoric monument. The first henge earthwork dates to about 3000 BC; the unique stone settings—outer sarsen circle and inner horseshoe, with bluestones between—were erected around 2500 BC in the late Neolithic. Together with Avebury it forms a UNESCO World Heritage landscape dense with prehistoric monuments. During normal hours you follow the visitor path (as close as ~5 m); separate Stone Circle Experience tickets allow limited inside access at the start or end of day.",
+      "best_time": "Weekday early or late timed slots for quieter paths and softer light. The circle is fully exposed—wrap warmly year-round. Summer evenings stay open later; last ticket sales are earlier than closing to allow the shuttle or walk back.",
+      "how_to_get_there": "Train from London Waterloo to Salisbury (~90 minutes), then Stonehenge Tour bus or taxi; driving via A303 (visitor centre postcode SP4 7DE). Shuttle buses run every few minutes from the Visitor Centre to the stones (~5–10 minutes), or walk ~2.6 miles (4 km) round trip through National Trust landscape.",
+      "good_to_know": "Publicly visitable English Heritage site; advance timed tickets strongly recommended (no prices listed). National Trust (England) members enter free with booking rules. Stick to the path to protect buried archaeology and lichens. No toilets at the stones—use the Visitor Centre.",
+      "official_or_tourism_url": "https://www.english-heritage.org.uk/visit/places/stonehenge/",
+      "sources": [
+        "https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/history/",
+        "https://www.english-heritage.org.uk/visit/places/stonehenge/plan-your-visit/questions-and-answers/",
+        "https://whc.unesco.org/en/list/373"
+      ]
+    },
+    "ad": {
+      "destination_query": "Amesbury, United Kingdom",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Amesbury%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Amesbury%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Amesbury%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Amesbury"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:10:32-05:00",
+      "audit_notes": "PASS — Stonehenge sarsen circle wide grassland exterior; garethwiscombe CC BY 2.0. Facts match. Ad Amesbury OK."
+    }
+  },
+  {
+    "id": "landmarks-009",
+    "tab": "landmarks",
+    "name": "Acropolis of Athens",
+    "short_line": "Athens, Greece",
+    "country": "Greece",
+    "lat": 37.9715,
+    "lng": 23.7267,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Acropolis.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-009.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAcropolis.JPG",
+      "license": "CC BY-SA 2.5",
+      "author": "Adam L. Clevenger",
+      "attribution": "Photo: Adam L. Clevenger, CC BY-SA 2.5, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons — Parthenon on Acropolis rock, wide exterior vista; file 'File:Acropolis.JPG'"
+    },
+    "facts": {
+      "one_liner": "The Parthenon crowning Athens’ Acropolis rock—Periclean temple on the skyline.",
+      "why_go": "The hero photo is the Acropolis of Athens with the Parthenon as the clear main subject: the Doric temple standing on the limestone citadel above the city—the defining Classical Greek silhouette. The Hellenic Ministry of Culture manages the archaeological site of the Acropolis and its slopes; the plateau also holds the Propylaea, Erechtheion, and Temple of Athena Nike. UNESCO lists the Acropolis for its outstanding testimony to Classical civilization. From the rock you look out over Athens; from below, Dionysiou Areopagitou approaches frame the same Parthenon-on-the-rock composition as the photo.",
+      "best_time": "Spring and autumn for milder heat; first morning slot or late afternoon when summer hours stretch toward evening. Midday summer sun on the marble is intense—bring water and sun protection.",
+      "how_to_get_there": "Metro Line 2 (red) to Acropoli, then walk Dionysiou Areopagitou to the main or South Slope entrance; Monastiraki Metro plus Plaka or Ancient Agora approach also works. Buy timed Acropolis & Slopes tickets via the Ministry’s official e-ticketing service (tickets.hh.gr / hhticket.gr).",
+      "good_to_know": "Publicly visitable; timed-entry tickets required (no prices listed). Ticket is single-use across Acropolis and Slopes—exiting one prevents re-entry. Suitable walking shoes on uneven marble. Elevator for visitors with reduced mobility may close in strong winds—confirm with the Guards’ Office. Separate ticket for the Acropolis Museum.",
+      "official_or_tourism_url": "http://odysseus.culture.gr/h/3/eh355.jsp?obj_id=2384",
+      "sources": [
+        "http://odysseus.culture.gr/h/3/eh355.jsp?obj_id=2384",
+        "https://hhticket.gr/tap_b2c_new/english/",
+        "https://whc.unesco.org/en/list/404"
+      ]
+    },
+    "ad": {
+      "destination_query": "Athens, Greece",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Athens%2C%20Greece&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Athens%2C%20Greece&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Athens%2C%20Greece&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Athens"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:10:32-05:00",
+      "audit_notes": "PASS — Acropolis rock with Parthenon main subject + Propylaea/Herodes Atticus context; Adam L. Clevenger CC BY-SA 2.5. Site vista. Ad Athens OK."
+    }
+  },
+  {
+    "id": "landmarks-010",
+    "tab": "landmarks",
+    "name": "Christ the Redeemer",
+    "short_line": "Rio de Janeiro, Brazil",
+    "country": "Brazil",
+    "lat": -22.9519,
+    "lng": -43.2105,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Cristo_Redentor_-_Rio_de_Janeiro%2C_Brasil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-010.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACristo_Redentor_-_Rio_de_Janeiro%2C_Brasil.jpg",
+      "license": "CC BY 2.0",
+      "author": "Nico Kaiser",
+      "attribution": "Photo: Nico Kaiser, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Cristo Redentor - Rio de Janeiro, Brasil.jpg' — Christ the Redeemer hero; statue, corcovado, rio visible; desc: The statue of Cristo Redentor atop Corcovado - Rio de Janeiro, Brazil"
+    },
+    "facts": {
+      "one_liner": "Corcovado summit: Art Deco Cristo Redentor under blue sky, terrace at his feet.",
+      "why_go": "The hero is a low-angle view of Christ the Redeemer on Corcovado’s summit—the soapstone-clad Art Deco statue with outstretched arms filling a clear blue sky, with the visitor terrace and crowds at its base. Inaugurated on 12 October 1931, the monument crowns Corcovado Mountain inside Tijuca National Park. Official Corcovado Train and van operators bring visitors to this summit platform for the classic face-to-face encounter with the statue. UNESCO includes the site within Rio’s Carioca Landscapes World Heritage listing.",
+      "best_time": "Clear mornings for blue-sky views of the statue; clouds often wrap the summit by afternoon. Book timed train or van slots ahead, especially weekends and holidays.",
+      "how_to_get_there": "Official Corcovado Train from Cosme Velho, or official vans (e.g. Paineiras Corcovado boarding points), with access included on those tickets. Private cars are restricted; use authorized transport to the summit terrace.",
+      "good_to_know": "PUBLIC / VISITOR SITE — ticketed access via official train or van; advance timed tickets strongly advised (no prices listed here). Summit terrace can be crowded and windy. Part of Tijuca National Park / UNESCO Carioca Landscapes. Check tremdocorcovado.rio for live hours.",
+      "official_or_tourism_url": "https://www.tremdocorcovado.rio/",
+      "sources": [
+        "https://www.tremdocorcovado.rio/",
+        "https://whc.unesco.org/en/list/1100/",
+        "https://www.paineirascorcovado.com.br/questions/?lang=en"
+      ]
+    },
+    "ad": {
+      "destination_query": "Rio de Janeiro, Brazil",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rio%20de%20Janeiro%2C%20Brazil&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rio%20de%20Janeiro%2C%20Brazil&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rio%20de%20Janeiro%2C%20Brazil&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Rio de Janeiro"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:15:31-05:00",
+      "audit_notes": "PASS — low-angle Corcovado summit Cristo (Nico Kaiser CC BY 2.0); statue subject OK; facts match THIS crop (no skyline/Atlantic claims); ad Rio OK."
+    }
+  },
+  {
+    "id": "landmarks-011",
+    "tab": "landmarks",
+    "name": "Eiffel Tower",
+    "short_line": "Paris, France",
+    "country": "France",
+    "lat": 48.8584,
+    "lng": 2.2945,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-011.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATour_Eiffel_Wikimedia_Commons.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Benh LIEU SONG",
+      "attribution": "Photo: Benh LIEU SONG, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Tour Eiffel Wikimedia Commons.jpg' — Eiffel Tower hero; tower, champ de mars, wide visible; desc: Eiffel Tower, seen from the Champ de Mars, Paris, France"
+    },
+    "facts": {
+      "one_liner": "Champ de Mars iron lattice tower: Gustave Eiffel’s 1889 Exposition gateway to Paris.",
+      "why_go": "The hero photo shows the Eiffel Tower rising from the Champ de Mars—the classic Left Bank vista of the open-lattice wrought-iron tower that Gustave Eiffel built for the 1889 Exposition Universelle. Britannica places it at 5 Avenue Anatole France in the 7th arrondissement; the official site lists Champ de Mars / 5 Av. Anatole France as the address. Gardens and the esplanade under the tower are free after security; elevators or stairs to the first, second, and summit floors need timed tickets. Night sparkle lighting and panoramic decks make the Champ de Mars approach the postcard scene matching this shot.",
+      "best_time": "Spring and early autumn for milder weather and clear Champ de Mars views; summer evenings catch sparkle lighting but peak crowds. Official attendance guidance notes quieter midweek mornings and evenings outside late June–early September peak season. The tower is generally open daily year-round (check rare closures on the official calendar).",
+      "how_to_get_there": "RER C Champ de Mars–Tour Eiffel (~5 min walk), Métro Bir-Hakeim (line 6), École Militaire (line 8), or Trocadéro (line 9). Official site also lists bus lines and nearby Vélib’ stations. Walk onto the Champ de Mars lawns for the hero-photo angle; enter the monument via the garden/esplanade security points for floor tickets.",
+      "good_to_know": "PUBLIC / OPEN — Champ de Mars gardens and tower esplanade are free to stroll; ascending the floors is ticketed via the official site (book ahead). Security screening applies. No prices listed here—confirm current tickets and hours on toureiffel.paris. The free lawn view from the Champ de Mars is exactly the vantage in the Commons hero.",
+      "official_or_tourism_url": "https://www.toureiffel.paris/en",
+      "sources": [
+        "https://www.toureiffel.paris/en/planning-smooth-visit",
+        "https://www.toureiffel.paris/en/explore",
+        "https://www.britannica.com/topic/Eiffel-Tower-Paris-France"
+      ]
+    },
+    "ad": {
+      "destination_query": "Paris, France",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Paris%2C%20France&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Paris%2C%20France&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Paris%2C%20France&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Paris"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:15:31-05:00",
+      "audit_notes": "PASS — Champ de Mars daytime tower (Benh LIEU SONG CC BY-SA 3.0); license/attribution fixed (not PD); facts match; ad Paris OK."
+    }
+  },
+  {
+    "id": "landmarks-012",
+    "tab": "landmarks",
+    "name": "Statue of Liberty",
+    "short_line": "New York Harbor, United States",
+    "country": "United States",
+    "lat": 40.6892,
+    "lng": -74.0445,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Statue_of_Liberty%2C_NY.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-012.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AStatue_of_Liberty%2C_NY.jpg",
+      "license": "CC BY 2.0",
+      "author": "William Warby",
+      "attribution": "Photo: William Warby, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Statue of Liberty, NY.jpg' — Statue of Liberty hero; harbor, statue, island visible; desc: Statue of Liberty (more formally, Liberty Enlightening the World, and more colloquially, Lady Liberty) is a structure located on Liberty Isl"
+    },
+    "facts": {
+      "one_liner": "Liberty Island harbor icon: Bartholdi’s torch-bearing Lady Liberty in New York Harbor.",
+      "why_go": "The hero image is the classic harbor/island view of the Statue of Liberty on Liberty Island in New York Harbor—Frédéric-Auguste Bartholdi’s copper figure dedicated 28 October 1886 as Liberty Enlightening the World. NPS lists statue height about 151 ft and pedestal about 154 ft (total ~305 ft). Torch in the raised right hand and tablet dated July IV MDCCLXXVI are the silhouette you see from the water. Ferry rides frame the island setting that matches this photo; pedestal and crown access are separate limited reservations.",
+      "best_time": "Spring and fall for milder harbor weather and easier ferry logistics; summer and holidays bring long security queues. NPS recommends early ferries if visiting both Liberty and Ellis Islands in one day. Clear days give the sharp harbor silhouette of the hero shot.",
+      "how_to_get_there": "Only Statue City Cruises ferries land on Liberty Island—depart from The Battery (Castle Clinton), Manhattan, or Liberty State Park, Jersey City. Buy tickets through the authorized concessioner; general admission includes Liberty Island grounds and the museums (pedestal/crown tickets sold separately and limited). Allow extra time for airport-style security—the ticket time is for screening, not boarding.",
+      "good_to_know": "PUBLIC / OPEN — NPS Statue of Liberty National Monument; ferry ticket required to reach the island. Harbor cruise-bys without landing do not grant island access. Crown has no elevator (162 steps from the statue’s feet). Confirm hours and access levels on nps.gov/stli and statuecitycruises.com.",
+      "official_or_tourism_url": "https://www.nps.gov/stli/planyourvisit/",
+      "sources": [
+        "https://www.nps.gov/stli/planyourvisit/",
+        "https://www.nps.gov/stli/learn/statue-of-liberty-facts.htm",
+        "https://www.nps.gov/stli/planyourvisit/directions.htm"
+      ]
+    },
+    "ad": {
+      "destination_query": "New York, United States",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=New%20York%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=New%20York%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=New%20York%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in New York"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:10:32-05:00",
+      "audit_notes": "PASS — Statue of Liberty full statue+pedestal+Fort Wood from harbor (statue exception); William Warby CC BY 2.0. Facts match. Ad New York OK."
+    }
+  },
+  {
+    "id": "landmarks-013",
+    "tab": "landmarks",
+    "name": "Mount Rushmore",
+    "short_line": "South Dakota, United States",
+    "country": "United States",
+    "lat": 43.8791,
+    "lng": -103.4591,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Mount_Rushmore_-_51107144314.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-013.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMount_Rushmore_-_51107144314.jpg",
+      "license": "CC BY 2.0",
+      "author": "Eric Friedebach",
+      "attribution": "Photo: Eric Friedebach, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons — Mount Rushmore four presidential faces clear, color memorial vista; file 'File:Mount Rushmore - 51107144314.jpg'"
+    },
+    "facts": {
+      "one_liner": "Black Hills granite: Washington, Jefferson, Roosevelt, and Lincoln carved 60 feet tall.",
+      "why_go": "The hero photo shows all four presidential faces carved into Mount Rushmore’s granite—George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln—the Shrine of Democracy sculpted by Gutzon Borglum (1927–1941) in South Dakota’s Black Hills. NPS presents the ~60-foot heads as symbols of the nation’s founding, expansion, development, and preservation. Viewing terraces, the Avenue of Flags, and the Presidential Trail give the clear four-face memorial vista matching this Commons shot near Keystone.",
+      "best_time": "Late spring through early fall for long daylight and full facility hours; summer evenings include the amphitheater lighting program (typically late May–end of September). Winter is open but colder with shorter days; grounds/parking generally remain accessible year-round except buildings closed on December 25.",
+      "how_to_get_there": "Drive Highway 244 to Mount Rushmore National Memorial near Keystone, SD (Rapid City is the main regional airport/base). NPS notes no entrance reservation is required; park in the memorial’s parking facility (concession-operated; America the Beautiful passes do not cover parking). Walk to the Grand View Terrace for the classic four-face panorama.",
+      "good_to_know": "PUBLIC / OPEN — NPS national memorial; no entrance fee, but paid parking. Pets only in parking areas. Overnight parking not allowed. Stay on designated paths; the sculpture itself is not a climb. Confirm seasonal hours and lighting program on nps.gov/moru.",
+      "official_or_tourism_url": "https://www.nps.gov/moru/",
+      "sources": [
+        "https://www.nps.gov/moru/",
+        "https://www.nps.gov/moru/planyourvisit/hours.htm",
+        "https://www.nps.gov/moru/planyourvisit/parking.htm"
+      ]
+    },
+    "ad": {
+      "destination_query": "Keystone, United States",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Keystone%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Keystone%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Keystone%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Keystone"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:10:32-05:00",
+      "audit_notes": "PASS — Mount Rushmore four presidential faces clear (statue/monument exception); Eric Friedebach CC BY 2.0. Sculptor's Studio in FG is visitor context; memorial remains main subject. Ad Keystone OK."
+    }
+  },
+  {
+    "id": "landmarks-014",
+    "tab": "landmarks",
+    "name": "Alhambra",
+    "short_line": "Granada, Spain",
+    "country": "Spain",
+    "lat": 37.176,
+    "lng": -3.5881,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Alhambra_Granada_Spain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-014.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAlhambra_Granada_Spain.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Mgimelfarb",
+      "attribution": "Photo: Mgimelfarb, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Alhambra Granada Spain.jpg' — Alhambra hero; palace, fortress, vista visible; desc: Alhambra in Granada, Spain."
+    },
+    "facts": {
+      "one_liner": "Nasrid palace-city above Granada: fortress, palaces, and Generalife gardens on twin hills.",
+      "why_go": "The hero vista shows the Alhambra as a hilltop palace-fortress above Granada—the Nasrid palatine city UNESCO describes rising over the modern lower town beside the Albayzín, with the Generalife gardens to the east. Patronato sources call it a palace, citadel, and fortress that reached peak splendor under Yusuf I and Muhammad V in the 14th century. Red walls, towers, and palace roofs against the Sierra Nevada backdrop match this Commons palace/fortress panorama. Inside: Alcazaba, Nasrid Palaces (timed entry), Partal, and Generalife.",
+      "best_time": "Spring and autumn for comfortable walking and clearer Sierra views; summer opens later into the evening but is hotter and busier. Winter hours are shorter (Patronato: roughly 8:30–18:00 winter / 8:30–20:00 summer for most spaces). Book Nasrid Palace slots early—timed and capacity-limited.",
+      "how_to_get_there": "Base in Granada; walk, bus, or taxi up to the Alhambra monumental complex (C/ Real de la Alhambra). Buy official tickets via the Patronato ticket channels; general day tickets include gardens and timed Nasrid Palaces. Bring original passport/ID as required for entry checks. Palace of Carlos V and the Alhambra Museum areas have free-access components noted by the Patronato.",
+      "good_to_know": "PUBLIC / OPEN (ticketed) — managed by the Patronato de la Alhambra y Generalife; UNESCO World Heritage (1984). Nasrid Palaces require the exact ticket time. No flash/tripods; do not touch plasterwork or climb remains. Confirm hours and ticket types on alhambra-patronato.es / tickets.alhambra-patronato.es.",
+      "official_or_tourism_url": "https://www.alhambra-patronato.es/en/",
+      "sources": [
+        "https://whc.unesco.org/en/list/314/",
+        "https://www.alhambra-patronato.es/en/visit/organize-your-visit/time-of-the-visit",
+        "https://tickets.alhambra-patronato.es/en/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Granada, Spain",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Granada%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Granada%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Granada%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Granada"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:10:32-05:00",
+      "audit_notes": "PASS — Alhambra hilltop palace-fortress wide exterior above Albaicín; Mgimelfarb CC BY-SA 4.0. Site as subject. Ad Granada OK."
+    }
+  },
+  {
+    "id": "landmarks-015",
+    "tab": "landmarks",
+    "name": "Neuschwanstein Castle",
+    "short_line": "Bavaria, Germany",
+    "country": "Germany",
+    "lat": 47.5576,
+    "lng": 10.7498,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Neuschwanstein_Castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-015.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ANeuschwanstein_Castle.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Cezary Piwowarski",
+      "attribution": "Photo: Cezary Piwowarski, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Neuschwanstein Castle.jpg' — Neuschwanstein Castle hero; castle, ridge, alpine visible; desc: Neuschwanstein Castle is a famous German castle in Schwangau, Bavaria, built by King Ludwig II of Bavaria"
+    },
+    "facts": {
+      "one_liner": "Ludwig II’s alpine ridge castle above Hohenschwangau—fairy-tale towers over Bavarian peaks.",
+      "why_go": "The hero photo is Neuschwanstein on its wooded alpine ridge above Hohenschwangau/Schwangau—King Ludwig II’s unfinished romantic castle begun with foundation stone 5 September 1869. Bavarian Palace Administration notes limestone-clad brick walls on a dramatized mountain site opened to the public weeks after Ludwig’s 1886 death; ~1.4 million visitors a year now tour rooms meant for one king. Exterior photography of the ridge silhouette (the Commons hero) needs no permit; interior visits are guided-only.",
+      "best_time": "Late spring–early autumn for snow-free approaches and longer opening windows (official summer season roughly late March–mid-October, 9:00–18:00; winter 10:00–16:00). Closed 1 January and 24/25/31 December. Summer days can exceed 6,000 visitors—book timed tours early.",
+      "how_to_get_there": "Gateway towns Füssen and Schwangau/Hohenschwangau. Ticket Center Hohenschwangau (Alpseestraße 12) sells same-day leftovers; official advance tickets via hohenschwangau.de. From the village, walk uphill (~30–40 min), horse carriage, or shuttle toward the castle—plan extra time before your timed tour start. Nearest major rail hub is Füssen.",
+      "good_to_know": "PUBLIC / OPEN (ticketed guided tours) — Bavarian Palace Administration. Interior photography prohibited; exterior private photos OK. No large bags/prams inside; drones prohibited on palace grounds. Tickets often sell out—confirm on neuschwanstein.de / hohenschwangau.de.",
+      "official_or_tourism_url": "https://www.neuschwanstein.de/englisch/tourist/index.htm",
+      "sources": [
+        "https://www.neuschwanstein.de/englisch/tourist/index.htm",
+        "https://www.neuschwanstein.de/englisch/palace/history.htm",
+        "https://www.neuschwanstein.de/englisch/tourist/opening.htm"
+      ]
+    },
+    "ad": {
+      "destination_query": "Füssen, Germany",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=F%C3%BCssen%2C%20Germany&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=F%C3%BCssen%2C%20Germany&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=F%C3%BCssen%2C%20Germany&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Füssen"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:10:32-05:00",
+      "audit_notes": "PASS — Neuschwanstein alpine ridge castle wide exterior; Cezary Piwowarski CC BY-SA 4.0. Facts match. Ad Füssen OK."
+    }
+  },
+  {
+    "id": "landmarks-016",
+    "tab": "landmarks",
+    "name": "Hagia Sophia",
+    "short_line": "Istanbul, Türkiye",
+    "country": "Türkiye",
+    "lat": 41.0086,
+    "lng": 28.9802,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Hagia_Sophia_Mars_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-016.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHagia_Sophia_Mars_2013.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Arild Vågen",
+      "attribution": "Photo: Arild Vågen, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Hagia Sophia Mars 2013.jpg' — Hagia Sophia hero; exterior, dome, minaret visible; desc: Hagia Sophia"
+    },
+    "facts": {
+      "one_liner": "Justinian’s 6th-century dome and Ottoman minarets: Historic Peninsula skyline icon.",
+      "why_go": "The hero exterior shows Hagia Sophia’s vast central dome flanked by slender Ottoman minarets on Istanbul’s Historic Peninsula—the silhouette UNESCO cites among the city’s Byzantine–Ottoman masterpieces. Built 532–537 under Justinian by Anthemios of Tralles and Isidoros of Miletus, later an imperial mosque, museum, and again a working mosque (2020). Official museum pages give dome height ~55.6 m and diameter ~31–32 m; four minarets complete the exterior view matching this Commons shot from Sultanahmet.",
+      "best_time": "Shoulder seasons (spring/autumn) for milder Historic Peninsula walks and clearer exteriors. Tourist gallery routes typically open daily with seasonal hours (e.g., summer openings from ~08:00, winter from ~09:00—verify current schedule); Friday midday tourist access pauses for congregational prayer.",
+      "how_to_get_there": "Sultanahmet / Ayasofya Meydanı in Fatih, Istanbul—walk from the Blue Mosque, Topkapı Imperial Gate (Bâb-ı Hümâyûn), or nearby tram stops. Foreign visitor entry and tickets follow the current visitor-management system (ticket booth near Sultan Ahmed III Fountain / Imperial Gate area per official guidance); prayer-floor access for worshipers uses the main square gate. Modest dress expected.",
+      "good_to_know": "PUBLIC / OPEN — active mosque with tourist visiting route; UNESCO Historic Areas of Istanbul (1985). Respect prayer times, cover shoulders/heads as required, and avoid photographing worshipers. Exterior plaza views of dome + minarets are free; interior tourist galleries are ticketed. Confirm hours and entry rules on official Ayasofya / muze.gen.tr pages.",
+      "official_or_tourism_url": "https://muze.gen.tr/muze-detay/ayasofya",
+      "sources": [
+        "https://whc.unesco.org/en/list/356/",
+        "https://muze.gen.tr/muze-detay/ayasofya",
+        "https://ayasofyaikebircamii.gov.tr/en/visiting/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Istanbul, Türkiye",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Istanbul%2C%20T%C3%BCrkiye&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Istanbul%2C%20T%C3%BCrkiye&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Istanbul%2C%20T%C3%BCrkiye&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Istanbul"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:10:32-05:00",
+      "audit_notes": "PASS — Hagia Sophia exterior dome + four minarets wide site vista; Arild Vågen CC BY-SA 3.0. Facts match. Ad Istanbul OK."
+    }
+  },
+  {
+    "id": "landmarks-017",
+    "tab": "landmarks",
+    "name": "Borobudur",
+    "short_line": "Central Java, Indonesia",
+    "country": "Indonesia",
+    "lat": -7.6079,
+    "lng": 110.2038,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Borobudur_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-017.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABorobudur_Temple.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "22Kartika",
+      "attribution": "Photo: 22Kartika, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Borobudur Temple.jpg' — Borobudur hero; temple, stupa, wide visible; desc: Borobudur Temple in 2013."
+    },
+    "facts": {
+      "one_liner": "8th–9th-century Buddhist mandala: square terraces rising to 72 openwork stupas.",
+      "why_go": "The hero wide shot shows Borobudur’s stepped temple mass and crowning stupas across Central Java’s Kedu Valley—the UNESCO Borobudur Temple Compounds. Built in the 8th–9th centuries under the Syailendra Dynasty, it rises in three tiers: five concentric square terraces, three circular platforms, and a monumental top stupa, with ~2,500 m² of reliefs and 72 openwork stupas each holding a Buddha. That layered stupa skyline is exactly the Commons temple-wide vista. Mendut and Pawon temples share the eastward axis.",
+      "best_time": "Dry season (roughly May–September) for clearer temple-terrace walks and sunrise views over the stupas; wet season brings lush hills but slippery stone. Early morning visits reduce heat and crowds on the upper platforms.",
+      "how_to_get_there": "About 40 km northwest of Yogyakarta (roughly 1–1.5 hours by car/bus via Magelang). Official tickets through InJourney Destination (courtyard vs. temple-structure access options). Combine with Yogyakarta as the cultural base; guided temple climbs may be required for upper levels—check current access rules before travel.",
+      "good_to_know": "PUBLIC / OPEN (ticketed) — UNESCO World Heritage (1991); Indonesian cultural heritage site. Dress modestly; remove shoes where required; do not climb or sit on stupas/Buddha statues. Volcanic ash from nearby Merapi can affect visits—monitor local advisories. Confirm tickets at ticket.injourneydestination.id.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/592/",
+      "sources": [
+        "https://whc.unesco.org/en/list/592/",
+        "https://ticket.injourneydestination.id/en/borobudur-temple/",
+        "https://www.indonesia.travel/gb/en/travel-ideas/heritage/candi-borobudur"
+      ]
+    },
+    "ad": {
+      "destination_query": "Yogyakarta, Indonesia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Yogyakarta%2C%20Indonesia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Yogyakarta%2C%20Indonesia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Yogyakarta%2C%20Indonesia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Yogyakarta"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:10:32-05:00",
+      "audit_notes": "PASS — Borobudur stepped stupa temple wide exterior; 22Kartika CC BY-SA 3.0. Facts match. Ad Yogyakarta OK."
+    }
+  },
+  {
+    "id": "landmarks-018",
+    "tab": "landmarks",
+    "name": "Moai of Rapa Nui",
+    "short_line": "Easter Island, Chile",
+    "country": "Chile",
+    "lat": -27.1127,
+    "lng": -109.3497,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Moai_Rano_raraku.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-018.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMoai_Rano_raraku.jpg",
+      "license": "Public Domain",
+      "author": "Aurbina",
+      "attribution": "Photo: Aurbina, Public Domain, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Moai Rano raraku.jpg' — Moai of Rapa Nui hero; moai, heads, landscape visible; desc: Moai at Rano Raraku, Easter Island"
+    },
+    "facts": {
+      "one_liner": "Rano Raraku quarry: nearly 400 moai carved from volcanic tuff on Rapa Nui.",
+      "why_go": "The hero shows moai at Rano Raraku—the volcanic quarry Chile Travel calls Rapa Nui’s legendary “moai factory,” with nearly 400 statues in carving stages, many still half-buried or attached to the rock. UNESCO’s Rapa Nui National Park (~900 statues island-wide) highlights Rano Raraku as primary evidence of how the giant ancestor figures were cut from yellow-brown lava tuff. Outer slopes look toward Ahu Tongariki and the ocean—the exact quarry landscape of the Commons file Moai Rano raraku.jpg.",
+      "best_time": "Shoulder seasons (roughly October–April austral warmer months) for drier park walks; wind and sudden rain occur year-round on this remote Pacific island. Midday glare is harsh on pale tuff—morning or late-afternoon light sculpts the moai faces dramatically.",
+      "how_to_get_there": "Fly Santiago (SCL) to Mataveri (IPC) on Easter Island (~5.5 hours). From Hanga Roa, Rano Raraku is about 18 km / ~25 minutes by vehicle on the southeast coast. Rapa Nui National Park entry plus an accredited local guide (or approved tour) is required for Rano Raraku and major sites such as Orongo—confirm current Ma’u Henua / park rules.",
+      "good_to_know": "PUBLIC / OPEN (park ticket + guide) — Chilean national park and UNESCO World Heritage (1995). Sacred site: never touch, climb, or walk on moai or ahu. Stay on marked paths. Complete Rapa Nui entry formalities (including return ticket) before travel. Confirm park access at rapanuinationalpark.com / chile.travel.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/715/",
+      "sources": [
+        "https://whc.unesco.org/en/list/715/",
+        "https://chile.travel/en/attractions/rano-raraku/",
+        "https://www.rapanuinationalpark.com/en/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Easter Island, Chile",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Easter%20Island%2C%20Chile&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Easter%20Island%2C%20Chile&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Easter%20Island%2C%20Chile&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Easter Island"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:10:32-05:00",
+      "audit_notes": "PASS — Moai at Rano Raraku quarry (statue exception OK); Aurbina Public Domain. Facts match Rano Raraku. Ad Easter Island OK."
+    }
+  },
+  {
+    "id": "landmarks-019",
+    "tab": "landmarks",
+    "name": "Forbidden City",
+    "short_line": "Beijing, China",
+    "country": "China",
+    "lat": 39.9163,
+    "lng": 116.3972,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Hall_of_Supreme_Harmony%2C_Forbidden_City%2C_Beijing%2C_with_tourists_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-019.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHall_of_Supreme_Harmony%2C_Forbidden_City%2C_Beijing%2C_with_tourists_2.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Daniel Case",
+      "attribution": "Photo: Daniel Case, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Hall of Supreme Harmony, Forbidden City, Beijing, with tourists 2.jpg' — Forbidden City hero; Hall of Supreme Harmony, Outer Court, yellow roofs visible; desc: View of Hall of Supreme Harmony at the Forbidden City from Gate of Supreme Harmony on a busy Sunday.",
+      "credit": "Photo: Daniel Case, CC BY-SA 3.0, via Wikimedia Commons"
+    },
+    "facts": {
+      "one_liner": "Outer Court vista: Hall of Supreme Harmony’s yellow double-eave roof on white marble terrace.",
+      "why_go": "The hero looks north across the Forbidden City’s Outer Court to the Hall of Supreme Harmony (Taihe Dian)—the yellow double-eave throne hall on its three-tier white marble terrace, with visitors crossing the wide courtyard. Palace Museum texts call it the complex’s most dignified building and highest-ranking traditional hall, rebuilt in the Kangxi era after earlier fires; it sits on Beijing’s imperial central axis where coronations and grand ceremonies once centered. UNESCO’s Imperial Palaces of the Ming and Qing Dynasties lists this Beijing palace (built 1406–1420) as seat of power for centuries—this courtyard vista is the classic “want-to-go” Forbidden City scene, not the Meridian Gate entrance alone.",
+      "best_time": "High season roughly April–October; go early on weekdays for clearer courtyard views. Closed most Mondays (except national holidays)—confirm Palace Museum notices before you go.",
+      "how_to_get_there": "In central Beijing near Tiananmen; enter the Palace Museum via Meridian Gate (south) and walk the axis through Gate of Supreme Harmony to this Outer Court view of Taihe Dian. Exit typically north at Shenwu Gate. Subway and buses serve the area; overnight in Beijing.",
+      "good_to_know": "PUBLIC / OPEN (ticketed) — advance official reservation required; same-day walk-ups generally unavailable. Closed most Mondays. Stay on permitted paths; many halls are viewed from outside. Ad destination Beijing remains correct for stays.",
+      "official_or_tourism_url": "https://intl.dpm.org.cn/hallsinfo/374.html",
+      "sources": [
+        "https://intl.dpm.org.cn/hallsinfo/374.html",
+        "https://intl.dpm.org.cn/visit.html",
+        "https://whc.unesco.org/en/list/439/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Beijing, China",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Beijing%2C%20China&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Beijing%2C%20China&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Beijing%2C%20China&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Beijing"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:15:31-05:00",
+      "audit_notes": "PASS — Hall of Supreme Harmony / Outer Court (Daniel Case CC BY-SA 3.0); not Meridian Gate–only; want-to-go palace SITE; facts aligned; ad Beijing OK."
+    }
+  },
+  {
+    "id": "landmarks-020",
+    "tab": "landmarks",
+    "name": "Giza Pyramids",
+    "short_line": "Giza, Egypt",
+    "country": "Egypt",
+    "lat": 29.9792,
+    "lng": 31.1342,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-020.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAll_Gizah_Pyramids.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Ricardo Liberato",
+      "attribution": "Photo: Ricardo Liberato, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:All Gizah Pyramids.jpg' — Giza Pyramids hero; pyramids, complex, necropolis visible; desc: All Giza Pyramids in one shot."
+    },
+    "facts": {
+      "one_liner": "Fourth Dynasty trio: Khufu, Khafre, and Menkaure pyramids on the Giza Plateau.",
+      "why_go": "The hero is the classic all-in-one Giza skyline—three Fourth Dynasty royal pyramids (c. 2613–2494 BC) dominating the desert plateau west of the Nile. Egypt’s Ministry of Tourism and Antiquities names the Great Pyramid for Khufu, with the others for his son Khafre and grandson Menkaure; UNESCO’s Memphis necropolis listing calls Khufu’s pyramid the only surviving Wonder of the Ancient World. Subsidiary queens’ pyramids, mastabas, and the Sphinx share the plateau, but this Commons “All Gizah Pyramids” shot centers the three kings’ monuments together.",
+      "best_time": "October–April for cooler plateau walking; summer heat is extreme by midday. Early morning entry (site hours commonly from ~08:00—verify current MoTA schedule) gives softer light on all three pyramids and thinner crowds. Clear winter days deliver the sharp multi-pyramid silhouette of the hero photo.",
+      "how_to_get_there": "From Cairo or Giza city, taxi/ride-hail to the Giza Plateau archaeological site (often via the newer Fayoum Highway visitor approaches—confirm current entrance). Plateau area tickets cover outdoor viewing of the complex; separate tickets are required for pyramid interiors and some tombs. Allow half a day for exterior viewpoints that capture all three pyramids in one frame.",
+      "good_to_know": "PUBLIC / OPEN (ticketed) — Egyptian Ministry of Tourism and Antiquities site within UNESCO Memphis and its Necropolis (1979). Area tickets do not automatically include pyramid interiors. Stay off climbing the monuments; follow staff and marked routes. Confirm hours and ticket types on egymonuments.gov.eg.",
+      "official_or_tourism_url": "https://egymonuments.gov.eg/archaeological-sites/giza-plateau/",
+      "sources": [
+        "https://egymonuments.gov.eg/archaeological-sites/giza-plateau/",
+        "https://whc.unesco.org/en/list/86/",
+        "https://egymonuments.gov.eg/en/monuments/the-great-pyramid"
+      ]
+    },
+    "ad": {
+      "destination_query": "Giza, Egypt",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Giza%2C%20Egypt&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Giza%2C%20Egypt&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Giza%2C%20Egypt&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Giza"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:10:32-05:00",
+      "audit_notes": "PASS — All three Giza pyramids (Khufu/Khafre/Menkaure) classic plateau vista; Ricardo Liberato CC BY-SA 2.0. Facts match. Ad Giza OK."
+    }
+  }
+]
