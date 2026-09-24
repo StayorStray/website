@@ -22,6 +22,7 @@
   var SPIN_MS_MIN = 2500;
   var SPIN_MS_MAX = 4000;
   var MIN_REVOLUTIONS = 3;
+  var audioContext = null;
 
   /** Region codes (ISO 3166-1 alpha-2) → country name matching card.country */
   var REGION_TO_COUNTRY = {
@@ -124,6 +125,7 @@
     spinning: false,
     lastPick: null,
     rotation: 0,
+    soundEnabled: true,
   };
 
   function escapeHtml(s) {
@@ -169,6 +171,7 @@
       geoFilter: 'all',
       category: 'all',
       removedIds: [],
+      soundEnabled: true,
     };
   }
 
@@ -197,6 +200,9 @@
           return typeof id === 'string' && id;
         });
       }
+      if (typeof parsed.soundEnabled === 'boolean') {
+        base.soundEnabled = parsed.soundEnabled;
+      }
       return base;
     } catch (e) {
       return base;
@@ -212,6 +218,7 @@
           geoFilter: state.geoFilter,
           category: state.category,
           removedIds: state.removedIds.slice(),
+          soundEnabled: state.soundEnabled,
         })
       );
     } catch (e) {
@@ -536,6 +543,7 @@
     var catSel = document.getElementById('wheel-category');
     var geoInputs = document.querySelectorAll('input[name="wheel-geo"]');
     var spinBtn = document.getElementById('wheel-spin-btn');
+    var soundToggle = document.getElementById('wheel-sound-toggle');
     var resetBtn = document.getElementById('wheel-reset-btn');
     var modal = document.getElementById('wheel-modal');
 
@@ -565,6 +573,15 @@
       spinBtn.addEventListener('click', function () {
         spin();
       });
+    }
+    if (soundToggle) {
+      soundToggle.addEventListener('click', function () {
+        state.soundEnabled = !state.soundEnabled;
+        saveStorage();
+        updateSoundToggle();
+        if (state.soundEnabled) getAudioContext();
+      });
+      updateSoundToggle();
     }
     if (resetBtn) {
       resetBtn.addEventListener('click', function () {
@@ -612,6 +629,94 @@
     return 1 - Math.pow(1 - t, 3);
   }
 
+  function prefersReducedMotion() {
+    try {
+      return window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    } catch (e) {
+      return false;
+    }
+  }
+
+  function getAudioContext() {
+    if (!state.soundEnabled || prefersReducedMotion()) return null;
+    try {
+      var AudioContextCtor = window.AudioContext || window.webkitAudioContext;
+      if (!AudioContextCtor) return null;
+      if (!audioContext) audioContext = new AudioContextCtor();
+      if (audioContext.state === 'suspended') {
+        var resume = audioContext.resume();
+        if (resume && resume.catch) resume.catch(function () {});
+      }
+      return audioContext;
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function playTick() {
+    var ctx = getAudioContext();
+    if (!ctx) return;
+    try {
+      var now = ctx.currentTime;
+      var osc = ctx.createOscillator();
+      var gain = ctx.createGain();
+      osc.type = 'triangle';
+      osc.frequency.setValueAtTime(1150, now);
+      osc.frequency.exponentialRampToValueAtTime(680, now + 0.014);
+      gain.gain.setValueAtTime(0.0001, now);
+      gain.gain.exponentialRampToValueAtTime(0.085, now + 0.002);
+      gain.gain.exponentialRampToValueAtTime(0.0001, now + 0.017);
+      osc.connect(gain);
+      gain.connect(ctx.destination);
+      osc.start(now);
+      osc.stop(now + 0.02);
+    } catch (e) {
+      /* Web Audio is optional and may be unavailable or blocked. */
+    }
+  }
+
+  function playLandTone(ctx, frequency, start, duration, volume) {
+    var osc = ctx.createOscillator();
+    var gain = ctx.createGain();
+    osc.type = 'sine';
+    osc.frequency.setValueAtTime(frequency, start);
+    gain.gain.setValueAtTime(0.0001, start);
+    gain.gain.linearRampToValueAtTime(volume, start + 0.035);
+    gain.gain.exponentialRampToValueAtTime(0.0001, start + duration);
+    osc.connect(gain);
+    gain.connect(ctx.destination);
+    osc.start(start);
+    osc.stop(start + duration + 0.03);
+  }
+
+  function playLandChime() {
+    var ctx = getAudioContext();
+    if (!ctx) return;
+    try {
+      var start = ctx.currentTime + 0.01;
+      playLandTone(ctx, 523.25, start, 0.52, 0.052);
+      playLandTone(ctx, 659.25, start + 0.12, 0.56, 0.048);
+      playLandTone(ctx, 783.99, start + 0.24, 0.68, 0.044);
+    } catch (e) {
+      /* Web Audio is optional and may be unavailable or blocked. */
+    }
+  }
+
+  function wheelIndexAtPointer(rotation, segmentCount) {
+    if (segmentCount < 2) return 0;
+    var normalized = ((-rotation % 360) + 360) % 360;
+    return Math.floor((normalized / 360) * segmentCount);
+  }
+
+  function updateSoundToggle() {
+    var toggle = document.getElementById('wheel-sound-toggle');
+    if (!toggle) return;
+    var label = state.soundEnabled ? 'Mute sound' : 'Unmute sound';
+    toggle.setAttribute('aria-pressed', String(state.soundEnabled));
+    toggle.setAttribute('aria-label', label);
+    toggle.textContent = label;
+  }
+
   function spin() {
     if (state.spinning) return;
     computeEligible();
@@ -620,6 +725,7 @@
       return;
     }
     state.spinning = true;
+    getAudioContext();
     updatePoolStatus();
 
     var pool = state.eligible;
@@ -654,11 +760,17 @@
     var endRot = startRot + desired - (startRot % 360);
 
     var startTime = null;
+    var lastTickIndex = wheelIndexAtPointer(startRot, n);
     function frame(ts) {
       if (!startTime) startTime = ts;
       var t = Math.min(1, (ts - startTime) / duration);
       var e = easeOutCubic(t);
       state.rotation = startRot + (endRot - startRot) * e;
+      var tickIndex = wheelIndexAtPointer(state.rotation, n);
+      if (tickIndex !== lastTickIndex) {
+        lastTickIndex = tickIndex;
+        playTick();
+      }
       paintWheelWithSegs(segs);
       if (t < 1) {
         requestAnimationFrame(frame);
@@ -667,6 +779,7 @@
         paintWheelWithSegs(segs);
         state.spinning = false;
         updatePoolStatus();
+        playLandChime();
         showModal(pick);
       }
     }
@@ -743,6 +856,7 @@
     state.geoFilter = stored.geoFilter;
     state.category = stored.category;
     state.removedIds = stored.removedIds;
+    state.soundEnabled = stored.soundEnabled;
 
     await loadCountries();
     var names = state.countries.map(function (c) {
