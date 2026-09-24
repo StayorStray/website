@@ -692,6 +692,73 @@
       "next": "Islands 041–060 toward 100",
       "scale_target_met": false,
       "mvp_ready": true
+    },
+    "luxury": {
+      "live_file": "data/luxury.json",
+      "archive_dir": "data/decks/luxury/",
+      "approved_count": 40,
+      "catalog_target": 100,
+      "scale_target_met": false,
+      "mvp_ready": true,
+      "sets": [
+        {
+          "id": "luxury-set-001",
+          "file": "set-001.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "luxury-001",
+            "luxury-002",
+            "luxury-003",
+            "luxury-004",
+            "luxury-005",
+            "luxury-006",
+            "luxury-007",
+            "luxury-008",
+            "luxury-009",
+            "luxury-010",
+            "luxury-011",
+            "luxury-012",
+            "luxury-013",
+            "luxury-014",
+            "luxury-015",
+            "luxury-016",
+            "luxury-017",
+            "luxury-018",
+            "luxury-019",
+            "luxury-020"
+          ]
+        },
+        {
+          "id": "luxury-set-002",
+          "file": "set-002.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "luxury-021",
+            "luxury-022",
+            "luxury-023",
+            "luxury-024",
+            "luxury-025",
+            "luxury-026",
+            "luxury-027",
+            "luxury-028",
+            "luxury-029",
+            "luxury-030",
+            "luxury-031",
+            "luxury-032",
+            "luxury-033",
+            "luxury-034",
+            "luxury-035",
+            "luxury-036",
+            "luxury-037",
+            "luxury-038",
+            "luxury-039",
+            "luxury-040"
+          ]
+        }
+      ],
+      "next": "Honest depth 40; Luxury 041–060 toward 100"
     }
   },
   "other_tabs": [
@@ -711,5 +778,5 @@
     "stray_key": "sos_stray_list",
     "scope": "on-device localStorage only; keyed by place id; survives daily rotation"
   },
-  "updated_at": "2026-09-24T05:33:40-05:00"
+  "updated_at": "2026-09-24T06:29:00-05:00"
 }

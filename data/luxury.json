@@ -1041,5 +1041,1047 @@
       "audit_notes": "Dark asanoha lattice tower Otemachi exterior. CC BY-SA 4.0. Bookable hoshinoresorts.com. Ad Tokyo. Facts match.",
       "reject_reason": ""
     }
+  },
+  {
+    "id": "luxury-021",
+    "tab": "luxury",
+    "name": "Burj Al Arab",
+    "short_line": "Dubai, United Arab Emirates",
+    "country": "United Arab Emirates",
+    "lat": 25.1412,
+    "lng": 55.1853,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Burj_Al_Arab_during_sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-021.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABurj_Al_Arab_during_sunset.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Nicolascornet",
+      "attribution": "Photo: Nicolascornet, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + Burj Al Arab sail hotel sunset exterior reflected on wet beach (hotel main subject; ≠ Atlantis The Palm); desc: The Burj Al Arab hotel in Dubai, UAE, during sunset"
+    },
+    "facts": {
+      "one_liner": "Sail-shaped Burj Al Arab silhouetted at sunset, mirrored on wet Dubai beach sand.",
+      "why_go": "The hero frames Burj Al Arab’s sail-like façade from a low beach angle at sunset: white lattice sail, circular helipad jutting near the crown, and a fiery orange-to-pink sky doubled in wet reflective sand with Gulf surf in the mid-ground. Jumeirah’s official pages present the hotel as Dubai’s landmark sail hotel on its own artificial island off Jumeirah Beach, designed to evoke a dhow sail. Even when rooms are unavailable, this public shoreline view is the postcard silhouette most visitors recognise. Concrete detail: Wikipedia and Jumeirah note the tower opened 1 December 1999 at about 321 m, standing on reclaimed land linked by a private bridge.",
+      "best_time": "November–March for cooler evenings and clearer sunset colour on the beach; April and October are warm but workable. May–September is very hot and humid—sunrise/sunset shoots are more comfortable than midday.",
+      "how_to_get_there": "Fly into Dubai International (DXB) or Al Maktoum (DWC). The sail exterior is visible from public Umm Suqeim / Jumeirah Beach shorelines without hotel entry. Guest arrivals historically used the private bridge from the mainland; confirm current access with Jumeirah during restoration.",
+      "good_to_know": "TEMPORARILY CLOSED for stays: as of April 2026 Jumeirah announced an ~18-month phased restoration led by Tristan Auer; Wikipedia lists status under renovation and the official stay page emphasises refining the landmark rather than open booking. Exterior remains visible from public beaches; hotel interiors, bridge, and guest facilities are not a casual walk-in. Reopening timing is subject to Jumeirah updates—check jumeirah.com before travel plans.",
+      "official_or_tourism_url": "https://www.jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah",
+      "sources": [
+        "https://www.jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah",
+        "https://en.wikipedia.org/wiki/Burj_Al_Arab",
+        "https://mediahub.jumeirah.com/jumeirah-burj-al-arab-to-undergo-phased-restoration-programme-to-preserve-the-legacy-of-the-icon/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Burj Al Arab, Dubai",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Burj%20Al%20Arab%2C%20Dubai&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Burj%20Al%20Arab%2C%20Dubai&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Burj%20Al%20Arab%2C%20Dubai&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at Burj Al Arab"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS — Burj Al Arab sail exterior from beach at sunset (Nicolascornet CC BY-SA 4.0). Honesty PASS: TEMPORARILY CLOSED for stays (~18-mo Jumeirah/Tristan Auer restoration from Apr 2026) clearly in good_to_know; exterior still public-beach visible. Ad Burj Al Arab Dubai OK. ≠ Atlantis (001).",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-022",
+    "tab": "luxury",
+    "name": "Raffles Hotel Singapore",
+    "short_line": "Singapore",
+    "country": "Singapore",
+    "lat": 1.2946,
+    "lng": 103.8545,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Front_facade_of_Raffles_Hotel%2C_Singapore%2C_from_southeast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-022.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AFront_facade_of_Raffles_Hotel%2C_Singapore%2C_from_southeast.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Daniel Case",
+      "attribution": "Photo: Daniel Case, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + Raffles Hotel Singapore white colonial facade with porte-cochère and RAFFLES HOTEL lettering (≠ Marina Bay Sands); desc: Front facade of the Raffles Hotel, Singapore, from the sidewalk"
+    },
+    "facts": {
+      "one_liner": "White colonial Raffles Hotel Singapore façade with porte-cochère and RAFFLES HOTEL pediment.",
+      "why_go": "Shot from the southeast sidewalk, the hero centres Raffles’ bright white three-storey colonial façade: arched windows with louvred shutters, classical columns, manicured lawn hedges, and bold RAFFLES HOTEL lettering on the pediment above a columned porte-cochère. Raffles’ official Singapore site places the grande dame at 1 Beach Road and markets suite stays inside this Victorian-colonial landmark opened in 1887. Guests come for that gleaming white exterior and garden approach as much as the historic interiors. Concrete detail: official contact pages list 1 Beach Road, Singapore 189673, in the Civic District near Beach Road.",
+      "best_time": "February–April often balances warmth with slightly lower rainfall; June–August can be wetter. Singapore is tropical year-round—book early around major festivals and Formula 1 weekend.",
+      "how_to_get_there": "Fly into Changi (SIN), then taxi, rideshare, or MRT (City Hall / Esplanade / Bugis area) to Beach Road. The porte-cochère faces the main driveway; hotel transfers can be arranged with reservations.",
+      "good_to_know": "OPEN / BOOKABLE via raffles.com/singapore (Reserve Your Stay and offers live as of drafting). Street façade and gardens are viewable from public sidewalks; guest suites, Long Bar, and many venues require reservation or overnight stay. Smart-casual dress is typical for dining venues—confirm house codes when booking.",
+      "official_or_tourism_url": "https://www.raffles.com/singapore/",
+      "sources": [
+        "https://www.raffles.com/singapore/",
+        "https://www.raffles.com/singapore/FAQs/",
+        "https://en.wikipedia.org/wiki/Raffles_Hotel"
+      ]
+    },
+    "ad": {
+      "destination_query": "Raffles Hotel, Singapore",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Raffles%20Hotel%2C%20Singapore&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Raffles%20Hotel%2C%20Singapore&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Raffles%20Hotel%2C%20Singapore&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at Raffles Hotel Singapore"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS — Raffles Hotel Singapore colonial façade + RAFFLES HOTEL lettering (Daniel Case CC BY-SA 4.0). Ad Raffles Hotel Singapore. Facts match JPG.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-023",
+    "tab": "luxury",
+    "name": "The Savoy",
+    "short_line": "London, United Kingdom",
+    "country": "United Kingdom",
+    "lat": 51.51,
+    "lng": -0.1205,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/H%C3%B4tel_Savoy_The_Strand_Londres_-_edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-023.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AH%C3%B4tel_Savoy_The_Strand_Londres_-_edited.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Photo by CVB, edited and cropped by Cart",
+      "attribution": "Photo: Photo by CVB, edited and cropped by Cart, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + The Savoy London Savoy Court Strand entrance with SAVOY Art Deco canopy and Count of Savoy statue; desc: Savoy Hotel entrance, The Strand, London."
+    },
+    "facts": {
+      "one_liner": "The Savoy’s Art Deco SAVOY canopy and gilded Count of Savoy statue on Savoy Court.",
+      "why_go": "Looking down Savoy Court from the Strand, the hero locks onto The Savoy’s stainless Art Deco canopy with SAVOY in block letters, warm underside lights, and the gilded statue of Peter, Count of Savoy above, flanked by Edwardian stone wings and the Savoy Theatre sign. The Savoy’s official and Fairmont-managed pages place the hotel on the Strand (WC2R 0EZ), a Fairmont-managed landmark open since 1889. Guests stay for that ceremonial courtyard arrival—black cabs under the canopy—as much as Thames- and Strand-side rooms. Concrete detail: Fairmont lists Strand, London WC2R 0EZ, on the Northbank between Covent Garden and the Thames.",
+      "best_time": "May–September for longer daylight and West End evenings; April and September–October often milder with fewer peak-summer crowds. December brings festive décor but denser Strand foot traffic.",
+      "how_to_get_there": "Arrive via Heathrow (LHR), Gatwick (LGW), or Eurostar to St Pancras, then Tube (Charing Cross, Embankment, or Covent Garden) or taxi to Strand / Savoy Court. Savoy Court is entered from the Strand; note the unusual right-hand drive approach into the courtyard.",
+      "good_to_know": "OPEN / BOOKABLE at thesavoylondon.com and fairmont.com (rooms and offers live). Savoy Court and the canopy are publicly viewable from the Strand approach; guest floors, Thames suites, and many restaurants require booking. Theatre next door is a separate ticketed venue.",
+      "official_or_tourism_url": "https://www.thesavoylondon.com/",
+      "sources": [
+        "https://www.thesavoylondon.com/",
+        "https://www.fairmont.com/en/hotels/london/the-savoy.html",
+        "https://en.wikipedia.org/wiki/The_Savoy_Hotel"
+      ]
+    },
+    "ad": {
+      "destination_query": "The Savoy, London",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=The%20Savoy%2C%20London&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=The%20Savoy%2C%20London&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=The%20Savoy%2C%20London&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at The Savoy"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS — The Savoy Strand/Savoy Court entrance + SAVOY marquee (Photo by CVB, edited and cropped by Cart CC BY-SA 4.0). Ad The Savoy London. Facts match JPG.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-024",
+    "tab": "luxury",
+    "name": "Four Seasons Hotel George V",
+    "short_line": "Paris, France",
+    "country": "France",
+    "lat": 48.8689,
+    "lng": 2.3008,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/H%C3%B4tel_George-V%2C_31_avenue_George-V%2C_Paris_8e_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-024.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AH%C3%B4tel_George-V%2C_31_avenue_George-V%2C_Paris_8e_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Polymagou",
+      "attribution": "Photo: Polymagou, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + Four Seasons Hotel George V Avenue George V limestone facade with FOUR SEASONS HOTEL entrance (≠ Negresco); desc: Hôtel George-V, 31 avenue George-V (Paris, 8e)."
+    },
+    "facts": {
+      "one_liner": "Cream limestone Four Seasons George V façade on avenue George-V with iron balconies.",
+      "why_go": "From avenue George-V, the hero shows the hotel’s multi-storey cream limestone palace façade: arched ground-floor openings, wrought-iron balconies, dark awnings, a discreet Four Seasons Hotel George V entrance, and street trees under a clear Paris sky. Four Seasons’ official Paris pages place the 1928 Art Deco landmark at 31 avenue George V in the Golden Triangle near the Champs-Élysées. Guests come for that Haussmann-scale street presence and palace-hotel interiors behind the limestone. Concrete detail: official address is 31, avenue George V, 75008 Paris, with Michelin-starred dining among the hotel’s noted draws.",
+      "best_time": "April–June and September–October for mild walking weather in the 8th arrondissement; July–August are warmer and busier. Winter stays work for shopping and indoor dining—pack for rain year-round.",
+      "how_to_get_there": "Fly into CDG or ORY, or arrive by TGV to Paris, then taxi/RER to the Champs-Élysées / George V area ( Métro George V or Alma–Marceau). The hotel entrance is on avenue George-V itself.",
+      "good_to_know": "OPEN / BOOKABLE at fourseasons.com/paris (Check Rates / accommodations live). Avenue façade and boutiques at street level are publicly viewable; guest rooms, spa, and courtyard are for hotel guests and booked diners. Formal dress expectations apply in fine-dining rooms—confirm with the hotel.",
+      "official_or_tourism_url": "https://www.fourseasons.com/paris/",
+      "sources": [
+        "https://www.fourseasons.com/paris/",
+        "https://www.fourseasons.com/paris/accommodations/",
+        "https://en.wikipedia.org/wiki/H%C3%B4tel_George-V"
+      ]
+    },
+    "ad": {
+      "destination_query": "Four Seasons Hotel George V, Paris",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Four%20Seasons%20Hotel%20George%20V%2C%20Paris&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Four%20Seasons%20Hotel%20George%20V%2C%20Paris&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Four%20Seasons%20Hotel%20George%20V%2C%20Paris&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at Four Seasons George V"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS — Four Seasons Hotel George V avenue façade + Four Seasons mark (Polymagou CC BY-SA 4.0). Ad George V Paris. Facts match JPG.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-025",
+    "tab": "luxury",
+    "name": "Hotel Negresco",
+    "short_line": "Nice, France",
+    "country": "France",
+    "lat": 43.6947,
+    "lng": 7.2583,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Hotel_Negresco_at_Nice.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-025.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHotel_Negresco_at_Nice.JPG",
+      "license": "Public Domain",
+      "author": "Jolly Janner",
+      "attribution": "Photo: Jolly Janner, Public Domain, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + Hotel Negresco Nice pink dome + NEGRESCO roof lettering on Promenade des Anglais (≠ George V); desc: A photograph of the Hotel Negresco in Nice, south-east France."
+    },
+    "facts": {
+      "one_liner": "Hotel Negresco’s white Belle Époque façade and salmon-pink dome on Promenade des Anglais.",
+      "why_go": "Street-level on the Promenade des Anglais, the hero isolates Negresco’s white Belle Époque corner turret topped by a salmon-pink dome with NEGRESCO lettering, wrought-iron balconies, international flags, and a palm rising against a clear Riviera sky. Le Negresco’s official site presents the historic palace hotel at 37 Promenade des Anglais in Nice. Guests stay for that pink-dome landmark profile facing the Baie des Anges as much as the art-filled interiors. Concrete detail: official pages and Leading Hotels listings place the address at 37 Promenade des Anglais, 06000 Nice.",
+      "best_time": "May–June and September–October for warm Promenade walks without midsummer heat; July–August are busiest and hottest. Winter is milder than inland France but windier along the seafront.",
+      "how_to_get_there": "Fly into Nice Côte d’Azur (NCE), then taxi, tram, or bus to the Promenade des Anglais near the hotel. The pink dome is unmistakable from the seaside boulevard.",
+      "good_to_know": "OPEN / BOOKABLE at lenegresco.com (accommodation booking live). Promenade façade is fully public; guest floors and many salons are for registered guests and diners. The hotel is a Nice monument—respect photography etiquette at the porte-cochère during arrivals.",
+      "official_or_tourism_url": "https://www.lenegresco.com/en",
+      "sources": [
+        "https://www.lenegresco.com/en",
+        "https://www.lenegresco.com/en/accommodation",
+        "https://en.wikipedia.org/wiki/Hotel_Negresco"
+      ]
+    },
+    "ad": {
+      "destination_query": "Hotel Negresco, Nice",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Hotel%20Negresco%2C%20Nice&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Hotel%20Negresco%2C%20Nice&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Hotel%20Negresco%2C%20Nice&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at Hotel Negresco"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS — Hotel Negresco Nice pink dome + NEGRESCO lettering on Promenade (Jolly Janner Public Domain). Ad Hotel Negresco Nice. Facts match JPG.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-026",
+    "tab": "luxury",
+    "name": "Claridge's",
+    "short_line": "Mayfair, London, United Kingdom",
+    "country": "United Kingdom",
+    "lat": 51.5126,
+    "lng": -0.1478,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Brook_Street_Claridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-026.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABrook_Street_Claridge.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "CVB",
+      "attribution": "Photo: CVB, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + Claridge's Mayfair Brook Street red-brick art-deco corner facade with CLARIDGE'S canopy (≠ Savoy); desc: L' hôtel \"Le Claridge\", Brook Street, Londres."
+    },
+    "facts": {
+      "one_liner": "Claridge’s red-brick Mayfair corner on Brook Street with balconies and striped awning.",
+      "why_go": "From the Brook Street junction, the hero shows Claridge’s multi-storey red-brick and white-stone corner façade: wrought-iron balconies, dormers, a black-and-white striped awning, flags, and a clear BROOK STREET W1 sign. Claridge’s / Maybourne official pages place the Mayfair hotel on Brook Street (W1K 4HR) and market it as a long-standing London luxury address. Guests come for that corner Art Deco–Edwardian street presence steps from Bond Street. Concrete detail: official listings locate Claridge’s at Brook Street, Mayfair, London W1K 4HR.",
+      "best_time": "May–September for Mayfair walks and longer evenings; spring and autumn shoulder months often mean easier restaurant bookings. December is festive but busy around Bond Street shopping.",
+      "how_to_get_there": "Fly into LHR/LGW or take Eurostar, then Tube (Bond Street or Oxford Circus) or taxi to Brook Street, Mayfair. The corner entrance faces the Brook Street / Davies Street area.",
+      "good_to_know": "OPEN / BOOKABLE via claridges.co.uk / maybourne.com (booking flows live). Brook Street façade is public; guest floors, Foyer, and many restaurants require reservation. Afternoon tea and dining book out—reserve ahead.",
+      "official_or_tourism_url": "https://www.claridges.co.uk/",
+      "sources": [
+        "https://www.claridges.co.uk/",
+        "https://www.maybourne.com/en/hotels/claridges",
+        "https://en.wikipedia.org/wiki/Claridge%27s"
+      ]
+    },
+    "ad": {
+      "destination_query": "Claridge's, London",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Claridge%27s%2C%20London&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Claridge%27s%2C%20London&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Claridge%27s%2C%20London&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at Claridge's"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS — Claridge's Mayfair Brook Street red-brick corner exterior (CVB CC BY-SA 4.0; Commons GPS Claridge's). Ad Claridge's London. Facts match JPG.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-027",
+    "tab": "luxury",
+    "name": "Gleneagles Hotel",
+    "short_line": "Auchterarder, Scotland, United Kingdom",
+    "country": "United Kingdom",
+    "lat": 56.2858,
+    "lng": -3.7475,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Gleneagles_Hotel_and_grounds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-027.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AGleneagles_Hotel_and_grounds.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Simon Ledingham",
+      "attribution": "Photo: Simon Ledingham, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "SWAP from Six Senses Yao Noi (zero usable named exterior on Commons). Gleneagles Hotel Perthshire aerial estate exterior with golf grounds (swap-list); desc: Gleneagles Hotel and grounds"
+    },
+    "facts": {
+      "one_liner": "Aerial Gleneagles Hotel Perthshire—stone wings, striped lawns, ponds, and tennis courts.",
+      "why_go": "From above, Gleneagles reads as a sprawling light-stone country hotel set in vast striped lawns, with ponds, tree clumps, sand bunkers, tennis courts, and parking framed by woodland and rolling Perthshire hills. Gleneagles’ official site markets the five-star resort at Auchterarder for hotel stays, spa, and championship golf on its estate grounds. Guests come for that self-contained countryside campus—hotel as centrepiece of golf and outdoor pursuits—not a city street façade. Concrete detail: official contact pages list Auchterarder, Perthshire, Scotland PH3 1NF; Wikipedia notes the hotel has hosted major golf events including the 2014 Ryder Cup.",
+      "best_time": "May–September for golf, estate walks, and longer Scottish daylight; late spring brings blossom on the grounds. October–March is colder and wetter—spa and indoor dining still draw weekenders.",
+      "how_to_get_there": "Fly into Edinburgh (EDI) or Glasgow (GLA), then drive or take a pre-booked transfer to Auchterarder (commonly about an hour from Edinburgh depending on traffic). Rail links serve Gleneagles station; confirm hotel pickup.",
+      "good_to_know": "OPEN / BOOKABLE at gleneagles.com (stay and golf booking live). Estate roads and some grounds views are approachable; guest rooms, spa, and many courses/activities require booking. Golf dress codes and tee times apply—check with the resort.",
+      "official_or_tourism_url": "https://gleneagles.com/",
+      "sources": [
+        "https://gleneagles.com/",
+        "https://gleneagles.com/stay/",
+        "https://en.wikipedia.org/wiki/Gleneagles_Hotel"
+      ]
+    },
+    "ad": {
+      "destination_query": "Gleneagles Hotel, Auchterarder",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Gleneagles%20Hotel%2C%20Auchterarder&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Gleneagles%20Hotel%2C%20Auchterarder&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Gleneagles%20Hotel%2C%20Auchterarder&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at Gleneagles"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS — Gleneagles Hotel aerial estate/hotel + lawns (Simon Ledingham CC BY-SA 2.0). Swap lock OK. Ad Gleneagles Auchterarder. Facts match JPG.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-028",
+    "tab": "luxury",
+    "name": "Emirates Palace",
+    "short_line": "Abu Dhabi, United Arab Emirates",
+    "country": "United Arab Emirates",
+    "lat": 24.4617,
+    "lng": 54.3175,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Emirates_palace_from_top_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-028.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AEmirates_palace_from_top_view.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Abhishek Ajoy Menon",
+      "attribution": "Photo: Abhishek Ajoy Menon, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "SWAP from Amanpuri (Commons only interior library/plants; no pavilion exterior). Emirates Palace Abu Dhabi aerial palace-dome resort exterior + marina (swap-list); desc: Emirates palace, Abu Dhabi"
+    },
+    "facts": {
+      "one_liner": "Aerial Emirates Palace—domed beige wings, formal gardens, private beach, and marina.",
+      "why_go": "The high aerial hero shows Emirates Palace as a vast sand-coloured dome complex: a patterned central dome, multiple wings, formal green lawns, a UAE flag circle, crescent white-sand beach, and a marina of white yachts on the Gulf. Mandarin Oriental’s official Abu Dhabi pages brand the operating hotel as Emirates Palace Mandarin Oriental, Abu Dhabi, on West Corniche Road with a long private beachfront. Guests book the palace-scale resort for that monumental dome-and-beach footprint rather than a downtown tower. Concrete detail: official FAQ places the resort on West Corniche Road in Ras Al Akhdar, Abu Dhabi; the Mandarin Oriental conversion was completed in 2023.",
+      "best_time": "November–March for cooler beach and garden weather; April and October remain warm but usable. May–September are extremely hot—pool and indoor venues matter more than midday outdoors.",
+      "how_to_get_there": "Fly into Abu Dhabi International (AUH), then taxi or hotel transfer along the Corniche to West Corniche Road / Ras Al Akhdar. Dubai (DXB) is a longer road transfer—allow traffic time.",
+      "good_to_know": "OPEN / BOOKABLE as Emirates Palace Mandarin Oriental at mandarinoriental.com/en/abu-dhabi/emirates-palace (Stay pages live). Card name remains Emirates Palace per Scout; current bookable brand is Emirates Palace Mandarin Oriental, Abu Dhabi. Grounds scale is best appreciated from approved approaches; beach, pools, and guest wings are for hotel guests and booked outlets. Dress modestly in public UAE spaces outside the resort beach.",
+      "official_or_tourism_url": "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace",
+      "sources": [
+        "https://www.mandarinoriental.com/en/abu-dhabi/emirates-palace",
+        "https://en.wikipedia.org/wiki/Emirates_Palace",
+        "https://www.businesstraveller.com/business-travel/2023/02/20/abu-dhabis-emirates-palace-hotel-completes-conversion-to-mandarin-oriental-brand/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Emirates Palace Mandarin Oriental, Abu Dhabi",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Emirates%20Palace%20Mandarin%20Oriental%2C%20Abu%20Dhabi&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Emirates%20Palace%20Mandarin%20Oriental%2C%20Abu%20Dhabi&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Emirates%20Palace%20Mandarin%20Oriental%2C%20Abu%20Dhabi&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at Emirates Palace"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS — Emirates Palace aerial dome complex + beach/marina (Abhishek Ajoy Menon CC BY-SA 4.0). Honesty: card name Emirates Palace; bookable Emirates Palace Mandarin Oriental disclosed; ad uses bookable brand. Facts match JPG.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-029",
+    "tab": "luxury",
+    "name": "Singita Ebony Lodge",
+    "short_line": "Sabi Sand, South Africa",
+    "country": "South Africa",
+    "lat": -24.7833,
+    "lng": 31.4167,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Singita-Ebony-Lodge-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-029.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASingita-Ebony-Lodge-12.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Jessica138",
+      "attribution": "Photo: Jessica138, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + Singita Ebony Lodge Sabi Sand bushveld deck/firepit lodge exterior at golden hour (≠ One&Only Cape Town); desc: Singita's Ebony Lodge in Sabi Sand, Mpumalanga, South Africa"
+    },
+    "facts": {
+      "one_liner": "Singita Ebony Lodge deck—fire pit, canvas chairs, and Sand River bushveld at golden hour.",
+      "why_go": "The hero is Ebony’s outdoor lodge deck at golden hour: dark timber boards, a bowl fire pit, olive canvas safari chairs, a curved wicker sofa with cushions, hanging lanterns under a slatted roof, a large living tree beside the deck, and a sandy riverbed bushveld view beyond the wire rail. Singita’s official Ebony pages describe the founding Sabi Sand lodge on the Sand River, with suspended walkways and decks overlooking big-game country. Guests come for that river-facing evening deck after game drives, not a city hotel façade. Concrete detail: Singita situates Ebony within roughly 45,000 acres of Sabi Sand wilderness known for frequent leopard sightings.",
+      "best_time": "May–September dry winter for easier game viewing and cooler nights on the deck; April and October are shoulder months. November–March is greener and hotter with afternoon storms—excellent birding, denser foliage.",
+      "how_to_get_there": "Fly into Johannesburg (JNB), then scheduled air transfer to the Singita Sabi Sand airstrip (about an hour) or via Kruger Mpumalanga (MQP); lodge transfer from the airstrip is short. Road transfers from Johannesburg take roughly half a day—pre-arrange with Singita. Soft-sided luggage limits usually apply on light aircraft.",
+      "good_to_know": "OPEN / BOOKABLE via singita.com/lodge/singita-ebony-lodge (enquiries and travel desk live). Private reserve lodge—guest-only; no casual day visits. Game drives and walks are guided; malaria precautions and reserve gate rules apply. Confirm seasonal packing and airstrip baggage limits when booking.",
+      "official_or_tourism_url": "https://singita.com/lodge/singita-ebony-lodge/",
+      "sources": [
+        "https://singita.com/lodge/singita-ebony-lodge/",
+        "https://singita.com/lodge/singita-ebony-lodge/information/",
+        "https://www.southafrica.net/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Singita Ebony Lodge, Sabi Sand",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Singita%20Ebony%20Lodge%2C%20Sabi%20Sand&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Singita%20Ebony%20Lodge%2C%20Sabi%20Sand&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Singita%20Ebony%20Lodge%2C%20Sabi%20Sand&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at Singita Ebony Lodge"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS (close call) — Singita Ebony Lodge bushveld outdoor deck/firepit lodge exterior (Jessica138 CC BY-SA 4.0). Safari lodge exterior amenity as property subject OK (cf. Amangiri pool). Ad Singita Ebony Lodge Sabi Sand. Facts match JPG.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-030",
+    "tab": "luxury",
+    "name": "COMO Cocoa Island",
+    "short_line": "South Malé Atoll, Maldives",
+    "country": "Maldives",
+    "lat": 3.9167,
+    "lng": 73.4667,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Cocoa_Island_%28Maldives%29-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-030.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACocoa_Island_%28Maldives%29-3.jpg",
+      "license": "CC BY 2.0",
+      "author": "Chi King",
+      "attribution": "Photo: Chi King, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "SWAP from Cheval Blanc Randheli (zero named Commons exteriors). COMO Cocoa Island thatched overwater villa exterior over turquoise lagoon (swap-list); desc: To approximate what I saw, I would ask you to view this in large"
+    },
+    "facts": {
+      "one_liner": "COMO Cocoa Island dhoni-shaped thatched overwater villa above clear turquoise lagoon.",
+      "why_go": "The hero isolates a single overwater villa: high arched thatch roof shaped like a traditional Maldivian dhoni hull, timber walls and deck on stilts, and vivid shallow turquoise water with a white sand bottom under a bright sky. COMO’s official Cocoa Island pages describe a boutique South Malé Atoll resort of overwater villas with direct lagoon access. Guests book for that boat-inspired overwater silhouette and house-reef snorkelling from the deck, not a dense city hotel. Concrete detail: official FAQ states arrival is about 40 minutes by speedboat from Velana International (Malé)—no seaplane required—and lists roughly 33 overwater villas.",
+      "best_time": "December–April drier northeast monsoon for calmer seas and sunnier lagoon days; May–November brings more rain and wind but can mean fewer crowds. Water stays warm year-round—confirm transfer weather with the resort.",
+      "how_to_get_there": "Fly internationally to Velana International Airport (MLE). Pre-book COMO’s direct speedboat transfer (~40 minutes) to the island—no seaplane needed. Late-night arrivals may require waiting for the next scheduled boat; coordinate with reservations.",
+      "good_to_know": "OPEN / BOOKABLE at comohotels.com/maldives/como-cocoa-island. Private-island resort—non-guests need advance arrangements. Speedboat transfers (not seaplane) are the standard link; reef-safe sunscreen and soft luggage help. Photo shows one overwater villa over the lagoon rather than a whole-island aerial.",
+      "official_or_tourism_url": "https://www.comohotels.com/maldives/como-cocoa-island",
+      "sources": [
+        "https://www.comohotels.com/maldives/como-cocoa-island",
+        "https://www.comohotels.com/maldives/como-cocoa-island/about/faq",
+        "https://visitmaldives.com/"
+      ]
+    },
+    "ad": {
+      "destination_query": "COMO Cocoa Island, Maldives",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=COMO%20Cocoa%20Island%2C%20Maldives&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=COMO%20Cocoa%20Island%2C%20Maldives&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=COMO%20Cocoa%20Island%2C%20Maldives&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at COMO Cocoa Island"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS — COMO Cocoa Island overwater thatched structure / lagoon (Chi King CC BY 2.0). Swap lock OK. Ad COMO Cocoa Island Maldives. Facts match JPG.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-031",
+    "tab": "luxury",
+    "name": "Schloss Elmau",
+    "short_line": "Krün, Bavarian Alps, Germany",
+    "country": "Germany",
+    "lat": 47.4947,
+    "lng": 11.1814,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Kr%C3%BCn_Schloss_Elmau_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-031.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AKr%C3%BCn_Schloss_Elmau_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "H.Helmlechner",
+      "attribution": "Photo: H.Helmlechner, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + Schloss Elmau Bavarian Alps luxury castle hotel wide exterior with copper spire against forested mountain; desc: Schloss Elmau ist ein von Carl Sattler in Formen der Reformarchitektur während des Ersten Weltkriegs von 1914 bis 1916 erbauter vierflügelig"
+    },
+    "facts": {
+      "one_liner": "White Alpine castle hotel Schloss Elmau—copper-green spire, orange awnings, and forested Bavarian peaks.",
+      "why_go": "The hero frames Schloss Elmau’s landmark Hideaway wing: white multi-storey façades, dark tiled roofs with dormers, stacked orange awnings, and a tall square tower capped by a pointed green-copper spire, set on a broad lawn against a steep pine-covered mountain. The official resort site places this Luxury Spa & Cultural Hideaway in the Elmau Valley near Krün/Garmisch-Partenkirchen between the Wetterstein and Karwendel ranges, with two Leading Hotels of the World properties (Hideaway and Retreat) sharing spas, dining, and cultural spaces. Guests come for that secluded Alpine-castle exterior plus spas, concerts, and valley hiking. Concrete detail: official directions put Munich Airport about 90 minutes by road and Klais station about 1½ hours by train from Munich, with complimentary hotel pickup from Klais when pre-arranged.",
+      "best_time": "June–September for hiking, Ferchensee swimming, and outdoor spa decks; December–March for nearby Zugspitze and Garmisch skiing with heated outdoor pools still open. Shoulder months (May, October) often bring quieter valley walks and clearer booking windows.",
+      "how_to_get_there": "Fly into Munich (MUC, ~90 minutes by car) or Innsbruck (INN, ~45 minutes). By train, ride via Garmisch-Partenkirchen to Klais (~1½ hours from Munich); Schloss Elmau offers free pickup from Klais if you share arrival time. By car, exit at Klais and follow the toll road about 6 km to In Elmau 2.",
+      "good_to_know": "OPEN / BOOKABLE at schloss-elmau.de (hotel booking and 2026 offers live as of drafting). Guests of either Hideaway or Retreat may use shared resort facilities; spa age rules differ by house (adults-only vs family spas). Confirm concert tickets and spa reservations on the official site.",
+      "official_or_tourism_url": "https://www.schloss-elmau.de/en/",
+      "sources": [
+        "https://www.schloss-elmau.de/en/",
+        "https://www.schloss-elmau.de/en/hotels/directions/",
+        "https://www.schloss-elmau.de/en/hotelbooking/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Schloss Elmau, Krün",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Schloss%20Elmau%2C%20Kr%C3%BCn&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Schloss%20Elmau%2C%20Kr%C3%BCn&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Schloss%20Elmau%2C%20Kr%C3%BCn&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Schloss Elmau"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS — Schloss Elmau Hideaway white façade + copper spire vs Alpine forest (H.Helmlechner CC BY-SA 4.0). Ad Schloss Elmau Krün. Facts match JPG.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-032",
+    "tab": "luxury",
+    "name": "Hôtel de Crillon",
+    "short_line": "Paris, France",
+    "country": "France",
+    "lat": 48.8674,
+    "lng": 2.3214,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/H%C3%B4tel_de_Crillon_25_08_2007_n3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-032.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AH%C3%B4tel_de_Crillon_25_08_2007_n3.jpg",
+      "license": "Public Domain",
+      "author": "Claus",
+      "attribution": "Photo: Claus, Public Domain, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "SWAP from Castello di Casole (Commons had no named Casole Estate hotel exterior). Hôtel de Crillon Place de la Concorde neoclassical facade with HÔTEL DE CRILLON lettering (swap-list); desc: Hôtel de Crillon Paris"
+    },
+    "facts": {
+      "one_liner": "Neoclassical Hôtel de Crillon on Place de la Concorde—HÔTEL DE CRILLON gold lettering under Corinthian columns.",
+      "why_go": "The photograph centres on the Place de la Concorde entrance: rusticated limestone, an arched doorway with gold “HÔTEL DE CRILLON” lettering and a monogrammed revolving door, grey-and-white striped awnings on the piano-nobile balcony, and a sculpted pediment above four fluted Corinthian columns. Rosewood’s official pages locate Hôtel de Crillon at 10 Place de la Concorde and market it as a palace hotel overlooking that landmark square. Guests come for this historic Concorde façade and the restored interiors behind it. Concrete detail: Rosewood’s location guide places Concorde Métro (Line 1) about a 20-metre walk from the hotel, with CDG commonly 45–60 minutes by car and Orly about 30–45 minutes.",
+      "best_time": "April–June and September–October for milder Paris weather and terrace/Concorde walks; July–August are warmer and busier around the square. Winter stays trade shorter days for quieter museum mornings.",
+      "how_to_get_there": "Fly into Charles de Gaulle (CDG) or Orly (ORY), then taxi, rideshare, or hotel transfer to 10 Place de la Concorde, 75008. From central Paris, take Métro Line 1 to Concorde—the station exit is steps from the hotel entrance.",
+      "good_to_know": "OPEN / BOOKABLE via rosewoodhotels.com/en/hotel-de-crillon (room-booking flow active as of drafting). The Concorde façade and square are publicly viewable; guest rooms, courtyards, and most dining require a reservation. Confirm restaurant bookings on the official site.",
+      "official_or_tourism_url": "https://www.rosewoodhotels.com/en/hotel-de-crillon",
+      "sources": [
+        "https://www.rosewoodhotels.com/en/hotel-de-crillon",
+        "https://www.rosewoodhotels.com/en/hotel-de-crillon/overview/location",
+        "https://www.rosewoodhotels.com/en/hotel-de-crillon/reservations/room-booking"
+      ]
+    },
+    "ad": {
+      "destination_query": "Hôtel de Crillon, Paris",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=H%C3%B4tel%20de%20Crillon%2C%20Paris&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=H%C3%B4tel%20de%20Crillon%2C%20Paris&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=H%C3%B4tel%20de%20Crillon%2C%20Paris&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Hôtel de Crillon"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS — Hôtel de Crillon Place de la Concorde façade + HÔTEL DE CRILLON plaque (Claus Public Domain). Swap lock OK. Ad Hôtel de Crillon Paris. Facts match JPG.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-033",
+    "tab": "luxury",
+    "name": "Château de la Chèvre d'Or",
+    "short_line": "Èze, France",
+    "country": "France",
+    "lat": 43.7275,
+    "lng": 7.3617,
+    "destination_query": "Château de la Chèvre d'Or, Èze",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Chateau_de_la_Chevre_d%27Or_%28Golden_Goat%29_at_Eze_on_the_Mediterranean_-_panoramio_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-033.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AChateau_de_la_Chevre_d%27Or_%28Golden_Goat%29_at_Eze_on_the_Mediterranean_-_panoramio_%284%29.jpg",
+      "license": "CC BY 3.0",
+      "author": "David Broad",
+      "attribution": "Photo: David Broad, CC BY 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "REMAKE (Auditor fail — statue/pool amenity). Commons File:Chateau de la Chevre d'Or (Golden Goat) at Eze on the Mediterranean - panoramio (4).jpg — stone hotel facade/turret/balcony/wrought-iron MAIN SUBJECT (no pool, no classical statue). Desc: Chateau de la Chevre d'Or [Golden Goat] at Eze on the Mediterranean; GPS 43°43′38.39″N 7°21′42.5″E matches property. Category Château de la Chèvre d'Or. Large thumb used (Commons HTTP 429 on original)."
+    },
+    "facts": {
+      "one_liner": "Stone turret and arched terrace of Château de la Chèvre d'Or—bougainvillea on the Èze hillside.",
+      "why_go": "The remade hero puts the hotel’s pale limestone façade front and centre: a circular turret with a wrought-iron balcony, a deep stone arch shading a terrace, narrow stair flights with black handrails, terracotta pots, spiky Mediterranean plants, and pink bougainvillea spilling over an arch—no pool and no classical statue. Château de la Chèvre d’Or’s official site places this Relais & Châteaux five-star stay in the heart of medieval Èze Village between Nice and Monaco, an eagle’s-nest perch on a limestone peak with rooms scattered through the village lanes since 1953. Guests come for that fortress-village stone exterior and the Mediterranean panorama beyond the walls. Concrete detail: official address is Rue du Barri, 06360 Èze Village; the house lists about 45 rooms and suites nested in the pedestrian hill town.",
+      "best_time": "April–October for terrace weather and typical Riviera hotel season; May–June and September often balance warmth with thinner midsummer crowds. Winter is cooler and quieter for cliff-village walks.",
+      "how_to_get_there": "Fly into Nice Côte d’Azur (NCE), then drive or taxi up to Èze Village (commonly about 20–30 minutes depending on traffic). The hotel sits inside the pedestrian hill village on Rue du Barri—cars stop short of the lanes; luggage help is typically arranged on arrival.",
+      "good_to_know": "OPEN / BOOKABLE via chevredor.com (rooms & suites and reservation contacts live as of drafting). Official access note: medieval village architecture means pedestrian access, no elevator or step-free route, and many rooms on multiple levels—confirm mobility needs before booking. Restaurant tables should be reserved ahead; confirm seasonal hours on the official site.",
+      "official_or_tourism_url": "https://www.chevredor.com/",
+      "sources": [
+        "https://www.chevredor.com/",
+        "https://www.chevredor.com/access-contact/",
+        "https://www.relaischateaux.com/us/hotel/chateau-de-la-chevre-d-or/",
+        "https://www.explorenicecotedazur.com/hotel/hotel-chateau-de-la-chevre-dor/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Château de la Chèvre d'Or, Èze",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ch%C3%A2teau%20de%20la%20Ch%C3%A8vre%20d%27Or%2C%20%C3%88ze&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ch%C3%A2teau%20de%20la%20Ch%C3%A8vre%20d%27Or%2C%20%C3%88ze&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ch%C3%A2teau%20de%20la%20Ch%C3%A8vre%20d%27Or%2C%20%C3%88ze&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Château de la Chèvre d'Or"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "reject_reason": null,
+      "auditor_notes": "REMAKE PASS 2026-09-24: David Broad CC BY 3.0 low-angle stone facade/turret/balcony MAIN SUBJECT; prior pool+statue amenity fail cleared. Facts photo-first; ad Château de la Chèvre d'Or, Èze; YOUR_AFFILIATE_ID only."
+    },
+    "draft_note": "REMAKE 2026-09-24: Auditor rejected prior pool/statue amenity hero. New Commons David Broad CC BY 3.0 stone facade/turret MAIN SUBJECT. Photo-first rewrite; qa reset pending."
+  },
+  {
+    "id": "luxury-034",
+    "tab": "luxury",
+    "name": "Nihi Sumba",
+    "short_line": "Sumba, Indonesia",
+    "country": "Indonesia",
+    "lat": -9.6833,
+    "lng": 119.4167,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Nihi_Sumba.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-034.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ANihi_Sumba.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "C980040",
+      "attribution": "Photo: C980040, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + Nihi Sumba (Nihi Bumba) aerial cliff/beach resort exterior with thatched villas and private pools; desc: Aerial shot of Nihi Bumba Resort"
+    },
+    "facts": {
+      "one_liner": "Aerial Nihi Sumba—thatched hillside villas, private turquoise pools, and a crescent beach on Sumba’s wild coast.",
+      "why_go": "The aerial hero shows NIHI Sumba’s cliff-and-beach campus: steep thatched villa roofs scattered through dense green hillside, private infinity pools flashing turquoise, a larger dark-bottomed resort pool terrace near the sand, and a pale crescent beach with rocky outcrops meeting clear teal water. NIHI’s official Sumba pages locate the villa-only resort at Hoba Wawi, Wanokaka, West Sumba (East Nusa Tenggara) and market it as an edge-of-wildness stay on Sumba’s Indian Ocean coast. Guests come for secluded private-pool villas integrated into the hillside rather than a dense overwater strip. Concrete detail: official how-to-get-here guidance routes guests via Bali (DPS) to Tambolaka/Lede Kalumbang (TMC) on morning flights, then an included ~90-minute open-air safari-vehicle transfer to the resort.",
+      "best_time": "April–November is typically drier for beach and surfing days on Sumba’s south coast; December–March brings more rain but still workable villa stays. Morning DPS–TMC flight schedules shape arrival planning year-round.",
+      "how_to_get_there": "Fly internationally to Bali (DPS), then take a morning domestic flight to Tambolaka/Lede Kalumbang (TMC). Pre-book NIHI’s round-trip resort transfer (~90 minutes by shared safari vehicle; private cars optional). Same-day international-to-domestic connections are tight—many guests overnight in Bali first.",
+      "good_to_know": "OPEN / BOOKABLE through nihi.com/sumba (rates/inclusions and reservations contacts active as of drafting). Villa inventory is limited; surfing access and experiences may need advance coordination. Passport validity rules for Indonesia entry are strict—confirm current entry requirements before travel.",
+      "official_or_tourism_url": "https://nihi.com/sumba/",
+      "sources": [
+        "https://nihi.com/sumba/",
+        "https://nihi.com/sumba/how-to-get-here/",
+        "https://nihi.com/sumba/rates-inclusions/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Nihi Sumba, Sumba",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Nihi%20Sumba%2C%20Sumba&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Nihi%20Sumba%2C%20Sumba&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Nihi%20Sumba%2C%20Sumba&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Nihi Sumba"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS — Nihi Sumba hillside thatched villas + beach aerial (C980040 CC BY-SA 4.0). Ad Nihi Sumba. Facts match JPG.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-035",
+    "tab": "luxury",
+    "name": "Rosewood Hong Kong",
+    "short_line": "Victoria Harbour, Hong Kong, China",
+    "country": "China",
+    "lat": 22.2944,
+    "lng": 114.1756,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Victoria_Dockside_night_view_201908.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-035.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AVictoria_Dockside_night_view_201908.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Wpcpey",
+      "attribution": "Photo: Wpcpey, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + Rosewood Hong Kong Victoria Dockside night tower facade as main subject on Victoria Harbour (desc labels Rosewood Hong Kong); desc: Rosewood Hong Kong"
+    },
+    "facts": {
+      "one_liner": "Rosewood Hong Kong’s Victoria Dockside tower glowing amber over the Tsim Sha Tsui harbour promenade at night.",
+      "why_go": "The night hero shows the tall Victoria Dockside skyscraper that houses Rosewood Hong Kong: a slender dark tower stepped near the crown, laced with vertical amber window lights, rising above a lit waterfront promenade with railings and pedestrians, Victoria Harbour reflecting city colour to the left. Rosewood’s official site places the hotel at Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui, Kowloon, marketing harbour-facing rooms in this waterfront development—not a separate hotel elsewhere on the harbour. Guests come for that Tsim Sha Tsui waterfront tower address beside the public promenade. Concrete detail: Rosewood’s location page notes Hong Kong International (HKG) is commonly about 35 minutes by car and lists chauffeur transfer options from the airport.",
+      "best_time": "October–April for cooler, clearer harbour evenings and Symphony of Lights-style skyline views; May–September is hotter and more humid with typhoon-season rain risk. Weeknights can feel less crowded on the promenade than weekend peaks.",
+      "how_to_get_there": "Fly into Hong Kong International (HKG), then taxi, Airport Express plus MTR, or hotel chauffeur to Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui. The hotel sits on the Kowloon harbourfront; the Avenue of Stars / TST promenade runs along the water in front of the tower.",
+      "good_to_know": "OPEN / BOOKABLE at rosewoodhotels.com/en/hong-kong (room-booking and availability pages live as of drafting). The harbour promenade is public; hotel lobbies, restaurants, and Asaya spa are for guests and booked diners. Photo note: the Commons night view is Victoria Dockside as a whole—Rosewood occupies the main illuminated tower in that complex.",
+      "official_or_tourism_url": "https://www.rosewoodhotels.com/en/hong-kong",
+      "sources": [
+        "https://www.rosewoodhotels.com/en/hong-kong",
+        "https://www.rosewoodhotels.com/en/hong-kong/overview/location",
+        "https://www.rosewoodhotels.com/en/hong-kong/reservations/room-booking"
+      ]
+    },
+    "ad": {
+      "destination_query": "Rosewood Hong Kong",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rosewood%20Hong%20Kong&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rosewood%20Hong%20Kong&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rosewood%20Hong%20Kong&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Rosewood Hong Kong"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS (close call) — Rosewood Hong Kong = Victoria Dockside night tower as MAIN SUBJECT on harbour (Wpcpey CC BY-SA 4.0); facts disclose complex. Ad Rosewood Hong Kong. Facts match JPG.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-036",
+    "tab": "luxury",
+    "name": "The Peninsula Tokyo",
+    "short_line": "Hibiya, Tokyo, Japan",
+    "country": "Japan",
+    "lat": 35.6751,
+    "lng": 139.7605,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/The_Peninsula_Tokyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-036.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Peninsula_Tokyo.jpg",
+      "license": "Public Domain",
+      "author": "Lombroso",
+      "attribution": "Photo: Lombroso, Public Domain, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "SWAP from Aman Kyoto (Commons no usable forest-pavilion exterior). The Peninsula Tokyo Hibiya tower facade exterior (swap-list; ≠ Hoshinoya Tokyo); desc: The Peninsula Tokyo (ザ・ペニンシュラ東京), at Yurakucho, Chiyoda, Tokyo, Japan"
+    },
+    "facts": {
+      "one_liner": "The Peninsula Tokyo’s Hibiya tower—tan stone-and-glass façade with a white lantern crown above a busy intersection.",
+      "why_go": "The photograph centres on The Peninsula Tokyo’s high-rise: a tall tan stone-and-glass tower with vertical window stacks, a solid podium base, and a distinctive white finned lantern crown, catching late-day sun above a Hibiya street sign and Tokyo traffic. The Peninsula’s official Tokyo pages place the hotel at 1-8-1 Yurakucho, Chiyoda-ku, opposite Hibiya Park and near Ginza—marketing this urban tower as the Tokyo house of the Peninsula brand. Guests come for that Hibiya address and the landmark crown silhouette, not a forest ryokan. Concrete detail: official contact lists the hotel at 1-8-1 Yurakucho with reservations via peninsula.com Tokyo pages.",
+      "best_time": "March–May (cherry blossom) and October–November (clear autumn) are popular for Hibiya Park and Ginza walks; June’s rainy season and humid midsummer are less comfortable for outdoor exploring. Winter is cooler but often crisp for city sightseeing.",
+      "how_to_get_there": "Fly into Haneda (HND) or Narita (NRT), then train, taxi, or hotel transfer to 1-8-1 Yurakucho, Chiyoda-ku. Hibiya and Yurakucho stations are short walks; the hotel entrance faces the Hibiya intersection shown in the hero.",
+      "good_to_know": "OPEN / BOOKABLE at peninsula.com/en/tokyo (official Tokyo booking pages active as of drafting). Street-level sidewalks around Hibiya are public; guest rooms, The Lobby, and spa access follow hotel policy. Confirm dining reservations on the official site.",
+      "official_or_tourism_url": "https://www.peninsula.com/en/tokyo/5-star-luxury-hotel-ginza",
+      "sources": [
+        "https://www.peninsula.com/en/tokyo/5-star-luxury-hotel-ginza",
+        "https://www.peninsula.com/en/tokyo/travel-in-style",
+        "https://www.peninsulatokyo.com/"
+      ]
+    },
+    "ad": {
+      "destination_query": "The Peninsula Tokyo",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=The%20Peninsula%20Tokyo&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=The%20Peninsula%20Tokyo&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=The%20Peninsula%20Tokyo&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in The Peninsula Tokyo"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS — The Peninsula Tokyo Marunouchi/Hibiya tower exterior (Lombroso Public Domain). Swap lock OK. Ad The Peninsula Tokyo. Facts match JPG.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-037",
+    "tab": "luxury",
+    "name": "Amantaka",
+    "short_line": "Luang Prabang, Laos",
+    "country": "Laos",
+    "lat": 19.8897,
+    "lng": 102.1358,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Swimming_pool_and_terrasse_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-037.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASwimming_pool_and_terrasse_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Basile Morin",
+      "attribution": "Photo: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + Amantaka Luang Prabang French-colonial courtyard hotel exterior across swimming pool terrace; desc: Swimmming pool and terrasse of Amantaka luxury resort and hotel in Luang Prabang, Laos. Amantaka is one of the 34 properties operated by Ama"
+    },
+    "facts": {
+      "one_liner": "Amantaka’s colonial courtyard pool—dark mirror water, white parasols, and a red-tiled French-colonial wing in Luang Prabang.",
+      "why_go": "The hero looks across Amantaka’s long dark rectangular swimming pool toward a low white French-colonial building with sage-green window frames and a weathered red-tiled hip roof, lined by white parasols, cushioned terrace chairs, and tropical trees under soft overcast light. Aman’s official Amantaka page places the resort at 55/3 Kingkitsarath Road in central Luang Prabang, at the foot of Mount Phousi on a historic garden estate within the UNESCO-listed town. Guests come for this serene pool-and-terrace colonial courtyard rather than a riverside lodge alone. Concrete detail: Aman states the hotel is about a 10-minute drive from Luang Prabang International Airport and offers 24 suites with private verandas or courtyards.",
+      "best_time": "November–February is typically cooler and drier for temple walks and pool days; March–April can be hotter and hazier before the rains. May–October brings more humidity and showers but greener gardens.",
+      "how_to_get_there": "Fly into Luang Prabang International (LPQ), then take a prearranged hotel transfer or taxi about 10 minutes to 55/3 Kingkitsarath Road, Ban Thongchaleun. The resort sits in the heritage-town core—easy to combine with Mekong and Wat visits on foot or by tuk-tuk.",
+      "good_to_know": "OPEN / BOOKABLE at aman.com/resorts/amantaka (offers and advance-reservation pages live as of drafting). Photo is the pool/terrace courtyard, not a Mekong riverbank shot. Suites and spa are guest-focused; confirm cultural-experience timings with the resort.",
+      "official_or_tourism_url": "https://www.aman.com/resorts/amantaka",
+      "sources": [
+        "https://www.aman.com/resorts/amantaka",
+        "https://www.aman.com/resorts/amantaka/contact-us",
+        "https://www.aman.com/resorts/amantaka/exclusives"
+      ]
+    },
+    "ad": {
+      "destination_query": "Amantaka, Luang Prabang",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Amantaka%2C%20Luang%20Prabang&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Amantaka%2C%20Luang%20Prabang&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Amantaka%2C%20Luang%20Prabang&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Amantaka"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS — Amantaka Luang Prabang French-colonial building across courtyard pool (Basile Morin CC BY-SA 4.0; named Amantaka ≠ Amansara). Ad Amantaka Luang Prabang. Facts match JPG.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-038",
+    "tab": "luxury",
+    "name": "The Connaught",
+    "short_line": "Mayfair, London, United Kingdom",
+    "country": "United Kingdom",
+    "lat": 51.5103,
+    "lng": -0.1495,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Connaught%2C_Mayfair_-_geograph.org.uk_-_2691269.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-038.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AConnaught%2C_Mayfair_-_geograph.org.uk_-_2691269.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Peter Barr",
+      "attribution": "Photo: Peter Barr, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "SWAP from Tierra Atacama (Commons zero named Tierra Atacama lodge exterior). The Connaught Mayfair red-brick facade with THE CONNAUGHT canopy + Silence fountain (swap-list; ≠ Plaza/Amangiri US); desc: Connaught, Mayfair"
+    },
+    "facts": {
+      "one_liner": "The Connaught’s Mayfair red-brick façade—white stone trim, entrance canopy, and Carlos Place reflecting pool.",
+      "why_go": "The street-level hero shows The Connaught’s warm red-brick and white-stone façade with arched ground-floor windows and a dark entrance canopy flying purple crest flags, fronted by a shallow circular reflecting pool around two plane trees and Emilio Greco’s bronze crouching Nereid/Nymph sculpture on a white pedestal. Maybourne’s official Connaught pages place the hotel on Carlos Place, Mayfair (W1K 2AL), steps from Mount Street and Bond Street shopping. Guests come for this quietly grand Mayfair corner—historic brick exterior meeting the contemporary Carlos Place water feature. Concrete detail: official getting-here notes Bond Street Underground about a five-minute walk and Heathrow commonly about 45 minutes by car (or Heathrow Express to Paddington plus a short drive).",
+      "best_time": "May–September for longer daylight walks through Mayfair and Hyde Park; November–December for festive West End energy. Shoulder spring and autumn often ease peak summer crowds.",
+      "how_to_get_there": "Fly into Heathrow (LHR) or Gatwick (LGW), then taxi, rideshare, or hotel chauffeur to Carlos Place, Mayfair W1K 2AL. Nearest Tube: Bond Street (Central/Jubilee, ~5 minutes’ walk) or Green Park (~10 minutes).",
+      "good_to_know": "OPEN / BOOKABLE at maybourne.com/en/hotels/the-connaught (booking page live as of drafting). Carlos Place and the public art/fountain setting are viewable from the street; guest rooms, bars, and restaurants require bookings. Confirm spa and dining on the official site.",
+      "official_or_tourism_url": "https://www.maybourne.com/en/hotels/the-connaught",
+      "sources": [
+        "https://www.maybourne.com/en/hotels/the-connaught",
+        "https://www.maybourne.com/en/hotels/the-connaught/about/getting-here",
+        "https://www.maybourne.com/en/hotels/the-connaught/booking"
+      ]
+    },
+    "ad": {
+      "destination_query": "The Connaught, London",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=The%20Connaught%2C%20London&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=The%20Connaught%2C%20London&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=The%20Connaught%2C%20London&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in The Connaught"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS (close call) — The Connaught Mayfair red-brick + CONNAUGHT canopy lettering; bronze + fountain secondary in Carlos Place (Peter Barr CC BY-SA 2.0). Hotel identity clear. Swap lock OK. Ad The Connaught London.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-039",
+    "tab": "luxury",
+    "name": "One&Only Reethi Rah",
+    "short_line": "North Malé Atoll, Maldives",
+    "country": "Maldives",
+    "lat": 4.6833,
+    "lng": 73.2333,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Reef_Beach%2C_Reethi_Rah%2C_Maldives_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-039.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AReef_Beach%2C_Reethi_Rah%2C_Maldives_-_panoramio.jpg",
+      "license": "CC BY 3.0",
+      "author": "Jlexa",
+      "attribution": "Photo: Jlexa, CC BY 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + One&Only Reethi Rah overwater villa exterior silhouette at Reef Beach sunset (named Reethi Rah; ≠ Soneva / Cocoa); desc: Reef Beach, Reethi Rah, Maldives"
+    },
+    "facts": {
+      "one_liner": "Sunset overwater villa at One&Only Reethi Rah—thatched bungalow silhouette, deck stairs to reef-calm water.",
+      "why_go": "The hero captures Reef Beach at Reethi Rah: a thatched overwater villa silhouetted on stilts with a private deck, white parasol, lounge chairs, and wooden stairs dropping into glassy lagoon water, the sun low on the horizon casting an orange path across the sea beside a strip of pale sand. One&Only’s official Reethi Rah pages place the private-island resort in North Malé Atoll and market beach and overwater villas with direct lagoon access. Guests come for this reef-edge bungalow sunset rather than a dense city-harbour skyline. Concrete detail: arrival is via Velana International (MLE) with resort-arranged luxury yacht/speedboat transfer into North Malé Atoll—confirm current transfer mode and timing with reservations when flights are set.",
+      "best_time": "December–April is typically drier and better for beach and snorkel days; May–November (southwest monsoon) brings more rain and wind but often softer rates and still-swimmable lagoons between showers.",
+      "how_to_get_there": "Fly internationally to Velana International Airport (MLE). Pre-book One&Only Reethi Rah’s boat transfer to the private island in North Malé Atoll; do not plan independent public ferries. Share flight numbers early so the resort can schedule the yacht/speedboat.",
+      "good_to_know": "OPEN / BOOKABLE at oneandonlyresorts.com/reethi-rah (official resort site and booking paths active as of drafting). Photo is a beach/reef overwater-villa sunset on Reethi Rah, not an aerial of the whole island. Private-island resort—non-guest access is restricted; arrange dining or spa visits through the hotel.",
+      "official_or_tourism_url": "https://www.oneandonlyresorts.com/reethi-rah",
+      "sources": [
+        "https://www.oneandonlyresorts.com/reethi-rah",
+        "https://www.oneandonlyresorts.com/reethi-rah/about",
+        "https://www.oneandonlyresorts.com/destinations/maldives"
+      ]
+    },
+    "ad": {
+      "destination_query": "One&Only Reethi Rah, Maldives",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=One%26Only%20Reethi%20Rah%2C%20Maldives&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=One%26Only%20Reethi%20Rah%2C%20Maldives&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=One%26Only%20Reethi%20Rah%2C%20Maldives&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in One&Only Reethi Rah"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS (close call) — One&Only Reethi Rah Reef Beach overwater villa silhouette at sunset (Jlexa CC BY 3.0; Commons named Reethi Rah). Silhouette weakens identity but villa exterior + source OK. Ad One&Only Reethi Rah Maldives. Facts match.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "luxury-040",
+    "tab": "luxury",
+    "name": "Four Seasons Hotel Istanbul at the Bosphorus",
+    "short_line": "Beşiktaş, Istanbul, Türkiye",
+    "country": "Türkiye",
+    "lat": 41.0436,
+    "lng": 29.0069,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/At_Istanbul_-_Wikimedia_hackathon_boat_tour_2025_457.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-040.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAt_Istanbul_-_Wikimedia_hackathon_boat_tour_2025_457.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Photograph by Mike Peel (www.mikepeel.net).",
+      "attribution": "Photo: Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file (Category:Four Seasons Hotel Istanbul at the Bosphorus) + Ottoman palace wing Bosphorus waterfront exterior with FOUR SEASONS HOTEL launch in foreground"
+    },
+    "facts": {
+      "one_liner": "Four Seasons Hotel Istanbul at the Bosphorus—white Ottoman palace wings on the Beşiktaş waterfront, seen from the strait.",
+      "why_go": "Shot from a boat on the Bosphorus, the hero shows the hotel’s white multi-storey waterfront palace complex on the European shore: tall arched window rows, one wing with a flatter roofline and another with red tiles, a quay promenade with outdoor umbrellas, and motor yachts in the foreground under golden-hour light with a green hillside of city buildings behind. Four Seasons’ official Bosphorus pages locate the hotel at Çırağan Cad. No. 28, Beşiktaş, and describe a historic Bosphorus palace building with palace rooms and suites facing the strait. Guests come for this waterfront palace elevation—honestly a boat-tour angle of the quay and façades, not an interior courtyard. Concrete detail: official address and phone are published on fourseasons.com/bosphorus; the property markets palace and Bosphorus-view room categories in the restored waterfront wings.",
+      "best_time": "April–June and September–October for milder Bosphorus weather and comfortable boat or waterfront walks; July–August are hotter and busier. Winter is cooler and rainier but still atmospheric for ferry views.",
+      "how_to_get_there": "Fly into Istanbul Airport (IST) or Sabiha Gökçen (SAW), then taxi, transfers, or hotel car to Çırağan Caddesi No. 28, Beşiktaş. The hotel sits on the European Bosphorus shore; water taxis and city ferries serve nearby Beşiktaş piers.",
+      "good_to_know": "OPEN / BOOKABLE at fourseasons.com/bosphorus (room rates and offers pages live as of drafting). Photo is a Mike Peel Wikimedia boat-tour waterfront angle—describe the palace hotel from the water, not a different Bosphorus palace. Quay promenade areas may be partly public-facing; guest rooms and spa require a stay or booking.",
+      "official_or_tourism_url": "https://www.fourseasons.com/bosphorus/",
+      "sources": [
+        "https://www.fourseasons.com/bosphorus/",
+        "https://www.fourseasons.com/bosphorus/accommodations/",
+        "https://www.fourseasons.com/bosphorus/offers/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Four Seasons Hotel Istanbul at the Bosphorus",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Four%20Seasons%20Hotel%20Istanbul%20at%20the%20Bosphorus&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Four%20Seasons%20Hotel%20Istanbul%20at%20the%20Bosphorus&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Four%20Seasons%20Hotel%20Istanbul%20at%20the%20Bosphorus&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Four Seasons Hotel Istanbul at the Bosphorus"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T06:20:00-05:00",
+      "audit_notes": "PASS — Four Seasons Hotel Istanbul at the Bosphorus waterfront palace from boat; FOUR SEASONS HOTEL boat mark (Photograph by Mike Peel (www.mikepeel.net). CC BY-SA 4.0). Ad FS Istanbul Bosphorus. Facts match JPG.",
+      "reject_reason": ""
+    }
   }
 ]

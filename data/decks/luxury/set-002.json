@@ -1,0 +1,133 @@
+{
+  "id": "luxury-set-002",
+  "tab": "luxury",
+  "label": "Luxury — Set 2 (021–040)",
+  "card_ids": [
+    "luxury-021",
+    "luxury-022",
+    "luxury-023",
+    "luxury-024",
+    "luxury-025",
+    "luxury-026",
+    "luxury-027",
+    "luxury-028",
+    "luxury-029",
+    "luxury-030",
+    "luxury-031",
+    "luxury-032",
+    "luxury-033",
+    "luxury-034",
+    "luxury-035",
+    "luxury-036",
+    "luxury-037",
+    "luxury-038",
+    "luxury-039",
+    "luxury-040"
+  ],
+  "count": 20,
+  "auditor": "20/20 approved 2026-09-24 (Accuracy Auditor Luxury fill 021–040; 033 Chèvre d'Or remake re-PASS)",
+  "notes": "Thin-tab fill. Luxury-033 uses the David Broad Chèvre d'Or stone-facade remake; prior pool/statue hero cleared.",
+  "archived_at": "2026-09-24T06:28:52-05:00",
+  "cards": [
+    {
+      "id": "luxury-021",
+      "name": "Burj Al Arab",
+      "country": "United Arab Emirates"
+    },
+    {
+      "id": "luxury-022",
+      "name": "Raffles Hotel Singapore",
+      "country": "Singapore"
+    },
+    {
+      "id": "luxury-023",
+      "name": "The Savoy",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "luxury-024",
+      "name": "Four Seasons Hotel George V",
+      "country": "France"
+    },
+    {
+      "id": "luxury-025",
+      "name": "Hotel Negresco",
+      "country": "France"
+    },
+    {
+      "id": "luxury-026",
+      "name": "Claridge's",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "luxury-027",
+      "name": "Gleneagles Hotel",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "luxury-028",
+      "name": "Emirates Palace",
+      "country": "United Arab Emirates"
+    },
+    {
+      "id": "luxury-029",
+      "name": "Singita Ebony Lodge",
+      "country": "South Africa"
+    },
+    {
+      "id": "luxury-030",
+      "name": "COMO Cocoa Island",
+      "country": "Maldives"
+    },
+    {
+      "id": "luxury-031",
+      "name": "Schloss Elmau",
+      "country": "Germany"
+    },
+    {
+      "id": "luxury-032",
+      "name": "Hôtel de Crillon",
+      "country": "France"
+    },
+    {
+      "id": "luxury-033",
+      "name": "Château de la Chèvre d'Or",
+      "country": "France"
+    },
+    {
+      "id": "luxury-034",
+      "name": "Nihi Sumba",
+      "country": "Indonesia"
+    },
+    {
+      "id": "luxury-035",
+      "name": "Rosewood Hong Kong",
+      "country": "China"
+    },
+    {
+      "id": "luxury-036",
+      "name": "The Peninsula Tokyo",
+      "country": "Japan"
+    },
+    {
+      "id": "luxury-037",
+      "name": "Amantaka",
+      "country": "Laos"
+    },
+    {
+      "id": "luxury-038",
+      "name": "The Connaught",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "luxury-039",
+      "name": "One&Only Reethi Rah",
+      "country": "Maldives"
+    },
+    {
+      "id": "luxury-040",
+      "name": "Four Seasons Hotel Istanbul at the Bosphorus",
+      "country": "Türkiye"
+    }
+  ]
+}
