@@ -445,17 +445,24 @@
     const url = klookSidebarUrl();
     if (!url && !klookWidgetSrc()) return '';
     const cls = 'klook-rail klook-rail--' + (variant || 'desktop');
+    const nearby = t('klook_nearby') || 'Things to do nearby';
+    const findExp = t('klook_find') || 'Find experiences →';
     const fallback = url
       ? '<a class="klook-cta klook-fallback" href="' +
         escapeHtml(url) +
         '" target="_blank" rel="noopener sponsored nofollow">' +
-        'Find experiences →</a>'
+        escapeHtml(findExp) +
+        '</a>'
       : '';
     return (
       '<aside class="' +
       cls +
-      '" aria-label="Things to do nearby">' +
-      '<p class="klook-kicker">Things to do nearby</p>' +
+      '" aria-label="' +
+      escapeHtml(nearby) +
+      '">' +
+      '<p class="klook-kicker">' +
+      escapeHtml(nearby) +
+      '</p>' +
       fallback +
       '<div class="klook-widget-mount" data-klook-mount></div>' +
       '</aside>'

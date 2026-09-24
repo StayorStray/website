@@ -119,6 +119,12 @@
       if (key) el.textContent = t(key);
     });
 
+    var placeholders = document.querySelectorAll('[data-i18n-placeholder]');
+    Array.prototype.forEach.call(placeholders, function (el) {
+      var key = el.getAttribute('data-i18n-placeholder');
+      if (key) el.setAttribute('placeholder', t(key));
+    });
+
     var tagline = document.querySelector('.tagline');
     if (tagline) tagline.textContent = t('tagline');
 

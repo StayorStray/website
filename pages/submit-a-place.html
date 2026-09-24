@@ -74,12 +74,12 @@
 
         <label class="submit-field">
           <span class="submit-label" data-i18n="submit_why">Why it belongs (short)</span>
-          <textarea id="place-why" name="why" class="submit-textarea" required maxlength="500" rows="4" placeholder="A few sentences on why this place fits the tab."></textarea>
+          <textarea id="place-why" name="why" class="submit-textarea" required maxlength="500" rows="4" placeholder="A few sentences on why this place fits the tab." data-i18n-placeholder="submit_why_placeholder"></textarea>
         </label>
 
         <label class="submit-field">
           <span class="submit-label" data-i18n="submit_photo">Photo URL or note</span>
-          <input type="text" id="place-photo" name="photo" class="submit-input" maxlength="400" placeholder="Paste a photo URL, or note that you will email the photo" />
+          <input type="text" id="place-photo" name="photo" class="submit-input" maxlength="400" placeholder="Paste a photo URL, or note that you will email the photo" data-i18n-placeholder="submit_photo_placeholder" />
           <span class="submit-hint" data-i18n="submit_photo_hint">Licensed real photos only (no AI). If you have no URL, say you’ll email the file to the notify address after submit.</span>
         </label>
 
@@ -114,7 +114,7 @@
           <legend class="submit-label" data-i18n="submit_pin_legend">Optional pin</legend>
           <label class="submit-check">
             <input type="checkbox" id="pin-7d" name="pin_7d" value="1" data-price="39" />
-            <span>+$39 — your card stays in this tab’s first 25 for 7 days after it goes live.</span>
+            <span data-i18n="submit_pin_line">+$39 — your card stays in this tab’s first 25 for 7 days after it goes live.</span>
           </label>
           <p class="submit-hint" data-i18n="submit_pin_cap">Subject to availability (25 pin cap per tab). Pin clock starts at go-live, not at payment.</p>
         </fieldset>
@@ -156,6 +156,20 @@
     var statusEl = document.getElementById('submit-status');
     if (!form) return;
 
+    function i18n() {
+      return window.StayOrStrayI18n;
+    }
+    function t(key, vars) {
+      var i = i18n();
+      if (i && i.t) return i.t(key, vars);
+      return key;
+    }
+    function tabLabel(slug) {
+      var i = i18n();
+      if (i && i.tabLabel) return i.tabLabel(slug);
+      return slug;
+    }
+
     function skuPrice() {
       var checked = form.querySelector('input[name="sku"]:checked');
       return checked ? Number(checked.getAttribute('data-price') || 0) : 0;
@@ -166,12 +180,55 @@
     }
     function updateTotal() {
       var total = skuPrice() + pinPrice();
-      if (totalEl) {
+      if (!totalEl) return;
+      var i = i18n();
+      if (i && i.ready && i.ready()) {
+        totalEl.innerHTML = t('submit_total', { total: total });
+      } else {
         totalEl.innerHTML = 'Estimated total: <strong>$' + total + '</strong>';
       }
     }
+
+    function refreshTabOptions() {
+      var sel = document.getElementById('place-tab');
+      if (!sel) return;
+      Array.prototype.forEach.call(sel.options, function (opt) {
+        if (opt.value) opt.textContent = tabLabel(opt.value);
+      });
+    }
+
+    function applySubmitChrome() {
+      refreshTabOptions();
+      updateTotal();
+      if (i18n() && i18n().applyChrome) i18n().applyChrome();
+    }
+
     form.addEventListener('change', updateTotal);
     updateTotal();
+    refreshTabOptions();
+
+    if (i18n() && i18n().onChange) {
+      i18n().onChange(function () {
+        applySubmitChrome();
+      });
+    } else {
+      // Pack may still be loading; re-apply once ready.
+      var tries = 0;
+      var timer = setInterval(function () {
+        tries += 1;
+        if (i18n() && i18n().ready && i18n().ready()) {
+          clearInterval(timer);
+          applySubmitChrome();
+          if (i18n().onChange) {
+            i18n().onChange(function () {
+              applySubmitChrome();
+            });
+          }
+        } else if (tries > 40) {
+          clearInterval(timer);
+        }
+      }, 50);
+    }
 
     form.addEventListener('submit', function (e) {
       e.preventDefault();
@@ -220,8 +277,7 @@
 
       if (statusEl) {
         statusEl.hidden = false;
-        statusEl.textContent =
-          'Opening your email client to ' + NOTIFY + '. If nothing opens, copy the draft and send manually.';
+        statusEl.textContent = t('submit_status_ok', { email: NOTIFY });
       }
       window.location.href = href;
     });
