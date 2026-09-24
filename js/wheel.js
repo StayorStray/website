@@ -222,8 +222,12 @@
   function isApproved(card) {
     if (!card || typeof card !== 'object') return false;
     if (!card.id || !card.name) return false;
+    // Live data/{tab}.json is the shipped catalog (Auditor-approved).
+    // Include cards missing qa metadata; exclude only hard rejects.
     var qa = card.qa || {};
-    return qa.auditor_status === 'approved';
+    if (qa.auditor_status === 'rejected') return false;
+    if (qa.auditor_status && qa.auditor_status !== 'approved') return false;
+    return !!(card.image && (card.image.local_path || card.image.url));
   }
 
   function imageSrc(card) {
