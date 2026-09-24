@@ -1,0 +1,133 @@
+{
+  "id": "beaches-set-002",
+  "tab": "beaches",
+  "label": "Beaches & Coasts — Set 2 (021–040)",
+  "card_ids": [
+    "beaches-021",
+    "beaches-022",
+    "beaches-023",
+    "beaches-024",
+    "beaches-025",
+    "beaches-026",
+    "beaches-027",
+    "beaches-028",
+    "beaches-029",
+    "beaches-030",
+    "beaches-031",
+    "beaches-032",
+    "beaches-033",
+    "beaches-034",
+    "beaches-035",
+    "beaches-036",
+    "beaches-037",
+    "beaches-038",
+    "beaches-039",
+    "beaches-040"
+  ],
+  "count": 20,
+  "auditor": "20/20 approved 2026-09-24 (Accuracy Auditor Beaches fill 021–040)",
+  "notes": "Thin-tab fill. Same-place hero remakes 021/032/036. Maya Bay 039 access honesty noted.",
+  "archived_at": "2026-09-24T03:34:15-05:00",
+  "cards": [
+    {
+      "id": "beaches-021",
+      "name": "Le Morne Beach",
+      "country": "Mauritius"
+    },
+    {
+      "id": "beaches-022",
+      "name": "Balos Beach",
+      "country": "Greece"
+    },
+    {
+      "id": "beaches-023",
+      "name": "Anse Lazio",
+      "country": "Seychelles"
+    },
+    {
+      "id": "beaches-024",
+      "name": "Praia da Marinha",
+      "country": "Portugal"
+    },
+    {
+      "id": "beaches-025",
+      "name": "Shoal Bay",
+      "country": "Anguilla"
+    },
+    {
+      "id": "beaches-026",
+      "name": "Varadero Beach",
+      "country": "Cuba"
+    },
+    {
+      "id": "beaches-027",
+      "name": "Nissi Beach",
+      "country": "Cyprus"
+    },
+    {
+      "id": "beaches-028",
+      "name": "Baía do Sancho",
+      "country": "Brazil"
+    },
+    {
+      "id": "beaches-029",
+      "name": "Kelingking Beach",
+      "country": "Indonesia"
+    },
+    {
+      "id": "beaches-030",
+      "name": "Trunk Bay",
+      "country": "United States"
+    },
+    {
+      "id": "beaches-031",
+      "name": "Eagle Beach",
+      "country": "Aruba"
+    },
+    {
+      "id": "beaches-032",
+      "name": "Boulders Beach",
+      "country": "South Africa"
+    },
+    {
+      "id": "beaches-033",
+      "name": "Hyams Beach",
+      "country": "Australia"
+    },
+    {
+      "id": "beaches-034",
+      "name": "Étretat Beach",
+      "country": "France"
+    },
+    {
+      "id": "beaches-035",
+      "name": "Cala Macarella",
+      "country": "Spain"
+    },
+    {
+      "id": "beaches-036",
+      "name": "Pfeiffer Beach",
+      "country": "United States"
+    },
+    {
+      "id": "beaches-037",
+      "name": "Diamond Beach",
+      "country": "Iceland"
+    },
+    {
+      "id": "beaches-038",
+      "name": "Porto Katsiki",
+      "country": "Greece"
+    },
+    {
+      "id": "beaches-039",
+      "name": "Maya Bay",
+      "country": "Thailand"
+    },
+    {
+      "id": "beaches-040",
+      "name": "Playa El Médano",
+      "country": "Mexico"
+    }
+  ]
+}

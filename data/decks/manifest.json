@@ -429,7 +429,7 @@
     "beaches": {
       "live_file": "data/beaches.json",
       "archive_dir": "data/decks/beaches/",
-      "approved_count": 20,
+      "approved_count": 40,
       "catalog_target": 100,
       "scale_target_met": false,
       "mvp_ready": true,
@@ -461,9 +461,37 @@
             "beaches-019",
             "beaches-020"
           ]
+        },
+        {
+          "id": "beaches-set-002",
+          "file": "set-002.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "beaches-021",
+            "beaches-022",
+            "beaches-023",
+            "beaches-024",
+            "beaches-025",
+            "beaches-026",
+            "beaches-027",
+            "beaches-028",
+            "beaches-029",
+            "beaches-030",
+            "beaches-031",
+            "beaches-032",
+            "beaches-033",
+            "beaches-034",
+            "beaches-035",
+            "beaches-036",
+            "beaches-037",
+            "beaches-038",
+            "beaches-039",
+            "beaches-040"
+          ]
         }
       ],
-      "next": "Beaches 021–040 toward 100"
+      "next": "Honest depth 40; Parks 021–040 next after Beaches Pages live"
     }
   },
   "other_tabs": [
