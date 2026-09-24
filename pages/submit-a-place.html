@@ -77,11 +77,18 @@
           <textarea id="place-why" name="why" class="submit-textarea" required maxlength="500" rows="4" placeholder="A few sentences on why this place fits the tab." data-i18n-placeholder="submit_why_placeholder"></textarea>
         </label>
 
-        <label class="submit-field">
-          <span class="submit-label" data-i18n="submit_photo">Photo URL or note</span>
-          <input type="text" id="place-photo" name="photo" class="submit-input" required maxlength="400" placeholder="Paste a photo URL, or note that you will email the photo" data-i18n-placeholder="submit_photo_placeholder" />
-          <span class="submit-hint" data-i18n="submit_photo_hint">Licensed real photos only (no AI). If you have no URL, say you’ll email the file to the notify address after submit.</span>
-        </label>
+        <div class="submit-field" id="place-photo-field">
+          <span class="submit-label" id="place-photo-label" data-i18n="submit_photo">Photo</span>
+          <div class="photo-drop" id="photo-drop" tabindex="0" role="group" aria-labelledby="place-photo-label" aria-describedby="place-photo-hint">
+            <input type="file" id="place-photo" name="photo" class="photo-drop-input" accept="image/jpeg,image/png,image/webp,.jpg,.jpeg,.png,.webp" />
+            <div class="photo-drop-inner" id="photo-drop-inner">
+              <p class="photo-drop-cta" data-i18n="submit_photo_cta">Choose a photo</p>
+              <p class="submit-hint" id="place-photo-hint" data-i18n="submit_photo_hint">Upload a photo or paste one (Ctrl+V).</p>
+            </div>
+            <img id="photo-preview" class="photo-preview" alt="" hidden />
+            <p class="photo-drop-error" id="photo-drop-error" role="alert" hidden></p>
+          </div>
+        </div>
 
         <div class="submit-row">
           <label class="submit-field">
@@ -144,7 +151,7 @@
           </label>
         </fieldset>
 
-        <p class="submit-disclaimer" data-i18n="submit_disclaimer">Paid does not equal live. Accuracy Auditor gates every listing before it appears. All sales are final — no refunds if the card is rejected or never goes live. This form opens an email draft to our notify inbox until Stripe checkout is wired.</p>
+        <p class="submit-disclaimer" data-i18n="submit_disclaimer">Paid does not equal live. Accuracy Auditor gates every listing before it appears. All sales are final — no refunds if the card is rejected or never goes live. Until Stripe checkout is wired, we send your submission (with photo) to our notify inbox — or download the photo + JSON and open a mailto draft so you can attach the image.</p>
 
         <div class="submit-actions">
           <button type="submit" class="btn btn-stay" id="submit-place-btn" data-i18n="submit_pay" disabled>Pay</button>
@@ -168,16 +175,36 @@
   </footer>
 
   <script src="../config/affiliates.js"></script>
+  <script src="../config/submit.js"></script>
   <script src="../js/i18n.js"></script>
   <script src="../js/swipe.js"></script>
   <script>
   (function () {
     'use strict';
-    var NOTIFY = 'xrhgrokbot@outlook.com';
+    var cfg = window.SOS_SUBMIT || {};
+    var NOTIFY = (cfg.notifyEmail || 'xrhgrokbot@outlook.com').trim();
+    var MAX_BYTES = 8 * 1024 * 1024;
+    var OK_TYPES = {
+      'image/jpeg': 'jpg',
+      'image/png': 'png',
+      'image/webp': 'webp'
+    };
+
     var form = document.getElementById('submit-place-form');
     var totalEl = document.getElementById('submit-total');
     var statusEl = document.getElementById('submit-status');
+    var payBtn = document.getElementById('submit-place-btn');
+    var reviewLines = document.getElementById('submit-review-lines');
+    var photoInput = document.getElementById('place-photo');
+    var photoDrop = document.getElementById('photo-drop');
+    var photoPreview = document.getElementById('photo-preview');
+    var photoInner = document.getElementById('photo-drop-inner');
+    var photoError = document.getElementById('photo-drop-error');
     if (!form) return;
+
+    /** @type {File|null} */
+    var selectedPhoto = null;
+    var previewUrl = null;
 
     function i18n() {
       return window.StayOrStrayI18n;
@@ -201,8 +228,6 @@
       var pin = document.getElementById('pin-7d');
       return pin && pin.checked ? Number(pin.getAttribute('data-price') || 0) : 0;
     }
-    var payBtn = document.getElementById('submit-place-btn');
-    var reviewLines = document.getElementById('submit-review-lines');
 
     function skuLabel() {
       var checked = form.querySelector('input[name="sku"]:checked');
@@ -252,8 +277,71 @@
       updateReview();
     }
 
+    function setPhotoError(msg) {
+      if (!photoError) return;
+      if (msg) {
+        photoError.hidden = false;
+        photoError.textContent = msg;
+      } else {
+        photoError.hidden = true;
+        photoError.textContent = '';
+      }
+    }
+
+    function clearPreviewUrl() {
+      if (previewUrl) {
+        try { URL.revokeObjectURL(previewUrl); } catch (e) {}
+        previewUrl = null;
+      }
+    }
+
+    function showPreview(file) {
+      clearPreviewUrl();
+      if (!photoPreview || !file) return;
+      previewUrl = URL.createObjectURL(file);
+      photoPreview.src = previewUrl;
+      photoPreview.hidden = false;
+      photoPreview.alt = file.name || 'Selected photo';
+      if (photoDrop) photoDrop.classList.add('has-preview');
+      if (photoInner) photoInner.hidden = true;
+    }
+
+    function normalizePhoto(file) {
+      if (!file) return null;
+      var type = (file.type || '').toLowerCase();
+      if (!OK_TYPES[type]) {
+        setPhotoError(t('submit_photo_error_type'));
+        return null;
+      }
+      if (file.size > MAX_BYTES) {
+        setPhotoError(t('submit_photo_error_size'));
+        return null;
+      }
+      var name = file.name || '';
+      if (!name || name === 'image.png' || name === 'image.jpeg' || name === 'blob') {
+        var ext = OK_TYPES[type] || 'png';
+        try {
+          return new File([file], 'pasted-photo.' + ext, { type: type, lastModified: Date.now() });
+        } catch (err) {
+          // Older browsers: keep the Blob/File as-is
+          return file;
+        }
+      }
+      return file;
+    }
+
+    function setSelectedPhoto(file) {
+      var normalized = normalizePhoto(file);
+      if (!normalized) return false;
+      selectedPhoto = normalized;
+      setPhotoError('');
+      showPreview(normalized);
+      enablePay();
+      return true;
+    }
+
     function fieldsFilled() {
-      var ids = ['place-name', 'place-country', 'place-city', 'place-why', 'place-photo', 'submitter-name', 'submitter-email'];
+      var ids = ['place-name', 'place-country', 'place-city', 'place-why', 'submitter-name', 'submitter-email'];
       for (var i = 0; i < ids.length; i++) {
         var el = document.getElementById(ids[i]);
         if (!el || !(el.value || '').trim()) return false;
@@ -262,6 +350,7 @@
       if (!tab || !tab.value) return false;
       var email = document.getElementById('submitter-email');
       if (email && typeof email.checkValidity === 'function' && !email.checkValidity()) return false;
+      if (!selectedPhoto || !(selectedPhoto instanceof Blob)) return false;
       return !!form.querySelector('input[name="sku"]:checked');
     }
 
@@ -294,6 +383,82 @@
       updateReview();
     }
 
+    function openFilePicker() {
+      if (photoInput) photoInput.click();
+    }
+
+    if (photoDrop) {
+      photoDrop.addEventListener('click', function (e) {
+        if (e.target === photoInput) return;
+        openFilePicker();
+      });
+      photoDrop.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          openFilePicker();
+        }
+      });
+      photoDrop.addEventListener('dragover', function (e) {
+        e.preventDefault();
+        photoDrop.classList.add('photo-drop-active');
+      });
+      photoDrop.addEventListener('dragleave', function () {
+        photoDrop.classList.remove('photo-drop-active');
+      });
+      photoDrop.addEventListener('drop', function (e) {
+        e.preventDefault();
+        photoDrop.classList.remove('photo-drop-active');
+        var files = e.dataTransfer && e.dataTransfer.files;
+        if (files && files[0]) setSelectedPhoto(files[0]);
+      });
+    }
+
+    if (photoInput) {
+      photoInput.addEventListener('change', function () {
+        var file = photoInput.files && photoInput.files[0];
+        if (file) setSelectedPhoto(file);
+      });
+    }
+
+    function handlePaste(e) {
+      var cd = e.clipboardData;
+      if (!cd) return;
+      var items = cd.items;
+      var file = null;
+      if (items) {
+        for (var i = 0; i < items.length; i++) {
+          if (items[i].type && items[i].type.indexOf('image/') === 0) {
+            file = items[i].getAsFile();
+            if (file) break;
+          }
+        }
+      }
+      if (!file && cd.files && cd.files.length) {
+        for (var j = 0; j < cd.files.length; j++) {
+          if (cd.files[j].type && cd.files[j].type.indexOf('image/') === 0) {
+            file = cd.files[j];
+            break;
+          }
+        }
+      }
+      if (!file) return;
+      e.preventDefault();
+      setSelectedPhoto(file);
+    }
+
+    form.addEventListener('paste', handlePaste);
+    if (photoDrop) photoDrop.addEventListener('paste', handlePaste);
+    document.addEventListener('paste', function (e) {
+      // Allow paste anywhere while this form is present; skip if focus is a text field
+      // that is not our drop zone (so Ctrl+V in name/email still pastes text).
+      var ae = document.activeElement;
+      if (ae && (ae.tagName === 'INPUT' || ae.tagName === 'TEXTAREA' || ae.tagName === 'SELECT')) {
+        if (ae === photoInput) handlePaste(e);
+        return;
+      }
+      handlePaste(e);
+    });
+
     form.addEventListener('change', function () {
       updateTotal();
       enablePay();
@@ -308,7 +473,6 @@
         applySubmitChrome();
       });
     } else {
-      // Pack may still be loading; re-apply once ready.
       var tries = 0;
       var timer = setInterval(function () {
         tries += 1;
@@ -326,48 +490,119 @@
       }, 50);
     }
 
-    form.addEventListener('submit', function (e) {
-      e.preventDefault();
-      if (!enablePay()) {
-        if (!form.checkValidity()) form.reportValidity();
-        return;
-      }
-      if (!form.checkValidity()) {
-        form.reportValidity();
-        return;
-      }
+    function isUsableEndpoint(ep) {
+      if (!ep) return false;
+      var s = String(ep).trim();
+      if (!s) return false;
+      if (/^(YOUR_|PLACEHOLDER|TODO|FIXME)/i.test(s)) return false;
+      if (/example\.com|localhost|127\.0\.0\.1/i.test(s)) return false;
+      if (s === '#' || s === '/') return false;
+      return /^https?:\/\//i.test(s);
+    }
+
+    function collectPayload() {
       var place = (document.getElementById('place-name').value || '').trim();
       var country = (document.getElementById('place-country').value || '').trim();
       var city = (document.getElementById('place-city').value || '').trim();
       var tab = document.getElementById('place-tab').value;
       var why = (document.getElementById('place-why').value || '').trim();
-      var photo = (document.getElementById('place-photo').value || '').trim() || '(will email photo)';
       var name = (document.getElementById('submitter-name').value || '').trim();
       var email = (document.getElementById('submitter-email').value || '').trim();
       var skuEl = form.querySelector('input[name="sku"]:checked');
       var sku = skuEl ? skuEl.value : '';
       var pin = document.getElementById('pin-7d').checked;
       var total = skuPrice() + pinPrice();
+      return {
+        place_name: place,
+        country: country,
+        city: city,
+        tab: tab,
+        why: why,
+        submitter_name: name,
+        submitter_email: email,
+        sku: sku,
+        pin_7d: pin ? 'yes' : 'no',
+        estimated_total_usd: total,
+        photo_name: selectedPhoto ? (selectedPhoto.name || 'photo') : '',
+        photo_type: selectedPhoto ? (selectedPhoto.type || '') : '',
+        photo_size: selectedPhoto ? selectedPhoto.size : 0,
+        acks: 'license=yes; real_place=yes; paid_listing=yes',
+        notify_email: NOTIFY
+      };
+    }
 
-      var subject = 'Stay or Stray Submit a Place — ' + place;
-      var body = [
-        'Place name: ' + place,
-        'Country: ' + country,
-        'City / region: ' + city,
-        'Tab: ' + tab,
-        'Why it belongs: ' + why,
-        'Photo: ' + photo,
-        'Submitter name: ' + name,
-        'Submitter email: ' + email,
-        'SKU: ' + sku,
-        'pin_7d: ' + (pin ? 'yes' : 'no'),
-        'Estimated total (USD): $' + total,
+    function buildMailtoBody(payload) {
+      return [
+        'Place name: ' + payload.place_name,
+        'Country: ' + payload.country,
+        'City / region: ' + payload.city,
+        'Tab: ' + payload.tab,
+        'Why it belongs: ' + payload.why,
+        'Photo file: ' + payload.photo_name + ' (' + payload.photo_type + ', ' + payload.photo_size + ' bytes)',
+        'Submitter name: ' + payload.submitter_name,
+        'Submitter email: ' + payload.submitter_email,
+        'SKU: ' + payload.sku,
+        'pin_7d: ' + payload.pin_7d,
+        'Estimated total (USD): $' + payload.estimated_total_usd,
         '',
-        'Acks: license=yes; real_place=yes; paid_listing=yes',
+        'Acks: ' + payload.acks,
         'Note: paid does not equal live. Accuracy Auditor gates; pin clock starts at go-live.',
-        'All sales are final. No refunds.'
+        'All sales are final. No refunds.',
+        '',
+        'IMPORTANT: Attach the downloaded photo file to this email before sending.'
       ].join('\n');
+    }
 
+    function downloadBlob(blob, filename) {
+      var url = URL.createObjectURL(blob);
+      var a = document.createElement('a');
+      a.href = url;
+      a.download = filename;
+      a.rel = 'noopener';
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      setTimeout(function () {
+        try { URL.revokeObjectURL(url); } catch (e) {}
+      }, 1500);
+    }
+
+    function slugify(s) {
+      return String(s || 'place')
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-+|-+$/g, '')
+        .slice(0, 48) || 'place';
+    }
+
+    function launchMailto(href) {
+      if (typeof window.__sosOpenMailto === 'function') {
+        window.__sosOpenMailto(href);
+        return;
+      }
+      try {
+        var a = document.createElement('a');
+        a.href = href;
+        a.rel = 'noopener';
+        a.style.display = 'none';
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+      } catch (err) {
+        window.location.href = href;
+      }
+    }
+
+        function fallbackDownloadAndMailto(payload) {
+      var base = 'stay-or-stray-submit-' + slugify(payload.place_name);
+      var ext = OK_TYPES[selectedPhoto.type] || 'png';
+      var photoName = selectedPhoto.name || (base + '.' + ext);
+      downloadBlob(selectedPhoto, photoName);
+      var jsonBlob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+      downloadBlob(jsonBlob, base + '.json');
+
+      var subject = 'Stay or Stray Submit a Place — ' + payload.place_name;
+      var body = buildMailtoBody(payload);
       var href =
         'mailto:' +
         encodeURIComponent(NOTIFY) +
@@ -378,11 +613,60 @@
 
       if (statusEl) {
         statusEl.hidden = false;
-        statusEl.textContent = t('submit_status_ok', { email: NOTIFY });
+        statusEl.textContent = t('submit_status_attach', { email: NOTIFY });
       }
-      window.location.href = href;
+      launchMailto(href);
+    }
+
+    function postFormData(endpoint, payload) {
+      var fd = new FormData();
+      Object.keys(payload).forEach(function (k) {
+        fd.append(k, String(payload[k]));
+      });
+      fd.append('photo', selectedPhoto, selectedPhoto.name || 'photo.jpg');
+      if (payBtn) payBtn.disabled = true;
+      if (statusEl) {
+        statusEl.hidden = false;
+        statusEl.textContent = t('submit_status_sending');
+      }
+      return fetch(endpoint, { method: 'POST', body: fd, credentials: 'omit' })
+        .then(function (res) {
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          if (statusEl) statusEl.textContent = t('submit_status_posted', { email: NOTIFY });
+        })
+        .catch(function () {
+          if (statusEl) {
+            statusEl.textContent = t('submit_status_post_failed');
+          }
+          // Never drop the picture — fall back to download + mailto
+          fallbackDownloadAndMailto(payload);
+        })
+        .then(function () {
+          enablePay();
+        });
+    }
+
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      if (!enablePay()) {
+        if (!selectedPhoto) setPhotoError(t('submit_photo_error_required'));
+        if (!form.checkValidity()) form.reportValidity();
+        return;
+      }
+      if (!selectedPhoto) {
+        setPhotoError(t('submit_photo_error_required'));
+        return;
+      }
+      var payload = collectPayload();
+      var endpoint = (cfg.formEndpoint || '').trim();
+      if (isUsableEndpoint(endpoint)) {
+        postFormData(endpoint, payload);
+      } else {
+        fallbackDownloadAndMailto(payload);
+      }
     });
   })();
+  </script>
   </script>
 </body>
 </html>
