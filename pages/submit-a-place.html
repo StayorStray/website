@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Submit a Place — Stay or Stray</title>
+  <meta name="description" content="Propose a real place for Stay or Stray. Paid does not equal live — Accuracy Auditor gates every card." />
+  <link rel="stylesheet" href="../css/site.css" />
+<script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
+  (function () {
+      var script = document.createElement("script");
+      script.async = 1;
+      script.setAttribute("data-cmp-ab","2");
+      script.src = 'https://emrld.ltd/NTc2OTkz.js?t=576993';
+      document.head.appendChild(script);
+  })();
+</script>
+</head>
+<body data-tab="submit-a-place" data-asset-root="../" data-show-home="true">
+  <header class="site-header">
+    <a class="home-btn" id="home-btn" href="../index.html">Home</a>
+    <div class="brand-block">
+      <a class="brand site-logo" href="../index.html" aria-label="Stay or Stray">
+        <img src="../assets/logo.png" alt="Stay or Stray" width="240" height="75" decoding="async" />
+      </a>
+      <p class="tagline">Swipe a place. Stay or stray.</p>
+    </div>
+    <div class="header-end">
+      <div class="session-stats" id="session-stats" aria-live="polite">Stay <strong>0</strong> · Stray <strong>0</strong></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <nav aria-label="Categories">
+      <ul class="tab-nav" id="tab-nav"></ul>
+    </nav>
+
+    <section class="submit-place" aria-labelledby="submit-place-heading">
+      <h1 id="submit-place-heading" class="deck-section-label">Submit a Place</h1>
+      <p class="submit-place-intro" data-i18n="submit_intro">Propose a real, visitable place. Payment does not equal live — the Accuracy Auditor still gates every card before it goes public. Pin clocks start at go-live.</p>
+
+      <form id="submit-place-form" class="submit-place-form" novalidate>
+        <label class="submit-field">
+          <span class="submit-label" data-i18n="submit_place_name">Place name</span>
+          <input type="text" id="place-name" name="place_name" class="submit-input" required maxlength="120" autocomplete="organization" />
+        </label>
+
+        <div class="submit-row">
+          <label class="submit-field">
+            <span class="submit-label" data-i18n="submit_country">Country</span>
+            <input type="text" id="place-country" name="country" class="submit-input" required maxlength="80" autocomplete="country-name" />
+          </label>
+          <label class="submit-field">
+            <span class="submit-label" data-i18n="submit_city">City / region</span>
+            <input type="text" id="place-city" name="city" class="submit-input" required maxlength="80" autocomplete="address-level2" />
+          </label>
+        </div>
+
+        <label class="submit-field">
+          <span class="submit-label" data-i18n="submit_which_tab">Which tab</span>
+          <select id="place-tab" name="tab" class="submit-select" required>
+            <option value="hidden-gems">Hidden Gems</option>
+            <option value="cities">Iconic Cities</option>
+            <option value="pubs">Unique Pubs</option>
+            <option value="countries">Countries</option>
+            <option value="arenas">Sports Arenas</option>
+            <option value="beaches">Beaches &amp; Coasts</option>
+            <option value="parks">National Parks</option>
+            <option value="landmarks">Historic Landmarks</option>
+            <option value="islands">Islands</option>
+            <option value="luxury">Luxury Stays</option>
+          </select>
+        </label>
+
+        <label class="submit-field">
+          <span class="submit-label" data-i18n="submit_why">Why it belongs (short)</span>
+          <textarea id="place-why" name="why" class="submit-textarea" required maxlength="500" rows="4" placeholder="A few sentences on why this place fits the tab."></textarea>
+        </label>
+
+        <label class="submit-field">
+          <span class="submit-label" data-i18n="submit_photo">Photo URL or note</span>
+          <input type="text" id="place-photo" name="photo" class="submit-input" maxlength="400" placeholder="Paste a photo URL, or note that you will email the photo" />
+          <span class="submit-hint" data-i18n="submit_photo_hint">Licensed real photos only (no AI). If you have no URL, say you’ll email the file to the notify address after submit.</span>
+        </label>
+
+        <div class="submit-row">
+          <label class="submit-field">
+            <span class="submit-label" data-i18n="submit_your_name">Your name</span>
+            <input type="text" id="submitter-name" name="submitter_name" class="submit-input" required maxlength="80" autocomplete="name" />
+          </label>
+          <label class="submit-field">
+            <span class="submit-label" data-i18n="submit_your_email">Your email</span>
+            <input type="email" id="submitter-email" name="submitter_email" class="submit-input" required maxlength="120" autocomplete="email" />
+          </label>
+        </div>
+
+        <fieldset class="submit-fieldset">
+          <legend class="submit-label" data-i18n="submit_sku_legend">Listing SKU</legend>
+          <label class="submit-radio">
+            <input type="radio" name="sku" value="founding_standard" data-price="39" checked />
+            <span data-i18n="submit_sku_founding">Founding standard — $39 (year 1), then $49/year</span>
+          </label>
+          <label class="submit-radio">
+            <input type="radio" name="sku" value="standard" data-price="49" />
+            <span data-i18n="submit_sku_standard">Standard listing — $49/year</span>
+          </label>
+          <label class="submit-radio">
+            <input type="radio" name="sku" value="hidden_gems" data-price="99" />
+            <span data-i18n="submit_sku_hg">Hidden Gems — $99 / 12 months</span>
+          </label>
+        </fieldset>
+
+        <fieldset class="submit-fieldset submit-pin">
+          <legend class="submit-label" data-i18n="submit_pin_legend">Optional pin</legend>
+          <label class="submit-check">
+            <input type="checkbox" id="pin-7d" name="pin_7d" value="1" data-price="39" />
+            <span>+$39 — your card stays in this tab’s first 25 for 7 days after it goes live.</span>
+          </label>
+          <p class="submit-hint" data-i18n="submit_pin_cap">Subject to availability (25 pin cap per tab). Pin clock starts at go-live, not at payment.</p>
+        </fieldset>
+
+        <p class="submit-total" id="submit-total" aria-live="polite">Estimated total: <strong>$39</strong></p>
+
+        <p class="submit-disclaimer" data-i18n="submit_disclaimer">Paid does not equal live. Accuracy Auditor gates every listing before it appears. Payment is confirmed separately; this form opens an email draft to our notify inbox.</p>
+
+        <div class="submit-actions">
+          <button type="submit" class="btn btn-stay" id="submit-place-btn" data-i18n="submit_send">Email submission</button>
+        </div>
+        <p class="submit-hint" id="submit-status" role="status" hidden></p>
+      </form>
+    </section>
+  </main>
+
+  <footer class="site-footer" id="footer">
+    <nav aria-label="Footer">
+      <a href="../index.html#about">About</a>
+      <a href="../index.html#credits">Photo credits</a>
+      <a href="../index.html">Home</a>
+    </nav>
+    <p class="coffee-support"><a class="coffee-link" id="buy-me-coffee" href="https://buymeacoffee.com/alanhueserb" target="_blank" rel="noopener noreferrer" aria-label="Buy me a coffee"><span class="coffee-link-text" data-i18n="buy_me_coffee">Buy me a coffee</span><img class="coffee-link-icon" src="../assets/buy-me-a-coffee.png" width="44" height="44" alt="" decoding="async" /></a></p>
+    <p class="disclosure" id="affiliate-disclosure">As an affiliate we may earn from qualifying bookings.</p>
+    <p id="about" class="about-blurb"><strong>About Stay or Stray.</strong> Swipe real, visitable places — Stay if you’d go, Stray if you’d skip. Photos are licensed real photographs (no AI images).</p>
+    <p id="legal-disclaimer" class="legal-disclaimer" data-i18n="legal_disclaimer"></p>
+    <p id="credits" class="about-blurb">Phase 0 sample credits appear under each card. Full attributions live in <code>data/hidden-gems.json</code> (Wikimedia Commons CC licenses).</p>
+  </footer>
+
+  <script src="../config/affiliates.js"></script>
+  <script src="../js/i18n.js"></script>
+  <script src="../js/swipe.js"></script>
+  <script>
+  (function () {
+    'use strict';
+    var NOTIFY = 'xrhgrokbot@outlook.com';
+    var form = document.getElementById('submit-place-form');
+    var totalEl = document.getElementById('submit-total');
+    var statusEl = document.getElementById('submit-status');
+    if (!form) return;
+
+    function skuPrice() {
+      var checked = form.querySelector('input[name="sku"]:checked');
+      return checked ? Number(checked.getAttribute('data-price') || 0) : 0;
+    }
+    function pinPrice() {
+      var pin = document.getElementById('pin-7d');
+      return pin && pin.checked ? Number(pin.getAttribute('data-price') || 0) : 0;
+    }
+    function updateTotal() {
+      var total = skuPrice() + pinPrice();
+      if (totalEl) {
+        totalEl.innerHTML = 'Estimated total: <strong>$' + total + '</strong>';
+      }
+    }
+    form.addEventListener('change', updateTotal);
+    updateTotal();
+
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      if (!form.checkValidity()) {
+        form.reportValidity();
+        return;
+      }
+      var place = (document.getElementById('place-name').value || '').trim();
+      var country = (document.getElementById('place-country').value || '').trim();
+      var city = (document.getElementById('place-city').value || '').trim();
+      var tab = document.getElementById('place-tab').value;
+      var why = (document.getElementById('place-why').value || '').trim();
+      var photo = (document.getElementById('place-photo').value || '').trim() || '(will email photo)';
+      var name = (document.getElementById('submitter-name').value || '').trim();
+      var email = (document.getElementById('submitter-email').value || '').trim();
+      var skuEl = form.querySelector('input[name="sku"]:checked');
+      var sku = skuEl ? skuEl.value : '';
+      var pin = document.getElementById('pin-7d').checked;
+      var total = skuPrice() + pinPrice();
+
+      var subject = 'Stay or Stray Submit a Place — ' + place;
+      var body = [
+        'Place name: ' + place,
+        'Country: ' + country,
+        'City / region: ' + city,
+        'Tab: ' + tab,
+        'Why it belongs: ' + why,
+        'Photo: ' + photo,
+        'Submitter name: ' + name,
+        'Submitter email: ' + email,
+        'SKU: ' + sku,
+        'pin_7d: ' + (pin ? 'yes' : 'no'),
+        'Estimated total (USD): $' + total,
+        '',
+        'Note: paid does not equal live. Accuracy Auditor gates; pin clock starts at go-live.',
+        'Payment confirmed separately.'
+      ].join('\n');
+
+      var href =
+        'mailto:' +
+        encodeURIComponent(NOTIFY) +
+        '?subject=' +
+        encodeURIComponent(subject) +
+        '&body=' +
+        encodeURIComponent(body);
+
+      if (statusEl) {
+        statusEl.hidden = false;
+        statusEl.textContent =
+          'Opening your email client to ' + NOTIFY + '. If nothing opens, copy the draft and send manually.';
+      }
+      window.location.href = href;
+    });
+  })();
+  </script>
+</body>
+</html>

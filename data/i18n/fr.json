@@ -79,7 +79,25 @@
     "prize_wheel_aria": "Roue des lieux",
     "home_country_aria": "Pays de résidence",
     "category_aria": "Catégorie",
-    "geo_group_aria": "National ou international"
+    "geo_group_aria": "National ou international",
+    "submit_intro": "Propose a real, visitable place. Payment does not equal live — the Accuracy Auditor still gates every card before it goes public. Pin clocks start at go-live.",
+    "submit_place_name": "Place name",
+    "submit_country": "Country",
+    "submit_city": "City / region",
+    "submit_which_tab": "Which tab",
+    "submit_why": "Why it belongs (short)",
+    "submit_photo": "Photo URL or note",
+    "submit_photo_hint": "Licensed real photos only (no AI). If you have no URL, say you’ll email the file to the notify address after submit.",
+    "submit_your_name": "Your name",
+    "submit_your_email": "Your email",
+    "submit_sku_legend": "Listing SKU",
+    "submit_sku_founding": "Founding standard — $39 (year 1), then $49/year",
+    "submit_sku_standard": "Standard listing — $49/year",
+    "submit_sku_hg": "Hidden Gems — $99 / 12 months",
+    "submit_pin_legend": "Optional pin",
+    "submit_pin_cap": "Subject to availability (25 pin cap per tab). Pin clock starts at go-live, not at payment.",
+    "submit_disclaimer": "Paid does not equal live. Accuracy Auditor gates every listing before it appears. Payment is confirmed separately; this form opens an email draft to our notify inbox.",
+    "submit_send": "Email submission"
   },
   "tabs": {
     "hidden-gems": "Pépites cachées",
@@ -92,7 +110,8 @@
     "landmarks": "Monuments historiques",
     "islands": "Îles",
     "luxury": "Séjours de luxe",
-    "location-randomizer": "Aléatoire de lieux"
+    "location-randomizer": "Aléatoire de lieux",
+    "submit-a-place": "Submit a Place"
   },
   "cards": {
     "hidden-gems-001": {

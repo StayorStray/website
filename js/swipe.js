@@ -381,6 +381,16 @@
         wheelHref +
         '">' + escapeHtml(tabLabel('location-randomizer')) + '</a></li>'
     );
+    const submitHref = pagePrefix + 'submit-a-place.html';
+    const submitCur =
+      activeSlug === 'submit-a-place' ? ' aria-current="page"' : '';
+    items.push(
+      '<li><a class="tab-nav-submit"' +
+        submitCur +
+        ' href="' +
+        submitHref +
+        '">' + escapeHtml(tabLabel('submit-a-place')) + '</a></li>'
+    );
     nav.innerHTML = items.join('');
   }
 
@@ -1084,7 +1094,8 @@
     migrateLegacyCounts();
     const tab = document.body.dataset.tab || 'hidden-gems';
     const showHome = document.body.dataset.showHome === 'true';
-    const isWheelPage = tab === 'location-randomizer';
+    const isNonDeckPage =
+      tab === 'location-randomizer' || tab === 'submit-a-place';
     renderTabNav(tab);
     updateStatsUI();
     ensureListPanel();
@@ -1096,7 +1107,7 @@
     const disclosure = document.getElementById('affiliate-disclosure');
     if (disclosure) disclosure.textContent = t('disclosure');
 
-    if (isWheelPage) {
+    if (isNonDeckPage) {
       if (I18n() && I18n().onChange) {
         I18n().onChange(function () {
           renderTabNav(tab);
