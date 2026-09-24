@@ -1,1 +1,1007 @@
-[]
+[
+  {
+    "id": "islands-001",
+    "tab": "islands",
+    "name": "Santorini",
+    "short_line": "Cyclades, Greece",
+    "country": "Greece",
+    "lat": 36.3932,
+    "lng": 25.4615,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fira_and_crater_rim_seen_from_the_caldera_-_Santorini_-_Greece_-_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-001.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AFira_and_crater_rim_seen_from_the_caldera_-_Santorini_-_Greece_-_05.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Norbert Nagel",
+      "attribution": "Photo: Norbert Nagel, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Fira and crater rim seen from the caldera - Santorini - Greece - 05.jpg' — Santorini island vista visible; desc: Fira and crater rim seen from the caldera, Santorini, Greece."
+    },
+    "facts": {
+      "one_liner": "Fira’s white Cycladic town clinging to Santorini’s dark volcanic caldera rim.",
+      "why_go": "The hero view looks up from inside Santorini’s sea-filled caldera to Fira, the island capital, whose whitewashed houses, terraces, and a domed church sit atop layered dark volcanic cliffs. Visit Greece describes Santorini (Thera) as a complex of islands around this caldera, with cliff-top settlements like Fira and Oia built along the rim created by successive explosive eruptions. Visitors come for that hanging Cycladic skyline, caldera sunsets, and boat trips toward the Kameni islets. Concrete detail: from the Old Port below Fira, the official cable car climbs the caldera face to town in about three minutes as an alternative to the stair path.",
+      "best_time": "Late May–June and September–early October for warm weather with fewer peak-summer cruise crowds; July–August are hottest and busiest. Shoulder months still offer clear caldera light for Fira rim walks.",
+      "how_to_get_there": "Fly into Santorini (Thira) Airport (JTR) from Athens (~50 minutes) or other European hubs, or take a ferry to Athinios port then bus/taxi to Fira. Cruise tenders use the Old Port (Skala) under Fira; continue by cable car, the stair path, or organized transfer.",
+      "good_to_know": "OPEN / publicly visitable island towns and viewpoints; no ticket needed to walk Fira’s caldera rim. Expect steep drop-offs and crowded overlooks when ships are in. Cable-car schedules and queues change with cruise traffic—check santorinicablecar.gr. Donkey rides on the stairs are discouraged by many animal-welfare advocates; prefer cable car or walking.",
+      "official_or_tourism_url": "https://www.visitgreece.gr/islands/cyclades/santorini/",
+      "sources": [
+        "https://www.visitgreece.gr/islands/cyclades/santorini/",
+        "https://www.visitgreece.gr/en/routes/santorini-sunset-overlooking-the-caldera",
+        "https://santorinicablecar.gr/",
+        "https://www.santoriniports.gov.gr/en/cruise"
+      ]
+    },
+    "ad": {
+      "destination_query": "Santorini, Greece",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Santorini%2C%20Greece&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Santorini%2C%20Greece&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Santorini%2C%20Greece&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Santorini"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-002",
+    "tab": "islands",
+    "name": "Bali",
+    "short_line": "Lesser Sunda, Indonesia",
+    "country": "Indonesia",
+    "lat": -8.4095,
+    "lng": 115.1889,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tanah-Lot_Bali_Indonesia_Pura-Tanah-Lot-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-002.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATanah-Lot_Bali_Indonesia_Pura-Tanah-Lot-01.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "CEphoto, Uwe Aranas",
+      "attribution": "Photo: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Tanah-Lot Bali Indonesia Pura-Tanah-Lot-01.jpg' — Bali island vista visible; desc: Tanah Lot, Bali, Indonesia: Pura Tanah Lot at sunset"
+    },
+    "facts": {
+      "one_liner": "Pura Tanah Lot—Bali’s sea temple on an offshore rock, classic at low-tide sunset.",
+      "why_go": "The photo shows Pura Tanah Lot on Bali’s southwest coast: multi-tiered Balinese roofs and shrines on a dark rock outcrop in the Indian Ocean, with visitors on the wet tidal shelf at the base. Wonderful Indonesia (indonesia.travel) places the temple in Beraban, Kediri, Tabanan—about 30 km from Denpasar—and calls its offshore silhouette one of Bali’s most photographed icons. People visit for the sunset terrace views and the low-tide walk toward the rock; the inner sanctum remains reserved for Balinese Hindu worship. Concrete detail: high tide submerges the short sandy path to the rock’s base, so shore and cliff terraces are the view when water is up.",
+      "best_time": "April–August for the driest skies and clearest sunsets; arrive by late afternoon for golden-hour light, or early morning for thinner crowds. Check local tide charts if you want to walk the path to the rock base.",
+      "how_to_get_there": "From Ngurah Rai International Airport (DPS) or Denpasar/Kuta/Seminyak, drive or taxi southwest via Kediri, Tabanan (roughly 30–45 minutes depending on traffic). Signed turnoff on Jl. Raya Tanah Lot leads to paid parking and the cliff-side visitor area.",
+      "good_to_know": "OPEN to visitors on the outer grounds and viewing terraces; ticketed entry at the gate (cash commonly required—confirm on site). The temple’s inner courtyard is for Hindu worshippers only. Wear non-slip shoes on wet rocks; freak waves can sweep the ledge. Surrounding stalls and restaurants serve the tourist precinct.",
+      "official_or_tourism_url": "https://www.indonesia.travel/gb/en/destination/bali-nusa-tenggara/bali/tanah-lot",
+      "sources": [
+        "https://www.indonesia.travel/gb/en/destination/bali-nusa-tenggara/bali/tanah-lot",
+        "https://tanahlot.org/about/",
+        "https://tanahlot.org/hours-and-fees/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Bali, Indonesia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bali%2C%20Indonesia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bali%2C%20Indonesia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bali%2C%20Indonesia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Bali"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-003",
+    "tab": "islands",
+    "name": "Bora Bora",
+    "short_line": "Society Islands, French Polynesia",
+    "country": "French Polynesia",
+    "lat": -16.5004,
+    "lng": -151.7415,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/BoraBora_SEtienne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-003.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABoraBora_SEtienne.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Samuel Etienne",
+      "attribution": "Photo: Samuel Etienne, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:BoraBora SEtienne.jpg' — Bora Bora island vista visible; desc: Aerial view of Bora-Bora Island and its lagoon."
+    },
+    "facts": {
+      "one_liner": "Aerial of Bora Bora: Mount Otemanu above a barrier-reef lagoon of turquoise shallows.",
+      "why_go": "The aerial hero captures Bora Bora’s volcanic core—steep, vegetated peaks including Mount Otemanu—ringed by a shallow turquoise lagoon, mottled reefs, and a white surf line where the barrier reef meets the open Pacific. Tahiti Tourisme calls the island the “Pearl of the Pacific,” noting overwater resorts on motu (islets) and a lagoon famous for snorkeling, diving, and boat tours. Visitors come for that lagoon palette and the mountain backdrop more than nightlife. Concrete detail: official tourism lists a roughly 50-minute domestic flight from Tahiti to Bora Bora’s airport on a motu, with boat transfer onward to Vaitape or hotel jetties.",
+      "best_time": "Dry season roughly May–October for sunnier, less humid weather; November–April is wetter but can mean greener slopes and quieter resorts. Lagoon activities run year-round when seas allow.",
+      "how_to_get_there": "Fly internationally into Tahiti Faa’a (PPT), then take an Air Tahiti domestic flight (~50 minutes) to Bora Bora (BOB) on Motu Mute. Airport shuttle boats run to Vaitape; resorts arrange private lagoon transfers. Limited ferry/cruise options also serve the island.",
+      "good_to_know": "OPEN lagoon and public beaches (notably Matira); many motu resorts are private with hotel-boat access only. Use reef-safe sunscreen and follow local guidance around rays and sharks on lagoon tours. Hiking routes toward Otemanu can be steep and informal—ask locally about current trail access.",
+      "official_or_tourism_url": "https://tahititourisme.com/en-us/islands/bora-bora/",
+      "sources": [
+        "https://tahititourisme.com/en-us/islands/bora-bora/",
+        "https://tahititourisme.pf/en-pf/islands-and-archipelagos/the-society-islands/bora-bora/",
+        "https://tahititourisme.pf/en-pf/islands-and-archipelagos/the-society-islands/bora-bora/getting-to-bora-bora/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Bora Bora, French Polynesia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bora%20Bora%2C%20French%20Polynesia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bora%20Bora%2C%20French%20Polynesia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bora%20Bora%2C%20French%20Polynesia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Bora Bora"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-004",
+    "tab": "islands",
+    "name": "Maldives",
+    "short_line": "Indian Ocean atolls, Maldives",
+    "country": "Maldives",
+    "lat": 3.2028,
+    "lng": 73.2207,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Sun_Island_Resort%2C_Alif_Dhaal_Atoll%2C_Maldives_%28Unsplash%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-004.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASun_Island_Resort%2C_Alif_Dhaal_Atoll%2C_Maldives_%28Unsplash%29.jpg",
+      "license": "CC0",
+      "author": "Syd Sujuaan",
+      "attribution": "Photo: Syd Sujuaan, CC0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "REPLACED weak water-only shot. Commons 'File:Sun Island Resort, Alif Dhaal Atoll, Maldives (Unsplash).jpg' — Maldives atoll/island + turquoise lagoon visible; desc: Sun Island Resort, Alif Dhaal Atoll, Maldives"
+    },
+    "facts": {
+      "one_liner": "Alif Dhaal atoll strip: palm island, white sand, and a vast turquoise Maldivian lagoon.",
+      "why_go": "The aerial shows a classic Maldives vista—a slender palm-fringed island and sandbars set in luminous turquoise lagoon water, with deep ocean beyond the reef edge—shot over Sun Island Resort territory in Alif Dhaal (South Ari) Atoll. Visit Maldives notes the country as roughly 1,190 islands across 26 atolls, with tourism built on resort islands and clear lagoons. Travelers come for house-reef snorkeling, diving, and that overwater-villa lagoon look. Concrete detail: many Alif Dhaal resorts are reached by daylight seaplane from Velana International Airport (MLE) in about 25–40 minutes, arranged by the resort.",
+      "best_time": "Northeast monsoon / dry season roughly December–April for calmer seas and clearer skies; May–November brings more rain and wind but can mean fewer crowds and good diving. Seaplanes operate in daylight only.",
+      "how_to_get_there": "Fly into Velana International Airport (MLE) near Malé. Transfers to Alif Dhaal / South Ari resorts are typically resort-operated seaplane (daylight) or domestic flight to Maamigili (VAM) plus speedboat. Confirm transfer with your property before arrival—late international flights often require an overnight in Malé.",
+      "good_to_know": "OPEN for resort and guesthouse guests; most resort islands are private once you transfer. Local (inhabited) islands follow modest dress codes ashore. South Ari’s outer reefs are known for whale-shark encounters in a marine protected area—use licensed operators. Card name is Maldives; the hero is an Alif Dhaal atoll lagoon, not Malé city.",
+      "official_or_tourism_url": "https://visitmaldives.com/en/",
+      "sources": [
+        "https://visitmaldives.com/en/",
+        "https://visitmaldives.com/en/maldives",
+        "https://www.tourism.gov.mv/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Maldives",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Maldives&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Maldives&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Maldives&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Maldives"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-005",
+    "tab": "islands",
+    "name": "Maui",
+    "short_line": "Hawaiian Islands, United States",
+    "country": "United States",
+    "lat": 20.7984,
+    "lng": -156.3319,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Dawn_on_Haleakala_Volcano%2C_Hawaii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-005.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ADawn_on_Haleakala_Volcano%2C_Hawaii.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "ImagePerson",
+      "attribution": "Photo: ImagePerson, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Dawn on Haleakala Volcano, Hawaii.jpg' — Maui island vista visible; desc: Early morning light suffuses the crater of Haleakala Volcano, Maui, Hawaii."
+    },
+    "facts": {
+      "one_liner": "Dawn over Haleakalā’s cinder-cone crater on Maui—sea of clouds below the rim.",
+      "why_go": "The hero is sunrise light across Haleakalā’s vast summit crater on Maui: reddish volcanic scree in the foreground, multi-colored cinder cones on the crater floor, and a cloud deck below the far rim. The U.S. National Park Service protects this landscape in Haleakalā National Park; the Summit District climbs to 10,023 feet (3,055 m), and dawn viewing has drawn visitors since the 1800s. People come for that above-the-clouds sunrise and day hikes into the crater’s alpine desert. Concrete detail: a timed vehicle reservation on Recreation.gov is required to enter the Summit District between 3:00 a.m. and 7:00 a.m. for sunrise.",
+      "best_time": "Sunrise viewing runs year-round when weather allows; clear, calm mornings are best but winds and freezing pre-dawn temperatures are common even in summer. Book reservations early—inventory releases 60 days and again 48 hours ahead (HST).",
+      "how_to_get_there": "Fly into Kahului Airport (OGG) on Maui. Drive the Summit Road (Hwy 378) into Haleakalā National Park; allow about 1.5–2 hours from central Maui resorts and ~30 minutes from the entrance station to the summit overlooks. No food, fuel, or clothing sales inside the park.",
+      "good_to_know": "OPEN national park; park entrance fee plus a separate sunrise vehicle reservation (Recreation.gov) for 3–7 a.m. entry. Dress in warm layers—summit temps can be below freezing before dawn. Stay on trails; the crater ecosystem and cultural sites are fragile. ID must match the reservation holder’s name.",
+      "official_or_tourism_url": "https://www.nps.gov/hale/planyourvisit/sunrise.htm",
+      "sources": [
+        "https://www.nps.gov/hale/planyourvisit/sunrise.htm",
+        "https://www.nps.gov/hale/planyourvisit/haleakala-sunrise-reservations-faq.htm",
+        "https://www.recreation.gov/ticket/facility/253731",
+        "https://www.nps.gov/hale/index.htm"
+      ]
+    },
+    "ad": {
+      "destination_query": "Maui, Hawaii",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Maui%2C%20Hawaii&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Maui%2C%20Hawaii&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Maui%2C%20Hawaii&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Maui"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-006",
+    "tab": "islands",
+    "name": "Capri",
+    "short_line": "Bay of Naples, Italy",
+    "country": "Italy",
+    "lat": 40.5532,
+    "lng": 14.2222,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Faraglioni_Capri.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-006.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AFaraglioni_Capri.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Mgimelfarb",
+      "attribution": "Photo: Mgimelfarb, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Faraglioni Capri.jpg' — Capri island vista visible; desc: Faraglioni in Capri, Italy."
+    },
+    "facts": {
+      "one_liner": "Capri’s Faraglioni sea stacks—Stella, Mezzo’s arch, and Scopolo rising from deep blue.",
+      "why_go": "The photo frames Capri’s Faraglioni from the water: pale limestone stacks off the island’s south coast, the central Faraglione di Mezzo pierced by a natural arch, with a small boat for scale. Capri.com names the trio Stella (still attached to land), di Mezzo, and di Fuori (Scopolo), averaging about 100 m high; Wikipedia lists Stella at 109 m, Mezzo 82 m, and Scopolo 106 m. Visitors circle them on island boat tours from Marina Grande or view them from Punta Tragara and the Gardens of Augustus. Concrete detail: sailing under Mezzo’s arch is no longer permitted for safety and environmental reasons—boats hold off at a controlled distance.",
+      "best_time": "April–October for regular ferries and frequent boat tours; May–June and September are milder than peak August heat and crowds. Winter brings fewer boats and shorter daylight.",
+      "how_to_get_there": "Ferries and hydrofoils run year-round from Naples and Sorrento to Marina Grande (~30 minutes from Sorrento, about an hour from Naples); summer links also serve the Amalfi Coast and Ischia. From Marina Grande, join a coastal boat tour or take the funicular to Capri town, then walk to Tragara overlooks.",
+      "good_to_know": "OPEN viewpoints on Capri; Faraglioni boat tours operate from Marina Grande (check seasonal schedules). Do not expect to pass through the central arch. Swimming right under the stacks is discouraged due to boat traffic and currents—use designated beach-club or Marina Piccola areas. Wear sturdy shoes for cliff paths.",
+      "official_or_tourism_url": "https://www.capri.com/en/e/the-faraglioni-of-capri",
+      "sources": [
+        "https://www.capri.com/en/e/the-faraglioni-of-capri",
+        "https://www.capri.com/en/",
+        "https://en.wikipedia.org/wiki/Capri_faraglioni"
+      ]
+    },
+    "ad": {
+      "destination_query": "Capri, Italy",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Capri%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Capri%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Capri%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Capri"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-007",
+    "tab": "islands",
+    "name": "Sicily",
+    "short_line": "Mediterranean, Italy",
+    "country": "Italy",
+    "lat": 37.5994,
+    "lng": 14.0154,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Scala_dei_Turchi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-007.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AScala_dei_Turchi.jpg",
+      "license": "Public Domain",
+      "author": "Vegafi",
+      "attribution": "Photo: Vegafi, Public Domain, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Scala dei Turchi.jpg' — Sicily island vista visible; desc: Echelle des Turcs"
+    },
+    "facts": {
+      "one_liner": "Scala dei Turchi’s white marl ‘staircase’ cliffs above turquoise Sicilian water.",
+      "why_go": "The hero shows Sicily’s Scala dei Turchi (Turkish Steps) near Realmonte: dazzling white, wave-sculpted marl terraces stepping down to turquoise Mediterranean water, with tiny figures on the ledges for scale. Visit Sicily describes the cliff between Realmonte and Porto Empedocle (Agrigento province) as soft calcareous-clay marl shaped into sinuous terraces. Geologically it belongs to the white Trubi Formation; the name recalls historic corsair shelter in the bay. Concrete detail: the Comune di Realmonte now runs controlled, time-limited public access with on-site ticket payment and soft-sole footwear rules to protect the fragile marl.",
+      "best_time": "Spring and autumn for milder temperatures and clearer access windows; midsummer heat can trigger temporary closures. Always check Comune notices—rain, strong wind, rough seas, or extreme heat can shut the site the same day.",
+      "how_to_get_there": "Base in Agrigento or Porto Empedocle/Realmonte. Drive Strada Provinciale 68 (Realmonte–Porto Empedocle); paid parking lines the road and near Discesa Majata, then walk beach access points to the official entrance. Closest major rail hub is Agrigento Centrale with local bus/taxi onward.",
+      "good_to_know": "OPEN under controlled municipal access—advance email booking and time slots as published by Comune di Realmonte; entry may be denied for weather or safety. Soft, non-abrasive soles required; do not remove marl or rest camera gear on the rock. Access rules change—verify the latest page on comune.realmonte.ag.it before traveling.",
+      "official_or_tourism_url": "https://www.visitsicily.info/en/scala-dei-turchi/",
+      "sources": [
+        "https://www.visitsicily.info/en/scala-dei-turchi/",
+        "https://www.comune.realmonte.ag.it/it/page/my-scala-dei-turchi-141199-149562",
+        "https://en.wikipedia.org/wiki/Scala_dei_Turchi"
+      ]
+    },
+    "ad": {
+      "destination_query": "Agrigento, Italy",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Agrigento%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Agrigento%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Agrigento%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Agrigento"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-008",
+    "tab": "islands",
+    "name": "Jeju",
+    "short_line": "Jeju Province, South Korea",
+    "country": "South Korea",
+    "lat": 33.4996,
+    "lng": 126.5312,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Seongsan_Ilchulbong%2C_Jeju_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-008.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASeongsan_Ilchulbong%2C_Jeju_Island.jpg",
+      "license": "CC BY 2.0",
+      "author": "Justin De La Ornellas",
+      "attribution": "Photo: Justin De La Ornellas, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Seongsan Ilchulbong, Jeju Island.jpg' — Jeju island vista visible; desc: 제주특별자치도 서귀포시 성산읍에 위치한 성산일출봉"
+    },
+    "facts": {
+      "one_liner": "Seongsan Ilchulbong—Jeju’s seaside tuff cone with a flat green crater rim.",
+      "why_go": "The photo shows Seongsan Ilchulbong (Sunrise Peak) on eastern Jeju: a fortress-like volcanic tuff cone rising from dark volcanic sand and blue water, its summit a flat, grass-crowned crater rim. VisitKorea notes the cone rose from an undersea eruption over 5,000 years ago, later joined to Jeju by sand buildup, with a crater about 600 m across and 90 m deep. UNESCO inscribed it within “Jeju Volcanic Island and Lava Tubes” for its dramatic Surtseyan tuff-cone exposures. Concrete detail: a trail leads to the rim for sunrise views toward Udo Island; seasonal opening hours shift and the site closes the first Monday of each month.",
+      "best_time": "Clear mornings year-round for sunrise; spring and autumn bring milder hiking weather. Summer opens earliest (VisitKorea lists May–August from 04:30); winter days are shorter with later opening.",
+      "how_to_get_there": "Fly into Jeju International Airport (CJU), then bus, taxi, or rental car east to Seongsan-eup, Seogwipo (about 1–1.5 hours). Local buses serve Seongsan Ilchulbong; parking is available near the entrance per VisitKorea.",
+      "good_to_know": "OPEN / ticketed UNESCO World Heritage component (natural reserve). Last tickets typically one hour before closing; closed the first Monday monthly (or next day if Monday is a holiday). Wear sturdy shoes for the steep rim climb; wind at the summit can be strong. Confirm current hours on Visit Jeju / VisitKorea before dawn attempts.",
+      "official_or_tourism_url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=110731",
+      "sources": [
+        "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=110731",
+        "https://whc.unesco.org/en/list/1264",
+        "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500349"
+      ]
+    },
+    "ad": {
+      "destination_query": "Jeju, South Korea",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Jeju%2C%20South%20Korea&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Jeju%2C%20South%20Korea&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Jeju%2C%20South%20Korea&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Jeju"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-009",
+    "tab": "islands",
+    "name": "Palawan",
+    "short_line": "Palawan Province, Philippines",
+    "country": "Philippines",
+    "lat": 9.8349,
+    "lng": 118.7384,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Limestone_islands_in_Bacuit_Bay%2C_El_Nido%2C_Palawan%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-009.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALimestone_islands_in_Bacuit_Bay%2C_El_Nido%2C_Palawan%2C_Philippines.jpg",
+      "license": "CC BY 4.0",
+      "author": "Vyacheslav Argenberg",
+      "attribution": "Photo: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Limestone islands in Bacuit Bay, El Nido, Palawan, Philippines.jpg' — Palawan island vista visible; desc: Bacuit Bay (Archipelago), El Nido, Palawan, Philippines. Part of minor tectonic Sunda Plate. Islands, islets, karst formations, limestone towers, remote lagoons"
+    },
+    "facts": {
+      "one_liner": "El Nido’s Bacuit Bay—karst limestone islands rising from turquoise Palawan lagoons.",
+      "why_go": "The hero frames Bacuit Bay at El Nido, northern Palawan: calm turquoise lagoon water between steep, vegetation-cloaked limestone karst towers and cliffs. The Philippine Department of Tourism highlights El Nido for towering limestone cliffs, hidden lagoons, and island-hopping, kayaking, and snorkeling among the bay’s islets. Visitors come for that karst-and-lagoon scenery on regulated boat tours rather than a single beach day. Concrete detail: non-resident visitors pay El Nido’s Eco-Tourism Development Fee (ETDF), which helps fund conservation and covers access to standard island-hopping tour zones—keep the receipt for checks.",
+      "best_time": "Dry season roughly December–May for calmer seas and clearer lagoons; June–November brings more rain and possible tour cancellations. Early morning departures beat heat and boat traffic in peak months.",
+      "how_to_get_there": "Fly into El Nido Airport (ENI) with domestic connections, or into Puerto Princesa (PPS) then van/bus ~5–6 hours north. From El Nido town, join accredited island-hopping operators for Bacuit Bay lagoons and beaches; private vans and tricycles cover town transfers.",
+      "good_to_know": "OPEN via municipal tourism rules; use accredited boats and pay the ETDF before tours. Lagoon and site rules (kayak-only zones, no touching coral) are enforced. Pack reef-safe sunscreen and expect limited ATMs/cash needs in town. Card name remains Palawan; the vista is specifically El Nido’s Bacuit Bay.",
+      "official_or_tourism_url": "https://www.tourism.gov.ph/destination/mimaropa/el-nido/",
+      "sources": [
+        "https://www.tourism.gov.ph/destination/mimaropa/el-nido/",
+        "https://elnido.gov.ph/",
+        "https://elnidoetdf.wordpress.com/"
+      ]
+    },
+    "ad": {
+      "destination_query": "El Nido, Philippines",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=El%20Nido%2C%20Philippines&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=El%20Nido%2C%20Philippines&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=El%20Nido%2C%20Philippines&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in El Nido"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-010",
+    "tab": "islands",
+    "name": "Zanzibar",
+    "short_line": "Zanzibar Archipelago, Tanzania",
+    "country": "Tanzania",
+    "lat": -6.1659,
+    "lng": 39.2026,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Beach_at_Matemwe%2C_Kaskazini_A%2C_Unguja_North%2C_Zanzibar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-010.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABeach_at_Matemwe%2C_Kaskazini_A%2C_Unguja_North%2C_Zanzibar.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Mangapwani",
+      "attribution": "Photo: Mangapwani, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Beach at Matemwe, Kaskazini A, Unguja North, Zanzibar.jpg' — Zanzibar spice-island coast/beach vista visible; desc: Zanzibar"
+    },
+    "facts": {
+      "one_liner": "Matemwe’s white-sand lagoon on Unguja, reef line marking deep blue beyond.",
+      "why_go": "The photo shows Matemwe Beach on Unguja’s northeast coast (Zanzibar): broad white sand, a shallow turquoise lagoon, a beached boat, and a white surf line where the fringing reef meets deeper Indian Ocean blue. Matemwe is a fishing and seaweed-farming village in Kaskazini A; its lagoon and proximity to Mnemba Atoll draw snorkelers and divers seeking quieter north-coast beaches than Nungwi. Concrete detail: large tidal ranges expose wide reef flats at low tide—swimming and boat launches work best around higher water, so check local tide tables.",
+      "best_time": "Dry seasons roughly June–October and January–February for reliably sunny beach days; April–May long rains can limit boat trips. Northeast monsoon seas vary—operators pause Mnemba runs when conditions are rough.",
+      "how_to_get_there": "Fly into Abeid Amani Karume International Airport (ZNZ) on Unguja, or ferry from Dar es Salaam to Stone Town, then drive or taxi north-east to Matemwe (about 1–1.5 hours from Stone Town/airport depending on traffic). Beach hotels arrange Mnemba snorkel boats from the shore.",
+      "good_to_know": "OPEN public beach fronting a working village—respect seaweed farms, fishing boats, and local customs (modest dress in the village). Bring water shoes for reef flats. Mnemba Island itself is a private resort; reef snorkeling is by day-trip only with licensed boats. Official destination info: visitzanzibar.go.tz.",
+      "official_or_tourism_url": "https://visitzanzibar.go.tz/",
+      "sources": [
+        "https://visitzanzibar.go.tz/",
+        "https://en.wikipedia.org/wiki/Matemwe",
+        "https://utaliismz.go.tz/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Zanzibar, Tanzania",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Zanzibar%2C%20Tanzania&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Zanzibar%2C%20Tanzania&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Zanzibar%2C%20Tanzania&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Zanzibar"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-011",
+    "tab": "islands",
+    "name": "Tasmania",
+    "short_line": "Australia",
+    "country": "Australia",
+    "lat": -42.0409,
+    "lng": 146.8087,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Wineglass_Bay_from_Lookout_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-011.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AWineglass_Bay_from_Lookout_crop.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "JJ Harrison (https://www.jjharrison.com.au/)",
+      "attribution": "Photo: JJ Harrison (https://www.jjharrison.com.au/), CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Wineglass Bay from Lookout crop.jpg' — Tasmania island vista visible; desc: Wineglass Bay from Lookout, Freycinet National Park, Tasmania, Australia"
+    },
+    "facts": {
+      "one_liner": "Freycinet’s Wineglass Bay: white crescent beach and turquoise water under the Hazards granite.",
+      "why_go": "The hero photo is the classic Wineglass Bay Lookout vista in Freycinet National Park—a tight white-sand crescent and turquoise shallows framed by the green granite Hazards, with Hazards Beach’s pale water visible beyond the forested isthmus. Tasmania Parks and Discover Tasmania call this one of the island’s most celebrated lookout views, reached by a well-built saddle trail past granite boulders. From the platforms you look straight down into the wineglass curve that defines Freycinet’s east-coast postcard, sometimes with dolphins or whales in the bay.",
+      "best_time": "October–April for longer daylight and warmer swimming weather on Tasmania’s east coast; shoulder months are quieter on the lookout track. Start early for parking and softer light on the white sand. Check Parks Tasmania alerts before you go—track works can briefly close sections.",
+      "how_to_get_there": "Drive about 2.5–3 hours from Hobart or Launceston via the Tasman Highway (A3), then Coles Bay Road (C302) through Coles Bay to the Freycinet Walking Tracks car park. The Wineglass Bay Lookout is a Grade 3 walk: about 2.6 km return and 1–1.5 hours, steep with many steps. A valid Tasmanian parks pass is required.",
+      "good_to_know": "PUBLIC / TICKETED PARK — Freycinet National Park needs a parks pass; the lookout trail is open on foot from the walking-tracks car park. Stay within barriers on hazardous cliffs; sturdy footwear for steep granite and gravel. Drinking water is scarce in the park—refill at the visitor centre. Unpatrolled beaches; supervise children.",
+      "official_or_tourism_url": "https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/wineglass-bay-lookout",
+      "sources": [
+        "https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/wineglass-bay-lookout",
+        "https://www.discovertasmania.com.au/regions/east-coast/wineglass-bay/",
+        "https://parks.tas.gov.au/explore-our-parks/freycinet-national-park/wineglass-bay"
+      ]
+    },
+    "ad": {
+      "destination_query": "Freycinet, Tasmania",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Freycinet%2C%20Tasmania&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Freycinet%2C%20Tasmania&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Freycinet%2C%20Tasmania&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Freycinet"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-012",
+    "tab": "islands",
+    "name": "Madagascar",
+    "short_line": "Indian Ocean, Madagascar",
+    "country": "Madagascar",
+    "lat": -18.7669,
+    "lng": 46.8691,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Avenue_of_Baobabs%2C_Madagascar_%2822558139260%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-012.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAvenue_of_Baobabs%2C_Madagascar_%2822558139260%29.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Rod Waddington",
+      "attribution": "Photo: Rod Waddington, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Avenue of Baobabs, Madagascar (22558139260).jpg' — Madagascar island vista visible; desc: Madagascar"
+    },
+    "facts": {
+      "one_liner": "Menabe’s Avenue of the Baobabs: giant Grandidier’s baobabs lining a red dirt road near Morondava.",
+      "why_go": "The hero photo shows Madagascar’s Avenue of the Baobabs—massive grey trunks of endemic Grandidier’s baobabs (Adansonia grandidieri) rising over dry grass beside an unpaved road, with a zebu cart for scale. The stand lines Route Nationale 8 between Morondava and Belon’i Tsiribihina in the Menabe region, about 20 km from Morondava. Conservation status as a natural monument followed temporary protection in 2007 and fuller designation in 2015; Fanamby and local tourism materials still stress the trees’ vulnerability to fire, farming, and deforestation.",
+      "best_time": "Dry season (roughly May–October) for easier road access and clearer skies; sunrise and sunset are the classic photo windows when trunks glow against the sky. Rainy-season mud can slow the RN8 approach—allow extra time or a 4WD.",
+      "how_to_get_there": "Fly or travel overland to Morondava (Menabe), then continue about 20 km northeast along the unpaved RN8 toward Belo sur Tsiribihina. Hire a taxi-brousse, private car, or guided tour from Morondava; the avenue is a public roadside stretch with parking areas for vehicles.",
+      "good_to_know": "PUBLIC / OPEN roadside natural monument — pedestrian viewing along the public road; vehicle parking fees may apply in cash (Ariary). No formal national-park gate like Isalo, but it is a protected natural monument—stay off roots, do not climb the trees, and support local vendors. Bring small bills; facilities are limited.",
+      "official_or_tourism_url": "https://madagascar-tourisme.com/fr/la-destination/le-sud-ouest/morondava/",
+      "sources": [
+        "https://madagascar-tourisme.com/fr/la-destination/le-sud-ouest/morondava/",
+        "https://en.wikipedia.org/wiki/Avenue_of_the_Baobabs",
+        "https://avenueofthebaobabs.com/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Morondava, Madagascar",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Morondava%2C%20Madagascar&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Morondava%2C%20Madagascar&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Morondava%2C%20Madagascar&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Morondava"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-013",
+    "tab": "islands",
+    "name": "Iceland",
+    "short_line": "North Atlantic, Iceland",
+    "country": "Iceland",
+    "lat": 64.9631,
+    "lng": -19.0208,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Reynisfjara_and_Reynisdrangar%2C_Iceland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-013.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AReynisfjara_and_Reynisdrangar%2C_Iceland.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Martin Falbisoner",
+      "attribution": "Photo: Martin Falbisoner, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Reynisfjara and Reynisdrangar, Iceland.jpg' — Iceland island vista visible; desc: The beach of Reynisfjara and Reynisdrangar, basalt sea stacks, as seen from Dyrhólaey, Iceland."
+    },
+    "facts": {
+      "one_liner": "South-coast Reynisfjara: black volcanic sand, green Reynisfjall cliffs, and Reynisdrangar sea stacks.",
+      "why_go": "The hero photo looks east from the Dyrhólaey side toward Reynisfjara’s long black volcanic beach, the green-topped Reynisfjall cliff, and the jagged Reynisdrangar basalt stacks standing offshore—Iceland’s classic south-coast island silhouette. The contrast of jet sand, white surf, and grey-blue Atlantic is why this stretch near Vík anchors almost every Ring Road itinerary. SafeTravel and the Icelandic Tourist Board stress that beauty here comes with real hazard: sneaker waves, rockfall, and changing coastal erosion.",
+      "best_time": "May–September for longer daylight and easier Ring Road driving; winter brings dramatic light but ice, wind, and shorter days. Check SafeTravel black-beach alerts before you leave—hazard lights and temporary viewpoint-only access are common after storms.",
+      "how_to_get_there": "From Reykjavík take Route 1 (Ring Road) east about 2.5 hours (~180–190 km), then Route 215 to the Reynisfjara car park. Most south-coast day tours stop here. For the elevated Dyrhólaey angle matching many wide shots, use the signed Dyrhólaey turnoff west of the main beach parking.",
+      "good_to_know": "PUBLIC / OPEN with SAFETY CONTROLS — parking and facilities are generally open, but beach access follows on-site yellow/orange/red warnings. Never turn your back on the sea; stay well above the wet sand; obey closures and barriers. After February 2026 erosion, officials have limited walk-down access toward the basalt columns at times—confirm current conditions on SafeTravel and Ferðamálastofa updates.",
+      "official_or_tourism_url": "https://www.ferdamalastofa.is/en/news/reynisfjara-recent-changes-due-to-coastal-erosion",
+      "sources": [
+        "https://safetravel.is/travel-conditions/blackbeach-safety/",
+        "https://www.ferdamalastofa.is/en/news/reynisfjara-recent-changes-due-to-coastal-erosion",
+        "https://www.visiticeland.com/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Vik, Iceland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Vik%2C%20Iceland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Vik%2C%20Iceland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Vik%2C%20Iceland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Vik"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-014",
+    "tab": "islands",
+    "name": "Seychelles",
+    "short_line": "Indian Ocean, Seychelles",
+    "country": "Seychelles",
+    "lat": -4.6796,
+    "lng": 55.492,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Anse_Source_d%27Argent_2-La_Digue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-014.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAnse_Source_d%27Argent_2-La_Digue.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Tobias Alt, Tobi 87",
+      "attribution": "Photo: Tobias Alt, Tobi 87, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Anse Source d'Argent 2-La Digue.jpg' — Seychelles island vista visible; desc: Another spectacular beach of Anse Source d'Argent on the island of La Digue, Seychelles."
+    },
+    "facts": {
+      "one_liner": "La Digue’s Anse Source d’Argent: white sand, turquoise reef water, and sculpted granite boulders.",
+      "why_go": "The hero photo is Anse Source d’Argent on La Digue—powder-white sand, reef-sheltered turquoise shallows, fluted grey granite boulders, and a leaning coconut palm with Praslin’s green silhouette on the horizon. Tourism Seychelles highlights this as one of the archipelago’s most photographed shores. The calm lagoon and boulder coves are the postcard that defines Seychelles for many first-time visitors.",
+      "best_time": "April–May and October–November often balance sun and calmer seas; the southeast tradewind season (roughly June–September) can be windier. Arrive early morning or late afternoon for softer light and fewer day-trippers; watch tides—low water favors boulder wading, higher water favors swimming.",
+      "how_to_get_there": "Fly into Mahé (SEZ), ferry or fly to Praslin, then take the short inter-island ferry to La Digue’s La Passe jetty. From town, bicycle or walk to L’Union Estate on the southwest coast; the beach lies beyond the estate path. Day trips from Praslin are common.",
+      "good_to_know": "TICKETED ACCESS via L’Union Estate — the usual land route is through the former coconut plantation, which charges a day-valid entrance fee (confirm current SCR rates on arrival). The beach itself is a public shoreline once inside estate hours; expect crowds midday. Bring reef-safe sunscreen and respect granite and coral.",
+      "official_or_tourism_url": "https://tourism.gov.sc/?p=6887",
+      "sources": [
+        "https://tourism.gov.sc/?p=6887",
+        "https://www.lonelyplanet.com/points-of-interest/anse-source-d-argent/1402802",
+        "https://en.wikipedia.org/wiki/Anse_Source_d%27Argent"
+      ]
+    },
+    "ad": {
+      "destination_query": "La Digue, Seychelles",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=La%20Digue%2C%20Seychelles&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=La%20Digue%2C%20Seychelles&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=La%20Digue%2C%20Seychelles&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in La Digue"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-015",
+    "tab": "islands",
+    "name": "Phuket",
+    "short_line": "Andaman Sea, Thailand",
+    "country": "Thailand",
+    "lat": 7.8804,
+    "lng": 98.3923,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Phuket_Promthep_Cape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-015.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APhuket_Promthep_Cape.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Ahoerstemeier",
+      "attribution": "Photo: Ahoerstemeier, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Phuket Promthep Cape.jpg' — Phuket island vista visible; desc: Promthep Cape, Phuket. Popular spot for sunset viewing, crowded every evening especially by Thai visitors of Phuket. Phot taken by User:Ahoerstemeier on April 1"
+    },
+    "facts": {
+      "one_liner": "Promthep Cape: Phuket’s southern tip of palms, grassy cliffs, and Andaman Sea sunset views.",
+      "why_go": "The hero photo looks down Promthep Cape (Laem Phromthep)—a grassy ridge lined with tall sugar palms dropping to a rocky Andaman headland, with offshore islands hazed on the horizon. Phuket provincial tourism and Tourism Authority of Thailand list it as the island’s signature southern sunset cape, with steps, paved viewpoints, and the Kanchanaphisek Lighthouse nearby. Midday light already shows the classic palm-and-cape silhouette; evenings draw the biggest crowds.",
+      "best_time": "November–April dry season for clearer sunsets; arrive 45–90 minutes before sunset for parking and a railing spot. Mornings are quieter for the palm-ridge walk. May–October brings more cloud and showers but still open viewpoints.",
+      "how_to_get_there": "From Patong, Kata/Karon, or Phuket Town drive or Grab south toward Rawai and Nai Harn, then follow signs up to Promthep Cape (about 7 km from Rawai per provincial tourism). Scooter, taxi, and tours all reach the free hilltop car park.",
+      "good_to_know": "PUBLIC / OPEN — no entrance fee for the outdoor cape viewpoints; free parking is typical. Lighthouse/museum areas may keep separate daytime hours. Expect heavy sunset crowds and stay back from unfenced cliff edges. Shops and food stalls cluster near the lot.",
+      "official_or_tourism_url": "https://www.tourismthailand.org/Attraction/laem-phromthep",
+      "sources": [
+        "https://www.tourismthailand.org/Attraction/laem-phromthep",
+        "https://tourinformation-phuket.com/promthep-cape-phuket/",
+        "https://en.wikipedia.org/wiki/Prom_Thep_Cape"
+      ]
+    },
+    "ad": {
+      "destination_query": "Phuket, Thailand",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Phuket%2C%20Thailand&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Phuket%2C%20Thailand&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Phuket%2C%20Thailand&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Phuket"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-016",
+    "tab": "islands",
+    "name": "Madeira",
+    "short_line": "Atlantic, Portugal",
+    "country": "Portugal",
+    "lat": 32.7607,
+    "lng": -16.9595,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Steilklippe_Cabo_Girao_-_Madeira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-016.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASteilklippe_Cabo_Girao_-_Madeira.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Otto Domes",
+      "attribution": "Photo: Otto Domes, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Steilklippe Cabo Girao - Madeira.jpg' — Madeira island vista visible; desc: View from the 580-meter-high cliff Cabo Girao of the terraced fields along the shore near Câmara de Lobos on Madeira."
+    },
+    "facts": {
+      "one_liner": "High above Cabo Girão: sheer volcanic cliff dropping to fajã terraces and the Atlantic.",
+      "why_go": "The hero looks nearly straight down Cabo Girão’s reddish volcanic face to the cultivated fajã at the cliff foot—neat green and brown plots, a thin pebble shore, and deep Atlantic blue with white surf. Visit Madeira puts the promontory at about 580 metres and notes the fajãs (including Fajã do Cabo Girão) as fertile seaside strips once reached mainly on foot or by boat; a cable car from Rancho now links visitors to those terraces. This is the raw cliff-and-coast Madeira vista, not the crowded glass skywalk platform.",
+      "best_time": "Year-round mild south-coast weather; clear mornings give the longest Atlantic horizon. Low cloud can sock in the cliff—check local forecasts. Miradouro hours are commonly listed daily about 08:00–20:00.",
+      "how_to_get_there": "Base in Funchal or Câmara de Lobos. Drive or take a bus/taxi west along the south coast to Estrada do Cabo Girão (Câmara de Lobos). The cliff-top miradouro is a short walk from parking; the fajã below is reached separately via the Fajãs do Cabo Girão (Rancho) cable car.",
+      "good_to_know": "PUBLIC / OPEN (ticketed miradouro) — Visit Madeira directs cliff-top entry payment via the regional SIMplifica portal; children 12 and under and Madeira residents are listed as exempt (confirm current rules). The glass skywalk is at the same viewpoint complex but is not what this hero shows. Cable-car hours and fajã access are separate—check Visit Madeira before you go. No ticket prices listed here.",
+      "official_or_tourism_url": "https://visitmadeira.com/en/where-to-go/madeira/south-coast/camara-de-lobos/cabo-girao/",
+      "sources": [
+        "https://visitmadeira.com/en/where-to-go/madeira/south-coast/camara-de-lobos/cabo-girao/",
+        "https://visitmadeira.com/en/where-to-go/madeira/south-coast/camara-de-lobos/faja-do-cabo-girao/",
+        "https://geodiversidade.madeira.gov.pt/index.php/en/geosites/madeira/camara-de-lobos/cl02-miradouro-do-cabo-girao",
+        "https://www.visitportugal.com/en/content/cabo-girao"
+      ]
+    },
+    "ad": {
+      "destination_query": "Funchal, Madeira",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Funchal%2C%20Madeira&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Funchal%2C%20Madeira&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Funchal%2C%20Madeira&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Funchal"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:59:00-05:00",
+      "audit_notes": "RE-AUDIT PASS: high-angle Cabo Girão sheer cliff + fajã terraces + Atlantic (Otto Domes CC BY-SA 4.0). No skywalk/crowds. Facts/ad aligned. HARD PHOTO BAR clear.",
+      "reject_reason": ""
+    }
+  },
+  {
+    "id": "islands-017",
+    "tab": "islands",
+    "name": "Isle of Skye",
+    "short_line": "Inner Hebrides, United Kingdom",
+    "country": "United Kingdom",
+    "lat": 57.5359,
+    "lng": -6.2263,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Old_Man_of_Storr%2C_Isle_of_Skye%2C_Scotland_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-017.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AOld_Man_of_Storr%2C_Isle_of_Skye%2C_Scotland_-_Diliff.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Diliff",
+      "attribution": "Photo: Diliff, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Old Man of Storr, Isle of Skye, Scotland - Diliff.jpg' — Isle of Skye island vista visible; desc: The Old Man of Storr and surrounding landscape on the Trotternish Peninsula of the Isle of Skye in Scotland."
+    },
+    "facts": {
+      "one_liner": "Trotternish’s Old Man of Storr: basalt pinnacles on a steep green escarpment above Skye.",
+      "why_go": "The hero photo shows the Old Man of Storr and neighboring rock pinnacles rising from a vivid green Trotternish hillside under heavy Skye cloud—the island’s most recognizable landform. Official Storr site guidance places the walk about 7 miles north of Portree on the Trotternish Peninsula, with paths climbing from the A855 car park toward the basalt spires. The moody overcast light in this frame is typical: soft, even illumination on grass, scree, and jagged rock.",
+      "best_time": "May–September for longer daylight and usually milder walking weather; still pack waterproofs—Skye changes fast. Early morning or evening means fewer people on the path. Winter visits need careful ice and wind judgment.",
+      "how_to_get_there": "From Portree take the A855 toward Staffin (~15 minutes). Park in the official Storr car park (chargeable; do not use soft verges). Walk the signed path uphill—official guidance suggests allowing at least about 2 hours return depending on fitness and photo stops. Stagecoach bus 57A from Portree also stops at the Storr (check current timetables; Sunday service may differ).",
+      "good_to_know": "PUBLIC ACCESS / PAID PARKING — open countryside under the Scottish Outdoor Access Code; stay on paths, close gates, leave no litter. Wear supportive footwear for steep, rocky, often muddy ground. Weather can include wind, rain, and low cloud in one day. Mountain rescue is via 999 if needed—carry layers, water, and a charged phone.",
+      "official_or_tourism_url": "https://thestorr.com/plan-your-visit/",
+      "sources": [
+        "https://thestorr.com/plan-your-visit/",
+        "https://www.visitscotland.com/info/see-do/the-storr-p916981",
+        "https://www.isleofskye.com/skye-guide/top-ten-skye/old-man-of-storr"
+      ]
+    },
+    "ad": {
+      "destination_query": "Portree, Isle of Skye",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Portree%2C%20Isle%20of%20Skye&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Portree%2C%20Isle%20of%20Skye&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Portree%2C%20Isle%20of%20Skye&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Portree"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-018",
+    "tab": "islands",
+    "name": "Kauai",
+    "short_line": "Hawaiian Islands, United States",
+    "country": "United States",
+    "lat": 22.0964,
+    "lng": -159.5261,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Na_Pali_Coast_Kauai_Hawaii_%2832406276598%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-018.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ANa_Pali_Coast_Kauai_Hawaii_%2832406276598%29.jpg",
+      "license": "CC BY 2.0",
+      "author": "dronepicr",
+      "attribution": "Photo: dronepicr, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Na Pali Coast Kauai Hawaii (32406276598).jpg' — Kauai island vista visible; desc: Na Pali Coast Kauai Hawaii"
+    },
+    "facts": {
+      "one_liner": "Nā Pali’s fluted cliffs: turquoise Pacific, narrow sand, and knife-edge ridges on Kauai’s north shore.",
+      "why_go": "The hero photo is the Nā Pali Coast from the water—steep fluted cliffs rising from a narrow golden beach, a band of tropical forest, red volcanic soil, and a thin waterfall sliding toward the shore. Hawaiʻi DLNR State Parks describes these pali as deep, narrow valleys ending abruptly at the sea, carved by streams and surf. Boat or air angles like this are how most visitors see the roadless wilderness stretch that defines Kauai’s northwest shore.",
+      "best_time": "May–September generally brings calmer seas for boat and kayak tours along the coast; winter swells can cancel ocean trips. For Kalalau Trail day hikes via Hāʻena, reserve entry early—north-shore access is capped. Mornings often mean smoother water and clearer cliff light.",
+      "how_to_get_there": "Fly into Līhuʻe (LIH). View the fluted coast by permitted boat tour, helicopter, or (for hikers) via Hāʻena State Park to the Kalalau Trail. Hāʻena entry requires advance reservations for non-residents except valid Nāpali camping permit holders. There is no continuous coastal highway into the wilderness park.",
+      "good_to_know": "PROTECTED STATE WILDERNESS — Nāpali Coast State Wilderness Park; overnight Kalalau camping needs a State Parks permit. Day access through Hāʻena is reservation-controlled (GoHaena). Commercial drop-offs at Kalalau/Miloliʻi are not allowed. Stay on trails; clean gear to help limit Rapid ʻŌhiʻa Death spread.",
+      "official_or_tourism_url": "https://dlnr.hawaii.gov/dsp/parks/kauai/napali-coast-state-wilderness-park/",
+      "sources": [
+        "https://dlnr.hawaii.gov/dsp/parks/kauai/napali-coast-state-wilderness-park/",
+        "https://dlnr.hawaii.gov/dsp/hiking/kauai/kalalau-trail/",
+        "https://www.gohaena.com/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Lihue, Kauai",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Lihue%2C%20Kauai&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Lihue%2C%20Kauai&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Lihue%2C%20Kauai&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Lihue"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-019",
+    "tab": "islands",
+    "name": "Lofoten",
+    "short_line": "Nordland, Norway",
+    "country": "Norway",
+    "lat": 68.21,
+    "lng": 13.75,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Reine%2C_Lofoten%2C_Norway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-019.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AReine%2C_Lofoten%2C_Norway.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Christoph Strässler",
+      "attribution": "Photo: Christoph Strässler, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Reine, Lofoten, Norway.jpg' — Lofoten island vista visible; desc: Reine, Lofoten"
+    },
+    "facts": {
+      "one_liner": "Reine in Lofoten: red rorbuer, glassy Reinefjorden, and snow-dusted peaks above the Arctic fishing village.",
+      "why_go": "The hero photo is Reine on Moskenesøya—compact clusters of red and white wooden houses and rorbuer mirrored in still Reinefjorden, with jagged snow-dusted mountains (including the Olstinden massif) rising straight from the shore under a clear blue sky. Visit Norway and Visit Lofoten frame this fishing village as one of the archipelago’s signature mountain-meets-sea tableaux. The reflection and working harbor docks are why Reine anchors Lofoten photography itineraries.",
+      "best_time": "June–August for midnight sun, hiking, and easier road travel; September–March for northern lights (short days, winter weather). May and September can be quieter shoulder windows. Strong wind and rapid weather shifts are year-round—pack layers.",
+      "how_to_get_there": "Reach Lofoten via Leknes (LKN) or Svolvær (SVJ) airports, Evenes (EVE) plus a long E10 drive, or the Bodø–Moskenes car ferry then a short drive on the E10 to Reine. The E10 (King Olav V’s road) is the main spine through the islands; buses serve the corridor (check Entur / Reis Nordland).",
+      "good_to_know": "PUBLIC VILLAGE / OPEN — Reine is a lived-in fishing community, not a gated attraction; respect private property and narrow roads. Many visitors stay in converted rorbuer. Follow the Lofoten code of conduct (camp in designated areas, leave no trace). Summer open-fire bans often apply.",
+      "official_or_tourism_url": "https://www.visitnorway.com/places-to-go/northern-norway/the-lofoten-islands/",
+      "sources": [
+        "https://www.visitnorway.com/places-to-go/northern-norway/the-lofoten-islands/plan-your-trip/",
+        "https://visitlofoten.com/en/destination/reine/",
+        "https://www.visitnorway.com/places-to-go/northern-norway/the-lofoten-islands/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Reine, Lofoten",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Reine%2C%20Lofoten&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Reine%2C%20Lofoten&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Reine%2C%20Lofoten&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Reine"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  },
+  {
+    "id": "islands-020",
+    "tab": "islands",
+    "name": "Galápagos",
+    "short_line": "Pacific, Ecuador",
+    "country": "Ecuador",
+    "lat": -0.9538,
+    "lng": -90.9656,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bartolome_Island%2C_Galapagos_%2850122421803%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-020.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABartolome_Island%2C_Galapagos_%2850122421803%29.jpg",
+      "license": "CC BY 2.0",
+      "author": "kuhnmi",
+      "attribution": "Photo: kuhnmi, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Bartolome Island, Galapagos (50122421803).jpg' — Galápagos island vista visible; desc: Bartolome Island, Galapagos"
+    },
+    "facts": {
+      "one_liner": "Bartolomé’s summit view: Pinnacle Rock, twin turquoise coves, and Santiago’s lava beyond.",
+      "why_go": "The hero photo is the classic Bartolomé Island lookout—Pinnacle Rock rising beside a turquoise cove, a sandy isthmus with mangroves, twin crescent beaches, and Santiago’s dark lava and cinder cones across Sullivan Bay. Galápagos Conservancy notes Bartolomé as among the most visited and photographed islands, reached by a ~600 m stair/boardwalk climb to a 114 m summit built to protect fragile volcanic soils. Penguins, turtles, and snorkeling around Pinnacle Rock are the usual marine follow-on at the authorized northern beach.",
+      "best_time": "Dry season (roughly June–December) often means cooler air and choppier seas; warm season (roughly December–May) brings calmer water for snorkeling. Site visits run on park schedules with naturalist guides—book through an authorized operator rather than planning a DIY landing.",
+      "how_to_get_there": "Fly into Baltra (GPS) or San Cristóbal (SCY), clear Galápagos entry requirements, then join a licensed day tour or cruise that includes Bartolomé. There is no independent drop-off; landings are by dinghy with an accredited guide. Common overnight bases are Puerto Ayora (Santa Cruz) or liveaboard itineraries.",
+      "good_to_know": "GUIDED PARK ACCESS ONLY — Galápagos National Park visitor sites require an authorized naturalist guide and operator; follow marked trails, keep distance from wildlife, and obey swim rules (northern beach snorkeling allowed; southern beach typically no swimming). Summit stairs protect erosion-prone ash—stay on the boardwalk. Confirm current park entry rules and transit control card requirements before travel.",
+      "official_or_tourism_url": "https://www.galapagos.org/about_galapagos/the-islands/bartolome-island/",
+      "sources": [
+        "https://www.galapagos.org/about_galapagos/the-islands/bartolome-island/",
+        "https://www.gobiernogalapagos.gob.ec/reglas-de-visita-del-parque-nacional-galapagos-y-reserva-marina-de-galapagos/",
+        "https://galapagos.gob.ec/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Puerto Ayora, Galapagos",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Puerto%20Ayora%2C%20Galapagos&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Puerto%20Ayora%2C%20Galapagos&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Puerto%20Ayora%2C%20Galapagos&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Puerto Ayora"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-23T19:53:00-05:00"
+    }
+  }
+]
