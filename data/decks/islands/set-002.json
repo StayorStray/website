@@ -1,0 +1,133 @@
+{
+  "id": "islands-set-002",
+  "tab": "islands",
+  "label": "Islands — Set 2 (021–040)",
+  "card_ids": [
+    "islands-021",
+    "islands-022",
+    "islands-023",
+    "islands-024",
+    "islands-025",
+    "islands-026",
+    "islands-027",
+    "islands-028",
+    "islands-029",
+    "islands-030",
+    "islands-031",
+    "islands-032",
+    "islands-033",
+    "islands-034",
+    "islands-035",
+    "islands-036",
+    "islands-037",
+    "islands-038",
+    "islands-039",
+    "islands-040"
+  ],
+  "count": 20,
+  "auditor": "20/20 approved 2026-09-24 (Accuracy Auditor Islands fill 021–040; 025 Hvar remake re-PASS)",
+  "notes": "Thin-tab fill. Hvar 025 uses Jeremy Couture harbour remake; prior Tihany Hungary reject cleared.",
+  "archived_at": "2026-09-24T05:32:43-05:00",
+  "cards": [
+    {
+      "id": "islands-021",
+      "name": "Mykonos",
+      "country": "Greece"
+    },
+    {
+      "id": "islands-022",
+      "name": "Corsica",
+      "country": "France"
+    },
+    {
+      "id": "islands-023",
+      "name": "Malta",
+      "country": "Malta"
+    },
+    {
+      "id": "islands-024",
+      "name": "Cyprus",
+      "country": "Cyprus"
+    },
+    {
+      "id": "islands-025",
+      "name": "Hvar",
+      "country": "Croatia"
+    },
+    {
+      "id": "islands-026",
+      "name": "Ibiza",
+      "country": "Spain"
+    },
+    {
+      "id": "islands-027",
+      "name": "Tenerife",
+      "country": "Spain"
+    },
+    {
+      "id": "islands-028",
+      "name": "São Miguel",
+      "country": "Portugal"
+    },
+    {
+      "id": "islands-029",
+      "name": "Faroe Islands",
+      "country": "Faroe Islands"
+    },
+    {
+      "id": "islands-030",
+      "name": "Vancouver Island",
+      "country": "Canada"
+    },
+    {
+      "id": "islands-031",
+      "name": "Yakushima",
+      "country": "Japan"
+    },
+    {
+      "id": "islands-032",
+      "name": "Koh Samui",
+      "country": "Thailand"
+    },
+    {
+      "id": "islands-033",
+      "name": "Boracay",
+      "country": "Philippines"
+    },
+    {
+      "id": "islands-034",
+      "name": "Lombok",
+      "country": "Indonesia"
+    },
+    {
+      "id": "islands-035",
+      "name": "Moorea",
+      "country": "French Polynesia"
+    },
+    {
+      "id": "islands-036",
+      "name": "Fiji (Mamanuca)",
+      "country": "Fiji"
+    },
+    {
+      "id": "islands-037",
+      "name": "K'gari (Fraser Island)",
+      "country": "Australia"
+    },
+    {
+      "id": "islands-038",
+      "name": "Saint Lucia",
+      "country": "Saint Lucia"
+    },
+    {
+      "id": "islands-039",
+      "name": "Barbados",
+      "country": "Barbados"
+    },
+    {
+      "id": "islands-040",
+      "name": "Réunion",
+      "country": "France"
+    }
+  ]
+}

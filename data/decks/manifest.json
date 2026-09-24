@@ -625,6 +625,73 @@
         }
       ],
       "next": "Honest depth 40; Islands 021–040 next after Landmarks Pages live"
+    },
+    "islands": {
+      "live_file": "data/islands.json",
+      "archive_dir": "data/decks/islands/",
+      "approved_count": 40,
+      "catalog_target": 100,
+      "sets": [
+        {
+          "id": "islands-set-001",
+          "file": "set-001.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "islands-001",
+            "islands-002",
+            "islands-003",
+            "islands-004",
+            "islands-005",
+            "islands-006",
+            "islands-007",
+            "islands-008",
+            "islands-009",
+            "islands-010",
+            "islands-011",
+            "islands-012",
+            "islands-013",
+            "islands-014",
+            "islands-015",
+            "islands-016",
+            "islands-017",
+            "islands-018",
+            "islands-019",
+            "islands-020"
+          ]
+        },
+        {
+          "id": "islands-set-002",
+          "file": "set-002.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "islands-021",
+            "islands-022",
+            "islands-023",
+            "islands-024",
+            "islands-025",
+            "islands-026",
+            "islands-027",
+            "islands-028",
+            "islands-029",
+            "islands-030",
+            "islands-031",
+            "islands-032",
+            "islands-033",
+            "islands-034",
+            "islands-035",
+            "islands-036",
+            "islands-037",
+            "islands-038",
+            "islands-039",
+            "islands-040"
+          ]
+        }
+      ],
+      "next": "Islands 041–060 toward 100",
+      "scale_target_met": false,
+      "mvp_ready": true
     }
   },
   "other_tabs": [
@@ -644,5 +711,5 @@
     "stray_key": "sos_stray_list",
     "scope": "on-device localStorage only; keyed by place id; survives daily rotation"
   },
-  "updated_at": "2026-09-24T05:17:23-05:00"
+  "updated_at": "2026-09-24T05:33:40-05:00"
 }
