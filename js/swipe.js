@@ -355,7 +355,7 @@
     if (!nav) return;
     const root = document.body.dataset.assetRoot || './';
     const pagePrefix = root === './' ? 'pages/' : '';
-    nav.innerHTML = getTabs().map(function (t) {
+    const items = getTabs().map(function (t) {
       const href = pagePrefix + t.slug + '.html';
       const cur = t.slug === activeSlug ? ' aria-current="page"' : '';
       const feat = t.featured ? 'featured' : '';
@@ -370,7 +370,18 @@
         t.label +
         '</a></li>'
       );
-    }).join('');
+    });
+    const wheelHref = pagePrefix + 'location-randomizer.html';
+    const wheelCur =
+      activeSlug === 'location-randomizer' ? ' aria-current="page"' : '';
+    items.push(
+      '<li><a class="tab-nav-wheel"' +
+        wheelCur +
+        ' href="' +
+        wheelHref +
+        '">Location Randomizer</a></li>'
+    );
+    nav.innerHTML = items.join('');
   }
 
 
@@ -885,6 +896,7 @@
     migrateLegacyCounts();
     const tab = document.body.dataset.tab || 'hidden-gems';
     const showHome = document.body.dataset.showHome === 'true';
+    const isWheelPage = tab === 'location-randomizer';
     renderTabNav(tab);
     updateStatsUI();
     ensureListPanel();
@@ -895,6 +907,17 @@
 
     const disclosure = document.getElementById('affiliate-disclosure');
     if (disclosure) disclosure.textContent = t('disclosure');
+
+    if (isWheelPage) {
+      if (I18n() && I18n().onChange) {
+        I18n().onChange(function () {
+          renderTabNav(tab);
+          updateStatsUI();
+          if (I18n().applyChrome) I18n().applyChrome && I18n().applyChrome();
+        });
+      }
+      return;
+    }
 
     const deck = new Deck({ tab: tab });
     window.__sosDeck = deck;

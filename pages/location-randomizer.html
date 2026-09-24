@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Location Randomizer — Stay or Stray</title>
+  <meta name="description" content="Spin a prize wheel over real, Auditor-approved places. Stay or stray." />
+  <link rel="stylesheet" href="../css/site.css" />
+<script nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1" data-cmp-ab="2">
+  (function () {
+      var script = document.createElement("script");
+      script.async = 1;
+      script.setAttribute("data-cmp-ab","2");
+      script.src = 'https://emrld.ltd/NTc2OTkz.js?t=576993';
+      document.head.appendChild(script);
+  })();
+</script>
+</head>
+<body data-tab="location-randomizer" data-asset-root="../" data-show-home="true">
+  <header class="site-header">
+    <a class="home-btn" id="home-btn" href="../index.html">Home</a>
+    <div class="brand-block">
+      <a class="brand site-logo" href="../index.html" aria-label="Stay or Stray">
+        <img src="../assets/logo.png" alt="Stay or Stray" width="240" height="75" decoding="async" />
+      </a>
+      <p class="tagline">Swipe a place. Stay or stray.</p>
+    </div>
+    <div class="header-end">
+      <div class="session-stats" id="session-stats" aria-live="polite">Stay <strong>0</strong> · Stray <strong>0</strong></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <nav aria-label="Categories">
+      <ul class="tab-nav" id="tab-nav"></ul>
+    </nav>
+
+    <section class="randomizer" aria-labelledby="randomizer-heading">
+      <h1 id="randomizer-heading" class="deck-section-label">Location Randomizer</h1>
+      <p class="randomizer-intro">Pick where you’re based, filter the deck, then spin for a real place.</p>
+
+      <div class="randomizer-controls">
+        <label class="randomizer-field">
+          <span class="randomizer-label">I’m in</span>
+          <select id="wheel-home-country" class="randomizer-select" aria-label="Home country"></select>
+        </label>
+
+        <fieldset class="randomizer-fieldset">
+          <legend class="randomizer-label">Filter</legend>
+          <div class="randomizer-geo" role="radiogroup" aria-label="Domestic or international">
+            <label class="randomizer-chip"><input type="radio" name="wheel-geo" value="all" checked /> All</label>
+            <label class="randomizer-chip"><input type="radio" name="wheel-geo" value="domestic" /> Domestic</label>
+            <label class="randomizer-chip"><input type="radio" name="wheel-geo" value="international" /> International</label>
+          </div>
+        </fieldset>
+
+        <label class="randomizer-field">
+          <span class="randomizer-label">Category</span>
+          <select id="wheel-category" class="randomizer-select" aria-label="Category"></select>
+        </label>
+      </div>
+
+      <p class="randomizer-pool" id="wheel-pool-status" aria-live="polite">Loading…</p>
+      <p class="randomizer-empty" id="wheel-empty-msg" hidden role="status"></p>
+
+      <div class="wheel-stage">
+        <div class="wheel-pointer" aria-hidden="true"></div>
+        <canvas id="wheel-canvas" class="wheel-canvas" width="360" height="360" role="img" aria-label="Prize wheel"></canvas>
+      </div>
+
+      <div class="randomizer-actions">
+        <button type="button" class="btn btn-stay" id="wheel-spin-btn">Spin</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer" id="footer">
+    <p class="randomizer-reset-wrap">
+      <button type="button" class="btn-undo randomizer-reset" id="wheel-reset-btn">Reset my wheel</button>
+    </p>
+    <nav aria-label="Footer">
+      <a href="../index.html#about">About</a>
+      <a href="../index.html#credits">Photo credits</a>
+      <a href="../index.html">Home</a>
+    </nav>
+    <p class="coffee-support"><a class="coffee-link" id="buy-me-coffee" href="https://buymeacoffee.com/alanhueserb" target="_blank" rel="noopener noreferrer" aria-label="Buy me a coffee"><span class="coffee-link-text" data-i18n="buy_me_coffee">Buy me a coffee</span><img class="coffee-link-icon" src="../assets/buy-me-a-coffee.png" width="44" height="44" alt="" decoding="async" /></a></p>
+    <p class="disclosure" id="affiliate-disclosure">As an affiliate we may earn from qualifying bookings.</p>
+    <p id="about" class="about-blurb"><strong>About Stay or Stray.</strong> Swipe real, visitable places — Stay if you’d go, Stray if you’d skip. Photos are licensed real photographs (no AI images).</p>
+    <p id="legal-disclaimer" class="legal-disclaimer" data-i18n="legal_disclaimer"></p>
+    <p id="credits" class="about-blurb">Phase 0 sample credits appear under each card. Full attributions live in <code>data/hidden-gems.json</code> (Wikimedia Commons CC licenses).</p>
+  </footer>
+
+  <div id="wheel-modal" class="wheel-modal" hidden aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="wheel-modal-name">
+    <div class="wheel-modal-card">
+      <img id="wheel-modal-img" class="wheel-modal-img" alt="" />
+      <div class="wheel-modal-body">
+        <h2 id="wheel-modal-name" class="wheel-modal-name"></h2>
+        <p id="wheel-modal-line" class="wheel-modal-line"></p>
+        <p id="wheel-modal-facts" class="wheel-modal-facts"></p>
+        <p id="wheel-modal-credit" class="wheel-modal-credit"></p>
+        <a id="wheel-modal-hotel" class="wheel-modal-hotel" href="#" target="_blank" rel="noopener noreferrer">Find a stay</a>
+        <div class="wheel-modal-actions">
+          <button type="button" class="btn btn-stray" id="wheel-modal-remove">Remove from my wheel</button>
+          <button type="button" class="btn btn-stay" id="wheel-modal-again">Spin again</button>
+          <button type="button" class="btn-undo" id="wheel-modal-close">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="../config/affiliates.js"></script>
+  <script src="../js/i18n.js"></script>
+  <script src="../js/swipe.js"></script>
+  <script src="../js/wheel.js"></script>
+</body>
+</html>
