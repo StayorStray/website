@@ -142,10 +142,6 @@
             <input type="checkbox" id="ack-paid-listing" name="ack_paid_listing" value="1" required />
             <span data-i18n="submit_agree_paid_listing">I understand payment does not equal live — the Accuracy Auditor still gates the card, and the charge stays either way.</span>
           </label>
-          <label class="submit-check">
-            <input type="checkbox" id="ack-sales-final" name="ack_sales_final" value="1" required />
-            <span data-i18n="submit_sales_final">All sales are final. No refunds.</span>
-          </label>
         </fieldset>
 
         <p class="submit-disclaimer" data-i18n="submit_disclaimer">Paid does not equal live. Accuracy Auditor gates every listing before it appears. All sales are final — no refunds if the card is rejected or never goes live. This form opens an email draft to our notify inbox until Stripe checkout is wired.</p>
@@ -270,7 +266,7 @@
     }
 
     function acksChecked() {
-      return ['ack-license', 'ack-real-place', 'ack-paid-listing', 'ack-sales-final'].every(function (id) {
+      return ['ack-license', 'ack-real-place', 'ack-paid-listing'].every(function (id) {
         var el = document.getElementById(id);
         return el && el.checked;
       });
@@ -367,7 +363,7 @@
         'pin_7d: ' + (pin ? 'yes' : 'no'),
         'Estimated total (USD): $' + total,
         '',
-        'Acks: license=yes; real_place=yes; paid_listing=yes; sales_final=yes',
+        'Acks: license=yes; real_place=yes; paid_listing=yes',
         'Note: paid does not equal live. Accuracy Auditor gates; pin clock starts at go-live.',
         'All sales are final. No refunds.'
       ].join('\n');
