@@ -26,6 +26,10 @@
       searchTemplate:
         'https://www.booking.com/searchresults.html?ss={destination}&aid={affiliateId}',
     },
+    klook: {
+      sidebarUrl: 'https://klook.tpx.gr/cVdJs2X5',
+      widgetSrc: 'https://tpemb.com/content?currency=USD&trs=576993&shmarker=779952&locale=en&city_id=2&category=4&amount=3&powered_by=true&campaign_id=137&promo_id=4497',
+    },
     ctaLabelTemplate: 'Find a stay in {name}',
     disclosure: 'As an affiliate we may earn from qualifying bookings.',
   };
@@ -72,6 +76,17 @@
     );
   }
 
+
+  function getKlookSidebarUrl() {
+    const k = affiliates.klook;
+    return k && k.sidebarUrl ? String(k.sidebarUrl) : '';
+  }
+
+  function getKlookWidgetSrc() {
+    const k = affiliates.klook;
+    return k && k.widgetSrc ? String(k.widgetSrc) : '';
+  }
+
   global.StayOrStrayAffiliates = {
     affiliates,
     fillTemplate,
@@ -79,5 +94,7 @@
     buildPrimaryDeeplink,
     ctaLabel,
     hasLiveAffiliateIds,
+    getKlookSidebarUrl,
+    getKlookWidgetSrc,
   };
 })(typeof window !== 'undefined' ? window : globalThis);

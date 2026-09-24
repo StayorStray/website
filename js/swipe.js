@@ -412,6 +412,46 @@
     return t('ad_cta', { name: name });
   }
 
+
+  function klookSidebarUrl() {
+    const Aff = window.StayOrStrayAffiliates;
+    if (Aff && typeof Aff.getKlookSidebarUrl === 'function') {
+      return Aff.getKlookSidebarUrl() || '';
+    }
+    const k = Aff && Aff.affiliates && Aff.affiliates.klook;
+    return k && k.sidebarUrl ? String(k.sidebarUrl) : '';
+  }
+
+  function klookWidgetSrc() {
+    const Aff = window.StayOrStrayAffiliates;
+    if (Aff && typeof Aff.getKlookWidgetSrc === 'function') {
+      return Aff.getKlookWidgetSrc() || '';
+    }
+    const k = Aff && Aff.affiliates && Aff.affiliates.klook;
+    return k && k.widgetSrc ? String(k.widgetSrc) : '';
+  }
+
+  function klookRailMarkup(variant) {
+    const url = klookSidebarUrl();
+    if (!url && !klookWidgetSrc()) return '';
+    const cls = 'klook-rail klook-rail--' + (variant || 'desktop');
+    const fallback = url
+      ? '<a class="klook-cta klook-fallback" href="' +
+        escapeHtml(url) +
+        '" target="_blank" rel="noopener sponsored nofollow">' +
+        'Find experiences →</a>'
+      : '';
+    return (
+      '<aside class="' +
+      cls +
+      '" aria-label="Things to do nearby">' +
+      '<p class="klook-kicker">Things to do nearby</p>' +
+      '<div class="klook-widget-mount" data-klook-mount></div>' +
+      fallback +
+      '</aside>'
+    );
+  }
+
   /** First two sentences for small-screen collapse; rest behind "More". */
   function splitWhyGo(text) {
     const raw = String(text || '').trim();
@@ -602,7 +642,8 @@
             })
           ) +
           '</p>' +
-          '</aside>'
+          '</aside>' +
+          klookRailMarkup('mobile')
         : '';
 
     const cls = opts.className || 'card';
@@ -614,6 +655,7 @@
       '"' +
       idAttr +
       '>' +
+      '<div class="photo-rail-row">' +
       '<div class="photo-stage"' +
       (opts.interactive !== false ? ' id="photo-stage"' : '') +
       '>' +
@@ -631,6 +673,8 @@
       escapeHtml(card.short_line || card.country || '') +
       '</p>' +
       '</div></div>' +
+      (opts.interactive !== false ? klookRailMarkup('desktop') : '') +
+      '</div>' +
       actions +
       details +
       '</article>'
@@ -739,6 +783,20 @@
 
     this.bindSwipe(document.getElementById('photo-stage'));
 
+    this.root.querySelectorAll('.klook-rail').forEach(function (el) {
+      ['click', 'pointerdown', 'touchstart'].forEach(function (evt) {
+        el.addEventListener(
+          evt,
+          function (e) {
+            e.stopPropagation();
+          },
+          { passive: true }
+        );
+      });
+    });
+
+    this.mountKlookWidget();
+
     const stayBtn = document.getElementById('btn-stay');
     if (stayBtn) stayBtn.focus({ preventScroll: true });
 
@@ -747,6 +805,56 @@
         n: this.index + 1,
         total: this.cards.length,
         name: card.name,
+      });
+    }
+  };
+
+
+  Deck.prototype.mountKlookWidget = function () {
+    if (!this.root) return;
+    const src = klookWidgetSrc();
+    // Clear every mount so a prior card never leaves stacked widgets.
+    this.root.querySelectorAll('[data-klook-mount]').forEach(function (mount) {
+      mount.innerHTML = '';
+    });
+    if (!src) return;
+
+    const desktop = this.root.querySelector('.klook-rail--desktop');
+    const mobile = this.root.querySelector('.klook-rail--mobile');
+    const useDesktop =
+      typeof window.matchMedia === 'function' &&
+      window.matchMedia('(min-width: 900px)').matches;
+    const rail = useDesktop ? desktop : mobile;
+    if (!rail) return;
+    const mount = rail.querySelector('[data-klook-mount]');
+    if (!mount) return;
+
+    const fallback = rail.querySelector('.klook-fallback');
+    const script = document.createElement('script');
+    script.async = true;
+    script.charset = 'utf-8';
+    script.src = src;
+    script.setAttribute('data-klook-widget', '1');
+    script.onerror = function () {
+      if (fallback) fallback.hidden = false;
+    };
+    script.onload = function () {
+      // Keep fallback as secondary CTA under the widget.
+      if (fallback) fallback.classList.add('klook-fallback--secondary');
+    };
+    mount.appendChild(script);
+
+    if (!this._klookResizeBound) {
+      this._klookResizeBound = true;
+      const self = this;
+      let timer = null;
+      window.addEventListener('resize', function () {
+        clearTimeout(timer);
+        timer = setTimeout(function () {
+          if (self.root && self.root.querySelector('.klook-rail')) {
+            self.mountKlookWidget();
+          }
+        }, 200);
       });
     }
   };
