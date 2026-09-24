@@ -1021,5 +1021,1053 @@
       "audited_at": "2026-09-23T18:40:00-05:00",
       "audit_notes": "PASS special — Naranjo de Bulnes (Picu Urriellu) unmistakable tooth limestone left; Commons ObjectName Sotres–Naranjo al fondo; pastoral Sotres-area meadows/hut/cattle with Urriellu behind matches facts framing. Ad Cangas de Onís gateway OK. AnaisGoepner CC BY-SA 4.0."
     }
+  },
+  {
+    "id": "parks-021",
+    "tab": "parks",
+    "name": "Zion National Park",
+    "short_line": "Utah, United States",
+    "country": "United States",
+    "lat": 37.2982,
+    "lng": -113.0263,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Watchman%2C_Zion_National_Park_-_Flickr_-_Joe_Parks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-021.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AThe%20Watchman%2C%20Zion%20National%20Park%20-%20Flickr%20-%20Joe%20Parks.jpg",
+      "license": "CC BY 2.0",
+      "author": "Joe Parks",
+      "attribution": "Photo: Joe Parks, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms The Watchman + Virgin River canyon vista in Zion National Park"
+    },
+    "facts": {
+      "one_liner": "The Watchman glowing over the Virgin River—Zion Canyon’s classic south-entrance frame.",
+      "why_go": "The hero shot is The Watchman rising above the Virgin River near Zion’s south entrance: red Navajo Sandstone catching late light while cottonwoods and riparian green line the rocky channel. NPS highlights the Pa’rus Trail’s riverside views of The Watchman between the Zion Canyon Visitor Center and Canyon Junction, and the Watchman Trail climbs from the visitor-center area to an overlook of lower Zion Canyon and Springdale. The same canyon walls and river corridor are why most first-time visitors base in Springdale and ride the Zion Canyon shuttle when Scenic Drive is shuttle-only. Stay on designated paths—riverbanks and slickrock drop-offs are real hazards.",
+      "best_time": "March–May and September–November for milder hiking and clearer light on The Watchman; summer is hottest and busiest. Winter can be quiet with occasional ice on trails.",
+      "how_to_get_there": "Fly into Las Vegas (LAS), St. George (SGU), or Salt Lake City (SLC), then drive to Springdale / Zion Canyon Visitor Center. In shuttle season, park in Springdale or at the visitor center and ride the free Zion Canyon shuttle; Pa’rus and Watchman trailheads start near the visitor center.",
+      "good_to_know": "Entrance pass required (no prices listed). Check NPS current conditions: toxic cyanobacteria advisories apply to park rivers—do not drink or submerge your head in the Virgin River. Pets are limited (Pa’rus allows leashed pets; Watchman Trail does not).",
+      "official_or_tourism_url": "https://www.nps.gov/zion/index.htm",
+      "sources": [
+        "https://www.nps.gov/zion/index.htm",
+        "https://www.nps.gov/thingstodo/hike-watchman-trail.htm",
+        "https://nps.gov/zion/planyourvisit/zion-canyon-trail-descriptions.htm",
+        "https://www.nps.gov/zion/planyourvisit/conditions.htm"
+      ]
+    },
+    "ad": {
+      "destination_query": "Springdale, United States",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Springdale%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Springdale%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Springdale%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Springdale"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — The Watchman + Virgin River Zion canyon identity (Joe Parks CC BY 2.0). Facts/NPS Watchman match JPG. Ad Springdale OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-022",
+    "tab": "parks",
+    "name": "Glacier National Park",
+    "short_line": "Montana, United States",
+    "country": "United States",
+    "lat": 48.7596,
+    "lng": -113.787,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Saint_Mary_Lake_-_Glacier_National_Park_%2832877436074%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-022.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASaint%20Mary%20Lake%20-%20Glacier%20National%20Park%20%2832877436074%29.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "m01229",
+      "attribution": "Photo: m01229, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms Saint Mary Lake + peaks vista in Glacier National Park, Montana"
+    },
+    "facts": {
+      "one_liner": "Saint Mary Lake’s deep blue water framed by Glacier’s layered peaks along Going-to-the-Sun Road.",
+      "why_go": "The hero vista is Saint Mary Lake on Glacier’s east side: a long glacial lake backed by forested shores and sharp sedimentary peaks under a clear Montana sky. NPS lists Wild Goose Island Overlook as a classic Going-to-the-Sun Road pull-off looking west across the lake toward Citadel and neighboring summits—the postcard lake-and-peaks geometry that matches this photo. The St. Mary Visitor Center anchors trip planning near the east entrance, with seasonal shuttles and ranger help. Bring binoculars for wildlife along the valley and expect wind on the open overlook.",
+      "best_time": "Late June–mid-September when Going-to-the-Sun Road and east-side services typically operate in full; early or late day for lighter parking at popular overlooks. Shoulder weeks can still see snow at Logan Pass.",
+      "how_to_get_there": "Fly into Kalispell (FCA / Glacier Park International) or Great Falls, then drive to the St. Mary entrance on U.S. 89. Wild Goose Island Overlook sits on Going-to-the-Sun Road a short drive west of St. Mary toward Logan Pass—confirm current road opening and any vehicle reservations on NPS.",
+      "good_to_know": "Entrance pass required (no prices listed). Carry bear spray and follow food-storage rules. Going-to-the-Sun Road is seasonal and can close for weather or construction—check NPS alerts before you drive.",
+      "official_or_tourism_url": "https://www.nps.gov/glac/index.htm",
+      "sources": [
+        "https://www.nps.gov/glac/index.htm",
+        "https://www.nps.gov/places/wild-goose-island-overlook.htm",
+        "https://www.nps.gov/places/st-mary-visitor-center.htm",
+        "http://www.nps.gov/glac/planyourvisit/visitor-centers.htm"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kalispell, United States",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kalispell%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kalispell%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kalispell%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kalispell"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Saint Mary Lake + peaks Glacier NP Montana (m01229 CC BY-SA 2.0). Facts match JPG. Ad Kalispell OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-023",
+    "tab": "parks",
+    "name": "Los Glaciares National Park",
+    "short_line": "Santa Cruz, Argentina",
+    "country": "Argentina",
+    "lat": -49.2719,
+    "lng": -73.0432,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Fitz_Roy_El_Chalten_sunrise-13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-023.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AFitz%20Roy%20El%20Chalten%20sunrise-13.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Almonroth",
+      "attribution": "Photo: Almonroth, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms Fitz Roy / Cerro Torre sunrise massif in Los Glaciares National Park (≠ Iguazú)"
+    },
+    "facts": {
+      "one_liner": "Fitz Roy’s granite spires catching Patagonian alpenglow above El Chaltén’s north zone.",
+      "why_go": "The hero photo is the Fitz Roy (Cerro Chaltén) massif at sunrise: sharp granite spires—including Fitz Roy and neighboring needles such as Poincenot—glowing gold above shadowed foothills, not the Perito Moreno ice front and not Iguazú. Argentina’s National Parks Administration centers north-zone trekking on El Chaltén, with the classic Laguna de los Tres / Fitz Roy day hike among the park’s signature walks and Cerro Torre / Laguna Torre as the other headline ridge. Daybreak light on the massif is why photographers and hikers base in El Chaltén rather than only El Calafate. Wind, sudden weather, and steep final approaches reward early starts and layered clothing.",
+      "best_time": "November–March (Patagonian summer) for longest trail access and most lodgings; December–February are busiest. Shoulder November and March can mean fewer crowds with changeable weather.",
+      "how_to_get_there": "Fly into El Calafate (FTE), then bus or drive ~220 km of paved road to El Chaltén. Trailheads for Fitz Roy / Laguna de los Tres and Cerro Torre leave from town; buy north-zone park access as directed by Administración de Parques Nacionales (online / QR for Zona Norte).",
+      "good_to_know": "Park access fees apply in Zona Norte (card/online; cash often not accepted at QR gates—confirm current APN rules). Register for remote routes or climbing at the El Chaltén visitor hub. Pack for strong winds and rapid weather shifts.",
+      "official_or_tourism_url": "https://www.argentina.gob.ar/parquesnacionales/patagonia-austral/parque-nacional-los-glaciares/planea-tu-visita",
+      "sources": [
+        "https://www.argentina.gob.ar/parquesnacionales/patagonia-austral/parque-nacional-los-glaciares/actividades",
+        "https://www.argentina.gob.ar/parquesnacionales/patagonia-austral/parque-nacional-los-glaciares/horarios-como-llegar-0",
+        "https://www.argentina.gob.ar/parquesnacionales/patagonia-austral/parque-nacional-los-glaciares/planea-tu-visita",
+        "https://whc.unesco.org/en/list/145/"
+      ]
+    },
+    "ad": {
+      "destination_query": "El Chaltén, Argentina",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=El%20Chalt%C3%A9n%2C%20Argentina&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=El%20Chalt%C3%A9n%2C%20Argentina&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=El%20Chalt%C3%A9n%2C%20Argentina&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in El Chaltén"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Fitz Roy / El Chaltén massif sunrise (Almonroth CC BY-SA 3.0); NOT Perito Moreno/Iguazú. Honesty lock OK. Ad El Chaltén OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-024",
+    "tab": "parks",
+    "name": "Conguillío National Park",
+    "short_line": "Araucanía, Chile",
+    "country": "Chile",
+    "lat": -38.65,
+    "lng": -71.65,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Volcano_Llaima_with_Lake_Conguill%C3%ADo%2C_Conguill%C3%ADo_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-024.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AVolcano%20Llaima%20with%20Lake%20Conguill%C3%ADo%2C%20Conguill%C3%ADo%20National%20Park.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Delahimalaya-alosandes",
+      "attribution": "Photo: Delahimalaya-alosandes, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms Araucaria framing + Lake Conguillío + Llaima volcano (≠ Torres del Paine)"
+    },
+    "facts": {
+      "one_liner": "Araucaria crowns framing Lake Conguillío beneath snow-capped Volcán Llaima.",
+      "why_go": "The hero landscape is Conguillío’s signature trio: ancient araucaria (monkey-puzzle) trees in the foreground, Lake Conguillío’s volcanic shoreline below, and snow-streaked Volcán Llaima on the skyline—distinct from Torres del Paine’s granite towers. CONAF manages the park inside the UNESCO Araucarias Biosphere Reserve, with trails such as Sierra Nevada delivering lake-and-volcano viewpoints through araucaria forest. Autumn color in the understory often sharpens the contrast with evergreen araucarias. Expect gravel roads, limited cell coverage, and sector-by-sector access rules that change with weather and fire risk.",
+      "best_time": "December–March for the fullest trail and lake access; autumn (March–April) for color around the araucarias. Winter snow can close or heavily restrict northern approaches.",
+      "how_to_get_there": "Fly to La Araucanía / Temuco (ZCO), then drive toward Curacautín (Captrén), Melipeuco (Truful-Truful), or Cherquenco (Los Paraguas). A rental car—preferably high-clearance—is the practical way in; buy entry via Pases Parques / CONAF before arrival.",
+      "good_to_know": "Advance entry purchase required through official CONAF / Pases Parques channels. Pets are not allowed. Confirm which sectors and trails are open the day you go—seasonal snow, wind, and maintenance closures are common.",
+      "official_or_tourism_url": "https://www.conaf.cl/parque_nacionales/parque-nacional-conguillio/",
+      "sources": [
+        "https://www.conaf.cl/parque_nacionales/parque-nacional-conguillio/",
+        "https://chile.travel/en/itineraries/conguillio-nationalpark/",
+        "https://somosparques.cl/explora-chile/zona-sur/parque-nacional-conguillio/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Temuco, Chile",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Temuco%2C%20Chile&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Temuco%2C%20Chile&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Temuco%2C%20Chile&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Temuco"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Araucaria + Lake Conguillío + Llaima volcano (Delahimalaya-alosandes CC BY-SA 4.0); ≠ Torres del Paine. Ad Temuco OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-025",
+    "tab": "parks",
+    "name": "Sagarmatha National Park",
+    "short_line": "Khumbu, Nepal",
+    "country": "Nepal",
+    "lat": 27.95,
+    "lng": 86.8,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mt._Ama_Dablam-_Sagarmatha_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-025.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMt.%20Ama%20Dablam-%20Sagarmatha%20National%20Park.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Sangyam adventurer",
+      "attribution": "Photo: Sangyam adventurer, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms Ama Dablam / Khumbu trail vista in Sagarmatha National Park"
+    },
+    "facts": {
+      "one_liner": "Ama Dablam’s icy pyramid above Khumbu trails where yaks still carry lodge loads.",
+      "why_go": "The hero frame is Ama Dablam rising over a rocky Khumbu trail with loaded yaks and a porter—everyday logistics on the approach toward Namche and Everest Base Camp country inside Sagarmatha National Park. UNESCO inscribed the park in 1979 for its high Himalayan peaks (including Sagarmatha / Everest) and living Sherpa cultural landscape. Park headquarters sit at Namche Bazaar; monasteries such as Tengboche remain cultural anchors along the main trails. Altitude, cold nights, and trail traffic make acclimatization days non-negotiable.",
+      "best_time": "October–November and March–May for clearer mountain views and established lodge seasons; monsoon June–September brings cloud and rain; deep winter is cold with more snow risk.",
+      "how_to_get_there": "Fly Kathmandu–Lukla (weather-dependent), then trek via Phakding and Monjo into the park toward Namche Bazaar. Obtain required park / local permits and follow current Nepal Tourism Board guidance on licensed guides and TIMS for your route.",
+      "good_to_know": "Park entry and local municipality permits are required (no prices listed). Altitude illness is a real risk—ascend slowly. Respect monastery and village customs; pack out trash on busy Everest-region trails.",
+      "official_or_tourism_url": "https://www.snp.gov.np/",
+      "sources": [
+        "https://www.snp.gov.np/",
+        "https://whc.unesco.org/en/list/120/",
+        "https://ntb.gov.np/sagarmatha-national-park",
+        "https://ntb.gov.np/plan-your-trip/before-you-come/tims-card"
+      ]
+    },
+    "ad": {
+      "destination_query": "Namche Bazaar, Nepal",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Namche%20Bazaar%2C%20Nepal&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Namche%20Bazaar%2C%20Nepal&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Namche%20Bazaar%2C%20Nepal&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Namche Bazaar"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Ama Dablam + Khumbu yak trail Sagarmatha (Sangyam adventurer CC BY-SA 4.0). Ad Namche Bazaar OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-026",
+    "tab": "parks",
+    "name": "Chitwan National Park",
+    "short_line": "Chitwan, Nepal",
+    "country": "Nepal",
+    "lat": 27.5,
+    "lng": 84.35,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Chitwan_National_Park_Rapti_River_20180412_060238.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-026.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AChitwan%20National%20Park%20Rapti%20River%2020180412%20060238.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Bharatadhikarimb",
+      "attribution": "Photo: Bharatadhikarimb, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms Rapti River grassland / floodplain wide vista in Chitwan National Park"
+    },
+    "facts": {
+      "one_liner": "Rapti River floodplain and Terai grassland—Chitwan’s lowland rhino country, not the Himalaya.",
+      "why_go": "The hero view looks across Chitwan’s Rapti River floodplain: braided channels, sandbars, and a continuous forest wall under humid Terai sky—classic lowland habitat rather than mountain peaks. UNESCO lists Chitwan for its subtropical floodplain ecosystem and populations of greater one-horned rhinoceros and Bengal tiger. Sauraha is the main visitor gateway for jeep safaris, guided walks, and river views into the park buffer. Early and late light bring the best wildlife activity along river corridors.",
+      "best_time": "October–March for drier trails and clearer wildlife viewing; April–May is hotter; monsoon June–September floods roads and limits access.",
+      "how_to_get_there": "Fly or bus from Kathmandu or Pokhara to Bharatpur, then road transfer (~20–30 minutes) to Sauraha. Enter with a park ticket and use authorized guides / jeep operators for core-zone activities.",
+      "good_to_know": "Park entry fees apply (no prices listed). Stay with licensed guides inside the park—walking alone in rhino/tiger habitat is unsafe. Follow park rules on boats, elephants, and plastic waste.",
+      "official_or_tourism_url": "https://chitwannationalpark.gov.np/",
+      "sources": [
+        "https://chitwannationalpark.gov.np/",
+        "https://whc.unesco.org/en/list/284/",
+        "https://chitwannationalpark.gov.np/index.php/about"
+      ]
+    },
+    "ad": {
+      "destination_query": "Sauraha, Nepal",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sauraha%2C%20Nepal&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sauraha%2C%20Nepal&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sauraha%2C%20Nepal&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Sauraha"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Rapti River floodplain/grassland Chitwan (Bharatadhikarimb CC BY-SA 4.0); riverine identity sells visit. Ad Sauraha OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-027",
+    "tab": "parks",
+    "name": "Etosha National Park",
+    "short_line": "Kunene, Namibia",
+    "country": "Namibia",
+    "lat": -18.85,
+    "lng": 16.45,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Etosha_Pan_from_distance_buiobuione.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-027.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AEtosha%20Pan%20from%20distance%20buiobuione.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Buiobuione",
+      "attribution": "Photo: Buiobuione, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms Etosha salt pan landscape from distance (Namibia)"
+    },
+    "facts": {
+      "one_liner": "Etosha’s vast pale salt pan stretching to the horizon—arid stage for waterhole wildlife.",
+      "why_go": "The hero image is the Etosha Pan from the fringe: a hyper-flat white salt crust beyond dry scrub under a hazy sky—the park’s defining landform. Namibia’s MEFT manages Etosha as a self-drive and lodge-based wildlife destination where game concentrates at waterholes around the pan’s edge, including the floodlit Okaukuejo waterhole famous for night viewing. The emptiness of the pan itself is the spectacle; animals appear where groundwater and managed water points meet the grassland rim. Dust, heat shimmer, and long distances reward early starts and full fuel tanks.",
+      "best_time": "Dry season roughly May–October for denser waterhole wildlife and firmer roads; wetter months can green the grasslands but disperse animals and soften tracks.",
+      "how_to_get_there": "Fly into Windhoek (WDH) or Ondangwa, then self-drive to Anderson’s, Von Lindequist (Namutoni), Galton, or King Nehale gates. Overnight inside at Okaukuejo, Halali, Namutoni, or Dolomite camps, or day-visit from nearby lodges—book MEFT / NWR beds early in peak season.",
+      "good_to_know": "Park entry and vehicle fees apply (no prices listed). Stay in your vehicle except in designated camp/waterhole areas. Gates have fixed day hours—plan exits carefully. Carry water and check road conditions after rain.",
+      "official_or_tourism_url": "https://www.meft.gov.na/national-parks/etosha-national-park/217/",
+      "sources": [
+        "https://www.meft.gov.na/national-parks/etosha-national-park/217/",
+        "https://visitnamibia.com.na/wp-content/uploads/2022/03/Etosha-National-Park.pdf",
+        "https://www.etoshanationalpark.org/times-fees"
+      ]
+    },
+    "ad": {
+      "destination_query": "Okaukuejo, Namibia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Okaukuejo%2C%20Namibia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Okaukuejo%2C%20Namibia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Okaukuejo%2C%20Namibia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Okaukuejo"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Etosha Pan salt-flat landscape (Buiobuione CC BY-SA 4.0); iconic pan identity. Ad Okaukuejo OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-028",
+    "tab": "parks",
+    "name": "Vatnajökull National Park",
+    "short_line": "Southeast, Iceland",
+    "country": "Iceland",
+    "lat": 64.0485,
+    "lng": -16.179,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/J%C3%B6kuls%C3%A1rl%C3%B3n_glacier_lagoon%2C_Iceland%2C_20240719_1141_2541.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-028.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AJ%C3%B6kuls%C3%A1rl%C3%B3n%20glacier%20lagoon%2C%20Iceland%2C%2020240719%201141%202541.jpg",
+      "license": "CC BY 4.0",
+      "author": "Jakub Hałun",
+      "attribution": "Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms Jökulsárlón ice lagoon within Vatnajökull National Park"
+    },
+    "facts": {
+      "one_liner": "Jökulsárlón’s blue icebergs drifting in a glacial lagoon inside Vatnajökull National Park.",
+      "why_go": "The hero scene is Jökulsárlón glacier lagoon: luminous blue-white icebergs floating in milky-dark water against dark volcanic hills—one of Vatnajökull National Park’s most visited ice landscapes. Official park pages treat the lagoon as a year-round southeast Iceland stop beside Route 1, with nearby Diamond Beach (Fellsfjara) where ice washes onto black sand. Boat tours and shore walks put you among bergs calved from Breiðamerkurjökull. Wind, spray, and slippery ice along the shore demand warm layers and careful footing.",
+      "best_time": "June–August for longest daylight and most services; April–May and September–October for fewer crowds and strong ice colors. Winter brings short days, storms, and possible road closures.",
+      "how_to_get_there": "Drive Route 1 (Ring Road) from Reykjavík (~4.5–5.5 hours) or stay overnight in Höfn or the Skaftafell area. Parking and facilities sit beside the lagoon; a regional parking/service fee may apply via Parka—confirm current rates on-site.",
+      "good_to_know": "Do not climb on icebergs or enter the lagoon without an authorized operator. Watch for sudden waves near the outlet. Check road.is and Vatnajökull National Park updates before winter travel.",
+      "official_or_tourism_url": "https://www.vatnajokulsthjodgardur.is/en/areas/jokulsarlon",
+      "sources": [
+        "https://www.vatnajokulsthjodgardur.is/en/areas/jokulsarlon",
+        "https://www.south.is/en/destinations/popular-tourist-attractions/jokulsarlon-glacier-lagoon",
+        "https://www.vatnajokulsthjodgardur.is/en/communities--businesses/payment-of-camping-and-regional-fees"
+      ]
+    },
+    "ad": {
+      "destination_query": "Höfn, Iceland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=H%C3%B6fn%2C%20Iceland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=H%C3%B6fn%2C%20Iceland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=H%C3%B6fn%2C%20Iceland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Höfn"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Jökulsárlón icebergs as Vatnajökull park identity (Jakub Hałun CC BY 4.0). Honesty lock OK. Ad Höfn OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-029",
+    "tab": "parks",
+    "name": "Doñana National Park",
+    "short_line": "Andalusia, Spain",
+    "country": "Spain",
+    "lat": 37.0,
+    "lng": -6.4,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Vista_de_las_marismas_del_Parque_Do%C3%B1ana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-029.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AVista%20de%20las%20marismas%20del%20Parque%20Do%C3%B1ana.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Gabriela Coronado Hernández",
+      "attribution": "Photo: Gabriela Coronado Hernández, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms Doñana dunes meeting marshes / wetlands vista (≠ Picos de Europa)"
+    },
+    "facts": {
+      "one_liner": "Mobile dunes spilling into Doñana’s marshes—Andalusia’s UNESCO wetland mosaic.",
+      "why_go": "The hero overlook shows Doñana’s defining transition: pale mobile dunes dropping toward green scrub and wide marismas (marshes) under a big Atlantic-influenced sky—not alpine Picos de Europa scenery. UNESCO protects Doñana as a World Heritage wetland and migratory bird crossroads where dunes, lagoons, and Mediterranean scrub meet. Visitor centers such as La Rocina near El Rocío offer trails and orientation into fringe habitats; core areas often require authorized guided access. Binoculars turn the flat horizon into flamingo, heron, and raptor country.",
+      "best_time": "March–May and September–November for bird migration and milder temperatures; summer is hot and dry; winter floods expand the marshes.",
+      "how_to_get_there": "Fly into Seville (SVQ), then drive ~1–1.5 hours toward El Rocío / Almonte. Use official visitor centers (La Rocina, El Acebuche, and others) for maps; book authorized 4x4 or boat tours for restricted interior zones.",
+      "good_to_know": "Much of the national park interior is not free-roam—use marked trails and licensed operators. Respect nesting seasons and stay off fragile dune vegetation. Check MITECO / park notices for closures during the Romería del Rocío.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/685/",
+      "sources": [
+        "https://whc.unesco.org/en/list/685/",
+        "https://www.miteco.gob.es/en/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/donana/guia-visitante/accesos.html",
+        "https://www.miteco.gob.es/va/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/donana/guia-visitante/rocina.html"
+      ]
+    },
+    "ad": {
+      "destination_query": "El Rocío, Spain",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=El%20Roc%C3%ADo%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=El%20Roc%C3%ADo%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=El%20Roc%C3%ADo%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in El Rocío"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Doñana dunes meeting marismas (Gabriela Coronado Hernández CC BY-SA 4.0); ≠ Picos. Ad El Rocío OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-030",
+    "tab": "parks",
+    "name": "Abruzzo, Lazio and Molise National Park",
+    "short_line": "Abruzzo, Italy",
+    "country": "Italy",
+    "lat": 41.8,
+    "lng": 13.8,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Abruzzo_landscape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-030.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAbruzzo%20landscape.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Zoe Olivieri",
+      "attribution": "Photo: Zoe Olivieri, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms Apennine valley / forested slopes in Abruzzo, Lazio and Molise National Park"
+    },
+    "facts": {
+      "one_liner": "Apennine meadows and beech slopes opening to layered Abruzzo ridgelines.",
+      "why_go": "The hero photo is a high Apennine valley: rock-strewn green meadow framed by forested slopes—often beech—looking out to receding blue ridges under big cumulus. Abruzzo, Lazio and Molise National Park is one of Italy’s oldest parks, centered on Pescasseroli with habitats for Apennine wildlife including Marsican brown bear and Abruzzo chamois. Autumn colors on beech slopes are a signature visit reason; summer brings wildflowers and cooler ridge hikes. Marked trails and village bases keep the experience accessible without technical mountaineering.",
+      "best_time": "June–September for hiking; late September–October for beech color. Winter offers snow walks and quieter villages but shorter daylight.",
+      "how_to_get_there": "Drive from Rome (~2–2.5 hours) or Pescara toward Pescasseroli via mountain roads. Start at the Pescasseroli visitor center for maps, exhibits, and current trail advice.",
+      "good_to_know": "Stay on marked paths in bear country; store food properly if camping. Some visitor-center exhibits charge a small ticket—confirm hours (often closed one weekday). Check local weather for thunderstorms on exposed ridges.",
+      "official_or_tourism_url": "https://www.parcoabruzzo.it/",
+      "sources": [
+        "https://www.parcoabruzzo.it/",
+        "https://www.parcoabruzzo.it/cen_dettaglio.php?id=10",
+        "https://www.parks.it/parco.nazionale.abruzzo/Eindex.php"
+      ]
+    },
+    "ad": {
+      "destination_query": "Pescasseroli, Italy",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Pescasseroli%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Pescasseroli%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Pescasseroli%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Pescasseroli"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Abruzzo Apennine valley/pasture + forested slopes (Zoe Olivieri CC BY-SA 4.0). Ad Pescasseroli OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-031",
+    "tab": "parks",
+    "name": "Sarek National Park",
+    "short_line": "Lapland, Sweden",
+    "country": "Sweden",
+    "lat": 67.28,
+    "lng": 17.6,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Sarvesvagge_Sarek_national_park_Sweden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-031.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASarvesvagge%20Sarek%20national%20park%20Sweden.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Gabrielwennstig",
+      "attribution": "Photo: Gabrielwennstig, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms Sarvesvagge alpine wilderness valley in Sarek National Park (Laponia)"
+    },
+    "facts": {
+      "one_liner": "Roadless Laponia wilderness—alpine valleys and glaciers for self-reliant trekkers.",
+      "why_go": "The hero image captures Sarek’s remote alpine winter mood: a lone ski-tourer crossing a snow-filled valley beneath sharp peaks—exactly the roadless Laponia wilderness the park is known for. Sweden’s national-park pages describe Sarek as one of Europe’s least developed parks: no roads into the core, few marked trails, and no tourist cabins inside, with nearly 100 glaciers and several 2,000 m peaks. Sámi reindeer herding continues across the landscape as living culture, not empty scenery. This is for experienced navigation and camping skills, not casual day-trippers.",
+      "best_time": "July–early September for snow-free valley travel and midnight light; winter and spring only for skilled ski-tourers prepared for cold, avalanches, and short daylight.",
+      "how_to_get_there": "Travel via Jokkmokk, then bus or transfer to Kvikkjokk (common southern approach) or Ritsem / Saltoluokta corridors. Hike or ski from trailheads; carry all food, tent, and fuel—there is no lodging inside the park core.",
+      "good_to_know": "No facilities, limited mobile coverage, and serious weather. Respect Sámi reindeer areas and leave no trace. Part of the Laponia World Heritage landscape—check Länsstyrelsen Norrbotten / Laponia guidance before going.",
+      "official_or_tourism_url": "https://www.sverigesnationalparker.se/en/choose-park---list/sarek-national-park/national-park-facts",
+      "sources": [
+        "https://www.sverigesnationalparker.se/en/choose-park---list/sarek-national-park/national-park-facts",
+        "https://www.lansstyrelsen.se/norrbotten/besoksmal/nationalparker/sarek.html",
+        "https://laponia.nu/en/nationalparks-and-nature-reserves/high-mountains-and-deep-valleys/",
+        "https://www.jokkmokk.se/uppleva-och-goera/nationalparker-och-naturreservat/sarek-nationalpark/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kvikkjokk, Sweden",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kvikkjokk%2C%20Sweden&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kvikkjokk%2C%20Sweden&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kvikkjokk%2C%20Sweden&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kvikkjokk"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Sarvesvagge alpine wilderness Sarek / Laponia (Gabrielwennstig CC BY-SA 4.0); skier scale OK. Ad Kvikkjokk OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-032",
+    "tab": "parks",
+    "name": "Kakadu National Park",
+    "short_line": "Northern Territory, Australia",
+    "country": "Australia",
+    "lat": -12.85,
+    "lng": 132.82,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kakadu_%28AU%29%2C_Kakadu_National_Park%2C_Nadap_Lookout_--_2019_--_4180.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-032.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AKakadu%20%28AU%29%2C%20Kakadu%20National%20Park%2C%20Nadap%20Lookout%20--%202019%20--%204180.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Dietmar Rabich",
+      "attribution": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms Nadap Lookout escarpment / floodplain vista in Kakadu National Park"
+    },
+    "facts": {
+      "one_liner": "Nadap Lookout over Kakadu’s floodplain—escarpment rock meeting Top End wetlands.",
+      "why_go": "The hero view is from Nadap (Nadab) Lookout on the Ubirr walk: weathered sandstone in the foreground dropping to a vast floodplain and distant ridges—classic Kakadu rock-country-meets-wetlands scenery. Parks Australia’s Kakadu pages describe Ubirr’s short circuit past Aboriginal rock-art galleries ending in a steep climb to Nadap’s floodplain panorama, especially popular at sunset. The park is jointly managed with Bininj/Mungguy Traditional Owners across escarpment, woodland, and wetland habitats. Heat, crocs in waterways, and seasonal road closures shape every itinerary.",
+      "best_time": "Dry season roughly May–September for open roads and clearer walking; Wet season (Nov–Mar) transforms floodplains but closes many tracks.",
+      "how_to_get_there": "Drive from Darwin (~3 hours to Jabiru) or fly into Jabiru when services run. Ubirr / Nadap is about 40 minutes’ drive from Jabiru toward the East Alligator; buy a Kakadu Park Pass and check the Access Report before you go.",
+      "good_to_know": "Park pass required (no prices listed). Stay on marked paths at Ubirr; swimming in park waterways is unsafe due to saltwater crocodiles. Respect rock-art sites—no touching paintings.",
+      "official_or_tourism_url": "https://kakadu.gov.au/",
+      "sources": [
+        "https://kakadu.gov.au/",
+        "https://kakadu.gov.au/things-do/activities/walks/ubirr-walk/",
+        "https://kakadu.gov.au/things-do/activities/rock-art/ubirr/",
+        "https://kakadu.gov.au/news/access-and-alerts/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Jabiru, Australia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Jabiru%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Jabiru%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Jabiru%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Jabiru"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Nadap/Ubirr-style escarpment + floodplain Kakadu (Dietmar Rabich CC BY-SA 4.0). Ad Jabiru OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-033",
+    "tab": "parks",
+    "name": "Uluru-Kata Tjuta National Park",
+    "short_line": "Northern Territory, Australia",
+    "country": "Australia",
+    "lat": -25.3444,
+    "lng": 131.0369,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Petermann_Ranges_%28AU%29%2C_Uluru-Kata_Tjuta_National_Park%2C_Uluru_--_2019_--_3688.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-033.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APetermann%20Ranges%20%28AU%29%2C%20Uluru-Kata%20Tjuta%20National%20Park%2C%20Uluru%20--%202019%20--%203688.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Dietmar Rabich",
+      "attribution": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms wide Uluru exterior at sunset (no climbing / summit framing)"
+    },
+    "facts": {
+      "one_liner": "Uluru’s red sandstone face at golden hour—walk the base, never the summit.",
+      "why_go": "The hero image is Uluru’s wide exterior: a single orange-red monolith rising from spinifex plains under clear desert sky—sunset color without any summit or climb framing. Parks Australia jointly manages Uluru-Kata Tjuta National Park with Anangu Traditional Owners; the Cultural Centre and marked base walks explain Tjukurpa (law and Culture) that make the rock a living sacred place. Kata Tjuta’s domes are a companion day trip within the same park. Photograph from designated viewpoints and sunrise/sunset areas rather than seeking height on the rock.",
+      "best_time": "April–September for cooler walking temperatures; summer (Oct–Mar) brings extreme heat with possible walk closures midday.",
+      "how_to_get_there": "Fly into Ayers Rock / Connellan Airport (AYQ) at Yulara, or drive the long sealed roads from Alice Springs. Enter with a park pass; lodging and services concentrate at Yulara (Ayers Rock Resort).",
+      "good_to_know": "Climbing Uluru has been permanently closed since 26 October 2019 out of respect for Anangu wishes; attempting to climb is illegal and can draw penalties under Australian law. Stay on marked tracks, do not enter photo-restricted sacred sites, and carry water in desert heat.",
+      "official_or_tourism_url": "https://uluru.gov.au/",
+      "sources": [
+        "https://uluru.gov.au/",
+        "https://uluru.gov.au/discover/history/uluru-climb-closure/",
+        "https://uluru.gov.au/things-do/cultural-centre/",
+        "https://whc.unesco.org/en/list/447/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Yulara, Australia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Yulara%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Yulara%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Yulara%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Yulara"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Uluru exterior golden-hour, no climb framing (Dietmar Rabich CC BY-SA 4.0). Facts state climb closed since 26 Oct 2019. Ad Yulara OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-034",
+    "tab": "parks",
+    "name": "Retezat National Park",
+    "short_line": "Hunedoara, Romania",
+    "country": "Romania",
+    "lat": 45.37,
+    "lng": 22.85,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lake_Bucura_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-034.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALake%20Bucura%2003.jpg",
+      "license": "CC0",
+      "author": "Gugalcrom123",
+      "attribution": "Photo: Gugalcrom123, CC0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms Lake Bucura glacial lake / Carpathian cirque in Retezat National Park"
+    },
+    "facts": {
+      "one_liner": "Lake Bucura’s glacial cirque—Romania’s largest alpine lake in the Retezat.",
+      "why_go": "The hero shot is a high Carpathian glacial lake—Lake Bucura—rimmed by lichen-stained boulders, alpine turf, and grey scree peaks under cool mountain cloud. Retezat National Park is famed for dozens of glacial lakes (often nicknamed the ‘land of blue eyes’) and wild ridgelines above the tree line. Bucura is a classic overnight or day-hiking goal from Poiana Pelegii / Gura Bucurii approaches. Expect rocky trails, changeable weather, and true mountain solitude away from Romania’s cities.",
+      "best_time": "July–September for snow-free access to Bucura and the high ridges; June and October can still hold snow patches and fewer services.",
+      "how_to_get_there": "Base in Hațeg or nearby villages, then drive forest roads toward Râu de Mori / Gura Apelor and Poiana Pelegii when open (high-clearance helpful). Hike ~2 hours from Poiana Pelegii toward Lake Bucura; buy the park entry ticket valid for multiple days.",
+      "good_to_know": "Mountain weather turns fast—carry layers, map/GPS, and rain gear. Camping rules concentrate near designated areas (e.g., near Bucura salvage posts)—follow park notices. Bears inhabit the Carpathians; store food securely.",
+      "official_or_tourism_url": "https://www.retezat.ro/",
+      "sources": [
+        "https://www.retezat.ro/",
+        "https://retezat.ro/index.php/puncte-acces-in-parc",
+        "https://www.retezat.ro/intrebari-frecvente/119/tourist-information"
+      ]
+    },
+    "ad": {
+      "destination_query": "Hațeg, Romania",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ha%C8%9Beg%2C%20Romania&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ha%C8%9Beg%2C%20Romania&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ha%C8%9Beg%2C%20Romania&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Hațeg"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Lake Bucura glacial cirque Retezat (Gugalcrom123 CC0). Ad Hațeg OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-035",
+    "tab": "parks",
+    "name": "Tatra National Park",
+    "short_line": "Lesser Poland, Poland",
+    "country": "Poland",
+    "lat": 49.1972,
+    "lng": 20.0708,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Frozen_Morskie_Oko_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-035.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AFrozen%20Morskie%20Oko%202019.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "kallerna",
+      "attribution": "Photo: kallerna, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms Morskie Oko / High Tatras amphitheatre on the Polish side of Tatra National Park"
+    },
+    "facts": {
+      "one_liner": "Frozen Morskie Oko under High Tatras amphitheatre—Poland’s classic alpine lake.",
+      "why_go": "The hero vista is Morskie Oko on the Polish side of Tatra National Park: a high cirque lake (often ice-covered in cold months) ringed by dark spruce forest and jagged High Tatras peaks, with the lakeside mountain hut visible on the shore. TPN manages the approach from Palenica Białczańska along a long, popular valley road/trail that is one of Poland’s most visited mountain day walks. Summer crowds and winter ice both define the experience—arrive early either way. The amphitheatre of rock above the lake is the postcard that sells the Polish Tatras.",
+      "best_time": "June–September for snow-free trails and open facilities; September–October for clearer air and autumn color. Winter visits need traction for ice; check avalanche and trail conditions.",
+      "how_to_get_there": "Base in Zakopane, then bus or taxi to Palenica Białczańska parking. Walk the ~8–9 km road/trail to Morskie Oko (or use seasonal horse carts / TPN e-bus options where offered). Reserve TPN parking online in peak season.",
+      "good_to_know": "Park entry ticket required (no prices listed). Stick to marked trails; the high ridges beyond the lake are serious alpine terrain. Pack cash/card for parking and entry; weather can close upper trails quickly.",
+      "official_or_tourism_url": "https://tpn.gov.pl/",
+      "sources": [
+        "https://tpn.gov.pl/",
+        "https://tpn.gov.pl/parkingi-morskie-oko",
+        "https://tpn.gov.pl/e-busy-do-morskiego-oka"
+      ]
+    },
+    "ad": {
+      "destination_query": "Zakopane, Poland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Zakopane%2C%20Poland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Zakopane%2C%20Poland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Zakopane%2C%20Poland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Zakopane"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Frozen Morskie Oko / High Tatras Polish side (kallerna CC BY-SA 4.0). Ad Zakopane OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-036",
+    "tab": "parks",
+    "name": "Mana Pools National Park",
+    "short_line": "Mashonaland West, Zimbabwe",
+    "country": "Zimbabwe",
+    "lat": -15.75,
+    "lng": 29.45,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Island_in_the_Zambezi_River_at_Mana_Pools_National_Park-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-036.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AIsland%20in%20the%20Zambezi%20River%20at%20Mana%20Pools%20National%20Park-1.jpg",
+      "license": "CC0",
+      "author": "Babakathy",
+      "attribution": "Photo: Babakathy, CC0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms Zambezi floodplain / river island + escarpment vista in Mana Pools National Park"
+    },
+    "facts": {
+      "one_liner": "Zambezi floodplain islands and winterthorn woodland—UNESCO walking-safari country.",
+      "why_go": "The hero scene looks across the Zambezi at Mana Pools: calm river channels, a wooded island or bank of large trees, and the hazy escarpment beyond—UNESCO-listed floodplain wilderness rather than a dense safari enclosure. Zimbabwe Parks highlights Mana Pools for canoeing, walking safaris, and exceptional dry-season wildlife concentrations along the river when pools shrink. Albida (winterthorn) woodlands and open floodplains give the open, photographic feel that matches this shore vista. Heat, crocs, and big game make guided travel the norm.",
+      "best_time": "Dry season roughly May–October for wildlife along remaining pools and more reliable vehicle access; green season can be lush but roads and mosquitoes worsen.",
+      "how_to_get_there": "Fly into Harare or Kariba, then road transfer or charter toward Mana Pools with an operator—self-drive requires high-clearance vehicles and advance park booking. Check in at park headquarters as required by ZimParks.",
+      "good_to_know": "Conservation / entry fees apply (no prices listed). Walking and canoeing are usually guided—follow operator and park rules around elephants and hippos. Remote logistics: carry cash backups and confirm fuel and radio plans.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/302/",
+      "sources": [
+        "https://whc.unesco.org/en/list/302/",
+        "https://www.zimparks.org.zw/mana-pools-national-park/",
+        "https://www.zimparks.org.zw/parks-rates/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kariba, Zimbabwe",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kariba%2C%20Zimbabwe&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kariba%2C%20Zimbabwe&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kariba%2C%20Zimbabwe&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kariba"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Zambezi island/floodplain + escarpment Mana Pools (Babakathy CC0). Ad Kariba OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-037",
+    "tab": "parks",
+    "name": "Galápagos National Park",
+    "short_line": "Galápagos, Ecuador",
+    "country": "Ecuador",
+    "lat": -0.2789,
+    "lng": -90.55,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bartolom%C3%A9_Island_Pinnacle_Rock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-037.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABartolom%C3%A9%20Island%20Pinnacle%20Rock.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Cayambe",
+      "attribution": "Photo: Cayambe, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms Bartolomé Island volcanic coast + Pinnacle Rock (Galápagos National Park clear)"
+    },
+    "facts": {
+      "one_liner": "Bartolomé’s Pinnacle Rock—volcanic coast icon of Galápagos National Park.",
+      "why_go": "The hero overlook is Bartolomé Island: arid volcanic cones, a turquoise cove, and the sharp tuff spire of Pinnacle Rock with a small boat at anchor—unmistakably Galápagos National Park coastline. Visitors climb a marked boardwalk/stair trail to the summit viewpoint, then may snorkel at designated beaches where penguins and reef fish appear near the rock. The landscape reads as young volcanic desert meeting Pacific water, not rainforest. Strict landing rules keep fragile pahoehoe and nesting sites intact.",
+      "best_time": "December–May warmer seas and calmer water for snorkeling; June–November cooler Humboldt influence with often richer marine life. Sites run year-round via authorized itineraries.",
+      "how_to_get_there": "Fly into Baltra (GPS) or San Cristóbal (SCY) from mainland Ecuador, then transfer to Puerto Ayora (Santa Cruz) or join a licensed liveaboard. Bartolomé is reached by authorized day tour or cruise—independent landings are not allowed.",
+      "good_to_know": "Honesty callout: visits to park sites require authorized operators and naturalist guides; stay on marked trails, keep distance from wildlife, no feeding/touching, and follow DPNG visitor rules and site time limits. Transit Control Card and park entry processes apply before island touring (no prices listed).",
+      "official_or_tourism_url": "https://galapagos.gob.ec/",
+      "sources": [
+        "https://galapagos.gob.ec/",
+        "https://galapagos.gob.ec/reglas-de-visita/",
+        "https://www.galapagos.org/about_galapagos/the-islands/bartolome-island/",
+        "https://whc.unesco.org/en/list/1/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Puerto Ayora, Ecuador",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Puerto%20Ayora%2C%20Ecuador&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Puerto%20Ayora%2C%20Ecuador&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Puerto%20Ayora%2C%20Ecuador&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Puerto Ayora"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Bartolomé Pinnacle Rock Galápagos (Cayambe CC BY-SA 3.0). Facts disclose operator/guide/DPNG rules. Ad Puerto Ayora OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-038",
+    "tab": "parks",
+    "name": "Corcovado National Park",
+    "short_line": "Puntarenas, Costa Rica",
+    "country": "Costa Rica",
+    "lat": 8.55,
+    "lng": -83.6,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Beach_of_Costa_Rica_%288438982965%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-038.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABeach%20of%20Costa%20Rica%20%288438982965%29.jpg",
+      "license": "CC BY 2.0",
+      "author": "rob Stoeltje",
+      "attribution": "Photo: rob Stoeltje, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons/Flickr Corcovado series: Pacific wilderness shore with rainforest edge on Osa (Corcovado National Park)"
+    },
+    "facts": {
+      "one_liner": "Osa Peninsula wilderness shore—rainforest meeting Corcovado’s Pacific surf.",
+      "why_go": "The hero beach is Corcovado’s Pacific wilderness edge: dark volcanic sand, driftwood, and dense rainforest pressing to the tide line under an overcast sky—Osa Peninsula wild, not a manicured resort strand. SINAC manages Corcovado as one of Costa Rica’s most biodiverse parks, with sectors such as La Leona, San Pedrillo, and Los Patos reached by boat, hike, or rough track from Puerto Jiménez and Drake Bay. Jaguars, tapirs, scarlet macaws, and four monkey species draw wildlife travelers willing to accept heat, mud, and logistics. The shoreline photo sells the park’s rainforest-meets-ocean character.",
+      "best_time": "Dry season roughly mid-December–April for easier trails and boat landings; May–November is greener, muddier, and more storm-prone.",
+      "how_to_get_there": "Fly or bus to Puerto Jiménez (Osa) or reach Drake Bay, then arrange boat or trail access with a registered guide. Reserve park entry with SINAC in advance—walk-up entry is routinely denied.",
+      "good_to_know": "Advance reservation and a licensed local guide are mandatory for most visits. Bring passport/ID, insect protection, and water; swimming can be hazardous with currents and wildlife. Confirm which sector (La Leona, Sirena, etc.) your permit covers.",
+      "official_or_tourism_url": "https://www.sinac.go.cr/ES/ac/acosa/pnc/Paginas/default.aspx",
+      "sources": [
+        "https://www.sinac.go.cr/ES/ac/acosa/pnc/Paginas/default.aspx",
+        "https://www.sinac.go.cr/ES/ac/acosa/pnc/Paginas/SectorLaLeona.aspx",
+        "https://www.sinac.go.cr/en-us/ac/acosa/pnc/pages/default.aspx"
+      ]
+    },
+    "ad": {
+      "destination_query": "Puerto Jiménez, Costa Rica",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Puerto%20Jim%C3%A9nez%2C%20Costa%20Rica&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Puerto%20Jim%C3%A9nez%2C%20Costa%20Rica&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Puerto%20Jim%C3%A9nez%2C%20Costa%20Rica&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Puerto Jiménez"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Pacific wilderness shore + rainforest edge; Commons Category:Beaches of Corcovado National Park (rob Stoeltje CC BY 2.0). Ad Puerto Jiménez OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-039",
+    "tab": "parks",
+    "name": "Canaima National Park",
+    "short_line": "Bolívar, Venezuela",
+    "country": "Venezuela",
+    "lat": 5.2,
+    "lng": -61.1,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Tepuis_en_Canaima-Venezuela14.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-039.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATepuis%20en%20Canaima-Venezuela14.JPG",
+      "license": "CC BY 3.0",
+      "author": "Diego Delso",
+      "attribution": "Photo: Diego Delso, CC BY 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms tepui plateau landscape from river in Canaima National Park (Diego Delso)"
+    },
+    "facts": {
+      "one_liner": "Tepui walls rising beyond Canaima’s jungle rivers—UNESCO ‘Lost World’ plateaus.",
+      "why_go": "The hero frame is classic Canaima: a wide dark river reflecting sky, rainforest banks, and a sheer flat-topped tepui on the horizon—the park’s signature table mountains rather than a city skyline. UNESCO lists Canaima for its tepui province and includes Angel Falls (Kerepakupai Vená), the world’s tallest uninterrupted waterfall, deeper in the park. Most visitors experience the landscape by curiara (motorized canoe) and short jungle walks from Canaima camp after a bush flight. The boat-level viewpoint in the photo matches how travelers actually approach the tepuis.",
+      "best_time": "Roughly June–December for higher river levels that favor boat access toward Angel Falls; October–November often balances water and weather. Dry months can strand boats on low rivers.",
+      "how_to_get_there": "Honesty callout: access is remote—typically fly Ciudad Bolívar or Puerto Ordaz to Canaima airstrip with an authorized tour operator, then continue by boat and hike. Independent drive-in access to Angel Falls is not realistic; confirm current flight, permit, and security advice before booking.",
+      "good_to_know": "Travel with licensed operators; park/tourism rules and fees apply (no prices listed). Pack cash, rain gear, and insect protection. Check current Venezuelan entry, aviation, and safety guidance—logistics change more often than in easier parks.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/701/",
+      "sources": [
+        "https://whc.unesco.org/en/list/701/",
+        "https://www.inparques.gob.ve/parque-nacional-canaima/",
+        "https://whc.unesco.org/en/list/701/documents/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Canaima, Venezuela",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Canaima%2C%20Venezuela&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Canaima%2C%20Venezuela&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Canaima%2C%20Venezuela&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Canaima"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Tepui from river/boat Canaima (Diego Delso CC BY 3.0). Facts disclose bush-flight + curiara remote access. Ad Canaima OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "parks-040",
+    "tab": "parks",
+    "name": "Phong Nha-Ke Bang National Park",
+    "short_line": "Quảng Bình, Vietnam",
+    "country": "Vietnam",
+    "lat": 17.55,
+    "lng": 106.15,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Phongnhakebang1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/parks/parks-040.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APhongnhakebang1.jpg",
+      "license": "Public domain",
+      "author": "Genghiskhanviet",
+      "attribution": "Photo: Genghiskhanviet, Public domain, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file confirms Son River + forested limestone karst hills landscape in Phong Nha-Ke Bang National Park"
+    },
+    "facts": {
+      "one_liner": "Son River below jungle-clad limestone karsts—Phong Nha’s landscape before the caves.",
+      "why_go": "The hero landscape is Phong Nha from the water: a broad river, sandbar, dense riverside jungle, and distant jagged limestone peaks—karst country that makes the park a UNESCO World Heritage site for geology and tropical forest, not only for famous caves. Vietnam’s tourism guidance centers visits on Phong Nha town for boat trips on the Son River into Phong Nha Cave and for trailheads into the wider Ke Bang massif. The river-and-karst frame in the photo is what you see before entering subterranean passages. Jungle heat and sudden rain showers are part of the day.",
+      "best_time": "February–August for generally drier cave and boat conditions; September–December brings more rain and possible flooding that can close caves.",
+      "how_to_get_there": "Fly or train to Đồng Hới, then drive ~45–90 minutes to Phong Nha. Book cave boats and adventure caves through licensed operators; some deep caves require multi-day permits and guides.",
+      "good_to_know": "Many caves have capacity limits and mandatory guides—book ahead in peak months. Wear closed shoes for wet cave floors; swimming rules vary by site. Respect jungle trails and do not litter in the World Heritage landscape.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/951/",
+      "sources": [
+        "https://whc.unesco.org/en/list/951/",
+        "https://vietnam.travel/things-to-do/complete-guide-phong-nha",
+        "https://phongnhakebang.vn/home"
+      ]
+    },
+    "ad": {
+      "destination_query": "Phong Nha, Vietnam",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Phong%20Nha%2C%20Vietnam&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Phong%20Nha%2C%20Vietnam&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Phong%20Nha%2C%20Vietnam&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Phong Nha"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T04:32:00-05:00",
+      "audit_notes": "PASS — Son River + limestone karst Phong Nha-Ke Bang (Genghiskhanviet Public domain). Ad Phong Nha OK.",
+      "reject_reason": null
+    }
   }
 ]

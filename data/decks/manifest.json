@@ -492,6 +492,72 @@
         }
       ],
       "next": "Honest depth 40; Parks 021–040 next after Beaches Pages live"
+    },
+    "parks": {
+      "live_file": "data/parks.json",
+      "archive_dir": "data/decks/parks/",
+      "approved_count": 40,
+      "catalog_target": 100,
+      "scale_target_met": false,
+      "mvp_ready": true,
+      "sets": [
+        {
+          "id": "parks-set-001",
+          "file": "set-001.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "parks-001",
+            "parks-002",
+            "parks-003",
+            "parks-004",
+            "parks-005",
+            "parks-006",
+            "parks-007",
+            "parks-008",
+            "parks-009",
+            "parks-010",
+            "parks-011",
+            "parks-012",
+            "parks-013",
+            "parks-014",
+            "parks-015",
+            "parks-016",
+            "parks-017",
+            "parks-018",
+            "parks-019",
+            "parks-020"
+          ]
+        },
+        {
+          "id": "parks-set-002",
+          "file": "set-002.json",
+          "status": "approved",
+          "card_ids": [
+            "parks-021",
+            "parks-022",
+            "parks-023",
+            "parks-024",
+            "parks-025",
+            "parks-026",
+            "parks-027",
+            "parks-028",
+            "parks-029",
+            "parks-030",
+            "parks-031",
+            "parks-032",
+            "parks-033",
+            "parks-034",
+            "parks-035",
+            "parks-036",
+            "parks-037",
+            "parks-038",
+            "parks-039",
+            "parks-040"
+          ]
+        }
+      ],
+      "next": "Honest depth 40; Landmarks 021–040 next after Parks Pages live"
     }
   },
   "other_tabs": [

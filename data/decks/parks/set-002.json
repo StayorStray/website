@@ -1,0 +1,133 @@
+{
+  "id": "parks-set-002",
+  "tab": "parks",
+  "label": "National Parks — Set 2 (021–040)",
+  "card_ids": [
+    "parks-021",
+    "parks-022",
+    "parks-023",
+    "parks-024",
+    "parks-025",
+    "parks-026",
+    "parks-027",
+    "parks-028",
+    "parks-029",
+    "parks-030",
+    "parks-031",
+    "parks-032",
+    "parks-033",
+    "parks-034",
+    "parks-035",
+    "parks-036",
+    "parks-037",
+    "parks-038",
+    "parks-039",
+    "parks-040"
+  ],
+  "count": 20,
+  "auditor": "20/20 approved 2026-09-24 (Accuracy Auditor Parks fill 021–040)",
+  "notes": "Thin-tab fill. No park swaps. Honesty: Uluru no-climb; Galápagos rules; Canaima remote; Los Glaciares Fitz Roy/El Chaltén; Vatnajökull via Jökulsárlón/Höfn.",
+  "archived_at": "2026-09-24T04:33:10-05:00",
+  "cards": [
+    {
+      "id": "parks-021",
+      "name": "Zion National Park",
+      "country": "United States"
+    },
+    {
+      "id": "parks-022",
+      "name": "Glacier National Park",
+      "country": "United States"
+    },
+    {
+      "id": "parks-023",
+      "name": "Los Glaciares National Park",
+      "country": "Argentina"
+    },
+    {
+      "id": "parks-024",
+      "name": "Conguillío National Park",
+      "country": "Chile"
+    },
+    {
+      "id": "parks-025",
+      "name": "Sagarmatha National Park",
+      "country": "Nepal"
+    },
+    {
+      "id": "parks-026",
+      "name": "Chitwan National Park",
+      "country": "Nepal"
+    },
+    {
+      "id": "parks-027",
+      "name": "Etosha National Park",
+      "country": "Namibia"
+    },
+    {
+      "id": "parks-028",
+      "name": "Vatnajökull National Park",
+      "country": "Iceland"
+    },
+    {
+      "id": "parks-029",
+      "name": "Doñana National Park",
+      "country": "Spain"
+    },
+    {
+      "id": "parks-030",
+      "name": "Abruzzo, Lazio and Molise National Park",
+      "country": "Italy"
+    },
+    {
+      "id": "parks-031",
+      "name": "Sarek National Park",
+      "country": "Sweden"
+    },
+    {
+      "id": "parks-032",
+      "name": "Kakadu National Park",
+      "country": "Australia"
+    },
+    {
+      "id": "parks-033",
+      "name": "Uluru-Kata Tjuta National Park",
+      "country": "Australia"
+    },
+    {
+      "id": "parks-034",
+      "name": "Retezat National Park",
+      "country": "Romania"
+    },
+    {
+      "id": "parks-035",
+      "name": "Tatra National Park",
+      "country": "Poland"
+    },
+    {
+      "id": "parks-036",
+      "name": "Mana Pools National Park",
+      "country": "Zimbabwe"
+    },
+    {
+      "id": "parks-037",
+      "name": "Galápagos National Park",
+      "country": "Ecuador"
+    },
+    {
+      "id": "parks-038",
+      "name": "Corcovado National Park",
+      "country": "Costa Rica"
+    },
+    {
+      "id": "parks-039",
+      "name": "Canaima National Park",
+      "country": "Venezuela"
+    },
+    {
+      "id": "parks-040",
+      "name": "Phong Nha-Ke Bang National Park",
+      "country": "Vietnam"
+    }
+  ]
+}
