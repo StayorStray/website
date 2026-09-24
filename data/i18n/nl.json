@@ -56,7 +56,30 @@
     "move_down": "Omlaag",
     "move_top": "Naar boven",
     "move_bottom": "Naar beneden",
-    "stay_reorder_note": "Gebruik de pijlen om je Blijven-lijst te rangschikken. Volgorde wordt op dit apparaat opgeslagen."
+    "stay_reorder_note": "Gebruik de pijlen om je Blijven-lijst te rangschikken. Volgorde wordt op dit apparaat opgeslagen.",
+    "randomizer_intro": "Kies waar je bent, filter de selectie en draai voor een echte plek.",
+    "im_in": "Ik ben in",
+    "filter": "Filter",
+    "geo_all": "Alle",
+    "geo_domestic": "Binnenland",
+    "geo_international": "Internationaal",
+    "category": "Categorie",
+    "all_categories": "Alle categorieën",
+    "spin": "Draaien",
+    "mute_sound": "Geluid dempen",
+    "unmute_sound": "Geluid aanzetten",
+    "reset_wheel": "Mijn wiel resetten",
+    "pool_status": "{n} plaatsen klaar",
+    "pool_empty": "Geen plaatsen voldoen aan je filters (of ze zijn allemaal verwijderd). Probeer Alle / een andere categorie of reset je wiel.",
+    "no_places_canvas": "Geen plaatsen",
+    "find_stay_near": "Vind een verblijf in de buurt van {name}",
+    "remove_from_wheel": "Van mijn wiel verwijderen",
+    "spin_again": "Opnieuw draaien",
+    "close": "Sluiten",
+    "prize_wheel_aria": "Plaatsenwiel",
+    "home_country_aria": "Thuisland",
+    "category_aria": "Categorie",
+    "geo_group_aria": "Binnenland of internationaal"
   },
   "tabs": {
     "hidden-gems": "Verborgen parels",
@@ -68,7 +91,8 @@
     "parks": "Nationale parken",
     "landmarks": "Historische bezienswaardigheden",
     "islands": "Eilanden",
-    "luxury": "Luxe verblijven"
+    "luxury": "Luxe verblijven",
+    "location-randomizer": "Locatierandomizer"
   },
   "cards": {
     "hidden-gems-001": {

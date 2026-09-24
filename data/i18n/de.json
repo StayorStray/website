@@ -56,7 +56,30 @@
     "move_down": "Nach unten",
     "move_top": "Ganz nach oben",
     "move_bottom": "Ganz nach unten",
-    "stay_reorder_note": "Mit den Pfeilen deine Bleiben-Liste sortieren. Die Reihenfolge wird auf diesem Gerät gespeichert."
+    "stay_reorder_note": "Mit den Pfeilen deine Bleiben-Liste sortieren. Die Reihenfolge wird auf diesem Gerät gespeichert.",
+    "randomizer_intro": "Wähle deinen Ausgangsort, filtere das Deck und drehe dann für einen echten Ort.",
+    "im_in": "Ich bin in",
+    "filter": "Filter",
+    "geo_all": "Alle",
+    "geo_domestic": "Inland",
+    "geo_international": "International",
+    "category": "Kategorie",
+    "all_categories": "Alle Kategorien",
+    "spin": "Drehen",
+    "mute_sound": "Ton aus",
+    "unmute_sound": "Ton an",
+    "reset_wheel": "Meine Drehscheibe zurücksetzen",
+    "pool_status": "{n} Orte bereit",
+    "pool_empty": "Keine Orte entsprechen deinen Filtern (oder alle wurden entfernt). Probiere Alle / eine andere Kategorie oder setze die Drehscheibe zurück.",
+    "no_places_canvas": "Keine Orte",
+    "find_stay_near": "Unterkunft in der Nähe von {name} finden",
+    "remove_from_wheel": "Von meiner Drehscheibe entfernen",
+    "spin_again": "Erneut drehen",
+    "close": "Schließen",
+    "prize_wheel_aria": "Orts-Drehscheibe",
+    "home_country_aria": "Heimatland",
+    "category_aria": "Kategorie",
+    "geo_group_aria": "Inland oder international"
   },
   "tabs": {
     "hidden-gems": "Versteckte Juwelen",
@@ -68,7 +91,8 @@
     "parks": "Nationalparks",
     "landmarks": "Historische Sehenswürdigkeiten",
     "islands": "Inseln",
-    "luxury": "Luxusaufenthalte"
+    "luxury": "Luxusaufenthalte",
+    "location-randomizer": "Orts-Zufallsgenerator"
   },
   "cards": {
     "hidden-gems-001": {

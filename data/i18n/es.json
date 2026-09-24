@@ -56,7 +56,30 @@
     "move_down": "Bajar",
     "move_top": "Al inicio",
     "move_bottom": "Al final",
-    "stay_reorder_note": "Usa las flechas para ordenar tus Quédate. El orden se guarda en este dispositivo."
+    "stay_reorder_note": "Usa las flechas para ordenar tus Quédate. El orden se guarda en este dispositivo.",
+    "randomizer_intro": "Elige dónde estás, filtra el mazo y gira para descubrir un lugar real.",
+    "im_in": "Estoy en",
+    "filter": "Filtrar",
+    "geo_all": "Todos",
+    "geo_domestic": "Nacionales",
+    "geo_international": "Internacionales",
+    "category": "Categoría",
+    "all_categories": "Todas las categorías",
+    "spin": "Girar",
+    "mute_sound": "Silenciar sonido",
+    "unmute_sound": "Activar sonido",
+    "reset_wheel": "Reiniciar mi rueda",
+    "pool_status": "{n} lugares listos",
+    "pool_empty": "Ningún lugar coincide con tus filtros (o todos fueron retirados). Prueba Todos / otra categoría o usa Reiniciar mi rueda.",
+    "no_places_canvas": "No hay lugares",
+    "find_stay_near": "Buscar alojamiento cerca de {name}",
+    "remove_from_wheel": "Quitar de mi rueda",
+    "spin_again": "Girar de nuevo",
+    "close": "Cerrar",
+    "prize_wheel_aria": "Ruleta de premios",
+    "home_country_aria": "País de residencia",
+    "category_aria": "Categoría",
+    "geo_group_aria": "Nacional o internacional"
   },
   "tabs": {
     "hidden-gems": "Joyas ocultas",
@@ -68,7 +91,8 @@
     "parks": "Parques nacionales",
     "landmarks": "Monumentos históricos",
     "islands": "Islas",
-    "luxury": "Estancias de lujo"
+    "luxury": "Estancias de lujo",
+    "location-randomizer": "Aleatorizador de ubicaciones"
   },
   "cards": {
     "hidden-gems-001": {

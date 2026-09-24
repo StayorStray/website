@@ -56,7 +56,30 @@
     "move_down": "下へ",
     "move_top": "先頭へ",
     "move_bottom": "末尾へ",
-    "stay_reorder_note": "矢印で「行く」リストの順位を変えられます。順序はこの端末に保存されます。"
+    "stay_reorder_note": "矢印で「行く」リストの順位を変えられます。順序はこの端末に保存されます。",
+    "randomizer_intro": "現在地を選び、デッキを絞り込んで、実在する場所をルーレットで選びましょう。",
+    "im_in": "現在地",
+    "filter": "絞り込み",
+    "geo_all": "すべて",
+    "geo_domestic": "国内",
+    "geo_international": "海外",
+    "category": "カテゴリー",
+    "all_categories": "すべてのカテゴリー",
+    "spin": "回す",
+    "mute_sound": "音を消す",
+    "unmute_sound": "音をオンにする",
+    "reset_wheel": "ルーレットをリセット",
+    "pool_status": "{n}か所を準備完了",
+    "pool_empty": "条件に合う場所がないか、すべて削除されています。すべて / 別のカテゴリーを試すか、ルーレットをリセットしてください。",
+    "no_places_canvas": "場所がありません",
+    "find_stay_near": "{name}の近くの宿を探す",
+    "remove_from_wheel": "ルーレットから削除",
+    "spin_again": "もう一度回す",
+    "close": "閉じる",
+    "prize_wheel_aria": "場所ルーレット",
+    "home_country_aria": "居住国",
+    "category_aria": "カテゴリー",
+    "geo_group_aria": "国内または海外"
   },
   "tabs": {
     "hidden-gems": "隠れた名所",
@@ -68,7 +91,8 @@
     "parks": "国立公園",
     "landmarks": "歴史的ランドマーク",
     "islands": "島々",
-    "luxury": "ラグジュアリーステイ"
+    "luxury": "ラグジュアリーステイ",
+    "location-randomizer": "ロケーションルーレット"
   },
   "cards": {
     "hidden-gems-001": {

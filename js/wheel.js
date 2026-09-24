@@ -336,6 +336,11 @@
       .join(' ');
   }
 
+  function t(key, vars) {
+    var i = window.StayOrStrayI18n;
+    return i && i.t ? i.t(key, vars) : key;
+  }
+
   function computeEligible() {
     var pool;
     if (state.category === 'all') {
@@ -413,7 +418,7 @@
       ctx.font = '600 14px system-ui,sans-serif';
       ctx.textAlign = 'center';
       ctx.textBaseline = 'middle';
-      ctx.fillText('No places', 0, 0);
+      ctx.fillText(t('no_places_canvas'), 0, 0);
       ctx.restore();
       return;
     }
@@ -464,17 +469,43 @@
     var n = state.eligible.length;
     if (el) {
       el.textContent =
-        n === 1 ? '1 place in your wheel' : n + ' places in your wheel';
+        t('pool_status', { n: n });
     }
     if (btn) btn.disabled = n === 0 || state.spinning;
     if (empty) {
       if (n === 0) {
         empty.hidden = false;
-        empty.textContent =
-          'No places match your filters (or all were removed). Try All / another category, or use Reset my wheel.';
+        empty.textContent = t('pool_empty');
       } else {
         empty.hidden = true;
       }
+    }
+  }
+
+  function applyRandomizerChrome() {
+    var i = window.StayOrStrayI18n;
+    if (!i || !i.ready || !i.ready()) return;
+
+    Array.prototype.forEach.call(document.querySelectorAll('[data-i18n]'), function (el) {
+      var key = el.getAttribute('data-i18n');
+      if (key) el.textContent = t(key);
+    });
+
+    var countrySel = document.getElementById('wheel-home-country');
+    var categorySel = document.getElementById('wheel-category');
+    var geoGroup = document.querySelector('.randomizer-geo');
+    var canvas = document.getElementById('wheel-canvas');
+    if (countrySel) countrySel.setAttribute('aria-label', t('home_country_aria'));
+    if (categorySel) categorySel.setAttribute('aria-label', t('category_aria'));
+    if (geoGroup) geoGroup.setAttribute('aria-label', t('geo_group_aria'));
+    if (canvas) canvas.setAttribute('aria-label', t('prize_wheel_aria'));
+    updateSoundToggle();
+    updatePoolStatus();
+
+    var modal = document.getElementById('wheel-modal');
+    var hotel = document.getElementById('wheel-modal-hotel');
+    if (modal && hotel && !modal.hidden && state.lastPick) {
+      hotel.textContent = t('find_stay_near', { name: state.lastPick.name || t('this_place') });
     }
   }
 
@@ -515,7 +546,7 @@
 
     if (catSel) {
       var opts =
-        '<option value="all">All categories</option>' +
+        '<option value="all">' + escapeHtml(t('all_categories')) + '</option>' +
         tabsWithCards()
           .map(function (slug) {
             return (
@@ -711,7 +742,7 @@
   function updateSoundToggle() {
     var toggle = document.getElementById('wheel-sound-toggle');
     if (!toggle) return;
-    var label = state.soundEnabled ? 'Mute sound' : 'Unmute sound';
+    var label = state.soundEnabled ? t('mute_sound') : t('unmute_sound');
     toggle.setAttribute('aria-pressed', String(state.soundEnabled));
     toggle.setAttribute('aria-label', label);
     toggle.textContent = label;
@@ -832,7 +863,7 @@
     }
     if (hotel) {
       hotel.href = adHref(card);
-      hotel.textContent = 'Find a stay near ' + (card.name || 'this place');
+      hotel.textContent = t('find_stay_near', { name: card.name || t('this_place') });
     }
 
     modal.hidden = false;
@@ -848,8 +879,19 @@
     modal.setAttribute('aria-hidden', 'true');
   }
 
+  function watchI18n() {
+    var i = window.StayOrStrayI18n;
+    if (!i || !i.onChange) return;
+    i.onChange(function () {
+      populateControls();
+      refreshFiltersAndWheel();
+      applyRandomizerChrome();
+    });
+  }
+
   async function boot() {
     if (document.body.dataset.tab !== 'location-randomizer') return;
+    watchI18n();
 
     var stored = loadStorage();
     state.homeCountry = stored.homeCountry;
@@ -878,6 +920,7 @@
     populateControls();
     bindControls();
     refreshFiltersAndWheel();
+    applyRandomizerChrome();
   }
 
   if (document.readyState === 'loading') {

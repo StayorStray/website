@@ -111,6 +111,14 @@
   }
 
   function applyChrome() {
+    /* Translate simple markup labels declared in the page itself. Dynamic UI
+     * (such as the randomizer pool) is refreshed by its owning module. */
+    var localized = document.querySelectorAll('[data-i18n]');
+    Array.prototype.forEach.call(localized, function (el) {
+      var key = el.getAttribute('data-i18n');
+      if (key) el.textContent = t(key);
+    });
+
     var tagline = document.querySelector('.tagline');
     if (tagline) tagline.textContent = t('tagline');
 

@@ -56,7 +56,30 @@
     "move_down": "Move down",
     "move_top": "Move to top",
     "move_bottom": "Move to bottom",
-    "stay_reorder_note": "Use the arrows to rank your Stays. Order is saved on this device."
+    "stay_reorder_note": "Use the arrows to rank your Stays. Order is saved on this device.",
+    "randomizer_intro": "Pick where you’re based, filter the deck, then spin for a real place.",
+    "im_in": "I’m in",
+    "filter": "Filter",
+    "geo_all": "All",
+    "geo_domestic": "Domestic",
+    "geo_international": "International",
+    "category": "Category",
+    "all_categories": "All categories",
+    "spin": "Spin",
+    "mute_sound": "Mute sound",
+    "unmute_sound": "Unmute sound",
+    "reset_wheel": "Reset my wheel",
+    "pool_status": "{n} places ready",
+    "pool_empty": "No places match your filters (or all were removed). Try All / another category, or use Reset my wheel.",
+    "no_places_canvas": "No places",
+    "find_stay_near": "Find a stay near {name}",
+    "remove_from_wheel": "Remove from my wheel",
+    "spin_again": "Spin again",
+    "close": "Close",
+    "prize_wheel_aria": "Prize wheel",
+    "home_country_aria": "Home country",
+    "category_aria": "Category",
+    "geo_group_aria": "Domestic or international"
   },
   "tabs": {
     "hidden-gems": "Hidden Gems",
@@ -68,7 +91,8 @@
     "parks": "National Parks",
     "landmarks": "Historic Landmarks",
     "islands": "Islands",
-    "luxury": "Luxury Stays"
+    "luxury": "Luxury Stays",
+    "location-randomizer": "Location Randomizer"
   },
   "cards": {
     "hidden-gems-001": {

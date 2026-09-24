@@ -56,7 +56,30 @@
     "move_down": "Descendre",
     "move_top": "En haut",
     "move_bottom": "En bas",
-    "stay_reorder_note": "Utilisez les flèches pour classer vos Restez. L’ordre est enregistré sur cet appareil."
+    "stay_reorder_note": "Utilisez les flèches pour classer vos Restez. L’ordre est enregistré sur cet appareil.",
+    "randomizer_intro": "Choisissez votre lieu de résidence, filtrez le catalogue, puis lancez la roue pour découvrir un vrai lieu.",
+    "im_in": "Je suis à",
+    "filter": "Filtrer",
+    "geo_all": "Tous",
+    "geo_domestic": "National",
+    "geo_international": "International",
+    "category": "Catégorie",
+    "all_categories": "Toutes les catégories",
+    "spin": "Lancer",
+    "mute_sound": "Couper le son",
+    "unmute_sound": "Activer le son",
+    "reset_wheel": "Réinitialiser ma roue",
+    "pool_status": "{n} lieux prêts",
+    "pool_empty": "Aucun lieu ne correspond à vos filtres (ou ils ont tous été retirés). Essayez Tous / une autre catégorie ou utilisez Réinitialiser ma roue.",
+    "no_places_canvas": "Aucun lieu",
+    "find_stay_near": "Trouver un hébergement près de {name}",
+    "remove_from_wheel": "Retirer de ma roue",
+    "spin_again": "Relancer",
+    "close": "Fermer",
+    "prize_wheel_aria": "Roue des lieux",
+    "home_country_aria": "Pays de résidence",
+    "category_aria": "Catégorie",
+    "geo_group_aria": "National ou international"
   },
   "tabs": {
     "hidden-gems": "Pépites cachées",
@@ -68,7 +91,8 @@
     "parks": "Parcs nationaux",
     "landmarks": "Monuments historiques",
     "islands": "Îles",
-    "luxury": "Séjours de luxe"
+    "luxury": "Séjours de luxe",
+    "location-randomizer": "Aléatoire de lieux"
   },
   "cards": {
     "hidden-gems-001": {

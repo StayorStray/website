@@ -379,7 +379,7 @@
         wheelCur +
         ' href="' +
         wheelHref +
-        '">Location Randomizer</a></li>'
+        '">' + escapeHtml(tabLabel('location-randomizer')) + '</a></li>'
     );
     nav.innerHTML = items.join('');
   }

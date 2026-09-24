@@ -37,30 +37,30 @@
 
     <section class="randomizer" aria-labelledby="randomizer-heading">
       <h1 id="randomizer-heading" class="deck-section-label">Location Randomizer</h1>
-      <p class="randomizer-intro">Pick where you’re based, filter the deck, then spin for a real place.</p>
+      <p class="randomizer-intro" data-i18n="randomizer_intro">Pick where you’re based, filter the deck, then spin for a real place.</p>
 
       <div class="randomizer-controls">
         <label class="randomizer-field">
-          <span class="randomizer-label">I’m in</span>
+          <span class="randomizer-label" data-i18n="im_in">I’m in</span>
           <select id="wheel-home-country" class="randomizer-select" aria-label="Home country"></select>
         </label>
 
         <fieldset class="randomizer-fieldset">
-          <legend class="randomizer-label">Filter</legend>
+          <legend class="randomizer-label" data-i18n="filter">Filter</legend>
           <div class="randomizer-geo" role="radiogroup" aria-label="Domestic or international">
-            <label class="randomizer-chip"><input type="radio" name="wheel-geo" value="all" checked /> All</label>
-            <label class="randomizer-chip"><input type="radio" name="wheel-geo" value="domestic" /> Domestic</label>
-            <label class="randomizer-chip"><input type="radio" name="wheel-geo" value="international" /> International</label>
+            <label class="randomizer-chip"><input type="radio" name="wheel-geo" value="all" checked /> <span data-i18n="geo_all">All</span></label>
+            <label class="randomizer-chip"><input type="radio" name="wheel-geo" value="domestic" /> <span data-i18n="geo_domestic">Domestic</span></label>
+            <label class="randomizer-chip"><input type="radio" name="wheel-geo" value="international" /> <span data-i18n="geo_international">International</span></label>
           </div>
         </fieldset>
 
         <label class="randomizer-field">
-          <span class="randomizer-label">Category</span>
+          <span class="randomizer-label" data-i18n="category">Category</span>
           <select id="wheel-category" class="randomizer-select" aria-label="Category"></select>
         </label>
       </div>
 
-      <p class="randomizer-pool" id="wheel-pool-status" aria-live="polite">Loading…</p>
+      <p class="randomizer-pool" id="wheel-pool-status" aria-live="polite" data-i18n="loading">Loading…</p>
       <p class="randomizer-empty" id="wheel-empty-msg" hidden role="status"></p>
 
       <div class="wheel-stage">
@@ -69,15 +69,15 @@
       </div>
 
       <div class="randomizer-actions">
-        <button type="button" class="btn btn-stay" id="wheel-spin-btn">Spin</button>
-        <button type="button" class="btn-undo wheel-sound-toggle" id="wheel-sound-toggle" aria-pressed="true" aria-label="Mute sound">Mute sound</button>
+        <button type="button" class="btn btn-stay" id="wheel-spin-btn" data-i18n="spin">Spin</button>
+        <button type="button" class="btn-undo wheel-sound-toggle" id="wheel-sound-toggle" aria-pressed="true" aria-label="Mute sound" data-i18n="mute_sound">Mute sound</button>
       </div>
     </section>
   </main>
 
   <footer class="site-footer" id="footer">
     <p class="randomizer-reset-wrap">
-      <button type="button" class="btn-undo randomizer-reset" id="wheel-reset-btn">Reset my wheel</button>
+      <button type="button" class="btn-undo randomizer-reset" id="wheel-reset-btn" data-i18n="reset_wheel">Reset my wheel</button>
     </p>
     <nav aria-label="Footer">
       <a href="../index.html#about">About</a>
@@ -101,9 +101,9 @@
         <p id="wheel-modal-credit" class="wheel-modal-credit"></p>
         <a id="wheel-modal-hotel" class="wheel-modal-hotel" href="#" target="_blank" rel="noopener noreferrer">Find a stay</a>
         <div class="wheel-modal-actions">
-          <button type="button" class="btn btn-stray" id="wheel-modal-remove">Remove from my wheel</button>
-          <button type="button" class="btn btn-stay" id="wheel-modal-again">Spin again</button>
-          <button type="button" class="btn-undo" id="wheel-modal-close">Close</button>
+          <button type="button" class="btn btn-stray" id="wheel-modal-remove" data-i18n="remove_from_wheel">Remove from my wheel</button>
+          <button type="button" class="btn btn-stay" id="wheel-modal-again" data-i18n="spin_again">Spin again</button>
+          <button type="button" class="btn-undo" id="wheel-modal-close" data-i18n="close">Close</button>
         </div>
       </div>
     </div>
