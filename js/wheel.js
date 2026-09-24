@@ -601,7 +601,11 @@
       });
     });
     if (spinBtn) {
+      /* Unlock on pointerdown/touchstart so iOS has a gesture before click. */
+      spinBtn.addEventListener('pointerdown', unlockAudioFromGesture);
+      spinBtn.addEventListener('touchstart', unlockAudioFromGesture, { passive: true });
       spinBtn.addEventListener('click', function () {
+        unlockAudioFromGesture();
         spin();
       });
     }
@@ -610,7 +614,7 @@
         state.soundEnabled = !state.soundEnabled;
         saveStorage();
         updateSoundToggle();
-        if (state.soundEnabled) getAudioContext();
+        if (state.soundEnabled) unlockAudioFromGesture();
       });
       updateSoundToggle();
     }
@@ -630,7 +634,10 @@
       var removeBtn = document.getElementById('wheel-modal-remove');
       if (closeBtn) closeBtn.addEventListener('click', closeModal);
       if (againBtn) {
+        againBtn.addEventListener('pointerdown', unlockAudioFromGesture);
+        againBtn.addEventListener('touchstart', unlockAudioFromGesture, { passive: true });
         againBtn.addEventListener('click', function () {
+          unlockAudioFromGesture();
           closeModal();
           spin();
         });
@@ -674,19 +681,44 @@
       var AudioContextCtor = window.AudioContext || window.webkitAudioContext;
       if (!AudioContextCtor) return null;
       if (!audioContext) audioContext = new AudioContextCtor();
-      if (audioContext.state === 'suspended') {
-        var resume = audioContext.resume();
-        if (resume && resume.catch) resume.catch(function () {});
-      }
       return audioContext;
     } catch (e) {
       return null;
     }
   }
 
+  /**
+   * iOS Safari/Chrome require AudioContext.resume() and an actual
+   * buffer/oscillator start inside the same user gesture that starts
+   * playback. Call this from Spin (and unmute) before rAF ticks.
+   */
+  function unlockAudioFromGesture() {
+    if (!state.soundEnabled || prefersReducedMotion()) return null;
+    var ctx = getAudioContext();
+    if (!ctx) return null;
+    try {
+      if (ctx.state === 'suspended') {
+        var resume = ctx.resume();
+        if (resume && resume.catch) resume.catch(function () {});
+      }
+      /* Near-silent one-shot unlocks Web Audio on iOS within the gesture. */
+      var buffer = ctx.createBuffer(1, 1, ctx.sampleRate || 22050);
+      var source = ctx.createBufferSource();
+      source.buffer = buffer;
+      var gain = ctx.createGain();
+      gain.gain.setValueAtTime(0.0001, ctx.currentTime);
+      source.connect(gain);
+      gain.connect(ctx.destination);
+      source.start(0);
+    } catch (e) {
+      /* Unlock is best-effort; ticks still attempt to play. */
+    }
+    return ctx;
+  }
+
   function playTick() {
     var ctx = getAudioContext();
-    if (!ctx) return;
+    if (!ctx || ctx.state === 'suspended') return;
     try {
       var now = ctx.currentTime;
       var osc = ctx.createOscillator();
@@ -722,7 +754,7 @@
 
   function playLandChime() {
     var ctx = getAudioContext();
-    if (!ctx) return;
+    if (!ctx || ctx.state === 'suspended') return;
     try {
       var start = ctx.currentTime + 0.01;
       playLandTone(ctx, 523.25, start, 0.52, 0.052);
@@ -756,7 +788,7 @@
       return;
     }
     state.spinning = true;
-    getAudioContext();
+    unlockAudioFromGesture();
     updatePoolStatus();
 
     var pool = state.eligible;
