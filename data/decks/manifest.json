@@ -297,7 +297,7 @@
     "countries": {
       "live_file": "data/countries.json",
       "archive_dir": "data/decks/countries/",
-      "approved_count": 20,
+      "approved_count": 40,
       "catalog_target": 100,
       "scale_target_met": false,
       "mvp_ready": true,
@@ -328,6 +328,33 @@
             "countries-018",
             "countries-019",
             "countries-020"
+          ]
+        },
+        {
+          "id": "countries-set-002",
+          "file": "set-002.json",
+          "status": "approved",
+          "card_ids": [
+            "countries-021",
+            "countries-022",
+            "countries-023",
+            "countries-024",
+            "countries-025",
+            "countries-026",
+            "countries-027",
+            "countries-028",
+            "countries-029",
+            "countries-030",
+            "countries-031",
+            "countries-032",
+            "countries-033",
+            "countries-034",
+            "countries-035",
+            "countries-036",
+            "countries-037",
+            "countries-038",
+            "countries-039",
+            "countries-040"
           ]
         }
       ],

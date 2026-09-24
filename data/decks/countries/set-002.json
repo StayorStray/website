@@ -1,0 +1,1061 @@
+{
+  "id": "countries-set-002",
+  "tab": "countries",
+  "label": "Countries — Set 2 (021–040)",
+  "card_ids": [
+    "countries-021",
+    "countries-022",
+    "countries-023",
+    "countries-024",
+    "countries-025",
+    "countries-026",
+    "countries-027",
+    "countries-028",
+    "countries-029",
+    "countries-030",
+    "countries-031",
+    "countries-032",
+    "countries-033",
+    "countries-034",
+    "countries-035",
+    "countries-036",
+    "countries-037",
+    "countries-038",
+    "countries-039",
+    "countries-040"
+  ],
+  "count": 20,
+  "auditor": "20/20 approved 2026-09-24 (Accuracy Auditor Countries fill 021–040)",
+  "cards": [
+    {
+      "id": "countries-021",
+      "tab": "countries",
+      "name": "Norway",
+      "short_line": "Northern Europe",
+      "country": "Norway",
+      "lat": 62.1015,
+      "lng": 7.0941,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Geirangerfjord.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-021.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AGeirangerfjord.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "FataMorgana",
+        "attribution": "Photo: FataMorgana, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Geirangerfjord.jpg' confirms Norway; desc: Das Ostende des Geirangerfjords in der Übersicht"
+      },
+      "facts": {
+        "one_liner": "UNESCO Geirangerfjord: village, hairpin Eagle Road, and cruise ships at the fjord head.",
+        "why_go": "Norway’s country card here is Geirangerfjord—the eastern arm of the West Norwegian Fjords UNESCO World Heritage site (inscribed 2005 with Nærøyfjord). The photo matches the classic high overlook of the fjord head: deep blue water, snow-patched peaks, a thin waterfall on the right wall, three white cruise ships, the village of Geiranger in the valley, the triangular-roofed Norwegian Fjord Centre, and the hairpin Ørnevegen (Eagle Road) climbing the right-hand slope. Sheer crystalline walls rise up to about 1,400 m above the sea; free-falling waterfalls and abandoned cliff farms complete the archetypal fjord landscape Visit Norway promotes. Travellers base in Geiranger for boat tours, kayaking, and viewpoints such as Flydalsjuvet and Ørnesvingen rather than treating the fjord as a distant drive-by.",
+        "best_time": "Late May–September for open mountain roads, ferry/cruise schedules, and greener valley slopes (the photo’s season). July–August bring the most ships and traffic; shoulder weeks are quieter. Winter access is limited and many services close.",
+        "how_to_get_there": "Fly into Ålesund (AES) or Molde, then drive or bus via the scenic routes into Geiranger (seasonal mountain roads). Summer ferries and Hurtigruten/Havila calls also serve the village. Plan with Entur, Norway’s official travel planner, and Visit Norway’s Geirangerfjord pages.",
+        "good_to_know": "Geiranger is a Sustainable Destination under Visit Norway’s scheme—expect busy cruise days. Pair the overlook with the Norwegian Fjord Centre (UNESCO visitor hub) and a fjord cruise past the Seven Sisters and Bridal Veil waterfalls. Check road and ferry status before peak-season arrival.",
+        "official_or_tourism_url": "https://www.visitnorway.com/places-to-go/fjord-norway/the-geirangerfjord/",
+        "sources": [
+          "https://www.visitnorway.com/places-to-go/fjord-norway/the-geirangerfjord/",
+          "https://whc.unesco.org/en/list/1195/",
+          "https://www.fjordsenter.com/en/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Geiranger, Norway",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Geiranger%2C%20Norway&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Geiranger%2C%20Norway&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Geiranger%2C%20Norway&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Geiranger"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "Geirangerfjord overlook: village + Eagle Road hairpins + 3 cruise ships; CC BY-SA 3.0 FataMorgana; ad Geiranger; unique vs 001–020."
+      }
+    },
+    {
+      "id": "countries-022",
+      "tab": "countries",
+      "name": "Croatia",
+      "short_line": "Southern Europe",
+      "country": "Croatia",
+      "lat": 42.6507,
+      "lng": 18.0944,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Casco_viejo_de_Dubrovnik%2C_Croacia%2C_2014-04-14%2C_DD_07.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-022.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACasco_viejo_de_Dubrovnik%2C_Croacia%2C_2014-04-14%2C_DD_07.JPG",
+        "license": "CC BY-SA 3.0",
+        "author": "Diego Delso",
+        "attribution": "Photo: Diego Delso, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Casco viejo de Dubrovnik, Croacia, 2014-04-14, DD 07.JPG' confirms Croatia; desc: Early morning view of the Old Town of Dubrovnik and its city walls, an UNESCO Heritage Site since 1979. The former Republic of Ragusa was a maritime republic ce"
+      },
+      "facts": {
+        "one_liner": "Early-morning Dubrovnik Old Town: terracotta roofs inside UNESCO city walls above the Adriatic.",
+        "why_go": "Croatia’s country card is the walled Old City of Dubrovnik on the Dalmatian coast—UNESCO-listed since 1979 (boundaries later refined). The photo is Diego Delso’s early-morning panorama: dense stone houses under uniform terracotta roofs, the full circuit of medieval walls and bastions, the small Old Harbour packed with boats, and Lokrum island offshore. The former Republic of Ragusa’s Gothic, Renaissance, and Baroque fabric survived the 1667 earthquake and 1990s war damage; restoration remains coordinated with UNESCO. Visitors walk the ~1,940 m walls (five fortresses, sixteen towers), stroll Stradun, and ferry to Lokrum rather than treating Dubrovnik as a beach-only stop.",
+        "best_time": "April–June and September–October for mild weather and thinner cruise-day crowds than July–August. Early morning (as in the photo) gives the softest light and quieter wall walks. Walls open year-round except 25 December.",
+        "how_to_get_there": "Fly into Dubrovnik Airport (DBV), then airport bus or taxi to the city. Old Town is largely car-free—use Pile or Ploče gates on foot; park outside and ride local buses. Ferries and catamarans link coastal towns and nearby islands.",
+        "good_to_know": "Buy City Walls tickets via the Society of Friends of Dubrovnik Antiquities webshop (or Dubrovnik Pass for walls + museums + transit). Wall tickets also cover Fort Lovrijenac. Follow Old Town traffic rules and expect heat on the exposed ramparts in summer.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/95/",
+        "sources": [
+          "https://whc.unesco.org/en/list/95/",
+          "https://citywallsdubrovnik.hr/faq/",
+          "https://shop.citywallsdubrovnik.hr/en/buy-tickets-for-the-following-locations"
+        ]
+      },
+      "ad": {
+        "destination_query": "Dubrovnik, Croatia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Dubrovnik%2C%20Croatia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Dubrovnik%2C%20Croatia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Dubrovnik%2C%20Croatia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Dubrovnik"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "Dubrovnik Old Town terracotta roofs + walls + harbour; CC BY-SA 3.0 Diego Delso; ad Dubrovnik."
+      }
+    },
+    {
+      "id": "countries-023",
+      "tab": "countries",
+      "name": "Argentina",
+      "short_line": "South America",
+      "country": "Argentina",
+      "lat": -50.4689,
+      "lng": -73.0369,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-023.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APerito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
+        "license": "CC BY-SA 2.5",
+        "author": "Luca Galuzzi (Lucag)",
+        "attribution": "Photo: Luca Galuzzi (Lucag), CC BY-SA 2.5, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Perito Moreno Glacier Patagonia Argentina Luca Galuzzi 2005.JPG' confirms Argentina; desc: Perito Moreno Glacier, in Los Glaciares National Park, southern Argentina"
+      },
+      "facts": {
+        "one_liner": "Perito Moreno Glacier’s blue-white front and icebergs on Lago Argentino, Los Glaciares NP.",
+        "why_go": "Argentina’s Patagonia card is Perito Moreno Glacier inside Los Glaciares National Park (Santa Cruz)—a UNESCO World Heritage property since 1981. The photo matches Luca Galuzzi’s classic view: a jagged, blue-tinted ice wall rising from milky turquoise water, floating bergs in the foreground, scrub shoreline below, and snow-dusted Andes behind. The glacier is fed by the Southern Patagonian Ice Field; boardwalks and viewpoints on the Magellan Peninsula let visitors watch calving without a boat. Travellers base in El Calafate for the pasarelas circuit, optional lake navigations, and guided ice treks rather than treating the park as a flyover.",
+        "best_time": "October–April for longer daylight and fuller boat/trek schedules (park Mitre–Moreno corridor access roughly 08:00–18:00 Sep–Apr). May–August is quieter and colder with shorter hours (roughly 09:00–16:00). Clear mornings favour ice colour.",
+        "how_to_get_there": "Fly into El Calafate (FTE). Drive or take a bus/excursion ~80 km west on paved RP 11 to the Río Mitre portal and glacier boardwalks. Regular buses, remises, and organised tours run from town; rental cars use the lower parking area.",
+        "good_to_know": "Pay park entry (online or at Río Mitre). The boardwalk network exceeds 4.5 km with accessible sections—allow several hours. Ice trekking and channel boat trips are operator-run add-ons; dress for wind and spray near the front.",
+        "official_or_tourism_url": "https://www.argentina.gob.ar/parquesnacionales/patagonia-austral/parque-nacional-los-glaciares/horarios-como-llegar-0",
+        "sources": [
+          "https://whc.unesco.org/en/list/145/",
+          "https://www.argentina.gob.ar/parquesnacionales/patagonia-austral/parque-nacional-los-glaciares/horarios-como-llegar-0",
+          "https://www.argentina.gob.ar/parquesnacionales/patagonia-austral/parque-nacional-los-glaciares/actividades"
+        ]
+      },
+      "ad": {
+        "destination_query": "El Calafate, Argentina",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=El%20Calafate%2C%20Argentina&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=El%20Calafate%2C%20Argentina&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=El%20Calafate%2C%20Argentina&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in El Calafate"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "Perito Moreno ice front + bergs on Lago Argentino; CC BY-SA 2.5 Luca Galuzzi; ad El Calafate."
+      }
+    },
+    {
+      "id": "countries-024",
+      "tab": "countries",
+      "name": "Vietnam",
+      "short_line": "Southeast Asia",
+      "country": "Vietnam",
+      "lat": 20.9101,
+      "lng": 107.1839,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/H%E1%BA%A1_Long_Bay_Panorama%2C_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-024.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AH%E1%BA%A1_Long_Bay_Panorama%2C_Vietnam.jpg",
+        "license": "CC0",
+        "author": "Mustang Joe",
+        "attribution": "Photo: Mustang Joe, CC0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Hạ Long Bay Panorama, Vietnam.jpg' confirms Vietnam; desc: Hạ Long Bay Panorama, Vietnam"
+      },
+      "facts": {
+        "one_liner": "Ha Long Bay panorama: forested limestone karsts rising from calm Gulf of Tonkin water.",
+        "why_go": "Vietnam’s country card is Ha Long Bay in Quảng Ninh—UNESCO World Heritage first for scenic beauty (1994) and again for geology/geomorphology (2000); the property was expanded in 2023 as Ha Long Bay – Cat Ba Archipelago. The photo is a wide elevated panorama of grey limestone pillars and islets capped in green vegetation across still teal water, with a tiny boat for scale—exactly the karst seascape the heritage listing protects. Thousands of islands concentrate in the bay; travellers typically cruise from Tuần Châu or Hạ Long terminals for caves, kayaking, and overnight junks rather than a city-only Hanoi stop.",
+        "best_time": "October–April for clearer skies and calmer seas than the May–September rainy/typhoon-influenced months. Early starts reduce haze on panorama viewpoints and day-cruise routes.",
+        "how_to_get_there": "From Hanoi, highway bus or private transfer ~2.5–3.5 hours east to Hạ Long / Tuần Châu Island marina (~170 km). Most visitors board licensed day or overnight cruises from Tuần Châu International Marina or Hạ Long International Cruise Terminal.",
+        "good_to_know": "Choose operators licensed for the heritage zone; overnight trips reach quieter anchorages than short day loops. Weather can close outer routes—check the Ha Long Bay Management Board advisories. Combine with Cát Bà for the expanded 2023 heritage footprint.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/672/",
+        "sources": [
+          "https://whc.unesco.org/en/list/672/",
+          "https://vietnamtourism.vn/en/index.php/tourism/items/1627",
+          "https://halongbay.com.vn/en/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Ha Long Bay, Vietnam",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ha%20Long%20Bay%2C%20Vietnam&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ha%20Long%20Bay%2C%20Vietnam&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ha%20Long%20Bay%2C%20Vietnam&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Ha Long Bay"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "Ha Long Bay limestone karst panorama; CC0 Mustang Joe; ad Ha Long Bay."
+      }
+    },
+    {
+      "id": "countries-025",
+      "tab": "countries",
+      "name": "Kenya",
+      "short_line": "East Africa",
+      "country": "Kenya",
+      "lat": -1.4061,
+      "lng": 35.0117,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Masai_Mara_National_Reserve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-025.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMasai_Mara_National_Reserve.jpg",
+        "license": "CC BY 2.0",
+        "author": "Ninara",
+        "attribution": "Photo: Ninara, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Masai Mara National Reserve.jpg' confirms Kenya; desc: Masai Mara, Kenya"
+      },
+      "facts": {
+        "one_liner": "Masai Mara National Reserve: lush green bush and hills under a clear East African sky.",
+        "why_go": "Kenya’s country card is the Masai Mara National Reserve in Narok County—~1,510 km² of savannah contiguous with Tanzania’s Serengeti, managed by Narok County (Mara Triangle sector via the Mara Conservancy). The photo shows the reserve in a verdant, post-rain state: tall grass, leafy shrubs, scattered trees, and a soft escarpment hill line—bush cover that shelters predators and plains game, not only golden dry-season grassland. Magical Kenya highlights Big Five viewing and the Great Migration; travellers come for game drives, balloon safaris, and riverine wildlife along the Mara and Talek rather than a Nairobi-only trip.",
+        "best_time": "June–October for reliable dry-season viewing; July–October for the usual Great Migration / Mara River crossing window (timing depends on rain). January–March offers greener scenery and strong resident predators with fewer peak crowds—closer to the photo’s lush look.",
+        "how_to_get_there": "Fly scheduled or charter from Nairobi (Wilson or JKIA) into Mara airstrips, or drive ~5–6 hours via Narok to the reserve gates. Stay inside the reserve or in adjoining conservancies; game drives use 4×4 vehicles with licensed guides.",
+        "good_to_know": "Park/reserve fees and gate rules are set by Narok County—confirm current rates before arrival. Migration crossings are never guaranteed day-to-day. Conservancies may allow night drives and walking safaris not permitted inside the main reserve boundary.",
+        "official_or_tourism_url": "https://magicalkenya.com/maasai-mara/",
+        "sources": [
+          "https://magicalkenya.com/maasai-mara/",
+          "https://maasai-mara-reserve.com/",
+          "https://whc.unesco.org/en/tentativelists/6679/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Masai Mara, Kenya",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Masai%20Mara%2C%20Kenya&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Masai%20Mara%2C%20Kenya&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Masai%20Mara%2C%20Kenya&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Masai Mara"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "Masai Mara green bush/hills (Commons File:Masai_Mara_National_Reserve.jpg, Ninara CC BY 2.0). CLOSE CALL: no wildlife in frame — landscape still sells Mara visit; facts match bush framing; ad Masai Mara."
+      }
+    },
+    {
+      "id": "countries-026",
+      "tab": "countries",
+      "name": "Mexico",
+      "short_line": "North America",
+      "country": "Mexico",
+      "lat": 20.6843,
+      "lng": -88.5678,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/El_Castillo%2C_Chichen_Itza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-026.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AEl_Castillo%2C_Chichen_Itza.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "ZuyuaT",
+        "attribution": "Photo: ZuyuaT, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:El Castillo, Chichen Itza.jpg' confirms Mexico; desc: A sculpted stone head of Kukulkan (the Feathered Serpent) with the structure commonly known as the Castle (from Spanish El Castillo) in the background."
+      },
+      "facts": {
+        "one_liner": "Chichén Itzá: Kukulkán serpent head in front of El Castillo step-pyramid under Yucatán sky.",
+        "why_go": "Mexico’s country card is the Pre-Hispanic City of Chichen-Itza (Yucatán)—UNESCO World Heritage since 1988 and managed as an INAH archaeological zone. The photo matches the famous pairing: a large weathered feathered-serpent (Kukulkán) stone head in the left foreground, a low plaza wall, and El Castillo (Temple of Kukulkán) behind—nine terraces, steep central stair, and summit temple under bright cumulus. El Castillo’s equinox light-and-shadow serpent effect draws seasonal crowds, but the pyramid and Great Plaza reward any clear day. Climbing El Castillo is prohibited; visitors circle the base and explore the wider site (Ball Court, Temple of the Warriors, Cenote Sagrado).",
+        "best_time": "November–April for cooler, drier weather. Arrive at opening (typically 08:00) to beat heat and tour buses; equinox dates are busiest. Midday sun is harsh on the open plaza.",
+        "how_to_get_there": "From Cancún, Playa del Carmen, or Mérida by ADO/bus, organised day tour, or rental car (~2–2.5 hours from Cancún). Park at official lots; enter via the INAH ticket office (Boleto Único system—confirm current foreign/national rates).",
+        "good_to_know": "Do not climb El Castillo—enforced for conservation and safety. Bring sun protection and water; shade is limited on the main plaza. Buy only through official INAH / zone channels; guides are available but optional.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/483/",
+        "sources": [
+          "https://whc.unesco.org/en/list/483/",
+          "https://lugares.inah.gob.mx/es/node/4335",
+          "https://www.inah.gob.mx/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Chichen Itza, Mexico",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Chichen%20Itza%2C%20Mexico&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Chichen%20Itza%2C%20Mexico&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Chichen%20Itza%2C%20Mexico&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Chichen Itza"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "Chichén Itzá El Castillo with Kukulkán serpent head foreground; CC BY-SA 4.0 ZuyuaT. CLOSE CALL: statue in FG but pyramid is clear country hero (not statues-only); ad Chichen Itza."
+      }
+    },
+    {
+      "id": "countries-027",
+      "tab": "countries",
+      "name": "Chile",
+      "short_line": "South America",
+      "country": "Chile",
+      "lat": -50.9423,
+      "lng": -73.4068,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Torres_del_Paine_-_Janvier_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-027.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ATorres_del_Paine_-_Janvier_2010.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Martin St-Amant (S23678)",
+        "attribution": "Photo: Martin St-Amant (S23678), CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Torres del Paine - Janvier 2010.jpg' confirms Chile; desc: The Almirante Nieto Mountain, part of the Cordillera del Paine, in Parc national Torres del Paine, Chile"
+      },
+      "facts": {
+        "one_liner": "Torres del Paine: Monte Almirante Nieto and misted granite towers above Patagonian steppe.",
+        "why_go": "Chile’s country card is Torres del Paine National Park in Magallanes—UNESCO Biosphere Reserve and flagship of Chile Travel’s Ruta de los Parques. The photo matches Martin St-Amant’s view of Monte Almirante Nieto (snow-patched massif on the right) with the park’s granite towers partially veiled in cloud to the left, above rolling green-and-ochre steppe—Cordillera del Paine scenery, not a city skyline. Visitors hike the W and O circuits, day-walk to Mirador Base Las Torres or Grey Glacier, and watch guanacos and weather fronts race across the massif. Puerto Natales is the usual gateway.",
+        "best_time": "October–April (Patagonian spring–autumn) for trail access and services; December–February is busiest and windiest. May–September brings snow, shorter days, and limited transport—check CONAF conditions.",
+        "how_to_get_there": "Fly to Punta Arenas (PUQ) or seasonal Puerto Natales (PNT), then bus or car to the park (~2 hours from Puerto Natales via Laguna Amarga, Sarmiento, or Serrano gates). Book CONAF entry and any refugio/camping reservations before peak season.",
+        "good_to_know": "Patagonian wind and sudden weather shifts are routine—layer clothing and allow flexible itineraries. Summiting Almirante Nieto is a technical climb needing permits, not a standard park day hike; most travellers photograph it from valley viewpoints and trails.",
+        "official_or_tourism_url": "https://chile.travel/destinos/torres-del-paine/",
+        "sources": [
+          "https://chile.travel/destinos/torres-del-paine/",
+          "https://chile.travel/atractivos/parque-nacional-torres-del-paine/",
+          "https://www.conaf.cl/parque_nacionales/parque-nacional-torres-del-paine/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Torres del Paine, Chile",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Torres%20del%20Paine%2C%20Chile&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Torres%20del%20Paine%2C%20Chile&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Torres%20del%20Paine%2C%20Chile&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Torres del Paine"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "Torres del Paine massif / Almirante Nieto above steppe; CC BY-SA 3.0 Martin St-Amant; ad Torres del Paine."
+      }
+    },
+    {
+      "id": "countries-028",
+      "tab": "countries",
+      "name": "Austria",
+      "short_line": "Central Europe",
+      "country": "Austria",
+      "lat": 47.5622,
+      "lng": 13.6493,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Hallstatt_from_above.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-028.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AHallstatt_from_above.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "MarinaBaranova",
+        "attribution": "Photo: MarinaBaranova, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Hallstatt from above.jpg' confirms Austria; desc: Hallstätter See and Hallstatt photographed from Hallstatt Skywalk"
+      },
+      "facts": {
+        "one_liner": "Hallstatt and Hallstätter See from the Skywalk: lake village under Dachstein Alpine peaks.",
+        "why_go": "Austria’s country card is Hallstatt on Hallstätter See within the Hallstatt-Dachstein / Salzkammergut Cultural Landscape—UNESCO World Heritage since 1997. The photo matches the World Heritage View (Welterbeblick) Skywalk angle: steep downward view of the lakeside village and church spire, deep blue lake with a boat wake, forested slopes, and snow-dusted peaks beyond. Salt mining here reaches back millennia (Hallstatt Culture); the Salzberg high valley holds the historic mine and Rudolfsturm above town. Travellers ride the Salzbergbahn funicular to the Skywalk and mine, walk the waterfront, and boat the lake rather than treating Hallstatt as a drive-by selfie stop.",
+        "best_time": "May–October for open mountain and lake activities; weekday early mornings reduce Old Town crowding. Winter is atmospheric but colder, with some lake/boat services reduced. Snow on higher peaks (as in the photo) is common in late autumn–spring.",
+        "how_to_get_there": "Train to Hallstatt station (across the lake) then ferry to the village, or bus/car via Bad Ischl from Salzburg. Salzbergbahn valley station is walkable from town for Skywalk and salt-mine access when operating.",
+        "good_to_know": "OPERATING NOTE (Sep 2026): Salzwelten Hallstatt (salt mine), Salzbergbahn, and Skywalk completed a major rebuild and were scheduled to reopen 29 Aug 2026—confirm current hours and tickets at salzwelten.at before you go. Day-trip coaches pack the waterfront by late morning; overnight stays ease the crush.",
+        "official_or_tourism_url": "https://www.hallstatt.net/about-hallstatt/sehenswertes-en-US/skywalk-of-hallstatt/",
+        "sources": [
+          "https://whc.unesco.org/en/list/806/",
+          "https://www.hallstatt.net/about-hallstatt/sehenswertes-en-US/skywalk-of-hallstatt/",
+          "https://www.salzwelten.at/en/blog/hallstatt-skywalk"
+        ]
+      },
+      "ad": {
+        "destination_query": "Hallstatt, Austria",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Hallstatt%2C%20Austria&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Hallstatt%2C%20Austria&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Hallstatt%2C%20Austria&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Hallstatt"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "Hallstatt lakeside village + Hallstätter See from above; CC BY-SA 4.0 MarinaBaranova; ad Hallstatt."
+      }
+    },
+    {
+      "id": "countries-029",
+      "tab": "countries",
+      "name": "Switzerland",
+      "short_line": "Central Europe",
+      "country": "Switzerland",
+      "lat": 46.5476,
+      "lng": 7.9801,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Jungfrau_Switzerland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-029.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AJungfrau_Switzerland.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Whippetsgalore",
+        "attribution": "Photo: Whippetsgalore, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Jungfrau Switzerland.jpg' confirms Switzerland; desc: Mountains, Jungfrau, Switzerland"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "COORD LOCK PASS: Jungfrau massif snow/ice (Commons File:Jungfrau_Switzerland.jpg, Whippetsgalore CC BY-SA 4.0). Staging coords 46.5476,7.9801 match Lead Jungfrau/Interlaken lock; facts+ad Interlaken. Scout-meta wrongly had Matterhorn-area 45.9763,7.6586 — staging correct."
+      },
+      "facts": {
+        "one_liner": "Bernese Oberland icon: snow-and-ice Jungfrau massif above alpine slopes.",
+        "why_go": "Switzerland’s country card here is the Jungfrau (4,158 m), the southernmost of the famous Eiger–Mönch–Jungfrau triad in the Bernese Alps. The photo matches a clear-day massif view: broad snow dome and sharper rock-and-ice summit, hanging glaciers with crevasses and blue icefalls, dark exposed rock where slopes are too steep for snow, and a green alpine foreground—not a Matterhorn needle or a station plaza. The peak sits in the UNESCO Swiss Alps Jungfrau-Aletsch World Heritage site; travellers usually approach from Interlaken via Grindelwald or Lauterbrunnen to Kleine Scheidegg and the Jungfrau Railway to Jungfraujoch – Top of Europe (Europe’s highest railway station at 3,454 m), or the faster Grindelwald Terminal–Eiger Express link to Eigergletscher. Day trips pair the high station’s Sphinx viewpoints and Aletsch Glacier panorama with valley bases in Interlaken, Grindelwald, Wengen, or Lauterbrunnen.",
+        "best_time": "Year-round rail access to Jungfraujoch; clear winter and spring days often give the sharpest snow-and-rock contrast in photos like this. Summer has longer daylight and open hiking below the peaks; cloud and fog can hide the summits any season—check webcams before committing to a ticket day.",
+        "how_to_get_there": "Train to Interlaken Ost, then Bernese Oberland Railway toward Grindelwald Terminal (Eiger Express tricable gondola to Eigergletscher, then Jungfrau Railway) or via Lauterbrunnen/Grindelwald and the Wengernalp Railway to Kleine Scheidegg. Jungfrau Railways quotes about 1.5 hours via Eiger Express versus roughly two hours via Kleine Scheidegg. Fly into Zürich (ZRH), Geneva (GVA), or Basel (BSL) and connect by SBB.",
+        "good_to_know": "Jungfraujoch operates year-round; from 1 May–31 October 2026 Jungfrau Railways makes seat reservations mandatory on the Jungfrau Railway segment—book timed seats at jungfrau.ch. Dress for sub-zero platform temperatures even in summer. This card’s hero is the Jungfrau massif itself, not the Sphinx building.",
+        "official_or_tourism_url": "https://www.jungfrau.ch/en-gb/jungfraujoch-top-of-europe/",
+        "sources": [
+          "https://www.jungfrau.ch/en-gb/jungfraujoch-top-of-europe/",
+          "https://www.jungfrau.ch/en-gb/arriving/",
+          "https://whc.unesco.org/en/list/1037/",
+          "https://www.interlaken.swiss/en/experiences/mountains-panoramas/mountain-excursions/jungfraujoch"
+        ]
+      },
+      "ad": {
+        "destination_query": "Interlaken, Switzerland",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Interlaken%2C%20Switzerland&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Interlaken%2C%20Switzerland&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Interlaken%2C%20Switzerland&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Interlaken"
+      }
+    },
+    {
+      "id": "countries-030",
+      "tab": "countries",
+      "name": "Ireland",
+      "short_line": "Northern Europe",
+      "country": "Ireland",
+      "lat": 52.9715,
+      "lng": -9.4309,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Cliffs_of_Moher_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-030.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACliffs_of_Moher_Panorama.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Robg555",
+        "attribution": "Photo: Robg555, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Cliffs of Moher Panorama.jpg' confirms Ireland; desc: Panoramafoto von den Cliffs of Moher"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "Cliffs of Moher + O’Brien’s Tower; CC BY-SA 3.0 Robg555; ad Cliffs of Moher."
+      },
+      "facts": {
+        "one_liner": "County Clare’s Wild Atlantic Way icon: green-topped Cliffs of Moher and O’Brien’s Tower.",
+        "why_go": "Ireland’s country card here is the Cliffs of Moher on the Burren coast of County Clare—layered Namurian shale and sandstone dropping into the Atlantic, with grass-topped headlands and the round stone lookout of O’Brien’s Tower (1835) on the right-hand bluff in this panorama. The official Cliffs of Moher Experience at Liscannor pairs paved cliff-edge paths and viewing platforms with a hillside Visitor Centre (opened 2007), exhibition, and café; on clear days the Aran Islands and five counties can come into view from the higher points. The stretch is a flagship stop on Ireland’s Wild Atlantic Way, usually combined with Doolin, the Burren, or a Cliffs cruise rather than treated as a Dublin day-trip filler.",
+        "best_time": "May–August for the longest official opening hours (as early as 08:00 and as late as 21:00). Shoulder months March–April and September–October still run extended days; November–February are shorter (typically 09:00–17:00). Arrive early or late to thin coach crowds; wind and rain can close paths or the centre on extreme-weather days.",
+        "how_to_get_there": "Drive or bus to the Visitor Experience near Liscannor, Co. Clare (about 1.5 hours from Galway; longer from Shannon Airport or Dublin). Local Clare Bus / private coach day tours serve the cliffs from Galway, Ennis, and Limerick. Parking and admission are ticketed together—book online at cliffsofmoher.ie when possible. Doolin is the nearest village base for ferries and cliff walks.",
+        "good_to_know": "Open year-round except 24–26 December. Stay on the official paved paths; unprotected cliff edges outside the managed zone are dangerous. O’Brien’s Tower hours vary with weather and season—entry is included in admission when open. This photo is the coastal panorama with the tower on the right, not a Dublin street or pub scene.",
+        "official_or_tourism_url": "https://www.cliffsofmoher.ie/en/your-visit/",
+        "sources": [
+          "https://www.cliffsofmoher.ie/en/your-visit/",
+          "https://www.cliffsofmoher.ie/opening-hours/",
+          "https://visitclare.ie/attractions/cliffs-of-moher-experience/",
+          "https://www.cliffsofmoher.ie/en/about-the-cliffs-of-moher/cliffs-of-moher/the-visitor-centre/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Cliffs of Moher, Ireland",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Cliffs%20of%20Moher%2C%20Ireland&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Cliffs%20of%20Moher%2C%20Ireland&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Cliffs%20of%20Moher%2C%20Ireland&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Cliffs of Moher"
+      }
+    },
+    {
+      "id": "countries-031",
+      "tab": "countries",
+      "name": "Netherlands",
+      "short_line": "Western Europe",
+      "country": "Netherlands",
+      "lat": 51.8822,
+      "lng": 4.6333,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Kinderdijk_windmills.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-031.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AKinderdijk_windmills.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Nachosan",
+        "attribution": "Photo: Nachosan, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Kinderdijk windmills.jpg' confirms Netherlands; desc: Kinderdijk windmills panoramic picture"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "COORD LOCK PASS: Kinderdijk canal line of windmills; CC BY-SA 3.0 Nachosan; staging lat/lng ~51.88,4.63 Kinderdijk (scout-meta had Amsterdam-area coords — staging correct); ad Kinderdijk."
+      },
+      "facts": {
+        "one_liner": "UNESCO polder country: a canal line of Kinderdijk windmills under Dutch sky.",
+        "why_go": "The Netherlands’ country card here is Kinderdijk (UNESCO Mill Network at Kinderdijk-Elshout)—the classic South Holland polder of historic drainage windmills along canals and reed beds, not a city canal district. The panorama matches the site’s signature view: a paved path through flat water meadows, rows of thatched and boarded mills with lattice sails, and overcast Low Countries light. Nineteen mills still define the landscape that has drained Alblasserwaard polders for centuries; the official visitor experience includes museum mills, the Wisboom pumping station, a canal cruise, and an introductory film. Travellers usually day-trip from Rotterdam (WaterShuttle) or stay in nearby Dordrecht/Rotterdam rather than treating Kinderdijk as Amsterdam’s backyard.",
+        "best_time": "For 2026 the site lists 6 March–1 November roughly 09:00–17:30, then shorter winter hours (about 10:30–16:00 through December). Closed Christmas Day. Clear late-spring and summer days give the greenest reeds; overcast skies (as in this photo) are common year-round. Book tickets online in peak season.",
+        "how_to_get_there": "Fastest from Rotterdam: WaterShuttle / Waterbus to Kinderdijk (under 30 minutes from the Erasmus Bridge area). By car, follow signs to Nederwaard 1b, 2961 AS Kinderdijk (paid parking). Regional buses also serve the village from Rotterdam and Dordrecht. Comb tickets pairing WaterShuttle with site admission are sold on kinderdijk.nl.",
+        "good_to_know": "Admission typically covers visitor locations including two museum mills, canal cruise, film, Wisboom station, and audio guide—confirm the current ticket bundle. Stay on paths; mills are working heritage, not climb-everywhere props. This card is Kinderdijk’s mill line, not Keukenhof tulips or Amsterdam canal houses.",
+        "official_or_tourism_url": "https://kinderdijk.nl/en/",
+        "sources": [
+          "https://kinderdijk.nl/en/opening-hours/",
+          "https://kinderdijk.nl/en/ticket-information/",
+          "https://kinderdijk.nl/en/watershuttle/",
+          "https://whc.unesco.org/en/list/818/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Kinderdijk, Netherlands",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kinderdijk%2C%20Netherlands&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kinderdijk%2C%20Netherlands&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kinderdijk%2C%20Netherlands&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Kinderdijk"
+      }
+    },
+    {
+      "id": "countries-032",
+      "tab": "countries",
+      "name": "Germany",
+      "short_line": "Central Europe",
+      "country": "Germany",
+      "lat": 47.5576,
+      "lng": 10.7498,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Schloss_Neuschwanstein_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-032.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASchloss_Neuschwanstein_2013.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Thomas Wolf, www.foto-tw.de",
+        "attribution": "Photo: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Schloss Neuschwanstein 2013.jpg' confirms Germany; desc: Neuschwanstein Castle at Schwangau, Bavaria, Germany."
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "Neuschwanstein above Alpsee foothills; CC BY-SA 3.0 Thomas Wolf; ad Neuschwanstein."
+      },
+      "facts": {
+        "one_liner": "Bavarian fairytale silhouette: Neuschwanstein above the Alpsee foothills.",
+        "why_go": "Germany’s country card here is Schloss Neuschwanstein at Schwangau in the Allgäu—Ludwig II’s unfinished 19th-century Romanesque Revival palace on a wooded limestone ridge overlooking the Alpsee / Forggensee valley. The photo matches the classic high view: pale towers and dark slate roofs, conical and crenellated turrets, forested slopes, and the green valley with blue lake water beyond—not a Rhine gorge or Berlin skyline. Interiors are visited only on timed guided tours (~30 minutes) booked via the official Hohenschwangau Ticket Center; travellers usually pair Neuschwanstein with nearby Hohenschwangau Castle and the Museum of the Bavarian Kings from the village of Hohenschwangau.",
+        "best_time": "Summer season 28 March–15 October 2026: castle tours roughly 09:00–18:00; winter from 16 October: about 10:00–16:00. Closed 24–25 and 31 December and 1 January. Book online early—same-day Ticket Center stock (from 08:00) often sells out by late morning. Clear mornings give the lake-and-valley backdrop this photo shows.",
+        "how_to_get_there": "Rail to Füssen, then bus to Hohenschwangau Ticket Center (Alpseestraße 12). From the ticket village, walk uphill (~30–40 minutes), or take horse carriage / shuttle bus toward Marienbrücke / castle approaches as signed. Fly into Munich (MUC) or Memmingen and continue by train/car into the Allgäu. Parking is in marked lots P1–P4 only (no stopping at the Ticket Center curb).",
+        "good_to_know": "Admission is for a specific tour start—latecomers miss the group. No large bags, prams, or child carriers inside the palace. Marienbrücke (Mary’s Bridge) is the classic photo viewpoint when open; check closures after storms. This card is Neuschwanstein itself, not Cologne Cathedral or Brandenburg Gate.",
+        "official_or_tourism_url": "https://www.neuschwanstein.de/englisch/tourist/opening.htm",
+        "sources": [
+          "https://www.neuschwanstein.de/englisch/tourist/opening.htm",
+          "https://www.hohenschwangau.de/en/tours-tickets/opening-times",
+          "https://www.hohenschwangau.de/en/tours-tickets/official-tickets-neuschwanstein-hohenschwangau",
+          "https://www.hohenschwangau.de/en/neuschwanstein-castle"
+        ]
+      },
+      "ad": {
+        "destination_query": "Neuschwanstein, Germany",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Neuschwanstein%2C%20Germany&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Neuschwanstein%2C%20Germany&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Neuschwanstein%2C%20Germany&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Neuschwanstein"
+      }
+    },
+    {
+      "id": "countries-033",
+      "tab": "countries",
+      "name": "South Korea",
+      "short_line": "East Asia",
+      "country": "South Korea",
+      "lat": 37.6583,
+      "lng": 126.978,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/View_from_Bukhansan_National_Park_%28Seoul%2C_South_Korea%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-033.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AView_from_Bukhansan_National_Park_%28Seoul%2C_South_Korea%29.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Rfqii",
+        "attribution": "Photo: Rfqii, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:View from Bukhansan National Park (Seoul, South Korea).jpg' confirms South Korea; desc: A view from a peak in Bukhansan National park in Seoul, South Korea facing morth"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "Bukhansan granite peaks/forest ridges (Commons View_from_Bukhansan…); CC BY-SA 4.0 Rfqii. CLOSE CALL: hazy generic East-Asia mountains — Commons+facts pin Seoul Bukhansan; ad Seoul."
+      },
+      "facts": {
+        "one_liner": "Granite peaks above Seoul: Bukhansan National Park’s forested ridges in the haze.",
+        "why_go": "South Korea’s country card here is Bukhansan National Park—the granite-and-forest massif on Seoul’s northern edge (designated Korea’s 15th national park in 1983 with Dobongsan), not a neon street or palace courtyard. The photo matches a peak-top view facing into successive green ridges and smooth pale granite outcrops under haze, with spring foliage and azalea-like blooms in the foreground. Bukhansan’s highest summit, Baegundae (836.5 m), and nearby Yeongbong give city-to-mountain panoramas; easier valley walks and the longer Bukhansan Dulle-gil footpath network open the same landscape to less technical hikers. Travellers base in Seoul and ride the Ui-Sinseol LRT to Bukhansan Ui Station for trailheads and the Seoul Hiking Tourism Center.",
+        "best_time": "Spring (azaleas/foliage as in this frame) and autumn for colour and clearer air; summer is hot and humid with thicker haze; winter can ice rock sections. Weekdays beat weekend crowds. The Seoul Hiking Tourism Center (Bukhansan) typically runs about 09:00–18:00 and closes Mondays plus Seollal and Chuseok—confirm before you go.",
+        "how_to_get_there": "From central Seoul, take subway/LRT to Bukhansan Ui Station; Exit 2 is about a five-minute walk to the Seoul Hiking Tourism Center for maps, advice, and gear rental (seoulhiking.or.kr). Popular approaches include Sogwicheon (beginner), Yeongbong (intermediate), and Baegundae (advanced rope/rock sections). Korea National Park Service pages cover Dulle-gil sections and Uiryeong-gil reservation rules.",
+        "good_to_know": "Baegundae’s final approach uses fixed ropes on steep granite—sturdy boots required; turn back in wet or icy conditions. Stay on marked trails; rock-climbing faces (e.g. Insubong) are separate from casual hiking. This card is the Bukhansan ridge view, not Jeju or a Seoul skyline-only shot.",
+        "official_or_tourism_url": "https://knps.or.kr/portal/dulegil/bukhansan/eng/index.do",
+        "sources": [
+          "https://english.seoul.go.kr/wp-content/uploads/2024/01/Seoul-Hiking-Tourism-CenterBukhansan-Info.pdf",
+          "https://knps.or.kr/portal/dulegil/bukhansan/eng/index.do",
+          "https://english.seoul.go.kr/wp-content/uploads/2024/01/SEOUL-HIKING-GUIDE-BOOK.pdf",
+          "https://seoulhiking.or.kr/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Seoul, South Korea",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Seoul%2C%20South%20Korea&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Seoul%2C%20South%20Korea&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Seoul%2C%20South%20Korea&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Seoul"
+      }
+    },
+    {
+      "id": "countries-034",
+      "tab": "countries",
+      "name": "China",
+      "short_line": "East Asia",
+      "country": "China",
+      "lat": 40.6769,
+      "lng": 117.244,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/The_Great_Wall_of_China_at_Jinshanling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-034.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Great_Wall_of_China_at_Jinshanling.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Vincent Ndaku",
+        "attribution": "Photo: Vincent Ndaku, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:The Great Wall of China at Jinshanling.jpg' confirms China; desc: The Great Wall of China at Jinshanling"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "COORD LOCK PASS: Jinshanling Great Wall watchtowers on green ridges (Commons File:The_Great_Wall_of_China_at_Jinshanling.jpg); CC BY-SA 3.0 Vincent Ndaku; staging 40.6769,117.244 Jinshanling (scout-meta had Badaling-area — staging correct); ad Jinshanling Great Wall."
+      },
+      "facts": {
+        "one_liner": "Ming ridge walk: Jinshanling’s Great Wall watchtowers climbing green mountains under storm light.",
+        "why_go": "China’s country card here is the Great Wall at Jinshanling (金山岭) in Luanping County, Hebei—about 130 km northeast of central Beijing—not the crowded Badaling plaza. The photo matches Jinshanling’s signature dragon-back: pale brick wall and square towers cresting steep green ridges, a near tower with tiny walkers for scale, then the wall diving and climbing toward hazy blue ranges under a heavy sky. Built in the Ming era and far less restored than downtown Beijing sections, Jinshanling is prized for hiking and photography; many travellers day-trip from Beijing by private car or tour, or combine it with Gubeikou approaches. UNESCO lists the Great Wall as World Heritage (inscribed 1987).",
+        "best_time": "Spring and autumn for clearer air and greener slopes like this frame; summer brings heat, haze, and storm light. Peak-season gate hours can start very early (main gate notices have listed ~04:00 opens) with earlier last entry—confirm the scenic area’s current notice (WeChat 金山岭长城 / phone +86-314-8830222). Adult tickets are commonly quoted around CNY 65 high season / CNY 55 low season, with cable car and shuttle extra.",
+        "how_to_get_there": "No metro to the wall. Typical options: private transfer or organised tour from Beijing (~2–2.5 hours); suburban train toward Gubeikou then taxi (~12 km); seasonal/weekend buses when operating. On site, a short shuttle often links the visitor centre to the middle gate / cable-car base. Stay overnight in Beijing or Miyun/Chengde-area bases depending on your route.",
+        "good_to_know": "Wear grippy shoes—sections are steep and unrestored bricks can be slippery. Stay on open, ticketed stretches; do not climb closed or crumbled towers. This hero is Jinshanling’s mountain wall, not Mutianyu’s toboggan or a Forbidden City courtyard. Confirm gate hours and cable-car status the day you go; winter wind can shut the east gate and lifts.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/438/",
+        "sources": [
+          "https://whc.unesco.org/en/list/438/",
+          "https://www.travelchinaguide.com/china_great_wall/scene/beijing/jinshanling.htm",
+          "https://www.chinatravel.com/great-wall-of-china/jinshanling-great-wall",
+          "https://relaxinchina.com/travel-guide/jinshanling/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Jinshanling Great Wall, China",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Jinshanling%20Great%20Wall%2C%20China&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Jinshanling%20Great%20Wall%2C%20China&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Jinshanling%20Great%20Wall%2C%20China&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Jinshanling"
+      }
+    },
+    {
+      "id": "countries-035",
+      "tab": "countries",
+      "name": "Indonesia",
+      "short_line": "Southeast Asia",
+      "country": "Indonesia",
+      "lat": -7.6079,
+      "lng": 110.2038,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Borobudur-Nothwest-view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-035.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABorobudur-Nothwest-view.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Gunawan Kartapranata",
+        "attribution": "Photo: Gunawan Kartapranata, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Borobudur-Nothwest-view.jpg' confirms Indonesia; desc: Borobudur temple view from northwest plateau, Central Java, Indonesia."
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "Borobudur NW terraces/stupas; CC BY-SA 3.0 Gunawan Kartapranata; ad Borobudur."
+      },
+      "facts": {
+        "one_liner": "Central Java’s Buddhist masterpiece: Borobudur’s stepped terraces and stupas from the northwest lawn.",
+        "why_go": "Indonesia’s country card here is Borobudur (Candi Borobudur) in Magelang Regency, Central Java—the world’s largest Buddhist temple, built in the 8th–9th centuries and inscribed by UNESCO as part of the Borobudur Temple Compounds (1991). The photo matches the classic northwest plateau view: dark volcanic-stone pyramid of square then circular terraces, perforated bell stupas around the upper platforms, a central stupa and pinnacle, lawn in the foreground, and distant green hills—not a Bali beach or Jakarta skyline. Visitors choose a courtyard/grounds ticket or a timed temple-structure ticket to climb with a guide; many base in Yogyakarta (~40 km / 1–1.5 hours) and pair Borobudur with Prambanan.",
+        "best_time": "Drier months roughly April–September are easiest for clear views like this frame; October–March is wetter. Structure access is commonly listed about 08:30–17:00 WIB on official products; grounds open earlier. Book structure slots ahead—daily quotas apply. Optional sunrise packages start ~04:00 with tight daily caps.",
+        "how_to_get_there": "Fly into Yogyakarta (YIA) or Semarang, then private car, tour, or public bus (~1–1.5 hours from Yogyakarta). Official tickets: ticket.injourneydestination.id / ticket.borobudurpark.com (courtyard vs temple structure, plus sunrise/sunset products). WhatsApp call center listed on the official portal: +62 811 2688 000.",
+        "good_to_know": "Climbing the monument requires the structure ticket and usually guided entry; a grounds-only ticket keeps you on the lawn view this photo shows. Wear temple-appropriate clothing; follow current restoration closures (sections of the compound can be fenced during works). This card is Borobudur itself, not Prambanan’s Hindu towers.",
+        "official_or_tourism_url": "https://ticket.injourneydestination.id/en/",
+        "sources": [
+          "https://ticket.injourneydestination.id/en/",
+          "https://ticket.borobudurpark.com/en/",
+          "https://whc.unesco.org/en/list/592/",
+          "https://ticket.injourneydestination.id/en/borobudur-sunrise/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Borobudur, Indonesia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Borobudur%2C%20Indonesia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Borobudur%2C%20Indonesia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Borobudur%2C%20Indonesia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Borobudur"
+      }
+    },
+    {
+      "id": "countries-036",
+      "tab": "countries",
+      "name": "Jordan",
+      "short_line": "Western Asia",
+      "country": "Jordan",
+      "lat": 29.5766,
+      "lng": 35.419,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Wadi_Rum_Jordan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-036.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AWadi_Rum_Jordan.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Salmanzh13",
+        "attribution": "Photo: Salmanzh13, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Wadi Rum Jordan.jpg' confirms Jordan; desc: an image of Wadi Rum"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "COORD LOCK PASS: Wadi Rum sandstone massif + rippled sand — NOT Petra (no carved façade). Commons File:Wadi_Rum_Jordan.jpg GPS ~29.70N 35.45E; CC BY-SA 4.0 Salmanzh13; staging 29.5766,35.419 Wadi Rum (scout-meta wrongly had Petra 30.3285,35.4444); ad Wadi Rum."
+      },
+      "facts": {
+        "one_liner": "Jordan’s red desert: a lone Wadi Rum sandstone massif above wind-rippled sand.",
+        "why_go": "Jordan’s country card here is Wadi Rum (the Valley of the Moon)—a protected desert of sandstone mountains and red sand in Aqaba Governorate, southern Jordan, inscribed by UNESCO as Wadi Rum Protected Area (2011). The photo matches that landscape: tire tracks across rippled sand, an isolated weathered massif with vertical joints, and distant dark hills under a wide sky—not Petra’s Treasury façade. Travellers enter via the official Visitor Centre on the approach road, then continue to Rum Village for licensed Bedouin jeep tours, hiking, and overnight camps. Many combine Wadi Rum with Petra or Aqaba on the same southern Jordan loop.",
+        "best_time": "October–April for cooler days and clearer skies; summer midday heat is extreme. Sunrise and late afternoon give the warm rock colour this frame shows. Book camps and jeep tours ahead in peak spring/autumn.",
+        "how_to_get_there": "Drive or bus from Aqaba (~1 hour) or Petra/Wadi Musa (~1.5–2 hours) to the Wadi Rum Visitor Centre, then on to Rum Village. Stop at the Visitor Centre for park entry (Jordan Pass holders present the pass; otherwise a modest per-person fee applies—confirm current ASEZA rates on arrival). Beyond the village, desert travel is normally with a licensed local driver rather than a private rental car unless you buy the self-drive 4x4 permit.",
+        "good_to_know": "Carry water, sun protection, and cash (ATMs thin past the Visitor Centre). Private passenger cars typically park at the village; unpermitted vehicles are not free to roam the protected dunes. This hero is Wadi Rum’s desert massifs—not Petra. Scout lat/lng currently match Petra-band coordinates while the Commons file is Wadi Rum—facts/ad follow the photo.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/1137/",
+        "sources": [
+          "https://whc.unesco.org/en/list/1137/",
+          "https://www.visitjordan.com/",
+          "https://waditribe.com/wadi-rum-visitor-center/",
+          "https://waditribe.com/wadi-rum-entrance-fee/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Wadi Rum, Jordan",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Wadi%20Rum%2C%20Jordan&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Wadi%20Rum%2C%20Jordan&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Wadi%20Rum%2C%20Jordan&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Wadi Rum"
+      }
+    },
+    {
+      "id": "countries-037",
+      "tab": "countries",
+      "name": "Nepal",
+      "short_line": "South Asia",
+      "country": "Nepal",
+      "lat": 27.9881,
+      "lng": 86.925,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-037.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMount_Everest_as_seen_from_Drukair2_PLW_edit.jpg",
+        "license": "CC BY-SA 2.0",
+        "author": "Mount_Everest_as_seen_from_Drukair2.jpg: shrimpo1967 derivative work: Papa Lima Whiskey 2 (talk)",
+        "attribution": "Photo: Mount_Everest_as_seen_from_Drukair2.jpg: shrimpo1967 derivative work: Papa Lima Whiskey 2 (talk), CC BY-SA 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Mount Everest as seen from Drukair2 PLW edit.jpg' confirms Nepal; desc: View northward to Mount Everest from an aircraft from airline company Drukair in Bhutan. The aircraft is south of the mountains, directed north. Mount Everest i"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "Aerial Everest pyramid over Khumbu clouds; CC BY-SA 2.0 derivative Papa Lima Whiskey 2; ad Lukla."
+      },
+      "facts": {
+        "one_liner": "Himalaya from the air: Mount Everest’s pyramid above cloud-filled Khumbu valleys.",
+        "why_go": "Nepal’s country card here is Mount Everest (Sagarmatha / Qomolangma), the world’s highest peak at 8,848.86 m on the Nepal–China border inside Sagarmatha National Park. The photo matches a classic northward aircraft view (Commons: as seen from a Drukair flight south of the range): Everest’s sharp snow pyramid and rocky ridges rising above a sea of white peaks, with valleys and cloud banks below—not a Kathmandu street or a close-up base-camp prayer-flag shot. Most travellers experience the massif by flying Kathmandu–Lukla and trekking through Namche Bazaar toward Everest Base Camp or Gokyo inside the UNESCO-listed park (inscribed 1979), or by scenic mountain flights; summiting itself is a separate, highly regulated expedition.",
+        "best_time": "Main trekking seasons October–November and March–May for clearer high views; December–February is colder with snow; June–September is monsoon. Flights to Lukla are weather-dependent year-round—build buffer days.",
+        "how_to_get_there": "International arrival in Kathmandu (KTM). Domestic flight to Lukla (~30 minutes) is the usual gateway, then trek into Sagarmatha National Park (HQ near Namche Bazaar); the longer Jiri/overland approach adds days. Obtain national-park entry and required trek permits (TIMS / region rules) via Nepal Tourism Board guidance; foreigners’ Sagarmatha entry is listed around NPR 3,000 per person (confirm current NTB fees).",
+        "good_to_know": "This hero is an aerial Everest panorama—you cannot stand at this exact camera point without a flight. Acclimatize properly on any Khumbu trek; hire licensed guides where required. Check aviation NOTAMs and Lukla cancellations before locking non-refundable plans.",
+        "official_or_tourism_url": "https://ntb.gov.np/everest",
+        "sources": [
+          "https://ntb.gov.np/everest",
+          "https://ntb.gov.np/sagarmatha-national-park",
+          "https://ntb.gov.np/plan-your-trip/before-you-come/park-entry-fees",
+          "https://whc.unesco.org/en/list/120/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Lukla, Nepal",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Lukla%2C%20Nepal&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Lukla%2C%20Nepal&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Lukla%2C%20Nepal&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Lukla"
+      }
+    },
+    {
+      "id": "countries-038",
+      "tab": "countries",
+      "name": "Costa Rica",
+      "short_line": "Central America",
+      "country": "Costa Rica",
+      "lat": 10.4631,
+      "lng": -84.7032,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Arenal_volcano_%2870785p%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-038.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AArenal_volcano_%2870785p%29.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Rhododendrites",
+        "attribution": "Photo: Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Arenal volcano (70785p).jpg' confirms Costa Rica; desc: Arenal Volcano panorama"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "Arenal Volcano cone above rainforest; CC BY-SA 4.0 Rhododendrites; ad La Fortuna."
+      },
+      "facts": {
+        "one_liner": "Perfect cone above rainforest: Arenal Volcano near La Fortuna.",
+        "why_go": "Costa Rica’s card here is Volcán Arenal in Alajuela province—the near-symmetric stratovolcano (~1,633 m) that frames La Fortuna and Lake Arenal. The photo matches that classic cone: dark upper slopes, green lower flanks, and cloud-capped summit above continuous rainforest canopy (Commons: Arenal Volcano panorama by Rhododendrites)—not a Pacific beach or a canopy-walk close-up. Parque Nacional Volcán Arenal (created 1991; expanded later) protects lava flows from the 1968/1992 eruptions, rainforest trails (Heliconias, Coladas, El Ceibo), and views of the cone; the summit itself is closed. After decades of frequent eruptions, activity dropped sharply after about 2010; visitors come for trails, wildlife, hot springs, and the silhouette—not summit climbs.",
+        "best_time": "Dry season roughly December–April gives the best chance of a clear cone; May–November is greener and cloudier. Park hours are typically daily ~8:00–16:00—confirm on SINAC before you go.",
+        "how_to_get_there": "Fly into San José (SJO) or Liberia (LIR), then road transfer to La Fortuna (often ~2.5–3.5 hours depending on route). Official park access is northwest of town; pay non-resident entry at the gate (SINAC lists adult non-resident fees around US$15–17—verify current tariff). Stay in La Fortuna for hotels, spas, and day trips.",
+        "good_to_know": "Do not leave marked trails or attempt unauthorized approaches toward the crater—rescues and fines are real risks. Pair the park with Lake Arenal viewpoints and thermal baths; cloud can hide the cone even on otherwise sunny days.",
+        "official_or_tourism_url": "https://www.sinac.go.cr/en-us/ac/acahn/pnva/pages/default.aspx",
+        "sources": [
+          "https://www.sinac.go.cr/en-us/ac/acahn/pnva/pages/default.aspx",
+          "https://www.sinac.go.cr/es/ac/acahn/pnva/paginas/default.aspx",
+          "https://www.visitcostarica.com/en/costa-rica/where-to-go/arenal"
+        ]
+      },
+      "ad": {
+        "destination_query": "La Fortuna, Costa Rica",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=La%20Fortuna%2C%20Costa%20Rica&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=La%20Fortuna%2C%20Costa%20Rica&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=La%20Fortuna%2C%20Costa%20Rica&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in La Fortuna"
+      }
+    },
+    {
+      "id": "countries-039",
+      "tab": "countries",
+      "name": "Colombia",
+      "short_line": "South America",
+      "country": "Colombia",
+      "lat": 10.3997,
+      "lng": -75.5516,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Cartagena_de_Indias_Colombia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-039.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACartagena_de_Indias_Colombia.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Jaroldiazc",
+        "attribution": "Photo: Jaroldiazc, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Cartagena de Indias Colombia.jpg' confirms Colombia; desc: Sector en el barrio Bocagrande en la ciudad de Cartagena de Indias Colombia"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "COORD LOCK PASS: Cartagena Bocagrande high-rises across bay (Commons: “Sector en el barrio Bocagrande…”); CC BY-SA 4.0 Jaroldiazc; staging 10.3997,-75.5516 Cartagena (scout-meta wrongly coffee-region 4.63,-75.57). CLOSE CALL: modern skyline not Old Town walls — Lead locked Bocagrande so skyline is the promised hero; ad Cartagena."
+      },
+      "facts": {
+        "one_liner": "Caribbean skyline: Cartagena’s Bocagrande high-rises across the bay.",
+        "why_go": "Colombia’s card here is Cartagena de Indias on the Caribbean coast—UNESCO’s Port, Fortresses and Group of Monuments (inscribed 1984) for the walled colonial core and one of South America’s most complete Spanish fortification systems. The photo is specifically Bocagrande: modern white towers across calm water with a palm-lined waterfront promenade (Commons: Cartagena de Indias / Bocagrande by Jaroldiazc)—the hotel-and-condo peninsula that faces the historic walls, not coffee-country palms in Quindío or Valle de Cocora wax palms. Visitors usually split time between Centro/San Diego/Getsemaní (Clock Tower, plazas, ramparts) and Bocagrande beaches/skyline; Castillo San Felipe de Barajas sits just outside the walls.",
+        "best_time": "Dryer months roughly December–April are popular; expect heat and humidity year-round. December holidays and Holy Week are peak domestic travel—book early.",
+        "how_to_get_there": "Fly into Cartagena’s Rafael Núñez International Airport (CTG), ~15 minutes by road to the historic center or Bocagrande. Walking is best inside the walled city; taxis/rideshares link Bocagrande, Getsemaní, and San Felipe.",
+        "good_to_know": "The murallas walk is generally free; museums and San Felipe charge separately—confirm current rates. Midday heat is intense; early morning or late afternoon is kinder for walking the walls and Centro.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/285/",
+        "sources": [
+          "https://whc.unesco.org/en/list/285/",
+          "https://fortificacionescartagena.com/en/planee-su-visita/walls-of-cartagena/",
+          "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)"
+        ]
+      },
+      "ad": {
+        "destination_query": "Cartagena, Colombia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Cartagena%2C%20Colombia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Cartagena%2C%20Colombia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Cartagena%2C%20Colombia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Cartagena"
+      }
+    },
+    {
+      "id": "countries-040",
+      "tab": "countries",
+      "name": "Namibia",
+      "short_line": "Southern Africa",
+      "country": "Namibia",
+      "lat": -24.7275,
+      "lng": 15.3072,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Deadvlei_Namibia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-040.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ADeadvlei_Namibia.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Pemba.mpimaji",
+        "attribution": "Photo: Pemba.mpimaji, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Deadvlei Namibia.jpg' confirms Namibia; desc: Deadvlei Namibia"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-24T01:20:00-05:00",
+        "auditor_notes": "Deadvlei camel-thorn skeletons on white clay under orange Namib dunes; CC BY-SA 4.0 Pemba.mpimaji; ad Sossusvlei."
+      },
+      "facts": {
+        "one_liner": "Deadvlei: charcoal camel-thorn skeletons on white clay under orange Namib dunes.",
+        "why_go": "Namibia’s card here is Deadvlei inside the Sossusvlei area of Namib-Naukluft National Park—a dry white clay pan ringed by iron-rich orange dunes, with sun-blackened dead camel-thorn trees (Commons: Deadvlei Namibia by Pemba.mpimaji). This is not Etosha wildlife plains or a Skeleton Coast wreck. The trees died after dunes cut off the Tsauchab River’s water; extreme aridity preserved the skeletons for centuries (Namibia Wildlife Resorts notes Dead Pan trees carbon-dated on the order of ~500–600 years). The broader Sossusvlei landscape sits in the Namib Sand Sea, a UNESCO World Heritage site, with some of the world’s tallest dunes nearby.",
+        "best_time": "Year-round desert destination; cooler mornings favor dune walks and photography. Summer days (roughly Nov–Mar) can be extreme heat—start early. Gate timing at Sesriem controls sunrise access for overnight guests inside.",
+        "how_to_get_there": "Most visitors fly into Windhoek (WDH) or Walvis Bay, then self-drive or join a tour to Sesriem (~5–6 hours from Windhoek depending on route). From Sesriem, ~60 km of park road leads to the Sossusvlei 2×4 parking; the last soft-sand stretch toward Deadvlei typically needs a capable 4×4 or the optional shuttle—confirm current MEFT/NWR access rules before you go. Park entry fees apply (check MEFT/NWR for current tariffs).",
+        "good_to_know": "Stay on marked routes; heat, soft sand, and dehydration are the main risks. Book Sesriem/Sossus lodges or camps early in peak season. Carry water, sun protection, and a full tank—services thin between towns.",
+        "official_or_tourism_url": "https://www.nwr.com.na/namib-naukluft-park/",
+        "sources": [
+          "https://www.nwr.com.na/namib-naukluft-park/",
+          "https://meft.gov.na/visit-namibia/namibias-key-attractions/100/",
+          "https://whc.unesco.org/en/list/1430/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Sossusvlei, Namibia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sossusvlei%2C%20Namibia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sossusvlei%2C%20Namibia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sossusvlei%2C%20Namibia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay near Sossusvlei"
+      }
+    }
+  ],
+  "archived_at": "2026-09-24T01:16:00-05:00"
+}
