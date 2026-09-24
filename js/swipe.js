@@ -655,7 +655,6 @@
       '"' +
       idAttr +
       '>' +
-      '<div class="photo-rail-row">' +
       '<div class="photo-stage"' +
       (opts.interactive !== false ? ' id="photo-stage"' : '') +
       '>' +
@@ -673,8 +672,6 @@
       escapeHtml(card.short_line || card.country || '') +
       '</p>' +
       '</div></div>' +
-      (opts.interactive !== false ? klookRailMarkup('desktop') : '') +
-      '</div>' +
       actions +
       details +
       '</article>'
@@ -761,6 +758,8 @@
       interactive: true,
     });
     html += '</div>';
+    // Desktop Klook rail: page-right gutter (fixed), not inside the card flex row.
+    html += klookRailMarkup('desktop');
     this.root.innerHTML = html;
 
     document.getElementById('btn-stay').addEventListener('click', () => this.decide('stay'));
@@ -823,7 +822,7 @@
     const mobile = this.root.querySelector('.klook-rail--mobile');
     const useDesktop =
       typeof window.matchMedia === 'function' &&
-      window.matchMedia('(min-width: 900px)').matches;
+      window.matchMedia('(min-width: 1200px)').matches;
     const rail = useDesktop ? desktop : mobile;
     if (!rail) return;
     const mount = rail.querySelector('[data-klook-mount]');

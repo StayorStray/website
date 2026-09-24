@@ -394,15 +394,13 @@ img { max-width: 100%; display: block; }
   color: var(--muted);
 }
 
-/* Klook affiliate rail — desktop beside photo; mobile under Stay nearby */
-.photo-rail-row {
-  display: block;
-}
+/* Klook affiliate rail — desktop fixed in far-right page gutter; mobile under Stay nearby */
 .klook-rail {
   padding: 0.85rem 0.9rem;
   border-radius: 12px;
   border: 1px dashed rgba(232, 196, 124, 0.45);
   background: rgba(232, 196, 124, 0.08);
+  touch-action: manipulation;
 }
 .klook-kicker {
   margin: 0 0 0.4rem;
@@ -435,41 +433,29 @@ img { max-width: 100%; display: block; }
   font-size: 0.85rem;
   min-height: 40px;
 }
-.klook-rail {
-  touch-action: manipulation;
-}
 
-/* Mobile / narrow: no column beside photo; unit under Stay nearby */
+/* Narrow / tablet: no gutter rail; unit under Stay nearby */
 .klook-rail--desktop { display: none; }
 .klook-rail--mobile {
   display: block;
   margin: 0 1rem 1.1rem;
 }
 
-@media (min-width: 900px) {
-  .wrap {
-    width: min(960px, 100%);
-  }
-  .photo-rail-row {
-    display: flex;
-    flex-direction: row;
-    align-items: stretch;
-    gap: 0.75rem;
-  }
-  .photo-rail-row .photo-stage {
-    flex: 1 1 auto;
-    min-width: 0;
-  }
+/* Wide desktop: pin rail in far-right viewport gutter (below sticky header).
+   ~720px centered wrap + gap + ~200px rail needs roughly ≥1200px. */
+@media (min-width: 1200px) {
   .klook-rail--desktop {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+    position: fixed;
+    top: 5.5rem;
+    right: 1.25rem;
     width: 200px;
-    flex: 0 0 200px;
-    margin: 0.65rem 0.65rem 0.65rem 0;
-    align-self: stretch;
+    max-height: calc(100vh - 6.5rem);
     overflow: auto;
-    max-height: 100%;
+    z-index: 30; /* below .site-header (40) so counts/lang stay clear */
+    margin: 0;
     touch-action: manipulation;
     pointer-events: auto;
   }
