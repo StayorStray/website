@@ -558,6 +558,73 @@
         }
       ],
       "next": "Honest depth 40; Landmarks 021–040 next after Parks Pages live"
+    },
+    "landmarks": {
+      "live_file": "data/landmarks.json",
+      "archive_dir": "data/decks/landmarks/",
+      "approved_count": 40,
+      "catalog_target": 100,
+      "scale_target_met": false,
+      "mvp_ready": true,
+      "sets": [
+        {
+          "id": "landmarks-set-001",
+          "file": "set-001.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "landmarks-001",
+            "landmarks-002",
+            "landmarks-003",
+            "landmarks-004",
+            "landmarks-005",
+            "landmarks-006",
+            "landmarks-007",
+            "landmarks-008",
+            "landmarks-009",
+            "landmarks-010",
+            "landmarks-011",
+            "landmarks-012",
+            "landmarks-013",
+            "landmarks-014",
+            "landmarks-015",
+            "landmarks-016",
+            "landmarks-017",
+            "landmarks-018",
+            "landmarks-019",
+            "landmarks-020"
+          ]
+        },
+        {
+          "id": "landmarks-set-002",
+          "file": "set-002.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "landmarks-021",
+            "landmarks-022",
+            "landmarks-023",
+            "landmarks-024",
+            "landmarks-025",
+            "landmarks-026",
+            "landmarks-027",
+            "landmarks-028",
+            "landmarks-029",
+            "landmarks-030",
+            "landmarks-031",
+            "landmarks-032",
+            "landmarks-033",
+            "landmarks-034",
+            "landmarks-035",
+            "landmarks-036",
+            "landmarks-037",
+            "landmarks-038",
+            "landmarks-039",
+            "landmarks-040"
+          ]
+        }
+      ],
+      "next": "Honest depth 40; Islands 021–040 next after Landmarks Pages live"
     }
   },
   "other_tabs": [
@@ -577,5 +644,5 @@
     "stray_key": "sos_stray_list",
     "scope": "on-device localStorage only; keyed by place id; survives daily rotation"
   },
-  "updated_at": "2026-09-23T18:04:08-05:00"
+  "updated_at": "2026-09-24T05:17:23-05:00"
 }

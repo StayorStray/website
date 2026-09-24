@@ -1,0 +1,133 @@
+{
+  "id": "landmarks-set-002",
+  "tab": "landmarks",
+  "label": "Landmarks — Set 2 (021–040)",
+  "card_ids": [
+    "landmarks-021",
+    "landmarks-022",
+    "landmarks-023",
+    "landmarks-024",
+    "landmarks-025",
+    "landmarks-026",
+    "landmarks-027",
+    "landmarks-028",
+    "landmarks-029",
+    "landmarks-030",
+    "landmarks-031",
+    "landmarks-032",
+    "landmarks-033",
+    "landmarks-034",
+    "landmarks-035",
+    "landmarks-036",
+    "landmarks-037",
+    "landmarks-038",
+    "landmarks-039",
+    "landmarks-040"
+  ],
+  "count": 20,
+  "auditor": "20/20 approved 2026-09-24 (Accuracy Auditor Landmarks fill 021–040; 027 MSM remake re-PASS)",
+  "notes": "Thin-tab fill. No venue swaps. 027 Mont-Saint-Michel Diliff remake after estuary reject. 039 Shwedagon B&W PASS-with-note (color later). US=3.",
+  "archived_at": "2026-09-24T05:16:21-05:00",
+  "cards": [
+    {
+      "id": "landmarks-021",
+      "name": "Sydney Opera House",
+      "country": "Australia"
+    },
+    {
+      "id": "landmarks-022",
+      "name": "Golden Gate Bridge",
+      "country": "United States"
+    },
+    {
+      "id": "landmarks-023",
+      "name": "Burj Khalifa",
+      "country": "United Arab Emirates"
+    },
+    {
+      "id": "landmarks-024",
+      "name": "Sagrada Família",
+      "country": "Spain"
+    },
+    {
+      "id": "landmarks-025",
+      "name": "Elizabeth Tower (Big Ben)",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "landmarks-026",
+      "name": "St. Basil's Cathedral",
+      "country": "Russia"
+    },
+    {
+      "id": "landmarks-027",
+      "name": "Mont-Saint-Michel",
+      "country": "France"
+    },
+    {
+      "id": "landmarks-028",
+      "name": "Leaning Tower of Pisa",
+      "country": "Italy"
+    },
+    {
+      "id": "landmarks-029",
+      "name": "Brandenburg Gate",
+      "country": "Germany"
+    },
+    {
+      "id": "landmarks-030",
+      "name": "CN Tower",
+      "country": "Canada"
+    },
+    {
+      "id": "landmarks-031",
+      "name": "Fushimi Inari Shrine",
+      "country": "Japan"
+    },
+    {
+      "id": "landmarks-032",
+      "name": "Harmandir Sahib (Golden Temple)",
+      "country": "India"
+    },
+    {
+      "id": "landmarks-033",
+      "name": "Wat Arun",
+      "country": "Thailand"
+    },
+    {
+      "id": "landmarks-034",
+      "name": "Petronas Twin Towers",
+      "country": "Malaysia"
+    },
+    {
+      "id": "landmarks-035",
+      "name": "Tower Bridge",
+      "country": "United Kingdom"
+    },
+    {
+      "id": "landmarks-036",
+      "name": "Palace of Versailles",
+      "country": "France"
+    },
+    {
+      "id": "landmarks-037",
+      "name": "Abu Simbel",
+      "country": "Egypt"
+    },
+    {
+      "id": "landmarks-038",
+      "name": "Sigiriya",
+      "country": "Sri Lanka"
+    },
+    {
+      "id": "landmarks-039",
+      "name": "Shwedagon Pagoda",
+      "country": "Myanmar"
+    },
+    {
+      "id": "landmarks-040",
+      "name": "Charles Bridge",
+      "country": "Czechia"
+    }
+  ]
+}

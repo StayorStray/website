@@ -1022,5 +1022,1049 @@
       "audited_at": "2026-09-23T19:10:32-05:00",
       "audit_notes": "PASS — All three Giza pyramids (Khufu/Khafre/Menkaure) classic plateau vista; Ricardo Liberato CC BY-SA 2.0. Facts match. Ad Giza OK."
     }
+  },
+  {
+    "id": "landmarks-021",
+    "tab": "landmarks",
+    "name": "Sydney Opera House",
+    "short_line": "Sydney, Australia",
+    "country": "Australia",
+    "lat": -33.8568,
+    "lng": 151.2153,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/SydneyOperaHouse20182.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-021.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASydneyOperaHouse20182.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Solvarsity",
+      "attribution": "Photo: Solvarsity, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:SydneyOperaHouse20182.jpg' — Sydney Opera House hero; shells, sails, harbor visible; desc: Sydney"
+    },
+    "facts": {
+      "one_liner": "Utzon’s white sail-shells on Bennelong Point—Sydney Harbour’s UNESCO Opera House.",
+      "why_go": "The hero shows the Sydney Opera House’s interlocking vaulted shells rising from the harbour terrace—three shell groups over performance halls and a restaurant on a vast platform at the tip of Bennelong Point. UNESCO inscribed the building in 2007 as a masterpiece of 20th-century architecture designed by Danish architect Jørn Utzon and inaugurated in 1973; its waterscape setting and structural innovation made it a global performing-arts icon. Exterior concourses and forecourt views are free to walk; timed guided tours and performances open the foyers and halls. Pair with Circular Quay ferries and Harbour Bridge views for the classic Sydney frame.",
+      "best_time": "Spring (Sep–Nov) and autumn (Mar–May) for milder harbour weather; weekday mornings are quieter on the forecourt. Sunset and dusk light the tiles strongly; Vivid Sydney (typically May–June) projects light onto the sails.",
+      "how_to_get_there": "Base in Sydney. Train, ferry, or light rail to Circular Quay, then a short walk to Bennelong Point; buses also serve the precinct. Tours check in at the Welcome Centre on the Lower Concourse—book on sydneyoperahouse.com.",
+      "good_to_know": "Public precinct; Welcome Centre and box office generally open daily (closed some holidays). Official guided tours run daily subject to the booking calendar. Large bags may need cloaking before tours. No prices listed here.",
+      "official_or_tourism_url": "https://www.sydneyoperahouse.com/",
+      "sources": [
+        "https://whc.unesco.org/en/list/166",
+        "https://www.sydneyoperahouse.com/",
+        "https://www.sydneyoperahouse.com/tours/sydney-opera-house-tour"
+      ]
+    },
+    "ad": {
+      "destination_query": "Sydney, Australia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sydney%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sydney%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sydney%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Sydney"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — Sydney Opera House white sail-shells + harbour ferry; Solvarsity CC BY-SA 4.0. Facts match THIS JPG. Ad Sydney OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-022",
+    "tab": "landmarks",
+    "name": "Golden Gate Bridge",
+    "short_line": "San Francisco, United States",
+    "country": "United States",
+    "lat": 37.8199,
+    "lng": -122.4783,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/GoldenGateBridge-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-022.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AGoldenGateBridge-001.jpg",
+      "license": "CC BY 2.5",
+      "author": "Rich Niewiroski Jr.",
+      "attribution": "Photo: Rich Niewiroski Jr., CC BY 2.5, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:GoldenGateBridge-001.jpg' — Golden Gate Bridge hero; span, bay, marin visible; desc: The Golden Gate Bridge and San Francisco, CA at sunset. This photo was taken from the Marin Headlands"
+    },
+    "facts": {
+      "one_liner": "International Orange Art Deco span across the Golden Gate Strait—walkable from the Presidio.",
+      "why_go": "The hero captures the Golden Gate Bridge’s full suspension span over the strait between San Francisco Bay and the Pacific, with Marin Headlands and city context visible—an engineering and Art Deco landmark opened in 1937. Towers rise about 746 feet; the roadway walk is roughly 1.7 miles end to end (~35 minutes one way). Most visits start at the Presidio / south anchorage Welcome Center, then use the east sidewalk for pedestrians. The span sits within Golden Gate National Recreation Area viewsheds—dress for wind and fog even on sunny downtown days.",
+      "best_time": "Clear mornings often give the best bridge and bay views before fog builds; late afternoon can back-light the towers. Weekdays are less crowded than weekends on the sidewalk.",
+      "how_to_get_there": "Base in San Francisco. Muni bus, rideshare, bike, or walk via Presidio trails to the Golden Gate Bridge Welcome Center; paid lots sit near the south end (often limited). Pedestrians use the east sidewalk only.",
+      "good_to_know": "Free to walk or bike the sidewalks—no bridge ticket. Pedestrian east-sidewalk hours vary by season (typically ~5:00–18:30 PST / to ~21:00 PDT—confirm on goldengate.org). Cyclists have 24-hour sidewalk access with yield rules. No bike rentals on the bridge itself.",
+      "official_or_tourism_url": "https://www.goldengate.org/bridge/visiting-the-bridge/",
+      "sources": [
+        "https://www.goldengate.org/bridge/visiting-the-bridge/",
+        "https://www.goldengate.org/bridge/visiting-the-bridge/bikes-pedestrians/",
+        "https://www.nps.gov/prsf/planyourvisit/golden-gate-bridge.htm",
+        "https://presidio.gov/explore/attractions/golden-gate-bridge"
+      ]
+    },
+    "ad": {
+      "destination_query": "San Francisco, United States",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=San%20Francisco%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=San%20Francisco%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=San%20Francisco%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in San Francisco"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — Golden Gate Bridge International Orange full span + bay/Marin; Rich Niewiroski Jr. CC BY 2.5. US slot 3/3. Facts match. Ad San Francisco OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-023",
+    "tab": "landmarks",
+    "name": "Burj Khalifa",
+    "short_line": "Dubai, United Arab Emirates",
+    "country": "United Arab Emirates",
+    "lat": 25.1972,
+    "lng": 55.2744,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Burj_Dubai_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-023.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABurj_Dubai_001.jpg",
+      "license": "CC BY-SA 2.5",
+      "author": "Nepenthes",
+      "attribution": "Photo: Nepenthes, CC BY-SA 2.5, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Burj Dubai 001.jpg' — Burj Khalifa hero; tower, skyline, dubai visible; desc: Burj Khalifa on its official opening day Jan 4th, 2010. The image was taken approx. 15 kilometers east of Burj Khalifa and includes several "
+    },
+    "facts": {
+      "one_liner": "World’s tallest tower rising over Downtown Dubai—At The Top decks on levels 124–125.",
+      "why_go": "The hero shows Burj Khalifa dominating the Dubai skyline: the tapering mixed-use tower designed by Adrian Smith / SOM and developed by Emaar, inaugurated in 2010 as the world’s tallest building. Visitor access is via At The Top through Dubai Mall—observation decks on levels 124 and 125 (outdoor terrace options), with higher SKY / VIP experiences available separately. The tower anchors Downtown Dubai beside the Dubai Fountain and mall precinct. Timed tickets control elevator flow; sunrise and sunset slots are the most atmospheric.",
+      "best_time": "October–April for cooler outdoor terrace weather; book sunset entry ~2 hours before sunset for golden light. Summer daytime heat is extreme—prefer evening slots.",
+      "how_to_get_there": "Base in Dubai. Metro Red Line to Burj Khalifa/Dubai Mall station, or taxi/ride-hail to Dubai Mall; At The Top entrance is on the mall’s Lower Ground. Book on ticket.atthetop.ae.",
+      "good_to_know": "Ticketed observation experience (no prices listed). Timed entry recommended in advance. Large bags/strollers often must be stored; check prohibited-items lists. Outdoor terraces can close for weather or NYE restrictions.",
+      "official_or_tourism_url": "https://ticket.atthetop.ae/tickets/",
+      "sources": [
+        "https://ticket.atthetop.ae/tickets/",
+        "https://ticket.atthetop.ae/frequently-asked-questions/",
+        "https://www.emaar.com/en/at-the-top-burj-khalifa",
+        "https://en.wikipedia.org/wiki/Burj_Khalifa"
+      ]
+    },
+    "ad": {
+      "destination_query": "Dubai, United Arab Emirates",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Dubai%2C%20United%20Arab%20Emirates&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Dubai%2C%20United%20Arab%20Emirates&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Dubai%2C%20United%20Arab%20Emirates&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Dubai"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — Burj Khalifa needle dominating Dubai skyline (Nepenthes CC BY-SA 2.5). CLOSE CALL: distant tower with industrial/low-rise foreground — Burj still unmistakable main skyline subject that sells the visit. Facts match. Ad Dubai OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-024",
+    "tab": "landmarks",
+    "name": "Sagrada Família",
+    "short_line": "Barcelona, Spain",
+    "country": "Spain",
+    "lat": 41.4036,
+    "lng": 2.1744,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sagrada_Familia_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-024.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASagrada_Familia_8.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "MontanNito",
+      "attribution": "Photo: MontanNito, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Sagrada Familia 8.jpg' — Sagrada Família hero; exterior, facade, façade visible"
+    },
+    "facts": {
+      "one_liner": "Gaudí’s still-rising basilica—Nativity and Passion façades defining Barcelona’s skyline.",
+      "why_go": "The hero is the Sagrada Família’s exterior: soaring spires and richly sculpted façades of Antoni Gaudí’s unfinished basilica in Eixample, Barcelona. UNESCO’s Works of Antoni Gaudí serial property includes Gaudí’s Nativity façade and Crypt; construction continues toward completing his overall design. Inside, forest-like columns and stained glass create the Temple of Light; towers may be add-ons on some tickets. Timed, nominative entry is required—buy only via the official site.",
+      "best_time": "Shoulder seasons (spring and autumn) for milder queues; first morning slots are calmest. Late afternoon colours the Passion/Nativity stone differently—check which façade your approach faces.",
+      "how_to_get_there": "Base in Barcelona. Metro L2/L5 to Sagrada Família; buses also serve Carrer de Mallorca. Enter only in your booked time slot with photo ID matching the ticket name.",
+      "good_to_know": "Ticketed basilica; tickets are nominative and date/time-specific (no prices listed). Dress modestly for a working church. Under-16s need an adult; security checks bags. Prefer sagradafamilia.org over resellers.",
+      "official_or_tourism_url": "https://sagradafamilia.org/en/sagrada-familia-ticket",
+      "sources": [
+        "https://sagradafamilia.org/en/sagrada-familia-ticket",
+        "https://whc.unesco.org/en/list/320",
+        "https://sagradafamilia.org/en"
+      ]
+    },
+    "ad": {
+      "destination_query": "Barcelona, Spain",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Barcelona%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Barcelona%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Barcelona%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Barcelona"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — Sagrada Família exterior spires/façade with construction cranes (still unmistakably Gaudí basilica); MontanNito CC BY-SA 3.0. Facts match unfinished exterior. Ad Barcelona OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-025",
+    "tab": "landmarks",
+    "name": "Elizabeth Tower (Big Ben)",
+    "short_line": "London, United Kingdom",
+    "country": "United Kingdom",
+    "lat": 51.5007,
+    "lng": -0.1246,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Clock_Tower_-_Palace_of_Westminster%2C_London_-_May_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-025.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AClock_Tower_-_Palace_of_Westminster%2C_London_-_May_2007.jpg",
+      "license": "CC BY 2.5",
+      "author": "Diliff",
+      "attribution": "Photo: Diliff, CC BY 2.5, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Clock Tower - Palace of Westminster, London - May 2007.jpg' — Elizabeth Tower (Big Ben) hero; clock, tower, westminster visible; desc: The Clock Tower of the Palace of Westminster, colloquially known as \"Big Ben\", in Westminster, London, England."
+    },
+    "facts": {
+      "one_liner": "Palace of Westminster’s clock tower—Elizabeth Tower; Big Ben is the Great Bell inside.",
+      "why_go": "The hero is Elizabeth Tower at the Palace of Westminster: the neo-Gothic clock tower long nicknamed “Big Ben,” properly the name of the Great Bell in the belfry. UK Parliament offers guided tours climbing about 334 spiral steps to see the clock mechanism, stand by the dials (~6.9 m across), and hear the bell strike. Exterior views from Westminster Bridge and Parliament Square are free and match the classic postcard. Do not confuse this riverside clock tower with Tower Bridge farther east (landmarks-035).",
+      "best_time": "Clear days for exterior photos from the bridge; tours book out—reserve early. Weekday mornings often mean softer light on the stone.",
+      "how_to_get_there": "Base in London. Tube to Westminster (Jubilee/District/Circle); walk to Cromwell Green visitor entrance (SW1A 0AA) for booked tours. Exterior viewing needs no ticket.",
+      "good_to_know": "Exterior is free. Tower tours: age 11+, ~90 minutes of climbing, flat enclosed shoes required; arrive ~30 minutes early. UK residents may request limited free tours via an MP. Not the same landmark as Tower Bridge.",
+      "official_or_tourism_url": "https://www.parliament.uk/visiting/visiting-and-tours/big-ben-tour/",
+      "sources": [
+        "https://www.parliament.uk/visiting/visiting-and-tours/big-ben-tour/",
+        "https://www.parliament.uk/visiting/visiting-and-tours/big-ben-tour/before-you-book/",
+        "https://www.visitlondon.com/things-to-do/sightseeing/london-attraction/big-ben"
+      ]
+    },
+    "ad": {
+      "destination_query": "London, United Kingdom",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=London%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=London%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=London%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in London"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — Elizabeth Tower / Big Ben neo-Gothic clock tower at Palace of Westminster (Diliff CC BY 2.5). Distinct from Tower Bridge (035). Facts disclose ≠ Tower Bridge. Ad London OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-026",
+    "tab": "landmarks",
+    "name": "St. Basil's Cathedral",
+    "short_line": "Moscow, Russia",
+    "country": "Russia",
+    "lat": 55.7525,
+    "lng": 37.6231,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Saint_Basil%27s_Cathedral_in_Moscow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-026.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASaint_Basil%27s_Cathedral_in_Moscow.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Tsy1980",
+      "attribution": "Photo: Tsy1980, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Saint Basil's Cathedral in Moscow.jpg' — St. Basil's Cathedral hero; onion, domes, red square visible; desc: Покровский собор на рву (собор Василия Блаженного): Красная площадь, б/н, Тверской, Центральный округ, Москва"
+    },
+    "facts": {
+      "one_liner": "Onion-domed Pokrovsky Cathedral on Red Square—Ivan IV’s 1555–60 victory church.",
+      "why_go": "The hero is St. Basil’s Cathedral (Cathedral of the Intercession / Pokrovsky Cathedral) at the south end of Red Square: clustered coloured onion domes that define Moscow’s historic centre. Built in 1555–1560 under Ivan IV to mark the conquest of Kazan, it forms part of UNESCO’s Kremlin and Red Square World Heritage site. The State Historical Museum manages visitor entry to the museum-cathedral; the exterior square views are the classic approach matching the photo. Circles of chapels and painted interiors reward a ticketed visit beyond the plaza selfie.",
+      "best_time": "Late spring–early autumn for outdoor Red Square comfort; golden hour warms the domes. Winter is atmospheric but cold; check Red Square event closures.",
+      "how_to_get_there": "Base in Moscow. Metro to Okhotny Ryad / Teatralnaya / Ploshchad Revolyutsii, then walk onto Red Square. Cathedral entrance is on the square—confirm hours on shm.ru.",
+      "good_to_know": "Red Square exterior is open as a public plaza (subject to security/events). Cathedral interior is a ticketed museum of the State Historical Museum (no prices listed). Dress for churches; photography rules may apply inside.",
+      "official_or_tourism_url": "https://en.shm.ru/museum/hvb/",
+      "sources": [
+        "https://whc.unesco.org/en/list/545",
+        "https://en.shm.ru/museum/hvb/",
+        "https://whc.unesco.org/document/194954"
+      ]
+    },
+    "ad": {
+      "destination_query": "Moscow, Russia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Moscow%2C%20Russia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Moscow%2C%20Russia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Moscow%2C%20Russia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Moscow"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — St. Basil's onion domes on Red Square plaza; Tsy1980 CC BY-SA 4.0. Facts match. Ad Moscow OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-027",
+    "tab": "landmarks",
+    "name": "Mont-Saint-Michel",
+    "short_line": "Normandy, France",
+    "country": "France",
+    "lat": 48.6361,
+    "lng": -1.5115,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Mont_St_Michel_3%2C_Brittany%2C_France_-_July_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-027.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMont_St_Michel_3%2C_Brittany%2C_France_-_July_2011.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "DAVID ILIFF (Diliff)",
+      "attribution": "Photo: DAVID ILIFF (Diliff), CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "REMAKE (Auditor reject — abbey absent on prior Couesnon estuary shot). Commons File:Mont St Michel 3, Brittany, France - July 2011.jpg — Quality image; wide tidal-mount exterior with Mont-Saint-Michel abbey island as MAIN SUBJECT (fortified village + Gothic abbey/spire centered along Couesnon). Diliff own-work CC BY-SA 3.0 (attribution required; ignore mistaken PD-Art template). Thumb 1280px used locally after original HTTP 429."
+    },
+    "facts": {
+      "one_liner": "Classic wide tidal mount—fortified village climbing to the abbey spire over Couesnon salt marsh.",
+      "why_go": "The remade hero is the postcard Mont-Saint-Michel silhouette: granite tidal island centered in frame, crenellated ramparts ringing the base, stone village roofs climbing the rock, and the Gothic abbey crowning the summit with its tall spire and golden Saint Michael statue under soft overcast light. Salt-marsh pré salé and a Couesnon tidal channel fill the foreground, so the abbey—not an empty estuary crop—is clearly the main subject. Mont-Saint-Michel and its bay have been a UNESCO World Heritage site since 1979; Normandy Tourism and the Centre des monuments nationaux describe the Benedictine abbey and ramparted commune as one of France’s great pilgrimage and monument landscapes. Extreme tides periodically surround the mount; the village lanes and abbey stairs are steep.",
+      "best_time": "Shoulder seasons for lighter crowds and clearer views of the full silhouette. Check Normandy tide tables if you want water around the mount; abbey hours run longer in summer (roughly May–August) and shorter September–April—confirm on the official abbey site. Closed 1 January, 1 May, and 25 December.",
+      "how_to_get_there": "Park on the mainland (Établissement public MSM parking) and take the free shuttle or walk the approach bridge to the mount. Nearest rail is Pontorson with bus links; road access from Rennes, Saint-Malo, or Caen corridors. The village is free to enter; abbey tickets are via Centre des monuments nationaux / abbaye-mont-saint-michel.fr.",
+      "good_to_know": "Village access is free; the abbey at the summit is a separate ticketed monument (no prices listed here). Allow 45–60 minutes from parking to the abbey entrance in busy periods; many steps—difficult for strollers and reduced mobility. Never walk the bay alone (quick sand and fast tides)—use approved guided bay walks only. Remake note: prior estuary-only hero was Auditor-rejected; this Diliff wide mount puts the abbey as main subject.",
+      "official_or_tourism_url": "https://www.abbaye-mont-saint-michel.fr/en/visit/practical-information",
+      "sources": [
+        "https://whc.unesco.org/en/list/80",
+        "https://www.abbaye-mont-saint-michel.fr/en/visit/practical-information",
+        "https://en.normandie-tourisme.fr/unmissable-sites/the-mont-saint-michel/",
+        "https://montsaintmichel.gouv.fr/visite-du-mont-et-de-sa-baie/abbaye-du-mont-saint-michel"
+      ]
+    },
+    "ad": {
+      "destination_query": "Mont-Saint-Michel, France",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Mont-Saint-Michel%2C%20France&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Mont-Saint-Michel%2C%20France&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Mont-Saint-Michel%2C%20France&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Mont-Saint-Michel"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:16:07-05:00",
+      "audit_notes": "RE-AUDIT PASS: Diliff wide tidal-mount remake — abbey island (ramparts + village + Gothic abbey/spire) is MAIN SUBJECT; Couesnon marsh FG supports not distracts. Facts match THIS JPG. CC BY-SA 3.0 + attribution OK. Ad Mont-Saint-Michel / YOUR_AFFILIATE_ID. Prior estuary reject cleared.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-028",
+    "tab": "landmarks",
+    "name": "Leaning Tower of Pisa",
+    "short_line": "Pisa, Italy",
+    "country": "Italy",
+    "lat": 43.723,
+    "lng": 10.3966,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Tower_of_Pisa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-028.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATower_of_Pisa.jpg",
+      "license": "CC BY-SA 2.5",
+      "author": "Adnergje",
+      "attribution": "Photo: Adnergje, CC BY-SA 2.5, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Tower of Pisa.jpg' — Leaning Tower of Pisa hero; leaning, tower, piazza visible; desc: The Leaning Tower of Pisa"
+    },
+    "facts": {
+      "one_liner": "Piazza dei Miracoli’s freestanding campanile—Pisa’s famously tilted white marble tower.",
+      "why_go": "The hero is the Leaning Tower (Torre pendente) in Pisa’s Piazza dei Miracoli: the circular Romanesque campanile that began leaning during 12th-century construction on soft subsoil. It stands with the cathedral and baptistery in a UNESCO-listed monumental square—not Rome’s Colosseum. Opera della Primaziale Pisana sells timed climb tickets to the belfry; ground-level plaza photos need no tower ticket. The lean and stacked arcades are the visit’s signature.",
+      "best_time": "Spring and autumn for milder climbing weather; early slots beat tour groups. Midday summer stone is hot and crowded.",
+      "how_to_get_there": "Base in Pisa. Walk or bus from Pisa Centrale (~20–30 minutes) to Piazza del Duomo; regional trains also serve Pisa San Rossore closer to the square. Book tower climbs on opapisa.it.",
+      "good_to_know": "Plaza is free to enter; tower climb is timed/ticketed (no prices listed)—bags often must be stored. Cathedral may need a separate pass/combo. Children under a set age may be restricted from the climb—check Opera rules.",
+      "official_or_tourism_url": "https://www.opapisa.it/",
+      "sources": [
+        "https://whc.unesco.org/en/list/395",
+        "https://www.opapisa.it/",
+        "https://www.turismo.pisa.it/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Pisa, Italy",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Pisa%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Pisa%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Pisa%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Pisa"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — Leaning Tower of Pisa white marble campanile + lawn; Adnergje CC BY-SA 2.5. ≠ Colosseum. Facts match. Ad Pisa OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-029",
+    "tab": "landmarks",
+    "name": "Brandenburg Gate",
+    "short_line": "Berlin, Germany",
+    "country": "Germany",
+    "lat": 52.5163,
+    "lng": 13.3777,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Brandenburger_Tor_abends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-029.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABrandenburger_Tor_abends.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Thomas Wolf, www.foto-tw.de",
+      "attribution": "Photo: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Brandenburger Tor abends.jpg' — Brandenburg Gate hero; gate, pariser, platz visible; desc: The Brandenburg Gate in Berlin, Germany"
+    },
+    "facts": {
+      "one_liner": "Neo-classical gate on Pariser Platz—Berlin’s reunification icon under the Quadriga.",
+      "why_go": "The hero is the Brandenburg Gate (Brandenburger Tor) facing Pariser Platz: Carl Gotthard Langhans’s sandstone neo-classical gate (1788–1791), topped by Schadow’s Quadriga, once trapped in the Berlin Wall death strip and now the city’s reunification symbol. visitBerlin notes it as Berlin’s only surviving historic city gate and a first-stop landmark near the Reichstag and Unter den Linden. The plaza is open day and night for free photos matching the illuminated evening view. Tourist Info sits in the south wing.",
+      "best_time": "Early morning for empty Pariser Platz frames; evenings for lit columns. Major holidays and New Year’s Eve draw huge crowds.",
+      "how_to_get_there": "Base in Berlin. S-Bahn/U-Bahn to Brandenburger Tor; buses also stop nearby. Walk from Reichstag or Unter den Linden in minutes.",
+      "good_to_know": "Free public landmark—no ticket for the gate or square. Security barriers appear during events. Combine with nearby Memorial to the Murdered Jews of Europe and Tiergarten. Not Neuschwanstein or other Berlin lookalikes.",
+      "official_or_tourism_url": "https://www.visitberlin.de/en/brandenburg-gate",
+      "sources": [
+        "https://www.visitberlin.de/en/brandenburg-gate",
+        "https://www.berlin.de/en/attractions-and-sights/3560266-3104052-brandenburg-gate.en.html",
+        "https://www.visitberlin.de/en/berlin-tourist-info-centre-brandenburg-gate"
+      ]
+    },
+    "ad": {
+      "destination_query": "Berlin, Germany",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Berlin%2C%20Germany&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Berlin%2C%20Germany&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Berlin%2C%20Germany&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Berlin"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — Brandenburg Gate + Quadriga at twilight Pariser Platz; Thomas Wolf CC BY-SA 3.0. ≠ Neuschwanstein. Facts match. Ad Berlin OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-030",
+    "tab": "landmarks",
+    "name": "CN Tower",
+    "short_line": "Toronto, Canada",
+    "country": "Canada",
+    "lat": 43.6426,
+    "lng": -79.3871,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/CN_Tower_from_Rogers_Centre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-030.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACN_Tower_from_Rogers_Centre.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Adam Bishop",
+      "attribution": "Photo: Adam Bishop, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:CN Tower from Rogers Centre.jpg' — CN Tower hero; tower, toronto, skyline visible; desc: CN Tower from inside the Rogers Centre"
+    },
+    "facts": {
+      "one_liner": "Toronto’s concrete communications spike—Main Observation Level glass floor over Lake Ontario.",
+      "why_go": "The hero is the CN Tower rising above downtown Toronto: the freestanding concrete tower completed in 1976 as a broadcast and observation landmark. Timed General Admission reaches the Main Observation Level (~346 m) with glass floor, outdoor terrace, and lower levels; add-on The Top climbs higher still. EdgeWalk offers a hands-free exterior walk for thrill-seekers. The silhouette against the lakefront skyline is the classic Toronto identity shot.",
+      "best_time": "Clear days for lake and skyline views; sunset and night visits show city lights. Weekday mornings are often smoother for timed entry.",
+      "how_to_get_there": "Base in Toronto. Union Station / TTC streetcar and PATH connections serve the Rogers Centre / CN Tower precinct; paid parking nearby. Buy timed tickets on cntower.ca.",
+      "good_to_know": "Ticketed attraction with timed entry (no prices listed)—book ahead for peak slots. Weather can close outdoor terrace or EdgeWalk. Children 2 and under typically free per official policy—confirm on site.",
+      "official_or_tourism_url": "https://www.cntower.ca/plan-your-visit/tickets-and-hours/tickets",
+      "sources": [
+        "https://www.cntower.ca/plan-your-visit/tickets-and-hours/tickets",
+        "https://www.cntower.ca/",
+        "https://www.seetorontonow.com/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Toronto, Canada",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Toronto%2C%20Canada&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Toronto%2C%20Canada&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Toronto%2C%20Canada&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Toronto"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — CN Tower shaft + Main Pod rising above Rogers Centre bowl (Adam Bishop CC BY-SA 4.0). CLOSE CALL: stadium seats/roof in foreground — tower remains unmistakable main subject. Facts match. Ad Toronto OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-031",
+    "tab": "landmarks",
+    "name": "Fushimi Inari Shrine",
+    "short_line": "Kyoto, Japan",
+    "country": "Japan",
+    "lat": 34.9671,
+    "lng": 135.7727,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Fushimi_Inari_Taisha_tunnel_droit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-031.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AFushimi_Inari_Taisha_tunnel_droit.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Hyppolyte de Saint-Rambert",
+      "attribution": "Photo: Hyppolyte de Saint-Rambert, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Fushimi Inari Taisha tunnel droit.jpg' — Fushimi Inari Shrine hero; torii, vermilion, tunnel visible; desc: Photographie des torii du Senbon formant un tunnel rectiligne."
+    },
+    "facts": {
+      "one_liner": "Vermilion Senbon torii tunnels climbing Inariyama—Kyoto’s head Inari shrine since 711.",
+      "why_go": "The hero is Fushimi Inari Taisha’s tunnel of donated vermilion torii gates climbing the sacred mountain Inariyama in southern Kyoto. The shrine, head of thousands of Inari shrines nationwide, traces enshrinement to 711 and draws worshippers seeking harvests, business success, and household safety. Official shrine guidance treats the whole mountain as precinct—hokora, otsuka, and gateways continue for hours of hiking beyond the first photo tunnel. Entry to the grounds is free; respect it as an active Shinto site, not a theme park.",
+      "best_time": "Early morning to avoid tour-bus crowds in the lower tunnels; weekdays quieter than weekends. Autumn foliage and lantern festivals add atmosphere—summer is hot and humid on the climb.",
+      "how_to_get_there": "Base in Kyoto. JR Nara Line to Inari Station (direct from Kyoto Station) or Keihan to Fushimi-Inari; short walk to the main gate. Allow half a day if hiking toward the summit loops.",
+      "good_to_know": "Free open shrine precinct. Dress respectfully; follow posted requests (no disruptive costumes/photos that block worship). Fox (kitsune) statues are messengers—don’t climb them. Food stalls near the base; bring water for the mountain path.",
+      "official_or_tourism_url": "https://inari.jp/en/",
+      "sources": [
+        "https://inari.jp/en/",
+        "https://inari.jp/en/request/",
+        "https://kyoto.travel/en/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kyoto, Japan",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kyoto%2C%20Japan&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kyoto%2C%20Japan&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kyoto%2C%20Japan&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kyoto"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — Fushimi Inari Senbon Torii vermilion tunnel; Hyppolyte de Saint-Rambert CC BY-SA 4.0. Facts match. Ad Kyoto OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-032",
+    "tab": "landmarks",
+    "name": "Harmandir Sahib (Golden Temple)",
+    "short_line": "Amritsar, India",
+    "country": "India",
+    "lat": 31.62,
+    "lng": 74.8765,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Golden_Temple_%28Harmandir_Sahib%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-032.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AGolden_Temple_%28Harmandir_Sahib%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Midou.dambri",
+      "attribution": "Photo: Midou.dambri, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Golden Temple (Harmandir Sahib).jpg' — Harmandir Sahib (Golden Temple) hero; golden, temple, sarovar visible; desc: Sri Harmandir Sahib (Golden Temple) is the holiest Gurdwara of Sikhism, located in the city of Amritsar, Punjab, India."
+    },
+    "facts": {
+      "one_liner": "Sikhism’s holiest gurdwara—golden Harmandir Sahib mirrored in Amritsar’s sarovar.",
+      "why_go": "The hero is Harmandir Sahib (the Golden Temple) in Amritsar: the gold-plated sanctum set in the Amrit Sarovar pool, the spiritual centre of Sikhism. Punjab Tourism and SGPC present it as an open gurdwara for pilgrims and visitors—continuous kirtan, the causeway to the sanctum, and the surrounding marble parikrama. The free community kitchen (langar) serves all who join respectfully. This is Amritsar’s Golden Temple, not Agra’s Taj Mahal.",
+      "best_time": "October–March for cooler weather; dawn and evening light gild the sanctum on the water. Major gurpurabs are deeply meaningful but extremely crowded.",
+      "how_to_get_there": "Base in Amritsar. Auto-rickshaw, taxi, or walk from the old city / railway station area to the Temple complex; Sri Guru Ram Dass Jee International Airport is the air gateway.",
+      "good_to_know": "Free entry. Cover your head (scarves available), remove shoes, wash feet at the entrance, dress modestly covering shoulders and knees. No tobacco, alcohol, or intoxicants. Photography is restricted inside the sanctum—follow sewadar guidance. Sit on the floor for langar if you eat.",
+      "official_or_tourism_url": "https://sgpc.net/sri-harmandir-sahib/",
+      "sources": [
+        "https://sgpc.net/sri-harmandir-sahib/",
+        "https://amritsar.nic.in/",
+        "https://www.britannica.com/topic/Golden-Temple"
+      ]
+    },
+    "ad": {
+      "destination_query": "Amritsar, India",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Amritsar%2C%20India&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Amritsar%2C%20India&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Amritsar%2C%20India&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Amritsar"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — Harmandir Sahib golden sanctum + sarovar reflection (Midou.dambri CC BY-SA 4.0). ≠ Taj. good_to_know covers head cover / shoes / modest dress etiquette. Ad Amritsar OK. Honesty lock PASS.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-033",
+    "tab": "landmarks",
+    "name": "Wat Arun",
+    "short_line": "Bangkok, Thailand",
+    "country": "Thailand",
+    "lat": 13.7437,
+    "lng": 100.4888,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Wat_Arun_Bangkok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-033.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AWat_Arun_Bangkok.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Cun Cun",
+      "attribution": "Photo: Cun Cun, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Wat Arun Bangkok.jpg' — Wat Arun hero; prang, riverside, chao phraya visible; desc: Wat Arun in Bangkok"
+    },
+    "facts": {
+      "one_liner": "Temple of Dawn’s Khmer-style central prang on the Chao Phraya—Bangkok’s riverside icon.",
+      "why_go": "The hero is Wat Arun Ratchawararam (Wat Arun): the steep, porcelain-encrusted central prang rising on the Thonburi bank of the Chao Phraya opposite the Grand Palace reach. Named for Aruna, the dawn god, it is one of Bangkok’s most photographed riverside wats; climbing the lower terraces (when open) reveals river and Rattanakosin views. Cross by ferry from Tha Tien or approach from the west bank. The silhouette at late day or dusk matches the classic postcard.",
+      "best_time": "Early morning or late afternoon for softer heat and better light on the prang; evenings for river reflections. Avoid midday climb heat.",
+      "how_to_get_there": "Base in Bangkok. Chao Phraya Express Boat to Tha Tien, then cross-river ferry to Wat Arun; or taxi/Grab to the Thonburi side. Combine with nearby Wat Pho on a river circuit.",
+      "good_to_know": "Ticketed temple for foreign visitors (no prices listed)—hours typically daytime; confirm locally. Cover shoulders and knees; remove shoes where required. Stairs on the prang are steep and may close for safety—obey barriers.",
+      "official_or_tourism_url": "https://www.tourismthailand.org/Attraction/wat-arun-ratchawararam-ratchawaramahawihan",
+      "sources": [
+        "https://www.tourismthailand.org/Attraction/wat-arun-ratchawararam-ratchawaramahawihan",
+        "https://en.wikipedia.org/wiki/Wat_Arun",
+        "https://www.timeout.com/bangkok/attractions/wat-arun"
+      ]
+    },
+    "ad": {
+      "destination_query": "Bangkok, Thailand",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bangkok%2C%20Thailand&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bangkok%2C%20Thailand&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bangkok%2C%20Thailand&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Bangkok"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — Wat Arun central prang + riverside temple courtyard (Cun Cun CC BY-SA 4.0). CLOSE CALL: upper prang under scaffolding — Khmer-style Wat Arun identity still clear and sells visit. Facts match. Ad Bangkok OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-034",
+    "tab": "landmarks",
+    "name": "Petronas Twin Towers",
+    "short_line": "Kuala Lumpur, Malaysia",
+    "country": "Malaysia",
+    "lat": 3.1579,
+    "lng": 101.7116,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Petronas_Panorama_II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-034.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APetronas_Panorama_II.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Someformofhuman",
+      "attribution": "Photo: Someformofhuman, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Petronas Panorama II.jpg' — Petronas Twin Towers hero exterior; desc: The Petronas Towers in Kuala Lumpur at night."
+    },
+    "facts": {
+      "one_liner": "César Pelli’s mirrored twins with a skybridge—KLCC’s Petronas Towers night skyline.",
+      "why_go": "The hero is the Petronas Twin Towers in Kuala Lumpur: the 88-storey stainless-steel-clad pair linked by a skybridge, designed by César Pelli for Petroliam Nasional and opened in the late 1990s as the world’s tallest buildings of their era. Visitor experiences typically include the Sky Bridge around level 41 and a sky deck higher up—book timed tickets on the official Petronas channels. Suria KLCC mall and the park sit at the base for skyline context matching the night panorama.",
+      "best_time": "Evening slots for illuminated towers; clear days for Melaka Strait haze-free views. Book weekends and holidays early.",
+      "how_to_get_there": "Base in Kuala Lumpur. LRT/KJ to KLCC station or walk through Suria KLCC; taxis and ride-hail drop at the mall. Use official e-tickets (eticket2.petronastwintowers.com.my).",
+      "good_to_know": "Ticketed observation experience (no prices listed); arrive ~15 minutes early. Security screening applies. Skybridge can close for wind/maintenance—check ticket inclusions (Sky Xperience vs other packages).",
+      "official_or_tourism_url": "https://eticket2.petronastwintowers.com.my/",
+      "sources": [
+        "https://eticket2.petronastwintowers.com.my/",
+        "https://www.malaysia.travel/",
+        "https://en.wikipedia.org/wiki/Petronas_Towers"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kuala Lumpur, Malaysia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kuala%20Lumpur%2C%20Malaysia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kuala%20Lumpur%2C%20Malaysia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kuala%20Lumpur%2C%20Malaysia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kuala Lumpur"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — Petronas Twin Towers + skybridge night plaza (Someformofhuman CC BY-SA 4.0). Facts match. Ad Kuala Lumpur OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-035",
+    "tab": "landmarks",
+    "name": "Tower Bridge",
+    "short_line": "London, United Kingdom",
+    "country": "United Kingdom",
+    "lat": 51.5055,
+    "lng": -0.0754,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Tower_Bridge_London_Feb_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-035.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATower_Bridge_London_Feb_2006.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Diliff",
+      "attribution": "Photo: Diliff, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Tower Bridge London Feb 2006.jpg' — Tower Bridge hero exterior; desc: An extremely high resolution image of Tower Bridge in London. This image is a mosaic of 53 12.8 megapixel segments stitched with PTGui. They"
+    },
+    "facts": {
+      "one_liner": "Victorian bascule and suspension bridge on the Thames—Tower Bridge, not Big Ben.",
+      "why_go": "The hero is Tower Bridge: the combined bascule and suspension bridge opened in 1894 beside the Tower of London, with twin Gothic towers and high-level walkways. It is a working Thames crossing that still lifts for shipping on a published schedule. The Tower Bridge Exhibition ticket opens the towers, glass walkways, and Victorian engine rooms. Distinct from Elizabeth Tower / Big Ben at Westminster (landmarks-025)—this is the eastern bascule icon.",
+      "best_time": "Weekday mornings for clearer bridge photos from the South Bank or Potters Fields; check bridge-lift times if you want to see the bascules rise.",
+      "how_to_get_there": "Base in London. Tube to Tower Hill or London Bridge; walk along the Thames Path. Exhibition entrance is in the north-west tower area—confirm on towerbridge.org.uk.",
+      "good_to_know": "Crossing the roadway/sidewalks is free. Exhibition is ticketed (no prices listed). Do not confuse with Westminster’s clock tower. Glass floors on the walkways may not suit severe vertigo.",
+      "official_or_tourism_url": "https://www.towerbridge.org.uk/",
+      "sources": [
+        "https://www.towerbridge.org.uk/",
+        "https://www.cityoflondon.gov.uk/",
+        "https://en.wikipedia.org/wiki/Tower_Bridge"
+      ]
+    },
+    "ad": {
+      "destination_query": "London, United Kingdom",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=London%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=London%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=London%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in London"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — Tower Bridge Victorian bascule/suspension on Thames (Diliff CC BY-SA 3.0). Distinct from Elizabeth Tower (025). Facts disclose ≠ Big Ben. Ad London OK (London×2 intentional).",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-036",
+    "tab": "landmarks",
+    "name": "Palace of Versailles",
+    "short_line": "Versailles, France",
+    "country": "France",
+    "lat": 48.8049,
+    "lng": 2.1204,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Exterior_of_Palace_of_Versailles_Aug_2026_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-036.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AExterior_of_Palace_of_Versailles_Aug_2026_01.jpg",
+      "license": "CC BY 4.0",
+      "author": "Heidi Meudt",
+      "attribution": "Photo: Heidi Meudt, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Exterior of Palace of Versailles Aug 2026 01.jpg' — Palace of Versailles hero exterior; desc: Exterior of Palace of Versailles Aug 2026"
+    },
+    "facts": {
+      "one_liner": "Louis XIV’s château and gardens west of Paris—UNESCO palace façade at Versailles.",
+      "why_go": "The hero is the Palace of Versailles exterior: the vast garden-front and courtyard façades of the former royal residence that embodied French absolute monarchy under Louis XIV. UNESCO lists the palace and park; state apartments, Hall of Mirrors, and the Trianon estates draw timed visitors. Formal gardens by Le Nôtre frame the château axis—the classic approach matches wide exterior photos. Base in Versailles town or day-trip from Paris; this is not the Eiffel Tower.",
+      "best_time": "April–October for full garden fountains/musical garden days (check calendar); arrive at opening. Winter is quieter inside but gardens are barer. Tuesdays can be busier when many Paris museums close.",
+      "how_to_get_there": "RER C to Versailles Château–Rive Gauche, or SNCF to Versailles Chantiers / Rive Droite, then walk. Book timed palace tickets on chateauversailles.fr; Passport options bundle palace, Trianon, and gardens when ticketed.",
+      "good_to_know": "Timed palace entry required in peak season (no prices listed). Gardens are sometimes free, sometimes ticketed for fountain shows—verify the day. Security queues are long; travel light. Separate rules for the estate park and Marie-Antoinette’s domain.",
+      "official_or_tourism_url": "https://en.chateauversailles.fr/plan-your-visit/tickets-and-prices",
+      "sources": [
+        "https://en.chateauversailles.fr/plan-your-visit/tickets-and-prices",
+        "https://whc.unesco.org/en/list/83",
+        "https://en.chateauversailles.fr/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Versailles, France",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Versailles%2C%20France&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Versailles%2C%20France&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Versailles%2C%20France&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Versailles"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — Palace of Versailles Cour de Marbre courtyard façades (Heidi Meudt CC BY 4.0). Exterior château identity clear. ≠ Eiffel. Facts match. Ad Versailles OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-037",
+    "tab": "landmarks",
+    "name": "Abu Simbel",
+    "short_line": "Aswan Governorate, Egypt",
+    "country": "Egypt",
+    "lat": 22.3372,
+    "lng": 31.6258,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Abu_Simbel_Temple_May_30_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-037.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAbu_Simbel_Temple_May_30_2007.jpg",
+      "license": "Public Domain",
+      "author": "Than217 at English Wikipedia",
+      "attribution": "Photo: Than217 at English Wikipedia, Public Domain, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Abu Simbel Temple May 30 2007.jpg' — Abu Simbel hero exterior; desc: Abu Simbel Temple of Ramesses II. Taken by myself. May 30, 2007"
+    },
+    "facts": {
+      "one_liner": "Ramesses II’s rock-cut temples by Lake Nasser—UNESCO Abu Simbel, not Giza.",
+      "why_go": "The hero is the Great Temple façade at Abu Simbel: four colossal seated statues of Ramesses II carved from the Nubian cliff, with the smaller Temple of Hathor/Nefertari nearby. UNESCO’s Nubian Monuments property records their rescue—cut into blocks and re-erected above Lake Nasser during the 1960–80 International Campaign. Twice yearly, sunlight reaches the inner sanctuary around the February and October solar alignments. This is Aswan Governorate / Lake Nasser—not the Giza pyramids.",
+      "best_time": "October–April for cooler desert temperatures; many travellers take a very early convoy or flight from Aswan. Solar-alignment dates are busiest.",
+      "how_to_get_there": "Base in Aswan or Abu Simbel town. Domestic flight to Abu Simbel airport, or road convoy/tour (~3–4 hours each way from Aswan). Tickets via Egyptian Ministry of Tourism and Antiquities channels / site kiosks.",
+      "good_to_know": "Ticketed archaeological site (no prices listed). Photography rules and interior flash bans apply. Heat and glare are intense—water, hat, modest clothing. Confirm convoy times; independent night driving rules vary.",
+      "official_or_tourism_url": "https://egymonuments.gov.eg/archaeological-sites/abu-simbel/",
+      "sources": [
+        "https://whc.unesco.org/en/list/88/",
+        "https://egymonuments.gov.eg/archaeological-sites/abu-simbel/",
+        "https://whc.unesco.org/en/story-abu-simbel/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Abu Simbel, Egypt",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Abu%20Simbel%2C%20Egypt&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Abu%20Simbel%2C%20Egypt&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Abu%20Simbel%2C%20Egypt&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Abu Simbel"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — Abu Simbel Great Temple four Ramesses II colossi façade (Than217 Public Domain). ≠ Giza. Facts disclose Nubian/Lake Nasser ≠ Giza. Ad Abu Simbel OK. Honesty lock PASS.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-038",
+    "tab": "landmarks",
+    "name": "Sigiriya",
+    "short_line": "Central Province, Sri Lanka",
+    "country": "Sri Lanka",
+    "lat": 7.957,
+    "lng": 80.7603,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sigiriya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-038.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASigiriya.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Bernard Gagnon",
+      "attribution": "Photo: Bernard Gagnon, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Sigiriya.jpg' — Sigiriya hero exterior; desc: Sigiriya, Sri Lanka"
+    },
+    "facts": {
+      "one_liner": "Kassapa’s 5th-century fortress on a 180 m granite plug—UNESCO Lion Rock at Sigiriya.",
+      "why_go": "The hero is Sigiriya (Lion Rock): a sheer granite peak in Sri Lanka’s Cultural Triangle where King Kassapa I (477–495) built a palace-citadel. UNESCO describes galleries and staircases rising through the brick-and-plaster lion gateway toward the summit ~180 m above the jungle. Frescoes of the Sigiriya maidens and the mirror wall survive on the rock face; water gardens spread at the base. Climb is steep and exposed—Pidurangala nearby offers alternate views of the plug itself.",
+      "best_time": "Early morning to beat heat and crowds; December–March is generally drier in the Cultural Triangle. Avoid summit in thunderstorms.",
+      "how_to_get_there": "Base in Sigiriya, Habarana, or Dambulla. Tuk-tuk or car from Dambulla (~20–30 minutes) or Habarana; Cultural Triangle tours often combine Sigiriya with Dambulla Cave Temple. Tickets at the site / official tourism channels.",
+      "good_to_know": "Ticketed UNESCO site (no prices listed)—foreign and local rates differ. Wear grippy shoes; metal stairs and rock slabs are steep. Carry water; protect frescoes—no touching. Midday heat is punishing.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/202/",
+      "sources": [
+        "https://whc.unesco.org/en/list/202/",
+        "https://www.srilanka.travel/",
+        "https://en.wikipedia.org/wiki/Sigiriya"
+      ]
+    },
+    "ad": {
+      "destination_query": "Sigiriya, Sri Lanka",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sigiriya%2C%20Sri%20Lanka&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sigiriya%2C%20Sri%20Lanka&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sigiriya%2C%20Sri%20Lanka&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Sigiriya"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — Sigiriya Lion Rock fortress plateau + water-garden approach (Bernard Gagnon CC BY-SA 3.0). Facts match. Ad Sigiriya OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-039",
+    "tab": "landmarks",
+    "name": "Shwedagon Pagoda",
+    "short_line": "Yangon, Myanmar",
+    "country": "Myanmar",
+    "lat": 16.7984,
+    "lng": 96.1497,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Shwedagon_Pagoda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-039.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AShwedagon_Pagoda.jpg",
+      "license": "CC BY 2.0",
+      "author": "Glenn S. Hensley",
+      "attribution": "Photo: Glenn S. Hensley, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Shwedagon Pagoda.jpg' — Shwedagon Pagoda hero exterior; desc: Swe-da-gon Pagoda complex: These are all scenes in the Swe-da-gon Pagoda complex. Most of the shots are around the base of the huge structur"
+    },
+    "facts": {
+      "one_liner": "Yangon’s gilded stupa complex—Shwedagon Pagoda, Myanmar’s most sacred Buddhist site.",
+      "why_go": "The hero is Shwedagon Pagoda (Shwedagon Zedi Daw) on Singuttara Hill in Yangon: a soaring gilded stupa ringed by shrines, planetary posts, and marble terraces that dominate the city’s spiritual skyline. Tradition holds relics of Buddhas within the stupa; pilgrims circumambulate clockwise, especially at dusk when lights wash the gold. The complex is the country’s most revered pagoda and a defining Yangon visit. Exterior plaza views match the wide stupa silhouette even when photographed in monochrome.",
+      "best_time": "November–February for cooler dry weather; late afternoon to evening for softer light and pilgrimage atmosphere. Monsoon months (roughly May–Oct) bring heavy rain.",
+      "how_to_get_there": "Base in Yangon. Taxi or ride-hail to Shwedagon Pagoda Road / U Htaung Bo Road entrances; some hotels arrange drop-offs. Multiple stair/elevator gates lead to the main terrace.",
+      "good_to_know": "Foreign visitors pay an entry fee (no prices listed). Remove shoes and socks before the marble terrace; cover shoulders and knees (longyi wraps often available). Walk clockwise around the stupa. Dress and behaviour should respect active worship.",
+      "official_or_tourism_url": "https://www.shwedagonpagoda.org.mm/en/",
+      "sources": [
+        "https://www.shwedagonpagoda.org.mm/en/",
+        "https://tourism.gov.mm/",
+        "https://www.britannica.com/place/Yangon",
+        "https://en.wikipedia.org/wiki/Shwedagon_Pagoda"
+      ]
+    },
+    "ad": {
+      "destination_query": "Yangon, Myanmar",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Yangon%2C%20Myanmar&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Yangon%2C%20Myanmar&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Yangon%2C%20Myanmar&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Yangon"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS-with-note: B&W hero; color remake later OK. Glenn S. Hensley CC BY 2.0 exterior Shwedagon stupa + terrace shrines — pagoda identity clear (Commons 429 blocked color). Facts note monochrome exterior OK. Ad Yangon OK.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-040",
+    "tab": "landmarks",
+    "name": "Charles Bridge",
+    "short_line": "Prague, Czechia",
+    "country": "Czechia",
+    "lat": 50.0865,
+    "lng": 14.4114,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Charles_Bridge_in_Prague.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-040.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACharles_Bridge_in_Prague.jpg",
+      "license": "CC0",
+      "author": "www.Pixel.la Free Stock Photos",
+      "attribution": "Photo: www.Pixel.la Free Stock Photos, CC0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Charles Bridge in Prague.jpg' — Charles Bridge hero exterior photo; desc: The Charles Bridge in Prague"
+    },
+    "facts": {
+      "one_liner": "Charles IV’s sandstone span over the Vltava—30 saint statues between Prague’s bridge towers.",
+      "why_go": "The hero is Charles Bridge (Karlův most): Prague’s oldest surviving bridge, begun in 1357 under Charles IV and finished in the early 15th century, linking Old Town and Malá Strana with fortified towers at each end. Prague City Tourism notes ~516 m of sandstone deck lined with 30 saint statues and sculptural groups (mostly early 18th century; St John of Nepomuk is the oldest still on the bridge). Pedestrians only since the mid-20th century—dawn empties the path for castle-backdrop photos matching the real-photo hero.",
+      "best_time": "Dawn for nearly empty bridge and soft castle light; after 22:00 also quieter. Midday and summer evenings are densely crowded with performers.",
+      "how_to_get_there": "Base in Prague. Walk from Old Town Square via Karlova Street to the Old Town Bridge Tower, or from Malá Strana / Prague Castle side through the Lesser Town towers. Metro Staroměstská or Malostranská plus a short walk.",
+      "good_to_know": "Bridge deck is free and open continuously. Climbing the Old Town or Lesser Town bridge towers is separately ticketed. Watch pickpockets in crowds; cobbles are uneven when wet. National Cultural Monument—respect the statues.",
+      "official_or_tourism_url": "https://prague.eu/en/objevujte/charles-bridge-karluv-most/",
+      "sources": [
+        "https://prague.eu/en/objevujte/charles-bridge-karluv-most/",
+        "https://www.prague.eu/",
+        "https://en.wikipedia.org/wiki/Charles_Bridge"
+      ]
+    },
+    "ad": {
+      "destination_query": "Prague, Czechia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Prague%2C%20Czechia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Prague%2C%20Czechia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Prague%2C%20Czechia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Prague"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-24T05:12:00-05:00",
+      "audit_notes": "PASS — Charles Bridge real color photo (deck + saint statues + Old Town Bridge Tower mist); File:Charles Bridge in Prague.jpg CC0 (engraving replaced per Scout). Facts match. Ad Prague OK.",
+      "reject_reason": null
+    }
   }
 ]
