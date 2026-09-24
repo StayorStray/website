@@ -1,0 +1,1073 @@
+{
+  "tab": "luxury",
+  "set": "set-001",
+  "created": "2026-09-23T20:55:00-05:00",
+  "count": 20,
+  "ids": [
+    "luxury-001",
+    "luxury-002",
+    "luxury-003",
+    "luxury-004",
+    "luxury-005",
+    "luxury-006",
+    "luxury-007",
+    "luxury-008",
+    "luxury-009",
+    "luxury-010",
+    "luxury-011",
+    "luxury-012",
+    "luxury-013",
+    "luxury-014",
+    "luxury-015",
+    "luxury-016",
+    "luxury-017",
+    "luxury-018",
+    "luxury-019",
+    "luxury-020"
+  ],
+  "cards": [
+    {
+      "id": "luxury-001",
+      "tab": "luxury",
+      "name": "Atlantis The Palm",
+      "short_line": "Dubai, United Arab Emirates",
+      "country": "United Arab Emirates",
+      "lat": 25.1304,
+      "lng": 55.1171,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Vereinigte_Arabische_Emirate_-_Atlantis_on_Palm_Jumeirah_-_%D8%A3%D8%AA%D9%84%D8%A7%D9%86%D8%AA%D9%8A%D8%B3_%D9%81%D9%8A_%D9%86%D8%AE%D9%84%D8%A9_%D8%AC%D9%85%D9%8A%D8%B1%D8%A7_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-001.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AVereinigte_Arabische_Emirate_-_Atlantis_on_Palm_Jumeirah_-_%D8%A3%D8%AA%D9%84%D8%A7%D9%86%D8%AA%D9%8A%D8%B3_%D9%81%D9%8A_%D9%86%D8%AE%D9%84%D8%A9_%D8%AC%D9%85%D9%8A%D8%B1%D8%A7_-_panoramio.jpg",
+        "license": "CC BY 3.0",
+        "author": "giggel",
+        "attribution": "Photo: giggel, CC BY 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + Atlantis The Palm iconic arch resort centered on Palm Jumeirah crescent aerial exterior over turquoise lagoons (hotel main subject); desc: Vereinigte Arabische Emirate - Atlantis on Palm Jumeirah"
+      },
+      "facts": {
+        "one_liner": "Aerial of Atlantis The Palm: arched twin towers on Palm Jumeirah’s crescent over turquoise lagoons.",
+        "why_go": "The hero is an aerial of Atlantis The Palm at the centre of Palm Jumeirah’s outer crescent—pinkish Neo-Arabic twin towers joined by the open Royal Bridge Suite arch, white beaches, and Aquaventure’s turquoise lagoons, with Palm fronds and the access bridge in the foreground and the deep Gulf beyond. Kerzner’s destination resort opened 24 September 2008 as the first major hotel on the man-made island, with roughly 1,500 rooms on a large crescent site plus the Aquaventure water park beside the hotel. Guests come for the iconic arch silhouette, lagoon beaches, and the integrated marine/waterpark resort—not a downtown tower stay.",
+        "best_time": "November–March for cooler outdoor days on the beaches and Aquaventure; summer is hotter and humid. Year-round bookable; weekends and holidays fill earliest.",
+        "how_to_get_there": "On Crescent Road at the tip/centre of Palm Jumeirah’s outer crescent, Dubai. Reach Palm by taxi/rideshare or the Palm Monorail from Dubai Internet City / Nakheel Mall area; Dubai International (DXB) and Al Maktoum (DWC) airports serve the city. Overnight on the Palm or elsewhere in Dubai.",
+        "good_to_know": "OPEN / BOOKABLE via atlantis.com (Atlantis, The Palm). Distinct from the newer Atlantis The Royal on the same island—confirm you are booking The Palm. Aquaventure and marine attractions have guest and day-visitor rules; hotel guests typically get waterpark access (confirm current inclusions). Smart-casual dress in public areas; no prices listed here.",
+        "official_or_tourism_url": "https://www.atlantis.com/atlantis-the-palm",
+        "sources": [
+          "https://www.atlantis.com/atlantis-the-palm",
+          "https://www.visitdubai.com/en/places-to-visit/atlantis-the-palm",
+          "https://www.atlantis.com/dubai/location-and-contact",
+          "https://www.constructionweekonline.com/projects-tenders/article-3552-creating-atlantis-the-palm",
+          "http://www.menareport.com/en/business/236198"
+        ]
+      },
+      "ad": {
+        "destination_query": "Palm Jumeirah, Dubai",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Palm%20Jumeirah%2C%20Dubai&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Palm%20Jumeirah%2C%20Dubai&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Palm%20Jumeirah%2C%20Dubai&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Palm Jumeirah"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "CONFIRMED Atlantis The Palm Palm Jumeirah aerial (arch twin towers + Royal Bridge Suite), NOT Burj Al Arab. CC BY 3.0 giggel. OPEN/bookable atlantis.com. Ad Palm Jumeirah Dubai. Facts match hero.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-002",
+      "tab": "luxury",
+      "name": "Marina Bay Sands",
+      "short_line": "Marina Bay, Singapore",
+      "country": "Singapore",
+      "lat": 1.2834,
+      "lng": 103.8607,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Marina_Bay_Sands_and_illuminated_polyhedral_building_Louis_Vuitton_over_the_water_at_blue_hour_with_pink_clouds_in_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-002.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMarina_Bay_Sands_and_illuminated_polyhedral_building_Louis_Vuitton_over_the_water_at_blue_hour_with_pink_clouds_in_Singapore.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Basile Morin",
+        "attribution": "Photo: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + Marina Bay Sands three towers + SkyPark blue-hour bay exterior (hotel main subject); desc: Panoramic view of Marina Bay Sands and the illuminated polyhedral building Louis Vuitton over the water at Marina Bay in the evening at blue"
+      },
+      "facts": {
+        "one_liner": "Marina Bay Sands’ three towers and boat-like SkyPark glowing over the bay at blue hour.",
+        "why_go": "The photo frames Marina Bay Sands’ three curved hotel towers topped by the cantilevered SkyPark against pink-lavender twilight, with the bay boardwalk and illuminated Louis Vuitton Island Maison in the foreground. VisitSingapore highlights the Sands SkyPark Observation Deck’s 360° vista and the world’s largest infinity pool overlooking the horizon—pool access is for registered hotel guests. People book for bay views, Shoppes dining, and that skyline silhouette. Concrete detail: MRT Bayfront (CE1/DT16) exits lead toward the hotel towers along the waterfront promenade.",
+        "best_time": "Year-round destination; blue-hour and evening light match this exterior best. Drier northeast monsoon months (roughly December–early March) often bring clearer skies; expect brief tropical showers any time.",
+        "how_to_get_there": "Changi Airport (SIN) then MRT, taxi, or hotel transfer to 10 Bayfront Avenue. Circle/Downtown Line to Bayfront station; follow signs to Hotel Tower 3 / SkyPark. Water taxis and marina walks also approach the bayfront.",
+        "good_to_know": "OPEN / BOOKABLE via marinabaysands.com. Infinity pool is exclusive to hotel guests with a keycard—no day passes. Non-guests can buy separate SkyPark Observation Deck tickets. Confirm pool hours and dress codes on the official site before arrival.",
+        "official_or_tourism_url": "https://www.marinabaysands.com/",
+        "sources": [
+          "https://www.marinabaysands.com/",
+          "https://www.marinabaysands.com/attractions/infinity-pool.html",
+          "https://www.visitsingapore.com/neighbourhood/featured-neighbourhood/marina-bay/marina-bay-sands/",
+          "https://www.marinabaysands.com/booking/search.html"
+        ]
+      },
+      "ad": {
+        "destination_query": "Singapore",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Singapore&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Singapore&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Singapore&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Singapore"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "Three towers + SkyPark blue-hour bay exterior; LV Island Maison FG. CC BY-SA 4.0 Basile Morin. Bookable marinabaysands.com. Ad Singapore. Facts match.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-003",
+      "tab": "luxury",
+      "name": "Fairmont Banff Springs",
+      "short_line": "Banff, Canada",
+      "country": "Canada",
+      "lat": 51.1644,
+      "lng": -115.5618,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Fairmont_Banff_Springs_Hotel%2C_west_view_20240820_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-003.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AFairmont_Banff_Springs_Hotel%2C_west_view_20240820_1.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "DXR",
+        "attribution": "Photo: DXR, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + Fairmont Banff Springs château hotel west exterior against Rockies; desc: A west view of Fairmont Banff Springs Hotel"
+      },
+      "facts": {
+        "one_liner": "Fairmont Banff Springs’ château stone mass and turrets under Mount Rundle’s Rockies skyline.",
+        "why_go": "The west exterior shows the Rundle-stone château hotel—steep roofs, turrets, and dormers—set against Mount Rundle’s grey limestone face, with evergreens and a foreground parking court. Fairmont brands it Canada’s “Castle in the Rockies” at 405 Spray Avenue inside Banff National Park; Parks Canada designates Banff Springs Hotel a National Historic Site for its Château-style railway-resort architecture. Guests book for spa, golf, ski access, and mountain-view rooms. Concrete detail: Fairmont lists Calgary International (YYC) about 80 miles (130 km) east, with daily airport shuttles to the resort.",
+        "best_time": "June–September for hiking and golf; December–March for Banff ski season. Shoulder May and late September–October bring quieter trails and autumn colour. Book early for peak summer and Christmas weeks.",
+        "how_to_get_there": "Fly into Calgary (YYC), then ~1.5–2 hours by shuttle, taxi, or rental car west into Banff National Park to Spray Avenue. Nearby Banff townsite is a short drive or walkable for some guests. National-park entry rules apply for the road corridor.",
+        "good_to_know": "OPEN / BOOKABLE year-round (fairmont.com). Inside a UNESCO World Heritage national park—expect wildlife on roads and possible seasonal trail/road advisories. Self- and valet parking available for a fee; confirm EV charging and check-in (4 pm) on the Fairmont site.",
+        "official_or_tourism_url": "https://www.fairmont.com/en/hotels/banff/fairmont-banff-springs.html",
+        "sources": [
+          "https://www.fairmont.com/en/hotels/banff/fairmont-banff-springs.html",
+          "https://www.pc.gc.ca/apps/DFHD/page_nhs_eng.aspx?id=2",
+          "https://all.accor.com/hotel/A550/index.en.shtml"
+        ]
+      },
+      "ad": {
+        "destination_query": "Banff, Canada",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Banff%2C%20Canada&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Banff%2C%20Canada&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Banff%2C%20Canada&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Banff"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "West château exterior vs Mount Rundle; Castle in the Rockies. CC BY-SA 4.0 DXR. Year-round fairmont.com. Ad Banff. Facts match.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-004",
+      "tab": "luxury",
+      "name": "Belmond Hotel Cipriani",
+      "short_line": "Venice, Italy",
+      "country": "Italy",
+      "lat": 45.425,
+      "lng": 12.3408,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hotel_Cipriani%2C_Venice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-004.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AHotel_Cipriani%2C_Venice.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Morn",
+        "attribution": "Photo: Morn, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + Belmond Hotel Cipriani Giudecca lagoon waterfront exterior with HOTEL CIPRIANI lettering; desc: Hotel Cipriani in Venice (Giudecca island)."
+      },
+      "facts": {
+        "one_liner": "Belmond Hotel Cipriani’s peach lagoon facade with HOTEL CIPRIANI lettering and waterfront terrace.",
+        "why_go": "The hero view is from the Giudecca lagoon: terracotta-roofed peach stucco, metal “HOTEL CIPRIANI” letters across the facade, white-awning dining terrace, flower boxes, and red-and-white mooring poles in the water. Belmond places the hotel at Giudecca 10 with a complimentary ~5-minute private shuttle launch to St Mark’s Square, Olympic-scale pool, Dior Spa, and Michelin-starred Oro. Guests book for lagoon privacy minutes from the Piazza without canal crowds. Concrete detail: Belmond lists ~30 minutes by water taxi from Marco Polo Airport and ~20 minutes from Santa Lucia station.",
+        "best_time": "Late spring through early autumn when the hotel is in season—typically roughly late March/April into autumn (confirm exact 2026/27 open–close dates with Belmond). May–June and September often balance warmth and lighter day-tripper pressure than mid-August.",
+        "how_to_get_there": "Fly into Venice Marco Polo (VCE) or arrive by train at Venezia Santa Lucia; take a water taxi or Belmond’s arranged transfer to the Giudecca tip. Once checked in, use the hotel’s complimentary launch to/from St Mark’s around the clock.",
+        "good_to_know": "OPEN / BOOKABLE in season via belmond.com; traditionally a seasonal hotel closed over winter—verify your dates before booking. Address Giudecca 10, 30133 Venice. Resort wear for pool and terrace; water taxis can be pricey versus the hotel shuttle once you are a guest.",
+        "official_or_tourism_url": "https://www.belmond.com/en/hotels/europe/italy/hotel-cipriani-venice",
+        "sources": [
+          "https://www.belmond.com/en/hotels/europe/italy/hotel-cipriani-venice",
+          "https://pdfs.belmond.com/belmond-hotel-cipriani-press-kit.pdf",
+          "https://www.classictravel.com/hotels/belmond-hotel-cipriani"
+        ]
+      },
+      "ad": {
+        "destination_query": "Venice, Italy",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Venice%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Venice%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Venice%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Venice"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "Giudecca lagoon peach facade + HOTEL CIPRIANI lettering + terrace. CC BY-SA 3.0 Morn. SEASONAL (winter closed) — bookable in season, not permanent closure. Ad Venice. Facts accurate on seasonality.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-005",
+      "tab": "luxury",
+      "name": "La Mamounia",
+      "short_line": "Marrakech, Morocco",
+      "country": "Morocco",
+      "lat": 31.6216,
+      "lng": -7.999,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/La_Mamounia_entrance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-005.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ALa_Mamounia_entrance.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Pi3.124",
+        "attribution": "Photo: Pi3.124, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + La Mamounia Marrakech palace hotel entrance portico exterior with green-tiled roof and mosaics; desc: La Mamounia entrance"
+      },
+      "facts": {
+        "one_liner": "La Mamounia’s three-arched palace portico under a green-tiled roof beside tall palms.",
+        "why_go": "The entrance shot shows Marrakech’s salmon-pink palace facade with a three-bay carved portico, green glazed-tile roof, hanging lanterns, and palms over a cobbled drive. Official pages place La Mamounia on Avenue Bab Jdid by the Medina ramparts, with legendary gardens rooted in an 18th-century princely estate and a century of palace hospitality. Guests book for Moroccan craftsmanship, spa/hammam, and walks toward Koutoubia and Jemaa el-Fna minutes away. Concrete detail: the hotel’s own garden pages note olive, palm, citrus, and rose plantings with distant Atlas views on clear days.",
+        "best_time": "March–May and September–November for mild days and pleasant evenings. Midsummer is very hot; winter nights can be cool. Book early around Easter and year-end holidays when minimum stays often apply.",
+        "how_to_get_there": "Fly into Marrakech Menara (RAK); taxi or hotel transfer to Avenue Bab Jdid (Medina edge). Walking to Koutoubia/Jemaa el-Fna is short; many guests use hotel cars for Majorelle Garden and Palmeraie outings.",
+        "good_to_know": "OPEN / BOOKABLE via mamounia.com (reservations@mamounia.com). Dress respectfully for Medina visits; gardens are primarily for hotel guests and restaurant/bar patrons—confirm access rules if you are not staying overnight. No prices listed here.",
+        "official_or_tourism_url": "https://mamounia.com/en/",
+        "sources": [
+          "https://mamounia.com/en/",
+          "https://mamounia.com/en/the-exclusives/les-jardins.html",
+          "https://mamounia.com/en/contact/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Marrakech, Morocco",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Marrakech%2C%20Morocco&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Marrakech%2C%20Morocco&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Marrakech%2C%20Morocco&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Marrakech"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "Palace entrance portico green-tiled roof + palms + branded Range Rover. CC BY-SA 4.0 Pi3.124. Bookable mamounia.com. Ad Marrakech. Facts match.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-006",
+      "tab": "luxury",
+      "name": "Ashford Castle",
+      "short_line": "Cong, Ireland",
+      "country": "Ireland",
+      "lat": 53.5347,
+      "lng": -9.2881,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Panorama_view_of_Ashford_Castle%2C_Cong_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-006.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APanorama_view_of_Ashford_Castle%2C_Cong_-_panoramio.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Lobster1",
+        "attribution": "Photo: Lobster1, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + Ashford Castle Cong wide panoramic castle hotel facade and lawns; desc: Panorama view of Ashford Castle, Cong"
+      },
+      "facts": {
+        "one_liner": "Ashford Castle’s grey-stone towers and crenellations across manicured Cong lawns and fountain.",
+        "why_go": "The panorama shows the full castle hotel facade—grey stone towers, turrets, flags, and ivy—beyond a broad green lawn, circular fountain, and tree-framed drive. Discover Ireland and the hotel describe an ~800-year-old castle on about 350 acres by Lough Corrib in Cong, County Mayo, once linked to the Guinness family and now a Red Carnation five-star with 83 rooms. Guests book for falconry, lake cruises, spa, and estate dining. Concrete detail: the official address is Cong, County Mayo, F31 CA48.",
+        "best_time": "May–September for longest daylight and estate outdoor activities; shoulder April and October for quieter grounds. Winter stays are cosy but daylight is short and weather changeable—pack layers and waterproofs year-round.",
+        "how_to_get_there": "Drive ~2.75–3 hours from Dublin Airport (west via N4/N5 then roads toward Cong) or ~1.5 hours from Shannon Airport via Galway routes. No direct public transit to the gates—private car or pre-booked transfer is simplest. Nearest villages: Cong and Clonbur.",
+        "good_to_know": "OPEN / BOOKABLE via ashfordcastle.com (+353 94 954 6003). Estate activities (falconry, archery, cruises) often need advance booking through the castle. Rural roads are narrow; allow extra time in rain or after dark.",
+        "official_or_tourism_url": "https://ashfordcastle.com/",
+        "sources": [
+          "https://ashfordcastle.com/",
+          "https://www.discoverireland.ie/accommodation/ashford-castle-hotel",
+          "https://redcarnationhotels.com/our-hotels/ireland/ashford-castle"
+        ]
+      },
+      "ad": {
+        "destination_query": "Cong, Ireland",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Cong%2C%20Ireland&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Cong%2C%20Ireland&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Cong%2C%20Ireland&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Cong"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "CLOSE CALL dims 1920×540 ultra-wide panorama — castle still clear main subject (towers/lawn/fountain). CC BY-SA 3.0. Bookable ashfordcastle.com. Ad Cong. PASS.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-007",
+      "tab": "luxury",
+      "name": "Badrutt's Palace Hotel",
+      "short_line": "St. Moritz, Switzerland",
+      "country": "Switzerland",
+      "lat": 46.497,
+      "lng": 9.8383,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Badrutt%27s_Palace_Hotel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-007.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABadrutt%27s_Palace_Hotel.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Bphstm",
+        "attribution": "Photo: Bphstm, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + Badrutt's Palace St. Moritz lake/palace facade at winter twilight (green copper tower); desc: Exterior of the Badrutt's Palace Hotel."
+      },
+      "facts": {
+        "one_liner": "Badrutt’s Palace tower glowing over frozen Lake St. Moritz at winter twilight.",
+        "why_go": "The twilight exterior shows the palace’s lit square tower with steep roof and golden tip above snow-laden roofs, with frozen white Lake St. Moritz and Alpine peaks to the right. Badrutt’s Palace (Via Serlas 27) is a privately run Engadin landmark with winter and summer seasons, Palace Wellness pools, and lake-facing dining. Guests book for ski-town glamour steps from St. Moritz’s boutique mile. Concrete detail: the hotel’s 2026 press kit lists Zurich ~220 km by car (~2.5 hours) and Samedan (SMV) for private jets ~6 km away.",
+        "best_time": "Winter season for frozen-lake and ski atmosphere matching this photo; summer season for lake swimming and hiking. Shoulder spring and autumn are typically closed—confirm exact open dates before travel.",
+        "how_to_get_there": "Fly into Zurich (ZRH) then train (~3.5 hours per hotel materials) or drive the Alpine routes; Milan airports are alternatives (~2.5 hours by car). Private aviation uses Samedan. From St. Moritz Dorf it is a short walk along Via Serlas.",
+        "good_to_know": "SEASONAL — CLOSED between seasons as of late September 2026: hotel press kit lists Summer 2026 as 25 June–7 September 2026; book Winter (typically early December reopen—confirm on badruttspalace.com) or the next summer. Not a year-round stay. Altitude ~1,830 m; pack for cold lake winds in winter.",
+        "official_or_tourism_url": "https://badruttspalace.com/en/winter/",
+        "sources": [
+          "https://badruttspalace.com/en/winter/",
+          "https://badruttspalace.com/media/odkblktj/badrutts-palace-hotel-pr-presskit-2026.pdf",
+          "https://badruttspalace.com/en/summer/"
+        ]
+      },
+      "ad": {
+        "destination_query": "St. Moritz, Switzerland",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=St.%20Moritz%2C%20Switzerland&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=St.%20Moritz%2C%20Switzerland&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=St.%20Moritz%2C%20Switzerland&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in St. Moritz"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "Palace tower + frozen Lake St. Moritz twilight. CC BY-SA 4.0. SEASONAL: between seasons as of late Sep 2026 (summer ended ~7 Sep; winter ~3 Dec 2026)—seasonal bookability OK. Ad St. Moritz. Facts accurate.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-008",
+      "tab": "luxury",
+      "name": "Hôtel de Paris Monte-Carlo",
+      "short_line": "Monte-Carlo, Monaco",
+      "country": "Monaco",
+      "lat": 43.7387,
+      "lng": 7.4275,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Hotel_de_Paris%2C_Monte_Carlo_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-008.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AHotel_de_Paris%2C_Monte_Carlo_-_panoramio.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Steve Hedin",
+        "attribution": "Photo: Steve Hedin, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + Hôtel de Paris Monte-Carlo Casino Square curved facade exterior; desc: Hotel de Paris, Monte Carlo"
+      },
+      "facts": {
+        "one_liner": "Hôtel de Paris Monte-Carlo’s curved Belle Époque Casino Square facade with city-name plaques.",
+        "why_go": "The low-angle exterior shows the cream curved palace wing on Place du Casino—wrought-iron balconies, classical moldings, and plaques reading NEW YORK, ROME, LONDON—fronted by cypresses and café umbrellas. Monte-Carlo SBM presents Hôtel de Paris as the legendary palace opposite the Casino and Opéra, with Diamond Suites, Le Louis XV – Alain Ducasse, and Thermes Marins spa access. Guests book for Casino Square address and Riviera dining. Concrete detail: official practical info places Nice Côte d’Azur Airport ~30 km away, with hotel-arranged limousine or ~7-minute helicopter transfers.",
+        "best_time": "April–June and September–October for mild Riviera weather and events calendars; July–August are busiest and warmest. Winter is quieter but still bookable year-round.",
+        "how_to_get_there": "Fly into Nice (NCE); transfer by hotel car, taxi, train to Monaco station (~12-minute walk), or helicopter to Monaco heliport. Motorway A8 exits serve the principality. Passport/ID checks apply at Monaco borders and hotel check-in.",
+        "good_to_know": "OPEN / BOOKABLE via montecarlosbm.com. Smart attire expected around Casino Square in evenings. SBM notes tourist tax and ID requirements for all guests including minors—confirm current rules with the hotel. No prices listed here.",
+        "official_or_tourism_url": "https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo",
+        "sources": [
+          "https://www.montecarlosbm.com/en/hotel-monaco/hotel-paris-monte-carlo",
+          "https://www.montecarlosbm.com/en/informations-pratiques-hotel-de-paris-monte-carlo",
+          "https://www.visitmonaco.com/en/plan-your-stay/access-and-transport/getting-to-the-principality/arriving-by-helicopter"
+        ]
+      },
+      "ad": {
+        "destination_query": "Monte-Carlo, Monaco",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Monte-Carlo%2C%20Monaco&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Monte-Carlo%2C%20Monaco&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Monte-Carlo%2C%20Monaco&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Monte-Carlo"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "Belle Époque Casino Square curved facade + city plaques. CC BY-SA 3.0. Bookable montecarlosbm.com. Ad Monte-Carlo. Facts match.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-009",
+      "tab": "luxury",
+      "name": "The Plaza",
+      "short_line": "New York, United States",
+      "country": "United States",
+      "lat": 40.7645,
+      "lng": -73.9744,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Plaza_Hotel_New_York_005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-009.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APlaza_Hotel_New_York_005.jpg",
+        "license": "CC BY 4.0",
+        "author": "Kidfly182",
+        "attribution": "Photo: Kidfly182, CC BY 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + The Plaza NYC Grand Army Plaza mansard/copper roof corner facade; desc: The Plaza Hotel in December 2024"
+      },
+      "facts": {
+        "one_liner": "The Plaza’s cream French Renaissance corner and green copper mansard above Grand Army Plaza.",
+        "why_go": "The Dec 2024 corner exterior looks up the white brick-and-marble facade to the verdigris copper mansard, dormers, cresting, and conical turret roof against clear blue sky. Fairmont’s Plaza at 768 Fifth Avenue (Central Park South & Fifth) opened in 1907; NYC landmark materials describe Hardenbergh’s French Renaissance château silhouette facing Grand Army Plaza. Guests book for Palm Court tea, park-edge Midtown location, and 282 rooms/suites. Concrete detail: Fairmont lists check-in 3 pm and a 24-hour fitness centre on the 4th floor—there is no hotel swimming pool.",
+        "best_time": "April–June and September–November for milder walking weather around Central Park; December for holiday windows and Palm Court sparkle (book early). Summer humidity and winter cold are manageable with indoor dining options.",
+        "how_to_get_there": "Fly into any NYC airport (LGA, JFK, EWR) then taxi, rideshare, or transit to Midtown. Subway N/R/W to Fifth Avenue–59th Street or F to 57th Street; buses along Fifth and Central Park South. Valet parking is off-site for a fee.",
+        "good_to_know": "OPEN / BOOKABLE via theplazany.com / Fairmont. National Historic Landmark / NYC landmark exterior—street photography from Grand Army Plaza is public; guest areas require check-in. Pet-friendly with stated policies; confirm current valet and spa hours before arrival.",
+        "official_or_tourism_url": "https://www.theplazany.com/",
+        "sources": [
+          "https://www.theplazany.com/",
+          "https://www.fairmont.com/en/hotels/new-york-city/the-plaza.html",
+          "https://npgallery.nps.gov/AssetDetail/NRIS/78001878"
+        ]
+      },
+      "ad": {
+        "destination_query": "New York, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=New%20York%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=New%20York%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=New%20York%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in New York"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "French Renaissance corner + green copper mansard above Grand Army Plaza. CC BY 4.0. Bookable theplazany.com. Ad New York. US country slot 1/2.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-010",
+      "tab": "luxury",
+      "name": "Amangiri",
+      "short_line": "Canyon Point, United States",
+      "country": "United States",
+      "lat": 37.0167,
+      "lng": -111.6083,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Amangiri_Pool_at_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-010.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AAmangiri_Pool_at_Sunset.jpg",
+        "license": "CC BY 2.0",
+        "author": "Steve Jurvetson",
+        "attribution": "Photo: Steve Jurvetson, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + Amangiri desert pavilion pool wrapping sandstone canyon rock (signature exterior); desc: Amangiri, a resort hotel in southern Utah, U.S."
+      },
+      "facts": {
+        "one_liner": "Amangiri’s turquoise pool wrapping a sandstone mesa under layered Utah canyon walls.",
+        "why_go": "The signature exterior is the resort pool curling around a smooth tan sandstone outcrop, with floating white daybeds and layered desert cliffs beyond under pale blue-hour light. Aman places Amangiri on over 900 acres of Colorado Plateau at Canyon Point, Utah—34 modernist suites plus Camp Sarika’s ten tented pavilions, spa, and desert guiding. Guests book for privacy, canyon hikes, and architecture that yields to the rock. Concrete detail: Page Municipal Airport (PGA) is about a 20–25-minute drive; Aman offers complimentary transfer from PGA.",
+        "best_time": "April–May and September–November for hiking-friendly temperatures and clear light. Summer desert heat often exceeds comfort for mid-day outdoor time; winter is quiet with cold nights. Book spa and adventures before arrival.",
+        "how_to_get_there": "Fly commercially Contour Airlines into Page (PGA) from Phoenix (or other connecting cities as scheduled), or private charter to PGA; drive ~2.5 hours from Flagstaff or ~4.5 hours from Phoenix/Las Vegas. Resort address: 1 Kayenta Road, Canyon Point, UT 84741. Advise arrival time for driving directions.",
+        "good_to_know": "OPEN / BOOKABLE via aman.com/resorts/amangiri. Guests-only sanctuary—no casual day visits. Aman notes photography/drone restrictions and a release agreement at check-in; time zone follows Phoenix (MST year-round style). Confirm Contour schedules and transfer desk when booking.",
+        "official_or_tourism_url": "https://www.aman.com/resorts/amangiri",
+        "sources": [
+          "https://www.aman.com/resorts/amangiri",
+          "https://www.aman.com/resorts/amangiri/plan-your-stay",
+          "https://www.aman.com/resorts/amangiri/getting-here"
+        ]
+      },
+      "ad": {
+        "destination_query": "Canyon Point, Utah",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Canyon%20Point%2C%20Utah&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Canyon%20Point%2C%20Utah&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Canyon%20Point%2C%20Utah&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Canyon Point"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "Signature pool wrapping sandstone mesa — classic Amangiri property exterior (explicitly OK). CC BY 2.0. Bookable aman.com. Ad Canyon Point Utah. US country slot 2/2.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-011",
+      "tab": "luxury",
+      "name": "One&Only Cape Town",
+      "short_line": "Cape Town, South Africa",
+      "country": "South Africa",
+      "lat": -33.9086,
+      "lng": 18.4208,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/One%26Only_Cape_Town.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-011.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AOne%26Only_Cape_Town.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Axxter99",
+        "attribution": "Photo: Axxter99, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + One&Only Cape Town V&A waterfront hotel exterior facade; desc: One&amp;Only Cape Town"
+      },
+      "facts": {
+        "one_liner": "Cream-and-glass One&Only Cape Town façade rising behind palms at the V&A Waterfront.",
+        "why_go": "The hero frames One&Only Cape Town’s pale multi-storey waterfront façade: stepped terraces, dark-glass balcony rails, tall window walls, palm canopy, and a red-brick drive under a clear Cape sky. One&Only’s official Cape Town site places the resort on the Victoria & Alfred Waterfront with Table Mountain as the city’s backdrop. Guests come for that marina-adjacent island-in-the-city exterior—harbour energy outside, resort calm inside. Concrete detail: Cape Town Tourism’s V&A neighbourhood guide lists One&Only among the Waterfront’s landmark luxury stays on Dock Road.",
+        "best_time": "October–April for warm, dry Cape summer days suited to Waterfront walks and mountain views; February–March often balances heat with slightly thinner peak crowds. May–September is cooler and wetter but still workable for city sightseeing.",
+        "how_to_get_there": "Fly into Cape Town International (CPT), then drive, taxi, rideshare, or hotel transfer to the V&A Waterfront (commonly about 20–30 minutes without heavy traffic). The resort entrance is on Dock Road within the Waterfront precinct.",
+        "good_to_know": "OPEN / BOOKABLE via oneandonlyresorts.com/cape-town (Book now and offers pages active as of drafting). Hotel buildings and marina wings are for guests and booked diners; surrounding V&A promenades are publicly walkable. Confirm spa and restaurant reservations on the official site.",
+        "official_or_tourism_url": "https://www.oneandonlyresorts.com/cape-town",
+        "sources": [
+          "https://www.oneandonlyresorts.com/cape-town",
+          "https://www.capetown.travel/travel-like-a-local-your-neighbourhood-guide-to-the-va-waterfront/",
+          "https://www.oneandonlyresorts.com/cape-town/offers"
+        ]
+      },
+      "ad": {
+        "destination_query": "Cape Town, South Africa",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Cape%20Town%2C%20South%20Africa&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Cape%20Town%2C%20South%20Africa&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Cape%20Town%2C%20South%20Africa&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Cape Town"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "Cream-and-glass V&A Waterfront façade behind palms. CC BY-SA 4.0. Bookable oneandonlyresorts.com/cape-town. Ad Cape Town. Facts match.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-012",
+      "tab": "luxury",
+      "name": "Giraffe Manor",
+      "short_line": "Nairobi, Kenya",
+      "country": "Kenya",
+      "lat": -1.3756,
+      "lng": 36.7447,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Giraffe_Manor%2C_Nairobi%2C_Kenya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-012.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AGiraffe_Manor%2C_Nairobi%2C_Kenya.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Push the button",
+        "attribution": "Photo: Push the button, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + Giraffe Manor Nairobi ivy-clad manor exterior (building clear; Commons resolution limited); desc: A photograph of the exterior of Giraffe Manor, Nairobi, Kenya"
+      },
+      "facts": {
+        "one_liner": "Ivy-clad stone Giraffe Manor—English-country gables and lawn in Nairobi’s Karen–Langata suburb.",
+        "why_go": "The photograph centres on Giraffe Manor’s historic house: earthy stone, terracotta roof tiles, white multi-pane windows cracked open, and thick green ivy climbing the gables above a sunlit lawn and raised stone terrace. The Safari Collection describes the boutique hotel as an iconic manor on private grounds within indigenous forest in Nairobi’s Karen/Langata area, with a resident giraffe herd that often visits guest areas. Even when giraffes are off-camera, the ivy-wrapped façade is the landmark visitors recognise. Concrete detail: official FAQ places the manor about 27 km from Jomo Kenyatta International (~40 minutes by road, traffic-dependent) and about 12.8 km from Wilson Airport.",
+        "best_time": "June–October dry season for clearer Nairobi skies and easier road transfers; January–February is another relatively dry window. Book far ahead year-round—room inventory is limited and peak safari seasons fill first.",
+        "how_to_get_there": "Fly into Jomo Kenyatta International (NBO) or Wilson (WIL), then take a prearranged hotel transfer or taxi into Karen/Langata. Allow extra time for Nairobi traffic; this is an overnight-stay property, not a casual walk-in day visit.",
+        "good_to_know": "OPEN / BOOKABLE through The Safari Collection (thesafaricollection.com/properties/giraffe-manor) with online availability tools. Overnight guests only for the classic manor experience. Historic Manor vs Garden Manor access rules differ—confirm room category when booking.",
+        "official_or_tourism_url": "https://www.thesafaricollection.com/properties/giraffe-manor/",
+        "sources": [
+          "https://www.thesafaricollection.com/properties/giraffe-manor/",
+          "https://www.thesafaricollection.com/faq-items/where-is-giraffe-manor-and-how-far-is-it-from-the-airports/",
+          "https://www.thesafaricollection.com/faq-items/check-availability-at-giraffe-manor/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Nairobi, Kenya",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Nairobi%2C%20Kenya&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Nairobi%2C%20Kenya&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Nairobi%2C%20Kenya&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Nairobi"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "CLOSE CALL 640×426 Commons max — ivy-clad manor exterior identifiable, not unusably soft/pixelated as hero; no giraffes in frame (OK for manor exterior). CC BY-SA 3.0. Bookable Safari Collection. Ad Nairobi. soft-but-pass.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-013",
+      "tab": "luxury",
+      "name": "Soneva Fushi",
+      "short_line": "Baa Atoll, Maldives",
+      "country": "Maldives",
+      "lat": 5.1125,
+      "lng": 73.0786,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Baa_Atoll%2C_Maldives_-_panoramio_%2837%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-013.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABaa_Atoll%2C_Maldives_-_panoramio_%2837%29.jpg",
+        "license": "CC BY 3.0",
+        "author": "7777777kz",
+        "attribution": "Photo: 7777777kz, CC BY 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file categorized Soneva Fushi, Baa — jungle-beach villa exterior with thatched roof + private pool (named Soneva Fushi panoramio beach-only files rejected); desc: Baa Atoll, Maldives"
+      },
+      "facts": {
+        "one_liner": "Thatched jungle villa at Soneva Fushi—private tiled pool, stepping stones, and deep tropical green.",
+        "why_go": "The hero view is a secluded Soneva Fushi villa: steep blonde thatch over dark timber posts, an L-shaped private pool with turquoise and sage tiles, stone stepping pads across the water, and a palm rising from a sandy pool-edge island screened by jungle. Soneva’s official pages locate the resort on Kunfunadhoo Island in Baa Atoll, a UNESCO Biosphere Reserve, and market villa stays with this barefoot-luxury landscaping. Guests come for private-pool island villas tucked in vegetation rather than a dense overwater strip. Concrete detail: arrival is via Malé (MLE) then seaplane (about 30 minutes) or domestic flight to Dharavandhoo plus a short speedboat—transfers must be arranged with reservations at least 72 hours ahead.",
+        "best_time": "December–April is typically drier and sunnier for beach days; May–October (southwest monsoon) brings more rain but richer plankton-driven marine life, including peak manta season in Baa Atoll. The resort often runs one hour ahead of Malé time except during Ramadan.",
+        "how_to_get_there": "Fly internationally to Velana International Airport (MLE). Pre-book Soneva transfers: daytime seaplane direct to the island, or wheeled domestic flight to Dharavandhoo then a roughly 10–12 minute speedboat. Last seaplane usually departs mid-afternoon—late arrivals may need an overnight in Malé.",
+        "good_to_know": "OPEN / BOOKABLE at soneva.com/resorts/soneva-fushi (offers and booking flows live as of drafting). Private-island resort—non-guests need advance restaurant arrangements. Seaplane baggage limits apply; barefoot/no-shoes style is part of the house culture.",
+        "official_or_tourism_url": "https://soneva.com/resorts/soneva-fushi/",
+        "sources": [
+          "https://soneva.com/resorts/soneva-fushi/",
+          "https://soneva.com/resorts/soneva-fushi/your-journey-soneva-fushi/",
+          "https://soneva.com/resorts/soneva-fushi/offers/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Maldives",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Maldives&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Maldives&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Maldives&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Maldives"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "CLOSE CALL villa-scale thatch + private tiled pool + stepping stones (open bed visible but exterior villa/pool is main subject, matches facts; not lobby/room-only). CC BY 3.0. Bookable soneva.com. Ad Maldives.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-014",
+      "tab": "luxury",
+      "name": "Four Seasons Resort Bora Bora",
+      "short_line": "Bora Bora, French Polynesia",
+      "country": "French Polynesia",
+      "lat": -16.4715,
+      "lng": -151.707,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/DL2A_Four_Seasons_Bora_Bora_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-014.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ADL2A_Four_Seasons_Bora_Bora_20.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Didierlefort",
+        "attribution": "Photo: Didierlefort, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + Four Seasons Resort Bora Bora aerial overwater bungalows + lagoon (hotel identifiable); desc: DL2A Four Seasons Bora Bora"
+      },
+      "facts": {
+        "one_liner": "Aerial of Four Seasons Bora Bora—thatched overwater bungalow piers fanning into a turquoise lagoon.",
+        "why_go": "From above, the resort’s signature is unmistakable: dark-thatched overwater bungalows lining branching wooden piers that curve from a palm-fringed white beach into luminous cyan shallows, with the reef surf line and deep Pacific beyond. Four Seasons’ official Bora Bora site sells these overwater bungalow suites and beachfront villa estates on a private motu, with lagoon access and Mount Otemanu views from many decks. Visitors book for that aerial postcard—private decks over clear water, not a town hotel. Concrete detail: published suite information lists shared round-trip Bora Bora airport boat transfers and daily breakfast among standard inclusions—confirm current package terms when booking.",
+        "best_time": "Dry season roughly May–October for sunnier lagoon days; November–April is warmer and wetter but still swim-friendly. Watch French Polynesia weather advisories in the southern summer.",
+        "how_to_get_there": "Fly to Tahiti Faa’a (PPT), then Air Tahiti domestic (~50 minutes) to Bora Bora (BOB) on Motu Mute. Resort boat transfers link the airport motu to the Four Seasons private island—pre-arrange with the hotel.",
+        "good_to_know": "OPEN / BOOKABLE at fourseasons.com/borabora (Check Rates / accommodations live). Overwater bungalows and beach estates are guest-only; lagoon excursions and spa bookings fill in peak months—reserve ahead. Prefer reef-safe sunscreen in the lagoon.",
+        "official_or_tourism_url": "https://www.fourseasons.com/borabora/",
+        "sources": [
+          "https://www.fourseasons.com/borabora/",
+          "https://www.fourseasons.com/borabora/accommodations/",
+          "https://tahititourisme.com/en-us/islands/bora-bora/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Bora Bora, French Polynesia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bora%20Bora%2C%20French%20Polynesia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bora%20Bora%2C%20French%20Polynesia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bora%20Bora%2C%20French%20Polynesia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Bora Bora"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "Aerial overwater bungalow piers = resort layout subject (explicitly OK). CC BY-SA 3.0. Bookable fourseasons.com/borabora. Ad Bora Bora. Facts match.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-015",
+      "tab": "luxury",
+      "name": "The Oberoi Udaivilas",
+      "short_line": "Udaipur, India",
+      "country": "India",
+      "lat": 24.5765,
+      "lng": 73.6807,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/The_Oberoi_Udaivilas_Hotel%2C_and_the_Monsoon_Palace_on_the_hill_above%2C_Udaipur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-015.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Oberoi_Udaivilas_Hotel%2C_and_the_Monsoon_Palace_on_the_hill_above%2C_Udaipur.jpg",
+        "license": "CC BY-SA 2.0",
+        "author": "tommy",
+        "attribution": "Photo: tommy, CC BY-SA 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + Oberoi Udaivilas Udaipur lake palace hotel exterior with Monsoon Palace on hill; desc: a panoramic view of the lake palace Hotel and the Monsoon Palace of the Maharana of Udaipur"
+      },
+      "facts": {
+        "one_liner": "Oberoi Udaivilas palace domes and bougainvillea, with Udaipur’s Monsoon Palace crowning the hill.",
+        "why_go": "The wide exterior shows The Oberoi Udaivilas as a cream Rajasthani palace-hotel: fluted and smooth domes, arched galleries, and pink bougainvillea along the lower gardens, while Sajjan Garh (the Monsoon Palace) sits on the rocky ridge above. Oberoi’s official pages place the hotel on the banks of Lake Pichola in Udaipur, describing domed pavilions and heritage-inspired design in the City of Lakes. Guests come for that palace silhouette against the hilltop fortress, not a generic city tower. Concrete detail: Oberoi travel information lists about 26 km by road from Maharana Pratap Airport (UDR) to the resort.",
+        "best_time": "October–March for milder days and clearer lake-and-hill views; November–February nights can be cool. April–June are hot; monsoon months bring humidity and intermittent rain that softens the landscape.",
+        "how_to_get_there": "Fly to Udaipur (UDR) or arrive by rail/road, then hotel transfer or taxi to the Lake Pichola shore address (Haridasji Ki Magri / Mulla Talai area). Road access is standard; lake views are from the property itself.",
+        "good_to_know": "OPEN / BOOKABLE at oberoihotels.com/hotels-in-udaipur-udaivilas-resort (Book your stay / online booking active). Hotel grounds are for registered guests and diners; the Monsoon Palace on the hill is a separate historic site with its own access rules. International visitors need valid Indian entry permission—the hotel assists with required registration at check-in.",
+        "official_or_tourism_url": "https://www.oberoihotels.com/hotels-in-udaipur-udaivilas-resort/",
+        "sources": [
+          "https://www.oberoihotels.com/hotels-in-udaipur-udaivilas-resort/",
+          "https://www.oberoihotels.com/hotels-in-udaipur-udaivilas-resort/travel-information/",
+          "https://www.oberoihotels.com/hotels-in-udaipur-udaivilas-resort/accommodation/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Udaipur, India",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Udaipur%2C%20India&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Udaipur%2C%20India&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Udaipur%2C%20India&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Udaipur"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "Palace domes + bougainvillea; Monsoon Palace on ridge. CC BY-SA 2.0. Bookable oberoihotels.com. Ad Udaipur. Facts match.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-016",
+      "tab": "luxury",
+      "name": "Mandarin Oriental Bangkok",
+      "short_line": "Bangkok, Thailand",
+      "country": "Thailand",
+      "lat": 13.7238,
+      "lng": 100.514,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Mandarin_Oriental_Bangkok_Bang_Rak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-016.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMandarin_Oriental_Bangkok_Bang_Rak.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Chainwit.",
+        "attribution": "Photo: Chainwit., CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + Mandarin Oriental Bangkok Chao Phraya riverfront exterior with hotel lettering; desc: This is a photo of a monument in Thailand identified by the ID"
+      },
+      "facts": {
+        "one_liner": "Mandarin Oriental Bangkok’s white river wings with gold lettering above Chao Phraya teak boats.",
+        "why_go": "Shot from the Chao Phraya, the hotel’s white River and Garden wings rise behind palms, with MANDARIN ORIENTAL lettering and fan logo on the taller façade and traditional teak riverboats in the foreground. Mandarin Oriental’s official Bangkok pages place the hotel at 48 Oriental Avenue on the river, with a private pier and shuttle-boat links along the Chao Phraya. Guests stay for that classic riverfront landmark profile and easy boat access toward city sights. Concrete detail: the historic Authors’ Wing’s colonial green-tiled roof still peeks between the modern white blocks in riverside views like this.",
+        "best_time": "November–February cooler-dry season is most comfortable for river decks and city walks; March–May is hotter; May–October brings monsoon rains and humid evenings. River breezes help year-round.",
+        "how_to_get_there": "Fly into Suvarnabhumi (BKK) or Don Mueang (DMK), then taxi/hotel car to Bang Rak, or use BTS to Saphan Taksin and continue by Chao Phraya boat or hotel shuttle to the Oriental pier. River arrival is part of the classic approach.",
+        "good_to_know": "OPEN / BOOKABLE at mandarinoriental.com/en/bangkok/chao-phraya-river. Public ferries pass the façade, but hotel gardens, pools, and wings are guest-access. Confirm current shuttle-boat schedules with the concierge.",
+        "official_or_tourism_url": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river",
+        "sources": [
+          "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river",
+          "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river/about",
+          "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river/contact-us"
+        ]
+      },
+      "ad": {
+        "destination_query": "Bangkok, Thailand",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bangkok%2C%20Thailand&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bangkok%2C%20Thailand&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bangkok%2C%20Thailand&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Bangkok"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "Chao Phraya riverfront white wings + MANDARIN ORIENTAL lettering + teak boats. CC BY-SA 4.0 Chainwit. Bookable mandarinoriental.com. Ad Bangkok. Facts match.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-017",
+      "tab": "luxury",
+      "name": "Jade Mountain",
+      "short_line": "Soufrière, Saint Lucia",
+      "country": "Saint Lucia",
+      "lat": 13.8625,
+      "lng": -61.0692,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jade_Mountain_Resort_%2824143692642%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-017.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AJade_Mountain_Resort_%2824143692642%29.jpg",
+        "license": "CC BY 2.0",
+        "author": "Prayitno / Thank you for (12 millions +) view from Los Angeles, USA",
+        "attribution": "Photo: Prayitno / Thank you for (12 millions +) view from Los Angeles, USA, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + Jade Mountain / Anse Chastanet hillside resort exterior from water (Pitons-area coast); desc: Filming location of  reality TV Show THE BACHELOR (2014) in Soufriere ~ St Lucia"
+      },
+      "facts": {
+        "one_liner": "Jade Mountain’s stone hillside sanctuaries above Anse Chastanet’s dark-sand beach and green roofs.",
+        "why_go": "From the Caribbean Sea, Jade Mountain reads as a multi-tiered reddish-brown stone complex cut into a steep jungle ridge, with white green-roof bungalows of sister resort Anse Chastanet stepping down toward a dark volcanic beach, palms, and a pier. Jade Mountain’s official site describes the resort as perched above Anse Chastanet’s beachfront estate near Soufrière, with open-sided sanctuaries facing the Pitons UNESCO landscape. Guests book the upper hillside for Piton-facing infinity-pool suites while using shared Anse Chastanet beaches and activities. Concrete detail: the hero matches the published water approach—Jade Mountain high on the slope, Anse Chastanet cottages and beach below.",
+        "best_time": "December–April dry season for calmer seas and clearer Piton views; May–November is wetter with greener hills and fewer crowds. Atlantic hurricane season peaks roughly August–October—monitor forecasts.",
+        "how_to_get_there": "Fly into Hewanorra (UVF) near Vieux Fort, then pre-book the resort’s road transfer to Soufrière / Anse Chastanet (about an hour on winding roads; allow longer in traffic). Helicopter transfers may be offered—confirm with the resort.",
+        "good_to_know": "OPEN / BOOKABLE at jademountain.com (reservation / booking information live). Jade Mountain guests share Anse Chastanet beaches, dining, and dive centre; the upper sanctuaries remain the quieter hillside product. Age policies can be restrictive—verify before booking.",
+        "official_or_tourism_url": "https://www.jademountain.com/",
+        "sources": [
+          "https://www.jademountain.com/",
+          "https://jademountain.com/booking-information/",
+          "https://jademountain.com/reserve/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Soufriere, Saint Lucia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Soufriere%2C%20Saint%20Lucia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Soufriere%2C%20Saint%20Lucia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Soufriere%2C%20Saint%20Lucia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Soufriere"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "Hillside stone sanctuaries above Anse Chastanet dark beach (sister campus context in facts). CC BY 2.0. Bookable jademountain.com. Ad Soufriere. Facts match JPG.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-018",
+      "tab": "luxury",
+      "name": "Explora Patagonia",
+      "short_line": "Torres del Paine, Chile",
+      "country": "Chile",
+      "lat": -51.0906,
+      "lng": -72.9956,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/ChileTorresDelPaineHotalExplora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-018.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AChileTorresDelPaineHotalExplora.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Keokan",
+        "attribution": "Photo: Keokan, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + Explora Patagonia (Salto Chico) lodge exterior on Lake Pehoé with Cuernos del Paine; desc: Hotel Explora en Torres del Paine"
+      },
+      "facts": {
+        "one_liner": "Explora Patagonia lodge on turquoise Lake Pehoé, white bridge, Cuernos del Paine behind.",
+        "why_go": "The lodge sits on a rocky spit in milky-turquoise Lake Pehoé, linked by a long white lattice footbridge, with the jagged Cuernos del Paine rising under broken cloud. Explora’s official Torres del Paine pages describe this roughly 50-room wilderness lodge on Lake Pehoé inside the national park (UNESCO Biosphere Reserve)—the Salto Chico shoreline site long known as Explora Patagonia / Hotel Salto Chico. Salto Chico remains a room category facing the nearby waterfall. Guests come for park explorations with that iconic lake-and-horns backdrop outside the lounge windows. Concrete detail: Explora recommends Santiago–Puerto Natales flights then about a 1 hour 45 minute van transfer, or longer road links from Punta Arenas (about 4.5 hours).",
+        "best_time": "October–April austral spring–summer for longer days and most exploration programmes; December–February are busiest. May–September is colder and windier—confirm seasonal operations when booking.",
+        "how_to_get_there": "Fly to Santiago (SCL), then to Puerto Natales (PNT) or Punta Arenas (PUQ). Book Explora’s scheduled transfers in advance (Puerto Natales airport pickups commonly at midday/afternoon). Self-drive into Torres del Paine is possible, but lodge packages usually include park-oriented transfers.",
+        "good_to_know": "OPEN / BOOKABLE via explora.com Torres del Paine lodge pages. Scout name Explora Patagonia matches the historic Salto Chico property; Explora currently markets it as its Torres del Paine lodge, with Salto Chico still used for waterfall-view rooms. Park rules and CONAF access apply on explorations—follow guide briefings. Strong winds are normal on the Pehoé shore.",
+        "official_or_tourism_url": "https://www.explora.com/torres-del-paine-explora-lodge/",
+        "sources": [
+          "https://www.explora.com/torres-del-paine-explora-lodge/",
+          "https://www.explora.com/torres-del-paine-getting-there/",
+          "https://www.explora.com/lodge/torres-del-paine-lodge/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Torres del Paine, Chile",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Torres%20del%20Paine%2C%20Chile&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Torres%20del%20Paine%2C%20Chile&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Torres%20del%20Paine%2C%20Chile&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Torres del Paine"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "Lodge on Lake Pehoé spit + white lattice bridge + Cuernos del Paine. CC BY-SA 3.0 Keokan. Bookable explora.com. Ad Torres del Paine. Facts match.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-019",
+      "tab": "luxury",
+      "name": "Hotel Alfonso XIII",
+      "short_line": "Seville, Spain",
+      "country": "Spain",
+      "lat": 37.3824,
+      "lng": -5.9926,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Hotel_Alfonso_XIII%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_80.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-019.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AHotel_Alfonso_XIII%2C_Sevilla%2C_Espa%C3%B1a%2C_2015-12-06%2C_DD_80.JPG",
+        "license": "CC BY-SA 4.0",
+        "author": "Diego Delso",
+        "attribution": "Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + Hotel Alfonso XIII Seville Mudéjar facade and porte-cochère exterior; desc: Alfonso 13th hotel, Seville, Spain"
+      },
+      "facts": {
+        "one_liner": "Hotel Alfonso XIII’s Mudéjar brick-and-tile porte-cochère under the rooftop hotel lettering.",
+        "why_go": "Looking up at the main entrance, you see the Luxury Collection landmark’s Neo-Mudéjar façade: paired white columns under a lit wooden canopy, red-brick window surrounds, blue-and-white azulejos, wrought-iron balconies, green shutters, and HOTEL ALFONSO XIII along the roofline. Marriott’s official Hotel Alfonso XIII pages list the property on Calle San Fernando in central Seville, near the Alcázar–Cathedral axis. Guests stay for that ceremonial porte-cochère arrival and ceramic-rich exterior as much as the rooms. Concrete detail: marble entrance stairs, ceramic planters, and the hotel lettering in the hero match the published street façade.",
+        "best_time": "March–May and September–November for mild walking weather around the historic centre; April’s Feria and Semana Santa bring spectacle and crowds. July–August are very hot—plan indoor midday time.",
+        "how_to_get_there": "Fly into Seville (SVQ) or take high-speed rail to Santa Justa, then taxi or short drive to Calle San Fernando near the University and Alcázar. Once downtown, the hotel is walkable to the Cathedral and Plaza de España.",
+        "good_to_know": "OPEN / BOOKABLE via Marriott Luxury Collection (marriott.com hotel code SVQLC). Lobby, courtyard, and restaurants may welcome non-overnight visitors subject to hotel policy; guest floors and pool remain for registered guests. Dress respectfully for the formal public spaces.",
+        "official_or_tourism_url": "https://www.marriott.com/en-us/hotels/svqlc-hotel-alfonso-xiii-a-luxury-collection-hotel-seville/overview/",
+        "sources": [
+          "https://www.marriott.com/en-us/hotels/svqlc-hotel-alfonso-xiii-a-luxury-collection-hotel-seville/overview/",
+          "https://www.marriott.com/en-us/hotels/svqlc-hotel-alfonso-xiii-a-luxury-collection-hotel-seville/rooms/",
+          "https://sevillacb.com/en/asociados/hotel-alfonso-xiii-luxury-collection/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Seville, Spain",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Seville%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Seville%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Seville%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Seville"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "Mudéjar porte-cochère + HOTEL ALFONSO XIII roofline. CC BY-SA 4.0 Diego Delso. Bookable Marriott Luxury Collection SVQLC. Ad Seville. Facts match.",
+        "reject_reason": ""
+      }
+    },
+    {
+      "id": "luxury-020",
+      "tab": "luxury",
+      "name": "Hoshinoya Tokyo",
+      "short_line": "Tokyo, Japan",
+      "country": "Japan",
+      "lat": 35.6866,
+      "lng": 139.765,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/%E6%98%9F%E3%81%AE%E3%82%84%E6%9D%B1%E4%BA%AC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/luxury/luxury-020.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3A%E6%98%9F%E3%81%AE%E3%82%84%E6%9D%B1%E4%BA%AC.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "ブツチチ",
+        "attribution": "Photo: ブツチチ, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file + Hoshinoya Tokyo Otemachi exterior with signature asanoha lattice facade (clear bookable Tokyo luxury stay); desc: 星のや東京"
+      },
+      "facts": {
+        "one_liner": "Hoshinoya Tokyo’s dark asanoha-style lattice tower rising above Otemachi pines and glass.",
+        "why_go": "The low-angle hero isolates Hoshinoya Tokyo’s slender high-rise wrapped in a dark metal lattice whose fine classical geometric pattern—commonly described as asanoha—screens the glass behind, with pines at the stone base amid Otemachi towers. Hoshino Resorts’ official pages present it as a high-rise ryokan in Otemachi whose patterned façade veils rooms from the financial district while each floor functions as a compact ryokan with an ochanoma lounge. Guests come for that lattice exterior and indoor onsen/ryokan ritual in central Tokyo. Concrete detail: official access notes place the hotel at 1-9-1 Otemachi, Chiyoda-ku, about a 10-minute walk from Tokyo Station’s Marunouchi North Exit.",
+        "best_time": "March–May cherry season and October–November autumn colour are popular for city stays; June is rainy; midsummer is hot and humid. The urban ryokan works year-round—book early around Golden Week and year-end holidays.",
+        "how_to_get_there": "Arrive via Tokyo Station (JR/Shinkansen) or Otemachi subway, then walk about 10 minutes to 1-9-1 Otemachi. Haneda (HND) and Narita (NRT) connect by train or airport limousine; taxis drop at the lattice-tower entrance.",
+        "good_to_know": "OPEN / BOOKABLE at hoshinoresorts.com/en/hotels/hoshinoyatokyo (room search live). Shoes-off ryokan etiquette applies inside; confirm onsen rules (including any tattoo policies) before bathing. The street-level lattice façade is viewable; guest floors are not a public attraction.",
+        "official_or_tourism_url": "https://hoshinoresorts.com/en/hotels/hoshinoyatokyo/",
+        "sources": [
+          "https://hoshinoresorts.com/en/hotels/hoshinoyatokyo/",
+          "https://hoshinoresorts.com/en/hotels/hoshinoyatokyo/access/",
+          "https://hoshinoresorts.com/en/hotels/hoshinoyatokyo/sp/story2/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Tokyo, Japan",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Tokyo%2C%20Japan&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Tokyo%2C%20Japan&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Tokyo%2C%20Japan&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Tokyo"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-23T20:55:00-05:00",
+        "audit_notes": "Dark asanoha lattice tower Otemachi exterior. CC BY-SA 4.0. Bookable hoshinoresorts.com. Ad Tokyo. Facts match.",
+        "reject_reason": ""
+      }
+    }
+  ]
+}
