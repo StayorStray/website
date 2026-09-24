@@ -1,12 +1,12 @@
 /**
- * Stay or Stray — i18n (en, es, fr, de, ru, ja, nl)
+ * Stay or Stray — i18n (en, es, fr, de, ru, ja, nl, pt, ko, zh)
  * Top-right language control; persists in localStorage (sos_lang).
  */
 (function (global) {
   'use strict';
 
   var STORAGE_KEY = 'sos_lang';
-  var SUPPORTED = ['en', 'es', 'fr', 'de', 'ru', 'ja', 'nl'];
+  var SUPPORTED = ['en', 'es', 'fr', 'de', 'ru', 'ja', 'nl', 'pt', 'ko', 'zh'];
   var LANG_NATIVE = {
     en: 'English',
     es: 'Español',
@@ -15,6 +15,9 @@
     ru: 'Русский',
     ja: '日本語',
     nl: 'Nederlands',
+    pt: 'Português',
+    ko: '한국어',
+    zh: '中文',
   };
 
   var state = {
@@ -179,7 +182,7 @@
     var loading = document.querySelector('#deck-root > .end-deck');
     if (
       loading &&
-      /Loading|Cargando|Chargement|Laden|Загруз|読み込み|Deck laden/i.test(loading.textContent || '')
+      /Loading|Cargando|Chargement|Laden|Загруз|読み込み|Deck laden|Carregando|불러오는|正在加载/i.test(loading.textContent || '')
     ) {
       loading.textContent = t('loading');
     }

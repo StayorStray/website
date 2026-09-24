@@ -1,0 +1,345 @@
+{
+  "ui": {
+    "brand": "Stay or Stray",
+    "tagline": "장소를 스와이프하세요. 스테이 또는 스트레이.",
+    "meta_description": "장소를 스와이프하세요. 스테이 또는 스트레이. 실제 장소, 라이선스 사진.",
+    "home": "홈",
+    "stay": "스테이",
+    "stray": "스트레이",
+    "stay_btn": "스테이 →",
+    "stray_btn": "← 스트레이",
+    "undo": "마지막 취소",
+    "session_stats": "스테이 {stay} · 스트레이 {stray}",
+    "nav_categories": "카테고리",
+    "nav_footer": "푸터",
+    "intro_blurb": "실제 장소를 스와이프 — 스테이 또는 스트레이. 추천 덱: <strong>{featured}</strong>.",
+    "deck_featured": "{tab} — 추천",
+    "loading": "덱 불러오는 중…",
+    "end_deck_title": "이 목록을 모두 스와이프했습니다. 다른 탭을 시도해 보세요.",
+    "end_deck_session": "이번 세션: {stay} 스테이 · {stray} 스트레이",
+    "end_of_deck_live": "덱 끝.",
+    "try_another_category": "다른 카테고리 시도",
+    "about": "소개",
+    "photo_credits": "사진 크레딧",
+    "buy_me_coffee": "커피 한 잔 사주기",
+    "disclosure": "제휴사로서 자격 있는 예약에서 수수료를 받을 수 있습니다.",
+    "about_blurb": "<strong>Stay or Stray 소개.</strong> 실제로 갈 수 있는 장소를 스와이프하세요 — 가고 싶으면 스테이, 건너뛰려면 스트레이. 사진은 라이선스된 실사입니다(AI 이미지 없음).",
+    "legal_disclaimer": "Stay or Stray는 오락 및 참고용 일반 정보만 제공하며 — 여행·안전·예약 조언이 아니고 — 정확성이나 완전성을 보증하지 않습니다. 어디로 갈지, 무엇을 예약할지, 어떻게 여행할지는 본인만의 결정입니다. 제3자 예약·제휴·지원 링크는 외부이며 각 약관이 적용됩니다. 법이 허용하는 최대 범위에서 Stay or Stray는 이 사이트 또는 그 내용에 대한 의존으로 인한 여행 결과나 손실에 대해 책임을 지지 않습니다.",
+    "credits_blurb": "0단계 샘플 크레딧은 각 카드 아래에 표시됩니다. 전체 출처는 <code>data/hidden-gems.json</code>에 있습니다(Wikimedia Commons CC 라이선스).",
+    "best_time": "최적의 시기",
+    "how_to_get_there": "가는 방법",
+    "good_to_know": "알아두면 좋아요",
+    "photo_credit": "사진 크레딧:",
+    "ad_kicker": "근처에서 숙박",
+    "ad_cta": "{name}에서 숙소 찾기",
+    "ad_note": "{destination}에 대한 파트너 검색을 엽니다. 제휴 ID는 설정될 때까지 자리 표시자입니다.",
+    "this_place": "이 장소",
+    "more": "더보기",
+    "less": "접기",
+    "could_not_load": "덱을 불러올 수 없습니다",
+    "serve_http": "이 폴더를 HTTP로 제공하세요(README 참고).",
+    "empty_deck": "이 덱에 아직 장소가 없습니다.",
+    "card_live": "카드 {n}/{total}: {name}",
+    "lang_aria": "언어 변경",
+    "lang_menu_aria": "언어",
+    "booking_offer": "예약 혜택",
+    "em_dash": "—",
+    "stay_list_title": "스테이한 장소",
+    "stray_list_title": "스트레이한 장소",
+    "list_empty_stay": "아직 스테이가 없습니다. 가고 싶은 장소에서 오른쪽으로 스와이프(또는 스테이 탭)하세요.",
+    "list_empty_stray": "아직 스트레이가 없습니다. 건너뛸 장소에서 왼쪽으로 스와이프(또는 스트레이 탭)하세요.",
+    "close_list": "닫기",
+    "daily_note": "스테이·스트레이 목록은 이 기기에만 저장됩니다.",
+    "daily_deck_label": "오늘의 덱 · {date}",
+    "end_deck_saved_prefix": "이 기기에 저장됨:",
+    "move_up": "위로 이동",
+    "move_down": "아래로 이동",
+    "move_top": "맨 위로",
+    "move_bottom": "맨 아래로",
+    "stay_reorder_note": "화살표로 스테이 순위를 정하세요. 순서는 이 기기에 저장됩니다.",
+    "randomizer_intro": "거점을 고르고 덱을 필터한 뒤 돌리면 실제 장소가 나옵니다.",
+    "im_in": "현재 위치",
+    "filter": "필터",
+    "geo_all": "전체",
+    "geo_domestic": "국내",
+    "geo_international": "해외",
+    "category": "카테고리",
+    "all_categories": "모든 카테고리",
+    "spin": "돌리기",
+    "mute_sound": "소리 끄기",
+    "unmute_sound": "소리 켜기",
+    "reset_wheel": "내 휠 초기화",
+    "pool_status": "{n}곳 준비됨",
+    "pool_empty": "필터에 맞는 장소가 없거나 모두 제거되었습니다. 전체/다른 카테고리를 시도하거나 내 휠 초기화를 사용하세요.",
+    "no_places_canvas": "장소 없음",
+    "find_stay_near": "{name} 근처 숙소 찾기",
+    "remove_from_wheel": "내 휠에서 제거",
+    "spin_again": "다시 돌리기",
+    "close": "닫기",
+    "prize_wheel_aria": "경품 휠",
+    "home_country_aria": "거주 국가",
+    "category_aria": "카테고리",
+    "geo_group_aria": "국내 또는 해외",
+    "submit_intro": "실제로 갈 수 있는 장소를 제안하세요. 결제만으로 공개되지 않습니다 — 정확성 감사자가 공개 전에 모든 카드를 검토합니다. 핀 시계는 공개 시점에 시작됩니다.",
+    "submit_place_name": "장소 이름",
+    "submit_country": "국가",
+    "submit_city": "도시 / 지역",
+    "submit_which_tab": "어느 탭",
+    "submit_why": "왜 맞는지 (짧게)",
+    "submit_photo": "사진 URL 또는 메모",
+    "submit_photo_hint": "라이선스된 실사만(AI 없음). URL이 없으면 제출 후 알림 주소로 파일을 이메일하겠다고 적어 주세요.",
+    "submit_your_name": "이름",
+    "submit_your_email": "이메일",
+    "submit_sku_legend": "등록 SKU",
+    "submit_sku_founding": "창립 스탠더드 — $39(1년차), 이후 $49/년",
+    "submit_sku_standard": "스탠더드 등록 — $49/년",
+    "submit_sku_hg": "Hidden Gems — $99 / 12개월",
+    "submit_pin_legend": "선택 핀",
+    "submit_pin_cap": "가용성에 따름(탭당 핀 25개 상한). 핀 시계는 결제가 아니라 공개 시점에 시작됩니다.",
+    "submit_disclaimer": "결제했다고 바로 공개되지 않습니다. 정확성 감사자가 게시 전에 모든 등록을 검토합니다. 결제는 별도 확인되며, 이 양식은 알림 수신함으로 이메일 초안을 엽니다.",
+    "submit_send": "이메일로 제출",
+    "submit_pin_line": "+$39 — 카드가 공개된 후 7일 동안 이 탭의 상위 25개에 유지됩니다.",
+    "submit_total": "예상 합계: <strong>${total}</strong>",
+    "submit_why_placeholder": "이 장소가 해당 탭에 맞는 이유를 몇 문장으로.",
+    "submit_photo_placeholder": "사진 URL을 붙여넣거나, 이메일로 사진을 보내겠다고 적으세요",
+    "submit_status_ok": "{email}(으)로 이메일 클라이언트를 엽니다. 열리지 않으면 초안을 복사해 직접 보내세요.",
+    "klook_nearby": "근처에서 할 일",
+    "klook_find": "체험 찾기 →"
+  },
+  "tabs": {
+    "hidden-gems": "숨은 명소",
+    "cities": "상징적인 도시",
+    "pubs": "독특한 펍",
+    "countries": "국가",
+    "arenas": "스포츠 경기장",
+    "beaches": "해변과 해안",
+    "parks": "국립공원",
+    "landmarks": "역사 유적",
+    "islands": "섬",
+    "luxury": "럭셔리 스테이",
+    "location-randomizer": "장소 랜덤 추첨",
+    "submit-a-place": "장소 제출"
+  },
+  "cards": {
+    "hidden-gems-001": {
+      "short_line": "Overijssel, Netherlands",
+      "country": "Netherlands",
+      "facts": {
+        "one_liner": "Canal village in Weerribben-Wieden; ~2,800 residents, car-free historic core, boatable waterways.",
+        "why_go": "Giethoorn is a living village in Overijssel’s Kop van Overijssel, often called Hollands Venetië for its canals, thatched farmhouses, and wooden bridges. Visitors come to explore by whisper boat, bike, or on foot rather than through a museum gate. The old centre has no through car traffic; lakes nearby were formed by historic peat digging. Boat rental needs no licence, but advance booking is strongly advised on busy days.",
+        "best_time": "May–September for boating and long daylight; arrive before 10:00 or after 16:00 for quieter canals. Shoulder months April and October are milder and less crowded.",
+        "how_to_get_there": "No station in the village. Train to Steenwijk, then bus 70 or seasonal Giethoorn Express (270) to Hylkemaweg–Giethoorn Centre / Hollands Venetië. By car, park on the P-route at the edge; the centre is car-free. About 10 minutes’ drive from Steenwijk, 30 from Zwolle.",
+        "good_to_know": "It is a lived-in village (~2,600–2,800 people), not a theme park—stay off private gardens and paths. No entrance fee to walk the village."
+      }
+    },
+    "hidden-gems-002": {
+      "short_line": "Tangier-Tetouan-Al Hoceima, Morocco",
+      "country": "Morocco",
+      "facts": {
+        "one_liner": "Rif mountain town (~600 m) known as Chaouen; blue-washed medina, Kasbah, and hiking access.",
+        "why_go": "Chefchaouen (also Chaouen / شفشاون) sits in Morocco’s western Rif between Tétouan and Ouazzane. People come for the blue-and-white medina lanes, Place Outa Hammam with the Kasbah museum, and day hikes toward Akchour and Talassemtane National Park. The medina’s Andalusian-influenced layout and mountain setting distinguish it from larger imperial cities. Early morning and late afternoon give better light and fewer day-trippers.",
+        "best_time": "April–May and September–October for mild days and clearer hiking conditions. July–August are warmer and busier with domestic weekend traffic; winter is quieter but cooler and wetter.",
+        "how_to_get_there": "Most visitors arrive by bus or shared grand taxi from Tangier, Tétouan, or Fès (mountain roads; allow several hours). No train station—use CTM/local coaches into the new town, then walk or taxi into the medina.",
+        "good_to_know": "Dress modestly in the medina; ask before photographing residents. Pair the town with a guided hike rather than relying only on street photos—Ras el-Maa and the Spanish Mosque viewpoint are short walks from the old quarter."
+      }
+    },
+    "hidden-gems-003": {
+      "short_line": "Upper Austria, Austria",
+      "country": "Austria",
+      "facts": {
+        "one_liner": "Lakeside market town on Hallstätter See; UNESCO Hallstatt–Dachstein/Salzkammergut core, salt-mine heritage.",
+        "why_go": "Hallstatt is a small municipality on the southwest shore of Lake Hallstatt beneath the Dachstein massif in Upper Austria. Visitors come for the lakeside old town, salt-mine and museum history (the Hallstatt culture name originates here), the Skywalk above the roofs, and the Beinhaus ossuary. The settlement sits on a narrow strip between cliff and water, so most exploration is on foot. Day-trip pressure is high; staying overnight or arriving very early changes the experience.",
+        "best_time": "May–June and September–October for milder weather and fewer peak crowds. July–August and sunny weekends see heavy day tourism; winter is quieter with snow possible.",
+        "how_to_get_there": "Train via ÖBB to Attnang-Puchheim, then Salzkammergut Railway to Hallstatt station on the opposite shore; ferry (~15 min) to the village pier. From Salzburg, bus 150 to Bad Ischl, then local buses (change at Gosaumühle for Hallstatt Lahn). By car, Austrian motorway vignette required; village parking is scarce—book ahead or travel early.",
+        "good_to_know": "Tour buses are time-slot limited; overnight guests get preference. Village centre parking is largely for residents—plan public transport or reserved lots."
+      }
+    },
+    "hidden-gems-004": {
+      "short_line": "Grand Est, France",
+      "country": "France",
+      "facts": {
+        "one_liner": "Alsatian prefecture city; half-timbered old town, Petite Venise canals, and Alsace Wine Route hub.",
+        "why_go": "Colmar (Alsatian: Colmer) is the Haut-Rhin prefecture between the Vosges and the Rhine, known as a capital of Alsace wines. Travellers come for the protected historic centre—Petite Venise, the Tanner’s quarter, Maison Pfister, Maison des Têtes—and the Unterlinden Museum with the Isenheim Altarpiece. The pedestrian core mixes French and Germanic architecture across several centuries. It works as a base for the Route des Vins and nearby villages.",
+        "best_time": "May–June and September–October for walking weather and vineyard season. December Christmas markets are popular but crowded; July–August are peak summer.",
+        "how_to_get_there": "Gare de Colmar has frequent TER/TGV-linked trains from Strasbourg and Mulhouse. Nearest major airports: Basel–Mulhouse–Freiburg (~52 km) and Strasbourg (~68 km). Town centre is walkable from the station; tourist office at Place Unterlinden.",
+        "good_to_know": "Old-town lighting is strongest Friday–Saturday evenings year-round and nightly during major events (wine fair, Christmas). The tourist office stocks maps of Petite Venise and museum tickets info."
+      }
+    },
+    "hidden-gems-005": {
+      "short_line": "Lazio, Italy",
+      "country": "Italy",
+      "facts": {
+        "one_liner": "Cliff-top borgo above the Valle dei Calanchi; footbridge-only access from Bagnoregio, ticketed entry.",
+        "why_go": "Civita di Bagnoregio is a frazione of Bagnoregio in Tuscia, perched on friable tuff above clay badlands. Visitors cross a reinforced pedestrian bridge into a compact medieval street plan with Etruscan roots, San Donato church, and calanchi views. Ongoing erosion earned it the nickname “la città che muore,” so the setting itself is part of the visit. Only a handful of permanent residents remain; day tourism is the main activity.",
+        "best_time": "April–June and September–October for cooler bridge climbs. Avoid midday heat in July–August; early morning or late evening are more comfortable and less crowded.",
+        "how_to_get_there": "A1 exit Orvieto (~18 km) or Attigliano (~30 km) to Bagnoregio. Park at Piazzale Battaglini; shuttle or ~1.3 km walk to the Belvedere, then cross the ~300 m bridge on foot. Train to Orvieto or Viterbo, then COTRAL bus to Bagnoregio. Online ticket holders go straight to the bridge entrance.",
+        "good_to_know": "Entry is ticketed (managed by Casa Civita); the bridge climb is steep—unsuitable in peak heat for anyone with heart/mobility issues. Bikes are not allowed into the village."
+      }
+    },
+    "hidden-gems-006": {
+      "short_line": "Gifu Prefecture, Japan",
+      "country": "Japan",
+      "facts": {
+        "one_liner": "Ogimachi gasshō-zukuri village (白川郷); UNESCO Historic Villages of Shirakawa-go and Gokayama.",
+        "why_go": "Shirakawa-gō’s Ogimachi hamlet in Shirakawa Village (Gifu) preserves steep thatched gasshō-zukuri farmhouses adapted to heavy snow. Together with Gokayama sites in Toyama it forms a UNESCO World Heritage property inscribed in 1995. Visitors walk the village lanes, climb to the observatory overlook, and optionally stay in farmhouse lodgings. Several houses operate as museums explaining silk-raising and roof construction; many remain private homes.",
+        "best_time": "Late April–May (greenery), mid-October (foliage/Doburoku Festival period), and winter for snow scenery if roads and clothing are prepared. Golden Week and autumn festival dates bring congestion.",
+        "how_to_get_there": "No passenger rail in the village. Highway buses (reservations often required) from Takayama (~50 min), Kanazawa (~75 min), or Nagoya. By car use village Seseragi Park Parking, then cross Deai Bridge; vehicle entry into the World Heritage core is restricted. Winter driving needs studless tires or chains.",
+        "good_to_know": "Use official Seseragi parking—not private touts near the entrance. Respect residents: many buildings are homes, and fire risk is high in thatched clusters."
+      }
+    },
+    "hidden-gems-007": {
+      "short_line": "Tunis Governorate, Tunisia",
+      "country": "Tunisia",
+      "facts": {
+        "one_liner": "Cliff suburb ~20 km NE of Tunis; white walls, blue shutters, Gulf of Tunis views (سيدي بو سعيد).",
+        "why_go": "Sidi Bou Saïd overlooks the Gulf of Tunis on a steep promontory, known for Andalusian-style houses in white and cobalt blue. Visitors stroll Rue Hedi Zarrouk and side lanes, stop at cliff cafés, and visit Dar Ennejma Ezzahra (Centre of Arab and Mediterranean Music) or house museums such as Dar el-Annabi. It pairs easily with Carthage ruins a few kilometres west. The upper village is compact and mostly pedestrian.",
+        "best_time": "Spring and autumn for mild weather and thinner crowds than peak summer. Arrive before 11:00 or stay overnight for quieter streets; afternoons draw day-trippers.",
+        "how_to_get_there": "TGM suburban train from Tunis Marine toward La Marsa; alight at Sidi Bou Saïd station (~0.5 km below the centre), then walk uphill. Taxis/rideshares drop near Rue Hedi Zarrouk. Combine with Carthage on the same TGM line.",
+        "good_to_know": "During Ramadan many daytime food stalls close—plan iftar or eat outside fasting hours. The marina is reached via the steep “365 Steps” (fewer in practice); upper streets are the main photo circuit."
+      }
+    },
+    "hidden-gems-008": {
+      "short_line": "Žilina Region, Slovakia",
+      "country": "Slovakia",
+      "facts": {
+        "one_liner": "Mountain village in Rajecká dolina; log houses with white geometric wall patterns (folk architecture reserve).",
+        "why_go": "Čičmany lies in Žilina District between the Strážovské vrchy and Malá Fatra, famous for timber houses painted with distinctive white ornaments. A folk architecture reserve (declared 1977) protects a cluster of these houses; Radenov dom and House No. 42 hold Považské múzeum ethnographic displays on daily life, dress, and crafts. Patterns also appear in local embroidery. The village itself remains small and residential.",
+        "best_time": "May–September for open-air wandering and museum hours; July–August have the longest museum days. Winter is atmospheric but cold and services thinner.",
+        "how_to_get_there": "By car via Rajecká Lesná / Rajecké Teplice area south of Žilina (mountain valley roads). Public transport is limited—check Žilina regional buses toward Čičmany and confirm return times. Museum address: Čičmany 137.",
+        "good_to_know": "Museum closed Mondays; Tue–Fri roughly 9:00–15:00 with a midday break, longer on weekends—confirm current hours on pmza.sk before going. Walk the lower village respectfully; many painted houses are private homes."
+      }
+    },
+    "hidden-gems-009": {
+      "short_line": "Lofoten, Norway",
+      "country": "Norway",
+      "facts": {
+        "one_liner": "Fishing village on Moskenesøya; Moskenes municipal centre, Arctic Circle, E10 access, ~300 residents.",
+        "why_go": "Reine sits between Vestfjorden and Reinefjorden on Moskenesøya in the Lofoten archipelago. People come for harbour and peak views, rorbu cabins, stockfish racks, and hikes such as Reinebringen (stone staircase built 2016–2019). It remains a working fish-processing community, not only a viewpoint. Neighbouring Hamnøy and Å are short hops along the same road.",
+        "best_time": "June–August for hiking, ferries, and midnight sun. May and September are quieter with long daylight. October–March for Northern Lights potential, but expect short days, limited services, and hazardous winter trails.",
+        "how_to_get_there": "Ferry Bodø–Moskenes, then bus/taxi to Reine; or fly to Leknes or Svolvær and continue by bus/car on E10. Check Reis Nordland (reisnordland.com / Reis app) for bus 300 / Lofotekspressen and local links. Public parking in the village—streets are narrow.",
+        "good_to_know": "Reinebringen is strongly discouraged in winter for safety. Respect active fishery work and do not handle drying stockfish; use marked campsites only."
+      }
+    },
+    "hidden-gems-010": {
+      "short_line": "Teruel, Spain",
+      "country": "Spain",
+      "facts": {
+        "one_liner": "Pink-walled hill town in a Guadalaviar meander; Sierra de Albarracín, Monumento Nacional since 1961.",
+        "why_go": "Albarracín climbs a rocky loop of the Guadalaviar at about 1,180 m in southern Aragón. Visitors walk the medieval street maze, cathedral and walls (Torre del Andador views), and pinkish sandstone façades. The surrounding sierra offers walking and the Rodeno pine/boulder landscape popular with climbers. It is capital of the Sierra de Albarracín comarca and a member of Spain’s Most Beautiful Villages association.",
+        "best_time": "May–June and September–October for comfortable walking and autumn colour in the sierra. Summers are warm by day with cooler nights; winters can bring snow and quieter streets.",
+        "how_to_get_there": "Best by car: ~2 h from Valencia (A-23), ~3 h from Madrid, ~5 h from Barcelona. Bus link from Teruel bus station typically Mon–Sat (e.g. Teruel 08:50 / Albarracín 14:10 on municipal info—confirm current times). Limited Sunday/holiday service.",
+        "good_to_know": "Use designated parking outside the historic core; streets are very narrow. Check albarracin.es or Albarracín Movilidad for up-to-date bus tickets before relying on a same-day connection from Teruel."
+      }
+    },
+    "hidden-gems-011": {
+      "short_line": "Waikato, New Zealand",
+      "country": "New Zealand",
+      "facts": {
+        "one_liner": "Guided limestone caves with a silent boat ride under Arachnocampa luminosa glowworms.",
+        "why_go": "The Waitomo Glowworm Caves are a show-cave complex in rural Waikato where guided tours walk through chambers such as the Cathedral before a short boat ride through the glowworm grotto. Discover Waitomo operates the official Glowworm Cave alongside nearby Ruakuri and Aranui caves, so the area works as a half-day or multi-cave stop between Auckland and Rotorua. Expect cool, damp underground conditions and a cashless visitor centre at 39 Waitomo Village Road.",
+        "best_time": "Year-round; summer (Dec–Feb) has longer daylight and more departures, while shoulder months (Mar–May, Sep–Nov) are quieter. Book ahead in school holidays.",
+        "how_to_get_there": "About 1 hour by road from Hamilton, ~2.5 hours from Auckland. Drive via SH3/SH37 to Waitomo Village, or join day tours from Auckland/Rotorua. Tours check in at the Glowworm Caves Visitor Centre.",
+        "good_to_know": "Pre-booking online via Discover Waitomo is essential; check in 30 minutes before departure. Wear closed shoes and a warm layer—paths can be wet and slippery. Photography rules vary by tour section."
+      }
+    },
+    "hidden-gems-012": {
+      "short_line": "Antioquia, Colombia",
+      "country": "Colombia",
+      "facts": {
+        "one_liner": "Lakeside Antioquia town of painted zócalos beside El Peñón de Guatapé (La Piedra del Peñol).",
+        "why_go": "Guatapé, about 75 km east of Medellín, is known for brightly painted house bases (zócalos) that depict local trades, flora, and history along streets such as Calle del Recuerdo. The Peñol-Guatapé reservoir, created for a hydroelectric project that flooded thousands of hectares in the 1970s, frames boat trips and waterfront walks. Nearby El Peñón de Guatapé—a ~220 m granite monolith between Guatapé and El Peñol—has a stairway of roughly 700 steps to a reservoir overlook.",
+        "best_time": "Dry season (Dec–Mar) is clearest for the rock climb and photos; Guatapé is visited year-round. Weekdays are less crowded than weekends.",
+        "how_to_get_there": "Buses run from Medellín’s Terminal del Norte to Guatapé (~2 hours). The rock is on the El Peñol–Guatapé road, a short ride or walk before town. Day tours from Medellín are common.",
+        "good_to_know": "Bring cash (COP) for the rock entrance and parking; card acceptance on site is unreliable. Climb early morning or late afternoon to avoid heat and peak queues."
+      }
+    },
+    "hidden-gems-013": {
+      "short_line": "Bali, Indonesia",
+      "country": "Indonesia",
+      "facts": {
+        "one_liner": "Bangli highland village with a single stone main street, gated compounds, and a bamboo forest.",
+        "why_go": "Penglipuran (Desa Wisata Penglipuran) in Kubu, Bangli Regency, is a Bali Aga community noted for its orderly stone-paved main street lined with manicured gardens and traditional arched house gates leading toward the village temple. Visitors can walk residential lanes, enter designated homes, and reach the bamboo forest on the village edge. UN Tourism named it one of the Best Tourism Villages in 2023.",
+        "best_time": "Dry season (Apr–Oct) for walking comfort; mornings are cooler and less crowded. Closed on Nyepi; may pause for ceremonies.",
+        "how_to_get_there": "In East Bali’s Bangli highlands, roughly 1–1.5 hours by car from Ubud or south Bali resorts. Address: Jl. Penglipuran, Kubu, Bangli. No public online tickets—buy at the official counter.",
+        "good_to_know": "From 1 Jan 2026 the village sells visit packages only (not a separate entrance fee) at the official counter; cash IDR or QRIS. Dress modestly; temple inner sanctums are off-limits."
+      }
+    },
+    "hidden-gems-014": {
+      "short_line": "Vágar, Faroe Islands",
+      "country": "Faroe Islands",
+      "facts": {
+        "one_liner": "Tiny Vágar cliff village above Múlafossur, a waterfall that drops straight into the Atlantic.",
+        "why_go": "Gásadalur sits on the west side of Vágar with a handful of houses (official tourism sources cited about 13 residents as of 2023) above sea cliffs. Its landmark is Múlafossur, the waterfall that plunges from the village edge into the ocean, with Mykines visible on clear days. Road access arrived only with the Gásadalstunnilin tunnel in 2005; before that the settlement was reached on foot over the mountains from Bøur.",
+        "best_time": "May–Sep for longer daylight and milder weather; expect wind and fog any month. Winter visits are possible but weather-dependent.",
+        "how_to_get_there": "Drive from Vágar Airport or Sørvágur through the tunnel from Bøur (~15–20 min from the airport area). Park only in marked spaces and walk ~5 minutes to the fenced viewpoint. Optional demanding hike: the old postman’s trail from Bøur.",
+        "good_to_know": "Stay inside fences—cliff terrain is steep and dangerous. Do not drive on turf or block local access. Bring layers; wind at the viewpoint can be strong."
+      }
+    },
+    "hidden-gems-015": {
+      "short_line": "Grand Est, France",
+      "country": "France",
+      "facts": {
+        "one_liner": "Concentric Alsace wine village of half-timbered houses on the Route des Vins d’Alsace.",
+        "why_go": "Eguisheim (Pays d’Eguisheim) is a medieval village near Colmar laid out in concentric streets following former ramparts, notably along Rue du Rempart. Half-timbered façades, flower displays, and Place du Château—with its chapel and statue of Pope Leo IX, traditionally linked to the village—make it a compact walking stop on the Alsace Wine Route. It is listed among Les Plus Beaux Villages de France.",
+        "best_time": "Apr–Jun for flowers and milder crowds; Sep–Oct for vineyard colour and harvest. Jul–Aug and December Christmas markets are busiest.",
+        "how_to_get_there": "~7 km southwest of Colmar (train to Gare de Colmar, then local bus or taxi/bike). By car: A35 exit Sainte-Croix-en-Plaine / Herrlisheim toward Eguisheim. The historic core is walkable (~250 m across).",
+        "good_to_know": "Tourist office at 22a Grand Rue (Office de Tourisme Pays d’Eguisheim et de Rouffach). Arrive early on weekends; parking fills quickly in high season and around Christmas markets."
+      }
+    },
+    "hidden-gems-016": {
+      "short_line": "Herzegovina-Neretva, Bosnia and Herzegovina",
+      "country": "Bosnia and Herzegovina",
+      "facts": {
+        "one_liner": "UNESCO Old Bridge (Stari Most) and riverside bazaar spanning the Neretva gorge.",
+        "why_go": "Mostar’s Old Bridge Area of the Old City is a UNESCO World Heritage property (inscribed 2005) centred on Stari Most, the reconstructed Ottoman stone arch over the Neretva. The surrounding Kujundžiluk bazaar lanes mix Ottoman, Mediterranean, and Austro-Hungarian fabric restored after wartime destruction in the 1990s. Local divers from Klub skakača u vodu Mostari continue the bridge-jumping tradition spectators often watch from the banks in warm months.",
+        "best_time": "May–Jun and Sep for warm weather with fewer crowds; Jul–Aug is peak for bridge-diving displays and heat. Winter is quiet but cooler and quieter for walking.",
+        "how_to_get_there": "ŽFBH trains and frequent buses link Sarajevo and Mostar (~2–2.5 hours by rail when running). The old town is compact and walkable from Mostar station/bus terminals with a short walk or taxi to Stari Most.",
+        "good_to_know": "Crossing Stari Most is free and pedestrian; expect slippery cobbles. Bridge jumps are most reliable roughly Jun–Sep late morning to mid-afternoon—watch from the riverbank, tip if you join a collection, and never jump yourself without club training."
+      }
+    },
+    "hidden-gems-017": {
+      "short_line": "Andalusia, Spain",
+      "country": "Spain",
+      "facts": {
+        "one_liner": "Blue-painted pueblo in Málaga’s Genal Valley, officially promoted as La Aldea Azul.",
+        "why_go": "Júzcar is a small municipality in the Serranía de Ronda / Valle del Genal, about 22 km from Ronda. In 2011 its buildings were painted blue for a Smurfs film promotion; residents later voted to keep the colour, and after a rights dispute the place is marketed as La Aldea Azul rather than an official Smurf village. Beyond the blue streets, visitors use it as a base for Genal Valley walks, including autumn chestnut colour in the nearby Bosque de Cobre.",
+        "best_time": "Spring (Apr–Jun) and autumn (Sep–Nov)—autumn for chestnut (Bosque de Cobre) colour. Summers are hot; winters mild but quieter.",
+        "how_to_get_there": "Drive MA-515 from Ronda (~30 min) or via inland routes from Málaga (~1.5–2 hours, ~113–115 km). Limited local buses from Ronda to Genal villages—confirm return times. Parking near the village entrance.",
+        "good_to_know": "Expect the blue paint, not licensed Smurf statues or branding—the village has rebranded toward local nature and chestnut themes. Combine with other Genal white villages if you have a car."
+      }
+    },
+    "hidden-gems-018": {
+      "short_line": "Isle of Skye, Scotland",
+      "country": "United Kingdom",
+      "facts": {
+        "one_liner": "Skye’s harbour capital (Port Rìgh) on a sheltered bay facing Raasay.",
+        "why_go": "Portree is the main town and service hub on the Isle of Skye, set around a sheltered harbour on Loch Portree / the Sound of Raasay with brightly painted waterfront buildings and a working pier. Developed as a fishing settlement in the early 19th century, it now concentrates shops, accommodation, and the island’s tourist information, and is a launch point for boat trips and island sightseeing. Hills such as Ben Tianavaig frame the bay; Raasay’s Dun Caan is visible across the water.",
+        "best_time": "May–Sep for longer days and more services; shoulder months are quieter. Weather is changeable year-round—pack waterproofs.",
+        "how_to_get_there": "Drive via the free Skye Bridge (Kyle of Lochalsh–Kyleakin), then A87 to Portree (~1 hour from the bridge). Scottish Citylink coaches from Inverness and Glasgow serve Somerled Square; CalMac ferries reach Skye at Armadale (Mallaig) with onward bus. No railway on Skye.",
+        "good_to_know": "Book Citylink seats in summer. Local Stagecoach buses cover Staffin, Uig, and Dunvegan but run infrequently—check timetables. Harbour pontoon access can close during cruise-ship operations."
+      }
+    },
+    "hidden-gems-019": {
+      "short_line": "Santorini, Greece",
+      "country": "Greece",
+      "facts": {
+        "one_liner": "Northwest Santorini village on the caldera rim — whitewashed lanes, castle ruins, and sunset crowds.",
+        "why_go": "Oia (Οία, often spelled Ia; pronounced EE-ah) sits on the northwestern edge of Santorini’s caldera, about 70–100 m above the sea, with white Cycladic houses, blue-domed churches, and windmills along the cliff. Travellers come for caldera views, cave-house stays, and the ruined Kasteli of Agios Nikolaos (Londsa / Oia Castle) at the western tip — a free open-air viewpoint rather than a ticketed fortress. Below the village, Ammoudi Bay is reached by hundreds of steps and offers harbour tavernas and boat links toward Therasia. Nikolaou Nomikou is the main pedestrian spine through shops and galleries.",
+        "best_time": "April–June and September–October for milder weather and thinner crowds. July–August sunsets at the castle ruins draw dense crowds; mornings are quieter for walking the lanes.",
+        "how_to_get_there": "Fly or ferry to Santorini, then take the KTEL bus from Fira to Oia (~20 minutes) or a taxi/rental car (parking fills in peak season). The village centre is largely car-free — explore on foot.",
+        "good_to_know": "Arrive well before sunset if you want space at the castle ruins; otherwise visit earlier for empty lanes and the same caldera views. Optional: the Fira–Oia caldera-rim path ends here if you prefer to walk in rather than bus."
+      }
+    },
+    "hidden-gems-020": {
+      "short_line": "Bavaria, Germany",
+      "country": "Germany",
+      "facts": {
+        "one_liner": "Well-preserved Franconian walled town on the Romantic Road with a walkable ~4 km rampart circuit.",
+        "why_go": "Rothenburg ob der Tauber is a major tourist town in Middle Franconia whose old centre is enclosed by roughly four kilometres of medieval walls and dozens of towers. Visitors walk the Rothenburger Turmweg along the fortifications, pass gates such as Rödertor and Spitaltor, and explore Marktplatz and the Plönlein viewpoint. It sits on Germany’s Romantic Road and draws day-trippers as well as overnight stays in historic inns.",
+        "best_time": "Apr–Jun and Sep–Oct for milder weather; December Christmas market period is busiest. Early morning or evening wall walks avoid peak coach groups.",
+        "how_to_get_there": "Regional trains to Rothenburg ob der Tauber station (connections via Steinach); short walk or bus into the old town. By car via A7, then local roads; park outside the walls and walk in. Also reachable by Romantic Road buses from other Franconian towns.",
+        "good_to_know": "Pick up the English Tower Trail brochure at Tourist Information, Marktplatz 2. Much of the wall walk is open around the clock as a footpath; watch uneven stones and steep drops. 2026 theme year: City.Landscape.Nature."
+      }
+    }
+  }
+}
