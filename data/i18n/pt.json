@@ -25,7 +25,7 @@
     "disclosure": "Como afiliados, podemos ganhar com reservas qualificadas.",
     "about_blurb": "<strong>Sobre o Stay or Stray.</strong> Deslize lugares reais e visitáveis — Ficar se você iria, Passar se pularia. As fotos são fotografias reais licenciadas (sem imagens de IA).",
     "legal_disclaimer": "O Stay or Stray oferece informações gerais apenas para entretenimento e referência — não é aconselhamento de viagem, segurança ou reservas — e não garante precisão ou completude. Só você decide onde visitar, o que reservar e como viajar. Links de terceiros de reservas, afiliados e suporte são externos e sujeitos aos próprios termos. Na máxima extensão permitida por lei, o Stay or Stray isenta-se de responsabilidade por resultados de viagem ou perdas decorrentes deste site ou da confiança em seu conteúdo.",
-    "credits_blurb": "Os créditos de amostra da fase 0 aparecem sob cada cartão. As atribuições completas estão em <code>data/hidden-gems.json</code> (licenças CC do Wikimedia Commons).",
+    "credits_blurb": "Os créditos das fotos aparecem sob cada cartão. As atribuições completas estão em <code>data/hidden-gems.json</code> (licenças CC do Wikimedia Commons).",
     "best_time": "Melhor época",
     "how_to_get_there": "Como chegar",
     "good_to_know": "Bom saber",
@@ -103,7 +103,7 @@
     "submit_why_placeholder": "Algumas frases sobre por que este lugar combina com a aba.",
     "submit_photo_placeholder": "Envie ou cole uma foto",
     "submit_status_ok": "Abrindo seu cliente de e-mail para {email}. Se nada abrir, copie o rascunho e envie manualmente.",
-    "klook_nearby": "O que fazer por perto",
+    "klook_nearby": "Encontre experiências no Klook",
     "klook_find": "Encontrar experiências →",
     "submit_sales_final": "Todas as vendas são finais. Sem reembolsos.",
     "submit_acks_legend": "Antes de pagar",
@@ -119,7 +119,8 @@
     "submit_status_attach": "Foto e JSON da submissão baixados. Anexe a foto baixada ao e-mail para {email} e envie.",
     "submit_status_sending": "Enviando sua submissão…",
     "submit_status_posted": "Submissão enviada. Também avisaremos {email}.",
-    "submit_status_post_failed": "Não foi possível alcançar o endpoint do formulário. Baixando foto + JSON e abrindo um rascunho mailto — anexe a foto baixada ao e-mail."
+    "submit_status_post_failed": "Não foi possível alcançar o endpoint do formulário. Baixando foto + JSON e abrindo um rascunho mailto — anexe a foto baixada ao e-mail.",
+    "klook_find_klook": "Encontre experiências no Klook"
   },
   "tabs": {
     "hidden-gems": "Joias Escondidas",

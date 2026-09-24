@@ -25,7 +25,7 @@
     "disclosure": "Als affiliate kunnen we verdienen aan kwalificerende boekingen.",
     "about_blurb": "<strong>Over Stay or Stray.</strong> Veeg echte, bezoekbare plekken — Blijven als je zou gaan, Voorbij als je overslaat. Foto’s zijn gelicentieerde echte foto’s (geen AI-beelden).",
     "legal_disclaimer": "Stay or Stray biedt uitsluitend algemene informatie voor entertainment en referentie; deze vormt geen reis-, veiligheids- of boekingsadvies en wij geven geen garantie voor juistheid of volledigheid. U beslist zelf welke bestemmingen u bezoekt, wat u boekt en hoe u reist. Externe links voor boekingen, affiliates en ondersteuning vallen onder hun eigen voorwaarden. Voor zover wettelijk toegestaan wijst Stay or Stray aansprakelijkheid af voor reisresultaten of schade door het gebruik van deze site of het vertrouwen op de inhoud ervan.",
-    "credits_blurb": "Fase 0-voorbeeldcredits staan onder elke kaart. Volledige toeschrijvingen staan in <code>data/hidden-gems.json</code> (Wikimedia Commons CC-licenties).",
+    "credits_blurb": "Fotocredits staan onder elke kaart. Volledige toeschrijvingen staan in <code>data/hidden-gems.json</code> (Wikimedia Commons CC-licenties).",
     "best_time": "Beste tijd",
     "how_to_get_there": "Hoe er te komen",
     "good_to_know": "Goed om te weten",
@@ -103,7 +103,7 @@
     "submit_why_placeholder": "Een paar zinnen over waarom deze plek bij de tab past.",
     "submit_photo_placeholder": "Upload of plak een foto",
     "submit_status_ok": "Je e-mailclient openen naar {email}. Opent er niets, kopieer de draft en stuur handmatig.",
-    "klook_nearby": "Dingen om te doen in de buurt",
+    "klook_nearby": "Belevenissen vinden op Klook",
     "klook_find": "Ervaringen vinden →",
     "submit_sales_final": "Alle verkopen zijn definitief. Geen restituties.",
     "submit_acks_legend": "Voor je betaalt",
@@ -119,7 +119,8 @@
     "submit_status_attach": "Je foto en indienings-JSON zijn gedownload. Voeg de gedownloade foto toe aan de e-mail naar {email} en verstuur.",
     "submit_status_sending": "Je inzending wordt verzonden…",
     "submit_status_posted": "Inzending verzonden. We melden het ook aan {email}.",
-    "submit_status_post_failed": "Formulier-endpoint niet bereikbaar. Foto + JSON worden gedownload en een mailto-concept wordt geopend — voeg de gedownloade foto toe aan de e-mail."
+    "submit_status_post_failed": "Formulier-endpoint niet bereikbaar. Foto + JSON worden gedownload en een mailto-concept wordt geopend — voeg de gedownloade foto toe aan de e-mail.",
+    "klook_find_klook": "Belevenissen vinden op Klook"
   },
   "tabs": {
     "hidden-gems": "Verborgen parels",

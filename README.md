@@ -1,4 +1,4 @@
-# Stay or Stray — Phase 0 static site
+# Stay or Stray — static site
 
 **Brand:** Stay or Stray  
 **Tagline:** Swipe a place. Stay or stray.
@@ -23,7 +23,7 @@ npx --yes serve -l 8080 .
 php -S localhost:8080
 ```
 
-## What’s in Phase 0
+## What’s in the site
 
 | Item | Status |
 |------|--------|
@@ -33,9 +33,9 @@ php -S localhost:8080
 | Ad slot “Find a stay in {name}” via `config/affiliates.js` | Done (placeholders) |
 | Footer disclosure + About + photo credits | Done |
 | `data/hidden-gems.json` — **3 real** Commons photos | Done |
-| Other tabs’ JSON | Empty `[]` (end-of-deck UI) |
+| Other tabs’ JSON | Live catalogs vary by tab (Hidden Gems ~100; Cities ~59; others ~20) — never invent cards |
 
-### Sample cards (Hidden Gems)
+### Example cards (Hidden Gems)
 
 | id | Place | Photo | License |
 |----|-------|-------|---------|

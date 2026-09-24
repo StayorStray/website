@@ -25,7 +25,7 @@
     "disclosure": "Como afiliados, podemos ganar con reservas que cumplan los requisitos.",
     "about_blurb": "<strong>Acerca de Stay or Stray.</strong> Desliza lugares reales y visitables — Quédate si irías, Pasa si lo saltas. Las fotos son fotografías reales con licencia (sin imágenes de IA).",
     "legal_disclaimer": "Stay or Stray ofrece información general solo con fines de entretenimiento y referencia —no constituye asesoramiento de viaje, seguridad ni reservas— y no garantiza su exactitud o integridad. Tú decides por tu cuenta qué destinos visitar, qué reservar y cómo viajar. Los enlaces externos de reservas, afiliación y asistencia están sujetos a sus propios términos. En la máxima medida permitida por la ley, Stay or Stray declina toda responsabilidad por los resultados del viaje o las pérdidas derivadas del uso de este sitio o de la confianza depositada en su contenido.",
-    "credits_blurb": "Los créditos de muestra de la fase 0 aparecen bajo cada tarjeta. Las atribuciones completas están en <code>data/hidden-gems.json</code> (licencias CC de Wikimedia Commons).",
+    "credits_blurb": "Los créditos de las fotos aparecen bajo cada tarjeta. Las atribuciones completas están en <code>data/hidden-gems.json</code> (licencias CC de Wikimedia Commons).",
     "best_time": "Mejor época",
     "how_to_get_there": "Cómo llegar",
     "good_to_know": "Bueno saber",
@@ -103,7 +103,7 @@
     "submit_why_placeholder": "Unas frases sobre por qué este lugar encaja en la pestaña.",
     "submit_photo_placeholder": "Sube o pega una foto",
     "submit_status_ok": "Abriendo tu cliente de correo hacia {email}. Si no se abre nada, copia el borrador y envíalo manualmente.",
-    "klook_nearby": "Qué hacer cerca",
+    "klook_nearby": "Descubre experiencias en Klook",
     "klook_find": "Buscar experiencias →",
     "submit_sales_final": "Todas las ventas son finales. No hay reembolsos.",
     "submit_acks_legend": "Antes de pagar",
@@ -119,7 +119,8 @@
     "submit_status_attach": "Se descargaron tu foto y el JSON de envío. Adjunta la foto descargada al correo a {email} y envíalo.",
     "submit_status_sending": "Enviando tu propuesta…",
     "submit_status_posted": "Propuesta enviada. También avisaremos a {email}.",
-    "submit_status_post_failed": "No se pudo contactar el endpoint del formulario. Descargando foto + JSON y abriendo un borrador mailto — adjunta la foto descargada al correo."
+    "submit_status_post_failed": "No se pudo contactar el endpoint del formulario. Descargando foto + JSON y abriendo un borrador mailto — adjunta la foto descargada al correo.",
+    "klook_find_klook": "Descubre experiencias en Klook"
   },
   "tabs": {
     "hidden-gems": "Joyas ocultas",

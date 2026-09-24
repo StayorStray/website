@@ -25,7 +25,7 @@
     "disclosure": "作为联盟推广方，我们可能从符合条件的预订中获得佣金。",
     "about_blurb": "<strong>关于 Stay or Stray。</strong>滑动真实可前往的地点 — 想去就留下，跳过就路过。照片均为授权实拍（无 AI 图像）。",
     "legal_disclaimer": "Stay or Stray 仅提供娱乐与参考用的一般信息——不构成旅行、安全或预订建议——且不对准确性或完整性作任何保证。去哪里、订什么、如何出行均由您自行决定。第三方预订、联盟与支持链接为外部链接，适用其各自条款。在法律允许的最大范围内，Stay or Stray 对因本网站或其内容信赖而产生的旅行结果或损失不承担责任。",
-    "credits_blurb": "第 0 阶段示例署名显示在每张卡片下方。完整出处见 <code>data/hidden-gems.json</code>（Wikimedia Commons CC 许可）。",
+    "credits_blurb": "每张卡片下方显示照片署名。完整出处见 <code>data/hidden-gems.json</code>（Wikimedia Commons CC 许可）。",
     "best_time": "最佳时间",
     "how_to_get_there": "如何到达",
     "good_to_know": "温馨提示",
@@ -103,7 +103,7 @@
     "submit_why_placeholder": "用几句话说明此地为何适合该标签。",
     "submit_photo_placeholder": "上传或粘贴照片",
     "submit_status_ok": "正在为 {email} 打开邮件客户端。若未打开，请复制草稿并手动发送。",
-    "klook_nearby": "附近可做的事",
+    "klook_nearby": "在 Klook 上寻找体验",
     "klook_find": "查找体验 →",
     "submit_sales_final": "所有销售均为最终成交。概不退款。",
     "submit_acks_legend": "付款前确认",
@@ -119,7 +119,8 @@
     "submit_status_attach": "已下载照片与提交 JSON。请将下载的照片附到发往 {email} 的邮件中再发送。",
     "submit_status_sending": "正在发送您的提交…",
     "submit_status_posted": "提交已发送。我们也会通知 {email}。",
-    "submit_status_post_failed": "无法连接表单接口。正在下载照片与 JSON 并打开 mailto 草稿 — 请将下载的照片附到邮件中。"
+    "submit_status_post_failed": "无法连接表单接口。正在下载照片与 JSON 并打开 mailto 草稿 — 请将下载的照片附到邮件中。",
+    "klook_find_klook": "在 Klook 上寻找体验"
   },
   "tabs": {
     "hidden-gems": "隐藏瑰宝",

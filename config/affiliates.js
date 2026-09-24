@@ -84,7 +84,8 @@
 
   function getKlookWidgetSrc() {
     const k = affiliates.klook;
-    return k && k.widgetSrc ? String(k.widgetSrc) : '';
+    if (k && k.widgetSrc) return String(k.widgetSrc);
+    return 'https://klook.tpx.gr/cVdJs2X5';
   }
 
   global.StayOrStrayAffiliates = {

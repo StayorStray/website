@@ -432,20 +432,27 @@
     return k && k.sidebarUrl ? String(k.sidebarUrl) : '';
   }
 
+  const KLOOK_WIDGET_FALLBACK = 'https://klook.tpx.gr/cVdJs2X5';
+
   function klookWidgetSrc() {
     const Aff = window.StayOrStrayAffiliates;
     if (Aff && typeof Aff.getKlookWidgetSrc === 'function') {
-      return Aff.getKlookWidgetSrc() || '';
+      return Aff.getKlookWidgetSrc() || KLOOK_WIDGET_FALLBACK;
     }
     const k = Aff && Aff.affiliates && Aff.affiliates.klook;
-    return k && k.widgetSrc ? String(k.widgetSrc) : '';
+    if (k && k.widgetSrc) return String(k.widgetSrc);
+    return KLOOK_WIDGET_FALLBACK;
   }
 
   function klookRailMarkup(variant) {
     const url = klookSidebarUrl();
     if (!url && !klookWidgetSrc()) return '';
     const cls = 'klook-rail klook-rail--' + (variant || 'desktop');
-    const nearby = t('klook_nearby') || 'Things to do nearby';
+    // city_id is fixed (not per-card); never claim "nearby" until a real city map exists.
+    const nearby =
+      t('klook_find_klook') ||
+      t('klook_nearby') ||
+      'Find experiences on Klook';
     const findExp = t('klook_find') || 'Find experiences →';
     const fallback = url
       ? '<a class="klook-cta klook-fallback" href="' +

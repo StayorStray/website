@@ -2,8 +2,9 @@
  * Stay or Stray — daily deck rotation + weekly image remix
  *
  * BoOnE rules (America/Chicago):
- *  - Each tab serves ONE set of up to 100 cards per calendar day.
- *  - Sets rotate daily (different 100 next day when inventory allows).
+ *  - Each tab serves ONE set of up to 100 cards per calendar day when inventory allows.
+ *  - Sets rotate daily (a different window next day when inventory allows).
+ *  - Tabs with fewer approved cards serve only what exists — never invent filler.
  *  - Weekly remix: re-partition / re-pair images across archive sets so
  *    no week's daily 100s are identical to a previous week's.
  *  - Until a tab has 100+ approved cards, use available inventory only

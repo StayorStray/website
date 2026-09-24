@@ -1,4 +1,4 @@
-# Stay or Stray — Phase 0 UX review
+# Stay or Stray — UX review
 
 **Reviewer:** Stay Frontend (workspace polish)  
 **Date:** 2026-09-20 (America/Chicago)  
@@ -49,7 +49,7 @@
 - Auditor sign-off (`qa.auditor_status` still `pending` on the 3 sample cards).
 - Real affiliate IDs in `config/affiliates.js` (placeholders expected).
 - Brand home / Origin repo under **stayorstray** org — HOLD; no GitHub push / CloudAgent from this pass.
-- Optional: dedicated About / Photo credits pages (anchors on Home are enough for Phase 0).
+- Optional: dedicated About / Photo credits pages (anchors on Home are enough for now).
 
 ## Smoke test (local)
 

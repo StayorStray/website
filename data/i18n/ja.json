@@ -25,7 +25,7 @@
     "disclosure": "アフィリエイトとして、対象となる予約から収益を得ることがあります。",
     "about_blurb": "<strong>Stay or Stray について。</strong>実際に訪れることができる場所をスワイプ — 行きたいなら「行く」、スキップするなら「パス」。写真はライセンス取得済みの実写です（AI画像なし）。",
     "legal_disclaimer": "Stay or Strayは、娯楽および参考目的に限り一般情報を提供するもので、旅行・安全・予約に関する助言ではなく、正確性や完全性を保証しません。訪問先、予約、旅行に関する判断はすべて利用者自身が行うものとします。予約・アフィリエイト・サポートに関する第三者リンクは外部サイトであり、それぞれの規約が適用されます。法律で認められる最大限の範囲で、Stay or Strayは、本サイトの利用または掲載内容への依拠から生じる旅行結果や損失について責任を負いません。",
-    "credits_blurb": "フェーズ0のサンプルクレジットは各カードの下に表示されます。完全な帰属情報は<code>data/hidden-gems.json</code>にあります（Wikimedia Commons CCライセンス）。",
+    "credits_blurb": "各カードの下に写真クレジットが表示されます。完全な帰属情報は<code>data/hidden-gems.json</code>にあります（Wikimedia Commons CCライセンス）。",
     "best_time": "ベストシーズン",
     "how_to_get_there": "アクセス",
     "good_to_know": "知っておくと便利",
@@ -103,7 +103,7 @@
     "submit_why_placeholder": "この場所がタブに合う理由を数文で。",
     "submit_photo_placeholder": "写真をアップロードまたは貼り付け",
     "submit_status_ok": "{email} 宛てにメールクライアントを開きます。開かない場合は下書きをコピーして手動で送信してください。",
-    "klook_nearby": "近くでできること",
+    "klook_nearby": "Klookで体験を探す",
     "klook_find": "体験を探す →",
     "submit_sales_final": "すべての販売は最終的です。返金はありません。",
     "submit_acks_legend": "お支払いの前に",
@@ -119,7 +119,8 @@
     "submit_status_attach": "写真と提出用 JSON をダウンロードしました。ダウンロードした写真を {email} 宛のメールに添付して送信してください。",
     "submit_status_sending": "提出内容を送信しています…",
     "submit_status_posted": "提出を送信しました。{email} にも通知します。",
-    "submit_status_post_failed": "フォームの送信先に届きませんでした。写真と JSON をダウンロードし mailto 下書きを開きます — ダウンロードした写真をメールに添付してください。"
+    "submit_status_post_failed": "フォームの送信先に届きませんでした。写真と JSON をダウンロードし mailto 下書きを開きます — ダウンロードした写真をメールに添付してください。",
+    "klook_find_klook": "Klookで体験を探す"
   },
   "tabs": {
     "hidden-gems": "隠れた名所",
