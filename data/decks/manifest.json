@@ -231,7 +231,7 @@
     "pubs": {
       "live_file": "data/pubs.json",
       "archive_dir": "data/decks/pubs/",
-      "approved_count": 20,
+      "approved_count": 40,
       "catalog_target": 100,
       "scale_target_met": false,
       "mvp_ready": true,
@@ -262,6 +262,33 @@
             "pubs-018",
             "pubs-019",
             "pubs-020"
+          ]
+        },
+        {
+          "id": "pubs-set-002",
+          "file": "set-002.json",
+          "status": "approved",
+          "card_ids": [
+            "pubs-021",
+            "pubs-022",
+            "pubs-023",
+            "pubs-024",
+            "pubs-025",
+            "pubs-026",
+            "pubs-027",
+            "pubs-028",
+            "pubs-029",
+            "pubs-030",
+            "pubs-031",
+            "pubs-032",
+            "pubs-033",
+            "pubs-034",
+            "pubs-035",
+            "pubs-036",
+            "pubs-037",
+            "pubs-038",
+            "pubs-039",
+            "pubs-040"
           ]
         }
       ],
