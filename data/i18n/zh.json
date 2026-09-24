@@ -80,7 +80,7 @@
     "home_country_aria": "所在国家",
     "category_aria": "分类",
     "geo_group_aria": "国内或国际",
-    "submit_intro": "提交一个真实可前往的地点。付款不等于上线 — 准确度审核员仍会在公开前审核每张卡片。置顶计时从上线时开始。",
+    "submit_intro": "提交一个真实可前往的地点。付款不等于上线 — 准确度审核员仍会在公开前审核每张卡片。即使卡片从未上线，所有销售均为最终成交。置顶计时从上线时开始。",
     "submit_place_name": "地点名称",
     "submit_country": "国家",
     "submit_city": "城市 / 地区",
@@ -96,7 +96,7 @@
     "submit_sku_hg": "Hidden Gems — $99 / 12 个月",
     "submit_pin_legend": "可选置顶",
     "submit_pin_cap": "视名额而定（每标签置顶上限 25）。置顶计时从上线开始，而非付款时。",
-    "submit_disclaimer": "已付款不等于已上线。准确度审核员在出现前审核每条刊登。付款另行确认；此表单会打开发往我们通知收件箱的邮件草稿。",
+    "submit_disclaimer": "已付款不等于已上线。准确度审核员在出现前审核每条刊登。所有销售均为最终成交 — 若卡片被拒或从未上线，概不退款。在接入 Stripe 之前，此表单会打开发往我们通知收件箱的邮件草稿。",
     "submit_send": "通过邮件提交",
     "submit_pin_line": "+$39 — 卡片上线后 7 天内保持在此标签前 25 位。",
     "submit_total": "预估合计：<strong>${total}</strong>",
@@ -104,7 +104,14 @@
     "submit_photo_placeholder": "粘贴照片 URL，或注明将通过邮件发送照片",
     "submit_status_ok": "正在为 {email} 打开邮件客户端。若未打开，请复制草稿并手动发送。",
     "klook_nearby": "附近可做的事",
-    "klook_find": "查找体验 →"
+    "klook_find": "查找体验 →",
+    "submit_sales_final": "所有销售均为最终成交。概不退款。",
+    "submit_acks_legend": "付款前确认",
+    "submit_agree_license": "我确认照片为授权实拍（非 AI）。",
+    "submit_agree_real_place": "我确认这是真实可前往的地点。",
+    "submit_agree_paid_listing": "我理解付款不等于上线 — 准确度审核员仍会审核卡片，无论结果如何费用均不退还。",
+    "submit_pay": "支付",
+    "submit_review_heading": "订单摘要"
   },
   "tabs": {
     "hidden-gems": "隐藏瑰宝",

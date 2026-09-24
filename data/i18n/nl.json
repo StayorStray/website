@@ -80,7 +80,7 @@
     "home_country_aria": "Thuisland",
     "category_aria": "Categorie",
     "geo_group_aria": "Binnenland of internationaal",
-    "submit_intro": "Stel een echte, bezoekbare plek voor. Betalen is niet hetzelfde als live — de Accuracy Auditor keurt elke kaart nog goed vóór publicatie. De pin-klok start bij go-live.",
+    "submit_intro": "Stel een echte, bezoekbare plek voor. Betalen is niet hetzelfde als live — de Accuracy Auditor keurt elke kaart nog goed vóór publicatie. Alle verkopen zijn definitief, ook als de kaart nooit live gaat. De pin-klok start bij go-live.",
     "submit_place_name": "Naam van de plek",
     "submit_country": "Land",
     "submit_city": "Stad / regio",
@@ -96,7 +96,7 @@
     "submit_sku_hg": "Verborgen parels — $99 / 12 maanden",
     "submit_pin_legend": "Optionele pin",
     "submit_pin_cap": "Onder voorbehoud van beschikbaarheid (max. 25 pins per tab). De pin-klok start bij go-live, niet bij betaling.",
-    "submit_disclaimer": "Betalen is niet hetzelfde als live. De Accuracy Auditor keurt elke listing goed voordat die verschijnt. Betaling wordt apart bevestigd; dit formulier opent een e-maildraft naar onze meldinbox.",
+    "submit_disclaimer": "Betalen is niet hetzelfde als live. De Accuracy Auditor keurt elke listing goed voordat die verschijnt. Alle verkopen zijn definitief — geen restitutie als de kaart wordt afgewezen of nooit live gaat. Dit formulier opent een e-maildraft naar onze meldinbox tot Stripe is aangesloten.",
     "submit_send": "Per e-mail versturen",
     "submit_pin_line": "+$39 — je kaart blijft 7 dagen na livegang in de eerste 25 van deze tab.",
     "submit_total": "Geschat totaal: <strong>${total}</strong>",
@@ -104,7 +104,14 @@
     "submit_photo_placeholder": "Plak een foto-URL, of vermeld dat je de foto per e-mail stuurt",
     "submit_status_ok": "Je e-mailclient openen naar {email}. Opent er niets, kopieer de draft en stuur handmatig.",
     "klook_nearby": "Dingen om te doen in de buurt",
-    "klook_find": "Ervaringen vinden →"
+    "klook_find": "Ervaringen vinden →",
+    "submit_sales_final": "Alle verkopen zijn definitief. Geen restituties.",
+    "submit_acks_legend": "Voor je betaalt",
+    "submit_agree_license": "Ik bevestig dat de foto een gelicentieerde echte foto is (geen AI).",
+    "submit_agree_real_place": "Ik bevestig dat dit een echte, bezoekbare plek is.",
+    "submit_agree_paid_listing": "Ik begrijp dat betalen niet hetzelfde is als live — de Accuracy Auditor keurt de kaart nog goed, en de kosten blijven in beide gevallen staan.",
+    "submit_pay": "Betalen",
+    "submit_review_heading": "Besteloverzicht"
   },
   "tabs": {
     "hidden-gems": "Verborgen parels",

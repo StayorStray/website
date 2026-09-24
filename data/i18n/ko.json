@@ -80,7 +80,7 @@
     "home_country_aria": "거주 국가",
     "category_aria": "카테고리",
     "geo_group_aria": "국내 또는 해외",
-    "submit_intro": "실제로 갈 수 있는 장소를 제안하세요. 결제만으로 공개되지 않습니다 — 정확성 감사자가 공개 전에 모든 카드를 검토합니다. 핀 시계는 공개 시점에 시작됩니다.",
+    "submit_intro": "실제로 갈 수 있는 장소를 제안하세요. 결제만으로 공개되지 않습니다 — 정확성 감사자가 공개 전에 모든 카드를 검토합니다. 카드가 공개되지 않아도 모든 판매는 최종입니다. 핀 시계는 공개 시점에 시작됩니다.",
     "submit_place_name": "장소 이름",
     "submit_country": "국가",
     "submit_city": "도시 / 지역",
@@ -96,7 +96,7 @@
     "submit_sku_hg": "Hidden Gems — $99 / 12개월",
     "submit_pin_legend": "선택 핀",
     "submit_pin_cap": "가용성에 따름(탭당 핀 25개 상한). 핀 시계는 결제가 아니라 공개 시점에 시작됩니다.",
-    "submit_disclaimer": "결제했다고 바로 공개되지 않습니다. 정확성 감사자가 게시 전에 모든 등록을 검토합니다. 결제는 별도 확인되며, 이 양식은 알림 수신함으로 이메일 초안을 엽니다.",
+    "submit_disclaimer": "결제했다고 바로 공개되지 않습니다. 정확성 감사자가 게시 전에 모든 등록을 검토합니다. 모든 판매는 최종입니다 — 카드가 거절되거나 공개되지 않아도 환불이 없습니다. Stripe 연동 전까지 이 양식은 알림 수신함으로 이메일 초안을 엽니다.",
     "submit_send": "이메일로 제출",
     "submit_pin_line": "+$39 — 카드가 공개된 후 7일 동안 이 탭의 상위 25개에 유지됩니다.",
     "submit_total": "예상 합계: <strong>${total}</strong>",
@@ -104,7 +104,14 @@
     "submit_photo_placeholder": "사진 URL을 붙여넣거나, 이메일로 사진을 보내겠다고 적으세요",
     "submit_status_ok": "{email}(으)로 이메일 클라이언트를 엽니다. 열리지 않으면 초안을 복사해 직접 보내세요.",
     "klook_nearby": "근처에서 할 일",
-    "klook_find": "체험 찾기 →"
+    "klook_find": "체험 찾기 →",
+    "submit_sales_final": "모든 판매는 최종입니다. 환불이 없습니다.",
+    "submit_acks_legend": "결제 전에",
+    "submit_agree_license": "사진이 라이선스 있는 실사(AI 아님)임을 확인합니다.",
+    "submit_agree_real_place": "실제로 갈 수 있는 장소임을 확인합니다.",
+    "submit_agree_paid_listing": "결제만으로 공개되지 않으며 정확성 감사자가 계속 카드를 검토하고, 어느 경우든 요금이 유지됨을 이해합니다.",
+    "submit_pay": "결제",
+    "submit_review_heading": "주문 요약"
   },
   "tabs": {
     "hidden-gems": "숨은 명소",

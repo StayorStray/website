@@ -80,7 +80,7 @@
     "home_country_aria": "País de origem",
     "category_aria": "Categoria",
     "geo_group_aria": "Nacional ou internacional",
-    "submit_intro": "Proponha um lugar real e visitável. Pagamento não significa publicação — o Auditor de Precisão ainda analisa cada cartão antes de ir ao ar. Os relógios de pin começam na publicação.",
+    "submit_intro": "Proponha um lugar real e visitável. Pagamento não significa publicação — o Auditor de Precisão ainda analisa cada cartão antes de ir ao ar. Todas as vendas são finais mesmo se o cartão nunca for publicado. Os relógios de pin começam na publicação.",
     "submit_place_name": "Nome do lugar",
     "submit_country": "País",
     "submit_city": "Cidade / região",
@@ -96,7 +96,7 @@
     "submit_sku_hg": "Hidden Gems — $99 / 12 meses",
     "submit_pin_legend": "Pin opcional",
     "submit_pin_cap": "Sujeito à disponibilidade (limite de 25 pins por aba). O relógio do pin começa na publicação, não no pagamento.",
-    "submit_disclaimer": "Pago não significa publicado. O Auditor de Precisão analisa cada anúncio antes de aparecer. O pagamento é confirmado à parte; este formulário abre um rascunho de e-mail para nossa caixa de notificação.",
+    "submit_disclaimer": "Pago não significa publicado. O Auditor de Precisão analisa cada anúncio antes de aparecer. Todas as vendas são finais — sem reembolsos se o cartão for rejeitado ou nunca for ao ar. Este formulário abre um rascunho de e-mail para nossa caixa de notificação até o Stripe ser ligado.",
     "submit_send": "Enviar por e-mail",
     "submit_pin_line": "+$39 — seu cartão permanece entre os 25 primeiros desta aba por 7 dias após a publicação.",
     "submit_total": "Total estimado: <strong>${total}</strong>",
@@ -104,7 +104,14 @@
     "submit_photo_placeholder": "Cole a URL de uma foto, ou anote que enviará a foto por e-mail",
     "submit_status_ok": "Abrindo seu cliente de e-mail para {email}. Se nada abrir, copie o rascunho e envie manualmente.",
     "klook_nearby": "O que fazer por perto",
-    "klook_find": "Encontrar experiências →"
+    "klook_find": "Encontrar experiências →",
+    "submit_sales_final": "Todas as vendas são finais. Sem reembolsos.",
+    "submit_acks_legend": "Antes de pagar",
+    "submit_agree_license": "Confirmo que a foto é uma fotografia real licenciada (sem IA).",
+    "submit_agree_real_place": "Confirmo que este é um lugar real e visitável.",
+    "submit_agree_paid_listing": "Entendo que pagamento não significa publicação — o Auditor de Precisão ainda analisa o cartão, e a cobrança permanece de qualquer forma.",
+    "submit_pay": "Pagar",
+    "submit_review_heading": "Resumo do pedido"
   },
   "tabs": {
     "hidden-gems": "Joias Escondidas",

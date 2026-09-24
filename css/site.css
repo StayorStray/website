@@ -1185,6 +1185,38 @@ body.list-panel-open { overflow: hidden; }
   min-width: 10rem;
   padding: 0 1.25rem;
 }
+.submit-review {
+  margin: 0.25rem 0 0;
+  padding: 0.85rem 0.95rem;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.03);
+  display: grid;
+  gap: 0.45rem;
+}
+.submit-review-heading {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+.submit-review-lines {
+  margin: 0;
+  padding-left: 1.1rem;
+  display: grid;
+  gap: 0.25rem;
+  font-size: 0.92rem;
+  line-height: 1.4;
+}
+.submit-sales-final {
+  margin: 0.15rem 0 0;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.4;
+}
+.submit-acks {
+  gap: 0.65rem;
+}
 
 .wheel-modal {
   position: fixed;

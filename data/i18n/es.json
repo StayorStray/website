@@ -80,7 +80,7 @@
     "home_country_aria": "País de residencia",
     "category_aria": "Categoría",
     "geo_group_aria": "Nacional o internacional",
-    "submit_intro": "Propón un lugar real y visitable. Pagar no equivale a publicar: el Accuracy Auditor sigue revisando cada tarjeta antes de que sea pública. El reloj del pin empieza al salir en vivo.",
+    "submit_intro": "Propón un lugar real y visitable. Pagar no equivale a publicar: el Accuracy Auditor sigue revisando cada tarjeta antes de que sea pública. Todas las ventas son finales aunque la tarjeta nunca se publique. El reloj del pin empieza al salir en vivo.",
     "submit_place_name": "Nombre del lugar",
     "submit_country": "País",
     "submit_city": "Ciudad / región",
@@ -96,7 +96,7 @@
     "submit_sku_hg": "Joyas ocultas — $99 / 12 meses",
     "submit_pin_legend": "Pin opcional",
     "submit_pin_cap": "Sujeto a disponibilidad (tope de 25 pines por pestaña). El reloj del pin empieza al salir en vivo, no al pagar.",
-    "submit_disclaimer": "Pagar no equivale a publicar. El Accuracy Auditor revisa cada anuncio antes de que aparezca. El pago se confirma por separado; este formulario abre un borrador de correo a nuestra bandeja de aviso.",
+    "submit_disclaimer": "Pagar no equivale a publicar. El Accuracy Auditor revisa cada anuncio antes de que aparezca. Todas las ventas son finales: no hay reembolsos si la tarjeta es rechazada o nunca se publica. Este formulario abre un borrador de correo a nuestra bandeja de aviso hasta que se conecte Stripe.",
     "submit_send": "Enviar por correo",
     "submit_pin_line": "+$39 — tu tarjeta permanece entre las 25 primeras de esta pestaña durante 7 días tras publicarse.",
     "submit_total": "Total estimado: <strong>${total}</strong>",
@@ -104,7 +104,14 @@
     "submit_photo_placeholder": "Pega la URL de una foto, o indica que enviarás la foto por correo",
     "submit_status_ok": "Abriendo tu cliente de correo hacia {email}. Si no se abre nada, copia el borrador y envíalo manualmente.",
     "klook_nearby": "Qué hacer cerca",
-    "klook_find": "Buscar experiencias →"
+    "klook_find": "Buscar experiencias →",
+    "submit_sales_final": "Todas las ventas son finales. No hay reembolsos.",
+    "submit_acks_legend": "Antes de pagar",
+    "submit_agree_license": "Confirmo que la foto es una fotografía real con licencia (sin IA).",
+    "submit_agree_real_place": "Confirmo que este es un lugar real y visitable.",
+    "submit_agree_paid_listing": "Entiendo que pagar no equivale a publicar: el Accuracy Auditor sigue revisando la tarjeta, y el cargo se mantiene en cualquier caso.",
+    "submit_pay": "Pagar",
+    "submit_review_heading": "Resumen del pedido"
   },
   "tabs": {
     "hidden-gems": "Joyas ocultas",

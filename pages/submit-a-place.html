@@ -37,7 +37,7 @@
 
     <section class="submit-place" aria-labelledby="submit-place-heading">
       <h1 id="submit-place-heading" class="deck-section-label">Submit a Place</h1>
-      <p class="submit-place-intro" data-i18n="submit_intro">Propose a real, visitable place. Payment does not equal live — the Accuracy Auditor still gates every card before it goes public. Pin clocks start at go-live.</p>
+      <p class="submit-place-intro" data-i18n="submit_intro">Propose a real, visitable place. Payment does not equal live — the Accuracy Auditor still gates every card before it goes public. All sales are final even if the card never goes live. Pin clocks start at go-live.</p>
 
       <form id="submit-place-form" class="submit-place-form" novalidate>
         <label class="submit-field">
@@ -79,7 +79,7 @@
 
         <label class="submit-field">
           <span class="submit-label" data-i18n="submit_photo">Photo URL or note</span>
-          <input type="text" id="place-photo" name="photo" class="submit-input" maxlength="400" placeholder="Paste a photo URL, or note that you will email the photo" data-i18n-placeholder="submit_photo_placeholder" />
+          <input type="text" id="place-photo" name="photo" class="submit-input" required maxlength="400" placeholder="Paste a photo URL, or note that you will email the photo" data-i18n-placeholder="submit_photo_placeholder" />
           <span class="submit-hint" data-i18n="submit_photo_hint">Licensed real photos only (no AI). If you have no URL, say you’ll email the file to the notify address after submit.</span>
         </label>
 
@@ -119,12 +119,39 @@
           <p class="submit-hint" data-i18n="submit_pin_cap">Subject to availability (25 pin cap per tab). Pin clock starts at go-live, not at payment.</p>
         </fieldset>
 
-        <p class="submit-total" id="submit-total" aria-live="polite">Estimated total: <strong>$39</strong></p>
+        <section class="submit-review" id="submit-review" aria-labelledby="submit-review-heading">
+          <h2 id="submit-review-heading" class="submit-review-heading" data-i18n="submit_review_heading">Order summary</h2>
+          <ul class="submit-review-lines" id="submit-review-lines">
+            <li id="submit-review-sku">Founding standard — $39</li>
+          </ul>
+          <p class="submit-total" id="submit-total" aria-live="polite">Estimated total: <strong>$39</strong></p>
+          <p class="submit-sales-final" id="submit-sales-final-summary" data-i18n="submit_sales_final">All sales are final. No refunds.</p>
+        </section>
 
-        <p class="submit-disclaimer" data-i18n="submit_disclaimer">Paid does not equal live. Accuracy Auditor gates every listing before it appears. Payment is confirmed separately; this form opens an email draft to our notify inbox.</p>
+        <fieldset class="submit-fieldset submit-acks">
+          <legend class="submit-label" data-i18n="submit_acks_legend">Before you pay</legend>
+          <label class="submit-check">
+            <input type="checkbox" id="ack-license" name="ack_license" value="1" required />
+            <span data-i18n="submit_agree_license">I confirm the photo is a licensed real photograph (no AI).</span>
+          </label>
+          <label class="submit-check">
+            <input type="checkbox" id="ack-real-place" name="ack_real_place" value="1" required />
+            <span data-i18n="submit_agree_real_place">I confirm this is a real, visitable place.</span>
+          </label>
+          <label class="submit-check">
+            <input type="checkbox" id="ack-paid-listing" name="ack_paid_listing" value="1" required />
+            <span data-i18n="submit_agree_paid_listing">I understand payment does not equal live — the Accuracy Auditor still gates the card, and the charge stays either way.</span>
+          </label>
+          <label class="submit-check">
+            <input type="checkbox" id="ack-sales-final" name="ack_sales_final" value="1" required />
+            <span data-i18n="submit_sales_final">All sales are final. No refunds.</span>
+          </label>
+        </fieldset>
+
+        <p class="submit-disclaimer" data-i18n="submit_disclaimer">Paid does not equal live. Accuracy Auditor gates every listing before it appears. All sales are final — no refunds if the card is rejected or never goes live. This form opens an email draft to our notify inbox until Stripe checkout is wired.</p>
 
         <div class="submit-actions">
-          <button type="submit" class="btn btn-stay" id="submit-place-btn" data-i18n="submit_send">Email submission</button>
+          <button type="submit" class="btn btn-stay" id="submit-place-btn" data-i18n="submit_pay" disabled>Pay</button>
         </div>
         <p class="submit-hint" id="submit-status" role="status" hidden></p>
       </form>
@@ -178,15 +205,81 @@
       var pin = document.getElementById('pin-7d');
       return pin && pin.checked ? Number(pin.getAttribute('data-price') || 0) : 0;
     }
-    function updateTotal() {
+    var payBtn = document.getElementById('submit-place-btn');
+    var reviewLines = document.getElementById('submit-review-lines');
+
+    function skuLabel() {
+      var checked = form.querySelector('input[name="sku"]:checked');
+      if (!checked) return '';
+      var span = checked.parentNode && checked.parentNode.querySelector('[data-i18n]');
+      if (span) return (span.textContent || '').trim();
+      var key = {
+        founding_standard: 'submit_sku_founding',
+        standard: 'submit_sku_standard',
+        hidden_gems: 'submit_sku_hg'
+      }[checked.value];
+      return key ? t(key) : checked.value;
+    }
+
+    function updateReview() {
       var total = skuPrice() + pinPrice();
-      if (!totalEl) return;
-      var i = i18n();
-      if (i && i.ready && i.ready()) {
-        totalEl.innerHTML = t('submit_total', { total: total });
-      } else {
-        totalEl.innerHTML = 'Estimated total: <strong>$' + total + '</strong>';
+      var pin = document.getElementById('pin-7d');
+      var lines = [];
+      lines.push(skuLabel());
+      if (pin && pin.checked) {
+        var pinSpan = pin.parentNode && pin.parentNode.querySelector('[data-i18n]');
+        lines.push(pinSpan ? (pinSpan.textContent || '').trim() : t('submit_pin_line'));
       }
+      if (reviewLines) {
+        reviewLines.innerHTML = lines.map(function (line) {
+          return '<li>' + line.replace(/</g, '&lt;') + '</li>';
+        }).join('');
+      }
+      if (totalEl) {
+        var i = i18n();
+        if (i && i.ready && i.ready()) {
+          totalEl.innerHTML = t('submit_total', { total: total });
+        } else {
+          totalEl.innerHTML = 'Estimated total: <strong>$' + total + '</strong>';
+        }
+      }
+      var salesEl = document.getElementById('submit-sales-final-summary');
+      if (salesEl) {
+        var i2 = i18n();
+        if (i2 && i2.ready && i2.ready()) {
+          salesEl.textContent = t('submit_sales_final');
+        }
+      }
+    }
+
+    function updateTotal() {
+      updateReview();
+    }
+
+    function fieldsFilled() {
+      var ids = ['place-name', 'place-country', 'place-city', 'place-why', 'place-photo', 'submitter-name', 'submitter-email'];
+      for (var i = 0; i < ids.length; i++) {
+        var el = document.getElementById(ids[i]);
+        if (!el || !(el.value || '').trim()) return false;
+      }
+      var tab = document.getElementById('place-tab');
+      if (!tab || !tab.value) return false;
+      var email = document.getElementById('submitter-email');
+      if (email && typeof email.checkValidity === 'function' && !email.checkValidity()) return false;
+      return !!form.querySelector('input[name="sku"]:checked');
+    }
+
+    function acksChecked() {
+      return ['ack-license', 'ack-real-place', 'ack-paid-listing', 'ack-sales-final'].every(function (id) {
+        var el = document.getElementById(id);
+        return el && el.checked;
+      });
+    }
+
+    function enablePay() {
+      var ok = fieldsFilled() && acksChecked();
+      if (payBtn) payBtn.disabled = !ok;
+      return ok;
     }
 
     function refreshTabOptions() {
@@ -200,11 +293,18 @@
     function applySubmitChrome() {
       refreshTabOptions();
       updateTotal();
+      enablePay();
       if (i18n() && i18n().applyChrome) i18n().applyChrome();
+      updateReview();
     }
 
-    form.addEventListener('change', updateTotal);
+    form.addEventListener('change', function () {
+      updateTotal();
+      enablePay();
+    });
+    form.addEventListener('input', enablePay);
     updateTotal();
+    enablePay();
     refreshTabOptions();
 
     if (i18n() && i18n().onChange) {
@@ -232,6 +332,10 @@
 
     form.addEventListener('submit', function (e) {
       e.preventDefault();
+      if (!enablePay()) {
+        if (!form.checkValidity()) form.reportValidity();
+        return;
+      }
       if (!form.checkValidity()) {
         form.reportValidity();
         return;
@@ -263,8 +367,9 @@
         'pin_7d: ' + (pin ? 'yes' : 'no'),
         'Estimated total (USD): $' + total,
         '',
+        'Acks: license=yes; real_place=yes; paid_listing=yes; sales_final=yes',
         'Note: paid does not equal live. Accuracy Auditor gates; pin clock starts at go-live.',
-        'Payment confirmed separately.'
+        'All sales are final. No refunds.'
       ].join('\n');
 
       var href =

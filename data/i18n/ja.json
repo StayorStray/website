@@ -80,7 +80,7 @@
     "home_country_aria": "居住国",
     "category_aria": "カテゴリー",
     "geo_group_aria": "国内または海外",
-    "submit_intro": "実際に訪れることができる場所を提案してください。支払い＝公開ではありません。Accuracy Auditor が公開前にすべてのカードを審査します。ピンの計測は公開時点から始まります。",
+    "submit_intro": "実際に訪れることができる場所を提案してください。支払い＝公開ではありません。Accuracy Auditor が公開前にすべてのカードを審査します。カードが公開されなくても、すべての販売は最終的です。ピンの計測は公開時点から始まります。",
     "submit_place_name": "場所の名前",
     "submit_country": "国",
     "submit_city": "都市 / 地域",
@@ -96,7 +96,7 @@
     "submit_sku_hg": "隠れた名所 — $99 / 12か月",
     "submit_pin_legend": "オプションのピン",
     "submit_pin_cap": "空きがある場合のみ（タブあたりピン上限25）。ピンの計測は支払い時ではなく公開時から始まります。",
-    "submit_disclaimer": "支払い＝公開ではありません。Accuracy Auditor が掲載前にすべてを審査します。支払いは別途確認され、このフォームは通知用受信箱へのメール下書きを開きます。",
+    "submit_disclaimer": "支払い＝公開ではありません。Accuracy Auditor が掲載前にすべてを審査します。すべての販売は最終的です — カードが却下されても公開されなくても返金はありません。Stripe 連携までは、このフォームが通知用受信箱へのメール下書きを開きます。",
     "submit_send": "メールで送信",
     "submit_pin_line": "+$39 — 公開後7日間、このタブの先頭25件にカードが表示されます。",
     "submit_total": "合計目安: <strong>${total}</strong>",
@@ -104,7 +104,14 @@
     "submit_photo_placeholder": "写真のURLを貼るか、メールで送ると書いてください",
     "submit_status_ok": "{email} 宛てにメールクライアントを開きます。開かない場合は下書きをコピーして手動で送信してください。",
     "klook_nearby": "近くでできること",
-    "klook_find": "体験を探す →"
+    "klook_find": "体験を探す →",
+    "submit_sales_final": "すべての販売は最終的です。返金はありません。",
+    "submit_acks_legend": "お支払いの前に",
+    "submit_agree_license": "写真がライセンス付きの実写であること（AI画像ではないこと）を確認します。",
+    "submit_agree_real_place": "実際に訪れることができる場所であることを確認します。",
+    "submit_agree_paid_listing": "支払い＝公開ではないこと、Accuracy Auditor が引き続きカードを審査すること、いずれの場合も料金は返金されないことを理解します。",
+    "submit_pay": "支払う",
+    "submit_review_heading": "注文内容の確認"
   },
   "tabs": {
     "hidden-gems": "隠れた名所",

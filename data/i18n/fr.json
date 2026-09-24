@@ -80,7 +80,7 @@
     "home_country_aria": "Pays de résidence",
     "category_aria": "Catégorie",
     "geo_group_aria": "National ou international",
-    "submit_intro": "Proposez un lieu réel et visitable. Payer ne signifie pas être en ligne — l’Accuracy Auditor valide encore chaque carte avant publication. Le compteur du pin démarre à la mise en ligne.",
+    "submit_intro": "Proposez un lieu réel et visitable. Payer ne signifie pas être en ligne — l’Accuracy Auditor valide encore chaque carte avant publication. Toutes les ventes sont définitives même si la carte n’est jamais mise en ligne. Le compteur du pin démarre à la mise en ligne.",
     "submit_place_name": "Nom du lieu",
     "submit_country": "Pays",
     "submit_city": "Ville / région",
@@ -96,7 +96,7 @@
     "submit_sku_hg": "Pépites cachées — $99 / 12 mois",
     "submit_pin_legend": "Pin optionnel",
     "submit_pin_cap": "Sous réserve de disponibilité (plafond de 25 pins par rubrique). Le compteur du pin démarre à la mise en ligne, pas au paiement.",
-    "submit_disclaimer": "Payer ne signifie pas être en ligne. L’Accuracy Auditor valide chaque annonce avant qu’elle n’apparaisse. Le paiement est confirmé séparément ; ce formulaire ouvre un brouillon d’e-mail vers notre boîte de notification.",
+    "submit_disclaimer": "Payer ne signifie pas être en ligne. L’Accuracy Auditor valide chaque annonce avant qu’elle n’apparaisse. Toutes les ventes sont définitives — aucun remboursement si la carte est refusée ou n’est jamais mise en ligne. Ce formulaire ouvre un brouillon d’e-mail vers notre boîte de notification jusqu’à ce que Stripe soit branché.",
     "submit_send": "Envoyer par e-mail",
     "submit_pin_line": "+$39 — votre carte reste dans les 25 premières de cette rubrique pendant 7 jours après sa mise en ligne.",
     "submit_total": "Total estimé : <strong>${total}</strong>",
@@ -104,7 +104,14 @@
     "submit_photo_placeholder": "Collez l’URL d’une photo, ou indiquez que vous enverrez la photo par e-mail",
     "submit_status_ok": "Ouverture de votre client e-mail vers {email}. Si rien ne s’ouvre, copiez le brouillon et envoyez-le manuellement.",
     "klook_nearby": "À faire à proximité",
-    "klook_find": "Trouver des expériences →"
+    "klook_find": "Trouver des expériences →",
+    "submit_sales_final": "Toutes les ventes sont définitives. Aucun remboursement.",
+    "submit_acks_legend": "Avant de payer",
+    "submit_agree_license": "Je confirme que la photo est une photographie réelle sous licence (pas d’IA).",
+    "submit_agree_real_place": "Je confirme qu’il s’agit d’un lieu réel et visitable.",
+    "submit_agree_paid_listing": "Je comprends que payer ne signifie pas être en ligne — l’Accuracy Auditor valide encore la carte, et le paiement reste dû dans tous les cas.",
+    "submit_pay": "Payer",
+    "submit_review_heading": "Récapitulatif"
   },
   "tabs": {
     "hidden-gems": "Pépites cachées",
