@@ -104,24 +104,24 @@
         <fieldset class="submit-fieldset">
           <legend class="submit-label" data-i18n="submit_sku_legend">Listing SKU</legend>
           <label class="submit-radio">
-            <input type="radio" name="sku" value="founding_standard" data-price="39" checked />
-            <span data-i18n="submit_sku_founding">Founding standard — $39 (year 1), then $49/year</span>
+            <input type="radio" name="sku" value="founding_standard" data-price="39.99" checked />
+            <span data-i18n="submit_sku_founding">Founding standard — $39.99 (year 1, one-time). Renewal is a separate purchase at the standard rate.</span>
           </label>
           <label class="submit-radio">
-            <input type="radio" name="sku" value="standard" data-price="49" />
-            <span data-i18n="submit_sku_standard">Standard listing — $49/year</span>
+            <input type="radio" name="sku" value="standard" data-price="49.99" />
+            <span data-i18n="submit_sku_standard">Standard listing — $49.99/year</span>
           </label>
           <label class="submit-radio">
-            <input type="radio" name="sku" value="hidden_gems" data-price="99" />
-            <span data-i18n="submit_sku_hg">Hidden Gems — $99 / 12 months</span>
+            <input type="radio" name="sku" value="hidden_gems" data-price="99.99" />
+            <span data-i18n="submit_sku_hg">Hidden Gems — $99.99 / 12 months</span>
           </label>
         </fieldset>
 
         <fieldset class="submit-fieldset submit-pin">
           <legend class="submit-label" data-i18n="submit_pin_legend">Optional pin</legend>
           <label class="submit-check">
-            <input type="checkbox" id="pin-7d" name="pin_7d" value="1" data-price="39" />
-            <span data-i18n="submit_pin_line">+$39 — your card stays in this tab’s first 25 for 7 days after it goes live.</span>
+            <input type="checkbox" id="pin-7d" name="pin_7d" value="1" data-price="39.99" />
+            <span data-i18n="submit_pin_line">+$39.99 — your card stays in this tab’s first 25 for 7 days after it goes live.</span>
           </label>
           <p class="submit-hint" data-i18n="submit_pin_cap">Subject to availability (25 pin cap per tab). Pin clock starts at go-live, not at payment.</p>
         </fieldset>
@@ -129,9 +129,9 @@
         <section class="submit-review" id="submit-review" aria-labelledby="submit-review-heading">
           <h2 id="submit-review-heading" class="submit-review-heading" data-i18n="submit_review_heading">Order summary</h2>
           <ul class="submit-review-lines" id="submit-review-lines">
-            <li id="submit-review-sku">Founding standard — $39</li>
+            <li id="submit-review-sku">Founding standard — $39.99</li>
           </ul>
-          <p class="submit-total" id="submit-total" aria-live="polite">Estimated total: <strong>$39</strong></p>
+          <p class="submit-total" id="submit-total" aria-live="polite">Estimated total: <strong>$39.99</strong></p>
           <p class="submit-sales-final" id="submit-sales-final-summary" data-i18n="submit_sales_final">All sales are final. No refunds.</p>
         </section>
 
@@ -259,9 +259,9 @@
       if (totalEl) {
         var i = i18n();
         if (i && i.ready && i.ready()) {
-          totalEl.innerHTML = t('submit_total', { total: total });
+          totalEl.innerHTML = t('submit_total', { total: '$' + Number(total).toFixed(2) });
         } else {
-          totalEl.innerHTML = 'Estimated total: <strong>$' + total + '</strong>';
+          totalEl.innerHTML = 'Estimated total: <strong>$' + Number(total).toFixed(2) + '</strong>';
         }
       }
       var salesEl = document.getElementById('submit-sales-final-summary');
@@ -543,7 +543,7 @@
         'Submitter email: ' + payload.submitter_email,
         'SKU: ' + payload.sku,
         'pin_7d: ' + payload.pin_7d,
-        'Estimated total (USD): $' + payload.estimated_total_usd,
+        'Estimated total (USD): $' + Number(payload.estimated_total_usd).toFixed(2),
         '',
         'Acks: ' + payload.acks,
         'Note: paid does not equal live. Accuracy Auditor gates; pin clock starts at go-live.',
