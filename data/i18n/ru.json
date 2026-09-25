@@ -118,8 +118,8 @@
     "submit_photo_error_required": "Добавьте фото (загрузка или вставка) перед оплатой.",
     "submit_status_attach": "Скачаны фото и JSON заявки. Прикрепите скачанное фото к письму на {email} и отправьте.",
     "submit_status_sending": "Отправляем заявку…",
-    "submit_status_posted": "Заявка отправлена. Мы также уведомим {email}.",
-    "submit_status_post_failed": "Не удалось связаться с endpoint формы. Скачиваем фото + JSON и открываем mailto — прикрепите скачанное фото к письму.",
+    "submit_status_posted": "Отправлено во входящие хоста.",
+    "submit_status_post_failed": "Formspree не принял фото — скачайте и прикрепите к письму. (HTTP {status})",
     "klook_find_klook": "Найти впечатления на Klook"
   },
   "tabs": {

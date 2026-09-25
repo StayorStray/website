@@ -599,7 +599,7 @@
       }
     }
 
-        function fallbackDownloadAndMailto(payload) {
+    function fallbackDownloadAndMailto(payload, statusMsg) {
       var base = 'stay-or-stray-submit-' + slugify(payload.place_name);
       var ext = OK_TYPES[selectedPhoto.type] || 'png';
       var photoName = selectedPhoto.name || (base + '.' + ext);
@@ -619,38 +619,65 @@
 
       if (statusEl) {
         statusEl.hidden = false;
-        statusEl.textContent = t('submit_status_attach', { email: NOTIFY });
+        statusEl.textContent = statusMsg || t('submit_status_attach', { email: NOTIFY });
       }
       launchMailto(href);
     }
 
-    function postFormData(endpoint, payload) {
+    function buildFormData(payload, includePhoto) {
       var fd = new FormData();
       Object.keys(payload).forEach(function (k) {
         fd.append(k, String(payload[k]));
       });
-      fd.append('photo', selectedPhoto, selectedPhoto.name || 'photo.jpg');
+      if (includePhoto && selectedPhoto) {
+        fd.append('photo', selectedPhoto, selectedPhoto.name || 'photo.jpg');
+        fd.append('upload', selectedPhoto, selectedPhoto.name || 'photo.jpg');
+      }
+      return fd;
+    }
+
+    function postOnce(endpoint, payload, includePhoto) {
+      return fetch(endpoint, {
+        method: 'POST',
+        headers: { Accept: 'application/json' },
+        body: buildFormData(payload, includePhoto),
+        credentials: 'omit'
+      }).then(function (res) {
+        return res.text().then(function (text) {
+          var detail = '';
+          try {
+            var j = JSON.parse(text);
+            if (j && j.error) detail = String(j.error);
+            else if (j && j.errors && j.errors[0] && j.errors[0].message) detail = String(j.errors[0].message);
+          } catch (e) {}
+          return { ok: res.ok, status: res.status, detail: detail, body: text };
+        });
+      });
+    }
+
+    function postFormData(endpoint, payload) {
       if (payBtn) payBtn.disabled = true;
       if (statusEl) {
         statusEl.hidden = false;
         statusEl.textContent = t('submit_status_sending');
       }
-      return fetch(endpoint, {
-        method: 'POST',
-        headers: { Accept: 'application/json' },
-        body: fd,
-        credentials: 'omit'
-      })
-        .then(function (res) {
-          if (!res.ok) throw new Error('HTTP ' + res.status);
-          if (statusEl) statusEl.textContent = t('submit_status_posted', { email: NOTIFY });
-        })
-        .catch(function () {
-          if (statusEl) {
-            statusEl.textContent = t('submit_status_post_failed');
+      // Primary path: FormData POST (with photo) to Formspree. Never download before this returns.
+      return postOnce(endpoint, payload, true)
+        .then(function (result) {
+          if (result.ok) {
+            if (statusEl) statusEl.textContent = t('submit_status_posted');
+            return;
           }
-          // Never drop the picture — fall back to download + mailto
-          fallbackDownloadAndMailto(payload);
+          console.warn('[Stay or Stray Submit] Formspree POST failed', result.status, result.detail || result.body);
+          var failMsg = t('submit_status_post_failed', { status: String(result.status || 'error') });
+          if (result.detail) failMsg = failMsg + ' (' + result.detail + ')';
+          // Never drop the picture — download + mailto only after a failed POST
+          fallbackDownloadAndMailto(payload, failMsg);
+        })
+        .catch(function (err) {
+          console.warn('[Stay or Stray Submit] Formspree network error', err);
+          var failMsg = t('submit_status_post_failed', { status: 'network' });
+          fallbackDownloadAndMailto(payload, failMsg);
         })
         .then(function () {
           enablePay();
@@ -669,15 +696,17 @@
         return;
       }
       var payload = collectPayload();
-      var endpoint = (cfg.formEndpoint || '').trim();
+      // Always re-read live config — formEndpoint is set in config/submit.js
+      var live = window.SOS_SUBMIT || cfg || {};
+      var endpoint = String(live.formEndpoint || cfg.formEndpoint || '').trim();
       if (isUsableEndpoint(endpoint)) {
         postFormData(endpoint, payload);
       } else {
-        fallbackDownloadAndMailto(payload);
+        console.warn('[Stay or Stray Submit] formEndpoint missing or unusable:', endpoint);
+        fallbackDownloadAndMailto(payload, t('submit_status_post_failed', { status: 'no-endpoint' }));
       }
     });
   })();
-  </script>
   </script>
 </body>
 </html>

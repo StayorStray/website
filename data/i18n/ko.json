@@ -118,8 +118,8 @@
     "submit_photo_error_required": "결제 전에 사진을 추가하세요(업로드 또는 붙여넣기).",
     "submit_status_attach": "사진과 제출 JSON을 다운로드했습니다. 다운로드한 사진을 {email} 메일에 첨부한 뒤 보내세요.",
     "submit_status_sending": "제출 내용을 보내는 중…",
-    "submit_status_posted": "제출이 전송되었습니다. {email}에도 알립니다.",
-    "submit_status_post_failed": "양식 엔드포인트에 연결할 수 없습니다. 사진과 JSON을 다운로드하고 mailto 초안을 엽니다 — 다운로드한 사진을 메일에 첨부하세요.",
+    "submit_status_posted": "호스트 받은편지함으로 제출되었습니다.",
+    "submit_status_post_failed": "Formspree가 사진을 받지 않았습니다 — 다운로드한 뒤 메일에 첨부하세요. (HTTP {status})",
     "klook_find_klook": "Klook에서 체험 찾기"
   },
   "tabs": {

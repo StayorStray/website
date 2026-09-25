@@ -118,8 +118,8 @@
     "submit_photo_error_required": "Voeg een foto toe (uploaden of plakken) vóór je betaalt.",
     "submit_status_attach": "Je foto en indienings-JSON zijn gedownload. Voeg de gedownloade foto toe aan de e-mail naar {email} en verstuur.",
     "submit_status_sending": "Je inzending wordt verzonden…",
-    "submit_status_posted": "Inzending verzonden. We melden het ook aan {email}.",
-    "submit_status_post_failed": "Formulier-endpoint niet bereikbaar. Foto + JSON worden gedownload en een mailto-concept wordt geopend — voeg de gedownloade foto toe aan de e-mail.",
+    "submit_status_posted": "Verzonden naar de inbox van de host.",
+    "submit_status_post_failed": "Formspree heeft de foto niet geaccepteerd — download en voeg toe aan de e-mail. (HTTP {status})",
     "klook_find_klook": "Belevenissen vinden op Klook"
   },
   "tabs": {

@@ -118,8 +118,8 @@
     "submit_photo_error_required": "支払い前に写真を追加してください（アップロードまたは貼り付け）。",
     "submit_status_attach": "写真と提出用 JSON をダウンロードしました。ダウンロードした写真を {email} 宛のメールに添付して送信してください。",
     "submit_status_sending": "提出内容を送信しています…",
-    "submit_status_posted": "提出を送信しました。{email} にも通知します。",
-    "submit_status_post_failed": "フォームの送信先に届きませんでした。写真と JSON をダウンロードし mailto 下書きを開きます — ダウンロードした写真をメールに添付してください。",
+    "submit_status_posted": "ホストの受信箱に送信しました。",
+    "submit_status_post_failed": "Formspree が写真を受け付けませんでした — ダウンロードしてメールに添付してください。(HTTP {status})",
     "klook_find_klook": "Klookで体験を探す"
   },
   "tabs": {

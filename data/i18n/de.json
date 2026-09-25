@@ -118,8 +118,8 @@
     "submit_photo_error_required": "Fügen Sie vor dem Bezahlen ein Foto hinzu (Hochladen oder Einfügen).",
     "submit_status_attach": "Foto und Einreichungs-JSON wurden heruntergeladen. Hängen Sie das heruntergeladene Foto an die E-Mail an {email} an und senden Sie sie.",
     "submit_status_sending": "Ihre Einreichung wird gesendet…",
-    "submit_status_posted": "Einreichung gesendet. Wir benachrichtigen auch {email}.",
-    "submit_status_post_failed": "Formular-Endpunkt nicht erreichbar. Foto + JSON werden heruntergeladen und ein Mailto-Entwurf geöffnet — hängen Sie das heruntergeladene Foto an die E-Mail an.",
+    "submit_status_posted": "An den Posteingang des Hosts gesendet.",
+    "submit_status_post_failed": "Formspree hat das Foto nicht akzeptiert — herunterladen und an die E-Mail anhängen. (HTTP {status})",
     "klook_find_klook": "Erlebnisse auf Klook finden"
   },
   "tabs": {

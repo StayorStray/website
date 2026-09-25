@@ -118,8 +118,8 @@
     "submit_photo_error_required": "Add a photo (upload or paste) before paying.",
     "submit_status_attach": "Downloaded your photo and submission JSON. Attach the downloaded photo to the email to {email}, then send.",
     "submit_status_sending": "Sending your submission…",
-    "submit_status_posted": "Submission sent. We will also notify {email}.",
-    "submit_status_post_failed": "Could not reach the form endpoint. Downloading your photo + JSON and opening a mailto draft instead — attach the downloaded photo to the email.",
+    "submit_status_posted": "Submitted to the host inbox.",
+    "submit_status_post_failed": "Formspree did not accept the photo — download and attach to the email. (HTTP {status})",
     "klook_find_klook": "Find experiences on Klook"
   },
   "tabs": {

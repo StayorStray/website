@@ -118,8 +118,8 @@
     "submit_photo_error_required": "Ajoutez une photo (téléversement ou collage) avant de payer.",
     "submit_status_attach": "Photo et JSON de soumission téléchargés. Joignez la photo téléchargée à l’e-mail pour {email}, puis envoyez.",
     "submit_status_sending": "Envoi de votre proposition…",
-    "submit_status_posted": "Proposition envoyée. Nous notifierons aussi {email}.",
-    "submit_status_post_failed": "Impossible de joindre le point de terminaison. Téléchargement de la photo + JSON et ouverture d’un brouillon mailto — joignez la photo téléchargée à l’e-mail.",
+    "submit_status_posted": "Envoyé dans la boîte de réception de l’hôte.",
+    "submit_status_post_failed": "Formspree n’a pas accepté la photo — téléchargez-la et joignez-la à l’e-mail. (HTTP {status})",
     "klook_find_klook": "Trouver des expériences sur Klook"
   },
   "tabs": {

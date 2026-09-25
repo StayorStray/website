@@ -118,8 +118,8 @@
     "submit_photo_error_required": "Adicione uma foto (enviar ou colar) antes de pagar.",
     "submit_status_attach": "Foto e JSON da submissão baixados. Anexe a foto baixada ao e-mail para {email} e envie.",
     "submit_status_sending": "Enviando sua submissão…",
-    "submit_status_posted": "Submissão enviada. Também avisaremos {email}.",
-    "submit_status_post_failed": "Não foi possível alcançar o endpoint do formulário. Baixando foto + JSON e abrindo um rascunho mailto — anexe a foto baixada ao e-mail.",
+    "submit_status_posted": "Enviado para a caixa de entrada do host.",
+    "submit_status_post_failed": "O Formspree não aceitou a foto — baixe e anexe ao e-mail. (HTTP {status})",
     "klook_find_klook": "Encontre experiências no Klook"
   },
   "tabs": {
