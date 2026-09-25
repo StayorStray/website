@@ -1,15 +1,13 @@
 /**
  * Stay or Stray — Submit a Place notify / checkout config (browser)
  *
- * formEndpoint: leave empty until Formspree (or other intake) arrives.
- * Empty/placeholder → client downloads the photo + JSON and opens mailto
- * (user must attach the downloaded photo). Real URL → FormData POST with image.
+ * formEndpoint: Formspree intake URL. FormData POSTs include the submission photo.
  *
- * stripePk: TEST publishable key only. Never put sk_ secret keys in this repo.
+ * stripePk: TEST publishable key only. Never put Stripe secret keys in this repo.
  * prices: Stripe TEST Price IDs (BoOnE 2026-09-24 prices.csv).
  *
  * Checkout: Stripe removed client-only redirectToCheckout (2025-09-30). Opening
- * Checkout now needs a server-created Session (sk_ on a backend) or Payment Links /
+ * Checkout now needs a server-created Session (with a secret key on a backend) or Payment Links /
  * Buy Buttons. Pay stays on the download+mailto / formEndpoint fallback until a
  * session endpoint exists. successUrl / cancelUrl are this same Submit page.
  */
@@ -17,7 +15,7 @@
   'use strict';
   var SUBMIT_PAGE = 'https://stayorstray.github.io/website/pages/submit-a-place.html';
   global.SOS_SUBMIT = {
-    formEndpoint: '',
+    formEndpoint: 'https://formspree.io/f/xkjgzpky',
     notifyEmail: 'xrhgrokbot@outlook.com',
     stripePk:
       'pk_test_51UGihKECBucDnUAXqcNPul5dkTzcepB6ORnogeRFzb7cUt0XbU3TNLkEWam2vB6DCMueus6jvxVbsaTQqCoz9QW800i1XoTJW6',

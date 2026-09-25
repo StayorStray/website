@@ -516,18 +516,24 @@
         place_name: place,
         country: country,
         city: city,
+        region: '',
         tab: tab,
-        why: why,
+        title: place,
+        headline: place,
+        why_stay: why,
+        best_time: '',
+        how_to_get_there: '',
+        good_to_know: '',
         submitter_name: name,
+        email: email,
+        _replyto: email,
         submitter_email: email,
         sku: sku,
         pin_7d: pin ? 'yes' : 'no',
-        estimated_total_usd: total,
-        photo_name: selectedPhoto ? (selectedPhoto.name || 'photo') : '',
-        photo_type: selectedPhoto ? (selectedPhoto.type || '') : '',
-        photo_size: selectedPhoto ? selectedPhoto.size : 0,
+        estimated_total: Number(total).toFixed(2),
+        _subject: 'Stay or Stray submission: ' + place,
         acks: 'license=yes; real_place=yes; paid_listing=yes',
-        notify_email: NOTIFY
+        sales_final: 'All sales are final. No refunds.'
       };
     }
 
@@ -537,17 +543,17 @@
         'Country: ' + payload.country,
         'City / region: ' + payload.city,
         'Tab: ' + payload.tab,
-        'Why it belongs: ' + payload.why,
-        'Photo file: ' + payload.photo_name + ' (' + payload.photo_type + ', ' + payload.photo_size + ' bytes)',
+        'Why it belongs: ' + payload.why_stay,
+        'Photo file: ' + (selectedPhoto ? (selectedPhoto.name || 'photo') : '') + ' (' + (selectedPhoto ? (selectedPhoto.type || '') : '') + ', ' + (selectedPhoto ? selectedPhoto.size : 0) + ' bytes)',
         'Submitter name: ' + payload.submitter_name,
         'Submitter email: ' + payload.submitter_email,
         'SKU: ' + payload.sku,
         'pin_7d: ' + payload.pin_7d,
-        'Estimated total (USD): $' + Number(payload.estimated_total_usd).toFixed(2),
+        'Estimated total (USD): $' + payload.estimated_total,
         '',
         'Acks: ' + payload.acks,
         'Note: paid does not equal live. Accuracy Auditor gates; pin clock starts at go-live.',
-        'All sales are final. No refunds.',
+        payload.sales_final,
         '',
         'IMPORTANT: Attach the downloaded photo file to this email before sending.'
       ].join('\n');
@@ -629,7 +635,12 @@
         statusEl.hidden = false;
         statusEl.textContent = t('submit_status_sending');
       }
-      return fetch(endpoint, { method: 'POST', body: fd, credentials: 'omit' })
+      return fetch(endpoint, {
+        method: 'POST',
+        headers: { Accept: 'application/json' },
+        body: fd,
+        credentials: 'omit'
+      })
         .then(function (res) {
           if (!res.ok) throw new Error('HTTP ' + res.status);
           if (statusEl) statusEl.textContent = t('submit_status_posted', { email: NOTIFY });
