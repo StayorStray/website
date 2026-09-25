@@ -120,7 +120,8 @@
     "submit_status_sending": "Envoi de votre proposition…",
     "submit_status_posted": "Envoyé dans la boîte de réception de l’hôte.",
     "submit_status_post_failed": "Basin n’a pas accepté la photo — téléchargez-la et joignez-la à l’e-mail. (HTTP {status})",
-    "klook_find_klook": "Trouver des expériences sur Klook"
+    "klook_find_klook": "Trouver des expériences sur Klook",
+    "submit_status_basin_rejected": "Basin n’a pas enregistré l’envoi — {detail} (HTTP {status}). Téléchargez la photo et joignez-la à l’e-mail."
   },
   "tabs": {
     "hidden-gems": "Pépites cachées",
@@ -578,4 +579,4 @@
       }
     }
   }
-}
+}\n

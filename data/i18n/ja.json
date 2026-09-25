@@ -120,7 +120,8 @@
     "submit_status_sending": "提出内容を送信しています…",
     "submit_status_posted": "ホストの受信箱に送信しました。",
     "submit_status_post_failed": "Basin が写真を受け付けませんでした — ダウンロードしてメールに添付してください。(HTTP {status})",
-    "klook_find_klook": "Klookで体験を探す"
+    "klook_find_klook": "Klookで体験を探す",
+    "submit_status_basin_rejected": "Basin が送信を保存しませんでした — {detail} (HTTP {status})。写真をダウンロードしてメールに添付してください。"
   },
   "tabs": {
     "hidden-gems": "隠れた名所",
@@ -578,4 +579,4 @@
       }
     }
   }
-}
+}\n

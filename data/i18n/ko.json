@@ -120,7 +120,8 @@
     "submit_status_sending": "제출 내용을 보내는 중…",
     "submit_status_posted": "호스트 받은편지함으로 제출되었습니다.",
     "submit_status_post_failed": "Basin이 사진을 받지 않았습니다 — 다운로드한 뒤 메일에 첨부하세요. (HTTP {status})",
-    "klook_find_klook": "Klook에서 체험 찾기"
+    "klook_find_klook": "Klook에서 체험 찾기",
+    "submit_status_basin_rejected": "Basin이 제출을 저장하지 않았습니다 — {detail} (HTTP {status}). 사진을 다운로드해 메일에 첨부하세요."
   },
   "tabs": {
     "hidden-gems": "숨은 명소",
@@ -578,4 +579,4 @@
       }
     }
   }
-}
+}\n

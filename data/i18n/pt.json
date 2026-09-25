@@ -120,7 +120,8 @@
     "submit_status_sending": "Enviando sua submissão…",
     "submit_status_posted": "Enviado para a caixa de entrada do host.",
     "submit_status_post_failed": "O Basin não aceitou a foto — baixe e anexe ao e-mail. (HTTP {status})",
-    "klook_find_klook": "Encontre experiências no Klook"
+    "klook_find_klook": "Encontre experiências no Klook",
+    "submit_status_basin_rejected": "Basin não armazenou o envio — {detail} (HTTP {status}). Baixe a foto e anexe ao e-mail."
   },
   "tabs": {
     "hidden-gems": "Joias Escondidas",
@@ -578,4 +579,4 @@
       }
     }
   }
-}
+}\n

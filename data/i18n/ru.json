@@ -120,7 +120,8 @@
     "submit_status_sending": "Отправляем заявку…",
     "submit_status_posted": "Отправлено во входящие хоста.",
     "submit_status_post_failed": "Basin не принял фото — скачайте и прикрепите к письму. (HTTP {status})",
-    "klook_find_klook": "Найти впечатления на Klook"
+    "klook_find_klook": "Найти впечатления на Klook",
+    "submit_status_basin_rejected": "Basin не сохранил заявку — {detail} (HTTP {status}). Скачайте фото и прикрепите к письму."
   },
   "tabs": {
     "hidden-gems": "Скрытые жемчужины",
@@ -578,4 +579,4 @@
       }
     }
   }
-}
+}\n

@@ -120,7 +120,8 @@
     "submit_status_sending": "Enviando tu propuesta…",
     "submit_status_posted": "Enviado a la bandeja del anfitrión.",
     "submit_status_post_failed": "Basin no aceptó la foto — descárgala y adjúntala al correo. (HTTP {status})",
-    "klook_find_klook": "Descubre experiencias en Klook"
+    "klook_find_klook": "Descubre experiencias en Klook",
+    "submit_status_basin_rejected": "Basin no guardó el envío — {detail} (HTTP {status}). Descarga la foto y adjúntala al correo."
   },
   "tabs": {
     "hidden-gems": "Joyas ocultas",
@@ -578,4 +579,4 @@
       }
     }
   }
-}
+}\n

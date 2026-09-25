@@ -636,6 +636,51 @@
       return fd;
     }
 
+    function parseBasinBody(text) {
+      if (!text || !String(text).trim()) return null;
+      try {
+        return JSON.parse(text);
+      } catch (e) {
+        return null;
+      }
+    }
+
+    function basinDetail(j, text) {
+      if (!j || typeof j !== 'object') {
+        var snip = String(text || '').replace(/\s+/g, ' ').trim().slice(0, 160);
+        return snip || 'non-JSON response';
+      }
+      if (j.error) return String(j.error);
+      if (j.message && j.success === false) return String(j.message);
+      if (j.errors) {
+        if (Array.isArray(j.errors) && j.errors[0]) {
+          var e0 = j.errors[0];
+          if (typeof e0 === 'string') return e0;
+          if (e0.message) return String(e0.message);
+        } else if (typeof j.errors === 'string') {
+          return j.errors;
+        }
+      }
+      if (j.spam) return 'spam';
+      if (j.unverified || j.verification_required) return 'unverified';
+      if (j.status && String(j.status).toLowerCase() !== 'ok' && String(j.status).toLowerCase() !== 'success') {
+        return String(j.status);
+      }
+      return '';
+    }
+
+    /** Basin Ajax (Accept: application/json): accepted only when body looks stored — not every HTTP 200. */
+    function basinAccepted(httpOk, status, j, text) {
+      if (!httpOk) return false;
+      if (!j || typeof j !== 'object') return false;
+      if (j.success === true) return true;
+      var st = j.status != null ? String(j.status).toLowerCase() : '';
+      if ((st === 'ok' || st === 'success') && j.error == null && j.errors == null && !j.spam && !j.unverified) {
+        return true;
+      }
+      return false;
+    }
+
     function postOnce(endpoint, payload, includePhoto) {
       return fetch(endpoint, {
         method: 'POST',
@@ -644,13 +689,18 @@
         credentials: 'omit'
       }).then(function (res) {
         return res.text().then(function (text) {
-          var detail = '';
-          try {
-            var j = JSON.parse(text);
-            if (j && j.error) detail = String(j.error);
-            else if (j && j.errors && j.errors[0] && j.errors[0].message) detail = String(j.errors[0].message);
-          } catch (e) {}
-          return { ok: res.ok, status: res.status, detail: detail, body: text };
+          console.log('[Stay or Stray Submit] Basin raw body', res.status, text);
+          var j = parseBasinBody(text);
+          var detail = basinDetail(j, text);
+          var accepted = basinAccepted(res.ok, res.status, j, text);
+          return {
+            ok: accepted,
+            httpOk: res.ok,
+            status: res.status,
+            detail: detail,
+            body: text,
+            json: j
+          };
         });
       });
     }
@@ -668,10 +718,14 @@
             if (statusEl) statusEl.textContent = t('submit_status_posted');
             return;
           }
-          console.warn('[Stay or Stray Submit] Basin POST failed', result.status, result.detail || result.body);
+          console.warn('[Stay or Stray Submit] Basin POST not accepted', result.status, result.detail || result.body);
           var failMsg = t('submit_status_post_failed', { status: String(result.status || 'error') });
-          if (result.detail) failMsg = failMsg + ' (' + result.detail + ')';
-          // Never drop the picture — download + mailto only after a failed POST
+          if (result.detail) failMsg = failMsg + ' — ' + result.detail;
+          // HTTP 200 with error/spam/unverified still counts as failure — do not claim inbox
+          if (result.httpOk && result.detail) {
+            failMsg = t('submit_status_basin_rejected', { detail: result.detail, status: String(result.status || 200) });
+          }
+          // Never drop the picture — download + mailto only after a failed / rejected POST
           fallbackDownloadAndMailto(payload, failMsg);
         })
         .catch(function (err) {

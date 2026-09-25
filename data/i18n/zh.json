@@ -120,7 +120,8 @@
     "submit_status_sending": "正在发送您的提交…",
     "submit_status_posted": "已提交到主办方收件箱。",
     "submit_status_post_failed": "Basin 未接受照片 — 请下载并附到邮件中。（HTTP {status}）",
-    "klook_find_klook": "在 Klook 上寻找体验"
+    "klook_find_klook": "在 Klook 上寻找体验",
+    "submit_status_basin_rejected": "Basin 未保存提交 — {detail}（HTTP {status}）。请下载照片并附到邮件中。"
   },
   "tabs": {
     "hidden-gems": "隐藏瑰宝",
@@ -578,4 +579,4 @@
       }
     }
   }
-}
+}\n

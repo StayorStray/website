@@ -120,7 +120,8 @@
     "submit_status_sending": "Je inzending wordt verzonden…",
     "submit_status_posted": "Verzonden naar de inbox van de host.",
     "submit_status_post_failed": "Basin heeft de foto niet geaccepteerd — download en voeg toe aan de e-mail. (HTTP {status})",
-    "klook_find_klook": "Belevenissen vinden op Klook"
+    "klook_find_klook": "Belevenissen vinden op Klook",
+    "submit_status_basin_rejected": "Basin heeft de inzending niet opgeslagen — {detail} (HTTP {status}). Download de foto en voeg toe aan de e-mail."
   },
   "tabs": {
     "hidden-gems": "Verborgen parels",
@@ -578,4 +579,4 @@
       }
     }
   }
-}
+}\n

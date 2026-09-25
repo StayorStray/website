@@ -120,7 +120,8 @@
     "submit_status_sending": "Sending your submission…",
     "submit_status_posted": "Submitted to the host inbox.",
     "submit_status_post_failed": "Basin did not accept the photo — download and attach to the email. (HTTP {status})",
-    "klook_find_klook": "Find experiences on Klook"
+    "klook_find_klook": "Find experiences on Klook",
+    "submit_status_basin_rejected": "Basin did not store the submission — {detail} (HTTP {status}). Download the photo and attach it to the email."
   },
   "tabs": {
     "hidden-gems": "Hidden Gems",
@@ -578,4 +579,4 @@
       }
     }
   }
-}
+}\n
