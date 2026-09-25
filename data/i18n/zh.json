@@ -119,7 +119,7 @@
     "submit_status_attach": "已下载照片与提交 JSON。请将下载的照片附到发往 {email} 的邮件中再发送。",
     "submit_status_sending": "正在发送您的提交…",
     "submit_status_posted": "已提交到主办方收件箱。",
-    "submit_status_post_failed": "Formspree 未接受照片 — 请下载并附到邮件中。（HTTP {status}）",
+    "submit_status_post_failed": "Basin 未接受照片 — 请下载并附到邮件中。（HTTP {status}）",
     "klook_find_klook": "在 Klook 上寻找体验"
   },
   "tabs": {

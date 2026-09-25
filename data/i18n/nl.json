@@ -119,7 +119,7 @@
     "submit_status_attach": "Je foto en indienings-JSON zijn gedownload. Voeg de gedownloade foto toe aan de e-mail naar {email} en verstuur.",
     "submit_status_sending": "Je inzending wordt verzonden…",
     "submit_status_posted": "Verzonden naar de inbox van de host.",
-    "submit_status_post_failed": "Formspree heeft de foto niet geaccepteerd — download en voeg toe aan de e-mail. (HTTP {status})",
+    "submit_status_post_failed": "Basin heeft de foto niet geaccepteerd — download en voeg toe aan de e-mail. (HTTP {status})",
     "klook_find_klook": "Belevenissen vinden op Klook"
   },
   "tabs": {

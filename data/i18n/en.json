@@ -119,7 +119,7 @@
     "submit_status_attach": "Downloaded your photo and submission JSON. Attach the downloaded photo to the email to {email}, then send.",
     "submit_status_sending": "Sending your submission…",
     "submit_status_posted": "Submitted to the host inbox.",
-    "submit_status_post_failed": "Formspree did not accept the photo — download and attach to the email. (HTTP {status})",
+    "submit_status_post_failed": "Basin did not accept the photo — download and attach to the email. (HTTP {status})",
     "klook_find_klook": "Find experiences on Klook"
   },
   "tabs": {

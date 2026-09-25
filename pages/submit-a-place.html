@@ -661,21 +661,21 @@
         statusEl.hidden = false;
         statusEl.textContent = t('submit_status_sending');
       }
-      // Primary path: FormData POST (with photo) to Formspree. Never download before this returns.
+      // Primary path: FormData POST (with photo) to Basin. Never download before this returns.
       return postOnce(endpoint, payload, true)
         .then(function (result) {
           if (result.ok) {
             if (statusEl) statusEl.textContent = t('submit_status_posted');
             return;
           }
-          console.warn('[Stay or Stray Submit] Formspree POST failed', result.status, result.detail || result.body);
+          console.warn('[Stay or Stray Submit] Basin POST failed', result.status, result.detail || result.body);
           var failMsg = t('submit_status_post_failed', { status: String(result.status || 'error') });
           if (result.detail) failMsg = failMsg + ' (' + result.detail + ')';
           // Never drop the picture — download + mailto only after a failed POST
           fallbackDownloadAndMailto(payload, failMsg);
         })
         .catch(function (err) {
-          console.warn('[Stay or Stray Submit] Formspree network error', err);
+          console.warn('[Stay or Stray Submit] Basin network error', err);
           var failMsg = t('submit_status_post_failed', { status: 'network' });
           fallbackDownloadAndMailto(payload, failMsg);
         })

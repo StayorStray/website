@@ -119,7 +119,7 @@
     "submit_status_attach": "사진과 제출 JSON을 다운로드했습니다. 다운로드한 사진을 {email} 메일에 첨부한 뒤 보내세요.",
     "submit_status_sending": "제출 내용을 보내는 중…",
     "submit_status_posted": "호스트 받은편지함으로 제출되었습니다.",
-    "submit_status_post_failed": "Formspree가 사진을 받지 않았습니다 — 다운로드한 뒤 메일에 첨부하세요. (HTTP {status})",
+    "submit_status_post_failed": "Basin이 사진을 받지 않았습니다 — 다운로드한 뒤 메일에 첨부하세요. (HTTP {status})",
     "klook_find_klook": "Klook에서 체험 찾기"
   },
   "tabs": {
