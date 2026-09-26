@@ -316,7 +316,7 @@
     "countries": {
       "live_file": "data/countries.json",
       "archive_dir": "data/decks/countries/",
-      "approved_count": 40,
+      "approved_count": 50,
       "catalog_target": 100,
       "scale_target_met": false,
       "mvp_ready": true,
@@ -374,10 +374,29 @@
             "countries-038",
             "countries-039",
             "countries-040"
+          ],
+          "count": 20
+        },
+        {
+          "id": "countries-set-003",
+          "file": "set-003.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "countries-041",
+            "countries-042",
+            "countries-043",
+            "countries-044",
+            "countries-045",
+            "countries-046",
+            "countries-047",
+            "countries-048",
+            "countries-049",
+            "countries-050"
           ]
         }
       ],
-      "next": "Countries 021–040 toward 100"
+      "next": "Countries 051–100 toward 100 (catalog honesty: 50≠100)"
     },
     "arenas": {
       "live_file": "data/arenas.json",

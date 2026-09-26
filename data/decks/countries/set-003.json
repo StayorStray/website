@@ -1,0 +1,551 @@
+{
+  "id": "countries-set-003",
+  "tab": "countries",
+  "label": "Countries — Set 3 (041–050)",
+  "card_ids": [
+    "countries-041",
+    "countries-042",
+    "countries-043",
+    "countries-044",
+    "countries-045",
+    "countries-046",
+    "countries-047",
+    "countries-048",
+    "countries-049",
+    "countries-050"
+  ],
+  "count": 10,
+  "auditor": "10/10 approved 2026-09-26",
+  "cards": [
+    {
+      "id": "countries-041",
+      "tab": "countries",
+      "name": "Finland",
+      "short_line": "Northern Europe",
+      "country": "Finland",
+      "lat": 68.9055,
+      "lng": 27.6667,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Inarij%C3%A4rvi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-041.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AInarij%C3%A4rvi.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Inaricity",
+        "attribution": "Photo: Inaricity, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Inarijärvi.jpg' confirms Finland; desc: Inarijärveltä"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:28:07-05:00",
+        "audit_notes": "PASS — Inarijärvi rocky pine shore / still Lapland lake (Inaricity CC BY-SA 4.0). Facts/ad Inari OK. CLOSE CALL: midground road+guardrail; lake+boulders+pine remain MAIN SUBJECT.",
+        "reject_reason": null
+      },
+      "destination_query": "Inari, Finland",
+      "facts": {
+        "one_liner": "Inarijärvi: rocky pine shore and still Lapland lake under grey northern sky.",
+        "why_go": "Finland’s card here is Lake Inari (Inarijärvi) in Finnish Lapland—the country’s third-largest lake, a vast island-studded wilderness water around the Sámi cultural hub of Inari (Visit Finland; Visit Inari). The photo is a calm lake vista from a mossy boulder shore with a young pine and mirrored overcast sky (Commons: Inarijärvi by Inaricity)—not Helsinki harbour or Lakeland cottage country further south. Summer brings midnight-sun cruises toward sacred Ukonsaari (Ukko Island); darker months favour aurora watching and frozen-lake safaris from the same shore villages.",
+        "best_time": "June–early September for open-water cruises, hiking, and midnight sun; September for ruska autumn colour and returning dark skies. Late winter (roughly Feb–March) balances snow, longer daylight, and aurora chances when skies clear.",
+        "how_to_get_there": "Fly into Ivalo (IVL), then road transfer ~40–50 minutes to Inari village on the lake. From Inari harbour by Siida, seasonal lake cruises and local operators run out onto Inarijärvi; winter access is by marked snowmobile routes and guided tours rather than open water.",
+        "good_to_know": "Inari is a living centre of Sámi culture—visit Siida museum for context before lake trips. Mosquitoes peak midsummer; pack layers year-round. Respect sacred sites such as Ukonsaari (view from the water; landing rules apply).",
+        "official_or_tourism_url": "https://www.visitfinland.com/en/articles/5-things-to-experience-in-dreamy-inari/",
+        "sources": [
+          "https://www.visitfinland.com/en/articles/5-things-to-experience-in-dreamy-inari/",
+          "https://visitinari.fi/",
+          "https://visitinari.fi/lake-inari-cruise/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Inari, Finland",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Inari%2C%20Finland&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Inari%2C%20Finland&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Inari%2C%20Finland&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Inari"
+      }
+    },
+    {
+      "id": "countries-042",
+      "tab": "countries",
+      "name": "Poland",
+      "short_line": "Central Europe",
+      "country": "Poland",
+      "lat": 49.2015,
+      "lng": 20.0708,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Morskie_Oko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-042.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMorskie_Oko.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Przemek P",
+        "attribution": "Photo: Przemek P, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Morskie Oko.jpg' confirms Poland; desc: Morskie Oko. This image has been originally created as the illustration for https://globalquiz.org/pl/ilustracja-pytania/morskie-oko/ at globalquiz.org. It has "
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:28:07-05:00",
+        "audit_notes": "PASS — Morskie Oko turquoise glacial lake + High Tatra walls (Przemek P CC BY-SA 3.0). Hub Zakopane matches; TPN facts OK.",
+        "reject_reason": null
+      },
+      "destination_query": "Zakopane, Poland",
+      "facts": {
+        "one_liner": "Morskie Oko: turquoise glacial lake under sheer High Tatra granite walls.",
+        "why_go": "Poland’s card here is Morskie Oko (“Eye of the Sea”) in Tatra National Park—the country’s most famous alpine glacial lake, cupped by forested slopes and sheer granite peaks above Zakopane (TPN; Visit Małopolska). The photo shows the still turquoise water mirroring craggy High Tatra walls with autumn colour along the shore (Commons: Morskie Oko by Przemek P)—not Kraków’s Main Square or Baltic dunes. A long paved approach from Palenica Białczańska makes it one of Poland’s most walked mountain day trips; the PTTK hostel sits at the lake for a closer overnight.",
+        "best_time": "Late spring through early autumn for snow-free trail walking and colour; summer weekends and holidays are extremely busy. Winter is possible with ice grips and shorter daylight, but check TPN conditions—the asphalt road can be icy.",
+        "how_to_get_there": "Base in Zakopane; take a minibus or drive to the Palenica Białczańska / Łysa Polana trailhead (~20+ km). Buy a Tatra National Park entry ticket (online or at the gate). The red trail is roughly 8–9 km each way on a paved road (about 2–3 hours up); optional horse carriages or seasonal e-bus segments shorten parts of the climb—confirm current TPN services.",
+        "good_to_know": "Reserve official TPN parking online in peak season; freestyle parking fills early. Stay on marked trails; swimming is restricted. Pack layers, water, and rain gear—weather flips fast in the High Tatras.",
+        "official_or_tourism_url": "https://tpn.gov.pl/morskie-oko-w-pigulce",
+        "sources": [
+          "https://tpn.gov.pl/morskie-oko-w-pigulce",
+          "https://tpn.gov.pl/wstep-do-parku",
+          "https://visitmalopolska.pl/sk_SK/-/morskie-oko-najpiekniejsze-jezioro-polski"
+        ]
+      },
+      "ad": {
+        "destination_query": "Zakopane, Poland",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Zakopane%2C%20Poland&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Zakopane%2C%20Poland&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Zakopane%2C%20Poland&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Zakopane"
+      }
+    },
+    {
+      "id": "countries-043",
+      "tab": "countries",
+      "name": "Georgia",
+      "short_line": "Western Asia",
+      "country": "Georgia",
+      "lat": 42.6575,
+      "lng": 44.6414,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Gergeti_Trinity_Church._Kazbegi%2C_Georgia_%2836130111370%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-043.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AGergeti_Trinity_Church._Kazbegi%2C_Georgia_%2836130111370%29.jpg",
+        "license": "CC BY 2.0",
+        "author": "Stefan Wisselink",
+        "attribution": "Photo: Stefan Wisselink, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Gergeti Trinity Church. Kazbegi, Georgia (36130111370).jpg' confirms Georgia; desc: Gergeti Trinity Church. Kazbegi, Georgia."
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:28:07-05:00",
+        "audit_notes": "PASS — Gergeti Trinity Church on green Kazbegi ridge (Stefan Wisselink CC BY 2.0). Unmistakable exterior; ad Kazbegi OK.",
+        "reject_reason": null
+      },
+      "destination_query": "Kazbegi, Georgia",
+      "facts": {
+        "one_liner": "Gergeti Trinity: 14th-century stone church on a green ridge under Caucasus walls.",
+        "why_go": "Georgia’s card here is Gergeti Trinity Church (Tsminda Sameba) above Stepantsminda in the Kazbegi region—a 14th-century Orthodox landmark on a hill at roughly 2,170 m, with Mount Kazbek and Caucasus ridges behind it (Georgia Travel). The photo shows the dark-stone church and bell tower on a grassy crest with muddy tracks and parked 4×4s below (Commons: Gergeti Trinity Church, Kazbegi by Stefan Wisselink)—not Tbilisi Old Town or Kakheti wine country. It is an active monastery and one of Georgia’s most recognisable mountain icons; many travellers hike or take a 4×4 from the village for the panorama.",
+        "best_time": "Late spring through early autumn (roughly May–October) for clearer roads and hiking; early mornings often give the best chance of an unobscured Kazbek view. Winter brings deep snow and occasional road closures on the Military Highway.",
+        "how_to_get_there": "From Tbilisi, drive or take a marshrutka/shared taxi along the Georgian Military Highway to Stepantsminda (Kazbegi), about 3 hours when roads are open. From town, hike the marked trail uphill (~1–1.5 hours) or hire a local 4×4 to the church parking area. Day tours from Tbilisi are common; overnighting in Kazbegi gives better light and less rush.",
+        "good_to_know": "Dress modestly inside the working church (cover shoulders/knees; head covering expected for women). Trails are steep and can be muddy—wear proper shoes. Altitude and sudden weather shifts are real; carry water and a layer.",
+        "official_or_tourism_url": "https://georgia.travel/what-to-do-in-kazbegi",
+        "sources": [
+          "https://georgia.travel/what-to-do-in-kazbegi",
+          "https://en.wikipedia.org/wiki/Gergeti_Trinity_Church",
+          "https://en.wikivoyage.org/wiki/Stepantsminda"
+        ]
+      },
+      "ad": {
+        "destination_query": "Kazbegi, Georgia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kazbegi%2C%20Georgia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kazbegi%2C%20Georgia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kazbegi%2C%20Georgia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Kazbegi"
+      }
+    },
+    {
+      "id": "countries-044",
+      "tab": "countries",
+      "name": "Tunisia",
+      "short_line": "North Africa",
+      "country": "Tunisia",
+      "lat": 35.2965,
+      "lng": 10.7069,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Amphitheater_at_El_Djem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-044.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AAmphitheater_at_El_Djem.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Agnieszka Wolska",
+        "attribution": "Photo: Agnieszka Wolska, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Amphitheater at El Djem.jpg' confirms Tunisia; desc: Roman theater in El Djem, Tunisia | REPLACED prior reject (tunnel interior / statue close-up)."
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:28:07-05:00",
+        "audit_notes": "PASS honesty — Wide El Jem amphitheatre BOWL (arena + seating + multi-tier arcades), not hypogeum/tunnel-only (Agnieszka Wolska CC BY-SA 3.0). Facts describe bowl from stands; ad El Jem OK.",
+        "reject_reason": null
+      },
+      "destination_query": "El Jem, Tunisia",
+      "facts": {
+        "one_liner": "El Jem: vast Roman amphitheatre arena and three tiers of arcades under open sky.",
+        "why_go": "Tunisia’s card here is the Amphitheatre of El Jem (ancient Thysdrus)—UNESCO World Heritage since 1979 and the largest colosseum-style arena in North Africa, a free-standing stone structure built around the mid-3rd century that could hold on the order of 35,000 spectators (UNESCO; AMVPPC). The photo is a wide interior view across the oval dirt arena and restored seating toward the multi-storey arched outer wall under a cloudy sky (Commons: Amphitheater at El Djem by Agnieszka Wolska)—the monumental bowl from the stands, showing the full scale of the seating and facade. It rivals Rome’s Colosseum for presence while sitting in a quiet central Tunisian town reachable by train from Tunis or Sousse.",
+        "best_time": "Spring (roughly Mar–May) and autumn (Oct–Nov) for milder temperatures on the stone; summer visits are best early morning or late afternoon to avoid heat. Winter hours are shorter—confirm on site.",
+        "how_to_get_there": "Take the Tunis–Sfax train or a louage to El Jem station; the amphitheatre is a short walk into town. Many visitors day-trip from Sousse (~1 hour by train) or Tunis (~2.5–3 hours). Organised tours from coastal resorts also stop here.",
+        "good_to_know": "Tickets typically cover the amphitheatre and the nearby archaeological museum—confirm current AMVPPC hours and rates. Walk the seating tiers for scale; midday sun on bare stone is intense. The International Festival of Symphonic Music sometimes uses the arena as a venue.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/38/",
+        "sources": [
+          "https://whc.unesco.org/en/list/38/",
+          "https://www.patrimoinedetunisie.com.tn/en/monuments/the-amphitheatre-of-thysdrus-el-jem/overview/",
+          "https://en.wikivoyage.org/wiki/El_Jem"
+        ]
+      },
+      "ad": {
+        "destination_query": "El Jem, Tunisia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=El%20Jem%2C%20Tunisia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=El%20Jem%2C%20Tunisia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=El%20Jem%2C%20Tunisia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay near El Jem"
+      }
+    },
+    {
+      "id": "countries-045",
+      "tab": "countries",
+      "name": "Tanzania",
+      "short_line": "East Africa",
+      "country": "Tanzania",
+      "lat": -2.3333,
+      "lng": 34.8333,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Serengeti_National_Park_15_-_landscape.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-045.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASerengeti_National_Park_15_-_landscape.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Thomas Fuhrmann",
+        "attribution": "Photo: Thomas Fuhrmann, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Serengeti National Park 15 - landscape.jpg' confirms Tanzania; desc: Serengeti National Park, Tanzania - The image was taken during 5 weeks of traveling on an overlander camping tour through east and south Africa in 2015. - Die A"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:28:07-05:00",
+        "audit_notes": "PASS — Serengeti savannah + acacias + small herd (Thomas Fuhrmann CC BY-SA 4.0). Commons NP landscape; ≠ Zanzibar/Kilimanjaro. CLOSE CALL: plains-heavy vs mega-migration drama; distinct from countries-025 Masai Mara.",
+        "reject_reason": null
+      },
+      "destination_query": "Serengeti, Tanzania",
+      "facts": {
+        "one_liner": "Serengeti: endless savannah plains, acacias, and open East African sky.",
+        "why_go": "Tanzania’s card here is Serengeti National Park—UNESCO World Heritage savannah covering about 1.5 million hectares, famous for the annual wildebeest–zebra migration and dense predator–prey drama (UNESCO; TANAPA). The photo is a high vista of green-and-gold grassland dotted with flat-topped trees under a pale sky, with a small grazing herd in the middle distance (Commons: Serengeti National Park landscape by Thomas Fuhrmann)—classic open plains, not Zanzibar beaches or Kilimanjaro’s summit cone. Game drives, seasonal balloon flights, and guided walks (where permitted) make it one of Africa’s defining safari landscapes.",
+        "best_time": "June–October dry season for easier wildlife viewing and migration river crossings in western/northern sectors; January–February for calving on southern plains. The park is open year-round; March–May rains bring greener scenery, birding, and fewer vehicles.",
+        "how_to_get_there": "Fly into Kilimanjaro (JRO) or Arusha, then connect by safari road transfer or light aircraft to Seronera and other airstrips inside/near the park. Most visitors join a licensed safari operator; self-drive is possible with park rules and a capable vehicle. Gates typically close by evening—plan arrivals accordingly (TANAPA).",
+        "good_to_know": "Stay in vehicles except at designated areas; follow guide and ranger instructions around wildlife. Pack binoculars, neutral clothing, sun protection, and layers for cool mornings. Book lodges/camps early for peak migration weeks.",
+        "official_or_tourism_url": "https://www.tanzaniaparks.go.tz/en/serengeti",
+        "sources": [
+          "https://www.tanzaniaparks.go.tz/en/serengeti",
+          "https://whc.unesco.org/en/list/156/",
+          "https://www.tanzaniatourism.go.tz/destination/serengeti/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Serengeti, Tanzania",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Serengeti%2C%20Tanzania&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Serengeti%2C%20Tanzania&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Serengeti%2C%20Tanzania&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay near the Serengeti"
+      }
+    },
+    {
+      "id": "countries-046",
+      "tab": "countries",
+      "name": "Sri Lanka",
+      "short_line": "South Asia",
+      "country": "Sri Lanka",
+      "lat": 6.768,
+      "lng": 80.958,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Haputale%2C_Sri_Lanka%2C_Tea_plantations_in_fog_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-046.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AHaputale%2C_Sri_Lanka%2C_Tea_plantations_in_fog_3.jpg",
+        "license": "CC BY 4.0",
+        "author": "Vyacheslav Argenberg",
+        "attribution": "Photo: Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Haputale, Sri Lanka, Tea plantations in fog 3.jpg' confirms Sri Lanka; desc: The tea plantations are located at a range of altitudes, from about 1000 to 1700 meters. Uva is located in the rain shadow of the central mountains in Sri Lanka | REPLACED prior reject (tunnel interior / statue close-up)."
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:28:07-05:00",
+        "audit_notes": "PASS honesty — Haputale tea plantations in fog (Vyacheslav Argenberg CC BY 4.0) ≠ Sigiriya/Lion's Paw. Facts/ad Haputale OK. CLOSE CALL: heavy fog blanks distant hills; tea bushes still MAIN SUBJECT.",
+        "reject_reason": null
+      },
+      "destination_query": "Haputale, Sri Lanka",
+      "facts": {
+        "one_liner": "Haputale: misty highland tea bushes and ghost trees in cool Uva fog.",
+        "why_go": "Sri Lanka’s card here is Haputale in the Uva hill country—terraced tea estates on cool ridgelines where mist often softens the plantation rows. The photo shows dense green tea bushes under thick white fog with slender trees fading into the cloud (Commons: Haputale tea plantations in fog by Vyacheslav Argenberg)—classic Ceylon tea hills, not a rock-fortress statue. Nearby Lipton’s Seat viewpoint and Dambatenne estate walks make Haputale a quiet tea-country base on the scenic hill railway corridor between Ella and the high country.",
+        "best_time": "January–April is generally the clearest, driest window for views; July–September can also work in the Uva rain shadow. Mist and cloud are part of the atmosphere—sunrise starts improve odds of a clear Lipton’s Seat panorama before fog rebuilds.",
+        "how_to_get_there": "Reach Haputale by train on the scenic up-country line or by road from Ella, Bandarawela, or Nuwara Eliya. From town, tuk-tuks or estate walks lead toward viewpoints and tea factories; confirm factory visit hours (many pause Sundays/holidays).",
+        "good_to_know": "Evenings are cool at ~1,000–1,700 m—bring a jacket. Trails and estate roads can be wet and steep; wear grip shoes. Support working tea communities by booking guided walks rather than wandering closed factory floors uninvited.",
+        "official_or_tourism_url": "https://www.srilanka.travel/",
+        "sources": [
+          "https://www.srilanka.travel/",
+          "https://en.wikivoyage.org/wiki/Haputale",
+          "https://www.roughguides.com/sri-lanka/guide-to-tea-plantation/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Haputale, Sri Lanka",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Haputale%2C%20Sri%20Lanka&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Haputale%2C%20Sri%20Lanka&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Haputale%2C%20Sri%20Lanka&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Haputale"
+      }
+    },
+    {
+      "id": "countries-047",
+      "tab": "countries",
+      "name": "Cambodia",
+      "short_line": "Southeast Asia",
+      "country": "Cambodia",
+      "lat": 13.4125,
+      "lng": 103.8667,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Angkor_Wat_with_its_reflection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-047.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AAngkor_Wat_with_its_reflection.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Satdeep Gill",
+        "attribution": "Photo: Satdeep Gill, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Angkor Wat with its reflection.jpg' confirms Cambodia; desc: Angkor Wat with its reflection"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:28:07-05:00",
+        "audit_notes": "PASS — Angkor Wat lotus towers + reflection pond (Satdeep Gill CC BY-SA 4.0). Classic Siem Reap hero; ad matches.",
+        "reject_reason": null
+      },
+      "destination_query": "Siem Reap, Cambodia",
+      "facts": {
+        "one_liner": "Angkor Wat: lotus towers mirrored in still water under Cambodian blue sky.",
+        "why_go": "Cambodia’s card here is Angkor Wat within the Angkor Archaeological Park near Siem Reap—UNESCO World Heritage (inscribed 1992) and the country’s defining Khmer temple icon (UNESCO; Angkor Enterprise). The photo shows the central towers and galleries reflected in a calm pond with palm trees along the bank (Commons: Angkor Wat with its reflection by Satdeep Gill)—the classic reflection view, not Phnom Penh riverside. The 12th-century temple complex is the heart of a vast temple landscape best explored over multiple days with an official Angkor Pass.",
+        "best_time": "November–February for cooler, drier weather; early morning for softer light and the famous reflection pond atmosphere. June–October is greener and quieter but wetter—carry rain protection.",
+        "how_to_get_there": "Fly into Siem Reap–Angkor International Airport (SAI) or arrive by road/bus from elsewhere in Cambodia. Buy an official Angkor Pass (Angkor Enterprise online, app, or ticket office), then reach the park by tuk-tuk, car, or bicycle from Siem Reap town. Angkor Wat itself is a short ride from the city centre.",
+        "good_to_know": "Dress modestly (shoulders and knees covered) for temple interiors. Sunrise crowds concentrate at Angkor Wat’s reflection ponds—arrive early or visit later for quieter light. Keep tickets handy for checkpoints; multi-day passes need not be consecutive within the stated validity window.",
+        "official_or_tourism_url": "https://www.angkorenterprise.gov.kh/",
+        "sources": [
+          "https://www.angkorenterprise.gov.kh/",
+          "https://whc.unesco.org/en/list/668/",
+          "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park"
+        ]
+      },
+      "ad": {
+        "destination_query": "Siem Reap, Cambodia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Siem%20Reap%2C%20Cambodia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Siem%20Reap%2C%20Cambodia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Siem%20Reap%2C%20Cambodia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Siem Reap"
+      }
+    },
+    {
+      "id": "countries-048",
+      "tab": "countries",
+      "name": "Bolivia",
+      "short_line": "South America",
+      "country": "Bolivia",
+      "lat": -20.1338,
+      "lng": -67.4891,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Salar_de_Uyuni%2C_Bolivia%2C_2016-02-04%2C_DD_16-18_HDR.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-048.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASalar_de_Uyuni%2C_Bolivia%2C_2016-02-04%2C_DD_16-18_HDR.JPG",
+        "license": "CC BY-SA 4.0",
+        "author": "Diego Delso",
+        "attribution": "Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Salar de Uyuni, Bolivia, 2016-02-04, DD 16-18 HDR.JPG' confirms Bolivia; desc: Reflections in the Uyuni salt flat during sunrise, Daniel Campos Province, Potosí Department, southwestern Bolivia, not far from the crest of the Andes. This sa"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:28:07-05:00",
+        "audit_notes": "PASS — Salar de Uyuni wet-season sunrise mirror (Diego Delso CC BY-SA 4.0). Iconic salt-flat exterior; ad Uyuni OK.",
+        "reject_reason": null
+      },
+      "destination_query": "Uyuni, Bolivia",
+      "facts": {
+        "one_liner": "Salar de Uyuni: mirror-flat salt under sunrise sky—horizon as thin as a line.",
+        "why_go": "Bolivia’s card here is Salar de Uyuni—the world’s largest salt flat, a vast white crust on the Altiplano in southwestern Bolivia near the town of Uyuni (Bolivian tourism / regional guides). The photo captures wet-season sunrise reflections: a thin sheet of water turning the salt into a sky mirror, with a loaded tour 4×4 and tiny human silhouettes on the horizon (Commons: Salar de Uyuni sunrise HDR by Diego Delso)—not La Paz cable cars or Lake Titicaca. Day and multi-day jeep tours from Uyuni (and sometimes from San Pedro de Atacama) are the usual way to experience the flats, Incahuasi cactus island (when accessible), and nearby coloured lagoons.",
+        "best_time": "Roughly December–April wet season for the famous mirror effect when recent rain leaves a shallow film of water (never guaranteed—wind and rainfall matter). May–October dry season for hexagonal salt patterns, stargazing, and more reliable road access to Incahuasi.",
+        "how_to_get_there": "Fly or bus to Uyuni (or transfer from Potosí/Oruro/La Paz); overnight trains also serve the town. Book a reputable 4×4 tour from Uyuni for day trips onto the salar or longer circuits into Eduardo Avaroa reserve. Cross-border trips from San Pedro de Atacama (Chile) are another common entry pattern.",
+        "good_to_know": "Altitude is high (~3,650 m+)—acclimatise, hydrate, and expect strong sun/UV on the white surface. Wet-season routes can flood or change; dry-season nights are freezing. Bring sunglasses, sunscreen, and cash for remote stops.",
+        "official_or_tourism_url": "https://en.wikivoyage.org/wiki/Salar_de_Uyuni",
+        "sources": [
+          "https://en.wikivoyage.org/wiki/Salar_de_Uyuni",
+          "https://en.wikipedia.org/wiki/Salar_de_Uyuni",
+          "https://www.britannica.com/place/Uyuni-Salt-Flat"
+        ]
+      },
+      "ad": {
+        "destination_query": "Uyuni, Bolivia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Uyuni%2C%20Bolivia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Uyuni%2C%20Bolivia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Uyuni%2C%20Bolivia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Uyuni"
+      }
+    },
+    {
+      "id": "countries-049",
+      "tab": "countries",
+      "name": "Sweden",
+      "short_line": "Northern Europe",
+      "country": "Sweden",
+      "lat": 59.324,
+      "lng": 18.55,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Stockholm_Sch%C3%A4rengarten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-049.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AStockholm_Sch%C3%A4rengarten.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Christof46",
+        "attribution": "Photo: Christof46, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Stockholm Schärengarten.jpg' confirms Sweden; desc: Top of an island (Bergholmen) within the Stockholm archipelago in the early morning sun"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:28:07-05:00",
+        "audit_notes": "PASS — Stockholm archipelago Bergholmen falu-red shore houses (Christof46 CC BY-SA 4.0). Unmistakable skärgård exterior; ad OK.",
+        "reject_reason": null
+      },
+      "destination_query": "Stockholm archipelago, Sweden",
+      "facts": {
+        "one_liner": "Stockholm archipelago: falu-red shore houses mirrored in calm Baltic channels.",
+        "why_go": "Sweden’s card here is the Stockholm archipelago (skärgården)—tens of thousands of islands and skerries stretching east from the capital into the Baltic (Visit Sweden). The photo shows classic red wooden houses with white trim on a rocky islet shore, a small pier and boat lift, and distant tree-lined islands across blue water (Commons: Stockholm Schärengarten / Bergholmen by Christof46)—archipelago living, not only Gamla Stan alleys. Ferries from central Stockholm open day trips and overnight stays on islands such as Vaxholm, Grinda, and Sandhamn, with swimming rocks, kayaking, and allemansrätten outdoor access.",
+        "best_time": "Mid-June to mid-August for warmest water, fullest ferry schedules, and open island restaurants (July is busiest). Late August–early September often balances milder crowds with still-pleasant swimming. Winter visits are possible for quiet ferries, saunas, and cold plunges.",
+        "how_to_get_there": "Start in Stockholm. Waxholmsbolaget year-round boats leave from Strömkajen; Strömma Cinderella services run from Strandvägen in season. Bridge/road links reach some inner islands (e.g. Vaxholm); farther skerries are ferry- or boat-taxi only. Buy Waxholmsbolaget tickets onboard; consider a multi-day archipelago card for hop-on travel.",
+        "good_to_know": "Allemansrätten lets you roam and (carefully) camp if you don’t disturb or destroy—follow local fire and waste rules. Pack layers and grip shoes for rocky shores. Summer weekends fill early ferries; check last return boats.",
+        "official_or_tourism_url": "https://visitsweden.com/what-to-do/curated-journeys/stockholm-archipelago-a-three-day-tour/",
+        "sources": [
+          "https://visitsweden.com/what-to-do/curated-journeys/stockholm-archipelago-a-three-day-tour/",
+          "https://visitsweden.com/about-sweden/getting-around-stockholms-archipelago/",
+          "https://en.wikivoyage.org/wiki/Stockholm_archipelago"
+        ]
+      },
+      "ad": {
+        "destination_query": "Stockholm archipelago, Sweden",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Stockholm%20archipelago%2C%20Sweden&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Stockholm%20archipelago%2C%20Sweden&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Stockholm%20archipelago%2C%20Sweden&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in the Stockholm archipelago"
+      }
+    },
+    {
+      "id": "countries-050",
+      "tab": "countries",
+      "name": "Malaysia",
+      "short_line": "Southeast Asia",
+      "country": "Malaysia",
+      "lat": 6.075,
+      "lng": 116.558,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Kinabalu_Sabah_Borneo_Kampong_Kundasang_panorama_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-050.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AKinabalu_Sabah_Borneo_Kampong_Kundasang_panorama_4.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "kallerna",
+        "attribution": "Photo: kallerna, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Kinabalu Sabah Borneo Kampong Kundasang panorama 4.jpg' confirms Malaysia; desc: Panoramic view of Mount Kinabalu during sunrise, from Kampong Kundasang, near Kinabalu Park entrance"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:28:07-05:00",
+        "audit_notes": "PASS honesty — Mount Kinabalu granite ridges from Kundasang/Kampong (kallerna CC BY-SA 4.0) ≠ KL CBD skyline. Facts/ad Kundasang OK.",
+        "reject_reason": null
+      },
+      "destination_query": "Kundasang, Malaysia",
+      "facts": {
+        "one_liner": "Mount Kinabalu: granite summit rising from Borneo rainforest above Kundasang.",
+        "why_go": "Malaysia’s card here is Mount Kinabalu in Sabah, northern Borneo—the granite massif at the heart of Kinabalu Park, a UNESCO World Heritage site and Sabah’s flagship protected landscape (UNESCO; Sabah Parks). The photo is a panorama of jagged Low’s Peak ridges above misty forested foothills, the classic view from the Kundasang / park-gateway side (Commons: Kinabalu from Kampong Kundasang by kallerna)—Borneo mountain nature, not Kuala Lumpur towers. Day visitors use park headquarters trails and viewpoints; summit climbers need advance Sabah Parks permits, guides, and overnight hut bookings.",
+        "best_time": "March–September is often favoured for climbing with relatively drier windows, though mountain weather changes fast year-round. Kundasang viewpoints can be clear at sunrise even when midday cloud wraps the summit.",
+        "how_to_get_there": "Fly into Kota Kinabalu (BKI), then drive or take a bus/tour transfer ~2 hours (~90+ km) to Kinabalu Park Headquarters / Kundasang. For the summit, book the official climbing package (permit, guide, Panalaban accommodation) via Sabah Parks’ reservation system before travel; casual park entry for day walks is separate.",
+        "good_to_know": "Summit attempts are quota-limited and usually 2 days / 1 night—do not show up without a confirmed booking. Acclimatise; the peak exceeds 4,000 m. Even non-climbers should bring layers for cool Kundasang evenings and respect park conservation rules.",
+        "official_or_tourism_url": "https://www.sabahparks.org.my/kinabalu-park/",
+        "sources": [
+          "https://www.sabahparks.org.my/kinabalu-park/",
+          "https://sabahparks.org.my/services/mount-kinabalu-climbing",
+          "https://whc.unesco.org/en/list/1012/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Kundasang, Malaysia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kundasang%2C%20Malaysia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kundasang%2C%20Malaysia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kundasang%2C%20Malaysia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Kundasang"
+      }
+    }
+  ]
+}
