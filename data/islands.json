@@ -2049,5 +2049,525 @@
       "audit_notes": "PASS — Piton de la Fournaise volcanic caldera/shield. Brice Miller CC BY-SA 4.0. Ad Saint-Denis.",
       "reject_reason": null
     }
+  },
+  {
+    "id": "islands-041",
+    "tab": "islands",
+    "name": "Mauritius",
+    "short_line": "Mascarene Islands, Mauritius",
+    "country": "Mauritius",
+    "lat": -20.3484,
+    "lng": 57.5522,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Le_Morne_Peninsula_in_Mauritius_%2853697779236%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-041.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALe_Morne_Peninsula_in_Mauritius_%2853697779236%29.jpg",
+      "license": "CC BY 2.0",
+      "author": "dronepicr",
+      "attribution": "Photo: dronepicr, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Le Morne Peninsula in Mauritius (53697779236).jpg' — Mauritius island vista visible; desc: Mauritius"
+    },
+    "facts": {
+      "one_liner": "Le Morne Peninsula—UNESCO mountain jutting into a reef-fringed southwest lagoon.",
+      "why_go": "The hero is Le Morne Peninsula on southwest Mauritius: Le Morne Brabant mountain rising over turquoise lagoon and fringing reef (Commons: Le Morne Peninsula in Mauritius). UNESCO’s Le Morne Cultural Landscape marks the mountain as a maroon-resistance site; the peninsula lagoon and beaches below are the classic Indian Ocean postcard, not a north-coast resort strip alone. Kite and wind conditions are famously strong here in the trade-wind months. Respect heritage rules if you hike the mountain trail.",
+      "best_time": "May–November (cooler, drier Austral winter) for clearer hiking and beach days; September–November are often among the driest. December–April is warmer and wetter with higher cyclone-season awareness. Kite season commonly runs about April–November.",
+      "how_to_get_there": "Fly into Sir Seewoosagur Ramgoolam International (MRU). Drive or transfer southwest to Le Morne / La Gaulette (~1–1.5 hours). Base at Le Morne or nearby southwest resorts for lagoon and mountain access.",
+      "good_to_know": "Le Morne Brabant mountain hiking is managed by the Le Morne Heritage Trust Fund—check current trail open/closed notices before you go (hours are commonly posted daily with a last ascent cutoff). Stay on marked paths; weather can close the trail. Beaches around the peninsula are public; reef and lagoon swimming vary with wind and tide. No prices listed.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/1259/",
+      "sources": [
+        "https://whc.unesco.org/en/list/1259/",
+        "https://lemorneheritage.govmu.org/lmh/",
+        "https://www.mauritius.net/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Le Morne, Mauritius",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Le%20Morne%2C%20Mauritius&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Le%20Morne%2C%20Mauritius&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Le%20Morne%2C%20Mauritius&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Le Morne"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T04:26:37-05:00",
+      "audit_notes": "PASS — Le Morne Peninsula aerial lagoon/mountain; dronepicr CC BY 2.0; hub Le Morne.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "islands-042",
+    "tab": "islands",
+    "name": "Rapa Nui (Easter Island)",
+    "short_line": "Polynesia, Chile",
+    "country": "Chile",
+    "lat": -27.1127,
+    "lng": -109.3497,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Ahu_Tongariki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-042.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAhu_Tongariki.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Rivi",
+      "attribution": "Photo: Rivi, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Ahu Tongariki.jpg' — Rapa Nui (Easter Island) island vista visible; desc: Six of the 15 Ahu Tongariki Moais"
+    },
+    "facts": {
+      "one_liner": "Ahu Tongariki—Rapa Nui’s 15 restored moai facing inland under Pacific sky.",
+      "why_go": "The hero is Ahu Tongariki on Rapa Nui (Easter Island), Chile: the island’s largest restored ceremonial platform with a line of fifteen moai and open shore/sky context (Commons: Ahu Tongariki). UNESCO’s Rapa Nui National Park protects the archaeological landscape; Ma’u Henua community management lists Tongariki among headline sites, often visited for sunrise. This is Chilean Polynesia—not mainland Chile volcanoes or Patagonia.",
+      "best_time": "Shoulder months (roughly October–April austral warm season) for longer daylight; winter can be windier and cooler. Sunrise at Tongariki is popular—arrive with your accredited guide and allow time for park entry.",
+      "how_to_get_there": "Fly into Mataveri (IPC) on Rapa Nui; base in Hanga Roa. Tongariki is on the southeast coast (~well under an hour by vehicle from town with a park-accredited guide). Park archaeological sites require a valid ticket plus an accredited Ma’u Henua guide.",
+      "good_to_know": "Park ticket and accredited guide are mandatory for Rapa Nui National Park archaeological visits—confirm current rules and hours on the official park site. Do not touch, climb, or walk on ahu or moai. Rano Raraku and Orongo typically allow one visit each per ticket. Chilean territory; island entry processes are separate from the park ticket.",
+      "official_or_tourism_url": "https://www.rapanuinationalpark.com/en/",
+      "sources": [
+        "https://www.rapanuinationalpark.com/en/",
+        "https://www.mauhenua.com/travel-guide/things-to-do/2/sunrise-at-ahu-tongariki",
+        "https://whc.unesco.org/en/list/715"
+      ]
+    },
+    "ad": {
+      "destination_query": "Hanga Roa, Chile",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Hanga%20Roa%2C%20Chile&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Hanga%20Roa%2C%20Chile&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Hanga%20Roa%2C%20Chile&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Hanga Roa"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T04:26:37-05:00",
+      "audit_notes": "PASS — Ahu Tongariki moai + sky (shore low in frame); Rivi CC BY-SA 3.0; hub Hanga Roa. CLOSE CALL shore.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "islands-043",
+    "tab": "islands",
+    "name": "Socotra",
+    "short_line": "Arabian Sea, Yemen",
+    "country": "Yemen",
+    "lat": 12.4634,
+    "lng": 53.8237,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Dragon%27s_Blood_Trees%2C_Socotra_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-043.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ADragon%27s_Blood_Trees%2C_Socotra_Island.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Rod Waddington",
+      "attribution": "Photo: Rod Waddington, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Dragon's Blood Trees, Socotra Island.jpg' — Socotra island vista visible; desc: Yemen, Dracaena cinnabari"
+    },
+    "facts": {
+      "one_liner": "Dragon’s blood trees (Dracaena cinnabari) on Socotra’s highland plateau.",
+      "why_go": "The hero shows Socotra’s iconic dragon’s blood trees (Dracaena cinnabari) on an open plateau—the umbrella-crowned endemics that define the island’s “alien” highland look (Commons: Dragon's Blood Trees, Socotra Island). UNESCO’s Socotra Archipelago World Heritage property cites exceptional endemism (including a large share of plant species found nowhere else). Firmihin / Diksam-area forests are classic dragon’s-blood landscapes cited in conservation reporting—not mainland Yemen cities.",
+      "best_time": "Many visitors historically preferred the drier months outside peak monsoon disruption; schedules and access change with politics and weather. Confirm current flight and sea access before any plan—do not treat generic season advice as a green light to travel.",
+      "how_to_get_there": "Access has historically been via limited flights or sea links into Socotra (Hadibu / airport area), not via ordinary mainland Yemen city tourism circuits. Routes, operators, and entry rules change—verify only through current official channels. Do not rely on informal “visa” packages sold abroad.",
+      "good_to_know": "OPEN FLAG — Travel access is complex. Multiple governments (including the U.S. State Department and peers) advise against travel to Yemen including Socotra; unofficial visas marketed by some overseas operators are flagged as invalid/risky. Only the Republic of Yemen government can issue valid Yemeni visas per those advisories. Cite UNESCO for the place; check your government’s current advisory before any consideration of travel. No invented logistics or fees.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/1263/",
+      "sources": [
+        "https://whc.unesco.org/en/list/1263/",
+        "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/yemen-travel-advisory.html",
+        "https://travel.gc.ca/destinations/yemen"
+      ]
+    },
+    "ad": {
+      "destination_query": "Socotra, Yemen",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Socotra%2C%20Yemen&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Socotra%2C%20Yemen&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Socotra%2C%20Yemen&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Socotra"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T04:26:37-05:00",
+      "audit_notes": "PASS — Dragon’s blood trees plateau; Rod Waddington CC BY-SA 2.0; advisories OK, no invented visas; hub Socotra.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "islands-044",
+    "tab": "islands",
+    "name": "Dominica",
+    "short_line": "Windward Islands, Dominica",
+    "country": "Dominica",
+    "lat": 15.415,
+    "lng": -61.371,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Scotts_Head%2C_Dominica_014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-044.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AScotts_Head%2C_Dominica_014.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Postdlf",
+      "attribution": "Photo: Postdlf, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Scotts Head, Dominica 014.jpg' — Dominica island vista visible; desc: Scotts Head village, as seen across Soufrière Bay. Saint Mark Parish, Dominica."
+    },
+    "facts": {
+      "one_liner": "Scotts Head across Soufrière Bay—Dominica’s southwest crater-bay shore.",
+      "why_go": "The hero looks across Soufrière Bay to Scotts Head village and the Cashacrou / Scotts Head peninsula on Dominica’s southwest tip (Commons: Scotts Head, Dominica 014)—emerald Caribbean coastline, not a waterfall-only interior frame. The bay sits inside the Soufrière-Scotts Head Marine Reserve / Marine Managed Area, a submerged volcanic crater known for diving and snorkeling (Champagne, Scotts Head Point). This is the Commonwealth of Dominica—distinct from the Dominican Republic.",
+      "best_time": "December–April is the usual drier Caribbean season; June–November brings more rain and hurricane-season awareness. Mornings often give clearer bay views before afternoon showers.",
+      "how_to_get_there": "Fly into Douglas-Charles (DOM) or ferry into Roseau area; drive south to Soufrière / Scotts Head (~45–75 minutes depending on route and traffic). Base in Roseau or southwest villages. Confirm current road and ferry status after storms.",
+      "good_to_know": "Dominica ≠ Dominican Republic. Marine reserve user fees may apply for diving/snorkel via approved operators (no prices listed)—confirm with LAMA / dive operators. No anchoring in the reserve. Trails to Scotts Head Point give Atlantic/Caribbean views; stay back from cliffs.",
+      "official_or_tourism_url": "https://discoverdominica.com/",
+      "sources": [
+        "https://discoverdominica.com/",
+        "https://protectedareas.forestry.gov.dm/index.php/soufriere-scotts-head-marine-managed-area/",
+        "https://whc.unesco.org/en/tentativelists/6022"
+      ]
+    },
+    "ad": {
+      "destination_query": "Roseau, Dominica",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Roseau%2C%20Dominica&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Roseau%2C%20Dominica&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Roseau%2C%20Dominica&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Roseau"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T04:26:37-05:00",
+      "audit_notes": "PASS — Scotts Head / Soufrière Bay; ≠ Dominican Republic; Postdlf CC BY-SA 3.0; hub Roseau, Dominica.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "islands-045",
+    "tab": "islands",
+    "name": "Exuma",
+    "short_line": "Bahamas",
+    "country": "Bahamas",
+    "lat": 23.619,
+    "lng": -75.97,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Flying_Out_over_Sampson_Cay_%283425542597%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-045.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AFlying_Out_over_Sampson_Cay_%283425542597%29.jpg",
+      "license": "CC0",
+      "author": "cogdogblog",
+      "attribution": "Photo: cogdogblog, CC0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Flying Out over Sampson Cay (3425542597).jpg' — Exuma island vista visible; desc: I can see Harriet and Skip's boat at the marina."
+    },
+    "facts": {
+      "one_liner": "Aerial Exuma cays—Sampson Cay turquoise shallows in the Bahamas chain.",
+      "why_go": "The hero is an aerial over Sampson Cay and neighbouring Exuma cays: bright turquoise banks, green cay scrub, and marina shallows (Commons: Flying Out over Sampson Cay). Official Bahamas tourism frames the Exumas as Great Exuma, Little Exuma, and the Exuma Cays—sapphire water and footprint-light beaches north of Nassau’s city strip. Sampson Cay sits in the central cays near Staniel Cay / Exuma Cays Land and Sea Park approaches—island-hopping territory, not a Nassau-only card.",
+      "best_time": "December–April for the driest, cooler trade-wind season; summer is hotter and wetter with hurricane-season awareness. Calm mornings favour boat and air transfers between cays.",
+      "how_to_get_there": "Fly into Exuma International (GGT) near George Town on Great Exuma for the main lodging base, or into Staniel Cay (TYM) for the central cays. Sampson Cay is typically reached by private boat or local marina/guide arrangements from the Staniel area—not as a Nassau day-walk. Water taxis and charters link George Town to Stocking Island and beyond.",
+      "good_to_know": "Exuma ≠ Nassau-only. Cay lodging outside George Town can be sparse—confirm marina/resort access. Respect Exuma Cays Land and Sea Park rules when cruising north. No invented tour prices.",
+      "official_or_tourism_url": "https://www.bahamas.com/islands/the-exumas",
+      "sources": [
+        "https://www.bahamas.com/islands/the-exumas",
+        "https://www.frommers.com/destinations/sampson-cay/",
+        "https://www.frommers.com/destinations/exuma-islands/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Exuma, Bahamas",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Exuma%2C%20Bahamas&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Exuma%2C%20Bahamas&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Exuma%2C%20Bahamas&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Exuma"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T04:26:37-05:00",
+      "audit_notes": "PASS — Sampson Cay aerial turquoise cays; cogdogblog CC0; hub Exuma.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "islands-046",
+    "tab": "islands",
+    "name": "Langkawi",
+    "short_line": "Andaman Sea, Malaysia",
+    "country": "Malaysia",
+    "lat": 6.35,
+    "lng": 99.8,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Langkawi_Pantai_Cenang_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-046.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALangkawi_Pantai_Cenang_3.JPG",
+      "license": "CC BY-SA 3.0",
+      "author": "RoB",
+      "attribution": "Photo: RoB, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Langkawi Pantai Cenang 3.JPG' — Langkawi island vista visible; desc: Pantai Cenang on Langkawi, Malaysia"
+    },
+    "facts": {
+      "one_liner": "Pantai Cenang—Langkawi’s main Andaman beach strip and sunset vista.",
+      "why_go": "The hero is Pantai Cenang on Langkawi, Malaysia: the island’s primary west-coast beach vista with sand, sea, and developed shorefront (Commons: Langkawi Pantai Cenang 3.JPG)—not the SkyCab cable-car or mainland Penang. Naturally Langkawi (LADA) markets the archipelago as a duty-free island destination; Cenang concentrates beach hotels, water sports, and sunset crowds while karst islets sit farther north and east. This card sells the Cenang beach frame specifically.",
+      "best_time": "November–April for the drier northeast monsoon window preferred by many beach visitors; May–October brings more rain on the west coast. Weekday mornings are quieter than weekend sunsets.",
+      "how_to_get_there": "Fly into Langkawi International (LGK) or take ferry/RoRo from Kuala Perlis / Kuala Kedah. Pantai Cenang is about 10–20 minutes by taxi or rental from the airport on the island’s southwest. Base on Langkawi—not Penang.",
+      "good_to_know": "Langkawi ≠ Penang. Cenang is the busy tourist beach; quieter strands (e.g., Datai / Tanjung Rhu areas) sit elsewhere. Duty-free shopping rules apply for alcohol/tobacco—check current allowances. No invented fees.",
+      "official_or_tourism_url": "https://www.naturallylangkawi.my/",
+      "sources": [
+        "https://www.naturallylangkawi.my/",
+        "https://www.langkawi-insight.com/langkawi_000040.htm",
+        "https://www.malaysia.travel/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Langkawi, Malaysia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Langkawi%2C%20Malaysia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Langkawi%2C%20Malaysia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Langkawi%2C%20Malaysia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Langkawi"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T04:26:37-05:00",
+      "audit_notes": "PASS — Pantai Cenang high vista (beach strip + islets); ≠ Penang; ≠ cable-car-only; RoB CC BY-SA 3.0; hub Langkawi. CLOSE CALL elevated.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "islands-047",
+    "tab": "islands",
+    "name": "Fernando de Noronha",
+    "short_line": "Atlantic Ocean, Brazil",
+    "country": "Brazil",
+    "lat": -3.8536,
+    "lng": -32.4297,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Morro_Dois_Irm%C3%A3os_-_Fernando_de_Noronha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-047.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMorro_Dois_Irm%C3%A3os_-_Fernando_de_Noronha.jpg",
+      "license": "CC BY 2.0",
+      "author": "Ricardo Polisel Alves",
+      "attribution": "Photo: Ricardo Polisel Alves, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Morro Dois Irmãos - Fernando de Noronha.jpg' — Fernando de Noronha island vista visible; desc: Morro dos Irmão, Fernando de Noronha, Brasil."
+    },
+    "facts": {
+      "one_liner": "Morro Dois Irmãos—twin stacks above Fernando de Noronha’s shore.",
+      "why_go": "The hero is Morro Dois Irmãos on Fernando de Noronha, Brazil: the twin volcanic stacks rising above pale shore and Atlantic water (Commons: Morro Dois Irmãos - Fernando de Noronha). ICMBio’s Parque Nacional Marinho lists the Dois Irmãos mirante among park viewpoints reached via trails such as Sancho–Mirante Dois Irmãos / Cacimba do Padre approaches. UNESCO World Heritage covers the Fernando de Noronha / Atol das Rocas islands for marine biodiversity. This is a controlled Atlantic archipelago—not a mainland Brazil beach.",
+      "best_time": "August–December often favoured for clearer seas and diving; rainy months vary. Start early for viewpoints before heat and boat traffic build.",
+      "how_to_get_there": "Fly into Fernando de Noronha (FEN)—typically via Recife or Natal. Stay in the APA settlement area (Vila dos Remédios / Boldró corridor). Park National Marine ticket is required for many beaches, trails, and the Dois Irmãos viewpoint; some trails need advance scheduling.",
+      "good_to_know": "OPEN FLAG — Park-controlled visit: buy the official Parque Nacional Marinho ticket and follow ICMBio trail rules; environmental preservation charges typically apply separately—confirm current fees only on official channels (no prices listed here). Do not climb the Dois Irmãos rock formations themselves. Pets and unauthorized plant imports are restricted. Capacity and trail schedules change—check parnanoronha / ICMBio before travel.",
+      "official_or_tourism_url": "https://www.parnanoronha.com.br/duvidas",
+      "sources": [
+        "https://www.parnanoronha.com.br/duvidas",
+        "https://whc.unesco.org/en/list/1000",
+        "https://www.icmbio.gov.br/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Fernando de Noronha, Brazil",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Fernando%20de%20Noronha%2C%20Brazil&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Fernando%20de%20Noronha%2C%20Brazil&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Fernando%20de%20Noronha%2C%20Brazil&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Fernando de Noronha"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T04:26:37-05:00",
+      "audit_notes": "PASS — Morro Dois Irmãos + shore; no climb/no fee amounts; Ricardo Polisel Alves CC BY 2.0; hub Fernando de Noronha.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "islands-048",
+    "tab": "islands",
+    "name": "Rakiura (Stewart Island)",
+    "short_line": "Southland, New Zealand",
+    "country": "New Zealand",
+    "lat": -46.9,
+    "lng": 168.1,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Stewart_Island_as_seen_from_i_plane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-048.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AStewart_Island_as_seen_from_i_plane.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Lundtoft",
+      "attribution": "Photo: Lundtoft, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Stewart Island as seen from i plane.jpg' — Rakiura (Stewart Island) island vista visible; desc: This photo was taken out of a window on a plane to Stewart Island in New Zealand. On the photo is Lee Bay first, then Horseshoe Bay behind that, and in the back"
+    },
+    "facts": {
+      "one_liner": "Aerial Rakiura coast—green bays and forested shore from the plane in.",
+      "why_go": "The hero is an aerial of Stewart Island / Rakiura’s green coast from a flight inbound—Lee Bay and Horseshoe Bay country without lettering (Commons: Stewart Island as seen from i plane). DOC describes Oban / Halfmoon Bay as the island’s main settlement and gateway to Rakiura National Park (~85% of the island) and Ulva Island sanctuary. This is its own New Zealand island south of Bluff—not a South Island mainland day-trip framing alone.",
+      "best_time": "November–April for longer daylight and milder walking weather; winter is shorter and colder with Roaring Forties wind. Weather changes fast year-round—pack layers.",
+      "how_to_get_there": "Passenger ferry from Bluff (~1 hour) into Halfmoon Bay / Oban, or short flight from Invercargill to Ryan’s Creek with shuttle into Oban. Base in Oban; most tracks and water taxis to Ulva start there. Confirm ferry/flight weather cancellations.",
+      "good_to_know": "Rakiura ≠ South Island mainland-only daytrip—plan at least one overnight. DOC visitor centre in Oban has current track and weather advice. Kiwi are present; keep dogs controlled where allowed. Dark Sky Sanctuary status—minimise light spill. No invented fees.",
+      "official_or_tourism_url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/southland/places/stewart-island-rakiura/oban-area/",
+      "sources": [
+        "https://www.doc.govt.nz/parks-and-recreation/places-to-go/southland/places/stewart-island-rakiura/oban-area/",
+        "https://www.doc.govt.nz/rakiura",
+        "https://www.stewartisland.co.nz/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Stewart Island, New Zealand",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Stewart%20Island%2C%20New%20Zealand&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Stewart%20Island%2C%20New%20Zealand&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Stewart%20Island%2C%20New%20Zealand&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Stewart Island"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T04:26:37-05:00",
+      "audit_notes": "PASS — Aerial green coast (plane cowling corner); no lettering; Lundtoft CC BY-SA 3.0; hub Stewart Island. CLOSE CALL aircraft parts.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "islands-049",
+    "tab": "islands",
+    "name": "Phu Quoc",
+    "short_line": "Gulf of Thailand, Vietnam",
+    "country": "Vietnam",
+    "lat": 10.227,
+    "lng": 103.967,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Kem_Beach_aerial_view_Phu_Quoc_Island_Vietnam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-049.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AKem_Beach_aerial_view_Phu_Quoc_Island_Vietnam.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Vivu Vietnam",
+      "attribution": "Photo: Vivu Vietnam, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Kem Beach aerial view Phu Quoc Island Vietnam.jpg' — Phu Quoc island vista visible; desc: View of Kem Beach, a pristine white sand beach lined with palm trees along the shoreline in Phu Quoc Island, Vietnam."
+    },
+    "facts": {
+      "one_liner": "Kem Beach aerial—white crescent sand and jungle hills on Phu Quoc.",
+      "why_go": "The hero is an aerial of Kem (Khem) Beach on southern Phu Quoc, Vietnam: pale crescent sand, turquoise shallows, and jungle-backed hills (Commons: Kem Beach aerial view Phu Quoc Island Vietnam). Local tourism materials place Bai Kem about 25 km south of Duong Dong near An Thoi—Gulf of Thailand island scenery, not Ha Long / Cat Ba karst or mainland VN beaches. Resorts line parts of the shore; public access corridors exist beside hotel frontages.",
+      "best_time": "November–April is the preferred dry window for beach weather on Phu Quoc; May–October brings more rain and occasional rough seas. Mornings often show clearer water.",
+      "how_to_get_there": "Fly into Phu Quoc International (PQC). From Duong Dong, drive or taxi south toward An Thoi / Kem Beach (~45–60 minutes depending on traffic). Base on Phu Quoc island—not mainland Vietnam beach towns.",
+      "good_to_know": "Phu Quoc ≠ Ha Long / Cat Ba / mainland beaches. Use marked public access rather than cutting through private resort lobbies when possible. Reef-safe sunscreen; watch jet-ski zones. No invented entrance fees.",
+      "official_or_tourism_url": "https://visitphuquoc.com.vn/en/kem-beach",
+      "sources": [
+        "https://visitphuquoc.com.vn/en/kem-beach",
+        "https://www.vietnamairlines.com/vn/en/plan-book/travel/travel-guide/khem-beach",
+        "https://visitphuquoc.com.vn/en"
+      ]
+    },
+    "ad": {
+      "destination_query": "Phu Quoc, Vietnam",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Phu%20Quoc%2C%20Vietnam&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Phu%20Quoc%2C%20Vietnam&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Phu%20Quoc%2C%20Vietnam&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Phu Quoc"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T04:26:37-05:00",
+      "audit_notes": "PASS — Kem Beach aerial white sand + palms; ≠ mainland VN; Vivu Vietnam CC BY-SA 4.0; hub Phu Quoc. CLOSE CALL hills soft.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "islands-050",
+    "tab": "islands",
+    "name": "Île des Pins (Isle of Pines)",
+    "short_line": "Coral Sea, New Caledonia",
+    "country": "New Caledonia",
+    "lat": -22.6167,
+    "lng": 167.4833,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Kanumera_Bay%2C_Isle_of_Pines%2C_New_Caledonia%2C_2007_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/islands/islands-050.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AKanumera_Bay%2C_Isle_of_Pines%2C_New_Caledonia%2C_2007_%283%29.JPG",
+      "license": "CC BY-SA 3.0",
+      "author": "Bahnfrend",
+      "attribution": "Photo: Bahnfrend, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Kanumera Bay, Isle of Pines, New Caledonia, 2007 (3).JPG' — Île des Pins (Isle of Pines) island vista visible; desc: View of Kanumera Bay, Isle of Pines, New Caledonia."
+    },
+    "facts": {
+      "one_liner": "Kanumera Bay—pines, white sand, and sacred rock on Île des Pins.",
+      "why_go": "The hero is Kanumera Bay on Île des Pins (Isle of Pines), New Caledonia: white sand, columnar pines/coconuts, and clear lagoon water around the bay’s central coral rock (Commons: Kanumera Bay, Isle of Pines). Official New Caledonia / Sud Tourisme pages pair Kanumera with neighbouring Kuto Bay as the island’s classic west-shore postcard—French Pacific territory scenery, not mainland Nouméa city beaches. Snorkelling around the rock is the trademark activity; climbing the rock is forbidden (sacred site).",
+      "best_time": "May–October (Austral dry/cooler season) preferred by many for clearer lagoon days; November–April is warmer and wetter. Cruise-ship days can crowd Kuto—Kanumera often feels quieter by late afternoon.",
+      "how_to_get_there": "Fly or take the Betico ferry from Nouméa to Île des Pins (Kuto Bay landing). Kanumera sits beside Kuto across a narrow isthmus—walk or short drive. Base on Île des Pins (Kuto/Kanumera lodging), not as a Nouméa day-card only.",
+      "good_to_know": "New Caledonia is a French territory; Kanumera ≠ Nouméa as the hero place. Free beach access year-round per official tourism listings. Do not climb the taboo rock in the bay. Respect Kanak / Kunié customs and lagoon conservation rules. No invented fees.",
+      "official_or_tourism_url": "https://www.newcaledonia.travel/offers/kanumera-beach-ile-des-pins-en-3915932/",
+      "sources": [
+        "https://www.newcaledonia.travel/offers/kanumera-beach-ile-des-pins-en-3915932/",
+        "https://www.sudtourisme.nc/en/explore/must-sees/kuto-and-kanumera-beaches/",
+        "https://www.sudtourisme.nc/en/southern-province/isle-of-pines/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Île des Pins, New Caledonia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=%C3%8Ele%20des%20Pins%2C%20New%20Caledonia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=%C3%8Ele%20des%20Pins%2C%20New%20Caledonia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=%C3%8Ele%20des%20Pins%2C%20New%20Caledonia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Île des Pins"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T04:26:37-05:00",
+      "audit_notes": "PASS — Kanumera Bay pines + white sand/lagoon; Bahnfrend CC BY-SA 3.0; hub Île des Pins. CLOSE CALL dark foreground slabs.",
+      "reject_reason": null
+    }
   }
 ]

@@ -724,8 +724,10 @@
     "islands": {
       "live_file": "data/islands.json",
       "archive_dir": "data/decks/islands/",
-      "approved_count": 40,
+      "approved_count": 50,
       "catalog_target": 100,
+      "scale_target_met": false,
+      "mvp_ready": true,
       "sets": [
         {
           "id": "islands-set-001",
@@ -782,11 +784,28 @@
             "islands-039",
             "islands-040"
           ]
+        },
+        {
+          "id": "islands-set-003",
+          "file": "set-003.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "islands-041",
+            "islands-042",
+            "islands-043",
+            "islands-044",
+            "islands-045",
+            "islands-046",
+            "islands-047",
+            "islands-048",
+            "islands-049",
+            "islands-050"
+          ]
         }
       ],
-      "next": "Islands 041–060 toward 100",
-      "scale_target_met": false,
-      "mvp_ready": true
+      "latest_set": "set-003",
+      "next": "Islands 051–100 toward 100 (catalog honesty: 50≠100)"
     },
     "luxury": {
       "live_file": "data/luxury.json",
