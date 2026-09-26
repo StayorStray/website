@@ -2047,5 +2047,535 @@
       "audit_notes": "PASS — LOCK Rogers Centre Toronto: white retractable dome + ROGERS CENTRE red lettering (Taxiarchos228 CC BY-SA 3.0; Commons object location Toronto). Coords 43.6414,-79.3894 ≠ BC Place Vancouver. Ad Toronto OK. NOT BC Place / NOT Vancouver.",
       "reject_reason": null
     }
+  },
+  {
+    "id": "arenas-041",
+    "tab": "arenas",
+    "name": "Cape Town Stadium",
+    "short_line": "Cape Town, South Africa",
+    "country": "South Africa",
+    "lat": -33.9035,
+    "lng": 18.4112,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cape_Town_Stadium_wza2.jpg",
+      "local_path": "images/arenas/arenas-041.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACape_Town_Stadium_wza2.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Winstonza",
+      "attribution": "Photo: Winstonza, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Cape Town Stadium wza2.jpg (Winstonza, Mar 2011). Visually verified: Cape Town Stadium white exterior bowl across Table Bay with Table Mountain and Lion's Head backdrop."
+    },
+    "facts": {
+      "one_liner": "Green Point’s white World Cup bowl across Table Bay—Table Mountain and Lion’s Head as the backdrop.",
+      "why_go": "Cape Town Stadium (commercially DHL Stadium) sits in Green Point where the white translucent bowl meets Table Bay waterfront apartments. The photo frames exactly that postcard: the circular façade glowing at golden hour with Table Mountain’s flat plateau and Lion’s Head rising behind the bay. Built for the 2010 FIFA World Cup, it remains Cape Town’s main football and rugby arena and a landmark you can tour on non-event days. Official stadium tours cover pitch-side, players’ tunnel, change rooms, VIP suites, and an optional roof walk with mountain-and-sea views.",
+      "best_time": "Clear late-afternoon light for the Table Bay / Table Mountain exterior framing in the hero shot; book non-event weekday tours via the official stadium site. Event build-up and match days cancel or shorten routes.",
+      "how_to_get_there": "Fritz Sonnenberg Road, Green Point, Cape Town 8051. MyCiTi bus to the Stadium stop from Civic Centre / V&A Waterfront; short walk from Green Point Common. Prefer transit on big-event days.",
+      "good_to_know": "OPEN for matches, concerts, and stadium tours 2025–2026. Card title keeps Cape Town Stadium (widely used public name); commercial branding is DHL Stadium on dhlstadium.co.za. Capacity is roughly mid-50,000s. Do not confuse with FNB Stadium / Soccer City in Johannesburg.",
+      "official_or_tourism_url": "https://dhlstadium.co.za/stadium/tours",
+      "sources": [
+        "https://dhlstadium.co.za/stadium/tours",
+        "https://www.capetourism.com/cape-town-stadium/",
+        "https://www.capetown.gov.za/Family%20and%20home/See-all-city-facilities/Our-recreational-facilities/Stadia/DHL%20Stadium"
+      ]
+    },
+    "ad": {
+      "destination_query": "Cape Town, South Africa",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Cape%20Town%2C%20South%20Africa&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Cape%20Town%2C%20South%20Africa&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Cape%20Town%2C%20South%20Africa&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Cape Town"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T03:24:13-05:00",
+      "audit_notes": "PASS — Cape Town Stadium white bowl across Table Bay with Table Mountain/Lion's Head (Winstonza CC BY-SA 3.0). Facts/ad Cape Town OK; DHL commercial name disclosed. ≠ MetLife/FNB. CLOSE CALL: landscape-heavy mid-ground stadium.",
+      "reject_reason": null
+    },
+    "destination_query": "Cape Town, South Africa"
+  },
+  {
+    "id": "arenas-042",
+    "tab": "arenas",
+    "name": "Cairo International Stadium",
+    "short_line": "Cairo, Egypt",
+    "country": "Egypt",
+    "lat": 30.0692,
+    "lng": 31.3122,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ma%C4%91unarodni_stadion_u_Kairu.jpg",
+      "local_path": "images/arenas/arenas-042.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMa%C4%91unarodni_stadion_u_Kairu.jpg",
+      "license": "CC0",
+      "author": "Jure Grm",
+      "attribution": "Photo: Jure Grm, CC0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Mađunarodni stadion u Kairu.jpg (Jure Grm, 23 Mar 2024). Visually verified: Cairo International Stadium night bowl during FIFA Series Croatia–Tunisia; multi-tier stands and floodlights."
+    },
+    "facts": {
+      "one_liner": "Nasr City’s night bowl—Egypt’s Olympic-standard national stadium under FIFA Series floodlights.",
+      "why_go": "Cairo International Stadium in Nasr City is Egypt’s premier Olympic-standard football venue, designed by Werner March and inaugurated in 1960. The hero photo is a night bowl during FIFA Series 2024 (Croatia–Tunisia): multi-tier blue-and-tan seating, floodlight towers, Egyptian-flag banner, and pitch-side ceremony banners. It hosts national-team fixtures, major club derbies, and multi-sport events across the wider Cairo Stadium complex. Public walk-up museum hours are limited—visits are usually match-day tickets or prior arrangement with the stadium authority.",
+      "best_time": "Night internationals deliver the floodlit bowl look in the photo; summer pitch maintenance can close the main field (authority notices list seasonal closures). Confirm fixtures on cairo-stadium.org.eg before planning a visit.",
+      "how_to_get_there": "Nasr City, northeast Cairo (~10 km from Cairo International Airport; ~30 km from downtown). Cairo Metro Line 3 serves the district; taxis and ride-hail are common for the stadium gates. Prefer metro or arranged transport on derby nights.",
+      "good_to_know": "OPEN for football and complex sports events 2025–2026 (General Authority of Cairo Stadium). All-seated capacity is published around 75,000. Daily tourist tours are not guaranteed—contact the authority for non-match access. Do not confuse with Borg El Arab Stadium in Alexandria.",
+      "official_or_tourism_url": "http://www.cairo-stadium.org.eg/",
+      "sources": [
+        "http://www.cairo-stadium.org.eg/",
+        "https://www.cairo.gov.eg/en/culture/cairo-history/modern-landmarks/cairo-international-stadium/",
+        "https://commons.wikimedia.org/wiki/File:Ma%C4%91unarodni_stadion_u_Kairu.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Cairo, Egypt",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Cairo%2C%20Egypt&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Cairo%2C%20Egypt&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Cairo%2C%20Egypt&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Cairo"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T03:24:13-05:00",
+      "audit_notes": "PASS — Cairo International Stadium night bowl FIFA Series 2024 Croatia–Tunisia; Egyptian flag + Arabic scoreboard (Jure Grm CC0). Facts/ad Cairo OK. ≠ Borg El Arab.",
+      "reject_reason": null
+    },
+    "destination_query": "Cairo, Egypt"
+  },
+  {
+    "id": "arenas-043",
+    "tab": "arenas",
+    "name": "Rams Park",
+    "short_line": "Istanbul, Turkey",
+    "country": "Turkey",
+    "lat": 41.1028,
+    "lng": 28.9906,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Arena_-_panoramio_%282%29.jpg",
+      "local_path": "images/arenas/arenas-043.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AArena_-_panoramio_%282%29.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Ersin Biçer",
+      "attribution": "Photo: Ersin Biçer, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Arena - panoramio (2).jpg (Ersin Biçer). Visually verified: daytime exterior of Ali Sami Yen Spor Kompleksi / Rams Park with illuminated 'TÜRK TELEKOM ARENA' lettering and Galatasaray crest."
+    },
+    "facts": {
+      "one_liner": "Galatasaray’s Seyrantepe home—Rams Park today; photo still shows Türk Telekom Arena façade lettering.",
+      "why_go": "Rams Park (full name Ali Sami Yen Spor Kompleksi – Rams Park) is Galatasaray’s all-seater home in Seyrantepe, Sarıyer, on Istanbul’s European side. The photo is a daytime exterior: curved multi-tier bowl, white V-columns under a flat roof overhang, Galatasaray yellow-red flags—and illuminated ‘TÜRK TELEKOM ARENA’ lettering from an earlier naming era on the same building. Naming rights shifted Türk Telekom Arena / Stadium (2011–2021) → Nef Stadium (2021–2023) → Rams Park (from 2023). Museum and stadium tours run most non-match days from the complex.",
+      "best_time": "Clear daylight for the exterior façade (as photographed); museum/stadium tours typically daytime except Mondays and home-match days—confirm gsmuze.com / Biletix calendars. Night matches pack Seyrantepe metro.",
+      "how_to_get_there": "Huzur / Metin Oktay area, Seyrantepe, Sarıyer, Istanbul. Metro M2 to Seyrantepe (stadium-linked station); follow pedestrian routes to the gates. Prefer metro on Süper Lig nights.",
+      "good_to_know": "OPEN as Rams Park (current commercial name); complex still officially Ali Sami Yen Spor Kompleksi. Photo shows former Türk Telekom Arena branding—same Galatasaray venue, not the demolished old Ali Sami Yen in Mecidiyeköy. Capacity is in the low-to-mid 50,000s. Book museum + stadium tour tickets in advance.",
+      "official_or_tourism_url": "https://www.galatasaray.org/s/ali-sami-yen-spor-kompleksi-rams-global-stadyumu/202",
+      "sources": [
+        "https://www.galatasaray.org/s/ali-sami-yen-spor-kompleksi-rams-global-stadyumu/202",
+        "https://gsmuze.com/ali-sami-yen/",
+        "https://en.wikipedia.org/wiki/Rams_Park"
+      ]
+    },
+    "ad": {
+      "destination_query": "Istanbul, Turkey",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Istanbul%2C%20Turkey&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Istanbul%2C%20Turkey&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Istanbul%2C%20Turkey&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Istanbul"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T03:24:13-05:00",
+      "audit_notes": "PASS — Rams Park (Ali Sami Yen Spor Kompleksi) daytime exterior with TÜRK TELEKOM ARENA lettering + Galatasaray crest (Ersin Biçer CC BY-SA 3.0). Naming chain Türk Telekom→Nef→Rams disclosed in facts/proof. Ad Istanbul OK. Honesty lock PASS.",
+      "reject_reason": null
+    },
+    "destination_query": "Istanbul, Turkey"
+  },
+  {
+    "id": "arenas-044",
+    "tab": "arenas",
+    "name": "Rajko Mitić Stadium",
+    "short_line": "Belgrade, Serbia",
+    "country": "Serbia",
+    "lat": 44.7833,
+    "lng": 20.4647,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Beograd_7652.jpg",
+      "local_path": "images/arenas/arenas-044.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABeograd_7652.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Darwinek",
+      "attribution": "Photo: Darwinek, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Beograd 7652.jpg (Darwinek). Visually verified: Rajko Mitić Stadium (Marakana) bowl with red Delije seating spelling ДЕЛИЈЕ and Church of Saint Sava on Belgrade skyline."
+    },
+    "facts": {
+      "one_liner": "Red Star’s Marakana—red Delije seating spelling ДЕЛИЈЕ with Saint Sava on the Belgrade skyline.",
+      "why_go": "Rajko Mitić Stadium (nicknamed Marakana) is FK Crvena zvezda’s Dedinje home and one of Southeast Europe’s most atmospheric club bowls. The photo looks out from under a stand overhang across the athletics track to the red seating where white seats spell ДЕЛИЈЕ (Delije—the club’s ultras), with the green-domed Church of Saint Sava on the skyline beyond a floodlight tower. Official guided tours combine the FC Crvena zvezda Museum with pitch, tunnels (including the long north-stand tunnel), media center, and dressing areas. The ground stays active for SuperLiga and European nights through 2025–2026.",
+      "best_time": "Non-match weekdays for fullest museum + stadium tour routes (official site lists weekday and weekend museum hours); overcast light still reads the red Delije letters clearly. Match days cancel tours.",
+      "how_to_get_there": "Ljutice Bogdana 1a, Dedinje, Belgrade. City buses and taxis serve the Dedinje / stadium approach; allow extra time on derby and European nights. Tour meeting point is at the club museum.",
+      "good_to_know": "OPEN for matches and Stadium Tour + Museum 2025–2026 (crvenazvezdafk.com). Official name since December 2014 is Rajko Mitić Stadium; fans still say Marakana. Capacity is around 50,000+. Tours unavailable on domestic/European match days.",
+      "official_or_tourism_url": "https://www.crvenazvezdafk.com/en/klub/stadionska-tura",
+      "sources": [
+        "https://www.crvenazvezdafk.com/en/klub/stadionska-tura",
+        "https://www.crvenazvezdafk.com/en/klub/stadion-rajko-mitic",
+        "https://commons.wikimedia.org/wiki/File:Beograd_7652.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Belgrade, Serbia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Belgrade%2C%20Serbia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Belgrade%2C%20Serbia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Belgrade%2C%20Serbia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Belgrade"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T03:24:13-05:00",
+      "audit_notes": "PASS — Rajko Mitić (Marakana) bowl: red seats spell ДЕЛИЈЕ + Church of Saint Sava skyline (Darwinek CC BY-SA 3.0). Facts/ad Belgrade OK; 2014 rename disclosed.",
+      "reject_reason": null
+    },
+    "destination_query": "Belgrade, Serbia"
+  },
+  {
+    "id": "arenas-045",
+    "tab": "arenas",
+    "name": "Optus Stadium",
+    "short_line": "Perth, Australia",
+    "country": "Australia",
+    "lat": -31.9511,
+    "lng": 115.8892,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Perth_Stadium%2C_December_2017_01.jpg",
+      "local_path": "images/arenas/arenas-045.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APerth_Stadium%2C_December_2017_01.jpg",
+      "license": "CC0",
+      "author": "Samuel Wiki",
+      "attribution": "Photo: Samuel Wiki, CC0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Perth Stadium, December 2017 01.jpg (Samuel Wiki, Dec 2017). Visually verified: Optus Stadium (Perth Stadium) bronze-panel exterior from Victoria Park Drive with Gate A/B plaza — distinct from MCG/Stadium Australia."
+    },
+    "facts": {
+      "one_liner": "Perth’s bronze-panel riverside arena—Optus Stadium on the Swan, not Melbourne’s MCG or Sydney’s Accor.",
+      "why_go": "Optus Stadium (built as Perth Stadium) opened in Burswood in 2018 as Western Australia’s flagship multi-purpose venue on the Swan River. The photo matches the plaza exterior: horizontal bronze façade slats, glass vertical atriums, white tensile roof masts, and Gate plaza landscaping under a clear Perth sky—architecture distinct from the MCG or Accor Stadium Sydney. Guided Optus Stadium Tours (~90 minutes) cover changerooms, Sky View Lounge city/river vistas, and memorabilia; they do not run on event days. AFL (West Coast / Fremantle), cricket, football, and concerts keep the venue OPEN through 2025–2026.",
+      "best_time": "Bright daylight for the bronze façade and white roof as in the hero shot; book morning tour slots (typically late morning–early afternoon). Confirm event calendars—tours cancel on match and concert days.",
+      "how_to_get_there": "333 Victoria Park Drive, Burswood WA 6100. Transperth train to Perth Stadium Station or walk via Windan Bridge from East Perth; use JourneyPlanner for event-day services. Prefer rail over driving for full-capacity fixtures.",
+      "good_to_know": "OPEN as Optus Stadium, Perth (MUST not confuse with MCG Melbourne or Accor Stadium / Stadium Australia in Sydney). Tours book via The Ozone / optusstadiumtours.rezdy.com. Capacity is event-dependent (around 60,000). Official site: optusstadium.com.au.",
+      "official_or_tourism_url": "https://optusstadium.com.au/",
+      "sources": [
+        "https://optusstadium.com.au/",
+        "https://optusstadiumtours.rezdy.com/215521/the-optus-stadium-tour",
+        "https://www.venueswest.wa.gov.au/venues/optus-stadium"
+      ]
+    },
+    "ad": {
+      "destination_query": "Perth, Australia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Perth%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Perth%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Perth%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Perth"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T03:24:13-05:00",
+      "audit_notes": "PASS — Optus/Perth Stadium bronze-panel exterior Victoria Park Drive Gate A/B (Samuel Wiki CC0). Explicitly ≠ MCG Melbourne / Accor Sydney. Facts/ad Perth OK. Honesty lock PASS.",
+      "reject_reason": null
+    },
+    "destination_query": "Perth, Australia"
+  },
+  {
+    "id": "arenas-046",
+    "tab": "arenas",
+    "name": "Luzhniki Stadium",
+    "short_line": "Moscow, Russia",
+    "country": "Russia",
+    "lat": 55.7158,
+    "lng": 37.5536,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Luzhniki_Stadium_20190430.jpg",
+      "local_path": "images/arenas/arenas-046.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALuzhniki_Stadium_20190430.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Suicasmo",
+      "attribution": "Photo: Suicasmo, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Luzhniki Stadium 20190430.jpg (Suicasmo, 30 Apr 2019). Visually verified: Luzhniki exterior colonnade and athlete frieze with Moskva River and Moscow skyline."
+    },
+    "facts": {
+      "one_liner": "Moscow’s riverside national arena—colonnade and athlete frieze above the Moskva, viewed from Sparrow Hills.",
+      "why_go": "Luzhniki Stadium (Grand Sports Arena) is Russia’s flagship football venue in the Luzhniki Olympic Complex on the Moskva River and hosted the 2018 FIFA World Cup final. The photo is the classic Sparrow Hills overlook: cream colonnade façade, dark athlete frieze under a modern radial roof, riverside plaza, and the glass Moscow Cable Car station across the water with the city skyline beyond. Official excursion programmes (arena tours, roof walks, themed routes) book through the Luzhniki Excursion Centre. The stadium remains OPEN for internationals, league fixtures, and guided visits subject to the event calendar.",
+      "best_time": "Clear daylight from Vorobyovy Gory / cable-car approaches for the colonnade-and-river framing in the photo; book tours via luzhniki.ru on non-event days. Winter and event load-ins restrict plaza access.",
+      "how_to_get_there": "Luzhniki Street 24, Moscow. Metro Sportivnaya / Vorobyovy Gory; Moscow Cable Car links Sparrow Hills with the Luzhniki station. Prefer metro or cable car on event days.",
+      "good_to_know": "OPEN for football, events, and Excursion Centre programmes 2025–2026 (luzhniki.ru). Post-2018 renovation capacity is about 81,000. Confirm tour slots with tours@luzhniki.ru—schedules are event-dependent. Façade heritage look retained with a modern roof.",
+      "official_or_tourism_url": "https://www.luzhniki.ru/activities/ekskursii/",
+      "sources": [
+        "https://www.luzhniki.ru/activities/ekskursii/",
+        "https://www.mos.ru/city/projects/new-luzhniki/",
+        "https://commons.wikimedia.org/wiki/File:Luzhniki_Stadium_20190430.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Moscow, Russia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Moscow%2C%20Russia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Moscow%2C%20Russia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Moscow%2C%20Russia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Moscow"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T03:24:13-05:00",
+      "audit_notes": "PASS — Luzhniki riverside colonnade + athlete frieze, Moskva/Sparrow Hills view (Suicasmo CC BY-SA 4.0). Facts/ad Moscow OK.",
+      "reject_reason": null
+    },
+    "destination_query": "Moscow, Russia"
+  },
+  {
+    "id": "arenas-047",
+    "tab": "arenas",
+    "name": "Olympic Stadium Athens (OAKA)",
+    "short_line": "Athens, Greece",
+    "country": "Greece",
+    "lat": 38.0361,
+    "lng": 23.7875,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Olympic_flame_at_opening_ceremony_2004.jpg",
+      "local_path": "images/arenas/arenas-047.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AOlympic_flame_at_opening_ceremony_2004.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Alterego",
+      "attribution": "Photo: Alterego, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Olympic flame at opening ceremony 2004.jpg (Alterego). Visually verified: OAKA bowl with Santiago Calatrava white arched roof, Olympic cauldron flame, and packed stands during 2004 opening ceremony."
+    },
+    "facts": {
+      "one_liner": "Athens 2004’s Calatrava bowl—white arched roof and Olympic cauldron flame at the opening ceremony.",
+      "why_go": "The Olympic Stadium at OAKA (Spyros Louis) in Marousi is Athens’s main Olympic stadium, completed in 1982 and crowned for 2004 with Santiago Calatrava’s white arched roof. The hero image is NOT a daytime exterior crop: it is the packed night bowl during the 2004 Summer Olympics opening ceremony—Olympic cauldron flame roaring left of frame, Calatrava white steel ribs overhead, fireworks, and international flags along the rim. That ceremony view is the card’s visual identity. OAKA still stages athletics, football, and concerts; complex visit programmes are bookable through the official OAKA site when groups or private tours are scheduled.",
+      "best_time": "Night events recreate the floodlit Calatrava bowl mood of the ceremony photo; for architecture close-ups, daylight non-event visits show the white arches clearly. Confirm visit programmes with OAKA (group minimums often apply; private tours by arrangement).",
+      "how_to_get_there": "Av. Olympionikou Spirou Loui 1, 151 23 Marousi, Athens. Metro Line 1 (Green) to Irini / Neratziotissa area then walk/shuttle into the OAKA complex; suburban rail also serves the district. Prefer metro on event nights.",
+      "good_to_know": "OPEN as OAKA Main Olympic Stadium for sports and events 2025–2026 (oaka.com.gr). Capacity listed around 69,618. Facts and why_go MUST stay tied to the Calatrava roof + 2004 cauldron ceremony bowl—not a different façade crop. Contact info@oaka.gr for visit enquiries.",
+      "official_or_tourism_url": "https://oaka.com.gr/en/facilities/main-olympic-stadium",
+      "sources": [
+        "https://oaka.com.gr/en/facilities/main-olympic-stadium",
+        "https://oaka.com.gr/en/complex-tours/",
+        "https://commons.wikimedia.org/wiki/File:Olympic_flame_at_opening_ceremony_2004.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Athens, Greece",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Athens%2C%20Greece&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Athens%2C%20Greece&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Athens%2C%20Greece&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Athens"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T03:24:13-05:00",
+      "audit_notes": "PASS — OAKA 2004 opening-ceremony bowl: Calatrava white arched roof + Olympic cauldron flame (Alterego CC BY-SA 3.0). why_go tied to ceremony view. Facts/ad Athens OK. Honesty lock PASS.",
+      "reject_reason": null
+    },
+    "destination_query": "Athens, Greece"
+  },
+  {
+    "id": "arenas-048",
+    "tab": "arenas",
+    "name": "Fortuna Arena",
+    "short_line": "Prague, Czechia",
+    "country": "Czechia",
+    "lat": 50.0675,
+    "lng": 14.4717,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Eden_Arena_Prague.jpg",
+      "local_path": "images/arenas/arenas-048.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AEden_Arena_Prague.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Tam Nugent",
+      "attribution": "Photo: Tam Nugent, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Eden Arena Prague.jpg (Tam Nugent). Visually verified: Fortuna Arena (Eden) exterior with rooftop 'FORTUNA ★ ARENA' lettering and Slavia Museum plaza facade."
+    },
+    "facts": {
+      "one_liner": "Slavia Prague’s Eden home—Fortuna Arena façade with rooftop lettering and Slavia Museum plaza.",
+      "why_go": "Fortuna Arena in Prague’s Vršovice / Eden district is SK Slavia Praha’s modern home (long known as Eden Arena before Fortuna naming rights). The photo is the curved plaza façade: dark cladding with red light strips, greyscale hall-of-fame player banners, ground-floor retail, and rooftop ‘FORTUNA ★ ARENA’ lettering above a Slavia Museum entrance. Self-guided Stadium Tour + Slavia Museum visits cover dressing rooms, benches, press areas, VIP spaces, and pitch views on published weekend (and summer Friday) openings. The venue stays OPEN for Fortuna Liga, Europe, and museum days through 2025–2026.",
+      "best_time": "Weekend museum/tour slots when no home match or national-team/concert event is listed; summer Fridays often open too. Overcast plaza light still reads the Fortuna Arena roof sign clearly as in the photo.",
+      "how_to_get_there": "U Slavie / Eden area, Prague 10. Tram and metro connections serve Vršovice / Eden; walk to Entrance 4 for museum ticket office. Prefer transit on match days.",
+      "good_to_know": "OPEN under current commercial name Fortuna Arena (formerly Eden Arena / Eden Stadium—same Slavia Prague venue). Museum + Stadium Tour normally weekends; closed on Slavia home weekends and some national events—check slavia.cz calendars. Do not invent Eden-as-current naming.",
+      "official_or_tourism_url": "https://www.slavia.cz/eng/stadium-tour-museum",
+      "sources": [
+        "https://www.slavia.cz/eng/stadium-tour-museum",
+        "https://www.slavia.cz/museum-2",
+        "https://commons.wikimedia.org/wiki/File:Eden_Arena_Prague.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Prague, Czechia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Prague%2C%20Czechia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Prague%2C%20Czechia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Prague%2C%20Czechia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Prague"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T03:24:13-05:00",
+      "audit_notes": "PASS — Fortuna Arena plaza façade with rooftop FORTUNA ★ ARENA + Slavia Museum banners (Tam Nugent CC BY-SA 4.0). Formerly Eden disclosed. Facts/ad Prague OK. Honesty lock PASS.",
+      "reject_reason": null
+    },
+    "destination_query": "Prague, Czechia"
+  },
+  {
+    "id": "arenas-049",
+    "tab": "arenas",
+    "name": "King Baudouin Stadium",
+    "short_line": "Brussels, Belgium",
+    "country": "Belgium",
+    "lat": 50.8958,
+    "lng": 4.3342,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Stade_Roi_Baudouin_laeken.jpg",
+      "local_path": "images/arenas/arenas-049.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AStade_Roi_Baudouin_laeken.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Tram Bruxelles",
+      "attribution": "Photo: Tram Bruxelles, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Stade Roi Baudouin laeken.jpg (Tram Bruxelles). Visually verified: King Baudouin Stadium red-brick exterior with 'KONING BOUDEWIJN' window lettering and Belgian flags."
+    },
+    "facts": {
+      "one_liner": "Brussels’ national stadium in Laeken—red-brick façade with KONING BOUDEWIJN window lettering.",
+      "why_go": "King Baudouin Stadium (Dutch Koning Boudewijnstadion; French Stade Roi Baudouin) is Belgium’s national football and athletics venue in Brussels’ Laeken / Heizel area. The photo shows the modern red-brick exterior: recessed classical portico, Belgian flags on angled poles, a tall floodlight mast, and bold ‘KONING BOUDEWIJN’ lettering behind ground-floor glass facing a grey plaza. Official Saturday guided tours (French, Dutch, English slots) visit Red Devils dressing room, press areas, artist dressing room, players’ tunnel, and pitchside when the schedule allows. Internationals, athletics, and concerts keep the stadium OPEN through 2025–2026.",
+      "best_time": "Book Saturday English/French/Dutch tour slots in advance (reservation only—no on-site sales); overcast brick façade still matches the hero exterior. Event calendars cancel public tours.",
+      "how_to_get_there": "Rue du Disque / Stadium gates, 1020 Brussels (Gate 1E for tours). Metro Line 6 to Roi Baudouin (~100 m); trams 9/51/93 Stade; De Lijn buses to Stade / Brugmann. Bike and car parking available for tour ticket holders.",
+      "good_to_know": "OPEN for national-team football, athletics, concerts, and Saturday stadium tours 2025–2026 (kingbaudouinstadium.be). Multilingual public names: King Baudouin / Koning Boudewijn / Roi Baudouin—same Laeken venue. Arrive ~15 minutes early; latecomers may miss the locked start.",
+      "official_or_tourism_url": "https://kingbaudouinstadium.be/index.php/visites/?lang=en",
+      "sources": [
+        "https://kingbaudouinstadium.be/index.php/visites/?lang=en",
+        "https://www.brussels.be/visit-king-baudouin-stadium",
+        "https://commons.wikimedia.org/wiki/File:Stade_Roi_Baudouin_laeken.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Brussels, Belgium",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Brussels%2C%20Belgium&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Brussels%2C%20Belgium&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Brussels%2C%20Belgium&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Brussels"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T03:24:13-05:00",
+      "audit_notes": "PASS — King Baudouin red-brick exterior KONING BOUDEWIJN window lettering + Belgian flags (Tram Bruxelles CC BY-SA 4.0). Facts/ad Brussels OK. CLOSE CALL: large empty plaza FG.",
+      "reject_reason": null
+    },
+    "destination_query": "Brussels, Belgium"
+  },
+  {
+    "id": "arenas-050",
+    "tab": "arenas",
+    "name": "Parken Stadium",
+    "short_line": "Copenhagen, Denmark",
+    "country": "Denmark",
+    "lat": 55.7025,
+    "lng": 12.5722,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Denmark_copenhagen_parken_stadium.jpg",
+      "local_path": "images/arenas/arenas-050.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ADenmark_copenhagen_parken_stadium.jpg",
+      "license": "CC BY-SA 3.0 de",
+      "author": "Arne Müseler",
+      "attribution": "Photo: Arne Müseler, CC BY-SA 3.0 de, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons File:Denmark copenhagen parken stadium.jpg (Arne Müseler). Visually verified: aerial exterior of Parken with rooftop 'PARKEN' lettering, Fælledparken, and Copenhagen red roofs."
+    },
+    "facts": {
+      "one_liner": "Copenhagen’s national football home beside Fælledparken—Parken’s cream façade and retractable roof.",
+      "why_go": "Parken Stadium (Parken) in Østerbro is Denmark’s national football stadium and F.C. Copenhagen’s home, hard against Fælledparken’s green. The aerial hero shows the cream multi-storey façade with glass office corners, white arched roof truss and retractable central roof panels, blue FCK player banners, tennis courts, and Copenhagen’s red-tiled neighbourhood roofs stretching toward the Øresund. Classic (~45 min) and longer VIP stadium tours run when the match/event calendar allows via Parken Tours / FCK Fanshop. The ground stays OPEN for Superliga, internationals, and concerts through 2025–2026.",
+      "best_time": "Clear daylight for the aerial neighbourhood-and-park framing in the photo; book Classic or VIP tours on published non-match dates. European home nights and concerts cancel public tour slots.",
+      "how_to_get_there": "Per Henrik Lings Allé / Øster Allé area, Østerbro, Copenhagen. Metro and bus links to Trianglen / Østerport then walk through or beside Fælledparken; prefer transit on match days.",
+      "good_to_know": "OPEN as Parken Stadium for FCK, Denmark internationals, and Parken Tours 2025–2026 (fck.dk / parkentours). Retractable roof and urban-park setting distinguish it from suburban arenas. Check Fanshop tour calendars—private group tours also available.",
+      "official_or_tourism_url": "https://www.fck.dk/en/parken-stadium-tours",
+      "sources": [
+        "https://www.fck.dk/en/parken-stadium-tours",
+        "https://www.fck.dk/en/content/experiences-copenhagen",
+        "https://commons.wikimedia.org/wiki/File:Denmark_copenhagen_parken_stadium.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Copenhagen, Denmark",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Copenhagen%2C%20Denmark&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Copenhagen%2C%20Denmark&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Copenhagen%2C%20Denmark&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Copenhagen"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-09-26T03:24:13-05:00",
+      "audit_notes": "PASS — Parken aerial with PARKEN lettering, Fælledparken, Copenhagen roofs (Arne Müseler CC BY-SA 3.0 de). Facts/ad Copenhagen OK.",
+      "reject_reason": null
+    },
+    "destination_query": "Copenhagen, Denmark"
   }
 ]
