@@ -1,0 +1,512 @@
+{
+  "id": "parks-set-003",
+  "tab": "parks",
+  "label": "National Parks — Set 3 (041–050)",
+  "card_ids": [
+    "parks-041",
+    "parks-042",
+    "parks-043",
+    "parks-044",
+    "parks-045",
+    "parks-046",
+    "parks-047",
+    "parks-048",
+    "parks-049",
+    "parks-050"
+  ],
+  "count": 10,
+  "auditor": "10/10 approved 2026-09-26",
+  "cards": [
+    {
+      "lng": 119.45,
+      "id": "parks-041",
+      "facts": {
+        "one_liner": "Padar Island’s three-bay ridge—Komodo National Park’s most photographed overlook.",
+        "why_go": "The hero vista is Pulau Padar inside Komodo National Park: arid volcanic ridges dropping to three contrasting bays of turquoise water—UNESCO’s “shatter belt” landscape of dry savanna hills meeting coral seas, not a Bali beach resort. Indonesia Travel and UNESCO list Padar among the park’s three major islands (with Komodo and Rinca); the short ridge hike to this overlook is the classic day-boat stop from Labuan Bajo. Komodo dragons live elsewhere in the park (mainly Komodo and Rinca)—this photo sells the island ridge panorama that defines the marine park’s drama.",
+        "best_time": "April–November for generally calmer seas and clearer ridge views; December–March brings more rain and rougher crossings. Book boat slots early in peak dry months.",
+        "how_to_get_there": "Fly into Labuan Bajo (Komodo Airport), then join a licensed day boat or liveaboard into the park. Padar has no roads or lodging—land by tender and hike the marked ridge trail with your operator; park entry is arranged separately from tour fares.",
+        "good_to_know": "Respect trail and capacity rules; drones and off-trail scrambling are restricted. Rangers guide dragon treks on Komodo/Rinca—stay with your group. Confirm current SiORA / park booking procedures before peak dates (no prices listed).",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/609/",
+        "sources": [
+          "https://whc.unesco.org/en/list/609/",
+          "https://www.indonesia.travel/gb/en/travel-ideas/marine/unveil-the-lands-of-dragons-firsttimers-guide-to-komodo-national-park",
+          "https://www.komodonationalpark.org/"
+        ]
+      },
+      "lat": -8.55,
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      },
+      "ad": {
+        "destination_query": "Labuan Bajo, Indonesia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Labuan%20Bajo%2C%20Indonesia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Labuan%20Bajo%2C%20Indonesia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Labuan%20Bajo%2C%20Indonesia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Labuan Bajo"
+      },
+      "country": "Indonesia",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Pulau_Padar_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-041.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APulau_Padar_1.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "YUS JULIADI",
+        "attribution": "Photo: YUS JULIADI, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Pulau Padar 1.jpg' confirms Padar Island ridge/bay vista inside Komodo National Park; desc: Padar, one of several islands scattered in the Komodo National Park area; visual landmark proof (iconic park vista)"
+      },
+      "short_line": "East Nusa Tenggara, Indonesia",
+      "tab": "parks",
+      "name": "Komodo National Park"
+    },
+    {
+      "lng": 93.1711,
+      "id": "parks-042",
+      "facts": {
+        "one_liner": "Greater one-horned rhino in Assam floodplain grass—Kaziranga, not Chitwan.",
+        "why_go": "The hero frame is a wild Indian one-horned rhinoceros (Rhinoceros unicornis) standing in shallow water and tall grassland inside Kaziranga National Park, Assam—UNESCO-listed floodplain habitat along the Brahmaputra, distinct from Nepal’s Chitwan. Assam Tourism calls Kaziranga home to the world’s strongest population of greater one-horned rhinos, plus tiger, buffalo, elephant, and eastern swamp deer across Central (Kohora), Western (Bagori), and other safari ranges. Jeep and limited elephant safaris run from park-side bases when the park is open after monsoon floods recede.",
+        "best_time": "Roughly mid-November to April while the park is open; late February–early April often gives shorter grass and clearer sightings. Closed for monsoon flooding roughly May–October—confirm opening dates each year.",
+        "how_to_get_there": "Fly into Guwahati (~4–5 hours by road) or Jorhat (~2 hours), then base near Kohora / Kaziranga on NH. Book jeep or elephant safari slots through Assam’s official channels or licensed lodges; ranges open on timed morning and afternoon circuits.",
+        "good_to_know": "Safaris require permits and fixed vehicle quotas—book ahead in peak months. Stay inside the vehicle; rhinos and elephants can charge. Carry binoculars and layers for foggy dawn starts (no prices listed).",
+        "official_or_tourism_url": "https://assamtourism.gov.in/Kaziranga.php",
+        "sources": [
+          "https://assamtourism.gov.in/Kaziranga.php",
+          "https://whc.unesco.org/en/list/337/",
+          "https://nagaon.assam.gov.in/tourist-place-detail/220"
+        ]
+      },
+      "lat": 26.5775,
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      },
+      "ad": {
+        "destination_query": "Kaziranga, India",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kaziranga%2C%20India&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kaziranga%2C%20India&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kaziranga%2C%20India&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Kaziranga"
+      },
+      "country": "India",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Indian_rhinoceros_in_Kaziranga_National_Park_March_2025_by_Tisha_Mukherjee_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-042.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AIndian_rhinoceros_in_Kaziranga_National_Park_March_2025_by_Tisha_Mukherjee_13.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Tisha Mukherjee",
+        "attribution": "Photo: Tisha Mukherjee, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Indian rhinoceros in Kaziranga National Park March 2025 by Tisha Mukherjee 13.jpg' confirms one-horned rhino in floodplain grassland/water at Kaziranga National Park, Assam; habitat-first wild frame"
+      },
+      "short_line": "Assam, India",
+      "tab": "parks",
+      "name": "Kaziranga National Park"
+    },
+    {
+      "lng": 29.68,
+      "id": "parks-043",
+      "facts": {
+        "one_liner": "Mist rising from Bwindi’s Albertine Rift canopy—impenetrable forest, not Virunga volcanoes.",
+        "why_go": "The hero image is Bwindi Impenetrable National Park’s signature habitat: dense Afromontane forest with mist lifting through the canopy—UNESCO Albertine Rift wilderness, not the volcanic cones of Virunga / Mgahinga next door. Uganda Wildlife Authority protects roughly half the world’s remaining mountain gorillas here across sectors such as Buhoma, Ruhija, Rushaga, and Nkuringo; gorilla trekking is the draw, but this photo sells the mist forest itself. Nature walks and birding explore the same humid understory when permits allow.",
+        "best_time": "Drier windows roughly June–August and December–February ease trail mud; rain is possible year-round in this forest. Book gorilla permits months ahead for peak months.",
+        "how_to_get_there": "Fly Entebbe to Kisoro (southern sectors Rushaga/Nkuringo) or Kihihi (Buhoma/Ruhija), then 4WD transfer to your lodge. Road from Kampala/Kabale is long and winding—most visitors overnight near their trek sector.",
+        "good_to_know": "Gorilla tracking requires a UWA permit booked via licensed operators; groups are small and rules on distance, masks, and time with the family are strict. This card’s photo is forest mist—not a gorilla close-up. Pack rain layers and sturdy boots (no prices listed).",
+        "official_or_tourism_url": "https://ugandawildlife.org/national-parks/bwindi-impenetrable-national-park/",
+        "sources": [
+          "https://ugandawildlife.org/national-parks/bwindi-impenetrable-national-park/",
+          "https://whc.unesco.org/en/list/682/",
+          "https://ugandawildlife.org/news/advisory-on-purchase-guidelines-of-gorilla-and-chimpanzee-permits/"
+        ]
+      },
+      "lat": -1.05,
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      },
+      "ad": {
+        "destination_query": "Kisoro, Uganda",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kisoro%2C%20Uganda&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kisoro%2C%20Uganda&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kisoro%2C%20Uganda&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Kisoro"
+      },
+      "country": "Uganda",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/063_Mist_rising_from_the_Bwindi_Impenetrable_Forest_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-043.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3A063_Mist_rising_from_the_Bwindi_Impenetrable_Forest_National_Park_Photo_by_Giles_Laurent.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Giles Laurent",
+        "attribution": "Photo: Giles Laurent, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:063 Mist rising from the Bwindi Impenetrable Forest National Park Photo by Giles Laurent.jpg' confirms misty Albertine Rift forest habitat at Bwindi Impenetrable National Park (no captive)"
+      },
+      "short_line": "Kanungu, Uganda",
+      "tab": "parks",
+      "name": "Bwindi Impenetrable National Park"
+    },
+    {
+      "lng": 31.75,
+      "id": "parks-044",
+      "facts": {
+        "one_liner": "Elephants crossing the Luangwa River—South Luangwa’s riverine safari heartland.",
+        "why_go": "The hero scene is African elephants (Loxodonta africana) fording the Luangwa River inside South Luangwa National Park—oxbow lagoons, woodland, and river channels that define eastern Zambia’s flagship valley park, not Victoria Falls. Zambia Tourism highlights large elephant herds, hippos, buffalo, and walking/night-drive safari culture centered on Mfuwe just outside the eastern gate. Norman Carr–style walking safaris and river-edge lodges make the Luangwa a classic photographic and on-foot wildlife destination.",
+        "best_time": "Dry season roughly May–October concentrates wildlife on remaining water and firms roads; green season (Nov–April) is lush with boat options when rivers rise, but some bushcamps close.",
+        "how_to_get_there": "Fly Lusaka (or regional charters) into Mfuwe Airport, then short transfer to park-gate lodges. Self-drive from Chipata is possible on the ~2-hour road to Mfuwe when conditions allow.",
+        "good_to_know": "Park entry and activity fees apply via operators (no prices listed). Night drives and walking safaris are signature Luangwa experiences—follow guide instructions around elephants and hippos. Malaria precautions and cash backups help in this remote valley.",
+        "official_or_tourism_url": "https://www.zambiatourism.com/destinations/national-parks/south-luangwa-national-park/",
+        "sources": [
+          "https://www.zambiatourism.com/destinations/national-parks/south-luangwa-national-park/",
+          "https://en.wikipedia.org/wiki/South_Luangwa_National_Park"
+        ]
+      },
+      "lat": -13.1,
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      },
+      "ad": {
+        "destination_query": "Mfuwe, Zambia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Mfuwe%2C%20Zambia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Mfuwe%2C%20Zambia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Mfuwe%2C%20Zambia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Mfuwe"
+      },
+      "country": "Zambia",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Loxodonta_africana_South_Luangwa_National_Park_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-044.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ALoxodonta_africana_South_Luangwa_National_Park_%281%29.jpg",
+        "license": "CC BY 2.0",
+        "author": "Geoff Gallice",
+        "attribution": "Photo: Geoff Gallice, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Loxodonta africana South Luangwa National Park (1).jpg' confirms elephants crossing Luangwa River in South Luangwa National Park, Zambia; riverine safari landscape"
+      },
+      "short_line": "Eastern Province, Zambia",
+      "tab": "parks",
+      "name": "South Luangwa National Park"
+    },
+    {
+      "lng": 15.3722,
+      "id": "parks-045",
+      "facts": {
+        "one_liner": "Deadvlei’s camel-thorn skeletons against red dunes—Sossusvlei inside Namib-Naukluft.",
+        "why_go": "The hero frame is Deadvlei: blackened camel-thorn trunks on white clay, backed by rust-red dunes under deep blue sky—the iconic clay pan of the Sossusvlei area inside Namib-Naukluft National Park (and the UNESCO Namib Sand Sea), not Etosha’s salt pan. Namibia’s MEFT describes Namib-Naukluft as the country’s largest conservation area, with Sossusvlei dunes and Sesriem Canyon among its headline attractions. Photographers hike from the 4×4 parking area across the pan at sunrise before heat builds.",
+        "best_time": "Year-round for dune light; cooler mornings May–September are more comfortable for climbing dunes. Summer (Oct–Mar) is hotter with dramatic storm light and denser tourist traffic at peak holidays.",
+        "how_to_get_there": "Drive ~4–5 hours from Windhoek to Sesriem gate, buy a park permit, then follow the paved road toward Sossusvlei. The final sandy stretch to Deadvlei needs a 4×4 or the authorised shuttle from the 2WD parking—confirm current MEFT shuttle rules before you go.",
+        "good_to_know": "Stay on marked paths; the clay and dunes are fragile. Carry water and sun protection—shade is scarce. Lodging clusters at Sesriem / Sossusvlei; gates open around dawn for first light (no prices listed).",
+        "official_or_tourism_url": "https://www.meft.gov.na/national-parks/namib-naukluft-park/224/",
+        "sources": [
+          "https://www.meft.gov.na/national-parks/namib-naukluft-park/224/",
+          "https://whc.unesco.org/en/list/1257/",
+          "https://www.sossusvlei.org/attractions/"
+        ]
+      },
+      "lat": -24.7275,
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      },
+      "ad": {
+        "destination_query": "Sossusvlei, Namibia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sossusvlei%2C%20Namibia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sossusvlei%2C%20Namibia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sossusvlei%2C%20Namibia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Sossusvlei"
+      },
+      "country": "Namibia",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Dead_Vlei%2C_Sossusvlei%2C_Namibia%2C_2018-08-06%2C_DD_085.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-045.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ADead_Vlei%2C_Sossusvlei%2C_Namibia%2C_2018-08-06%2C_DD_085.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Diego Delso",
+        "attribution": "Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Dead Vlei, Sossusvlei, Namibia, 2018-08-06, DD 085.jpg' confirms Deadvlei camel-thorn + dune inside Namib-Naukluft Park; iconic park vista"
+      },
+      "short_line": "Namib Desert, Namibia",
+      "tab": "parks",
+      "name": "Namib-Naukluft National Park"
+    },
+    {
+      "lng": -0.05,
+      "id": "parks-046",
+      "facts": {
+        "one_liner": "Ordesa canyon walls toward Monte Perdido—Pyrenees national park, not Picos de Europa.",
+        "why_go": "The hero landscape is the Ordesa valley / Monte Perdido massif from the Calcilarruego (Faja de Pelay) balcony: sheer limestone amphitheatre, hanging forests, and the Lost Mountain massif of Spain’s Ordesa y Monte Perdido National Park—UNESCO Pyrenees–Monte Perdido, not Asturias’s Picos de Europa. Spain’s national-park network and the Torla visitor centre steer hikers onto classic routes such as the Senda de los Cazadores and Circo de Soaso. Alpine meadows, waterfalls, and ibex define the day once you leave the Pradera trailhead.",
+        "best_time": "June–September for snow-free high trails; spring and autumn are quieter but can hold snow patches. Winter access is limited and specialised.",
+        "how_to_get_there": "Base in Torla-Ordesa (Huesca). In peak season a shuttle bus runs from Torla toward the Pradera de Ordesa trailhead—private cars are often restricted. Check miteco / park notices for current bus and gate hours.",
+        "good_to_know": "Start early for parking/shuttle slots in summer. Trails involve steep climbs and exposure on balcony paths—proper footwear and weather layers matter. Stick to marked routes; drones and off-trail shortcuts are restricted (no prices listed).",
+        "official_or_tourism_url": "https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/ordesa.html",
+        "sources": [
+          "https://www.miteco.gob.es/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/ordesa.html",
+          "https://pnomp.es/en/centro-de-visitas-y-puntos-de-informacion-ordesa",
+          "https://whc.unesco.org/en/list/773/"
+        ]
+      },
+      "lat": 42.65,
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      },
+      "ad": {
+        "destination_query": "Torla, Spain",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Torla%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Torla%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Torla%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Torla"
+      },
+      "country": "Spain",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/WLE_-_2020_-_Parque_nacional_de_Ordesa_y_Monte_Perdido_-_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-046.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AWLE_-_2020_-_Parque_nacional_de_Ordesa_y_Monte_Perdido_-_05.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Moahim",
+        "attribution": "Photo: Moahim, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:WLE - 2020 - Parque nacional de Ordesa y Monte Perdido - 05.jpg' confirms Ordesa canyon / Monte Perdido from Calcilarruego (Faja de Pelay); park-specific Pyrenees vista"
+      },
+      "short_line": "Huesca, Spain",
+      "tab": "parks",
+      "name": "Ordesa and Monte Perdido National Park"
+    },
+    {
+      "lng": 12.98,
+      "id": "parks-047",
+      "facts": {
+        "one_liner": "Königssee, St. Bartholomä’s onion domes, and the Watzmann east face—Berchtesgaden NP.",
+        "why_go": "The hero vista is Germany’s classic Alpine national-park postcard: emerald Königssee, the baroque pilgrimage church of St. Bartholomä on a lakeside peninsula, and the sheer Watzmann east wall rising behind—Berchtesgaden National Park, not Neuschwanstein. Bayerische Seenschifffahrt electric boats reach St. Bartholomä in about 35 minutes; a national-park info centre sits beside the church. Extending to Salet (seasonal) opens walks to Obersee and the Röthbach waterfall deeper in the park.",
+        "best_time": "May–October for full boat schedules including Salet; winter still runs boats to St. Bartholomä with quieter shores and possible wildlife sightings. Arrive before mid-morning on sunny holidays to avoid queues.",
+        "how_to_get_there": "Base in Berchtesgaden or Schönau am Königssee. Park/transit to the Königssee boat pier; buy tickets for St. Bartholomä (or Salet in season). Hiking paths leave from boat stops into the national park core.",
+        "good_to_know": "Boats may delay or cancel in fog, storm, or high water. The famous echo demonstration happens on many sailings. Stay on marked lakeshore paths; swimming rules and quiet zones protect the fjord-like lake (no prices listed).",
+        "official_or_tourism_url": "https://www.nationalpark-berchtesgaden.bayern.de/english/index.htm",
+        "sources": [
+          "https://www.nationalpark-berchtesgaden.bayern.de/english/index.htm",
+          "https://www.seenschifffahrt.de/en/koenigssee/",
+          "https://www.berchtesgaden.de/en"
+        ]
+      },
+      "lat": 47.55,
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      },
+      "ad": {
+        "destination_query": "Berchtesgaden, Germany",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Berchtesgaden%2C%20Germany&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Berchtesgaden%2C%20Germany&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Berchtesgaden%2C%20Germany&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Berchtesgaden"
+      },
+      "country": "Germany",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Nationalpark_Berchtesgaden_K%C3%B6nigssee_St._Bartholom%C3%A4_Watzmann-Ostwand_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-047.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ANationalpark_Berchtesgaden_K%C3%B6nigssee_St._Bartholom%C3%A4_Watzmann-Ostwand_02.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Coastfield",
+        "attribution": "Photo: Coastfield, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Nationalpark Berchtesgaden Königssee St. Bartholomä Watzmann-Ostwand 02.jpg' confirms Königssee + St. Bartholomä + Watzmann east wall in Berchtesgaden National Park"
+      },
+      "short_line": "Bavaria, Germany",
+      "tab": "parks",
+      "name": "Berchtesgaden National Park"
+    },
+    {
+      "lng": 8.3,
+      "id": "parks-048",
+      "facts": {
+        "one_liner": "Bessvatnet’s blue lake above green Gjende—Besseggen ridge, Jotunheimen classic.",
+        "why_go": "The hero panorama is Jotunheimen’s Besseggen: deep-blue Bessvatnet on one side, emerald Gjende on the other, linked by the knife-edge ridge hikers scramble between Memurubu and Gjendesheim—Norway’s high-mountain national park, not Trolltunga alone. Visit Norway and the park board flag Besseggen and Galdhøpiggen among the most popular goals; DNT cabins and Gjendebåten boats structure the classic one-way hike. The colour contrast of the two lakes is the postcard that sells the Home of the Giants.",
+        "best_time": "Late June–early September for snow-free trail and boat service; July–August are busiest. Shoulder weeks need ice awareness on the ridge.",
+        "how_to_get_there": "Drive or bus via Lom (national-park village / visitor services) toward Gjendesheim on Rv51. Book the Gjende boat to Memurubu, then hike Besseggen back (~5–8 hours), or reverse—reserve boat and parking early in peak season.",
+        "good_to_know": "Exposed scrambling and sudden fog make sturdy boots, layers, and turnaround discipline essential. Drones are prohibited in the national park. Follow DNT waymarks; do not build new cairns (no prices listed).",
+        "official_or_tourism_url": "https://www.jotunheimen.info/en/",
+        "sources": [
+          "https://www.jotunheimen.info/en/",
+          "https://www.visitnorway.com/places-to-go/eastern-norway/the-jotunheimen-mountains/",
+          "https://gjende.no/en/walk-besseggen/",
+          "https://www.dnt.no/hytter/betjente/gjendesheim/besseggen/"
+        ]
+      },
+      "lat": 61.55,
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      },
+      "ad": {
+        "destination_query": "Lom, Norway",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Lom%2C%20Norway&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Lom%2C%20Norway&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Lom%2C%20Norway&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Lom"
+      },
+      "country": "Norway",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bessvatnet-Besseggen-Gjende.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-048.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABessvatnet-Besseggen-Gjende.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Xauxa (Håkan Svensson)",
+        "attribution": "Photo: Xauxa (Håkan Svensson), CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Bessvatnet-Besseggen-Gjende.jpg' confirms Bessvatnet, Besseggen ridge and Gjende in Jotunheimen National Park; iconic high-mountain wilderness hero"
+      },
+      "short_line": "Innlandet, Norway",
+      "tab": "parks",
+      "name": "Jotunheimen National Park"
+    },
+    {
+      "lng": 37.308,
+      "id": "parks-049",
+      "facts": {
+        "one_liner": "Batian, Nelion, and Lenana—Mount Kenya’s summit massif, not Kilimanjaro.",
+        "why_go": "The hero skyline is Mount Kenya’s technical twin summits Batian (5,199 m) and Nelion (5,188 m) with Point Lenana beside them—Africa’s second-highest mountain and a UNESCO World Heritage volcano, clearly not Kilimanjaro’s single dome. Remnant glaciers, afro-alpine moorland, and radiating U-shaped valleys define the high park managed with Kenya Wildlife Service / forest partners. Trekkers commonly aim for Lenana; Batian/Nelion demand technical rock and ice skills.",
+        "best_time": "Generally drier windows roughly January–early March and July–October for clearer summit approaches; expect freezing nights and sudden cloud any month.",
+        "how_to_get_there": "Base in Nanyuki (or Naro Moru), then enter via Sirimon, Naro Moru, or Chogoria gates with a licensed guide/porter team. Nanyuki has the main commercial airstrip and supply town for northern approaches.",
+        "good_to_know": "Park conservation fees and gate rules apply (no prices listed). Acclimatise; altitude illness is real above 4,000 m. Stay on designated routes; wildlife (buffalo, elephant on lower slopes) means guided travel is the norm.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/800/",
+        "sources": [
+          "https://whc.unesco.org/en/list/800/",
+          "https://magicalkenya.com/places-to-visit/mountains/mount-kenya/",
+          "https://en.wikipedia.org/wiki/Mount_Kenya_National_Park"
+        ]
+      },
+      "lat": -0.15,
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      },
+      "ad": {
+        "destination_query": "Nanyuki, Kenya",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Nanyuki%2C%20Kenya&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Nanyuki%2C%20Kenya&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Nanyuki%2C%20Kenya&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Nanyuki"
+      },
+      "country": "Kenya",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mount_Kenya_Peaks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-049.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMount_Kenya_Peaks.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Galkey",
+        "attribution": "Photo: Galkey, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Mount Kenya Peaks.jpg' confirms Batian/Nelion/Lenana summit massif of Mount Kenya within Mount Kenya National Park; high-elevation peak vista"
+      },
+      "short_line": "Central Kenya, Kenya",
+      "tab": "parks",
+      "name": "Mount Kenya National Park"
+    },
+    {
+      "lng": 114.85,
+      "id": "parks-050",
+      "facts": {
+        "one_liner": "Mulu Pinnacles—razor limestone spires on Mount Api, not Kinabalu’s granite.",
+        "why_go": "The hero view is the Mulu Pinnacles: sharp karst needles rising from rainforest on the flanks of Mount Api inside Gunung Mulu National Park, Sarawak—UNESCO-listed cave-and-karst wilderness, distinct from Sabah’s Gunung Kinabalu. The official park trek is a demanding 3-day / 2-night trip via boat and Camp 5, then a steep 2.4 km climb with ropes and ladders to the viewpoint where pinnacles tower tens of metres. Show caves near park HQ offer an easier introduction to the same limestone system.",
+        "best_time": "Drier months roughly March–September ease river and trail conditions; heavy rain can cancel the Pinnacles climb for safety. Book Camp 5 space well ahead.",
+        "how_to_get_there": "Fly Miri–Mulu (short hop) to the park airstrip, or arrange river access where offered. Stay at park HQ lodges; the Pinnacles itinerary is guide-mandatory from HQ via Melinau River boat to Camp 5.",
+        "good_to_know": "Above-average fitness required; under-16s are not permitted on the Pinnacles climb. Pack 3+ litres of water, gloves, and grip shoes—rescues are difficult and costly. Never attempt the pinnacles unguided (no prices listed).",
+        "official_or_tourism_url": "https://mulupark.com/pinnacles/",
+        "sources": [
+          "https://mulupark.com/pinnacles/",
+          "https://mulupark.com/plan-your-trip/",
+          "https://whc.unesco.org/en/list/1013/",
+          "https://www.sarawaktourism.com/web/places-to-visit/town-view/miri/major-attractions/the-pinnacles-trail"
+        ]
+      },
+      "lat": 4.05,
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved"
+      },
+      "ad": {
+        "destination_query": "Mulu, Malaysia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Mulu%2C%20Malaysia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Mulu%2C%20Malaysia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Mulu%2C%20Malaysia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Mulu"
+      },
+      "country": "Malaysia",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Mulu_Pinnacles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-050.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMulu_Pinnacles.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Nur Nafis Naim",
+        "attribution": "Photo: Nur Nafis Naim, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Mulu Pinnacles.jpg' confirms karst Pinnacles near Mount Api in Gunung Mulu National Park, Malaysia; park-identity limestone rainforest vista"
+      },
+      "short_line": "Sarawak, Malaysia",
+      "tab": "parks",
+      "name": "Gunung Mulu National Park"
+    }
+  ]
+}

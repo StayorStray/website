@@ -551,11 +551,7 @@
       "next": "Honest depth 40; Parks 021–040 next after Beaches Pages live"
     },
     "parks": {
-      "live_file": "data/parks.json",
-      "archive_dir": "data/decks/parks/",
-      "approved_count": 40,
-      "catalog_target": 100,
-      "scale_target_met": false,
+      "approved": 50,
       "mvp_ready": true,
       "sets": [
         {
@@ -590,6 +586,7 @@
           "id": "parks-set-002",
           "file": "set-002.json",
           "status": "approved",
+          "count": 20,
           "card_ids": [
             "parks-021",
             "parks-022",
@@ -612,9 +609,33 @@
             "parks-039",
             "parks-040"
           ]
+        },
+        {
+          "id": "parks-set-003",
+          "file": "set-003.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "parks-041",
+            "parks-042",
+            "parks-043",
+            "parks-044",
+            "parks-045",
+            "parks-046",
+            "parks-047",
+            "parks-048",
+            "parks-049",
+            "parks-050"
+          ]
         }
       ],
-      "next": "Honest depth 40; Landmarks 021–040 next after Parks Pages live"
+      "latest_set": "set-003",
+      "live_file": "data/parks.json",
+      "archive_dir": "data/decks/parks/",
+      "approved_count": 50,
+      "catalog_target": 100,
+      "scale_target_met": false,
+      "next": "Parks 051–100 toward 100 (catalog honesty: 50≠100)"
     },
     "landmarks": {
       "approved": 50,
