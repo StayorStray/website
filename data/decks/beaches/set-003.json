@@ -1,0 +1,541 @@
+{
+  "id": "beaches-set-003",
+  "tab": "beaches",
+  "label": "Beaches & Coasts — Set 3 (041–050)",
+  "card_ids": [
+    "beaches-041",
+    "beaches-042",
+    "beaches-043",
+    "beaches-044",
+    "beaches-045",
+    "beaches-046",
+    "beaches-047",
+    "beaches-048",
+    "beaches-049",
+    "beaches-050"
+  ],
+  "count": 10,
+  "auditor": "10/10 approved 2026-09-26",
+  "cards": [
+    {
+      "country": "Philippines",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "reject_reason": null,
+        "audited_at": "2026-09-26T03:53:06-05:00",
+        "auditor": "Stay Accuracy Auditor"
+      },
+      "lng": 119.4314,
+      "tab": "beaches",
+      "name": "Nacpan Beach",
+      "id": "beaches-041",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Nacpan_Beach%2C_El_Nido%2C_Philippines_%2836958342541%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/beaches/beaches-041.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ANacpan%20Beach%2C%20El%20Nido%2C%20Philippines%20%2836958342541%29.jpg",
+        "license": "CC BY 2.0",
+        "author": "Fabio Achilli",
+        "attribution": "Photo: Fabio Achilli, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Nacpan Beach, El Nido, Philippines (36958342541).jpg' confirms Nacpan Beach; desc: Nacpan Beach, El Nido, Palawan, Philippines — broad pale strand, palms, green headland and offshore island horizon"
+      },
+      "ad": {
+        "destination_query": "El Nido, Philippines",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=El%20Nido%2C%20Philippines&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=El%20Nido%2C%20Philippines&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=El%20Nido%2C%20Philippines&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in El Nido"
+      },
+      "lat": 11.3106,
+      "facts": {
+        "one_liner": "El Nido’s long pale mainland strand—palms, open surf, and twin-beach headland views.",
+        "why_go": "Nacpan Beach is a multi-kilometre sweep of pale sand about 45 minutes’ drive north of El Nido town on Palawan’s mainland coast—open ocean and coconut palms rather than the enclosed Bacuit Bay lagoons. Guides and visitor write-ups highlight the twin-beach pairing with neighbouring Calitang, where a thin spit and viewpoint frame both bays. The hero matches that broad pale strand, palms, green headland, and offshore island horizon (Commons: Nacpan Beach, El Nido). Day-trippers come for swimming and quieter sand after island-hopping tours.",
+        "best_time": "Dry season roughly November–May for clearer skies and calmer mornings; wet-season afternoons can bring wind and rough open-coast surf.",
+        "how_to_get_there": "Fly into El Nido (ENI) or Puerto Princesa then overland to El Nido town. From town, hire a tricycle, scooter, shuttle van, or private transfer north (~45 minutes on a partly rough road). Limited beachfront stays also sit directly on Nacpan.",
+        "good_to_know": "Open public beach; a small local parking or access charge is sometimes collected—confirm on arrival. The road can be rough after dark. Open-coast waves and currents build with wind—swim with care. Bring cash, water, and sun protection; facilities are sparse compared with El Nido town.",
+        "official_or_tourism_url": "https://elnido.gov.ph/",
+        "sources": [
+          "https://elnido.gov.ph/",
+          "https://philippinesfrontier.com/destinations/el-nido/attractions/nacpan-beach/",
+          "https://www.travel-palawan.com/el-nido-travel-guide/nacpan-beach-travel-guide/"
+        ]
+      },
+      "short_line": "El Nido, Philippines"
+    },
+    {
+      "country": "United Kingdom",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "reject_reason": null,
+        "audited_at": "2026-09-26T03:53:06-05:00",
+        "auditor": "Stay Accuracy Auditor"
+      },
+      "lng": -2.2767,
+      "tab": "beaches",
+      "name": "Durdle Door Beach",
+      "id": "beaches-042",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Durdle_Door_Dorset_Sunset.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/beaches/beaches-042.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ADurdle%20Door%20Dorset%20Sunset.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Saffron Blaze",
+        "attribution": "Photo: Saffron Blaze, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Durdle Door Dorset Sunset.jpg' confirms Durdle Door; desc: Durdle Door is a natural limestone arch on the Jurassic Coast near Lulworth in Dorset, England — beach and limestone arch both clearly readable"
+      },
+      "ad": {
+        "destination_query": "West Lulworth, United Kingdom",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=West%20Lulworth%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=West%20Lulworth%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=West%20Lulworth%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in West Lulworth"
+      },
+      "lat": 50.6217,
+      "facts": {
+        "one_liner": "Jurassic Coast Dorset—Portland limestone arch and pebble beach near West Lulworth.",
+        "why_go": "Durdle Door is the famous natural limestone arch on Dorset’s Jurassic Coast UNESCO World Heritage shoreline near West Lulworth—sea-cut Portland limestone with the beach and arch readable together. The Lulworth Estate describes the cliff path down to Durdle Door beach (and steps to Man O’War), chalk cliffs, and wave-cut caves; do not enter caves—cliff falls are common. The hero is a sunset frame of the arch and shore (Commons: Durdle Door Dorset Sunset)—Dorset Jurassic Coast, not Cornwall.",
+        "best_time": "Open year-round; shoulder seasons and weekdays for fewer crowds. Summer middays and sunny weekends fill the car park early. Golden hour makes the arch especially photogenic.",
+        "how_to_get_there": "Sat nav BH20 5PU for the Durdle Door car park on the Lulworth Estate (West Lulworth, Wareham, Dorset). Walk from the car park to the clifftop viewpoint, then steep paths/steps to the beach. Combine with Lulworth Cove via the coast path (~30 minutes). Coaches use the drop-off only—the car park cannot take coaches.",
+        "good_to_know": "Beach access closes after 9pm/dusk (Lulworth Estate). Paid parking funds path and estate upkeep. Steep, uneven paths—wear sturdy footwear. Stay back from cliff edges and cave mouths. Strong currents and cold Channel water—swim only when conditions allow.",
+        "official_or_tourism_url": "https://lulworth.com/visit/places-to-visit/durdle-door/",
+        "sources": [
+          "https://lulworth.com/visit/places-to-visit/durdle-door/",
+          "https://lulworth.com/visit/plan-your-visit/parking/",
+          "https://en.wikipedia.org/wiki/Durdle_Door"
+        ]
+      },
+      "short_line": "Dorset, United Kingdom"
+    },
+    {
+      "country": "Namibia",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "reject_reason": null,
+        "audited_at": "2026-09-26T03:53:06-05:00",
+        "auditor": "Stay Accuracy Auditor"
+      },
+      "lng": 12.5,
+      "tab": "beaches",
+      "name": "Skeleton Coast",
+      "id": "beaches-043",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Huge_Dunes_at_Skeleton_Coast_%2837714628376%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/beaches/beaches-043.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AHuge%20Dunes%20at%20Skeleton%20Coast%20%2837714628376%29.jpg",
+        "license": "CC BY 2.0",
+        "author": "Sonse",
+        "attribution": "Photo: Sonse, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Huge Dunes at Skeleton Coast (37714628376).jpg' confirms Skeleton Coast; desc: Aerial photography, Namibia — Atlantic surf meeting Namib dunes (not wreck-only or seal-colony-only)"
+      },
+      "ad": {
+        "destination_query": "Swakopmund, Namibia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Swakopmund%2C%20Namibia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Swakopmund%2C%20Namibia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Swakopmund%2C%20Namibia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Swakopmund"
+      },
+      "lat": -19.0,
+      "facts": {
+        "one_liner": "Namibia’s foggy Atlantic wilderness—Namib dunes meeting surf along the Skeleton Coast.",
+        "why_go": "Skeleton Coast Park runs roughly 500 km from the Ugab River to the Kunene, about 40 km inland—one of Namibia’s great wilderness coasts of fog, cold Benguela Current air, windswept beaches, dunes, and ephemeral riverbeds (MEFT; Visit Namibia). The hero is an aerial of huge dunes meeting Atlantic surf (Commons: Huge Dunes at Skeleton Coast)—coast and dunes as the subject, not a seal-colony or wreck close-up. Public lodging hubs at Terrace Bay; northern wilderness is largely fly-in concession country.",
+        "best_time": "Year-round cool coastal climate with frequent fog. Dry inland winter (roughly May–October) suits self-drive park days; summer heat inland contrasts with cold sea air on the shore.",
+        "how_to_get_there": "Base in Swakopmund for the southern Atlantic coast and park approaches via the C34 toward Ugabmund. Skeleton Coast Park entry requires booking/permit arrangements—confirm MEFT/NWR rules. Terrace Bay is the main public rest camp inside the park; north of there is restricted wilderness access.",
+        "good_to_know": "Do not drive off-road; carry ample fuel and water. Fishing needs a licence before entry. Camping at Terrace Bay is seasonal (typically Dec–Jan) and booking-essential. Fog and cold wind are normal even when the desert inland is hot. Cape Cross seal colony is a separate stop south of the park’s core dune-coast wilderness—not this card’s hero.",
+        "official_or_tourism_url": "https://www.meft.gov.na/national-parks/skeleton-coast-park/227/",
+        "sources": [
+          "https://www.meft.gov.na/national-parks/skeleton-coast-park/227/",
+          "https://visitnamibia.com.na/2022/02/skeleton-coast-park/",
+          "https://en.wikipedia.org/wiki/Skeleton_Coast"
+        ]
+      },
+      "short_line": "Skeleton Coast, Namibia"
+    },
+    {
+      "country": "New Zealand",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "reject_reason": null,
+        "audited_at": "2026-09-26T03:53:06-05:00",
+        "auditor": "Stay Accuracy Auditor"
+      },
+      "lng": 172.9333,
+      "tab": "beaches",
+      "name": "Ninety Mile Beach",
+      "id": "beaches-044",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Ninety_Mile_Beach_at_Hukatere2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/beaches/beaches-044.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ANinety%20Mile%20Beach%20at%20Hukatere2.JPG",
+        "license": "Public Domain",
+        "author": "Gadfium",
+        "attribution": "Photo: Gadfium, Public Domain, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Ninety Mile Beach at Hukatere2.JPG' confirms Ninety Mile Beach; desc: Ninety Mile Beach in Northland, New Zealand, seen from the hill at Hukatere — expansive surf beach and dunes, no vehicles"
+      },
+      "ad": {
+        "destination_query": "Kaitaia, New Zealand",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kaitaia%2C%20New%20Zealand&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kaitaia%2C%20New%20Zealand&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kaitaia%2C%20New%20Zealand&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Kaitaia"
+      },
+      "lat": -34.7167,
+      "facts": {
+        "one_liner": "Te Oneroa-a-Tōhē—Northland’s vast Tasman surf beach and dunes (not Victoria, Australia).",
+        "why_go": "Te Oneroa-a-Tōhē / Ninety Mile Beach is the long west-coast strand of New Zealand’s Far North—about 88 km from near Ahipara north toward Scott Point, despite the “ninety mile” name (dual name under Treaty settlement; DOC; Tourism NZ references). The hero looks south from the hill at Hukatere: expansive surf, sand, and dunes with no vehicles in frame (Commons: Ninety Mile Beach at Hukatere2). It is a taonga co-governed by Te Oneroa-a-Tōhē Board and a Te Araroa walking section—not Ninety Mile Beach in Victoria, Australia.",
+        "best_time": "Summer (Dec–Feb) for long daylight and beach weather—also the busiest. Shoulder months often mean fewer people and still walkable conditions; always check tides and wind.",
+        "how_to_get_there": "Fly or bus to Kaitaia; Ahipara sits at the southern end (~15–20 minutes west). Access points include Waipapakauri Ramp and Te Paki Stream (north). Self-drive on soft sand is common but risky—many visitors join licensed tours. DOC’s Te Paki Coastal Track links Cape Reinga country to the northern beach.",
+        "good_to_know": "Treat it as a reserve and privilege, not a highway—check tide times, keep speed low near ramps, and never drive near high tide on soft sand. No camping on the beach or dunes. Patchy mobile coverage. Hukatere viewpoint matches the hero’s elevated dune-and-surf look.",
+        "official_or_tourism_url": "https://www.teoneroa-a-tohe.nz/",
+        "sources": [
+          "https://www.teoneroa-a-tohe.nz/",
+          "https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/te-paki-recreation-reserve/things-to-do/tracks/te-paki-coastal-track/",
+          "https://en.wikipedia.org/wiki/Ninety_Mile_Beach,_New_Zealand"
+        ]
+      },
+      "short_line": "Northland, New Zealand"
+    },
+    {
+      "country": "Türkiye",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "reject_reason": null,
+        "audited_at": "2026-09-26T03:53:06-05:00",
+        "auditor": "Stay Accuracy Auditor"
+      },
+      "lng": 29.1153,
+      "tab": "beaches",
+      "name": "Ölüdeniz Beach",
+      "id": "beaches-045",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Blue_Lagoon_in_%C3%96l%C3%BCdeniz%2C_Turkey_%2849070738266%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/beaches/beaches-045.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABlue%20Lagoon%20in%20%C3%96l%C3%BCdeniz%2C%20Turkey%20%2849070738266%29.jpg",
+        "license": "CC BY 2.0",
+        "author": "dronepicr",
+        "attribution": "Photo: dronepicr, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Blue Lagoon in Ölüdeniz, Turkey (49070738266).jpg' confirms Ölüdeniz Blue Lagoon; turquoise lagoon and mountain backdrop at Fethiye (no paraglider focus)"
+      },
+      "ad": {
+        "destination_query": "Ölüdeniz, Türkiye",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=%C3%96l%C3%BCdeniz%2C%20T%C3%BCrkiye&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=%C3%96l%C3%BCdeniz%2C%20T%C3%BCrkiye&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=%C3%96l%C3%BCdeniz%2C%20T%C3%BCrkiye&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Ölüdeniz"
+      },
+      "lat": 36.5497,
+      "facts": {
+        "one_liner": "Fethiye’s Blue Lagoon—sheltered turquoise water, sandy spit, and pine mountains.",
+        "why_go": "Ölüdeniz (“Dead Sea” for its calm water; Blue Lagoon in tourism branding) is the beach resort ~14 km south of Fethiye where a sheltered lagoon meets the open Mediterranean under Mount Babadağ (Go Türkiye; Fethiye district pages). The lagoon sits in a nature-reserve setting with turquoise shallows and a sandy spit; Belcekız is the adjacent open-sea beach. The hero shows the Blue Lagoon and mountain backdrop without paragliders as the visual focus (Commons: Blue Lagoon in Ölüdeniz)—Fethiye coast, not Bodrum.",
+        "best_time": "May–June and September–October for warm swimming with lighter crowds. July–August is hottest and busiest. Winters are mild but cooler for swimming.",
+        "how_to_get_there": "Fly into Dalaman (DLM), then road transfer to Fethiye/Ölüdeniz (~1–1.5 hours depending on traffic). Frequent dolmuş minibuses run Fethiye–Ölüdeniz (~20–30 minutes). The lagoon day-use area is a short walk from the Belcekız seafront strip.",
+        "good_to_know": "The lagoon nature-park day area typically charges entry—confirm current gate rules. Paragliding landings concentrate on Belcekız, not the lagoon interior; this card is about the lagoon landscape. Blue Flag standards and strict construction limits protect the reserve. Bring shade for midday sun.",
+        "official_or_tourism_url": "https://goturkiye.com/fethiye/oludeniz",
+        "sources": [
+          "https://goturkiye.com/fethiye/oludeniz",
+          "http://www.fethiye.gov.tr/oludeniz",
+          "https://en.wikipedia.org/wiki/%C3%96l%C3%BCdeniz"
+        ]
+      },
+      "short_line": "Fethiye, Türkiye"
+    },
+    {
+      "country": "Italy",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "reject_reason": null,
+        "audited_at": "2026-09-26T03:53:06-05:00",
+        "auditor": "Stay Accuracy Auditor"
+      },
+      "lng": 9.6886,
+      "tab": "beaches",
+      "name": "Cala Goloritzé",
+      "id": "beaches-046",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Cala_Goloritz%C3%A9_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/beaches/beaches-046.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACala%20Goloritz%C3%A9%201.JPG",
+        "license": "CC BY-SA 3.0",
+        "author": "Mentnafunangann",
+        "attribution": "Photo: Mentnafunangann, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Cala Goloritzé 1.JPG' confirms Cala Goloritzé; desc: La spiaggia di Cala Goloritzé — tiny cove, turquoise water, and landmark limestone pinnacle (Aguglia)"
+      },
+      "ad": {
+        "destination_query": "Baunei, Italy",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Baunei%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Baunei%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Baunei%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Baunei"
+      },
+      "lat": 40.1089,
+      "facts": {
+        "one_liner": "Baunei’s tiny Golfo di Orosei cove—turquoise water under the Aguglia limestone pinnacle.",
+        "why_go": "Cala Goloritzé is the protected pebble-and-sand cove on Sardinia’s Golfo di Orosei coast in the Municipality of Baunei, famous for the soaring Aguglia (Punta Caroddi) limestone pinnacle above turquoise water. Turismo Baunei’s official trail starts at Su Porteddu on the Golgo Plateau; boats may not land on the beach. The hero shows the tiny cove, clear water, and landmark pinnacle (Commons: Cala Goloritzé 1)—this named cala, not Cala Mariolu or other Orosei coves.",
+        "best_time": "Late spring through early autumn for trail access and swimming; midsummer is hottest and booking pressure is highest. Start early—trail opening hours are limited.",
+        "how_to_get_there": "Base in Baunei or Santa Maria Navarrese. Drive to the Golgo Plateau / Su Porteddu trailhead parking, then hike ~3.5–3.6 km one way (~1.5 hours down, ~2 hours up; ~500 m elevation change). Mandatory advance booking via Heart of Sardinia (app/website). Return by boat from the beach is not allowed.",
+        "good_to_know": "Closed-toe grip shoes and plenty of water are required guidance from Turismo Baunei. Capacity and timed access apply; keep your booking QR. Stay on marked paths; the Aguglia is a climbing landmark—do not scramble unsafely. Distinct from nearby Cala Mariolu.",
+        "official_or_tourism_url": "https://www.turismobaunei.eu/en/services/excursion-to-cala-goloritze",
+        "sources": [
+          "https://www.turismobaunei.eu/en/services/excursion-to-cala-goloritze",
+          "https://heartofsardinia.com/cala-goloritze",
+          "https://en.wikipedia.org/wiki/Cala_Goloritz%C3%A9"
+        ]
+      },
+      "short_line": "Sardinia, Italy"
+    },
+    {
+      "country": "Cook Islands",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "reject_reason": null,
+        "audited_at": "2026-09-26T03:53:06-05:00",
+        "auditor": "Stay Accuracy Auditor"
+      },
+      "lng": -159.7378,
+      "tab": "beaches",
+      "name": "Muri Beach",
+      "id": "beaches-047",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Muri_Beach%2C_Rarotonga%2C_Cook_Islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/beaches/beaches-047.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMuri%20Beach%2C%20Rarotonga%2C%20Cook%20Islands.jpg",
+        "license": "CC BY 2.0",
+        "author": "Gemma Longman",
+        "attribution": "Photo: Gemma Longman, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Muri Beach, Rarotonga, Cook Islands.jpg' confirms Muri Beach; desc: Muri Beach, Rarotonga, Cook Islands — lagoon shore with offshore motu, not resort furniture"
+      },
+      "ad": {
+        "destination_query": "Rarotonga, Cook Islands",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rarotonga%2C%20Cook%20Islands&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rarotonga%2C%20Cook%20Islands&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rarotonga%2C%20Cook%20Islands&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Rarotonga"
+      },
+      "lat": -21.2567,
+      "facts": {
+        "one_liner": "Rarotonga’s southeast lagoon shore—shallow turquoise water and offshore motu islets.",
+        "why_go": "Muri Beach fronts Muri Lagoon on Rarotonga’s southeast coast (Ngatangiia), the island’s busiest lagoon strip with calm, shallow water and a string of motu—Motutapu, Oneroa, Koromiri, and Taakoka at the southern edge. Cook Islands travel guides and lagoon geography describe kayaking, lagoon cruises, and wading toward the islets with mountain backdrop. The hero shows the lagoon shore and offshore motu, not resort furniture (Commons: Muri Beach, Rarotonga).",
+        "best_time": "Dry season roughly May–October is popular for clearer skies; summer (Nov–Apr) is warmer/wetter with possible tropical systems. Mornings are often calmest on the lagoon.",
+        "how_to_get_there": "International flights into Rarotonga (RAR). Muri is on the southeast coast via the coastal ring road (~20–30 minutes from the airport depending on traffic). Scooters and rental cars circle the island easily; many visitors stay in Muri itself.",
+        "good_to_know": "Lagoon is very shallow in places—great for beginners, limited for deep swimming. Water-quality issues have affected Muri Lagoon in past years; check current local advisories before swimming or harvesting seafood. Respect motu and reef; leave no litter.",
+        "official_or_tourism_url": "https://cookislands.travel/experiences/water/beaches-lagoons",
+        "sources": [
+          "https://cookislands.travel/experiences/water/beaches-lagoons",
+          "https://en.wikipedia.org/wiki/Muri_Lagoon",
+          "https://www.beautifulpacific.com/cook-islands-holidays/muri-beach-rarotonga.php"
+        ]
+      },
+      "short_line": "Rarotonga, Cook Islands"
+    },
+    {
+      "country": "Grenada",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "reject_reason": null,
+        "audited_at": "2026-09-26T03:53:06-05:00",
+        "auditor": "Stay Accuracy Auditor"
+      },
+      "lng": -61.7667,
+      "tab": "beaches",
+      "name": "Grand Anse Beach",
+      "id": "beaches-048",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Grand_Anse_Beach_Grenada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/beaches/beaches-048.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AGrand%20Anse%20Beach%20Grenada.jpg",
+        "license": "CC BY 3.0",
+        "author": "Varun Kapoor",
+        "attribution": "Photo: Varun Kapoor, CC BY 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Grand Anse Beach Grenada.jpg' confirms Grand Anse Beach; desc: Grand Anse Beach, St. George's, Grenada, West Indies (Caribbean) — wide strand and bay context, not hotel-frontage hero"
+      },
+      "ad": {
+        "destination_query": "Grand Anse, Grenada",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Grand%20Anse%2C%20Grenada&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Grand%20Anse%2C%20Grenada&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Grand%20Anse%2C%20Grenada&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Grand Anse"
+      },
+      "lat": 12.0167,
+      "facts": {
+        "one_liner": "Grenada’s long south-coast Caribbean strand—two miles of soft white sand near St. George’s.",
+        "why_go": "Grand Anse Beach is Grenada’s signature south-coast strand—about two miles of white sand and calm turquoise water in the southern tourism belt near St. George’s (Grenada Tourism Authority). Pure Grenada highlights swimming, beach bars, resorts, the craft and spice market, and sunset views under palm, almond, and sea grape. The hero shows the wide Caribbean strand and bay context rather than a hotel-frontage crop (Commons: Grand Anse Beach Grenada).",
+        "best_time": "Dry season roughly January–May is peak beach weather. June–November is wetter (Atlantic hurricane season)—still swimmable many days, but watch forecasts.",
+        "how_to_get_there": "Fly into Maurice Bishop International (GND). Grand Anse is a short drive south of St. George’s / the airport corridor; taxis, buses, and rental cars serve the beach strip. Many hotels sit directly on or across from the sand.",
+        "good_to_know": "Public beach with resort and vendor zones—loungers may be hotel-managed. Keep valuables secure; use reef-safe habits if snorkelling. Carriacou/Petite Martinique recovery notes after Hurricane Beryl are separate from this mainland Grenada strand—confirm inter-island travel if combining islands.",
+        "official_or_tourism_url": "https://www.puregrenada.com/grand-anse-beach/",
+        "sources": [
+          "https://www.puregrenada.com/grand-anse-beach/",
+          "https://www.puregrenada.com/grand-anse-beach-top-50-2025/",
+          "https://en.wikipedia.org/wiki/Grenada"
+        ]
+      },
+      "short_line": "St. George's, Grenada"
+    },
+    {
+      "country": "Thailand",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "reject_reason": null,
+        "audited_at": "2026-09-26T03:53:06-05:00",
+        "auditor": "Stay Accuracy Auditor"
+      },
+      "lng": 98.8403,
+      "tab": "beaches",
+      "name": "Phra Nang Beach",
+      "id": "beaches-049",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Phra_Nang_beach_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/beaches/beaches-049.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APhra%20Nang%20beach%201.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "kallerna",
+        "attribution": "Photo: kallerna, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Phra Nang beach 1.jpg' confirms Phra Nang beach; desc: Phra Nang beach in Krabi, Thailand — karst cliffs, Princess Cave shoreline, turquoise bay (distinct from Railay West beaches-008)"
+      },
+      "ad": {
+        "destination_query": "Krabi, Thailand",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Krabi%2C%20Thailand&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Krabi%2C%20Thailand&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Krabi%2C%20Thailand&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Krabi"
+      },
+      "lat": 8.0056,
+      "facts": {
+        "one_liner": "Railay Peninsula’s southern cove—karst cliffs, Princess Cave shore, turquoise bay (≠ Railay West).",
+        "why_go": "Phra Nang Beach (Ao Phra Nang / Phra Nang Cave Beach) sits at the southern tip of Krabi’s Railay Peninsula—white sand between towering limestone cliffs with Tham Phra Nang Nok (Princess Cave) shrine at the eastern end. Tourism Authority of Thailand materials and peninsula guides treat Phra Nang as its own beach, separate from West Railay and East Railay (boat-only peninsula). The hero shows karst cliffs and the cave shoreline (Commons: Phra Nang beach 1)—distinct from the Railay Beach card (beaches-008).",
+        "best_time": "November–April dry season is clearest and busiest; early morning or late afternoon dodges day-trip boat crowds. May–October brings more rain and fewer people.",
+        "how_to_get_there": "No road access. Longtail boats from Ao Nang (~15 minutes) or from Krabi Town / Ao Nam Mao piers land at Railay, then walk ~5–10 minutes to Phra Nang (East path under cliffs, or via West/Rayavadee side). Fly into Krabi (KBV).",
+        "good_to_know": "Not the same beach as Railay West/East—same peninsula, different cove. Princess Cave is a free open shrine; be respectful with offerings and photos. Limited facilities on Phra Nang itself—nearest toilets toward Railay East. Check tide if walking toward the small offshore islets.",
+        "official_or_tourism_url": "https://www.tourismthailand.org/Attraction/railay-beach",
+        "sources": [
+          "https://www.tourismthailand.org/Attraction/railay-beach",
+          "https://en.wikipedia.org/wiki/Railay_Beach",
+          "https://www.phuket101.net/phra-nang-beach/"
+        ]
+      },
+      "short_line": "Krabi, Thailand"
+    },
+    {
+      "country": "Portugal",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "reject_reason": null,
+        "audited_at": "2026-09-26T03:53:06-05:00",
+        "auditor": "Stay Accuracy Auditor"
+      },
+      "lng": -8.6697,
+      "tab": "beaches",
+      "name": "Praia do Camilo",
+      "id": "beaches-050",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Strand_Praia_do_camilo_Lagos_%2827711818845%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/beaches/beaches-050.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AStrand%20Praia%20do%20camilo%20Lagos%20%2827711818845%29.jpg",
+        "license": "CC BY 2.0",
+        "author": "dronepicr",
+        "attribution": "Photo: dronepicr, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Strand Praia do camilo Lagos (27711818845).jpg' confirms Praia do Camilo; desc: Ein wunderbar gelegener Strand an der Goldküste von Lagos — cove, ochre cliffs, and visible beach (not steps/cave-only)"
+      },
+      "ad": {
+        "destination_query": "Lagos, Portugal",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Lagos%2C%20Portugal&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Lagos%2C%20Portugal&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Lagos%2C%20Portugal&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Lagos"
+      },
+      "lat": 37.0803,
+      "facts": {
+        "one_liner": "Lagos Algarve cove—ochre cliffs, turquoise water, and a steep wooden stair to the sand.",
+        "why_go": "Praia do Camilo is a compact double cove on the cliffs south of Lagos, golden-ochre limestone walls dropping to sheltered Atlantic sand—classic Algarve gold-coast scenery promoted via Visit Portugal / VisitAlgarve listings. Reach the sand by a long wooden staircase from the clifftop car park/viewpoint; a rock arch/tunnel often links the twin coves. The hero shows cove, ochre cliffs, and readable beach (Commons: Strand Praia do Camilo Lagos)—Lagos Camilo, not Praia da Marinha (beaches-024).",
+        "best_time": "May–June and September–October for swimming with lighter crowds. July–August is busiest; parking fills early. Winter brings dramatic seas but cold water.",
+        "how_to_get_there": "Base in Lagos. Drive or taxi toward Ponta da Piedade / Camilo signs south of town; limited clifftop parking. Walk the wooden steps down to the sand. Faro (FAO) is the main Algarve airport (~1 hour by car).",
+        "good_to_know": "Steep stairs—not ideal with heavy gear or limited mobility. Stay away from cliff edges and bases (rockfall risk on Algarve arribas). Distinct from Praia da Marinha further east. Seasonal café/facilities at the top; bring water for the climb back up.",
+        "official_or_tourism_url": "https://www.visitportugal.com/en/node/141915",
+        "sources": [
+          "https://www.visitportugal.com/en/node/141915",
+          "https://visitalgarve.pt/en/equipamento/8787/praia-do-camilo",
+          "https://apambiente.pt/sites/default/files/_SNIAMB_Prevencao_gestao_riscos/Faixas_risco_arribas/Lagos/Lagos_Camilo.pdf"
+        ]
+      },
+      "short_line": "Lagos, Portugal"
+    }
+  ]
+}
