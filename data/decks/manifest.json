@@ -617,40 +617,14 @@
       "next": "Honest depth 40; Landmarks 021–040 next after Parks Pages live"
     },
     "landmarks": {
-      "live_file": "data/landmarks.json",
-      "archive_dir": "data/decks/landmarks/",
-      "approved_count": 40,
-      "catalog_target": 100,
-      "scale_target_met": false,
+      "approved": 50,
       "mvp_ready": true,
       "sets": [
         {
           "id": "landmarks-set-001",
           "file": "set-001.json",
           "status": "approved",
-          "count": 20,
-          "card_ids": [
-            "landmarks-001",
-            "landmarks-002",
-            "landmarks-003",
-            "landmarks-004",
-            "landmarks-005",
-            "landmarks-006",
-            "landmarks-007",
-            "landmarks-008",
-            "landmarks-009",
-            "landmarks-010",
-            "landmarks-011",
-            "landmarks-012",
-            "landmarks-013",
-            "landmarks-014",
-            "landmarks-015",
-            "landmarks-016",
-            "landmarks-017",
-            "landmarks-018",
-            "landmarks-019",
-            "landmarks-020"
-          ]
+          "count": 20
         },
         {
           "id": "landmarks-set-002",
@@ -679,9 +653,33 @@
             "landmarks-039",
             "landmarks-040"
           ]
+        },
+        {
+          "id": "landmarks-set-003",
+          "file": "set-003.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "landmarks-041",
+            "landmarks-042",
+            "landmarks-043",
+            "landmarks-044",
+            "landmarks-045",
+            "landmarks-046",
+            "landmarks-047",
+            "landmarks-048",
+            "landmarks-049",
+            "landmarks-050"
+          ]
         }
       ],
-      "next": "Honest depth 40; Islands 021–040 next after Landmarks Pages live"
+      "latest_set": "set-003",
+      "live_file": "data/landmarks.json",
+      "archive_dir": "data/decks/landmarks/",
+      "approved_count": 50,
+      "catalog_target": 100,
+      "scale_target_met": false,
+      "next": "Landmarks 051–100 toward 100 (catalog honesty: 50≠100)"
     },
     "islands": {
       "live_file": "data/islands.json",

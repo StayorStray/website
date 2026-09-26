@@ -1,0 +1,532 @@
+{
+  "id": "landmarks-set-003",
+  "tab": "landmarks",
+  "label": "Historic Landmarks — Set 3 (041–050)",
+  "card_ids": [
+    "landmarks-041",
+    "landmarks-042",
+    "landmarks-043",
+    "landmarks-044",
+    "landmarks-045",
+    "landmarks-046",
+    "landmarks-047",
+    "landmarks-048",
+    "landmarks-049",
+    "landmarks-050"
+  ],
+  "count": 10,
+  "auditor": "10/10 approved 2026-09-26",
+  "cards": [
+    {
+      "tab": "landmarks",
+      "facts": {
+        "one_liner": "White-plastered keep towers of Japan’s White Heron Castle, seen from Nishinomaru.",
+        "why_go": "The hero shows Himeji Castle’s main keep and connected towers rising above pine from the Nishinomaru (west bailey)—the white-plastered walls and layered grey roofs that earned the nickname Shirasagi-jo, or White Heron Castle. UNESCO lists Himeji-jo as the finest surviving example of early 17th-century Japanese castle architecture, a timber complex of dozens of buildings with sophisticated defensive design. Visitors walk the stone foundations and climb into the tenshu complex for views over Himeji. It is a National Treasure and a World Heritage property managed by the city.",
+        "best_time": "Spring cherry blossom and autumn foliage are peak photo seasons on the grounds; early morning avoids denser tour groups. Summer is hot and humid; winter is quieter with clear views of the white walls.",
+        "how_to_get_there": "Base in Himeji. From Himeji Station (JR shinkansen and local lines), it is roughly a 15–20 minute walk north to the castle, or a short bus/taxi ride. Allow several hours for the keep climb and baileys.",
+        "good_to_know": "Tickets are sold at the site; hours and fees change seasonally—check the official Himeji Castle / Visit Himeji pages before you go. Closed on designated winter dates. Wear shoes you can remove or walk in for wooden interiors; expect stairs and crowds inside the main keep.",
+        "official_or_tourism_url": "https://www.himejicastle.jp/en/",
+        "sources": [
+          "https://www.himejicastle.jp/en/",
+          "https://whc.unesco.org/en/list/661/",
+          "https://visit-himeji.com/en/trip-ideas/himeji-castle-amazing-history-and-tips-on-how-to-enjoy-your-visit/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Himeji, Japan",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Himeji%2C%20Japan&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Himeji%2C%20Japan&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Himeji%2C%20Japan&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Himeji"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Himeji_Castle_The_Keep_Towers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-041.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AHimeji_Castle_The_Keep_Towers.jpg",
+        "license": "Public Domain",
+        "author": "by ja:User:Reggaeman",
+        "attribution": "Photo: by ja:User:Reggaeman, Public Domain, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Himeji Castle The Keep Towers.jpg' — Himeji Castle hero; keep, castle, main keep visible; desc: Istana Himeji dilihat dari wilayah Nishinomaru"
+      },
+      "short_line": "Himeji, Japan",
+      "name": "Himeji Castle",
+      "id": "landmarks-041",
+      "country": "Japan",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:52:00-05:00",
+        "audit_notes": "PASS — Himeji keep/towers white plaster from Nishinomaru; pines + stone base; Reggaeman Public Domain. Facts White Heron / main keep match THIS JPG. Ad Himeji OK."
+      },
+      "lat": 34.8394,
+      "lng": 134.6939
+    },
+    {
+      "tab": "landmarks",
+      "facts": {
+        "one_liner": "Cascading Ottoman domes and slender minarets of Istanbul’s Sultan Ahmed Mosque—not Hagia Sophia.",
+        "why_go": "The hero frames the Sultan Ahmed Mosque (Blue Mosque) from its courtyard: a cascading central dome ringed by semi-domes, lead roofs, and slender pencil minarets with multiple galleries—classic early-17th-century Ottoman imperial mosque design. It stands on Sultanahmet Square facing Hagia Sophia across the park; do not confuse the two. Tourist entry to the prayer hall is free when it is open between prayer times; dress modestly, cover shoulders and knees, and women cover hair. The mosque is part of Istanbul’s Historic Areas UNESCO listing.",
+        "best_time": "Early morning when visitor queues are shorter; avoid arriving during the five daily prayer closures. Fridays often restrict tourist access until after midday congregational prayer. Shoulder seasons (spring/autumn) are milder than midsummer heat.",
+        "how_to_get_there": "Base in Istanbul. Tram T1 to Sultanahmet stop puts you steps from the mosque courtyard and the square shared with Hagia Sophia. Allow time for security screening on busy days.",
+        "good_to_know": "Active mosque—remove shoes; follow posted dress and photography rules. Free entry; ignore anyone selling mandatory “tickets” outside (paid tours are optional). Distinct from Hagia Sophia across the square (different building, different dome/minaret profile).",
+        "official_or_tourism_url": "https://bluemosque.tr/visit/",
+        "sources": [
+          "https://bluemosque.tr/visit/",
+          "https://whc.unesco.org/en/list/356/",
+          "https://www.goturkiye.com/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Istanbul, Türkiye",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Istanbul%2C%20T%C3%BCrkiye&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Istanbul%2C%20T%C3%BCrkiye&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Istanbul%2C%20T%C3%BCrkiye&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Istanbul"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Sultan_Ahmed_Mosque%28Blue_Mosque%29%2C_Istanbul%2C_Turkey_%28Ank_Kumar%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-042.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASultan_Ahmed_Mosque%28Blue_Mosque%29%2C_Istanbul%2C_Turkey_%28Ank_Kumar%29_05.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Ank Kumar",
+        "attribution": "Photo: Ank Kumar, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Sultan Ahmed Mosque(Blue Mosque), Istanbul, Turkey (Ank Kumar) 05.jpg' — Sultan Ahmed Mosque (Blue Mosque) hero; mosque, domes, minarets visible; remake for resolution (prior Dersaadet 930px too small); desc: Sultan Ahmed Mosque also known as Blue Mosque, Istanbul, Turkey"
+      },
+      "short_line": "Istanbul, Türkiye",
+      "name": "Sultan Ahmed Mosque (Blue Mosque)",
+      "id": "landmarks-042",
+      "country": "Türkiye",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:52:00-05:00",
+        "audit_notes": "PASS — Blue Mosque courtyard arcade + cascading domes + slender multi-gallery pencil minarets (≠ Hagia Sophia). Ank Kumar CC BY-SA 4.0. Facts disambiguate vs Hagia Sophia. Ad Istanbul OK."
+      },
+      "lat": 41.0054,
+      "lng": 28.9768
+    },
+    {
+      "tab": "landmarks",
+      "facts": {
+        "one_liner": "Temple I (Great Jaguar) rising from Tikal’s Great Plaza in the Petén rainforest.",
+        "why_go": "The hero is Temple I—the steep nine-tier limestone funerary pyramid with roof comb that dominates Tikal’s Great Plaza in northern Guatemala’s Petén. This is Classic Maya Tikal National Park, a UNESCO World Heritage site for both archaeology and rainforest biodiversity—not Chichén Itzá or another Mesoamerican site. Climbing Temple I itself is generally closed; visitors view it from the plaza or opposite Temple II. Howler monkeys and jungle canopy frame the ruins.",
+        "best_time": "Dry season roughly December–April is easiest for trails; early morning captures cooler temperatures and wildlife. Rainy months bring mud and afternoon storms but fewer crowds. Sunrise tours require early park access.",
+        "how_to_get_there": "Overnight hub is Flores / Santa Elena on Lake Petén Itzá (airport FRS). Road to the park is about 60–65 km / roughly 1–1.5 hours by shuttle, tour, or hire car. Guided day trips and multi-hour ruin walks are standard.",
+        "good_to_know": "Bring water, insect repellent, and sturdy shoes for jungle trails between temple groups. Temple I is not a climb; check current which temples are open. Park tickets and hours are set by Guatemalan park authorities—confirm before dawn visits.",
+        "official_or_tourism_url": "https://visitguatemala.gt/en/archaeological-sites/tikal/",
+        "sources": [
+          "https://whc.unesco.org/en/list/64/",
+          "https://visitguatemala.gt/en/archaeological-sites/tikal/",
+          "https://tikalnationalpark.org/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Flores, Guatemala",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Flores%2C%20Guatemala&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Flores%2C%20Guatemala&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Flores%2C%20Guatemala&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Flores"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Tikal%2C_Temple_I_%2815932959286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-043.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ATikal%2C_Temple_I_%2815932959286%29.jpg",
+        "license": "CC BY 2.0",
+        "author": "Arian Zwegers from Brussels, Belgium",
+        "attribution": "Photo: Arian Zwegers from Brussels, Belgium, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Tikal, Temple I (15932959286).jpg' — Tikal hero; temple, plaza, great plaza visible; desc: Tikal, Temple I Tikal is the ruins of an ancient city found in a rainforest in Guatemala. It is one of the largest archaeological sites and "
+      },
+      "short_line": "Petén, Guatemala",
+      "name": "Tikal",
+      "id": "landmarks-043",
+      "country": "Guatemala",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:52:00-05:00",
+        "audit_notes": "PASS — Tikal Temple I (Great Jaguar) nine-tier + roof comb on Great Plaza; Arian Zwegers CC BY 2.0. Facts ≠ Chichén Itzá. Ad Flores OK."
+      },
+      "lat": 17.2221,
+      "lng": -89.6237
+    },
+    {
+      "tab": "landmarks",
+      "facts": {
+        "one_liner": "Dry-stone Great Enclosure walls of Great Zimbabwe—Shona capital turned national namesake.",
+        "why_go": "The hero looks down on the elliptical Great Enclosure: massive dry-stone granite walls without mortar, rising among trees in the valley below the Hill Complex. Great Zimbabwe National Monument, about 30 km from Masvingo, was the capital of a major Shona state between roughly the 11th and 15th centuries and is a UNESCO World Heritage Site. The Great Enclosure’s outer wall—hundreds of metres around and up to about 10 m high—is the standout stone achievement visitors walk. The site gives the modern nation its name (“Zimbabwe” ≈ houses of stone).",
+        "best_time": "Dry, cooler months (roughly May–August) are most comfortable for walking the enclosures; summer rains can make paths muddy. Mornings are cooler for the Hill Complex climb.",
+        "how_to_get_there": "Base in Masvingo. The monument is roughly 27–30 km southeast of town by road (taxi, tour, or hire car). On site, paths link the Hill Ruins, Valley Ruins, and Great Enclosure—allow half a day or more.",
+        "good_to_know": "Managed by National Museums and Monuments of Zimbabwe (NMMZ); pay entrance on site and consider a local guide for the enclosure and conical tower. Soft shoes for uneven granite; do not climb unstable wall sections. No invented on-site prices here—confirm current fees with NMMZ.",
+        "official_or_tourism_url": "https://www.nmmz.co.zw/southern-region-masvingo/",
+        "sources": [
+          "https://whc.unesco.org/en/list/364/",
+          "https://www.nmmz.co.zw/southern-region-masvingo/",
+          "https://www.greatzimbabwewhs.com/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Masvingo, Zimbabwe",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Masvingo%2C%20Zimbabwe&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Masvingo%2C%20Zimbabwe&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Masvingo%2C%20Zimbabwe&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Masvingo"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Great_Zimbabwe_%28Great_Enclosure%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-044.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AGreat_Zimbabwe_%28Great_Enclosure%29.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Todinirunganga",
+        "attribution": "Photo: Todinirunganga, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Great Zimbabwe (Great Enclosure).jpg' — Great Zimbabwe hero; enclosure, stone, walls visible; desc: Great Zimbabwe Monuments is a cluster of monuments found in central Zimbabwe, Masvingo town. The monuments are remains of a great city which"
+      },
+      "short_line": "Masvingo Province, Zimbabwe",
+      "name": "Great Zimbabwe",
+      "id": "landmarks-044",
+      "country": "Zimbabwe",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:52:00-05:00",
+        "audit_notes": "PASS — elevated valley view of elliptical dry-stone Great Enclosure; Todinirunganga CC BY-SA 4.0. Facts Great Enclosure walls match. Ad Masvingo OK. CLOSE CALL: trees partially veil wall runs but enclosure remains MAIN SUBJECT."
+      },
+      "lat": -20.2686,
+      "lng": 30.9333
+    },
+    {
+      "tab": "landmarks",
+      "facts": {
+        "one_liner": "Cross-plan rock-hewn Church of St. George—Lalibela’s iconic monolithic pit church.",
+        "why_go": "The hero is a top-down view of Bete Giyorgis (Betä Giyorgis / Church of Saint George): a Greek-cross monolithic church carved from a single block of reddish volcanic rock inside a deep excavated pit, its roof etched with concentric crosses. It is the eleventh of Lalibela’s rock-hewn churches—isolated from the northern and southern clusters but linked by trenches—and the image most travelers associate with the site. UNESCO inscribed the Rock-Hewn Churches of Lalibela in 1978; they remain active Ethiopian Orthodox pilgrimage churches. Approach is via narrow rock-cut passages down to courtyard level—not a free-standing building on a hilltop.",
+        "best_time": "Dry season (roughly October–March) is easiest for walking the trenches; Timkat (Epiphany, mid-January) is the major pilgrimage festival with dense crowds. Afternoons can be hot; mornings better for photos from above.",
+        "how_to_get_there": "Base in Lalibela town (airport LLI with domestic flights from Addis Ababa). Churches are walkable or a short drive from lodges; hire a licensed local guide for the complex.",
+        "good_to_know": "This card’s subject is specifically the cross-plan rock church—not other Lalibela churches as the hero. Dress modestly; shoes often removed inside. Paths can be uneven and slippery—good footwear required. Site tickets cover the church groups; confirm current rules locally.",
+        "official_or_tourism_url": "https://visitethiopia.travel/destination/lalibela/",
+        "sources": [
+          "https://whc.unesco.org/en/list/18/",
+          "https://visitethiopia.travel/destination/lalibela/",
+          "https://en.wikipedia.org/wiki/Church_of_Saint_George,_Lalibela"
+        ]
+      },
+      "ad": {
+        "destination_query": "Lalibela, Ethiopia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Lalibela%2C%20Ethiopia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Lalibela%2C%20Ethiopia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Lalibela%2C%20Ethiopia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Lalibela"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bete_Giyorgis_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-045.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABete_Giyorgis_01.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Bernard Gagnon",
+        "attribution": "Photo: Bernard Gagnon, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Bete Giyorgis 01.jpg' — Bete Giyorgis (Church of Saint George), Lalibela hero; cross, rock-hewn, church visible; desc: Bete Giyorgis (Church of St. George), Lalibela, Ethiopia"
+      },
+      "short_line": "Lalibela, Ethiopia",
+      "name": "Bete Giyorgis (Church of Saint George), Lalibela",
+      "id": "landmarks-045",
+      "country": "Ethiopia",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:52:00-05:00",
+        "audit_notes": "PASS — Bete Giyorgis Greek-cross roof in excavated pit (top-down hero); Bernard Gagnon CC BY-SA 3.0. Facts specifically St George ≠ other Lalibela churches. Ad Lalibela OK."
+      },
+      "lat": 12.0316,
+      "lng": 39.041
+    },
+    {
+      "tab": "landmarks",
+      "facts": {
+        "one_liner": "Maderno’s façade and Michelangelo’s dome of St. Peter’s Basilica from the square.",
+        "why_go": "The hero is the travertine façade of St. Peter’s Basilica in Vatican City—giant Corinthian columns, the Latin attic inscription of Paul V, statues along the balustrade, and Michelangelo’s dome rising behind. You are looking from St. Peter’s Square toward the basilica entrance, not Castel Sant’Angelo alone down the Tiber. Basilica entry is generally free with security screening; the dome climb is a separate ticketed experience via the official basilica site. It is the heart of papal liturgy and one of Christianity’s most visited churches.",
+        "best_time": "Early morning for shorter security lines; check the official opening-hours page for liturgy closures and seasonal dome times. Shoulder seasons are milder than midsummer Roman heat.",
+        "how_to_get_there": "Stay in Rome (Vatican City has almost no hotel inventory). Metro Line A to Ottaviano or Cipro, then walk to St. Peter’s Square; buses and taxis also serve the area. Cross into Vatican territory at the square—no border formalities for visitors.",
+        "good_to_know": "Strict dress code (covered shoulders and knees). Free basilica access ≠ free dome; book dome tickets on basilicasanpietro.va when required. Large events fill the square with chairs—expect closures or rerouting. Distinct from Castel Sant’Angelo (separate monument east along Via della Conciliazione).",
+        "official_or_tourism_url": "https://www.basilicasanpietro.va/en/",
+        "sources": [
+          "https://www.basilicasanpietro.va/en/",
+          "https://www.basilicasanpietro.va/en/opening-hours",
+          "https://www.vatican.va/content/vatican/en/ra/facciata-basilica.html"
+        ]
+      },
+      "ad": {
+        "destination_query": "Rome, Italy",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rome%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rome%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rome%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Rome"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Facade_of_Saint_Peter%27s_Basilica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-046.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AFacade_of_Saint_Peter%27s_Basilica.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Staselnik",
+        "attribution": "Photo: Staselnik, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Facade of Saint Peter's Basilica.jpg' — St. Peter’s Basilica hero; facade, façade, dome visible; desc: Facade of Saint Peter's Basilica. Vatican City"
+      },
+      "short_line": "Vatican City",
+      "name": "St. Peter’s Basilica",
+      "id": "landmarks-046",
+      "country": "Vatican City",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:52:00-05:00",
+        "audit_notes": "PASS — Maderno façade + attic Paul V inscription + dome behind from St Peter’s Square; Staselnik CC BY-SA 3.0. ≠ Castel Sant’Angelo alone; ≠ interior-only. Ad Rome OK. CLOSE CALL: event chairs/screen/canopy in square — façade+dome still unmistakable hero."
+      },
+      "lat": 41.9022,
+      "lng": 12.4539
+    },
+    {
+      "tab": "landmarks",
+      "facts": {
+        "one_liner": "Almohad Koutoubia minaret—Marrakech’s landmark tower with green tile band and three orbs.",
+        "why_go": "The hero centers on the Koutoubia Mosque’s square red-stone minaret: scalloped arches, a turquoise-green zellij band near the top, lantern, and the distinctive finial of three metal spheres. Extending beside it are the mosque’s brick walls and, in the foreground, excavated pillar bases from the earlier Almohad mosque phase. Non-Muslims cannot enter the prayer hall or climb the minaret, but the gardens, esplanade, and exterior views are the classic Marrakech landmark walk west of Jemaa el-Fnaa. The mosque is a defining monument of the Medina of Marrakesh UNESCO site.",
+        "best_time": "Late afternoon light warms the pink stone; mornings are quieter around the gardens. Summer days are very hot—plan exterior walks early or near sunset. Ramadan and prayer times affect street energy but exterior viewing remains possible.",
+        "how_to_get_there": "Base in Marrakech. The minaret is a short walk west of Jemaa el-Fnaa / the medina; taxis and petits taxis drop nearby. Pair with a medina and square evening visit.",
+        "good_to_know": "Respect that it is an active mosque—photograph exteriors courteously; do not attempt non-Muslim entry. Gardens and ruin field are open-air; stay outside railings. Call to prayer from the minaret is part of the city’s soundscape.",
+        "official_or_tourism_url": "https://www.visitmorocco.com/en/travel/marrakech",
+        "sources": [
+          "https://www.visitmorocco.com/en/travel/marrakech",
+          "https://whc.unesco.org/en/list/331/",
+          "https://en.wikipedia.org/wiki/Koutoubia_Mosque"
+        ]
+      },
+      "ad": {
+        "destination_query": "Marrakech, Morocco",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Marrakech%2C%20Morocco&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Marrakech%2C%20Morocco&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Marrakech%2C%20Morocco&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Marrakech"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Koutoubia_Mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-047.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AKoutoubia_Mosque.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Marwa benhmani",
+        "attribution": "Photo: Marwa benhmani, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Koutoubia Mosque.jpg' — Koutoubia Mosque hero; minaret, mosque, marrakech visible; desc: la koutobia,marrakech"
+      },
+      "short_line": "Marrakech, Morocco",
+      "name": "Koutoubia Mosque",
+      "id": "landmarks-047",
+      "country": "Morocco",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:52:00-05:00",
+        "audit_notes": "PASS — Koutoubia square minaret exterior + green tile band + three orbs + Almohad ruin pillars (non-Muslim exterior-only satisfied); Marwa benhmani CC BY-SA 4.0. Ad Marrakech OK."
+      },
+      "lat": 31.624,
+      "lng": -7.9936
+    },
+    {
+      "tab": "landmarks",
+      "facts": {
+        "one_liner": "Buda Castle palace and green dome on Castle Hill—Budapest view from Gellért Hill.",
+        "why_go": "The hero is an elevated view of Buda Castle (Budavári Palota) from Gellért Hill: the long palace complex with its pale façades and distinctive teal-green dome and roofs, set on fortified Castle Hill above tree-covered slopes, with the Castle Quarter and Matthias Church spire behind. This is the royal palace quarter of Buda—not a generic Danube skyline crop. UNESCO includes the Buda Castle Quarter in the Budapest World Heritage property. Museums (including the Hungarian National Gallery and Budapest History Museum wings) occupy parts of the palace; the hill itself is free to walk.",
+        "best_time": "Late spring through early autumn for clear Gellért Hill viewpoints; golden hour lights the palace. Winter can be icy on Castle Hill paths but offers crisp views. Weekday mornings are quieter in museum courtyards.",
+        "how_to_get_there": "Base in Budapest. Reach Castle Hill by the Castle Hill Funicular from Clark Ádám tér, bus 16/16A/116, or walking paths from the Chain Bridge area. Gellért Hill viewpoints (for this photo angle) are a separate climb or bus ride on the opposite Buda side.",
+        "good_to_know": "Palace courtyards and ramparts are largely outdoor; individual museums have separate tickets and hours (see budavar.abtk.hu and museum sites). Wear comfortable shoes for cobbles. Pair with Fisherman’s Bastion / Matthias Church in the same Castle Quarter visit.",
+        "official_or_tourism_url": "https://budavar.abtk.hu/en/home",
+        "sources": [
+          "https://whc.unesco.org/en/list/400/",
+          "https://budavar.abtk.hu/en/home",
+          "https://www.budacastlebudapest.com/faq/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Budapest, Hungary",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Budapest%2C%20Hungary&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Budapest%2C%20Hungary&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Budapest%2C%20Hungary&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Budapest"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/20190502_View_of_Buda_Castle_from_Gell%C3%A9rt_Hill_1636_2135_DxO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-048.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3A20190502_View_of_Buda_Castle_from_Gell%C3%A9rt_Hill_1636_2135_DxO.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Jakub Hałun",
+        "attribution": "Photo: Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:20190502 View of Buda Castle from Gellért Hill 1636 2135 DxO.jpg' — Buda Castle hero; castle, palace, buda visible; desc: View of Buda Castle from Gellért Hill in Budapest"
+      },
+      "short_line": "Budapest, Hungary",
+      "name": "Buda Castle",
+      "id": "landmarks-048",
+      "country": "Hungary",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:52:00-05:00",
+        "audit_notes": "PASS — Buda Castle palace + teal dome from Gellért Hill; Matthias Church spire behind; Jakub Hałun CC BY-SA 4.0. Facts Castle Hill palace match. Ad Budapest OK."
+      },
+      "lat": 47.4964,
+      "lng": 19.0396
+    },
+    {
+      "tab": "landmarks",
+      "facts": {
+        "one_liner": "Pyramid of the Sun on Teotihuacan’s Avenue of the Dead—massive volcanic step pyramid.",
+        "why_go": "The hero is the Pyramid of the Sun at Teotihuacan: a vast multi-tier volcanic-stone step pyramid with a central staircase and fore-platform, photographed from the plaza along the Avenue of the Dead. This is the Pre-Hispanic City of Teotihuacan UNESCO site in the State of Mexico—not the Pyramid of the Moon (smaller, at the avenue’s north end) and not a Maya city. Teotihuacan was one of Mesoamerica’s largest urban centers in the early centuries CE. Climbing access on major pyramids is often restricted—confirm current INAH rules; viewing from the avenue remains the core visit.",
+        "best_time": "Morning opening beats heat and tour-bus crowds; dry season (roughly November–April) is clearest. Midday sun on the open avenue is intense year-round—hat and water essential.",
+        "how_to_get_there": "Usual overnight hub is Mexico City (~40–50 km / about an hour by bus from Terminal Norte or by tour/hire car). Day trips are standard; some visitors stay in San Juan Teotihuacán closer to the gates.",
+        "good_to_know": "Primary subject is Pyramid of the Sun, not the Moon. Buy tickets at official INAH channels; balloon and vendor pitches outside are optional. Altitude and stairs (where open) demand pacing. No prices listed here—they change; check INAH the day you go.",
+        "official_or_tourism_url": "https://lugares.inah.gob.mx/es/node/5617",
+        "sources": [
+          "https://whc.unesco.org/en/list/414/",
+          "https://lugares.inah.gob.mx/es/node/5617",
+          "https://en.wikipedia.org/wiki/Teotihuacan"
+        ]
+      },
+      "ad": {
+        "destination_query": "Mexico City, Mexico",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Mexico%20City%2C%20Mexico&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Mexico%20City%2C%20Mexico&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Mexico%20City%2C%20Mexico&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Mexico City"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Pyramid_of_the_Sun_at_Teotihuacan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-049.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APyramid_of_the_Sun_at_Teotihuacan.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Peachseltzer",
+        "attribution": "Photo: Peachseltzer, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Pyramid of the Sun at Teotihuacan.jpg' — Teotihuacan hero; pyramid, sun, avenue visible; desc: Pyramid of the Sun at Teotihuacan"
+      },
+      "short_line": "State of Mexico, Mexico",
+      "name": "Teotihuacan",
+      "id": "landmarks-049",
+      "country": "Mexico",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:52:00-05:00",
+        "audit_notes": "PASS — Pyramid of the Sun + fore-platform on Avenue of the Dead (≠ Moon); Peachseltzer CC BY-SA 4.0. Facts INAH climb caveat OK. Ad Mexico City hub OK."
+      },
+      "lat": 19.6925,
+      "lng": -98.8438
+    },
+    {
+      "tab": "landmarks",
+      "facts": {
+        "one_liner": "Neo-Gothic Las Lajas basilica bridging the Guáitara gorge at Ipiales—not Bogotá.",
+        "why_go": "The hero shows the Sanctuary of Las Lajas (Santuario de Las Lajas): a grey-and-white neo-Gothic basilica built into the cliff and spanning the Guáitara River gorge on a high arched bridge, with zig-zag paths down the canyon wall. It sits outside Ipiales in Nariño Department near the Ecuador border—not a Bogotá church. The present stone sanctuary dates to the early–mid 20th century on a longstanding Marian pilgrimage site and is on UNESCO’s Tentative List. Free to approach; a local cable car offers an alternate gorge view.",
+        "best_time": "Dry months are easier for canyon paths; mornings offer clearer light in the gorge. Major feast days and weekends draw pilgrimage crowds. Afternoons can bring mist in the canyon.",
+        "how_to_get_there": "Base in Ipiales (or cross-border from Tulcán, Ecuador). The sanctuary is roughly 7 km from Ipiales by taxi, colectivo, or tour; walk/cable car options connect the rim and gorge floor. Nearest major airport hubs are often reached via Pasto or Ecuadorian routes—plan the last leg to Ipiales.",
+        "good_to_know": "Dress for a pilgrimage church; expect stairs and uneven paths into the gorge. Confirm cable-car hours/fares on laslajas.org if you use it. Distinct from Bogotá’s colonial churches—this is the Ipiales gorge basilica.",
+        "official_or_tourism_url": "https://laslajas.org/",
+        "sources": [
+          "https://laslajas.org/",
+          "https://laslajas.org/como-llegar/",
+          "https://turismo.narino.gov.co/santuario-de-nuestra-senora-del-rosario-de-las-lajas/",
+          "https://whc.unesco.org/en/tentativelists/5755/"
+        ]
+      },
+      "ad": {
+        "destination_query": "Ipiales, Colombia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ipiales%2C%20Colombia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ipiales%2C%20Colombia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ipiales%2C%20Colombia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Ipiales"
+      },
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Santuario_de_Las_Lajas%2C_Ipiales%2C_Colombia%2C_2015-07-21%2C_DD_21-23_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-050.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASantuario_de_Las_Lajas%2C_Ipiales%2C_Colombia%2C_2015-07-21%2C_DD_21-23_HDR.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Diego Delso",
+        "attribution": "Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Santuario de Las Lajas, Ipiales, Colombia, 2015-07-21, DD 21-23 HDR.jpg' — Sanctuary of Las Lajas hero; basilica, gorge, bridge visible; desc: Las Lajas Sanctuary is a basilica church located in the southern Department of Nariño, municipality of Ipiales, Colombia. The place is a pop"
+      },
+      "short_line": "Ipiales, Colombia",
+      "name": "Sanctuary of Las Lajas",
+      "id": "landmarks-050",
+      "country": "Colombia",
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-09-26T03:52:00-05:00",
+        "audit_notes": "PASS — neo-Gothic Las Lajas basilica on Guáitara gorge bridge (Ipiales ≠ Bogotá); Diego Delso CC BY-SA 4.0. Ad Ipiales OK."
+      },
+      "lat": 0.8056,
+      "lng": -77.5861
+    }
+  ]
+}
