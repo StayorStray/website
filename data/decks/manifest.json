@@ -5,7 +5,7 @@
     "timezone": "America/Chicago",
     "target_size": 100,
     "weekly_remix": true,
-    "note": "One set of up to 100 cards per tab per America/Chicago calendar day. Sets rotate daily. Weekly remix re-partitions/re-pairs images across archive sets so weeks are not identical. If inventory < 100, serve all approved cards only — never invent. Personal Stay/Stray lists stay in localStorage on-device (sos_stay_list / sos_stray_list)."
+    "note": "One set of up to 100 cards per tab per America/Chicago calendar day. Sets rotate daily. Weekly remix re-partitions/re-pairs images across archive sets so weeks are not identical. If inventory < 100, serve all approved cards only \u2014 never invent. Personal Stay/Stray lists stay in localStorage on-device (sos_stay_list / sos_stray_list)."
   },
   "tabs": {
     "hidden-gems": {
@@ -151,10 +151,10 @@
         }
       ],
       "daily_deck": {
-        "until_100": "N/A — catalog at 100",
+        "until_100": "N/A \u2014 catalog at 100",
         "at_100_plus": "Each calendar day pick/build a 100-card set; remix weekly so sets are never 100% identical week-to-week"
       },
-      "next": "HG DONE 100/100 — next tab: cities (Iconic Cities) batch 001–020",
+      "next": "HG DONE 100/100 \u2014 next tab: cities (Iconic Cities) batch 001\u2013020",
       "scale_target_met": true
     },
     "cities": {
@@ -226,7 +226,7 @@
           "note": "Belgrade (cities-054) rejected and excluded."
         }
       ],
-      "next": "Cities 061–080 toward 100"
+      "next": "Cities 061\u2013080 toward 100"
     },
     "pubs": {
       "live_file": "data/pubs.json",
@@ -311,7 +311,7 @@
           ]
         }
       ],
-      "next": "Pubs 051–100 toward 100 (catalog honesty: 50≠100)"
+      "next": "Pubs 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
     },
     "countries": {
       "live_file": "data/countries.json",
@@ -396,7 +396,7 @@
           ]
         }
       ],
-      "next": "Countries 051–100 toward 100 (catalog honesty: 50≠100)"
+      "next": "Countries 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
     },
     "arenas": {
       "live_file": "data/arenas.json",
@@ -481,7 +481,7 @@
           ]
         }
       ],
-      "next": "Arenas 051–100 toward 100 (catalog honesty: 50≠100)"
+      "next": "Arenas 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
     },
     "beaches": {
       "live_file": "data/beaches.json",
@@ -567,7 +567,7 @@
         }
       ],
       "latest_set": "set-003",
-      "next": "Beaches 051–100 toward 100 (catalog honesty: 50≠100)"
+      "next": "Beaches 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
     },
     "parks": {
       "approved": 50,
@@ -654,7 +654,7 @@
       "approved_count": 50,
       "catalog_target": 100,
       "scale_target_met": false,
-      "next": "Parks 051–100 toward 100 (catalog honesty: 50≠100)"
+      "next": "Parks 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
     },
     "landmarks": {
       "approved": 50,
@@ -719,7 +719,7 @@
       "approved_count": 50,
       "catalog_target": 100,
       "scale_target_met": false,
-      "next": "Landmarks 051–100 toward 100 (catalog honesty: 50≠100)"
+      "next": "Landmarks 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
     },
     "islands": {
       "live_file": "data/islands.json",
@@ -805,12 +805,12 @@
         }
       ],
       "latest_set": "set-003",
-      "next": "Islands 051–100 toward 100 (catalog honesty: 50≠100)"
+      "next": "Islands 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
     },
     "luxury": {
       "live_file": "data/luxury.json",
       "archive_dir": "data/decks/luxury/",
-      "approved_count": 40,
+      "approved_count": 50,
       "catalog_target": 100,
       "scale_target_met": false,
       "mvp_ready": true,
@@ -870,9 +870,28 @@
             "luxury-039",
             "luxury-040"
           ]
+        },
+        {
+          "id": "luxury-set-003",
+          "file": "set-003.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "luxury-041",
+            "luxury-042",
+            "luxury-043",
+            "luxury-044",
+            "luxury-045",
+            "luxury-046",
+            "luxury-047",
+            "luxury-048",
+            "luxury-049",
+            "luxury-050"
+          ]
         }
       ],
-      "next": "Honest depth 40; Luxury 041–060 toward 100"
+      "next": "Luxury 051\u2013100 toward 100 (catalog honesty: 50\u2260100)",
+      "latest_set": "set-003"
     }
   },
   "other_tabs": [
@@ -886,7 +905,7 @@
     "islands",
     "luxury"
   ],
-  "other_tabs_note": "Same 100/day + weekly remix after each tab reaches 100 approved. Order after HG: cities → pubs → countries → arenas → beaches → parks → landmarks → islands → luxury.",
+  "other_tabs_note": "Same 100/day + weekly remix after each tab reaches 100 approved. Order after HG: cities \u2192 pubs \u2192 countries \u2192 arenas \u2192 beaches \u2192 parks \u2192 landmarks \u2192 islands \u2192 luxury.",
   "personal_lists": {
     "stay_key": "sos_stay_list",
     "stray_key": "sos_stray_list",

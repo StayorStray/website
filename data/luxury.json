@@ -2083,5 +2083,515 @@
       "audit_notes": "PASS — Four Seasons Hotel Istanbul at the Bosphorus waterfront palace from boat; FOUR SEASONS HOTEL boat mark (Photograph by Mike Peel (www.mikepeel.net). CC BY-SA 4.0). Ad FS Istanbul Bosphorus. Facts match JPG.",
       "reject_reason": ""
     }
+  },
+  {
+    "id": "luxury-041",
+    "tab": "luxury",
+    "name": "Belmond Copacabana Palace",
+    "short_line": "Rio de Janeiro, Brazil",
+    "country": "Brazil",
+    "lat": -22.9671,
+    "lng": -43.179,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Copacabana_Palace_Hotel_Rio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-041.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACopacabana_Palace_Hotel_Rio.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Charles J. Sharp",
+      "attribution": "Photo: Charles J. Sharp, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + Belmond Copacabana Palace white neoclassical beachfront facade on Avenida Atlântica with COPACABANA PALACE lettering (hotel main subject; ≠ carnival/skyline-only)"
+    },
+    "facts": {
+      "one_liner": "White neoclassical Copacabana Palace on Avenida Atlântica—COPACABANA PALACE lettering above the beachfront facade.",
+      "why_go": "The hero centres on Belmond Copacabana Palace’s white neoclassical beachfront facade on Avenida Atlântica: classical columns, balconies, and COPACABANA PALACE roof lettering facing Copacabana’s curve. Belmond’s official pages place the hotel at Avenida Atlântica 1702 as Rio’s landmark palace hotel since 1923, with a facade by architect Joseph Gire and about 140 rooms and suites overlooking the world’s most famous beach strip. Guests come for that postcard beachfront exterior plus the half-Olympic outdoor pool and private beach area. Concrete detail: Belmond lists about a 15-minute drive from Santos Dumont (SDU) and about 30–45 minutes from Galeão/Tom Jobim International (GIG), depending on traffic.",
+      "best_time": "April–June and September–November for warmer beach weather with fewer peak Carnival crowds; December–February is high summer and festival season (hot, humid, lively). July–August are slightly cooler winter months that still suit pool and promenade days.",
+      "how_to_get_there": "Fly into Rio de Janeiro–Galeão (GIG) or Santos Dumont (SDU), then taxi, rideshare, or hotel transfer to Avenida Atlântica 1702, Copacabana. The beachfront facade is also visible from the Copacabana promenade without entering the hotel.",
+      "good_to_know": "OPEN / BOOKABLE at belmond.com (Copacabana Palace accommodation and offers live as of drafting). Belmond notes the spa is undergoing renovation and Ristorante Hotel Cipriani is closed for renovation—confirm dining and spa status on the official site. Photo is the Avenida Atlântica beachfront facade, not a Carnival parade or skyline-only shot.",
+      "official_or_tourism_url": "https://www.belmond.com/en/hotels/south-america/brazil/copacabana-palace-rio-de-janeiro",
+      "sources": [
+        "https://www.belmond.com/en/hotels/south-america/brazil/copacabana-palace-rio-de-janeiro",
+        "https://www.belmond.com/en/hotels/south-america/brazil/copacabana-palace-rio-de-janeiro/accommodation",
+        "https://www.visitrio.com.br/en/",
+        "https://en.wikipedia.org/wiki/Copacabana_Palace"
+      ]
+    },
+    "ad": {
+      "destination_query": "Belmond Copacabana Palace, Rio de Janeiro",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Belmond%20Copacabana%20Palace%2C%20Rio%20de%20Janeiro&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Belmond%20Copacabana%20Palace%2C%20Rio%20de%20Janeiro&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Belmond%20Copacabana%20Palace%2C%20Rio%20de%20Janeiro&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at Belmond Copacabana Palace"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "luxury-042",
+    "tab": "luxury",
+    "name": "Hotel Sacher",
+    "short_line": "Vienna, Austria",
+    "country": "Austria",
+    "lat": 48.2038,
+    "lng": 16.3695,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Hotel_Sacher_Vienna_by_TheTokl_-_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-042.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHotel_Sacher_Vienna_by_TheTokl_-_03.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Tobias Kleinlercher",
+      "attribution": "Photo: Tobias Kleinlercher, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + Hotel Sacher Philharmonikerstrasse corner facade with SACHER maroon awnings and street sign (hotel main subject; cake not the hero)"
+    },
+    "facts": {
+      "one_liner": "Hotel Sacher’s Philharmonikerstrasse corner—maroon SACHER awnings facing the Vienna State Opera.",
+      "why_go": "The hero frames Hotel Sacher’s cream corner facade on Philharmonikerstrasse: maroon SACHER awnings, window boxes, and the street sign that places the house opposite the Vienna State Opera—not a cake still-life. Official Sacher pages locate the hotel at Philharmoniker Str. 4, 1010 Vienna, a family-run 5-star superior hotel open since 1876 with 152 rooms and suites designed with Pierre-Yves Rochon. Guests come for this Opera-district facade and classic Viennese hospitality behind it. Concrete detail: Sacher notes excellent U-Bahn access via Karlsplatz/Oper (U1/U4) steps away, with Vienna International Airport commonly about 30 minutes by car.",
+      "best_time": "April–June and September–October for milder walking weather and opera season; December for Advent markets and holiday concerts. July–August are warmer and busier around the Ringstrasse; January–February are colder but quieter for museums.",
+      "how_to_get_there": "Fly into Vienna International (VIE), then taxi, City Airport Train plus U-Bahn, or hotel transfer to Philharmoniker Str. 4 beside the State Opera. From the city centre, exit at Karlsplatz/Oper (U1/U4)—the Sacher facade is across the street.",
+      "good_to_know": "OPEN / BOOKABLE at sacher.com/en/vienna (rooms and specials live as of drafting). The Original Sacher-Torte and Café Sacher are famous, but this card’s hero is the hotel facade with SACHER awnings. Spa treatments should be reserved ahead; confirm restaurant hours on the official site.",
+      "official_or_tourism_url": "https://www.sacher.com/en/vienna/",
+      "sources": [
+        "https://www.sacher.com/en/vienna/",
+        "https://www.sacher.com/en/faqs/",
+        "https://www.wien.info/en",
+        "https://www.lhw.com/hotel/Hotel-Sacher-Wien-Vienna-Austria"
+      ]
+    },
+    "ad": {
+      "destination_query": "Hotel Sacher, Vienna",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Hotel%20Sacher%2C%20Vienna&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Hotel%20Sacher%2C%20Vienna&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Hotel%20Sacher%2C%20Vienna&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at Hotel Sacher"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "luxury-043",
+    "tab": "luxury",
+    "name": "Amanzoe",
+    "short_line": "Porto Heli, Greece",
+    "country": "Greece",
+    "lat": 37.3247,
+    "lng": 23.1475,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Amanzoe-General.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-043.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAmanzoe-General.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Thomas K. Osborn",
+      "attribution": "Photo: Thomas K. Osborn, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + Amanzoe hilltop white-column pavilion / amphitheatre resort exterior overlooking Argolic Gulf (hotel main subject)"
+    },
+    "facts": {
+      "one_liner": "Amanzoe’s hilltop white-column pavilions and amphitheatre terrace above olive groves and the Argolic Gulf.",
+      "why_go": "The hero shows Amanzoe’s hilltop Acropolis-like resort: pale stone colonnades, white-column pavilion roofs, and an amphitheatre-style terrace overlooking olive groves and the Argolic Gulf toward the Aegean. Aman’s official Amanzoe page places the resort at Agios Panteleimonas, Kranidi 213 00, Argolida, near Porto Heli on the east Peloponnese coast, with pool pavilions, villas, a flagship spa, and a Beach Club. Guests come for that modern-day temple exterior and the 360-degree sea-and-countryside views. Concrete detail: Aman states it is about a 2.5-hour drive (or ~25-minute helicopter) from Athens International, or about a 3-hour drive from Kalamata International.",
+      "best_time": "May–June and September–October for warm swimming weather with thinner midsummer crowds; July–August are hottest and busiest. April and late October can still suit spa and ruins day-trips with cooler evenings.",
+      "how_to_get_there": "Fly into Athens (ATH) or Kalamata (KLX), then private car, hotel transfer, or helicopter to Agios Panteleimonas near Porto Heli / Kranidi. Spetses and nearby archaeological sites are easy day combinations once on the peninsula.",
+      "good_to_know": "OPEN / BOOKABLE at aman.com/resorts/amanzoe (offers and advance-reservation pages live as of drafting, including 2026–2027 seasonal offers). Pavilions and Beach Club access are guest-focused; confirm helipad and transfer arrangements with the resort.",
+      "official_or_tourism_url": "https://www.aman.com/resorts/amanzoe",
+      "sources": [
+        "https://www.aman.com/resorts/amanzoe",
+        "https://www.aman.com/resorts/amanzoe/contact-us",
+        "https://www.aman.com/resorts/amanzoe/exclusives",
+        "https://www.visitgreece.gr/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Amanzoe, Porto Heli",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Amanzoe%2C%20Porto%20Heli&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Amanzoe%2C%20Porto%20Heli&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Amanzoe%2C%20Porto%20Heli&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at Amanzoe"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "luxury-044",
+    "tab": "luxury",
+    "name": "Brenners Park-Hotel & Spa",
+    "short_line": "Baden-Baden, Germany",
+    "country": "Germany",
+    "lat": 48.7597,
+    "lng": 8.2511,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Baden-Baden-Brenners_Parkhotel-64-Schillerstr-2018-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-044.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABaden-Baden-Brenners_Parkhotel-64-Schillerstr-2018-gje.jpg",
+      "license": "CC BY 4.0",
+      "author": "Gerd Eichmann",
+      "attribution": "Photo: Gerd Eichmann, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "SWAP from Six Senses Bhutan (no usable Commons exterior). Commons file + Brenners Park-Hotel & Spa Baden-Baden Schillerstrasse facade with BRENNERS canopy (hotel main subject)"
+    },
+    "facts": {
+      "one_liner": "Brenners Park-Hotel’s Schillerstrasse facade—BRENNERS canopy between Lichtentaler Allee and Baden-Baden’s spa quarter.",
+      "why_go": "The hero frames Brenners Park-Hotel & Spa’s multi-storey facade on Schillerstrasse: classical window rhythm, balconies, and a BRENNERS entrance canopy on the leafy edge of Lichtentaler Allee—Baden-Baden, not Bhutan. Oetker Hotels’ official pages place the 5-star house at Schillerstraße 4/6, 76530 Baden-Baden, between the park promenade and the Black Forest spa town’s cultural core. Guests come for this grand-hotel street facade plus spa living after the property’s multi-year renovation. Concrete detail: Elite Traveler and trade coverage note Brenners reopened in October 2025 after a meticulous two-year transformation; the official site again markets live room booking.",
+      "best_time": "May–September for park walks, open-air concerts, and Black Forest day trips; September–October for quieter spa weather and autumn colour. Winter suits thermal baths and Christmas markets; spring (April–May) is mild for Lichtentaler Allee strolls.",
+      "how_to_get_there": "Fly into Karlsruhe/Baden-Baden (FKB), Stuttgart (STR), or Frankfurt (FRA), then train or car to Baden-Baden. The hotel sits at Schillerstraße 4/6 beside Lichtentaler Allee—short taxi or tram links from Baden-Baden station.",
+      "good_to_know": "OPEN / BOOKABLE at oetkerhotels.com (Brenners rooms & suites and reservations live as of drafting) after the Oct 2025 reopening—confirm current spa and restaurant hours on the official site. This card is Brenners Baden-Baden (Germany), not Six Senses Bhutan. Photo is the Schillerstrasse facade with BRENNERS canopy.",
+      "official_or_tourism_url": "https://www.oetkerhotels.com/hotels/brenners-park-hotel-spa/",
+      "sources": [
+        "https://www.oetkerhotels.com/hotels/brenners-park-hotel-spa/",
+        "https://www.oetkerhotels.com/hotels/brenners-park-hotel-spa/contact/",
+        "https://www.baden-baden.com/en/",
+        "https://elitetraveler.com/travel/news/brenners-park-hotel-and-spa-reopens"
+      ]
+    },
+    "ad": {
+      "destination_query": "Brenners Park-Hotel & Spa, Baden-Baden",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Brenners%20Park-Hotel%20%26%20Spa%2C%20Baden-Baden&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Brenners%20Park-Hotel%20%26%20Spa%2C%20Baden-Baden&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Brenners%20Park-Hotel%20%26%20Spa%2C%20Baden-Baden&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at Brenners Park-Hotel & Spa"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "luxury-045",
+    "tab": "luxury",
+    "name": "The Datai Langkawi",
+    "short_line": "Langkawi, Malaysia",
+    "country": "Malaysia",
+    "lat": 6.4261,
+    "lng": 99.6714,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/The_Datai_Langkawi_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-045.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Datai_Langkawi_-_panoramio.jpg",
+      "license": "CC BY 3.0",
+      "author": "alhafis",
+      "attribution": "Photo: alhafis, CC BY 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + The Datai Langkawi multi-storey timber rainforest-canopy resort wing exterior among tropical foliage (hotel main subject; ≠ Rosewood HK)"
+    },
+    "facts": {
+      "one_liner": "The Datai’s timber rainforest-canopy resort wing—stacked wooden decks among Langkawi’s tropical foliage.",
+      "why_go": "The hero shows The Datai Langkawi’s multi-storey timber canopy wing: dark wood decks, deep eaves, and tropical foliage wrapping a rainforest-resort exterior—not a Penang beach tower or Rosewood Hong Kong. Official Datai pages place the 121-room resort on the northwestern tip of Langkawi beside Datai Bay, with Canopy, Rainforest, and Beach collections looking into ancient rainforest and, in places, the Andaman Sea. Guests come for that canopy-architecture exterior plus resident naturalist walks under The Datai Pledge. Concrete detail: the resort states it is about a 40-minute / 30 km drive from Langkawi International Airport (LGK).",
+      "best_time": "November–April is typically drier for beach and canopy days; May–October brings more rain and greener forest. Shoulder months (March–April, October–November) often balance warmth with thinner peak crowds.",
+      "how_to_get_there": "Fly into Langkawi International (LGK), then hotel limousine or taxi about 40 minutes to Jalan Teluk Datai on the island’s northwest tip. Domestic links commonly run from Kuala Lumpur (~60 min), Penang (~40 min), and Singapore (~1h25).",
+      "good_to_know": "OPEN / BOOKABLE at thedatai.com (book-now and 2026 offers live as of drafting). Foreign visitors to Malaysia must complete the Malaysia Digital Arrival Card (MDAC) before arrival—see immigration guidance linked from the resort’s getting-there page. This is The Datai Langkawi (Datai Bay), not The Andaman or other Langkawi resorts.",
+      "official_or_tourism_url": "https://www.thedatai.com/",
+      "sources": [
+        "https://www.thedatai.com/",
+        "https://www.thedatai.com/about-us/getting-to-the-datai-langkawi/",
+        "https://www.thedatai.com/accommodation/",
+        "https://www.lhw.com/hotel/The-Datai-Langkawi-Langkawi-Malaysia"
+      ]
+    },
+    "ad": {
+      "destination_query": "The Datai, Langkawi",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=The%20Datai%2C%20Langkawi&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=The%20Datai%2C%20Langkawi&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=The%20Datai%2C%20Langkawi&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at The Datai Langkawi"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "luxury-046",
+    "tab": "luxury",
+    "name": "Aman Venice",
+    "short_line": "Venice, Italy",
+    "country": "Italy",
+    "lat": 45.4365,
+    "lng": 12.3285,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Palazzo_Papadopoli%2C_Venice_-_September_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-046.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APalazzo_Papadopoli,_Venice_-_September_2017.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Martin Falbisoner",
+      "attribution": "Photo: Martin Falbisoner, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "SWAP from One&Only Palmilla (Commons thin / no named Palmilla resort exterior). Commons file + Aman Venice / Palazzo Papadopoli Grand Canal facade with twin roof obelisks (hotel main subject)"
+    },
+    "facts": {
+      "one_liner": "Aman Venice in Palazzo Papadopoli—Grand Canal facade with twin roof obelisks on the San Polo waterfront.",
+      "why_go": "The hero centres on Palazzo Papadopoli’s Grand Canal facade: pale stone, arched piano-nobile windows, and the twin roof obelisks that mark Aman Venice—not One&Only Palmilla in Los Cabos. Aman’s official Aman Venice page places the hotel at Palazzo Papadopoli, Calle Tiepolo 1364, Sestiere San Polo, one of only eight monumental palazzos on the Grand Canal, with Jean-Michel Gathy interiors and rare private gardens. Guests come for this canal palace exterior steps from San Marco by foot or vaporetto. Concrete detail: Aman lists about a 50-minute boat transfer from Venice Marco Polo Airport (VCE) to the palazzo.",
+      "best_time": "April–June and September–October for milder walking weather and thinner midsummer heat; November–March can be quieter (acqua alta risk on some days). Carnival and peak summer bring denser crowds around San Marco.",
+      "how_to_get_there": "Fly into Venice Marco Polo (VCE) or Treviso (TSF), then water taxi or Alilaguna plus vaporetto to San Polo / Palazzo Papadopoli on the Grand Canal. Hotel boat arrivals use the canal facade landing.",
+      "good_to_know": "OPEN / BOOKABLE at aman.com/hotels/aman-venice (rooms and experiences live as of drafting). This card is Aman Venice / Palazzo Papadopoli (Italy), a Lead-accepted swap from Palmilla Mexico. Some dining venues welcome non-residents—confirm reservations with the hotel.",
+      "official_or_tourism_url": "https://www.aman.com/hotels/aman-venice",
+      "sources": [
+        "https://www.aman.com/hotels/aman-venice",
+        "https://www.aman.com/stories/storied-elegance-of-palazzo-papadopoli",
+        "https://www.veneziaunica.it/en",
+        "https://en.wikipedia.org/wiki/Palazzo_Papadopoli"
+      ]
+    },
+    "ad": {
+      "destination_query": "Aman Venice, Venice",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Aman%20Venice%2C%20Venice&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Aman%20Venice%2C%20Venice&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Aman%20Venice%2C%20Venice&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at Aman Venice"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "luxury-047",
+    "tab": "luxury",
+    "name": "Villa d'Este",
+    "short_line": "Cernobbio, Lake Como, Italy",
+    "country": "Italy",
+    "lat": 45.845,
+    "lng": 9.0803,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lake_Como_-_Villa_d%27Este.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-047.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALake_Como_-_Villa_d%27Este.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "GhePeU",
+      "attribution": "Photo: GhePeU, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + Villa d'Este Cernobbio lakeside facade from Lake Como with VILLA D'ESTE pediment lettering (hotel dominates)"
+    },
+    "facts": {
+      "one_liner": "Villa d'Este’s lakeside facade on Lake Como—VILLA D'ESTE pediment lettering facing Cernobbio’s water.",
+      "why_go": "The hero frames Villa d’Este’s cream lakeside facade from the water: classical windows, lakeside terrace, and clear VILLA D’ESTE pediment lettering on Lake Como at Cernobbio—not Villa d’Este at Tivoli or Este elsewhere. The official villadeste.com site places the five-star hotel at Via Regina 40, Cernobbio (CO), a 16th-century noble residence turned grand hotel with Cardinal’s Building and Queen’s Pavilion rooms in lakeside gardens. Guests come for that lettered lakeside exterior and century-spanning park hospitality. Concrete detail: Lake Como tourism and Italian press report the 154th season running 17 March 2026–7 January 2027—seasonal bookability, not a permanent closure.",
+      "best_time": "May–September for lake swimming, ferry weather, and garden dining; April and October for quieter shoulder stays. The hotel’s published 2026–27 season runs mid-March through early January—confirm winter closure dates before planning January–mid-March travel.",
+      "how_to_get_there": "Fly into Milan Malpensa (MXP), Linate (LIN), or Lugano (LUG), then car or train toward Como / Cernobbio. The hotel sits on Via Regina 40 on the western shore; lake taxis and the Rusco boat link also serve the Cernobbio waterfront.",
+      "good_to_know": "SEASONAL / BOOKABLE in season via villadeste.com (book-your-stay and 2026 offers live as of drafting). Current season cited through early January 2027—verify next opening dates on the official site for late-winter travel. This is Villa d’Este Cernobbio, Lake Como (Italy), not Tivoli’s Villa d’Este gardens.",
+      "official_or_tourism_url": "https://www.villadeste.com/",
+      "sources": [
+        "https://www.villadeste.com/",
+        "https://www.villadeste.com/book-your-stay",
+        "https://www.lakecomo.it/en/",
+        "https://lakecomotourism.it/it/villa-deste-inaugura-la-sua-154-stagione/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Villa d'Este, Cernobbio",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Villa%20d%27Este%2C%20Cernobbio&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Villa%20d%27Este%2C%20Cernobbio&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Villa%20d%27Este%2C%20Cernobbio&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at Villa d'Este"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "luxury-048",
+    "tab": "luxury",
+    "name": "Alila Villas Uluwatu",
+    "short_line": "Uluwatu, Bali, Indonesia",
+    "country": "Indonesia",
+    "lat": -8.829,
+    "lng": 115.088,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Pavilion_%2844618244035%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-048.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APavilion_(44618244035).jpg",
+      "license": "CC BY 2.0",
+      "author": "a.canvas.of.light",
+      "attribution": "Photo: a.canvas.of.light, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + Alila Villas Uluwatu signature cliffside wooden-lattice birdcage pavilion overlooking Indian Ocean (hotel main subject; ≠ Nihi Sumba)"
+    },
+    "facts": {
+      "one_liner": "Alila Uluwatu’s cliffside wooden-lattice birdcage pavilion cantilevered over the Indian Ocean.",
+      "why_go": "The hero isolates Alila Villas Uluwatu’s signature cliff pavilion: a circular wooden-lattice “birdcage” structure suspended above limestone cliffs and the Indian Ocean—Bali’s Bukit Peninsula, not Nihi Sumba. Hyatt’s Wellbeing Collective page places Alila Villas Uluwatu on a clifftop plateau along the southern Bukit coastline near Uluwatu Temple, with eco-designed pool villas (Hyatt lists 64 rooms) ranging from about 300 to 3,000 sq m and open-concept privacy toward sky and ocean. Guests come for that cantilevered lattice exterior and sunset cliff walks above Uluwatu’s surf breaks. Concrete detail: Hyatt states the resort is about 30 minutes from Ngurah Rai International Airport (DPS) and about 15 minutes from Jimbaran Bay.",
+      "best_time": "April–October (dry season) for clearer sunsets and cliff walks; May–September is especially popular. November–March brings more rain and humidity but greener hillsides and fewer peak crowds outside holiday weeks.",
+      "how_to_get_there": "Fly into Denpasar / Ngurah Rai (DPS), then private car or hotel transfer south onto the Bukit Peninsula to Jalan Belimbing Sari, Pecatu / Uluwatu. Hyatt cites roughly 30 minutes from the airport in typical conditions; allow extra time in peak traffic.",
+      "good_to_know": "OPEN / BOOKABLE via Hyatt / Alila (Alila Villas Uluwatu, hotel code DPSAV) as of drafting. This card is Alila Villas Uluwatu on Bali’s Bukit cliffs—not Nihi Sumba (luxury-034). Inventory is pool-villa focused (Hyatt lists 64 rooms); confirm pavilion and restaurant access for non-overnight visitors with the resort.",
+      "official_or_tourism_url": "https://www.hyatt.com/alila/en-US/dpsav-alila-villas-uluwatu",
+      "sources": [
+        "https://www.hyatt.com/alila/en-US/dpsav-alila-villas-uluwatu",
+        "https://wellbeing.hyatt.com/our-hotels/alila-villas-uluwatu",
+        "https://visitbali.id/",
+        "https://www.indonesia.travel/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Alila Villas Uluwatu, Bali",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Alila%20Villas%20Uluwatu%2C%20Bali&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Alila%20Villas%20Uluwatu%2C%20Bali&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Alila%20Villas%20Uluwatu%2C%20Bali&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at Alila Villas Uluwatu"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "luxury-049",
+    "tab": "luxury",
+    "name": "North Island",
+    "short_line": "North Island, Seychelles",
+    "country": "Seychelles",
+    "lat": -4.3915,
+    "lng": 55.2496,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/North_Island_Seychelles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-049.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ANorth_Island_Seychelles.jpg",
+      "license": "CC BY 4.0",
+      "author": "Gerard Larose / STB",
+      "attribution": "Photo: Gerard Larose / STB, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + North Island Seychelles private-island approach: granite-outcrop villa + thatched beach villas on white sand / turquoise lagoon (named North Island resort reads)"
+    },
+    "facts": {
+      "one_liner": "North Island Seychelles—granite-outcrop villa and thatched beach villas on white sand above a turquoise lagoon.",
+      "why_go": "The hero approaches North Island’s private-island shoreline: a granite-boulder villa nestled in rock and vegetation, with thatched beach villas along white sand and a turquoise lagoon—named North Island resort, not a generic Seychelles beach. The official north-island.com site presents an exclusive private island in the northern Seychelles with 11 villas built from organic island materials, plus conservation work under the Noah’s Ark Programme. Guests come for that barefoot granite-and-thatch exterior and a whole-island sanctuary feel. Concrete detail: the resort states arrivals are by ~15-minute private helicopter from Mahé International, or boat/yacht in about 45–60 minutes depending on sea conditions.",
+      "best_time": "April–May and October–November often bring calmer seas and good underwater visibility; May–September can be windier (southeast trade winds). December–March is warmer and wetter—confirm cyclone-season advisories before travel.",
+      "how_to_get_there": "Fly into Mahé International (SEZ), then arrange the resort’s preferred ~15-minute helicopter charter (or boat/yacht transfer, 45–60 minutes) to North Island. Transfers are booked through the resort, not as casual walk-up flights.",
+      "good_to_know": "OPEN / BOOKABLE at north-island.com/availability (reservations live as of drafting; also listed with Marriott Luxury Collection branding on some channels). Ultra-exclusive 11-villa inventory—confirm helicopter seats and all-inclusive inclusions with reservations@north-island.com before travel.",
+      "official_or_tourism_url": "https://north-island.com/",
+      "sources": [
+        "https://north-island.com/",
+        "https://north-island.com/contact-north-island/",
+        "https://north-island.com/availability/",
+        "https://www.seychelles.travel/"
+      ]
+    },
+    "ad": {
+      "destination_query": "North Island, Seychelles",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=North%20Island%2C%20Seychelles&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=North%20Island%2C%20Seychelles&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=North%20Island%2C%20Seychelles&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at North Island Seychelles"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "luxury-050",
+    "tab": "luxury",
+    "name": "Hotel Adlon Kempinski",
+    "short_line": "Berlin, Germany",
+    "country": "Germany",
+    "lat": 52.516,
+    "lng": 13.3806,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Adlon_Hotel_Berlin_Germany_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/luxury/luxury-050.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAdlon_Hotel_Berlin_Germany_-_01.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Norbert Nagel",
+      "attribution": "Photo: Norbert Nagel, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file + Hotel Adlon Kempinski Pariser Platz / Brandenburg Gate-adjacent facade with HOTEL ADLON roof lettering beside Akademie der Künste (hotel main subject; ≠ Schloss Elmau)"
+    },
+    "facts": {
+      "one_liner": "Hotel Adlon Kempinski on Pariser Platz—HOTEL ADLON roof lettering beside Brandenburg Gate.",
+      "why_go": "The hero frames Hotel Adlon Kempinski’s Pariser Platz facade: limestone classical frontage, balconies, and HOTEL ADLON roof lettering beside the Brandenburg Gate and Akademie der Künste—Berlin centre, not Schloss Elmau in the Alps. Kempinski’s official pages place the five-star hotel at Unter den Linden 77, 10117 Berlin, with 385 rooms and suites, Michelin-starred Lorenz Adlon Esszimmer, and a multi-level spa facing the Gate. Guests come for this Gate-adjacent city facade and landmark Unter den Linden address. Concrete detail: Kempinski notes Brandenburg Gate about 100 m away and about 45 minutes from Berlin Brandenburg Airport (BER) by taxi or FEX + U5 to Brandenburger Tor.",
+      "best_time": "May–September for Gate-square walks and longer evenings; December for Christmas markets along Unter den Linden. April and October are milder shoulder months; winter is cold but ideal for museums and spa days.",
+      "how_to_get_there": "Fly into Berlin Brandenburg (BER), then taxi (~45 minutes) or FEX train to Hauptbahnhof and U5 to Brandenburger Tor. The hotel entrance is at Unter den Linden 77 on Pariser Platz; U/S-Bahn Brandenburger Tor sits at the doorstep.",
+      "good_to_know": "OPEN / BOOKABLE at kempinski.com/en/hotel-adlon (rooms, offers, and location pages live as of drafting). This card is Hotel Adlon Kempinski Berlin—not Schloss Elmau (luxury-031). Gate and Pariser Platz are public; guest rooms, spa, and most dining require a reservation.",
+      "official_or_tourism_url": "https://www.kempinski.com/en/hotel-adlon",
+      "sources": [
+        "https://www.kempinski.com/en/hotel-adlon",
+        "https://www.kempinski.com/en/hotel-adlon/overview/hotel-information/location",
+        "https://www.visitberlin.de/en",
+        "https://en.wikipedia.org/wiki/Hotel_Adlon"
+      ]
+    },
+    "ad": {
+      "destination_query": "Hotel Adlon Kempinski, Berlin",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Hotel%20Adlon%20Kempinski%2C%20Berlin&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Hotel%20Adlon%20Kempinski%2C%20Berlin&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Hotel%20Adlon%20Kempinski%2C%20Berlin&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay at Hotel Adlon Kempinski"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "reject_reason": null
+    }
   }
 ]
