@@ -1,5 +1,5 @@
 /**
- * Stay or Stray — daily deck rotation + weekly image remix
+ * Spot and Travel — daily deck rotation + weekly image remix
  *
  * BoOnE rules (America/Chicago):
  *  - Each tab serves ONE set of up to 100 cards per calendar day when inventory allows.
@@ -328,7 +328,7 @@
     };
   }
 
-  global.StayOrStrayDaily = {
+  global.SpotAndTravelDaily = {
     TZ: TZ,
     TARGET_SIZE: TARGET_SIZE,
     chicagoDateKey: chicagoDateKey,

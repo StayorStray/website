@@ -1,6 +1,6 @@
 /**
- * Stay or Stray — swipe deck
- * Stay/Stray buttons, arrow keys, touch swipe, ~300ms fly-off,
+ * Spot and Travel — swipe deck
+ * Travel/Skip buttons, arrow keys, touch swipe, ~300ms fly-off,
  * prefetch next 3 images, undo, session counts, end-of-deck.
  */
 (function () {
@@ -36,7 +36,7 @@
   ];
 
   function I18n() {
-    return window.StayOrStrayI18n || null;
+    return window.SpotAndTravelI18n || null;
   }
 
   function t(key, vars) {
@@ -402,7 +402,7 @@
   }
 
   function adHref(card) {
-    const Aff = window.StayOrStrayAffiliates;
+    const Aff = window.SpotAndTravelAffiliates;
     const q =
       (card.ad && card.ad.destination_query) ||
       [card.name, card.country].filter(Boolean).join(', ');
@@ -424,7 +424,7 @@
 
 
   function klookSidebarUrl() {
-    const Aff = window.StayOrStrayAffiliates;
+    const Aff = window.SpotAndTravelAffiliates;
     if (Aff && typeof Aff.getKlookSidebarUrl === 'function') {
       return Aff.getKlookSidebarUrl() || '';
     }
@@ -435,7 +435,7 @@
   const KLOOK_WIDGET_FALLBACK = 'https://klook.tpx.gr/cVdJs2X5';
 
   function klookWidgetSrc() {
-    const Aff = window.StayOrStrayAffiliates;
+    const Aff = window.SpotAndTravelAffiliates;
     if (Aff && typeof Aff.getKlookWidgetSrc === 'function') {
       return Aff.getKlookWidgetSrc() || KLOOK_WIDGET_FALLBACK;
     }
@@ -500,7 +500,7 @@
   }
 
   Deck.prototype.load = async function () {
-    const Daily = window.StayOrStrayDaily;
+    const Daily = window.SpotAndTravelDaily;
     if (Daily && Daily.selectDailyDeck) {
       const picked = await Daily.selectDailyDeck(this.tab);
       this.cards = picked.cards || [];

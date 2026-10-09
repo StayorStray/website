@@ -1,4 +1,4 @@
-# Stay or Stray — UX review
+# Spot and Travel (formerly Stay or Stray) — UX review
 
 **Reviewer:** Stay Frontend (workspace polish)  
 **Date:** 2026-09-20 (America/Chicago)  
