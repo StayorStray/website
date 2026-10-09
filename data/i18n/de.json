@@ -138,7 +138,9 @@
     "plan_things": "Aktivitäten in {city}",
     "plan_note": "Öffnet die Suche des Partners für diesen Ort in einem neuen Tab. Einige sind Affiliate-Links: Wir erhalten ggf. eine Provision – ohne Mehrkosten für dich.",
     "plan_after_travel": "{name} gefällt dir? Jetzt planen",
-    "plan_close": "Schließen"
+    "plan_close": "Schließen",
+    "submit_pin_none": "Kein Pin",
+    "submit_pin_line_30": "+$99.00 — Ihre Karte bleibt 30 Tage nach Go-live unter den ersten 25 dieses Tabs."
   },
   "tabs": {
     "hidden-gems": "Versteckte Juwelen",

@@ -138,7 +138,9 @@
     "plan_things": "Que faire à {city}",
     "plan_note": "Ouvre la recherche du partenaire pour ce lieu dans un nouvel onglet. Certains sont des liens d’affiliation : nous pouvons toucher une commission, sans surcoût pour vous.",
     "plan_after_travel": "{name} vous plaît ? Planifiez-le",
-    "plan_close": "Fermer"
+    "plan_close": "Fermer",
+    "submit_pin_none": "Pas d’épinglage",
+    "submit_pin_line_30": "+$99.00 — votre carte reste dans les 25 premières de cette rubrique pendant 30 jours après sa mise en ligne."
   },
   "tabs": {
     "hidden-gems": "Pépites cachées",

@@ -126,9 +126,17 @@
 
         <fieldset class="submit-fieldset submit-pin">
           <legend class="submit-label" data-i18n="submit_pin_legend">Optional pin</legend>
-          <label class="submit-check">
-            <input type="checkbox" id="pin-7d" name="pin_7d" value="1" data-price="39.99" />
+          <label class="submit-radio">
+            <input type="radio" id="pin-none" name="pin" value="none" data-price="0" checked />
+            <span data-i18n="submit_pin_none">No pin</span>
+          </label>
+          <label class="submit-radio">
+            <input type="radio" id="pin-7d" name="pin" value="7d" data-price="39.99" />
             <span data-i18n="submit_pin_line">+$39.99 — your card stays in this tab’s first 25 for 7 days after it goes live.</span>
+          </label>
+          <label class="submit-radio">
+            <input type="radio" id="pin-30d" name="pin" value="30d" data-price="99.00" />
+            <span data-i18n="submit_pin_line_30">+$99.00 — your card stays in this tab’s first 25 for 30 days after it goes live.</span>
           </label>
           <p class="submit-hint" data-i18n="submit_pin_cap">Subject to availability (25 pin cap per tab). Pin clock starts at go-live, not at payment.</p>
         </fieldset>
@@ -234,9 +242,13 @@
       var checked = form.querySelector('input[name="sku"]:checked');
       return checked ? Number(checked.getAttribute('data-price') || 0) : 0;
     }
+    function pinChoice() {
+      var el = form.querySelector('input[name="pin"]:checked');
+      return el && (el.value === '7d' || el.value === '30d') ? el.value : 'none';
+    }
     function pinPrice() {
-      var pin = document.getElementById('pin-7d');
-      return pin && pin.checked ? Number(pin.getAttribute('data-price') || 0) : 0;
+      var el = form.querySelector('input[name="pin"]:checked');
+      return el && pinChoice() !== 'none' ? Number(el.getAttribute('data-price') || 0) : 0;
     }
 
     function skuLabel() {
@@ -254,12 +266,12 @@
 
     function updateReview() {
       var total = skuPrice() + pinPrice();
-      var pin = document.getElementById('pin-7d');
+      var pin = form.querySelector('input[name="pin"]:checked');
       var lines = [];
       lines.push(skuLabel());
-      if (pin && pin.checked) {
+      if (pin && pinChoice() !== 'none') {
         var pinSpan = pin.parentNode && pin.parentNode.querySelector('[data-i18n]');
-        lines.push(pinSpan ? (pinSpan.textContent || '').trim() : t('submit_pin_line'));
+        lines.push(pinSpan ? (pinSpan.textContent || '').trim() : t(pinChoice() === '30d' ? 'submit_pin_line_30' : 'submit_pin_line'));
       }
       if (reviewLines) {
         reviewLines.innerHTML = lines.map(function (line) {
@@ -540,7 +552,8 @@
     function checkoutUrl(sku, pin, ref, email) {
       var c = window.SOS_SUBMIT || cfg || {};
       var links = (c.paymentLinks && c.paymentLinks[checkoutMode()]) || {};
-      var base = String(links[sku + (pin ? '_pin' : '')] || '').trim();
+      var suffix = pin === '30d' ? '_pin30' : pin === '7d' ? '_pin' : '';
+      var base = String(links[sku + suffix] || '').trim();
       if (!/^https:\/\/buy\.stripe\.com\//.test(base)) return '';
       var q = 'client_reference_id=' + encodeURIComponent(ref);
       if (email) q += '&prefilled_email=' + encodeURIComponent(email);
@@ -548,7 +561,7 @@
     }
     function payloadKey(payload) {
       return [payload.submission_ref, payload.place_name, payload.country, payload.city, payload.tab,
-        payload.why_stay, payload.submitter_email, payload.sku, payload.pin_7d,
+        payload.why_stay, payload.submitter_email, payload.sku, payload.pin,
         selectedPhoto ? selectedPhoto.size : 0].join('|');
     }
     function showStatus(msg) {
@@ -566,14 +579,14 @@
       }
     }
     function goToCheckout(payload) {
-      var url = checkoutUrl(payload.sku, payload.pin_7d === 'yes', payload.submission_ref, payload.submitter_email);
+      var url = checkoutUrl(payload.sku, payload.pin, payload.submission_ref, payload.submitter_email);
       if (!url) {
-        console.warn('[Spot and Travel Submit] no Payment Link for', checkoutMode(), payload.sku, payload.pin_7d);
+        console.warn('[Spot and Travel Submit] no Payment Link for', checkoutMode(), payload.sku, payload.pin);
         showStatus(t('submit_status_checkout_unavailable', { ref: payload.submission_ref }));
         return;
       }
       sset(PENDING_KEY, JSON.stringify({ ref: payload.submission_ref, url: url, sku: payload.sku,
-        pin: payload.pin_7d, total: payload.estimated_total, mode: checkoutMode(), at: Date.now() }));
+        pin: payload.pin, total: payload.estimated_total, mode: checkoutMode(), at: Date.now() }));
       showStatus(t('submit_status_redirecting', { ref: payload.submission_ref }));
       if (typeof window.__satRedirect === 'function') window.__satRedirect(url);
       else window.location.assign(url);
@@ -645,7 +658,7 @@
       var email = (document.getElementById('submitter-email').value || '').trim();
       var skuEl = form.querySelector('input[name="sku"]:checked');
       var sku = skuEl ? skuEl.value : '';
-      var pin = document.getElementById('pin-7d').checked;
+      var pin = pinChoice();
       var total = skuPrice() + pinPrice();
       return {
         place_name: place,
@@ -664,7 +677,9 @@
         _replyto: email,
         submitter_email: email,
         sku: sku,
-        pin_7d: pin ? 'yes' : 'no',
+        pin: pin,
+        pin_7d: pin === '7d' ? 'yes' : 'no',
+        pin_30d: pin === '30d' ? 'yes' : 'no',
         estimated_total: Number(total).toFixed(2),
         _subject: 'Spot and Travel submission ' + currentRef() + ': ' + place,
         acks: 'license=yes; real_place=yes; paid_listing=yes',
@@ -685,7 +700,7 @@
         'Submitter name: ' + payload.submitter_name,
         'Submitter email: ' + payload.submitter_email,
         'SKU: ' + payload.sku,
-        'pin_7d: ' + payload.pin_7d,
+        'Pin: ' + payload.pin + ' (pin_7d: ' + payload.pin_7d + ', pin_30d: ' + payload.pin_30d + ')',
         'Estimated total (USD): $' + payload.estimated_total,
         '',
         'Acks: ' + payload.acks,
@@ -845,10 +860,10 @@
 
     /** Basin failed: the buyer emails the submission themselves, then can still place the card hold. */
     function offerCheckoutAfterFallback(payload) {
-      var url = checkoutUrl(payload.sku, payload.pin_7d === 'yes', payload.submission_ref, payload.submitter_email);
+      var url = checkoutUrl(payload.sku, payload.pin, payload.submission_ref, payload.submitter_email);
       if (!url) return;
       sset(PENDING_KEY, JSON.stringify({ ref: payload.submission_ref, url: url, sku: payload.sku,
-        pin: payload.pin_7d, total: payload.estimated_total, mode: checkoutMode(), at: Date.now() }));
+        pin: payload.pin, total: payload.estimated_total, mode: checkoutMode(), at: Date.now() }));
       if (statusEl) statusEl.textContent = statusEl.textContent + ' ' + t('submit_status_fallback_pay', { ref: payload.submission_ref });
       showContinue(url);
     }

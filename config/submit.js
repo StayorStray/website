@@ -26,7 +26,7 @@
 
     checkoutMode: 'test',
 
-    // Keys: <sku> or <sku>_pin (7-day pin add-on included). Stripe account acct_1UGihKECBucDnUAX.
+    // Keys: <sku>, <sku>_pin (7-day pin, +$39.99) or <sku>_pin30 (30-day pin, +$99.00). Stripe account acct_1UGihKECBucDnUAX.
     paymentLinks: {
       test: {
         founding_standard: 'https://buy.stripe.com/test_8x28wP6GPbeJ5dm6iq0Jq00', // plink_1UOWZkECBucDnUAX3Z0vqUNS
@@ -34,7 +34,10 @@
         standard: 'https://buy.stripe.com/test_eVq4gzghpciN0X6dKS0Jq02', // plink_1UOWZlECBucDnUAXI36xTLd5
         standard_pin: 'https://buy.stripe.com/test_dRm4gz1mvaaFdJSfT00Jq03', // plink_1UOWZlECBucDnUAXdyOJ0wVJ
         hidden_gems: 'https://buy.stripe.com/test_cNiaEXghpaaF6hqdKS0Jq04', // plink_1UOWZmECBucDnUAX3Pl6QvdR
-        hidden_gems_pin: 'https://buy.stripe.com/test_8x27sL9T15Up49iayG0Jq05' // plink_1UOWZmECBucDnUAXx7JNRgwn
+        hidden_gems_pin: 'https://buy.stripe.com/test_8x27sL9T15Up49iayG0Jq05', // plink_1UOWZmECBucDnUAXx7JNRgwn
+        founding_standard_pin30: 'https://buy.stripe.com/test_9B6dR90ir96BbBKcGO0Jq06', // plink_1UOmdFECBucDnUAXcwDih6XR
+        standard_pin30: 'https://buy.stripe.com/test_eVq7sL8OX82xeNW0Y60Jq07', // plink_1UOmdGECBucDnUAXNWqizu3S
+        hidden_gems_pin30: 'https://buy.stripe.com/test_dRmdR91mv4Ql35e22a0Jq08' // plink_1UOmdHECBucDnUAXxIP5lXiu
       },
       live: {
         // Fill in after creating the 6 LIVE manual-capture links (docs/checkout/GO-LIVE.md).
@@ -43,7 +46,10 @@
         standard: '',
         standard_pin: '',
         hidden_gems: '',
-        hidden_gems_pin: ''
+        hidden_gems_pin: '',
+        founding_standard_pin30: '',
+        standard_pin30: '',
+        hidden_gems_pin30: ''
       }
     },
 
@@ -53,14 +59,16 @@
         founding_standard: 'price_1UOWZiECBucDnUAX920F4abE', // $39.99
         standard: 'price_1UOWZiECBucDnUAXLlEu22tw', // $49.99
         hidden_gems: 'price_1UOWZjECBucDnUAXTtFhIcPs', // $99.99
-        pin_7d: 'price_1UOWZkECBucDnUAXY20YC3jr' // $39.99
+        pin_7d: 'price_1UOWZkECBucDnUAXY20YC3jr', // $39.99
+        pin_30d: 'price_1UOmdFECBucDnUAXhAZ010V4' // $99.00
       },
       live: {
         // Existing LIVE-mode prices (BoOnE prices.csv 2026-09-24) — not usable in test mode.
         founding_standard: 'price_1UJOIDECBucDnUAXUCTMtj7G',
         standard: 'price_1UJOFmECBucDnUAXvW2O5PCT',
         hidden_gems: 'price_1UJOKQECBucDnUAXtteM7IZC',
-        pin_7d: 'price_1UJOO3ECBucDnUAX6yhR6T3c'
+        pin_7d: 'price_1UJOO3ECBucDnUAX6yhR6T3c',
+        pin_30d: '' // create a LIVE $99.00 "Pin 30 days" price at go-live
       }
     },
 

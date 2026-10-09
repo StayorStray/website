@@ -70,3 +70,10 @@ tells the buyer a payment link will be emailed.
 
 - Check Payments → **Uncaptured** at least every few days; holds expire after 7 days.
 - Follow `APPROVE-OR-REJECT.md` for each submission.
+
+## 30-day pin (added 2026-10-09)
+The pin is now a choice: none, 7 days (+$39.99) or 30 days (+$99.00). TEST mode has a `Pin 30 days`
+price (`price_1UOmdFECBucDnUAXhAZ010V4`) and 3 more card-hold links (`<sku>_pin30` in config/submit.js).
+At go-live, create a LIVE $99.00 "Pin 30 days" price plus 3 LIVE manual-capture links (each listing + 30-day pin) with the
+same settings, and fill in `paymentLinks.live.*_pin30` and `prices.live.pin_30d`.
+Payload/metadata: `pin` = none|7d|30d, plus `pin_7d` / `pin_30d` yes/no.
