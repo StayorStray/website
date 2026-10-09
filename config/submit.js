@@ -19,7 +19,7 @@
  */
 (function (global) {
   'use strict';
-  var SUBMIT_PAGE = 'https://stayorstray.github.io/website/pages/submit-a-place.html';
+  var SUBMIT_PAGE = 'https://spotandtravel.com/pages/submit-a-place.html';
   global.SOS_SUBMIT = {
     formEndpoint: 'https://usebasin.com/f/22787259725b',
     notifyEmail: 'xrhgrokbot@outlook.com',
