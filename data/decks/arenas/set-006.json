@@ -1,0 +1,537 @@
+{
+  "id": "arenas-set-006",
+  "tab": "arenas",
+  "label": "Arenas — Set 6 (091–100)",
+  "card_ids": [
+    "arenas-091",
+    "arenas-092",
+    "arenas-093",
+    "arenas-094",
+    "arenas-095",
+    "arenas-096",
+    "arenas-097",
+    "arenas-098",
+    "arenas-099",
+    "arenas-100"
+  ],
+  "count": 10,
+  "auditor": "approved — content-to-100 batch: licensed Commons photos visually checked; facts sourced",
+  "created": "2026-10-09T01:22:08-05:00",
+  "cards": [
+    {
+      "id": "arenas-091",
+      "tab": "arenas",
+      "name": "Stade Vélodrome",
+      "short_line": "Marseille, France",
+      "country": "France",
+      "lat": 43.2697,
+      "lng": 5.3958,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Stade_V%C3%A9lodrome_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-091.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AStade_V%C3%A9lodrome_1.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Zakarie Faibis",
+        "attribution": "Photo: Zakarie Faibis, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Stade Vélodrome 1.jpg' (6144×2436) confirms Stade Vélodrome; visually checked on contact sheet. desc: Stade Vélodrome"
+      },
+      "facts": {
+        "one_liner": "Olympique de Marseille’s home, roofed with a sweeping white canopy.",
+        "why_go": "Opened in 1937, Marseille’s Stade Vélodrome was transformed in 2014 by a roof that seems to float over the stands. It is the home of Olympique de Marseille, the only French club to have won the Champions League, and its ultras create one of Europe’s loudest atmospheres.",
+        "best_time": "August–May for Ligue 1.",
+        "how_to_get_there": "Rond-Point du Prado metro station (line 2) is next to the stadium.",
+        "good_to_know": "Tours run on non-match days.",
+        "official_or_tourism_url": "https://www.orangevelodrome.com/",
+        "sources": [
+          "https://www.orangevelodrome.com/",
+          "https://en.wikipedia.org/wiki/Stade_V%C3%A9lodrome",
+          "https://commons.wikimedia.org/wiki/File%3AStade_V%C3%A9lodrome_1.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Marseille, France",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Marseille%2C%20France&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Marseille%2C%20France&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Marseille%2C%20France&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Marseille"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-092",
+      "tab": "arenas",
+      "name": "Daytona International Speedway",
+      "short_line": "Daytona Beach, Florida, USA",
+      "country": "United States",
+      "lat": 29.1856,
+      "lng": -81.0694,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Daytona_International_Speedway_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-092.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ADaytona_International_Speedway_2011.jpg",
+        "license": "CC BY-SA 2.0",
+        "author": "Jeff",
+        "attribution": "Photo: Jeff, CC BY-SA 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Daytona International Speedway 2011.jpg' (2048×1536) confirms Daytona International Speedway; visually checked on contact sheet. desc: The Daytona International Speedway in 2011."
+      },
+      "facts": {
+        "one_liner": "The ‘World Center of Racing’, home of the Daytona 500.",
+        "why_go": "Opened in 1959, Daytona International Speedway is home of the Daytona 500, NASCAR’s season-opening race, and the Rolex 24 endurance race. The steeply banked 2.5-mile tri-oval is a short drive from the beach where racing in Daytona began.",
+        "best_time": "February for Speedweeks and the Daytona 500; January for the Rolex 24.",
+        "how_to_get_there": "In Daytona Beach, about an hour’s drive from Orlando.",
+        "good_to_know": "Tours run on non-race days and include a lap of the track.",
+        "official_or_tourism_url": "https://www.daytonainternationalspeedway.com/",
+        "sources": [
+          "https://www.daytonainternationalspeedway.com/",
+          "https://en.wikipedia.org/wiki/Daytona_International_Speedway",
+          "https://commons.wikimedia.org/wiki/File%3ADaytona_International_Speedway_2011.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Daytona Beach, Florida",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Daytona%20Beach%2C%20Florida&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Daytona%20Beach%2C%20Florida&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Daytona%20Beach%2C%20Florida&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Daytona Beach"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-093",
+      "tab": "arenas",
+      "name": "Estadio Monumental (Lima)",
+      "short_line": "Lima, Peru",
+      "country": "Peru",
+      "lat": -12.0556,
+      "lng": -76.9356,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Estadio_Monumental_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-093.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AEstadio_Monumental_2021.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Sigloestadio21",
+        "attribution": "Photo: Sigloestadio21, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Estadio Monumental 2021.jpg' (1765×834) confirms Estadio Monumental (Lima); visually checked on contact sheet. desc: Estadio Monumental U año 2021"
+      },
+      "facts": {
+        "one_liner": "Universitario’s giant stadium in the foothills on the edge of Lima.",
+        "why_go": "Opened in 2000, the Estadio Monumental ‘U’ is home to Club Universitario de Deportes and one of the largest stadiums in South America. It hosted the 2019 Copa Libertadores final and big concerts, and sits on the eastern edge of Lima with the Andes foothills behind it.",
+        "best_time": "December–April for Lima’s sunny summer.",
+        "how_to_get_there": "In Ate district, east Lima; taxi from Miraflores takes about 45 minutes depending on traffic.",
+        "good_to_know": "Go with locals on match days.",
+        "official_or_tourism_url": "https://en.wikipedia.org/wiki/Estadio_Monumental_%22U%22",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Estadio_Monumental_%22U%22",
+          "https://commons.wikimedia.org/wiki/File%3AEstadio_Monumental_2021.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Lima, Peru",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Lima%2C%20Peru&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Lima%2C%20Peru&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Lima%2C%20Peru&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Lima"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-094",
+      "tab": "arenas",
+      "name": "Stadio Artemio Franchi",
+      "short_line": "Florence, Italy",
+      "country": "Italy",
+      "lat": 43.7809,
+      "lng": 11.2822,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Firenze%2C_stadio_artemio_franchi%2C_campo_da_gioco%2C_10%2C0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-094.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AFirenze,_stadio_artemio_franchi,_campo_da_gioco,_10,0.jpg",
+        "license": "CC BY 3.0",
+        "author": "Sailko",
+        "attribution": "Photo: Sailko, CC BY 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Firenze, stadio artemio franchi, campo da gioco, 10,0.jpg' (5990×3232) confirms Stadio Artemio Franchi; visually checked on contact sheet. desc: Stadio Artemio Franchi (Florence)"
+      },
+      "facts": {
+        "one_liner": "Pier Luigi Nervi’s modernist concrete stadium, home of Fiorentina.",
+        "why_go": "Built in 1931 to a design by engineer Pier Luigi Nervi, Florence’s Stadio Artemio Franchi is a landmark of modernist architecture, with a cantilevered concrete roof, spiral staircases and the slender Tower of Marathon. It is home to ACF Fiorentina.",
+        "best_time": "August–May for Serie A.",
+        "how_to_get_there": "In Campo di Marte, about 25 minutes’ walk from the Duomo; Firenze Campo di Marte station is nearby.",
+        "good_to_know": "The stadium is undergoing a phased renovation—capacity may be reduced.",
+        "official_or_tourism_url": "https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi",
+          "https://commons.wikimedia.org/wiki/File%3AFirenze,_stadio_artemio_franchi,_campo_da_gioco,_10,0.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Florence, Italy",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Florence%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Florence%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Florence%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Florence"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-095",
+      "tab": "arenas",
+      "name": "Arena di Verona",
+      "short_line": "Verona, Italy",
+      "country": "Italy",
+      "lat": 45.439,
+      "lng": 10.9944,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Italy_-_Verona_-_Arena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-095.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AItaly_-_Verona_-_Arena.jpg",
+        "license": "Public Domain",
+        "author": "Arne Müseler",
+        "attribution": "Photo: Arne Müseler, Public Domain, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Italy - Verona - Arena.jpg' (4954×3835) confirms Arena di Verona; visually checked on contact sheet. desc: Arena, Verona, Italy"
+      },
+      "facts": {
+        "one_liner": "A 1st-century Roman amphitheatre that still hosts opera under the stars.",
+        "why_go": "Verona’s Arena was built in the 1st century AD and is one of the best-preserved Roman amphitheatres. Since 1913 it has hosted a summer opera festival, where thousands watch Aida and other works by candlelight on its ancient stone steps. In 2026 it hosted the closing ceremony of the Milano Cortina Winter Olympics.",
+        "best_time": "June–September for the Arena di Verona Opera Festival.",
+        "how_to_get_there": "On Piazza Bra, about 15 minutes’ walk from Verona Porta Nuova station.",
+        "good_to_know": "Bring a cushion if sitting on the stone steps.",
+        "official_or_tourism_url": "https://www.arena.it/en/",
+        "sources": [
+          "https://www.arena.it/en/",
+          "https://en.wikipedia.org/wiki/Verona_Arena",
+          "https://commons.wikimedia.org/wiki/File%3AItaly_-_Verona_-_Arena.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Verona, Italy",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Verona%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Verona%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Verona%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Verona"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license Public Domain verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-096",
+      "tab": "arenas",
+      "name": "Red Rocks Amphitheatre",
+      "short_line": "Morrison, Colorado, USA",
+      "country": "United States",
+      "lat": 39.6654,
+      "lng": -105.2057,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Red_Rocks_Amphitheatre%2C_Colorado_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-096.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ARed_Rocks_Amphitheatre,_Colorado_3.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Sarbjit Bahga",
+        "attribution": "Photo: Sarbjit Bahga, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Red Rocks Amphitheatre, Colorado 3.jpg' (5184×3456) confirms Red Rocks Amphitheatre; visually checked on contact sheet. desc: Red Rocks Amphitheatre, Colorado 3."
+      },
+      "facts": {
+        "one_liner": "A concert amphitheatre carved between giant red sandstone monoliths.",
+        "why_go": "Red Rocks Amphitheatre opened in 1941 between two massive sandstone monoliths, Ship Rock and Creation Rock, in the foothills west of Denver. Its natural acoustics have made it a legendary venue for artists from the Beatles to U2, and by day the park’s trails and stairs are open for hiking and workouts.",
+        "best_time": "May–October for the concert season; sunrise Easter service and morning visits in winter.",
+        "how_to_get_there": "About 30 minutes’ drive west of Denver; shuttles run from the city on concert nights.",
+        "good_to_know": "Elevation is about 1,900 m—bring water and layers.",
+        "official_or_tourism_url": "https://www.redrocksonline.com/",
+        "sources": [
+          "https://www.redrocksonline.com/",
+          "https://commons.wikimedia.org/wiki/File%3ARed_Rocks_Amphitheatre,_Colorado_3.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Morrison, Colorado",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Morrison%2C%20Colorado&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Morrison%2C%20Colorado&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Morrison%2C%20Colorado&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Morrison"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-097",
+      "tab": "arenas",
+      "name": "Hollywood Bowl",
+      "short_line": "Los Angeles, California, USA",
+      "country": "United States",
+      "lat": 34.1122,
+      "lng": -118.3391,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Hollywood_Bowl_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-097.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AHollywood_Bowl_2024.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Edwardrhodes06",
+        "attribution": "Photo: Edwardrhodes06, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Hollywood Bowl 2024.jpg' (2862×2147) confirms Hollywood Bowl; visually checked on contact sheet. desc: The Hollywood Bowl amphitheatre, stage and Hollywood sign in mountains behind"
+      },
+      "facts": {
+        "one_liner": "The famous concentric-arch shell in the Hollywood Hills.",
+        "why_go": "The Hollywood Bowl has staged concerts since 1922 in a natural amphitheatre in the Hollywood Hills. It is the summer home of the Los Angeles Philharmonic, and its iconic concentric arch shell is a symbol of LA. Bring a picnic and wine to the box seats or benches.",
+        "best_time": "June–September for the summer season.",
+        "how_to_get_there": "Park-and-ride shuttles run from across LA; Hollywood/Highland Metro station is about 20 minutes’ walk.",
+        "good_to_know": "Fireworks nights are popular—book ahead.",
+        "official_or_tourism_url": "https://www.hollywoodbowl.com/",
+        "sources": [
+          "https://www.hollywoodbowl.com/",
+          "https://commons.wikimedia.org/wiki/File%3AHollywood_Bowl_2024.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Hollywood, Los Angeles",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Hollywood%2C%20Los%20Angeles&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Hollywood%2C%20Los%20Angeles&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Hollywood%2C%20Los%20Angeles&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Hollywood"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-098",
+      "tab": "arenas",
+      "name": "Las Ventas",
+      "short_line": "Madrid, Spain",
+      "country": "Spain",
+      "lat": 40.432,
+      "lng": -3.6634,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Plaza_de_Toros_de_Las_Ventas_%28Madrid%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-098.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APlaza_de_Toros_de_Las_Ventas_(Madrid)_04.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Luis García (Zaqarbal)",
+        "attribution": "Photo: Luis García (Zaqarbal), CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Plaza de Toros de Las Ventas (Madrid) 04.jpg' (3744×2194) confirms Las Ventas; visually checked on contact sheet. desc: View of Las Ventas Bullring in Madrid (Spain) from Calle de Alcalá (street)."
+      },
+      "facts": {
+        "one_liner": "Madrid’s neo-Mudéjar bullring, a showpiece of brick and tile.",
+        "why_go": "Opened in 1931, Las Ventas is Spain’s largest bullring and an outstanding example of neo-Mudéjar architecture, with horseshoe arches, ceramic tiles and red brick. Today it is visited for its architecture as much as its events; guided tours cover the ring and a small museum, and it also hosts concerts.",
+        "best_time": "Spring and autumn for mild weather; tours year-round.",
+        "how_to_get_there": "Ventas metro station (lines 2 and 5) is right outside.",
+        "good_to_know": "Bullfighting is controversial; architecture tours are a way to visit without attending.",
+        "official_or_tourism_url": "https://www.las-ventas.com/",
+        "sources": [
+          "https://www.las-ventas.com/",
+          "https://en.wikipedia.org/wiki/Las_Ventas",
+          "https://commons.wikimedia.org/wiki/File%3APlaza_de_Toros_de_Las_Ventas_(Madrid)_04.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Madrid, Spain",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Madrid%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Madrid%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Madrid%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Madrid"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-099",
+      "tab": "arenas",
+      "name": "Royal Albert Hall",
+      "short_line": "Kensington, London, England",
+      "country": "United Kingdom",
+      "lat": 51.5009,
+      "lng": -0.1774,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Royal_Albert_Hall_-_Gallery_Central_View.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-099.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ARoyal_Albert_Hall_-_Gallery_Central_View.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Colin",
+        "attribution": "Photo: Colin, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Royal Albert Hall - Gallery Central View.jpg' (5095×2182) confirms Royal Albert Hall; visually checked on contact sheet. desc: The Royal Albert Hall viewed from the centre of the Gallery."
+      },
+      "facts": {
+        "one_liner": "London’s great domed concert hall, home of the BBC Proms.",
+        "why_go": "Opened by Queen Victoria in 1871, the Royal Albert Hall is one of the world’s most famous concert venues. Its oval auditorium with acoustic ‘mushrooms’ hanging under the dome hosts the BBC Proms every summer, plus rock gigs, ballet, tennis and Cirque du Soleil.",
+        "best_time": "July–September for the BBC Proms; year-round for concerts and tours.",
+        "how_to_get_there": "South Kensington station is about 10 minutes’ walk, beside Kensington Gardens.",
+        "good_to_know": "Proms ‘promming’ tickets for standing room are sold cheaply on the day.",
+        "official_or_tourism_url": "https://www.royalalberthall.com/",
+        "sources": [
+          "https://www.royalalberthall.com/",
+          "https://commons.wikimedia.org/wiki/File%3ARoyal_Albert_Hall_-_Gallery_Central_View.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Kensington, London",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kensington%2C%20London&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kensington%2C%20London&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kensington%2C%20London&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Kensington"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-100",
+      "tab": "arenas",
+      "name": "Arènes de Nîmes",
+      "short_line": "Nîmes, France",
+      "country": "France",
+      "lat": 43.8347,
+      "lng": 4.3597,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Arenes_de_Nimes_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-100.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AArenes_de_Nimes_(18).jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Krzysztof Golik",
+        "attribution": "Photo: Krzysztof Golik, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Arenes de Nimes (18).jpg' (6417×2678) confirms Arènes de Nîmes; visually checked on contact sheet. desc: Arènes de Nîmes, Gard, France"
+      },
+      "facts": {
+        "one_liner": "One of the best-preserved Roman amphitheatres in the world, still used for events.",
+        "why_go": "Built around the end of the 1st century AD, the Arènes de Nîmes is one of the best-preserved Roman amphitheatres anywhere, with two tiers of arcades. Audio-guided visits explain gladiator fights, and the arena still hosts concerts, festivals and the Great Roman Games re-enactment.",
+        "best_time": "April–June and September for pleasant weather; Pentecost brings the Feria festival.",
+        "how_to_get_there": "In central Nîmes, about 10 minutes’ walk from Nîmes Centre station.",
+        "good_to_know": "Combined tickets include the Maison Carrée and Tour Magne.",
+        "official_or_tourism_url": "https://www.arenes-nimes.com/",
+        "sources": [
+          "https://www.arenes-nimes.com/",
+          "https://en.wikipedia.org/wiki/Arena_of_N%C3%AEmes",
+          "https://commons.wikimedia.org/wiki/File%3AArenes_de_Nimes_(18).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Nîmes, France",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=N%C3%AEmes%2C%20France&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=N%C3%AEmes%2C%20France&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=N%C3%AEmes%2C%20France&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Nîmes"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    }
+  ]
+}
