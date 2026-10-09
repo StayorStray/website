@@ -1,5 +1,5 @@
 /**
- * Stay or Stray — i18n (en, es, fr, de, ru, ja, nl, pt, ko, zh)
+ * Go or No — i18n (en, es, fr, de, ru, ja, nl, pt, ko, zh)
  * Top-right language control; persists in localStorage (sos_lang).
  */
 (function (global) {
@@ -404,7 +404,7 @@
     await setLanguage(getStoredLang());
   }
 
-  global.StayOrStrayI18n = {
+  global.GoOrNoI18n = {
     SUPPORTED: SUPPORTED,
     LANG_NATIVE: LANG_NATIVE,
     t: t,

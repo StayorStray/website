@@ -19,7 +19,7 @@ Timezone: **America/Chicago**.
 4. **Personal lists** — Stay/Stray are permanent on-device, keyed by place `id`.
    Daily deck changes do not clear them.
 
-Frontend: `site/js/daily.js` (`StayOrStrayDaily.selectDailyDeck`).
+Frontend: `site/js/daily.js` (`GoOrNoDaily.selectDailyDeck`).
 
 ## Layout
 

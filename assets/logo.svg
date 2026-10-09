@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 310" fill="none" role="img" aria-labelledby="sosTitle">
-  <title id="sosTitle">Stay or Stray</title>
-  <!-- Stay or Stray locked brand lockup — white on transparent (dark-header ready) -->
-
-  <!-- Curved contrail (fades toward left) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 310" fill="none" role="img" aria-labelledby="gonTitle">
+  <title id="gonTitle">Go or No</title>
+  <!-- Go or No brand lockup — white on transparent (dark-header ready).
+       Same jet + contrail as the original lockup; the two O's carry the
+       site's Go (green) and No (coral) button colors. -->
   <defs>
     <linearGradient id="trailFade" x1="100%" y1="0%" x2="0%" y2="20%">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="1"/>
@@ -11,40 +11,18 @@
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <path d="M420 128 C340 145, 250 165, 120 195"
-        stroke="url(#trailFade)" stroke-width="3.6" fill="none"
-        stroke-linecap="round"/>
-
-  <!-- Climbing commercial jet -->
-  <g fill="#ffffff" transform="translate(545 100) rotate(-34) scale(1.15)">
-    <!-- fuselage -->
-    <path d="M-70 0
-      C-70 -6.5 -62 -10 -52 -10
-      L28 -10
-      C42 -10 54 -6 64 -1.5
-      L72 0
-      L64 1.5
-      C54 6 42 10 28 10
-      L-52 10
-      C-62 10 -70 6.5 -70 0Z"/>
-    <!-- wings -->
-    <path d="M-22 2 L12 2 L-2 36 L-16 36 L-30 8Z"/>
-    <path d="M-22 -2 L12 -2 L-2 -36 L-16 -36 L-30 -8Z"/>
-    <!-- horizontal stabilizer -->
-    <path d="M-58 1 L-42 1 L-48 15 L-58 15Z"/>
-    <path d="M-58 -1 L-42 -1 L-48 -15 L-58 -15Z"/>
-    <!-- vertical fin -->
-    <path d="M-68 -1 L-50 -1 L-58 -26 L-72 -20Z"/>
-    <!-- engines -->
-    <ellipse cx="-2" cy="16" rx="6.5" ry="3.8"/>
-    <ellipse cx="-2" cy="-16" rx="6.5" ry="3.8"/>
+  <path d="M446 131 C350 150, 250 168, 120 195" stroke="url(#trailFade)" stroke-width="3.6" fill="none" stroke-linecap="round"/>
+  <g fill="#ffffff" transform="translate(540 104) rotate(-28) scale(1.2)">
+    <path d="M-62 0 C-62 -4 -58 -6 -52 -6 L50 -6 C60 -6 68 -3 72 0 C68 3 60 6 50 6 L-52 6 C-58 6 -62 4 -62 0Z"/>
+    <path d="M14 -5 L-20 -52 L-31 -52 L-14 -5Z"/>
+    <path d="M14 5 L-20 52 L-31 52 L-14 5Z"/>
+    <path d="M-40 -4 L-56 -22 L-63 -22 L-54 -4Z"/>
+    <path d="M-40 4 L-56 22 L-63 22 L-54 4Z"/>
+    <rect x="-8" y="-27" width="16" height="7" rx="3.5"/>
+    <rect x="-8" y="20" width="16" height="7" rx="3.5"/>
   </g>
-
-  <!-- Wordmark: STΛY OR STRΛY using Greek Lambda for open A -->
-  <text x="500" y="272" text-anchor="middle"
-        fill="#ffffff"
+  <!-- Wordmark: GO OR NO -->
+  <text x="508" y="282" text-anchor="middle" fill="#ffffff"
         font-family="Montserrat, Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif"
-        font-size="56"
-        font-weight="700"
-        letter-spacing="0.16em">ST&#923;Y OR STR&#923;Y</text>
+        font-size="86" font-weight="700" letter-spacing="0.14em">G<tspan fill="#2f9e6b">O</tspan> OR N<tspan fill="#c45c4a">O</tspan></text>
 </svg>

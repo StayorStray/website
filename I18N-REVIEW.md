@@ -1,4 +1,4 @@
-# Stay or Stray — i18n / language switcher review
+# Go or No (formerly Stay or Stray) — i18n / language switcher review
 
 **Reviewer:** Frontend (executor)  
 **Date:** 2026-09-20 14:35 CDT  

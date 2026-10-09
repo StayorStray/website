@@ -1,4 +1,4 @@
-/* Stay or Stray — mobile-first */
+/* Go or No — mobile-first */
 :root {
   --bg: #0f1218;
   --surface: #1a1f2a;
@@ -44,7 +44,7 @@ img { max-width: 100%; display: block; }
   border-bottom: 1px solid var(--border);
 }
 
-/* Right cluster: Stay/Stray counts + language (desktop top-right) */
+/* Right cluster: Go/No counts + language (desktop top-right) */
 .header-end {
   display: flex;
   align-items: center;
@@ -444,7 +444,7 @@ img { max-width: 100%; display: block; }
 
 /* Wide desktop: pin rail in far-right viewport gutter (below sticky header).
    ~720px centered wrap + gap + ~200–240px rail needs roughly ≥1200px.
-   JS syncs top/height to deck chrome → Stay/Stray buttons. */
+   JS syncs top/height to deck chrome → Go/No buttons. */
 @media (min-width: 1200px) {
   .klook-rail--desktop {
     display: flex;
@@ -684,7 +684,7 @@ img { max-width: 100%; display: block; }
   font-size: 0.8rem;
 }
 
-/* —— Clickable Stay/Stray counts —— */
+/* —— Clickable Go/No counts —— */
 .session-stats {
   display: flex;
   align-items: center;
@@ -717,7 +717,7 @@ img { max-width: 100%; display: block; }
 .stat-btn strong { color: var(--text); font-weight: 600; }
 .stat-sep { color: var(--muted); user-select: none; }
 
-/* —— Stay/Stray list panel —— */
+/* —— Go/No list panel —— */
 body.list-panel-open { overflow: hidden; }
 .list-panel {
   position: fixed;

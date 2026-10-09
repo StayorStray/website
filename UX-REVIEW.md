@@ -1,4 +1,4 @@
-# Stay or Stray — UX review
+# Go or No (formerly Stay or Stray) — UX review
 
 **Reviewer:** Stay Frontend (workspace polish)  
 **Date:** 2026-09-20 (America/Chicago)  

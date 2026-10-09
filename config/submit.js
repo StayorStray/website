@@ -1,5 +1,5 @@
 /**
- * Stay or Stray — Submit a Place notify / checkout config (browser)
+ * Go or No — Submit a Place notify / checkout config (browser)
  *
  * formEndpoint: Basin intake URL (BoOnE trial — files allowed). FormData POSTs
  * include the submission photo. Former Formspree: https://formspree.io/f/xkjgzpky

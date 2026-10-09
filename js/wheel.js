@@ -1,5 +1,5 @@
 /**
- * Stay or Stray — Location Randomizer (prize wheel)
+ * Go or No — Location Randomizer (prize wheel)
  * Storage: stayorstray.wheel.v1 only (never sos_stay_list / sos_stray_list).
  */
 (function () {
@@ -245,7 +245,7 @@
   }
 
   function adHref(card) {
-    var Aff = window.StayOrStrayAffiliates;
+    var Aff = window.GoOrNoAffiliates;
     var q =
       (card.ad && card.ad.destination_query) ||
       [card.name, card.country].filter(Boolean).join(', ');
@@ -326,7 +326,7 @@
   }
 
   function tabLabel(slug) {
-    var i = window.StayOrStrayI18n;
+    var i = window.GoOrNoI18n;
     if (i && i.tabLabel) return i.tabLabel(slug);
     return slug
       .split('-')
@@ -337,7 +337,7 @@
   }
 
   function t(key, vars) {
-    var i = window.StayOrStrayI18n;
+    var i = window.GoOrNoI18n;
     return i && i.t ? i.t(key, vars) : key;
   }
 
@@ -483,7 +483,7 @@
   }
 
   function applyRandomizerChrome() {
-    var i = window.StayOrStrayI18n;
+    var i = window.GoOrNoI18n;
     if (!i || !i.ready || !i.ready()) return;
 
     Array.prototype.forEach.call(document.querySelectorAll('[data-i18n]'), function (el) {
@@ -912,7 +912,7 @@
   }
 
   function watchI18n() {
-    var i = window.StayOrStrayI18n;
+    var i = window.GoOrNoI18n;
     if (!i || !i.onChange) return;
     i.onChange(function () {
       populateControls();
