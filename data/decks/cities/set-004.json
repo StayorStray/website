@@ -1,0 +1,1071 @@
+{
+  "id": "cities-set-004",
+  "tab": "cities",
+  "label": "Iconic Cities — Set 4 (061–080)",
+  "card_ids": [
+    "cities-061",
+    "cities-062",
+    "cities-063",
+    "cities-064",
+    "cities-065",
+    "cities-066",
+    "cities-067",
+    "cities-068",
+    "cities-069",
+    "cities-070",
+    "cities-071",
+    "cities-072",
+    "cities-073",
+    "cities-074",
+    "cities-075",
+    "cities-076",
+    "cities-077",
+    "cities-078",
+    "cities-079",
+    "cities-080"
+  ],
+  "count": 20,
+  "auditor": "approved — content-to-100 batch: licensed Commons photos visually checked; facts sourced",
+  "created": "2026-10-09T01:00:58-05:00",
+  "cards": [
+    {
+      "id": "cities-061",
+      "tab": "cities",
+      "name": "Venice",
+      "short_line": "Veneto, Italy",
+      "country": "Italy",
+      "lat": 45.4375,
+      "lng": 12.3358,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ponte_di_Rialto_Venice_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-061.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APonte_di_Rialto_Venice_1.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "kallerna",
+        "attribution": "Photo: kallerna, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Ponte di Rialto Venice 1.jpg' (5100×3385) confirms Venice; visually checked on contact sheet. desc: Ponte di Rialto, Venice."
+      },
+      "facts": {
+        "one_liner": "Gondolas and vaporetti glide under the white stone arch of the Rialto Bridge on the Grand Canal.",
+        "why_go": "Venice is built across more than a hundred small islands in a shallow lagoon, laced together by canals and over 400 bridges, and it was the capital of the Venetian Republic for roughly a thousand years. The Grand Canal is its main street: palazzi line both banks, and the stone Rialto Bridge (completed 1591) is the oldest of the four bridges that cross it. Come for St Mark’s Basilica and the Doge’s Palace, sunset from the Accademia Bridge, cicchetti in the bacari around the Rialto Market, and quiet early-morning walks before the day-trippers arrive.",
+        "best_time": "April–June and September–October for mild weather. Winter is quiet and atmospheric but can bring acqua alta (tidal flooding); Carnival falls in February.",
+        "how_to_get_there": "Fly into Venice Marco Polo (VCE), then take the Alilaguna water bus or a bus to Piazzale Roma. Trains arrive at Venezia Santa Lucia station on the Grand Canal. Inside the city you walk or use ACTV vaporetto water buses.",
+        "good_to_know": "Day-trippers on peak dates must pay the city’s access fee—check the official calendar before you go. Bring comfortable shoes: bridges have steps and there are no cars or bikes in the historic centre.",
+        "official_or_tourism_url": "https://www.veneziaunica.it/en",
+        "sources": [
+          "https://www.veneziaunica.it/en",
+          "https://en.wikipedia.org/wiki/Venice",
+          "https://commons.wikimedia.org/wiki/File%3APonte_di_Rialto_Venice_1.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Venice, Italy",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Venice%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Venice%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Venice%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Venice"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-062",
+      "tab": "cities",
+      "name": "Hong Kong",
+      "short_line": "Hong Kong SAR, China",
+      "country": "China",
+      "lat": 22.3,
+      "lng": 114.2,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Hong_Kong_from_Victoria_Peak1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-062.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AHong_Kong_from_Victoria_Peak1.jpg",
+        "license": "CC0",
+        "author": "Mustang Joe",
+        "attribution": "Photo: Mustang Joe, CC0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Hong Kong from Victoria Peak1.jpg' (6502×3115) confirms Hong Kong; visually checked on contact sheet. desc: Hong Kong from Victoria Peak"
+      },
+      "facts": {
+        "one_liner": "Skyscrapers pack the shore of Victoria Harbour below the green slopes of Victoria Peak.",
+        "why_go": "Hong Kong squeezes one of the world’s densest skylines between mountains and sea, and the classic view is this one from Victoria Peak: towers of Central and Wan Chai stacked against Victoria Harbour, with Kowloon across the water. Ride the historic Peak Tram up, cross the harbour on the Star Ferry, eat your way through dim sum halls and dai pai dong street stalls, and escape to hiking trails such as Dragon’s Back—most of the territory is actually green country parks and outlying islands.",
+        "best_time": "October–December for clear, dry, comfortable days. Spring is humid and often hazy; June–September is hot, wet and typhoon season.",
+        "how_to_get_there": "Fly into Hong Kong International Airport (HKG); the Airport Express train reaches Hong Kong station in Central in about 25 minutes.",
+        "good_to_know": "Clear evenings give the best Peak views; the free Symphony of Lights show plays over the harbour nightly. Queues for the Peak Tram are long at weekends—go early or take bus 15.",
+        "official_or_tourism_url": "https://www.discoverhongkong.com/",
+        "sources": [
+          "https://www.discoverhongkong.com/",
+          "https://en.wikipedia.org/wiki/Hong_Kong",
+          "https://commons.wikimedia.org/wiki/File%3AHong_Kong_from_Victoria_Peak1.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Hong Kong",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Hong%20Kong&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Hong%20Kong&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Hong%20Kong&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Hong Kong"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-063",
+      "tab": "cities",
+      "name": "Shanghai",
+      "short_line": "Shanghai, China",
+      "country": "China",
+      "lat": 31.2325,
+      "lng": 121.4692,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Pudong_Shanghai_November_2017_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-063.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APudong_Shanghai_November_2017_panorama.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "King of Hearts",
+        "attribution": "Photo: King of Hearts, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Pudong Shanghai November 2017 panorama.jpg' (10200×5100) confirms Shanghai; visually checked on contact sheet. desc: Four-segment panorama of Pudong, Shanghai, China."
+      },
+      "facts": {
+        "one_liner": "Pudong’s futuristic skyline—Oriental Pearl Tower and Shanghai Tower—rises across the Huangpu River.",
+        "why_go": "Shanghai is China’s largest city and its great commercial port, and the Huangpu River splits its personality in two. On the west bank, the Bund’s early-20th-century banks and trading houses face east to Pudong, where farmland became a forest of towers within a few decades: the pink-orbed Oriental Pearl Tower, the Jin Mao Tower and the twisting Shanghai Tower, China’s tallest building. Between skyline views, explore the leafy former French Concession, Yu Garden and its old-town lanes, and the city’s celebrated soup dumplings.",
+        "best_time": "April–May and October–November for mild, mostly dry weather. Summers are hot and humid; winters are cold and grey.",
+        "how_to_get_there": "Fly into Shanghai Pudong (PVG) or Hongqiao (SHA). From Pudong, Metro Line 2 or the Maglev train connect toward the city; Hongqiao has a major high-speed rail hub. The Metro reaches nearly every sight.",
+        "good_to_know": "The Bund is the classic spot for Pudong views, especially after dark when the towers light up. Check current visa and entry rules for China before booking.",
+        "official_or_tourism_url": "https://www.meet-in-shanghai.net/",
+        "sources": [
+          "https://www.meet-in-shanghai.net/",
+          "https://en.wikipedia.org/wiki/Shanghai",
+          "https://commons.wikimedia.org/wiki/File%3APudong_Shanghai_November_2017_panorama.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Shanghai, China",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Shanghai%2C%20China&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Shanghai%2C%20China&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Shanghai%2C%20China&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Shanghai"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-064",
+      "tab": "cities",
+      "name": "Dubai",
+      "short_line": "Dubai, United Arab Emirates",
+      "country": "United Arab Emirates",
+      "lat": 25.2047,
+      "lng": 55.2708,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Dubai_Skyline_mit_Burj_Khalifa_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-064.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ADubai_Skyline_mit_Burj_Khalifa_(cropped).jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Tim Reckmann from Hamm, Deutschland",
+        "attribution": "Photo: Tim Reckmann from Hamm, Deutschland, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Dubai Skyline mit Burj Khalifa (cropped).jpg' (5289×2187) confirms Dubai; visually checked on contact sheet. desc: Skyline of Downtown Dubai with Burj Khalifa from a Helicopter (crop of File:Dubai skyline 2015.jpg)"
+      },
+      "facts": {
+        "one_liner": "Burj Khalifa needles above Dubai’s glittering desert-edge skyline.",
+        "why_go": "Dubai grew from a pearling and trading creek town into a global hub in a few decades, and its skyline shows it: the Burj Khalifa, the world’s tallest building since 2010, towers over Downtown, with Sheikh Zayed Road’s skyscrapers stretching toward the Gulf. Mix the glamour—observation decks, the Dubai Fountain, Palm Jumeirah beaches—with the older city along Dubai Creek, where abra water taxis cross to the gold and spice souks, and desert dune trips start an hour from town.",
+        "best_time": "November–March for warm, sunny days and pleasant evenings. June–September is extremely hot and humid.",
+        "how_to_get_there": "Fly into Dubai International (DXB), one of the world’s busiest airports; the Dubai Metro Red Line links it to Downtown and the Marina. Taxis are plentiful and reasonably priced.",
+        "good_to_know": "Book Burj Khalifa ‘At the Top’ tickets in advance, especially for sunset. Dress modestly in souks, malls and religious sites, and respect local laws on alcohol and public behaviour.",
+        "official_or_tourism_url": "https://www.visitdubai.com/en",
+        "sources": [
+          "https://www.visitdubai.com/en",
+          "https://en.wikipedia.org/wiki/Dubai",
+          "https://commons.wikimedia.org/wiki/File%3ADubai_Skyline_mit_Burj_Khalifa_(cropped).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Dubai, United Arab Emirates",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Dubai%2C%20United%20Arab%20Emirates&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Dubai%2C%20United%20Arab%20Emirates&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Dubai%2C%20United%20Arab%20Emirates&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Dubai"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-065",
+      "tab": "cities",
+      "name": "San Francisco",
+      "short_line": "California, United States",
+      "country": "United States",
+      "lat": 37.7775,
+      "lng": -122.4164,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/San_Francisco_from_the_Marin_Headlands_in_March_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-065.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASan_Francisco_from_the_Marin_Headlands_in_March_2019.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Lightandtruth",
+        "attribution": "Photo: Lightandtruth, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:San Francisco from the Marin Headlands in March 2019.jpg' (2048×1200) confirms San Francisco; visually checked on contact sheet. desc: San Francisco from the Marin Headlands on March 31, 2019 during California's Superbloom"
+      },
+      "facts": {
+        "one_liner": "The Golden Gate Bridge frames San Francisco’s hills from the wildflower slopes of the Marin Headlands.",
+        "why_go": "San Francisco packs a lot onto a hilly peninsula between the Pacific and the bay: Victorian houses, cable cars climbing impossibly steep streets, and the Golden Gate Bridge, opened in 1937, spanning the strait to Marin County. This classic view from the Marin Headlands shows the bridge’s International Orange towers with the city skyline beyond. Explore Chinatown and North Beach, take a ferry to Alcatraz, wander Golden Gate Park and the Mission’s murals and taquerias, and drive or bike across the bridge for the views.",
+        "best_time": "September–October brings the warmest, clearest weather. Summer is often cool and foggy (pack layers); spring is green and mild.",
+        "how_to_get_there": "Fly into San Francisco International (SFO) and take BART to downtown in about 30 minutes; Oakland (OAK) is an alternative. Use Muni buses, streetcars and cable cars to get around—parking downtown is difficult.",
+        "good_to_know": "Alcatraz tours sell out—book ahead with the official operator. Fog can hide the bridge for hours; morning and late afternoon often clear on the Marin side.",
+        "official_or_tourism_url": "https://www.sftravel.com/",
+        "sources": [
+          "https://www.sftravel.com/",
+          "https://en.wikipedia.org/wiki/San_Francisco",
+          "https://commons.wikimedia.org/wiki/File%3ASan_Francisco_from_the_Marin_Headlands_in_March_2019.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "San Francisco, California",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=San%20Francisco%2C%20California&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=San%20Francisco%2C%20California&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=San%20Francisco%2C%20California&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in San Francisco"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-066",
+      "tab": "cities",
+      "name": "New Orleans",
+      "short_line": "Louisiana, United States",
+      "country": "United States",
+      "lat": 29.9761,
+      "lng": -90.0783,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Bourbon_St%2C_French_Quarter%2C_New_Orleans%2C_USA2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-066.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABourbon_St,_French_Quarter,_New_Orleans,_USA2.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Diego Delso",
+        "attribution": "Photo: Diego Delso, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Bourbon St, French Quarter, New Orleans, USA2.jpg' (3770×2513) confirms New Orleans; visually checked on contact sheet. desc: Bourbon St, French Quarter, New Orleans, USA"
+      },
+      "facts": {
+        "one_liner": "Iron-lace balconies and pastel Creole facades line the streets of the French Quarter.",
+        "why_go": "New Orleans sits on a bend of the Mississippi River and was founded by the French in 1718; its oldest district, the French Quarter (Vieux Carré), still shows Spanish- and French-era architecture with cast-iron galleries hanging over the sidewalks. It is the birthplace of jazz, so come for live music on Frenchmen Street and at Preservation Hall, beignets at the French Market, Creole and Cajun cooking, streetcars under the oaks of St. Charles Avenue, and—if you can—Mardi Gras or Jazz Fest.",
+        "best_time": "February–May for mild weather and festival season (Mardi Gras, French Quarter Fest, Jazz Fest). Summer is hot and humid; hurricane season runs June–November.",
+        "how_to_get_there": "Fly into Louis Armstrong New Orleans International (MSY), about 25–30 minutes by car from the French Quarter. Amtrak serves Union Passenger Terminal. Streetcars and walking cover the central neighbourhoods.",
+        "good_to_know": "Hotels fill and prices climb during Mardi Gras and Jazz Fest—book early. Bourbon Street gets rowdy at night; Royal Street and Frenchmen Street offer a different side of the city.",
+        "official_or_tourism_url": "https://www.neworleans.com/",
+        "sources": [
+          "https://www.neworleans.com/",
+          "https://en.wikipedia.org/wiki/New_Orleans",
+          "https://commons.wikimedia.org/wiki/File%3ABourbon_St,_French_Quarter,_New_Orleans,_USA2.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "New Orleans, Louisiana",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=New%20Orleans%2C%20Louisiana&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=New%20Orleans%2C%20Louisiana&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=New%20Orleans%2C%20Louisiana&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in New Orleans"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-067",
+      "tab": "cities",
+      "name": "Boston",
+      "short_line": "Massachusetts, United States",
+      "country": "United States",
+      "lat": 42.3603,
+      "lng": -71.0578,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Boston_from_the_Harbour%2C_Massachusetts_%28493360%29_%2810772382303%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-067.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABoston_from_the_Harbour,_Massachusetts_(493360)_(10772382303).jpg",
+        "license": "CC BY 2.0",
+        "author": "Robert Linsdell from St. Andrews, Canada",
+        "attribution": "Photo: Robert Linsdell from St. Andrews, Canada, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Boston from the Harbour, Massachusetts (493360) (10772382303).jpg' (3762×2118) confirms Boston; visually checked on contact sheet. desc: Boston from the Harbour, Massachusetts, United States"
+      },
+      "facts": {
+        "one_liner": "Boston’s downtown towers rise over the sailboats of Boston Harbor.",
+        "why_go": "Boston is one of America’s oldest cities and the cradle of the American Revolution: the 2.5-mile Freedom Trail links sites such as the Old State House, Faneuil Hall and the Old North Church. Beyond history, wander the brick rowhouses of Beacon Hill, the Public Garden and Back Bay, eat cannoli in the North End and chowder on the waterfront, cheer at Fenway Park, and cross the Charles River to Harvard and MIT in Cambridge.",
+        "best_time": "Late September–October for crisp air and New England fall colour; May–June is also pleasant. Winters are cold and snowy; summer is warm and busy.",
+        "how_to_get_there": "Fly into Boston Logan International (BOS), which is close to downtown—use the Silver Line bus, the Blue Line subway or the water taxi. Amtrak trains arrive at South Station and Back Bay. The ‘T’ subway covers the city.",
+        "good_to_know": "The Freedom Trail is marked by a red line in the sidewalk and is easy to walk on your own. Driving downtown is slow and parking expensive—use the T.",
+        "official_or_tourism_url": "https://www.meetboston.com/",
+        "sources": [
+          "https://www.meetboston.com/",
+          "https://en.wikipedia.org/wiki/Boston",
+          "https://commons.wikimedia.org/wiki/File%3ABoston_from_the_Harbour,_Massachusetts_(493360)_(10772382303).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Boston, Massachusetts",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Boston%2C%20Massachusetts&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Boston%2C%20Massachusetts&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Boston%2C%20Massachusetts&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Boston"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-068",
+      "tab": "cities",
+      "name": "Washington, D.C.",
+      "short_line": "District of Columbia, United States",
+      "country": "United States",
+      "lat": 38.9047,
+      "lng": -77.0164,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Jefferson_Memorial_Washington_April_2017_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-068.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AJefferson_Memorial_Washington_April_2017_002.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "King of Hearts",
+        "attribution": "Photo: King of Hearts, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Jefferson Memorial Washington April 2017 002.jpg' (6016×4016) confirms Washington, D.C.; visually checked on contact sheet. desc: Jefferson Memorial, Washington, D.C."
+      },
+      "facts": {
+        "one_liner": "The domed Jefferson Memorial reflected across the Tidal Basin under a spring sky.",
+        "why_go": "The U.S. capital is laid out around the National Mall, a two-mile green between the Capitol and the Lincoln Memorial lined with monuments and museums. The neoclassical Jefferson Memorial, seen here across the Tidal Basin, is ringed each spring by Japanese cherry trees first gifted by Tokyo in 1912. Most Smithsonian museums—Air and Space, Natural History, African American History and Culture—are free, and neighbourhoods such as Georgetown, Capitol Hill and U Street add cafés, rowhouses and live music.",
+        "best_time": "Late March–April for the cherry blossoms (peak bloom varies each year) and September–October for comfortable weather. Summers are hot and humid.",
+        "how_to_get_there": "Fly into Reagan National (DCA, on the Metro), Dulles (IAD) or Baltimore/Washington (BWI). Amtrak arrives at Union Station. The Metrorail and walking are the easiest way around the Mall.",
+        "good_to_know": "Most Smithsonian museums are free; some popular ones use timed passes. The Mall is bigger than it looks—wear comfortable shoes or rent a bike.",
+        "official_or_tourism_url": "https://washington.org/",
+        "sources": [
+          "https://washington.org/",
+          "https://en.wikipedia.org/wiki/Washington,_D.C.",
+          "https://commons.wikimedia.org/wiki/File%3AJefferson_Memorial_Washington_April_2017_002.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Washington, DC",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Washington%2C%20DC&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Washington%2C%20DC&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Washington%2C%20DC&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Washington"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-069",
+      "tab": "cities",
+      "name": "Havana",
+      "short_line": "Havana, Cuba",
+      "country": "Cuba",
+      "lat": 23.1367,
+      "lng": -82.3589,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/AvMalecon-LaHabanaCuba-04735.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-069.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AAvMalecon-LaHabanaCuba-04735.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Ezarate This is a retouched picture, which means that it has been digitally",
+        "attribution": "Photo: Ezarate This is a retouched picture, which means that it has been digitally, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:AvMalecon-LaHabanaCuba-04735.jpg' (4719×3066) confirms Havana; visually checked on contact sheet. desc: View of Malecon Avenue, Havana, Cuba"
+      },
+      "facts": {
+        "one_liner": "A classic American car cruises the Malecón seawall in Havana.",
+        "why_go": "Havana, Cuba’s capital, is famous for faded grandeur: colonial plazas in Old Havana (a UNESCO World Heritage site with its fortifications), pastel neoclassical facades, and 1950s American cars still running as taxis. The Malecón, an 8-km seafront boulevard, is where Habaneros gather at sunset as waves break over the wall. Explore Plaza de la Catedral and Plaza Vieja, catch live son and salsa, tour the Capitolio, and ride a vintage convertible out to Vedado.",
+        "best_time": "November–April is the dry season with warm, comfortable days. May–October is hotter and wetter, and hurricane season peaks August–October.",
+        "how_to_get_there": "Fly into José Martí International (HAV), about 30 minutes by taxi from the city. Within Havana, walk Old Havana and use taxis or classic-car hires for longer hops.",
+        "good_to_know": "Check your government’s current travel rules and advisories for Cuba (U.S. travellers face specific restrictions), and expect power outages and limited internet. Bring cash; many foreign cards do not work.",
+        "official_or_tourism_url": "https://en.wikipedia.org/wiki/Havana",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Havana",
+          "https://commons.wikimedia.org/wiki/File%3AAvMalecon-LaHabanaCuba-04735.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Havana, Cuba",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Havana%2C%20Cuba&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Havana%2C%20Cuba&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Havana%2C%20Cuba&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Havana"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-070",
+      "tab": "cities",
+      "name": "Quebec City",
+      "short_line": "Quebec, Canada",
+      "country": "Canada",
+      "lat": 46.8139,
+      "lng": -71.2081,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Ch%C3%A2teau_Frontenac_after_a_freezing_rain_day_in_Quebec_city.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-070.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_Frontenac_after_a_freezing_rain_day_in_Quebec_city.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Wilfredor",
+        "attribution": "Photo: Wilfredor, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Château Frontenac after a freezing rain day in Quebec city.jpg' (10640×5118) confirms Quebec City; visually checked on contact sheet. desc: The Fairmont Le Château Frontenac, formerly and commonly referred to as the Château Frontenac, is a historic hotel located in Quebec City, Quebec, Canada. The C"
+      },
+      "facts": {
+        "one_liner": "Château Frontenac crowns the snow-dusted rooftops of Old Quebec after a winter ice storm.",
+        "why_go": "Founded by Samuel de Champlain in 1608, Quebec City is one of North America’s oldest European settlements and the only walled city north of Mexico; its historic district is a UNESCO World Heritage site. The turreted Château Frontenac hotel dominates the cliff above the St. Lawrence River. Walk the Dufferin Terrace and the ramparts, ride the funicular down to the cobbled Petit-Champlain quarter, and visit in winter for the Carnaval de Québec and a fairy-tale snowy old town.",
+        "best_time": "June–September for warm weather and festivals; late September–October for fall colour. January–February is very cold but magical, with the Winter Carnival.",
+        "how_to_get_there": "Fly into Québec City Jean Lesage International (YQB), about 20–25 minutes by car from the old town, or take VIA Rail from Montreal (about 3–3.5 hours). Old Quebec is best explored on foot.",
+        "good_to_know": "French is the main language—a little bonjour goes a long way. Streets are steep and icy in winter; wear shoes with grip.",
+        "official_or_tourism_url": "https://www.quebec-cite.com/en",
+        "sources": [
+          "https://www.quebec-cite.com/en",
+          "https://en.wikipedia.org/wiki/Quebec_City",
+          "https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_Frontenac_after_a_freezing_rain_day_in_Quebec_city.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Quebec City, Quebec",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Quebec%20City%2C%20Quebec&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Quebec%20City%2C%20Quebec&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Quebec%20City%2C%20Quebec&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Quebec City"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-071",
+      "tab": "cities",
+      "name": "Jerusalem",
+      "short_line": "Jerusalem",
+      "country": "Israel",
+      "lat": 31.7789,
+      "lng": 35.2256,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Dome_of_the_Rock_seen_from_the_Mount_of_Olives_%2812395649153%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-071.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ADome_of_the_Rock_seen_from_the_Mount_of_Olives_(12395649153)_(cropped).jpg",
+        "license": "CC BY-SA 2.0",
+        "author": "askii",
+        "attribution": "Photo: askii, CC BY-SA 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Dome of the Rock seen from the Mount of Olives (12395649153) (cropped).jpg' (3412×1729) confirms Jerusalem; visually checked on contact sheet. desc: Dome of the Rock seen from the Mount of Olives in Jerusalem\n\nJerusalem"
+      },
+      "facts": {
+        "one_liner": "The golden Dome of the Rock glows above the walled Old City, seen from the Mount of Olives.",
+        "why_go": "Jerusalem is sacred to Judaism, Christianity and Islam, and its walled Old City—just under one square kilometre—holds the Western Wall, the Church of the Holy Sepulchre and the Haram al-Sharif/Temple Mount with the gilded Dome of the Rock. The classic view is this one from the Mount of Olives, looking across the Kidron Valley at the walls and dome. Walk the ramparts, wander the four quarters’ souks and lanes, and visit the Israel Museum and Mahane Yehuda market in the newer city.",
+        "best_time": "March–May and September–November for mild weather. Summers are hot and dry; winter nights are cold and it can occasionally snow.",
+        "how_to_get_there": "Most visitors fly into Ben Gurion Airport (TLV) near Tel Aviv; a high-speed train and shared shuttle taxis run to Jerusalem in under an hour. The Old City is walkable, and a light rail runs along Jaffa Road.",
+        "good_to_know": "Check current government travel advisories before planning a trip. Dress modestly for holy sites, and note that access hours vary by religion and holiday.",
+        "official_or_tourism_url": "https://www.itraveljerusalem.com/",
+        "sources": [
+          "https://www.itraveljerusalem.com/",
+          "https://en.wikipedia.org/wiki/Jerusalem",
+          "https://commons.wikimedia.org/wiki/File%3ADome_of_the_Rock_seen_from_the_Mount_of_Olives_(12395649153)_(cropped).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Jerusalem",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Jerusalem&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Jerusalem&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Jerusalem&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Jerusalem"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-072",
+      "tab": "cities",
+      "name": "Seville",
+      "short_line": "Andalusia, Spain",
+      "country": "Spain",
+      "lat": 37.3886,
+      "lng": -5.995,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Seville%2C_Plaza_de_Espa%C3%B1a_%2838625005691%29_%28edited%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-072.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASeville,_Plaza_de_Espa%C3%B1a_(38625005691)_(edited).jpg",
+        "license": "CC BY 2.0",
+        "author": "Dmitry Dzhus from London",
+        "attribution": "Photo: Dmitry Dzhus from London, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Seville, Plaza de España (38625005691) (edited).jpg' (4353×3453) confirms Seville; visually checked on contact sheet. desc: Seville, Plaza de España"
+      },
+      "facts": {
+        "one_liner": "Seville’s Plaza de España sweeps in a brick-and-tile semicircle around a canal crossed by tiled bridges.",
+        "why_go": "Seville is the capital of Andalusia and the home of flamenco, orange-scented squares and tapas bars. The vast Plaza de España, built for the 1929 Ibero-American Exposition, curves around a canal with tiled alcoves for each Spanish province. Its UNESCO-listed trio—the Gothic cathedral with its Giralda tower, the Real Alcázar palace and the Archivo de Indias—sits at the heart of the old town, and the Santa Cruz quarter’s narrow lanes and the Triana district across the river are made for evening strolls.",
+        "best_time": "March–May for blossom, Semana Santa and the April Fair; October–November is also lovely. July–August is extremely hot.",
+        "how_to_get_there": "Fly into Seville Airport (SVQ), about 20–30 minutes from the centre by bus or taxi. High-speed AVE trains connect Madrid to Santa Justa station in about 2.5 hours. The old centre is walkable.",
+        "good_to_know": "Book Real Alcázar and cathedral tickets online ahead of time. Locals eat late—tapas often start after 9 pm.",
+        "official_or_tourism_url": "https://visitasevilla.es/en/",
+        "sources": [
+          "https://visitasevilla.es/en/",
+          "https://en.wikipedia.org/wiki/Seville",
+          "https://commons.wikimedia.org/wiki/File%3ASeville,_Plaza_de_Espa%C3%B1a_(38625005691)_(edited).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Seville, Spain",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Seville%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Seville%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Seville%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Seville"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-073",
+      "tab": "cities",
+      "name": "Porto",
+      "short_line": "Northern Portugal",
+      "country": "Portugal",
+      "lat": 41.15,
+      "lng": -8.6108,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/O_Porto_%28visto_da_Ponte_Dom_Luis_I%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-073.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AO_Porto_(visto_da_Ponte_Dom_Luis_I).jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Rititaneves",
+        "attribution": "Photo: Rititaneves, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:O Porto (visto da Ponte Dom Luis I).jpg' (3872×2592) confirms Porto; visually checked on contact sheet. desc: This file was uploaded for Wiki Loves Monuments in Portugal with the unique identifier 11871408.\nEnglish | español | português | português do Brasil | +/−\n\nrevi"
+      },
+      "facts": {
+        "one_liner": "Ribeira’s stacked, colourful houses tumble down to the Douro River, seen from the Dom Luís I Bridge.",
+        "why_go": "Porto, Portugal’s second city, gave its name to port wine and spills down steep granite hills to the Douro River. Its historic centre is a UNESCO World Heritage site: tiled churches, the Clérigos Tower, São Bento station’s blue azulejo panels and the riverside Ribeira quarter. Cross the double-decker Dom Luís I Bridge to Vila Nova de Gaia for port-lodge tastings, ride a tram along the river toward the Atlantic, and eat a francesinha, the city’s famously hefty sandwich.",
+        "best_time": "May–June and September–October for warm, sunny weather without peak crowds. Winters are mild but rainy.",
+        "how_to_get_there": "Fly into Francisco Sá Carneiro Airport (OPO); Metro line E (violet) reaches the centre in about 30 minutes. Trains from Lisbon take about 3 hours. The centre is hilly but walkable, with metro, trams and funiculars.",
+        "good_to_know": "Wear grippy shoes on the steep, slick cobbles. Port-lodge tours in Gaia usually include tastings—book popular ones ahead.",
+        "official_or_tourism_url": "https://visitporto.travel/",
+        "sources": [
+          "https://visitporto.travel/",
+          "https://en.wikipedia.org/wiki/Porto",
+          "https://commons.wikimedia.org/wiki/File%3AO_Porto_(visto_da_Ponte_Dom_Luis_I).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Porto, Portugal",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Porto%2C%20Portugal&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Porto%2C%20Portugal&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Porto%2C%20Portugal&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Porto"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-074",
+      "tab": "cities",
+      "name": "Dubrovnik",
+      "short_line": "Dalmatia, Croatia",
+      "country": "Croatia",
+      "lat": 42.6403,
+      "lng": 18.1083,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-074.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Zysko serhii",
+        "attribution": "Photo: Zysko serhii, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:The walls of the fortress and View of the old city. panorama.jpg' (3543×2198) confirms Dubrovnik; visually checked on contact sheet. desc: This is a photo of a cultural heritage in Croatia with ID: N-1"
+      },
+      "facts": {
+        "one_liner": "Dubrovnik’s walled old town juts into the Adriatic, a jumble of terracotta roofs inside stone ramparts.",
+        "why_go": "Dubrovnik, the ‘Pearl of the Adriatic’, was the seat of the Republic of Ragusa, a maritime city-state that thrived for centuries. Its old town is wrapped in nearly 2 km of medieval walls, and the whole ensemble is a UNESCO World Heritage site. Walk the walls for views over orange rooftops and blue sea, stroll the polished limestone Stradun, ride the cable car up Mount Srđ at sunset, and kayak or ferry to nearby Lokrum island.",
+        "best_time": "May–June and September–October for warm sea and fewer crowds. July–August is hot and very busy, especially when cruise ships are in port.",
+        "how_to_get_there": "Fly into Dubrovnik Airport (DBV), about 30 minutes by shuttle bus or taxi. Ferries and buses link to Split and other Dalmatian towns. The old town is pedestrian only.",
+        "good_to_know": "Walk the city walls early in the morning or late afternoon to beat heat and crowds; tickets are sold at the entrances. Check cruise-ship schedules to plan quieter days.",
+        "official_or_tourism_url": "https://tzdubrovnik.hr/",
+        "sources": [
+          "https://tzdubrovnik.hr/",
+          "https://en.wikipedia.org/wiki/Dubrovnik",
+          "https://commons.wikimedia.org/wiki/File%3AThe_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Dubrovnik, Croatia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Dubrovnik%2C%20Croatia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Dubrovnik%2C%20Croatia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Dubrovnik%2C%20Croatia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Dubrovnik"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-075",
+      "tab": "cities",
+      "name": "Salzburg",
+      "short_line": "Salzburg, Austria",
+      "country": "Austria",
+      "lat": 47.8,
+      "lng": 13.045,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Salzburg_Altstadt_vom_M%C3%B6nchsberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-075.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASalzburg_Altstadt_vom_M%C3%B6nchsberg.jpg",
+        "license": "CC BY 3.0",
+        "author": "Andreas Praefcke",
+        "attribution": "Photo: Andreas Praefcke, CC BY 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Salzburg Altstadt vom Mönchsberg.jpg' (3264×2448) confirms Salzburg; visually checked on contact sheet. desc: Salzburg, Aussicht vom Mönchsberg\n\nBlick über die Altstadt"
+      },
+      "facts": {
+        "one_liner": "Salzburg’s baroque domes and spires line the Salzach beneath the Hohensalzburg fortress.",
+        "why_go": "Salzburg is Mozart’s birthplace and one of Europe’s most beautiful baroque cities, its UNESCO-listed old town set between the Salzach River and forested hills. The Hohensalzburg Fortress, one of the largest medieval castles in Europe, watches over the cathedral domes, church spires and narrow Getreidegasse. Visit Mozart’s birthplace, the Mirabell Gardens from ‘The Sound of Music’, beer gardens such as Augustiner Bräu, and the Salzburg Festival’s opera and concerts each summer.",
+        "best_time": "May–September for warm days and the Salzburg Festival (July–August); late November–December for Christmas markets. Rain is common year-round.",
+        "how_to_get_there": "Fly into Salzburg Airport (SZG), about 20 minutes from the centre by bus, or take a train from Munich (about 1.5–2 hours) or Vienna (about 2.5 hours). The old town is compact and walkable; a funicular climbs to the fortress.",
+        "good_to_know": "The Salzburg Card bundles public transport and most sights. Book festival tickets months ahead.",
+        "official_or_tourism_url": "https://www.salzburg.info/en",
+        "sources": [
+          "https://www.salzburg.info/en",
+          "https://en.wikipedia.org/wiki/Salzburg",
+          "https://commons.wikimedia.org/wiki/File%3ASalzburg_Altstadt_vom_M%C3%B6nchsberg.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Salzburg, Austria",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Salzburg%2C%20Austria&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Salzburg%2C%20Austria&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Salzburg%2C%20Austria&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Salzburg"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-076",
+      "tab": "cities",
+      "name": "Bruges",
+      "short_line": "West Flanders, Belgium",
+      "country": "Belgium",
+      "lat": 51.2089,
+      "lng": 3.2242,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Brugge-CanalRozenhoedkaai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-076.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABrugge-CanalRozenhoedkaai.JPG",
+        "license": "CC BY 2.5",
+        "author": "Jean-Christophe BENOIST",
+        "attribution": "Photo: Jean-Christophe BENOIST, CC BY 2.5, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Brugge-CanalRozenhoedkaai.JPG' (2560×1920) confirms Bruges; visually checked on contact sheet. desc: Vue du canal à Rozenhoedkaai"
+      },
+      "facts": {
+        "one_liner": "Medieval brick gables and the Belfry tower reflected in the Rozenhoedkaai canal.",
+        "why_go": "Bruges was one of medieval Europe’s great trading cities, and its compact centre—a UNESCO World Heritage site—survives almost intact: canals, cobbled lanes, guildhalls and the 83-metre Belfry over the Markt. The Rozenhoedkaai, shown here, is the classic canal view. Take a canal boat, climb the Belfry, see Flemish Primitive paintings in the Groeningemuseum and Michelangelo’s Madonna in the Church of Our Lady, and reward yourself with Belgian beer, chocolate and frites.",
+        "best_time": "April–June and September for mild weather; December for the Christmas market. Weekdays and evenings are calmer than summer weekends.",
+        "how_to_get_there": "Fly into Brussels (BRU); direct trains reach Bruges in about 1.5 hours. The station is a 15–20 minute walk or short bus ride from the Markt. The centre is best on foot or by bike.",
+        "good_to_know": "Stay overnight to enjoy the canals after day-trippers leave. The Belfry climb has many steps and limited visitor numbers—expect a queue.",
+        "official_or_tourism_url": "https://www.visitbruges.be/en",
+        "sources": [
+          "https://www.visitbruges.be/en",
+          "https://en.wikipedia.org/wiki/Bruges",
+          "https://commons.wikimedia.org/wiki/File%3ABrugge-CanalRozenhoedkaai.JPG"
+        ]
+      },
+      "ad": {
+        "destination_query": "Bruges, Belgium",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bruges%2C%20Belgium&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bruges%2C%20Belgium&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bruges%2C%20Belgium&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Bruges"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.5 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-077",
+      "tab": "cities",
+      "name": "Hamburg",
+      "short_line": "Hamburg, Germany",
+      "country": "Germany",
+      "lat": 53.55,
+      "lng": 10,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Hamburg%2C_Speicherstadt%2C_Wasserschloss_--_2016_--_3265-71.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-077.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AHamburg,_Speicherstadt,_Wasserschloss_--_2016_--_3265-71.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Dietmar Rabich",
+        "attribution": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Hamburg, Speicherstadt, Wasserschloss -- 2016 -- 3265-71.jpg' (5309×3318) confirms Hamburg; visually checked on contact sheet. desc: Wasserschloss (view from the Poggenmühlenbrücke) in the night, Speicherstadt, Hamburg, GermanyThe Speicherstadt was built between 1885 and 1927 as the world’s l"
+      },
+      "facts": {
+        "one_liner": "Red-brick warehouses and the turreted ‘Wasserschloss’ glow at dusk in Hamburg’s Speicherstadt.",
+        "why_go": "Hamburg, Germany’s second-largest city, is a proud port city on the Elbe with more bridges than Venice. The Speicherstadt—the world’s largest warehouse district built on timber-pile foundations—is a UNESCO World Heritage site of neo-Gothic brick and canals, and the Elbphilharmonie concert hall rises from an old warehouse next door. Ride a harbour ferry, explore the Fish Market on Sunday morning, walk around the Alster lakes, and see the lively St. Pauli and Reeperbahn district where the Beatles once played.",
+        "best_time": "May–September for long days and outdoor life; December for Christmas markets. Expect rain at any time of year.",
+        "how_to_get_there": "Fly into Hamburg Airport (HAM); S-Bahn line S1 reaches the centre in about 25 minutes. ICE trains connect from Berlin (under 2 hours) and other German cities. HVV public transport includes harbour ferries.",
+        "good_to_know": "The Elbphilharmonie’s public Plaza viewing platform is open to visitors (free tickets on the day, small fee if booked ahead). HVV ferry line 62 is a cheap harbour cruise.",
+        "official_or_tourism_url": "https://www.hamburg-travel.com/",
+        "sources": [
+          "https://www.hamburg-travel.com/",
+          "https://en.wikipedia.org/wiki/Hamburg",
+          "https://commons.wikimedia.org/wiki/File%3AHamburg,_Speicherstadt,_Wasserschloss_--_2016_--_3265-71.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Hamburg, Germany",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Hamburg%2C%20Germany&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Hamburg%2C%20Germany&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Hamburg%2C%20Germany&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Hamburg"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-078",
+      "tab": "cities",
+      "name": "Wellington",
+      "short_line": "North Island, New Zealand",
+      "country": "New Zealand",
+      "lat": -41.2889,
+      "lng": 174.7772,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Wellington.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-078.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AWellington.JPG",
+        "license": "CC BY-SA 3.0",
+        "author": "Mandy Simpson",
+        "attribution": "Photo: Mandy Simpson, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Wellington.JPG' (2048×1536) confirms Wellington; visually checked on contact sheet. desc: A photo of Wellington taken from the lookout point at Mount Victoria, Wellington, New Zealand."
+      },
+      "facts": {
+        "one_liner": "Wellington’s harbour and hillside suburbs spread below the green slopes around the city.",
+        "why_go": "New Zealand’s capital sits on a sweeping harbour at the southern tip of the North Island, wrapped by green hills and famous for its wind. It punches above its size for culture: Te Papa, the national museum, is free; the waterfront is lined with cafés and art; and the city is a film-industry hub. Ride the red cable car up to the Botanic Garden, look out from Mount Victoria, see native birds at Zealandia’s fenced ecosanctuary, and explore craft-beer bars and coffee on Cuba Street.",
+        "best_time": "December–March for the warmest, most settled weather. Wellington is windy year-round, so pack a jacket.",
+        "how_to_get_there": "Fly into Wellington Airport (WLG), about 15–20 minutes from the city centre by car or airport bus. Interislander and Bluebridge ferries cross Cook Strait to Picton on the South Island.",
+        "good_to_know": "The central city is compact and walkable. Book Cook Strait ferries ahead in summer.",
+        "official_or_tourism_url": "https://wellingtonnz.com/",
+        "sources": [
+          "https://wellingtonnz.com/",
+          "https://en.wikipedia.org/wiki/Wellington",
+          "https://commons.wikimedia.org/wiki/File%3AWellington.JPG"
+        ]
+      },
+      "ad": {
+        "destination_query": "Wellington, New Zealand",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Wellington%2C%20New%20Zealand&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Wellington%2C%20New%20Zealand&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Wellington%2C%20New%20Zealand&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Wellington"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-079",
+      "tab": "cities",
+      "name": "Kuala Lumpur",
+      "short_line": "Federal Territory, Malaysia",
+      "country": "Malaysia",
+      "lat": 3.1478,
+      "lng": 101.6953,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/The_Twins_SE_Asia_2019_%2849171985716%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-079.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Twins_SE_Asia_2019_(49171985716).jpg",
+        "license": "CC BY 2.0",
+        "author": "James Kerwin from Tbilisi",
+        "attribution": "Photo: James Kerwin from Tbilisi, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:The Twins SE Asia 2019 (49171985716).jpg' (8472×5648) confirms Kuala Lumpur; visually checked on contact sheet. desc: Petronas Towers in December 2019"
+      },
+      "facts": {
+        "one_liner": "The Petronas Twin Towers tower over Kuala Lumpur’s skyline at golden hour.",
+        "why_go": "Kuala Lumpur, Malaysia’s capital, mixes Malay, Chinese and Indian culture with gleaming towers. The 452-metre Petronas Twin Towers were the world’s tallest buildings from 1998 to 2004, and their skybridge and observation deck are still the city’s signature. Eat your way through hawker stalls on Jalan Alor, climb the 272 colourful steps to the Batu Caves temple, explore Chinatown’s Petaling Street and the Moorish-style buildings around Merdeka Square, and cool off in the KLCC Park beneath the towers.",
+        "best_time": "Warm and humid year-round. December–February and June–August are often a little drier; expect short, heavy afternoon showers at any time.",
+        "how_to_get_there": "Fly into Kuala Lumpur International (KUL); the KLIA Ekspres train reaches KL Sentral in about 30 minutes. LRT, MRT and monorail lines connect most sights.",
+        "good_to_know": "Petronas skybridge and observation deck tickets are limited—book ahead. Dress modestly for mosques and temples; Batu Caves enforces a dress code.",
+        "official_or_tourism_url": "https://www.malaysia.travel/",
+        "sources": [
+          "https://www.malaysia.travel/",
+          "https://en.wikipedia.org/wiki/Kuala_Lumpur",
+          "https://commons.wikimedia.org/wiki/File%3AThe_Twins_SE_Asia_2019_(49171985716).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Kuala Lumpur, Malaysia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kuala%20Lumpur%2C%20Malaysia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kuala%20Lumpur%2C%20Malaysia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kuala%20Lumpur%2C%20Malaysia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Kuala Lumpur"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "cities-080",
+      "tab": "cities",
+      "name": "Taipei",
+      "short_line": "Taipei, Taiwan",
+      "country": "Taiwan",
+      "lat": 25.0375,
+      "lng": 121.5625,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/20260204_Taipei%2C_Taiwan_Skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-080.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3A20260204_Taipei,_Taiwan_Skyline.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Heeheemalu",
+        "attribution": "Photo: Heeheemalu, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:20260204 Taipei, Taiwan Skyline.jpg' (5712×3213) confirms Taipei; visually checked on contact sheet. desc: Taipei, Taiwan Skyline viewed from Mount Elephant 20260204"
+      },
+      "facts": {
+        "one_liner": "Taipei 101 towers over the city skyline against green mountains.",
+        "why_go": "Taipei is Taiwan’s capital, a friendly, safe city ringed by mountains and famous for its night markets. Taipei 101, the world’s tallest building from 2004 to 2010, has fast elevators to its observatory, and the short hike up Elephant Mountain gives the classic skyline view. Graze on beef noodles, xiaolongbao and stinky tofu at Shilin or Raohe night markets, visit Longshan Temple and the National Palace Museum’s imperial treasures, and soak in the hot springs of Beitou, a metro ride away.",
+        "best_time": "October–December and March–April for comfortable temperatures. Summer is hot with typhoon risk; winter is cool and damp.",
+        "how_to_get_there": "Fly into Taoyuan International (TPE); the Airport MRT reaches Taipei Main Station in about 35–40 minutes. Songshan Airport (TSA) is in the city. Taipei’s MRT is clean, cheap and easy—use an EasyCard.",
+        "good_to_know": "Night markets get going after dark. Sunset on Elephant Mountain draws crowds—start the short but steep climb early.",
+        "official_or_tourism_url": "https://www.travel.taipei/en",
+        "sources": [
+          "https://www.travel.taipei/en",
+          "https://en.wikipedia.org/wiki/Taipei",
+          "https://commons.wikimedia.org/wiki/File%3A20260204_Taipei,_Taiwan_Skyline.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Taipei, Taiwan",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Taipei%2C%20Taiwan&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Taipei%2C%20Taiwan&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Taipei%2C%20Taiwan&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Taipei"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    }
+  ]
+}

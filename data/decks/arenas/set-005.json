@@ -1,0 +1,1067 @@
+{
+  "id": "arenas-set-005",
+  "tab": "arenas",
+  "label": "Arenas — Set 5 (071–090)",
+  "card_ids": [
+    "arenas-071",
+    "arenas-072",
+    "arenas-073",
+    "arenas-074",
+    "arenas-075",
+    "arenas-076",
+    "arenas-077",
+    "arenas-078",
+    "arenas-079",
+    "arenas-080",
+    "arenas-081",
+    "arenas-082",
+    "arenas-083",
+    "arenas-084",
+    "arenas-085",
+    "arenas-086",
+    "arenas-087",
+    "arenas-088",
+    "arenas-089",
+    "arenas-090"
+  ],
+  "count": 20,
+  "auditor": "approved — content-to-100 batch: licensed Commons photos visually checked; facts sourced",
+  "created": "2026-10-09T01:22:08-05:00",
+  "cards": [
+    {
+      "id": "arenas-071",
+      "tab": "arenas",
+      "name": "Mestalla",
+      "short_line": "Valencia, Spain",
+      "country": "Spain",
+      "lat": 39.4747,
+      "lng": -0.3583,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/CAMP_DE_MESTALLA_GRADA_DE_LA_MAR_2014.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-071.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACAMP_DE_MESTALLA_GRADA_DE_LA_MAR_2014.JPG",
+        "license": "CC BY-SA 4.0",
+        "author": "Valencia CF",
+        "attribution": "Photo: Valencia CF, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:CAMP DE MESTALLA GRADA DE LA MAR 2014.JPG' (5184×3456) confirms Mestalla; visually checked on contact sheet. desc: Un Murciélago de 90 metros y el color naranja, se convierte en protagonista del estadio desde 2013."
+      },
+      "facts": {
+        "one_liner": "Valencia CF’s steep, historic stadium, with stands rising almost vertically above the pitch.",
+        "why_go": "Opened in 1923, Mestalla is the oldest stadium in Spain’s top flight and the home of Valencia CF. Its steep stands—especially the towering upper tier—put fans right on top of the action, producing one of Spain’s most intense atmospheres.",
+        "best_time": "August–May for La Liga; tours year-round.",
+        "how_to_get_there": "Aragón and Facultats metro stations are a few minutes’ walk.",
+        "good_to_know": "Valencia has long planned a new stadium; check the club’s tour pages for current access.",
+        "official_or_tourism_url": "https://www.valenciacf.com/es/club/facilities/mestalla",
+        "sources": [
+          "https://www.valenciacf.com/es/club/facilities/mestalla",
+          "https://en.wikipedia.org/wiki/Mestalla_Stadium",
+          "https://commons.wikimedia.org/wiki/File%3ACAMP_DE_MESTALLA_GRADA_DE_LA_MAR_2014.JPG"
+        ]
+      },
+      "ad": {
+        "destination_query": "Valencia, Spain",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Valencia%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Valencia%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Valencia%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Valencia"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-072",
+      "tab": "arenas",
+      "name": "Riyadh Air Metropolitano",
+      "short_line": "Madrid, Spain",
+      "country": "Spain",
+      "lat": 40.4361,
+      "lng": -3.5994,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Madrid_-_Estadio_Wanda_Metropolitano_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-072.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMadrid_-_Estadio_Wanda_Metropolitano_07.jpg",
+        "license": "CC0",
+        "author": "Zarateman",
+        "attribution": "Photo: Zarateman, CC0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Madrid - Estadio Wanda Metropolitano 07.jpg' (2045×1500) confirms Riyadh Air Metropolitano; visually checked on contact sheet. desc: Estadio Wanda Metropolitano (Madrid)"
+      },
+      "facts": {
+        "one_liner": "Atlético de Madrid’s sweeping modern stadium with a wave-like roof.",
+        "why_go": "Atlético de Madrid moved to the Metropolitano in 2017, a rebuilt athletics stadium given a dramatic, undulating roof that floats over the stands. It hosted the 2019 UEFA Champions League final and has since become one of Europe’s loudest grounds. Stadium tours include the club museum.",
+        "best_time": "August–May for the football season; tours year-round.",
+        "how_to_get_there": "Estadio Metropolitano station (Metro line 7) is right outside.",
+        "good_to_know": "Derbies against Real Madrid are among Spain’s fiercest matches.",
+        "official_or_tourism_url": "https://www.atleticodemadrid.com/civitasmetropolitano",
+        "sources": [
+          "https://www.atleticodemadrid.com/civitasmetropolitano",
+          "https://en.wikipedia.org/wiki/Metropolitano_Stadium",
+          "https://commons.wikimedia.org/wiki/File%3AMadrid_-_Estadio_Wanda_Metropolitano_07.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Madrid, Spain",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Madrid%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Madrid%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Madrid%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Madrid"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-073",
+      "tab": "arenas",
+      "name": "Veltins-Arena",
+      "short_line": "Gelsenkirchen, Germany",
+      "country": "Germany",
+      "lat": 51.5544,
+      "lng": 7.0675,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Veltins-arena-2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-073.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AVeltins-arena-2016.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Walter Koch",
+        "attribution": "Photo: Walter Koch, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Veltins-arena-2016.jpg' (4288×2848) confirms Veltins-Arena; visually checked on contact sheet. desc: Veltinsarena, Gelsenkirchen"
+      },
+      "facts": {
+        "one_liner": "Schalke’s high-tech arena with a retractable roof and a pitch that slides outdoors.",
+        "why_go": "Opened in 2001, the Veltins-Arena is home to Schalke 04 in Germany’s Ruhr. Its retractable roof and the slide-out pitch, which rolls outside to grow in sunlight, were pioneering. It hosted the 2004 Champions League final, World Cup 2006 and Euro 2024 matches, and even the biathlon World Team Challenge on snow.",
+        "best_time": "August–May for football; December for the biathlon spectacle.",
+        "how_to_get_there": "Tram 302 runs from Gelsenkirchen Hauptbahnhof to the arena.",
+        "good_to_know": "Schalke’s fans are among Germany’s most passionate. Tours run on non-event days.",
+        "official_or_tourism_url": "https://veltins-arena.de/",
+        "sources": [
+          "https://veltins-arena.de/",
+          "https://en.wikipedia.org/wiki/Arena_AufSchalke",
+          "https://commons.wikimedia.org/wiki/File%3AVeltins-arena-2016.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Gelsenkirchen, Germany",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Gelsenkirchen%2C%20Germany&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Gelsenkirchen%2C%20Germany&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Gelsenkirchen%2C%20Germany&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Gelsenkirchen"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-074",
+      "tab": "arenas",
+      "name": "Allianz Stadium Turin",
+      "short_line": "Turin, Italy",
+      "country": "Italy",
+      "lat": 45.1094,
+      "lng": 7.6411,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Juventus_v_Real_Madrid%2C_Champions_League%2C_Stadium%2C_Turin%2C_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-074.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AJuventus_v_Real_Madrid,_Champions_League,_Stadium,_Turin,_2013.jpg",
+        "license": "CC BY 2.0",
+        "author": "forzaq8 from kuwait, kuwait",
+        "attribution": "Photo: forzaq8 from kuwait, kuwait, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Juventus v Real Madrid, Champions League, Stadium, Turin, 2013.jpg' (4608×2592) confirms Allianz Stadium Turin; visually checked on contact sheet. desc: View of the Juventus Stadium in Turin, Italy, before Juventus FC vs Real Madrid CF game, 2013-14 UEFA Champions League group stage, 5th of November 2013."
+      },
+      "facts": {
+        "one_liner": "Juventus’s steep, compact home, built so fans sit close to the pitch.",
+        "why_go": "Opened in 2011, Juventus’s stadium was one of the first in Italy owned by its club and designed purely for football, with steep stands close to the pitch. The J-Museum inside tells the story of Italy’s most successful club, and tours visit the dressing rooms and tunnel.",
+        "best_time": "August–May for Serie A; tours year-round.",
+        "how_to_get_there": "Bus lines and match-day shuttles run from central Turin, about 25 minutes away.",
+        "good_to_know": "Book the stadium tour and J-Museum together.",
+        "official_or_tourism_url": "https://www.juventus.com/it/allianz-stadium/",
+        "sources": [
+          "https://www.juventus.com/it/allianz-stadium/",
+          "https://en.wikipedia.org/wiki/Juventus_Stadium",
+          "https://commons.wikimedia.org/wiki/File%3AJuventus_v_Real_Madrid,_Champions_League,_Stadium,_Turin,_2013.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Turin, Italy",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Turin%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Turin%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Turin%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Turin"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-075",
+      "tab": "arenas",
+      "name": "Stadio Diego Armando Maradona",
+      "short_line": "Naples, Italy",
+      "country": "Italy",
+      "lat": 40.828,
+      "lng": 14.193,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Stadio_Maradona_Serie_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-075.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AStadio_Maradona_Serie_A.jpg",
+        "license": "CC BY 4.0",
+        "author": "Gaetano Capaldo",
+        "attribution": "Photo: Gaetano Capaldo, CC BY 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Stadio Maradona Serie A.jpg' (3561×1730) confirms Stadio Diego Armando Maradona; visually checked on contact sheet. desc: The \"San Paolo\" Stadium in Naples (Italy) during the half-time break of S.S.C. Napoli v U.C. Sampdoria (2-0) game, Matchday 3 of Italian Championship 2019–20 Se"
+      },
+      "facts": {
+        "one_liner": "Napoli’s home, renamed for the club’s greatest legend.",
+        "why_go": "Opened in 1959 in Fuorigrotta, Napoli’s stadium was renamed for Diego Maradona after his death in 2020, honouring the player who led the club to its first Serie A titles. Match days are among the noisiest in Europe, and murals of Maradona across Naples—especially in the Quartieri Spagnoli—make a pilgrimage of their own.",
+        "best_time": "August–May for Serie A.",
+        "how_to_get_there": "Campi Flegrei station (Cumana line and Metro line 2) is nearby.",
+        "good_to_know": "Visit the Maradona mural in Quartieri Spagnoli on the same day.",
+        "official_or_tourism_url": "https://sscnapoli.it/storia-dello-stadio/",
+        "sources": [
+          "https://sscnapoli.it/storia-dello-stadio/",
+          "https://en.wikipedia.org/wiki/Stadio_Diego_Armando_Maradona",
+          "https://commons.wikimedia.org/wiki/File%3AStadio_Maradona_Serie_A.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Naples, Italy",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Naples%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Naples%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Naples%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Naples"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-076",
+      "tab": "arenas",
+      "name": "Estádio do Dragão",
+      "short_line": "Porto, Portugal",
+      "country": "Portugal",
+      "lat": 41.1618,
+      "lng": -8.5839,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Porto_Est%C3%A1dio_do_Drag%C3%A3o_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-076.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APorto_Est%C3%A1dio_do_Drag%C3%A3o_1.jpg",
+        "license": "CC BY 3.0",
+        "author": "Валерий Дед",
+        "attribution": "Photo: Валерий Дед, CC BY 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Porto Estádio do Dragão 1.jpg' (1300×866) confirms Estádio do Dragão; visually checked on contact sheet. desc: Estádio do Dragão in Porto, Portugal"
+      },
+      "facts": {
+        "one_liner": "FC Porto’s Dragon Stadium, wrapped by a luminous, sweeping roof.",
+        "why_go": "Opened in 2003, the Estádio do Dragão is home to FC Porto and hosted the opening match of Euro 2004. Its light-filled roof and close stands make it one of Portugal’s finest stadiums, and the FC Porto Museum next door covers the club’s European triumphs.",
+        "best_time": "August–May for football; museum and tours year-round.",
+        "how_to_get_there": "Estádio do Dragão metro station is beside the ground, about 15 minutes from central Porto.",
+        "good_to_know": "Combine a tour with the museum.",
+        "official_or_tourism_url": "https://www.fcporto.pt/en/club/estadio-do-dragao/",
+        "sources": [
+          "https://www.fcporto.pt/en/club/estadio-do-dragao/",
+          "https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Drag%C3%A3o",
+          "https://commons.wikimedia.org/wiki/File%3APorto_Est%C3%A1dio_do_Drag%C3%A3o_1.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Porto, Portugal",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Porto%2C%20Portugal&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Porto%2C%20Portugal&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Porto%2C%20Portugal&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Porto"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-077",
+      "tab": "arenas",
+      "name": "De Kuip",
+      "short_line": "Rotterdam, Netherlands",
+      "country": "Netherlands",
+      "lat": 51.8939,
+      "lng": 4.5231,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Feyenoord_Rotterdam%27s_De_Kuip_stadium_in_2022_before_a_match_against_FC_Emmen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-077.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AFeyenoord_Rotterdam's_De_Kuip_stadium_in_2022_before_a_match_against_FC_Emmen.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Vincenzo.togni",
+        "attribution": "Photo: Vincenzo.togni, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Feyenoord Rotterdam's De Kuip stadium in 2022 before a match against FC Emmen.jpg' (2048×1536) confirms De Kuip; visually checked on contact sheet. desc: Feyenoord Rotterdam's De Kuip stadium in 2022 before a match against FC Emmen"
+      },
+      "facts": {
+        "one_liner": "Feyenoord’s 1937 stadium, ‘The Tub’, with tiered stands hanging over the pitch.",
+        "why_go": "Opened in 1937, De Kuip (‘The Tub’) is the home of Feyenoord. Its innovative steel-and-glass structure lets the upper tier hang over the lower, giving superb sightlines and a famous wall of sound. It has hosted many European finals.",
+        "best_time": "August–May for Eredivisie; tours year-round.",
+        "how_to_get_there": "Stadion Feijenoord station has direct trains on match days; tram 23 runs from central Rotterdam.",
+        "good_to_know": "Feyenoord’s anthem ‘Hand in Hand’ is a goosebump moment.",
+        "official_or_tourism_url": "https://www.dekuip.nl/",
+        "sources": [
+          "https://www.dekuip.nl/",
+          "https://en.wikipedia.org/wiki/De_Kuip",
+          "https://commons.wikimedia.org/wiki/File%3AFeyenoord_Rotterdam's_De_Kuip_stadium_in_2022_before_a_match_against_FC_Emmen.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Rotterdam, Netherlands",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rotterdam%2C%20Netherlands&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rotterdam%2C%20Netherlands&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rotterdam%2C%20Netherlands&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Rotterdam"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-078",
+      "tab": "arenas",
+      "name": "Panathenaic Stadium",
+      "short_line": "Athens, Greece",
+      "country": "Greece",
+      "lat": 37.9683,
+      "lng": 23.7411,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Panathenaic_Stadium%2C_Athens%2C_20240601_1007_0050.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-078.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APanathenaic_Stadium,_Athens,_20240601_1007_0050.jpg",
+        "license": "CC BY 4.0",
+        "author": "Jakub Hałun",
+        "attribution": "Photo: Jakub Hałun, CC BY 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Panathenaic Stadium, Athens, 20240601 1007 0050.jpg' (5396×3602) confirms Panathenaic Stadium; visually checked on contact sheet. desc: Panathenaic Stadium, Athens"
+      },
+      "facts": {
+        "one_liner": "The only stadium in the world built entirely of marble, birthplace of the modern Olympics.",
+        "why_go": "On the site of an ancient stadium from the 4th century BC, the Panathenaic Stadium was rebuilt in white Pentelic marble and hosted the first modern Olympic Games in 1896. It is the only stadium in the world built entirely of marble, and today you can walk the track, climb the seats and visit a small museum of Olympic torches and posters.",
+        "best_time": "Mornings year-round, or spring and autumn to avoid summer heat.",
+        "how_to_get_there": "On Vasileos Konstantinou Avenue, about 15 minutes’ walk from Syntagma Square.",
+        "good_to_know": "The Olympic flame handover ceremony takes place here for each Games.",
+        "official_or_tourism_url": "https://www.panathenaicstadium.gr/",
+        "sources": [
+          "https://www.panathenaicstadium.gr/",
+          "https://en.wikipedia.org/wiki/Panathenaic_Stadium",
+          "https://commons.wikimedia.org/wiki/File%3APanathenaic_Stadium,_Athens,_20240601_1007_0050.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Athens, Greece",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Athens%2C%20Greece&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Athens%2C%20Greece&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Athens%2C%20Greece&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Athens"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-079",
+      "tab": "arenas",
+      "name": "Ryōgoku Kokugikan",
+      "short_line": "Tokyo, Japan",
+      "country": "Japan",
+      "lat": 35.6969,
+      "lng": 139.7933,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ryogoku_Kokugikan_-_9637042416.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-079.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ARyogoku_Kokugikan_-_9637042416.jpg",
+        "license": "CC BY 2.0",
+        "author": "Guilhem Vellut",
+        "attribution": "Photo: Guilhem Vellut, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Ryogoku Kokugikan - 9637042416.jpg' (3648×2736) confirms Ryōgoku Kokugikan; visually checked on contact sheet. desc: Ryogoku Kokugikan"
+      },
+      "facts": {
+        "one_liner": "Tokyo’s sumo hall, where three of the six annual grand tournaments are fought.",
+        "why_go": "Ryōgoku Kokugikan, opened in 1985, hosts the January, May and September grand sumo tournaments. Its green, pagoda-style roof and the hanging roof over the ring echo a Shinto shrine. The neighbourhood of Ryōgoku is full of sumo stables and chanko-nabe restaurants.",
+        "best_time": "January, May and September for tournaments; the sumo museum opens on weekdays outside tournaments.",
+        "how_to_get_there": "Ryōgoku station (JR Sōbu line and Toei Ōedo line) is beside the hall.",
+        "good_to_know": "Same-day tickets sell out early; arrive in the morning to watch the lower divisions.",
+        "official_or_tourism_url": "https://www.sumo.or.jp/En/",
+        "sources": [
+          "https://www.sumo.or.jp/En/",
+          "https://en.wikipedia.org/wiki/Ry%C5%8Dgoku_Kokugikan",
+          "https://commons.wikimedia.org/wiki/File%3ARyogoku_Kokugikan_-_9637042416.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Ryogoku, Tokyo, Japan",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ryogoku%2C%20Tokyo%2C%20Japan&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ryogoku%2C%20Tokyo%2C%20Japan&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ryogoku%2C%20Tokyo%2C%20Japan&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Ryogoku"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-080",
+      "tab": "arenas",
+      "name": "Hanshin Koshien Stadium",
+      "short_line": "Nishinomiya, Japan",
+      "country": "Japan",
+      "lat": 34.7214,
+      "lng": 135.3617,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Around_the_Koshien_Stadium_20250901d.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-080.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AAround_the_Koshien_Stadium_20250901d.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "掬茶",
+        "attribution": "Photo: 掬茶, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Around the Koshien Stadium 20250901d.jpg' (4240×2832) confirms Hanshin Koshien Stadium; visually checked on contact sheet. desc: 阪神甲子園球場"
+      },
+      "facts": {
+        "one_liner": "Japan’s ivy-clad 1924 ballpark, sacred ground for high-school baseball.",
+        "why_go": "Opened in 1924, Koshien is home to the Hanshin Tigers and hosts Japan’s national high school baseball championships each spring and summer, a national obsession. Its ivy-covered outer walls and black soil infield—which players scoop into bags as keepsakes—give it a unique character.",
+        "best_time": "March–April and August for the high school tournaments; April–September for Tigers games.",
+        "how_to_get_there": "Koshien station on the Hanshin Main Line, between Osaka and Kobe (about 15 minutes from Umeda).",
+        "good_to_know": "Visit the Koshien History Museum beside the stadium.",
+        "official_or_tourism_url": "https://www.hanshin.co.jp/koshien/",
+        "sources": [
+          "https://www.hanshin.co.jp/koshien/",
+          "https://en.wikipedia.org/wiki/Koshien_Stadium",
+          "https://commons.wikimedia.org/wiki/File%3AAround_the_Koshien_Stadium_20250901d.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Nishinomiya, Japan",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Nishinomiya%2C%20Japan&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Nishinomiya%2C%20Japan&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Nishinomiya%2C%20Japan&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Nishinomiya"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-081",
+      "tab": "arenas",
+      "name": "Tokyo Dome",
+      "short_line": "Tokyo, Japan",
+      "country": "Japan",
+      "lat": 35.7056,
+      "lng": 139.7519,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Tokyo_Dome_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-081.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ATokyo_Dome_2015.jpg",
+        "license": "CC BY-SA 2.0",
+        "author": "IQRemix",
+        "attribution": "Photo: IQRemix, CC BY-SA 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Tokyo Dome 2015.jpg' (3710×2167) confirms Tokyo Dome; visually checked on contact sheet. desc: Tokyo Dome, Yomiuri Giants baseball in Bunkyo, 2015."
+      },
+      "facts": {
+        "one_liner": "The ‘Big Egg’, Tokyo’s air-supported dome, home of the Yomiuri Giants.",
+        "why_go": "Opened in 1988 and nicknamed the ‘Big Egg’, Tokyo Dome has an air-supported roof and is home to the Yomiuri Giants. It sits within Tokyo Dome City, with an amusement park, spa and the Japanese Baseball Hall of Fame, and hosts major concerts and events.",
+        "best_time": "March–September for baseball; year-round for concerts and attractions.",
+        "how_to_get_there": "Suidōbashi and Kōrakuen stations are next to the dome.",
+        "good_to_know": "Japanese fans have organised cheering sections—fun to join.",
+        "official_or_tourism_url": "https://www.tokyo-dome.co.jp/dome/",
+        "sources": [
+          "https://www.tokyo-dome.co.jp/dome/",
+          "https://en.wikipedia.org/wiki/Tokyo_Dome",
+          "https://commons.wikimedia.org/wiki/File%3ATokyo_Dome_2015.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Tokyo, Japan",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Tokyo%2C%20Japan&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Tokyo%2C%20Japan&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Tokyo%2C%20Japan&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Tokyo"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-082",
+      "tab": "arenas",
+      "name": "Narendra Modi Stadium",
+      "short_line": "Ahmedabad, India",
+      "country": "India",
+      "lat": 23.0917,
+      "lng": 72.5975,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Narendra_Modi_Stadium_view_from_the_gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-082.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ANarendra_Modi_Stadium_view_from_the_gallery.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "A Cricket Premi",
+        "attribution": "Photo: A Cricket Premi, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Narendra Modi Stadium view from the gallery.jpg' (3656×2039) confirms Narendra Modi Stadium; visually checked on contact sheet. desc: Narendra Modi Stadium"
+      },
+      "facts": {
+        "one_liner": "The world’s largest cricket stadium, a vast bowl of colourful seats.",
+        "why_go": "Rebuilt on the site of the old Motera stadium and reopened in 2020, the Narendra Modi Stadium in Ahmedabad is the largest cricket stadium in the world. It hosted the 2023 ICC Men’s Cricket World Cup final and draws huge crowds for IPL and international matches.",
+        "best_time": "October–March for cooler weather and international cricket; IPL runs March–May.",
+        "how_to_get_there": "In Motera, north Ahmedabad, about 15 minutes from Ahmedabad Airport by car.",
+        "good_to_know": "Bring sun protection for day games.",
+        "official_or_tourism_url": "https://gujaratcricketassociation.com/narendra-modi-stadium/",
+        "sources": [
+          "https://gujaratcricketassociation.com/narendra-modi-stadium/",
+          "https://en.wikipedia.org/wiki/Narendra_Modi_Stadium",
+          "https://commons.wikimedia.org/wiki/File%3ANarendra_Modi_Stadium_view_from_the_gallery.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Ahmedabad, India",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ahmedabad%2C%20India&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ahmedabad%2C%20India&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ahmedabad%2C%20India&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Ahmedabad"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-083",
+      "tab": "arenas",
+      "name": "Wankhede Stadium",
+      "short_line": "Mumbai, India",
+      "country": "India",
+      "lat": 18.9389,
+      "lng": 72.8258,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Wankhede_Stadium_%2886312941%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-083.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AWankhede_Stadium_(86312941).jpeg",
+        "license": "CC BY 3.0",
+        "author": "Anand Desai",
+        "attribution": "Photo: Anand Desai, CC BY 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Wankhede Stadium (86312941).jpeg' (2048×940) confirms Wankhede Stadium; visually checked on contact sheet. desc: 500px provided description: SRT 200 [#srt 200 ,#wankhede stadium]"
+      },
+      "facts": {
+        "one_liner": "Mumbai’s cricket cauldron near Marine Drive, scene of India’s 2011 World Cup win.",
+        "why_go": "Wankhede Stadium, close to Marine Drive in south Mumbai, is home to the Mumbai cricket team and the IPL’s Mumbai Indians. It hosted the 2011 Cricket World Cup final, when India won at home. Night games under the lights, with sea breezes and passionate crowds, are unforgettable.",
+        "best_time": "October–March for international cricket; March–May for IPL.",
+        "how_to_get_there": "Churchgate station is about five minutes’ walk.",
+        "good_to_know": "Security is strict: check which items are banned before entering.",
+        "official_or_tourism_url": "https://en.wikipedia.org/wiki/Wankhede_Stadium",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Wankhede_Stadium",
+          "https://commons.wikimedia.org/wiki/File%3AWankhede_Stadium_(86312941).jpeg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Mumbai, India",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Mumbai%2C%20India&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Mumbai%2C%20India&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Mumbai%2C%20India&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Mumbai"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-084",
+      "tab": "arenas",
+      "name": "Sydney Cricket Ground",
+      "short_line": "Sydney, New South Wales, Australia",
+      "country": "Australia",
+      "lat": -33.8917,
+      "lng": 151.2247,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Sydney_Cricket_Ground_%2824509044622%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-084.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASydney_Cricket_Ground_(24509044622).jpg",
+        "license": "CC BY 2.0",
+        "author": "Marc Dalmulder from Hamlyn Terrace, Australia",
+        "attribution": "Photo: Marc Dalmulder from Hamlyn Terrace, Australia, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Sydney Cricket Ground (24509044622).jpg' (1600×1067) confirms Sydney Cricket Ground; visually checked on contact sheet. desc: Sydney Cricket Ground just before the start of the fifth ODI between Australia and India."
+      },
+      "facts": {
+        "one_liner": "A historic cricket ground with heritage Members’ and Ladies’ stands.",
+        "why_go": "The SCG has staged cricket since the 1800s and is one of the world’s great cricket grounds, with its green-roofed heritage Members’ and Ladies’ Stands. The New Year’s Test is a Sydney tradition, and Aussie rules (the Sydney Swans) and rugby fill the winter.",
+        "best_time": "Early January for the New Year’s Test; March–September for AFL.",
+        "how_to_get_there": "In Moore Park; light rail L2/L3 to Moore Park stop, or buses from Central.",
+        "good_to_know": "Tours include the Members’ Pavilion and dressing rooms.",
+        "official_or_tourism_url": "https://www.sydneycricketground.com.au/",
+        "sources": [
+          "https://www.sydneycricketground.com.au/",
+          "https://en.wikipedia.org/wiki/Sydney_Cricket_Ground",
+          "https://commons.wikimedia.org/wiki/File%3ASydney_Cricket_Ground_(24509044622).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Sydney, Australia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sydney%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sydney%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sydney%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Sydney"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-085",
+      "tab": "arenas",
+      "name": "Adelaide Oval",
+      "short_line": "Adelaide, South Australia, Australia",
+      "country": "Australia",
+      "lat": -34.9156,
+      "lng": 138.5961,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Adelaide_Oval_-_panoramio_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-085.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AAdelaide_Oval_-_panoramio_(cropped).jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Trentino Priori",
+        "attribution": "Photo: Trentino Priori, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Adelaide Oval - panoramio (cropped).jpg' (1251×782) confirms Adelaide Oval; visually checked on contact sheet. desc: Adelaide Oval"
+      },
+      "facts": {
+        "one_liner": "A picturesque oval by the River Torrens with a heritage scoreboard.",
+        "why_go": "Adelaide Oval has hosted cricket since 1871 and is often called the world’s most beautiful cricket ground. Its 1911 heritage scoreboard is still operated by hand, the Moreton Bay fig trees and St Peter’s Cathedral frame the view, and the RoofClimb takes you over the stands.",
+        "best_time": "December–January for Test cricket; March–September for AFL.",
+        "how_to_get_there": "A short walk across the River Torrens footbridge from Adelaide station.",
+        "good_to_know": "Do the RoofClimb at twilight for city views.",
+        "official_or_tourism_url": "https://www.adelaideoval.com.au/",
+        "sources": [
+          "https://www.adelaideoval.com.au/",
+          "https://en.wikipedia.org/wiki/Adelaide_Oval",
+          "https://commons.wikimedia.org/wiki/File%3AAdelaide_Oval_-_panoramio_(cropped).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Adelaide, Australia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Adelaide%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Adelaide%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Adelaide%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Adelaide"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-086",
+      "tab": "arenas",
+      "name": "Moses Mabhida Stadium",
+      "short_line": "Durban, South Africa",
+      "country": "South Africa",
+      "lat": -29.829,
+      "lng": 31.0303,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/2011-06-22_11-37-54_South_Africa_-_Durban_-_Moses_Mabhida_Stadium_Ausschnitt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-086.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3A2011-06-22_11-37-54_South_Africa_-_Durban_-_Moses_Mabhida_Stadium_Ausschnitt.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Hansueli Krapf (User Simisa)",
+        "attribution": "Photo: Hansueli Krapf (User Simisa), CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:2011-06-22 11-37-54 South Africa - Durban - Moses Mabhida Stadium Ausschnitt.jpg' (5640×2244) confirms Moses Mabhida Stadium; visually checked on contact sheet. desc: Südafrika, Moses Mabhida Stadion"
+      },
+      "facts": {
+        "one_liner": "A 2010 World Cup stadium with a soaring arch you can climb or swing from.",
+        "why_go": "Built for the 2010 FIFA World Cup, Durban’s Moses Mabhida Stadium has a great arch spanning the bowl. A SkyCar rides up the arch to a viewing platform overlooking the Indian Ocean, and the Big Swing drops you into the stadium. It is close to Durban’s beachfront promenade.",
+        "best_time": "Year-round; May–September brings dry, sunny winter weather.",
+        "how_to_get_there": "Near Durban’s beachfront, about 30 minutes from King Shaka International Airport.",
+        "good_to_know": "Check opening times for the SkyCar and adventure walk.",
+        "official_or_tourism_url": "https://en.wikipedia.org/wiki/Moses_Mabhida_Stadium",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Moses_Mabhida_Stadium",
+          "https://commons.wikimedia.org/wiki/File%3A2011-06-22_11-37-54_South_Africa_-_Durban_-_Moses_Mabhida_Stadium_Ausschnitt.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Durban, South Africa",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Durban%2C%20South%20Africa&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Durban%2C%20South%20Africa&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Durban%2C%20South%20Africa&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Durban"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-087",
+      "tab": "arenas",
+      "name": "Estadio Centenario",
+      "short_line": "Montevideo, Uruguay",
+      "country": "Uruguay",
+      "lat": -34.8944,
+      "lng": -56.1528,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Estadio_Centenario_%28vista_a%C3%A9rea%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-087.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AEstadio_Centenario_(vista_a%C3%A9rea).jpg",
+        "license": "CC BY-SA 2.0",
+        "author": "Marcelo Campi from Costa de Oro, Uruguay",
+        "attribution": "Photo: Marcelo Campi from Costa de Oro, Uruguay, CC BY-SA 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Estadio Centenario (vista aérea).jpg' (2560×1438) confirms Estadio Centenario; visually checked on contact sheet. desc: Mítico monumento histórico del fútbol mundial y cuna de la gloria de \"la celeste\"."
+      },
+      "facts": {
+        "one_liner": "The stadium built for the first FIFA World Cup in 1930.",
+        "why_go": "The Estadio Centenario was built for the first FIFA World Cup in 1930, and hosted the final where Uruguay beat Argentina. FIFA declared it a Historic Monument of World Football, and its Torre de los Homenajes tower and Football Museum celebrate Uruguay’s two World Cup titles.",
+        "best_time": "Year-round; September–April for warmer weather.",
+        "how_to_get_there": "In Parque Batlle, about 15 minutes by taxi or bus from central Montevideo.",
+        "good_to_know": "The Museo del Fútbol is inside the stadium.",
+        "official_or_tourism_url": "https://www.estadiocentenario.com.uy/",
+        "sources": [
+          "https://www.estadiocentenario.com.uy/",
+          "https://en.wikipedia.org/wiki/Estadio_Centenario",
+          "https://commons.wikimedia.org/wiki/File%3AEstadio_Centenario_(vista_a%C3%A9rea).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Montevideo, Uruguay",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Montevideo%2C%20Uruguay&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Montevideo%2C%20Uruguay&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Montevideo%2C%20Uruguay&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Montevideo"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-088",
+      "tab": "arenas",
+      "name": "Mineirão",
+      "short_line": "Belo Horizonte, Brazil",
+      "country": "Brazil",
+      "lat": -19.8658,
+      "lng": -43.9708,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Est%C3%A1dio_Governador_Magalh%C3%A3es_Pinto_-_Belo_Horizonte_-_20250409150611.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-088.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AEst%C3%A1dio_Governador_Magalh%C3%A3es_Pinto_-_Belo_Horizonte_-_20250409150611.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Donatas Dabravolskas",
+        "attribution": "Photo: Donatas Dabravolskas, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Estádio Governador Magalhães Pinto - Belo Horizonte - 20250409150611.jpg' (4000×2667) confirms Mineirão; visually checked on contact sheet. desc: estádio em Belo Horizonte, Minas Gerais, Brasil"
+      },
+      "facts": {
+        "one_liner": "Belo Horizonte’s great oval stadium beside Pampulha Lake.",
+        "why_go": "Opened in 1965, the Mineirão is home to Cruzeiro and one of Brazil’s great football stadiums. It hosted matches in the 2014 FIFA World Cup, including the famous semifinal, and sits near the Pampulha Modern Ensemble, a UNESCO site of Oscar Niemeyer buildings.",
+        "best_time": "Year-round; April–September is drier.",
+        "how_to_get_there": "In the Pampulha district, about 20 minutes’ drive from central Belo Horizonte.",
+        "good_to_know": "Visit Niemeyer’s Church of Saint Francis of Assisi nearby.",
+        "official_or_tourism_url": "https://en.wikipedia.org/wiki/Mineir%C3%A3o",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Mineir%C3%A3o",
+          "https://commons.wikimedia.org/wiki/File%3AEst%C3%A1dio_Governador_Magalh%C3%A3es_Pinto_-_Belo_Horizonte_-_20250409150611.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Belo Horizonte, Brazil",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Belo%20Horizonte%2C%20Brazil&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Belo%20Horizonte%2C%20Brazil&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Belo%20Horizonte%2C%20Brazil&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Belo Horizonte"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-089",
+      "tab": "arenas",
+      "name": "Gelora Bung Karno Stadium",
+      "short_line": "Jakarta, Indonesia",
+      "country": "Indonesia",
+      "lat": -6.2186,
+      "lng": 106.8025,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Penutupan_Para_Asian_Games_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-089.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APenutupan_Para_Asian_Games_2018.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "RaiyaniM",
+        "attribution": "Photo: RaiyaniM, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Penutupan Para Asian Games 2018.jpg' (4896×3264) confirms Gelora Bung Karno Stadium; visually checked on contact sheet. desc: Opening of 2018 Asian Para Games at Gelora Bung Karno, Jakarta"
+      },
+      "facts": {
+        "one_liner": "Indonesia’s national stadium, built for the 1962 Asian Games.",
+        "why_go": "Opened in 1962 for the Asian Games, Gelora Bung Karno is Indonesia’s national stadium, renovated for the 2018 Asian Games. It hosts Indonesia football internationals, major concerts and sports festivals in the green Senayan complex in central Jakarta.",
+        "best_time": "May–September (dry season).",
+        "how_to_get_there": "In Senayan, central Jakarta; Istora Mandiri MRT station is nearby.",
+        "good_to_know": "The surrounding sports complex is popular with joggers.",
+        "official_or_tourism_url": "https://en.wikipedia.org/wiki/Gelora_Bung_Karno_Stadium",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Gelora_Bung_Karno_Stadium",
+          "https://commons.wikimedia.org/wiki/File%3APenutupan_Para_Asian_Games_2018.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Jakarta, Indonesia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Jakarta%2C%20Indonesia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Jakarta%2C%20Indonesia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Jakarta%2C%20Indonesia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Jakarta"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "arenas-090",
+      "tab": "arenas",
+      "name": "Estadio Nacional",
+      "short_line": "Santiago, Chile",
+      "country": "Chile",
+      "lat": -33.4644,
+      "lng": -70.6106,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Estadio_Nacional_-_A741105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/arenas/arenas-090.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AEstadio_Nacional_-_A741105.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Rjcastillo",
+        "attribution": "Photo: Rjcastillo, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Estadio Nacional - A741105.jpg' (6167×3619) confirms Estadio Nacional; visually checked on contact sheet. desc: National Stadium, Santiago de Chile."
+      },
+      "facts": {
+        "one_liner": "Chile’s national stadium, host of the 1962 World Cup final.",
+        "why_go": "Opened in 1938, Santiago’s Estadio Nacional hosted the 1962 FIFA World Cup final. After the 1973 coup it was used as a detention centre, and a memorial site preserves part of the old stands. It remains the home of Chile’s national team and a venue for concerts.",
+        "best_time": "October–April for warm weather.",
+        "how_to_get_there": "Estadio Nacional metro station (Line 6) is beside the stadium.",
+        "good_to_know": "Visit the memorial area for an important part of Chile’s history.",
+        "official_or_tourism_url": "https://en.wikipedia.org/wiki/Julio_Mart%C3%ADnez_Pr%C3%A1danos_National_Stadium",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Julio_Mart%C3%ADnez_Pr%C3%A1danos_National_Stadium",
+          "https://commons.wikimedia.org/wiki/File%3AEstadio_Nacional_-_A741105.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Santiago, Chile",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Santiago%2C%20Chile&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Santiago%2C%20Chile&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Santiago%2C%20Chile&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Santiago"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:22:08-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    }
+  ]
+}

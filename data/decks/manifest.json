@@ -160,9 +160,9 @@
     "cities": {
       "live_file": "data/cities.json",
       "archive_dir": "data/decks/cities/",
-      "approved_count": 59,
+      "approved_count": 100,
       "catalog_target": 100,
-      "scale_target_met": false,
+      "scale_target_met": true,
       "mvp_ready": true,
       "sets": [
         {
@@ -224,16 +224,82 @@
             "cities-060"
           ],
           "note": "Belgrade (cities-054) rejected and excluded."
+        },
+        {
+          "id": "cities-set-004",
+          "file": "set-004.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "cities-061",
+            "cities-062",
+            "cities-063",
+            "cities-064",
+            "cities-065",
+            "cities-066",
+            "cities-067",
+            "cities-068",
+            "cities-069",
+            "cities-070",
+            "cities-071",
+            "cities-072",
+            "cities-073",
+            "cities-074",
+            "cities-075",
+            "cities-076",
+            "cities-077",
+            "cities-078",
+            "cities-079",
+            "cities-080"
+          ]
+        },
+        {
+          "id": "cities-set-005",
+          "file": "set-005.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "cities-081",
+            "cities-082",
+            "cities-083",
+            "cities-084",
+            "cities-085",
+            "cities-086",
+            "cities-087",
+            "cities-088",
+            "cities-089",
+            "cities-090",
+            "cities-091",
+            "cities-092",
+            "cities-093",
+            "cities-094",
+            "cities-095",
+            "cities-096",
+            "cities-097",
+            "cities-098",
+            "cities-099",
+            "cities-100"
+          ]
+        },
+        {
+          "id": "cities-set-006",
+          "file": "set-006.json",
+          "status": "approved",
+          "count": 1,
+          "card_ids": [
+            "cities-101"
+          ]
         }
       ],
-      "next": "Cities 061\u2013080 toward 100"
+      "next": "cities DONE 100/100",
+      "latest_set": "set-006"
     },
     "pubs": {
       "live_file": "data/pubs.json",
       "archive_dir": "data/decks/pubs/",
-      "approved_count": 50,
+      "approved_count": 100,
       "catalog_target": 100,
-      "scale_target_met": false,
+      "scale_target_met": true,
       "mvp_ready": true,
       "sets": [
         {
@@ -309,16 +375,91 @@
             "pubs-049",
             "pubs-050"
           ]
+        },
+        {
+          "id": "pubs-set-004",
+          "file": "set-004.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "pubs-051",
+            "pubs-052",
+            "pubs-053",
+            "pubs-054",
+            "pubs-055",
+            "pubs-056",
+            "pubs-057",
+            "pubs-058",
+            "pubs-059",
+            "pubs-060",
+            "pubs-061",
+            "pubs-062",
+            "pubs-063",
+            "pubs-064",
+            "pubs-065",
+            "pubs-066",
+            "pubs-067",
+            "pubs-068",
+            "pubs-069",
+            "pubs-070"
+          ]
+        },
+        {
+          "id": "pubs-set-005",
+          "file": "set-005.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "pubs-071",
+            "pubs-072",
+            "pubs-073",
+            "pubs-074",
+            "pubs-075",
+            "pubs-076",
+            "pubs-077",
+            "pubs-078",
+            "pubs-079",
+            "pubs-080",
+            "pubs-081",
+            "pubs-082",
+            "pubs-083",
+            "pubs-084",
+            "pubs-085",
+            "pubs-086",
+            "pubs-087",
+            "pubs-088",
+            "pubs-089",
+            "pubs-090"
+          ]
+        },
+        {
+          "id": "pubs-set-006",
+          "file": "set-006.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "pubs-091",
+            "pubs-092",
+            "pubs-093",
+            "pubs-094",
+            "pubs-095",
+            "pubs-096",
+            "pubs-097",
+            "pubs-098",
+            "pubs-099",
+            "pubs-100"
+          ]
         }
       ],
-      "next": "Pubs 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
+      "next": "pubs DONE 100/100",
+      "latest_set": "set-006"
     },
     "countries": {
       "live_file": "data/countries.json",
       "archive_dir": "data/decks/countries/",
-      "approved_count": 50,
+      "approved_count": 100,
       "catalog_target": 100,
-      "scale_target_met": false,
+      "scale_target_met": true,
       "mvp_ready": true,
       "sets": [
         {
@@ -394,16 +535,91 @@
             "countries-049",
             "countries-050"
           ]
+        },
+        {
+          "id": "countries-set-004",
+          "file": "set-004.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "countries-051",
+            "countries-052",
+            "countries-053",
+            "countries-054",
+            "countries-055",
+            "countries-056",
+            "countries-057",
+            "countries-058",
+            "countries-059",
+            "countries-060",
+            "countries-061",
+            "countries-062",
+            "countries-063",
+            "countries-064",
+            "countries-065",
+            "countries-066",
+            "countries-067",
+            "countries-068",
+            "countries-069",
+            "countries-070"
+          ]
+        },
+        {
+          "id": "countries-set-005",
+          "file": "set-005.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "countries-071",
+            "countries-072",
+            "countries-073",
+            "countries-074",
+            "countries-075",
+            "countries-076",
+            "countries-077",
+            "countries-078",
+            "countries-079",
+            "countries-080",
+            "countries-081",
+            "countries-082",
+            "countries-083",
+            "countries-084",
+            "countries-085",
+            "countries-086",
+            "countries-087",
+            "countries-088",
+            "countries-089",
+            "countries-090"
+          ]
+        },
+        {
+          "id": "countries-set-006",
+          "file": "set-006.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "countries-091",
+            "countries-092",
+            "countries-093",
+            "countries-094",
+            "countries-095",
+            "countries-096",
+            "countries-097",
+            "countries-098",
+            "countries-099",
+            "countries-100"
+          ]
         }
       ],
-      "next": "Countries 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
+      "next": "countries DONE 100/100",
+      "latest_set": "set-006"
     },
     "arenas": {
       "live_file": "data/arenas.json",
       "archive_dir": "data/decks/arenas/",
-      "approved_count": 50,
+      "approved_count": 100,
       "catalog_target": 100,
-      "scale_target_met": false,
+      "scale_target_met": true,
       "mvp_ready": true,
       "sets": [
         {
@@ -479,16 +695,91 @@
             "arenas-049",
             "arenas-050"
           ]
+        },
+        {
+          "id": "arenas-set-004",
+          "file": "set-004.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "arenas-051",
+            "arenas-052",
+            "arenas-053",
+            "arenas-054",
+            "arenas-055",
+            "arenas-056",
+            "arenas-057",
+            "arenas-058",
+            "arenas-059",
+            "arenas-060",
+            "arenas-061",
+            "arenas-062",
+            "arenas-063",
+            "arenas-064",
+            "arenas-065",
+            "arenas-066",
+            "arenas-067",
+            "arenas-068",
+            "arenas-069",
+            "arenas-070"
+          ]
+        },
+        {
+          "id": "arenas-set-005",
+          "file": "set-005.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "arenas-071",
+            "arenas-072",
+            "arenas-073",
+            "arenas-074",
+            "arenas-075",
+            "arenas-076",
+            "arenas-077",
+            "arenas-078",
+            "arenas-079",
+            "arenas-080",
+            "arenas-081",
+            "arenas-082",
+            "arenas-083",
+            "arenas-084",
+            "arenas-085",
+            "arenas-086",
+            "arenas-087",
+            "arenas-088",
+            "arenas-089",
+            "arenas-090"
+          ]
+        },
+        {
+          "id": "arenas-set-006",
+          "file": "set-006.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "arenas-091",
+            "arenas-092",
+            "arenas-093",
+            "arenas-094",
+            "arenas-095",
+            "arenas-096",
+            "arenas-097",
+            "arenas-098",
+            "arenas-099",
+            "arenas-100"
+          ]
         }
       ],
-      "next": "Arenas 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
+      "next": "arenas DONE 100/100",
+      "latest_set": "set-006"
     },
     "beaches": {
       "live_file": "data/beaches.json",
       "archive_dir": "data/decks/beaches/",
-      "approved_count": 50,
+      "approved_count": 100,
       "catalog_target": 100,
-      "scale_target_met": false,
+      "scale_target_met": true,
       "mvp_ready": true,
       "sets": [
         {
@@ -564,13 +855,87 @@
             "beaches-049",
             "beaches-050"
           ]
+        },
+        {
+          "id": "beaches-set-004",
+          "file": "set-004.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "beaches-051",
+            "beaches-052",
+            "beaches-053",
+            "beaches-054",
+            "beaches-055",
+            "beaches-056",
+            "beaches-057",
+            "beaches-058",
+            "beaches-059",
+            "beaches-060",
+            "beaches-061",
+            "beaches-062",
+            "beaches-063",
+            "beaches-064",
+            "beaches-065",
+            "beaches-066",
+            "beaches-067",
+            "beaches-068",
+            "beaches-069",
+            "beaches-070"
+          ]
+        },
+        {
+          "id": "beaches-set-005",
+          "file": "set-005.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "beaches-071",
+            "beaches-072",
+            "beaches-073",
+            "beaches-074",
+            "beaches-075",
+            "beaches-076",
+            "beaches-077",
+            "beaches-078",
+            "beaches-079",
+            "beaches-080",
+            "beaches-081",
+            "beaches-082",
+            "beaches-083",
+            "beaches-084",
+            "beaches-085",
+            "beaches-086",
+            "beaches-087",
+            "beaches-088",
+            "beaches-089",
+            "beaches-090"
+          ]
+        },
+        {
+          "id": "beaches-set-006",
+          "file": "set-006.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "beaches-091",
+            "beaches-092",
+            "beaches-093",
+            "beaches-094",
+            "beaches-095",
+            "beaches-096",
+            "beaches-097",
+            "beaches-098",
+            "beaches-099",
+            "beaches-100"
+          ]
         }
       ],
-      "latest_set": "set-003",
-      "next": "Beaches 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
+      "latest_set": "set-006",
+      "next": "beaches DONE 100/100"
     },
     "parks": {
-      "approved": 50,
+      "approved": 100,
       "mvp_ready": true,
       "sets": [
         {
@@ -646,18 +1011,92 @@
             "parks-049",
             "parks-050"
           ]
+        },
+        {
+          "id": "parks-set-004",
+          "file": "set-004.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "parks-051",
+            "parks-052",
+            "parks-053",
+            "parks-054",
+            "parks-055",
+            "parks-056",
+            "parks-057",
+            "parks-058",
+            "parks-059",
+            "parks-060",
+            "parks-061",
+            "parks-062",
+            "parks-063",
+            "parks-064",
+            "parks-065",
+            "parks-066",
+            "parks-067",
+            "parks-068",
+            "parks-069",
+            "parks-070"
+          ]
+        },
+        {
+          "id": "parks-set-005",
+          "file": "set-005.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "parks-071",
+            "parks-072",
+            "parks-073",
+            "parks-074",
+            "parks-075",
+            "parks-076",
+            "parks-077",
+            "parks-078",
+            "parks-079",
+            "parks-080",
+            "parks-081",
+            "parks-082",
+            "parks-083",
+            "parks-084",
+            "parks-085",
+            "parks-086",
+            "parks-087",
+            "parks-088",
+            "parks-089",
+            "parks-090"
+          ]
+        },
+        {
+          "id": "parks-set-006",
+          "file": "set-006.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "parks-091",
+            "parks-092",
+            "parks-093",
+            "parks-094",
+            "parks-095",
+            "parks-096",
+            "parks-097",
+            "parks-098",
+            "parks-099",
+            "parks-100"
+          ]
         }
       ],
-      "latest_set": "set-003",
+      "latest_set": "set-006",
       "live_file": "data/parks.json",
       "archive_dir": "data/decks/parks/",
-      "approved_count": 50,
+      "approved_count": 100,
       "catalog_target": 100,
-      "scale_target_met": false,
-      "next": "Parks 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
+      "scale_target_met": true,
+      "next": "parks DONE 100/100"
     },
     "landmarks": {
-      "approved": 50,
+      "approved": 100,
       "mvp_ready": true,
       "sets": [
         {
@@ -711,22 +1150,96 @@
             "landmarks-049",
             "landmarks-050"
           ]
+        },
+        {
+          "id": "landmarks-set-004",
+          "file": "set-004.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "landmarks-051",
+            "landmarks-052",
+            "landmarks-053",
+            "landmarks-054",
+            "landmarks-055",
+            "landmarks-056",
+            "landmarks-057",
+            "landmarks-058",
+            "landmarks-059",
+            "landmarks-060",
+            "landmarks-061",
+            "landmarks-062",
+            "landmarks-063",
+            "landmarks-064",
+            "landmarks-065",
+            "landmarks-066",
+            "landmarks-067",
+            "landmarks-068",
+            "landmarks-069",
+            "landmarks-070"
+          ]
+        },
+        {
+          "id": "landmarks-set-005",
+          "file": "set-005.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "landmarks-071",
+            "landmarks-072",
+            "landmarks-073",
+            "landmarks-074",
+            "landmarks-075",
+            "landmarks-076",
+            "landmarks-077",
+            "landmarks-078",
+            "landmarks-079",
+            "landmarks-080",
+            "landmarks-081",
+            "landmarks-082",
+            "landmarks-083",
+            "landmarks-084",
+            "landmarks-085",
+            "landmarks-086",
+            "landmarks-087",
+            "landmarks-088",
+            "landmarks-089",
+            "landmarks-090"
+          ]
+        },
+        {
+          "id": "landmarks-set-006",
+          "file": "set-006.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "landmarks-091",
+            "landmarks-092",
+            "landmarks-093",
+            "landmarks-094",
+            "landmarks-095",
+            "landmarks-096",
+            "landmarks-097",
+            "landmarks-098",
+            "landmarks-099",
+            "landmarks-100"
+          ]
         }
       ],
-      "latest_set": "set-003",
+      "latest_set": "set-006",
       "live_file": "data/landmarks.json",
       "archive_dir": "data/decks/landmarks/",
-      "approved_count": 50,
+      "approved_count": 100,
       "catalog_target": 100,
-      "scale_target_met": false,
-      "next": "Landmarks 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
+      "scale_target_met": true,
+      "next": "landmarks DONE 100/100"
     },
     "islands": {
       "live_file": "data/islands.json",
       "archive_dir": "data/decks/islands/",
-      "approved_count": 50,
+      "approved_count": 100,
       "catalog_target": 100,
-      "scale_target_met": false,
+      "scale_target_met": true,
       "mvp_ready": true,
       "sets": [
         {
@@ -802,17 +1315,91 @@
             "islands-049",
             "islands-050"
           ]
+        },
+        {
+          "id": "islands-set-004",
+          "file": "set-004.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "islands-051",
+            "islands-052",
+            "islands-053",
+            "islands-054",
+            "islands-055",
+            "islands-056",
+            "islands-057",
+            "islands-058",
+            "islands-059",
+            "islands-060",
+            "islands-061",
+            "islands-062",
+            "islands-063",
+            "islands-064",
+            "islands-065",
+            "islands-066",
+            "islands-067",
+            "islands-068",
+            "islands-069",
+            "islands-070"
+          ]
+        },
+        {
+          "id": "islands-set-005",
+          "file": "set-005.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "islands-071",
+            "islands-072",
+            "islands-073",
+            "islands-074",
+            "islands-075",
+            "islands-076",
+            "islands-077",
+            "islands-078",
+            "islands-079",
+            "islands-080",
+            "islands-081",
+            "islands-082",
+            "islands-083",
+            "islands-084",
+            "islands-085",
+            "islands-086",
+            "islands-087",
+            "islands-088",
+            "islands-089",
+            "islands-090"
+          ]
+        },
+        {
+          "id": "islands-set-006",
+          "file": "set-006.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "islands-091",
+            "islands-092",
+            "islands-093",
+            "islands-094",
+            "islands-095",
+            "islands-096",
+            "islands-097",
+            "islands-098",
+            "islands-099",
+            "islands-100"
+          ]
         }
       ],
-      "latest_set": "set-003",
-      "next": "Islands 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
+      "latest_set": "set-006",
+      "next": "islands DONE 100/100"
     },
     "luxury": {
       "live_file": "data/luxury.json",
       "archive_dir": "data/decks/luxury/",
-      "approved_count": 50,
+      "approved_count": 100,
       "catalog_target": 100,
-      "scale_target_met": false,
+      "scale_target_met": true,
       "mvp_ready": true,
       "sets": [
         {
@@ -888,10 +1475,84 @@
             "luxury-049",
             "luxury-050"
           ]
+        },
+        {
+          "id": "luxury-set-004",
+          "file": "set-004.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "luxury-051",
+            "luxury-052",
+            "luxury-053",
+            "luxury-054",
+            "luxury-055",
+            "luxury-056",
+            "luxury-057",
+            "luxury-058",
+            "luxury-059",
+            "luxury-060",
+            "luxury-061",
+            "luxury-062",
+            "luxury-063",
+            "luxury-064",
+            "luxury-065",
+            "luxury-066",
+            "luxury-067",
+            "luxury-068",
+            "luxury-069",
+            "luxury-070"
+          ]
+        },
+        {
+          "id": "luxury-set-005",
+          "file": "set-005.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "luxury-071",
+            "luxury-072",
+            "luxury-073",
+            "luxury-074",
+            "luxury-075",
+            "luxury-076",
+            "luxury-077",
+            "luxury-078",
+            "luxury-079",
+            "luxury-080",
+            "luxury-081",
+            "luxury-082",
+            "luxury-083",
+            "luxury-084",
+            "luxury-085",
+            "luxury-086",
+            "luxury-087",
+            "luxury-088",
+            "luxury-089",
+            "luxury-090"
+          ]
+        },
+        {
+          "id": "luxury-set-006",
+          "file": "set-006.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "luxury-091",
+            "luxury-092",
+            "luxury-093",
+            "luxury-094",
+            "luxury-095",
+            "luxury-096",
+            "luxury-097",
+            "luxury-098",
+            "luxury-099",
+            "luxury-100"
+          ]
         }
       ],
-      "next": "Luxury 051\u2013100 toward 100 (catalog honesty: 50\u2260100)",
-      "latest_set": "set-003"
+      "next": "luxury DONE 100/100",
+      "latest_set": "set-006"
     }
   },
   "other_tabs": [
@@ -911,5 +1572,5 @@
     "stray_key": "sos_stray_list",
     "scope": "on-device localStorage only; keyed by place id; survives daily rotation"
   },
-  "updated_at": "2026-09-24T06:29:00-05:00"
+  "updated_at": "2026-10-09T01:55:07-05:00"
 }

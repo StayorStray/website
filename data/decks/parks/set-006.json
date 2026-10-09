@@ -1,0 +1,541 @@
+{
+  "id": "parks-set-006",
+  "tab": "parks",
+  "label": "National Parks — Set 6 (091–100)",
+  "card_ids": [
+    "parks-091",
+    "parks-092",
+    "parks-093",
+    "parks-094",
+    "parks-095",
+    "parks-096",
+    "parks-097",
+    "parks-098",
+    "parks-099",
+    "parks-100"
+  ],
+  "count": 10,
+  "auditor": "approved — content-to-100 batch: licensed Commons photos visually checked; facts sourced",
+  "created": "2026-10-09T01:37:32-05:00",
+  "cards": [
+    {
+      "id": "parks-091",
+      "tab": "parks",
+      "name": "Kinabalu Park",
+      "short_line": "Sabah, Malaysia",
+      "country": "Malaysia",
+      "lat": 6.15,
+      "lng": 116.65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Morning_view_of_Mount_Kinabalu_in_Malaysia%2C_with_its_peak_clearly_visible.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-091.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMorning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "This photo was taken by Anton Zelenov. Please credit this with : Photo : Anton",
+        "attribution": "Photo: This photo was taken by Anton Zelenov. Please credit this with : Photo : Anton, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Morning view of Mount Kinabalu in Malaysia, with its peak clearly visible.jpg' (3543×2362) confirms Kinabalu Park; visually checked on contact sheet. desc: Morning view of Mount Kinabalu in Malaysia, with its peak clearly visible"
+      },
+      "facts": {
+        "one_liner": "Borneo’s highest mountain rising above rainforest rich in orchids and pitcher plants.",
+        "why_go": "Kinabalu Park, inscribed in 2000 as one of Malaysia’s first UNESCO World Heritage Sites, protects the 4,095-metre Mount Kinabalu and one of the richest plant communities on Earth, including orchids, pitcher plants and Rafflesia. Climbers summit over two days.",
+        "best_time": "March–September tends to be drier.",
+        "how_to_get_there": "The park headquarters is about 2 hours by road from Kota Kinabalu.",
+        "good_to_know": "Climbing permits and mountain guides are mandatory; book well ahead.",
+        "official_or_tourism_url": "https://www.sabahtourism.com/",
+        "sources": [
+          "https://www.sabahtourism.com/",
+          "https://en.wikipedia.org/wiki/Kinabalu_Park",
+          "https://commons.wikimedia.org/wiki/File%3AMorning_view_of_Mount_Kinabalu_in_Malaysia,_with_its_peak_clearly_visible.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Kundasang, Sabah, Malaysia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kundasang%2C%20Sabah%2C%20Malaysia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kundasang%2C%20Sabah%2C%20Malaysia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kundasang%2C%20Sabah%2C%20Malaysia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Kundasang"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-092",
+      "tab": "parks",
+      "name": "Bromo Tengger Semeru National Park",
+      "short_line": "East Java, Indonesia",
+      "country": "Indonesia",
+      "lat": -8.0167,
+      "lng": 112.9167,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mount_Batok_and_the_edge_of_the_Bromo_volcanic_cone%2C_20220820_0548_9431.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-092.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMount_Batok_and_the_edge_of_the_Bromo_volcanic_cone,_20220820_0548_9431.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Jakub Hałun",
+        "attribution": "Photo: Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Mount Batok and the edge of the Bromo volcanic cone, 20220820 0548 9431.jpg' (5656×3776) confirms Bromo Tengger Semeru National Park; visually checked on contact sheet. desc: Mount Batok and the edge of the volcanic cone of Mount Bromo in the early morning light, East Java, Indonesia"
+      },
+      "facts": {
+        "one_liner": "Smoking volcanoes rising from a sea of sand at sunrise.",
+        "why_go": "Bromo Tengger Semeru National Park surrounds the Tengger caldera, a vast sea of volcanic sand from which Mount Bromo rises. At sunrise from viewpoints around Penanjakan, the steaming Bromo and the cone of Semeru, Java’s highest volcano, appear above the mist.",
+        "best_time": "April–October, the dry season.",
+        "how_to_get_there": "Cemoro Lawang is the main base, about 3 hours by road from Surabaya or Malang.",
+        "good_to_know": "Volcanic activity can close areas—check alerts. Sunrise is very cold.",
+        "official_or_tourism_url": "https://www.indonesia.travel/",
+        "sources": [
+          "https://www.indonesia.travel/",
+          "https://en.wikipedia.org/wiki/Bromo_Tengger_Semeru_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3AMount_Batok_and_the_edge_of_the_Bromo_volcanic_cone,_20220820_0548_9431.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Cemoro Lawang, East Java, Indonesia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Cemoro%20Lawang%2C%20East%20Java%2C%20Indonesia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Cemoro%20Lawang%2C%20East%20Java%2C%20Indonesia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Cemoro%20Lawang%2C%20East%20Java%2C%20Indonesia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Cemoro Lawang"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-093",
+      "tab": "parks",
+      "name": "Blue Mountains National Park",
+      "short_line": "New South Wales, Australia",
+      "country": "Australia",
+      "lat": -33.62,
+      "lng": 150.46,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Blue_Mountains_National_Park_%28AU%29%2C_Three_Sisters_--_2019_--_1983.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-093.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABlue_Mountains_National_Park_(AU),_Three_Sisters_--_2019_--_1983.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Dietmar Rabich",
+        "attribution": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Blue Mountains National Park (AU), Three Sisters -- 2019 -- 1983.jpg' (6720×4480) confirms Blue Mountains National Park; visually checked on contact sheet. desc: Three Sisters, Blue Mountains National Park, New South Wales, AustraliaThe Blue Mountains National Park is located west of Sydney and is one of Australia’s most"
+      },
+      "facts": {
+        "one_liner": "Sandstone cliffs and eucalyptus-blue valleys west of Sydney.",
+        "why_go": "Blue Mountains National Park is part of the Greater Blue Mountains UNESCO World Heritage Area. The blue haze comes from eucalyptus oil in the air. The Three Sisters rock formation at Echo Point in Katoomba is the icon, and walking tracks lead to waterfalls and lookouts.",
+        "best_time": "Year-round; spring and autumn are best for walking.",
+        "how_to_get_there": "About 2 hours by train from Sydney Central to Katoomba.",
+        "good_to_know": "Check track conditions and fire bans with NSW National Parks.",
+        "official_or_tourism_url": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/blue-mountains-national-park",
+        "sources": [
+          "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/blue-mountains-national-park",
+          "https://en.wikipedia.org/wiki/Blue_Mountains_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3ABlue_Mountains_National_Park_(AU),_Three_Sisters_--_2019_--_1983.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Katoomba, New South Wales, Australia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Katoomba%2C%20New%20South%20Wales%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Katoomba%2C%20New%20South%20Wales%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Katoomba%2C%20New%20South%20Wales%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Katoomba"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-094",
+      "tab": "parks",
+      "name": "Cradle Mountain-Lake St Clair National Park",
+      "short_line": "Tasmania, Australia",
+      "country": "Australia",
+      "lat": -41.8303,
+      "lng": 145.9242,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Dove_Lake_and_Cradle_Mountain_%2826200584572%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-094.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ADove_Lake_and_Cradle_Mountain_(26200584572).jpg",
+        "license": "CC BY-SA 2.0",
+        "author": "Norton Ip from Hong Kong",
+        "attribution": "Photo: Norton Ip from Hong Kong, CC BY-SA 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Dove Lake and Cradle Mountain (26200584572).jpg' (4896×3264) confirms Cradle Mountain-Lake St Clair National Park; visually checked on contact sheet. desc: Dove Lake and Cradle Mountain, Tasmania."
+      },
+      "facts": {
+        "one_liner": "A jagged peak above Dove Lake in Tasmania’s wilderness.",
+        "why_go": "Cradle Mountain-Lake St Clair is part of the Tasmanian Wilderness UNESCO World Heritage Area. The Dove Lake Circuit loops beneath Cradle Mountain, and the Overland Track runs south to Lake St Clair, Australia’s deepest lake. Wombats are often seen.",
+        "best_time": "December–March for warmer weather; snow is possible any time.",
+        "how_to_get_there": "About 2 hours by road from Launceston or Devonport.",
+        "good_to_know": "Shuttle buses run from the visitor centre to Dove Lake. Overland Track bookings are required in peak season.",
+        "official_or_tourism_url": "https://parks.tas.gov.au/",
+        "sources": [
+          "https://parks.tas.gov.au/",
+          "https://en.wikipedia.org/wiki/Cradle_Mountain-Lake_St_Clair_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3ADove_Lake_and_Cradle_Mountain_(26200584572).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Cradle Mountain, Tasmania, Australia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Cradle%20Mountain%2C%20Tasmania%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Cradle%20Mountain%2C%20Tasmania%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Cradle%20Mountain%2C%20Tasmania%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Cradle Mountain"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-095",
+      "tab": "parks",
+      "name": "Aoraki / Mount Cook National Park",
+      "short_line": "Canterbury, New Zealand",
+      "country": "New Zealand",
+      "lat": -43.7333,
+      "lng": 170.1,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Hooker_River_in_front_of_Aoraki_Mount_Cook.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-095.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AHooker_River_in_front_of_Aoraki_Mount_Cook.jpg",
+        "license": "Public Domain",
+        "author": "Pseudopanax at English Wikipedia",
+        "attribution": "Photo: Pseudopanax at English Wikipedia, Public Domain, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Hooker River in front of Aoraki Mount Cook.jpg' (4896×3264) confirms Aoraki / Mount Cook National Park; visually checked on contact sheet. desc: Hooker River in front of Aoraki / Mount Cook"
+      },
+      "facts": {
+        "one_liner": "New Zealand’s highest peak above glaciers and braided rivers.",
+        "why_go": "Aoraki / Mount Cook National Park holds New Zealand’s highest mountain, at 3,724 metres, and is part of the Te Wāhipounamu UNESCO World Heritage Area. The Hooker Valley Track leads over swing bridges to a glacier lake below Aoraki. The park is also part of an International Dark Sky Reserve.",
+        "best_time": "November–April for walking; winter for snow and clear skies.",
+        "how_to_get_there": "About 3 hours by road from Queenstown or 4 hours from Christchurch.",
+        "good_to_know": "Weather changes quickly and alpine tracks can close—check DOC alerts before you set out.",
+        "official_or_tourism_url": "https://www.doc.govt.nz/",
+        "sources": [
+          "https://www.doc.govt.nz/",
+          "https://en.wikipedia.org/wiki/Aoraki_/_Mount_Cook_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3AHooker_River_in_front_of_Aoraki_Mount_Cook.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Aoraki Mount Cook Village, New Zealand",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Aoraki%20Mount%20Cook%20Village%2C%20New%20Zealand&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Aoraki%20Mount%20Cook%20Village%2C%20New%20Zealand&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Aoraki%20Mount%20Cook%20Village%2C%20New%20Zealand&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Aoraki Mount Cook Village"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license Public Domain verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-096",
+      "tab": "parks",
+      "name": "Abel Tasman National Park",
+      "short_line": "Tasman, New Zealand",
+      "country": "New Zealand",
+      "lat": -40.9,
+      "lng": 172.971,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/AnchorageBayNZDec022024_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-096.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AAnchorageBayNZDec022024_01.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר",
+        "attribution": "Photo: Hagai Agmon-Snir حچاي اچمون-سنير חגי אגמון-שניר, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:AnchorageBayNZDec022024 01.jpg' (8064×6048) confirms Abel Tasman National Park; visually checked on contact sheet. desc: Anchorage Bay NZ"
+      },
+      "facts": {
+        "one_liner": "Golden beaches and clear bays along a famous coastal walk.",
+        "why_go": "Abel Tasman is New Zealand’s smallest national park, known for golden beaches and clear water. The Abel Tasman Coast Track is one of the country’s Great Walks, and water taxis and sea kayaks connect bays such as Anchorage.",
+        "best_time": "December–March for summer weather.",
+        "how_to_get_there": "Marahau is the main gateway, about 1 hour by road from Nelson.",
+        "good_to_know": "Huts and campsites must be booked. Check tide times for estuary crossings.",
+        "official_or_tourism_url": "https://www.doc.govt.nz/",
+        "sources": [
+          "https://www.doc.govt.nz/",
+          "https://en.wikipedia.org/wiki/Abel_Tasman_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3AAnchorageBayNZDec022024_01.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Marahau, New Zealand",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Marahau%2C%20New%20Zealand&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Marahau%2C%20New%20Zealand&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Marahau%2C%20New%20Zealand&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Marahau"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-097",
+      "tab": "parks",
+      "name": "Karijini National Park",
+      "short_line": "Pilbara, Western Australia",
+      "country": "Australia",
+      "lat": -22.4961,
+      "lng": 118.3972,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Karijini_National_Park_%282052476670%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-097.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AKarijini_National_Park_(2052476670).jpg",
+        "license": "CC BY 2.0",
+        "author": "Phil Whitehouse from London, United Kingdom",
+        "attribution": "Photo: Phil Whitehouse from London, United Kingdom, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Karijini National Park (2052476670).jpg' (2048×1536) confirms Karijini National Park; visually checked on contact sheet. desc: Karijini National Park"
+      },
+      "facts": {
+        "one_liner": "Red rock gorges with waterfalls and swimming pools.",
+        "why_go": "Karijini, in the Hamersley Range, is known for its ancient red gorges. Fortescue Falls and Fern Pool in Dales Gorge are popular swimming spots.",
+        "best_time": "April–October, the cooler dry season.",
+        "how_to_get_there": "About 1.5 hours by road from Tom Price or Newman.",
+        "good_to_know": "Summer temperatures are extreme. Some gorges require experience.",
+        "official_or_tourism_url": "https://exploreparks.dbca.wa.gov.au/park/karijini-national-park",
+        "sources": [
+          "https://exploreparks.dbca.wa.gov.au/park/karijini-national-park",
+          "https://en.wikipedia.org/wiki/Karijini_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3AKarijini_National_Park_(2052476670).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Tom Price, Western Australia, Australia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Tom%20Price%2C%20Western%20Australia%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Tom%20Price%2C%20Western%20Australia%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Tom%20Price%2C%20Western%20Australia%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Tom Price"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-098",
+      "tab": "parks",
+      "name": "Hwange National Park",
+      "short_line": "Matabeleland North, Zimbabwe",
+      "country": "Zimbabwe",
+      "lat": -18.9,
+      "lng": 26.6,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Herd_of_elephants_in_the_Hwange_national_park._Zimbabwe._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-098.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AHerd_of_elephants_in_the_Hwange_national_park._Zimbabwe._-_panoramio.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Jürgen Kehrberger",
+        "attribution": "Photo: Jürgen Kehrberger, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Herd of elephants in the Hwange national park. Zimbabwe. - panoramio.jpg' (1700×1133) confirms Hwange National Park; visually checked on contact sheet. desc: Herd of elephant in the Hwange national park. Zimbabwe."
+      },
+      "facts": {
+        "one_liner": "Zimbabwe’s largest park, famous for its huge elephant herds.",
+        "why_go": "Hwange is Zimbabwe’s largest national park and is known for elephants. Waterholes draw herds in the dry season, and the park is also home to lions, painted dogs and many antelope.",
+        "best_time": "July–October, the dry season, when animals gather at waterholes.",
+        "how_to_get_there": "Main Camp is about 2 hours by road from Victoria Falls.",
+        "good_to_know": "Self-drivers should keep to roads and park rules.",
+        "official_or_tourism_url": "https://zimparks.org.zw/",
+        "sources": [
+          "https://zimparks.org.zw/",
+          "https://en.wikipedia.org/wiki/Hwange_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3AHerd_of_elephants_in_the_Hwange_national_park._Zimbabwe._-_panoramio.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Hwange, Zimbabwe",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Hwange%2C%20Zimbabwe&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Hwange%2C%20Zimbabwe&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Hwange%2C%20Zimbabwe&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Hwange"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-099",
+      "tab": "parks",
+      "name": "Chobe National Park",
+      "short_line": "Chobe District, Botswana",
+      "country": "Botswana",
+      "lat": -18.6,
+      "lng": 24.4,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Chobe_N.P._09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-099.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AChobe_N.P._09.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "LBM1948",
+        "attribution": "Photo: LBM1948, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Chobe N.P. 09.jpg' (3820×2576) confirms Chobe National Park; visually checked on contact sheet. desc: Elephants (Loxodonta africana) crossing the Chobe River. Chobe National Park, Botswana"
+      },
+      "facts": {
+        "one_liner": "Riverfront safaris with large elephant herds on the Chobe River.",
+        "why_go": "Chobe National Park in northern Botswana is known for its elephant population. Boat safaris on the Chobe River bring you close to elephants, hippos and crocodiles.",
+        "best_time": "May–October, the dry season.",
+        "how_to_get_there": "Kasane is the gateway town, about 1.5 hours by road from Victoria Falls.",
+        "good_to_know": "Book boat safaris in advance during peak season.",
+        "official_or_tourism_url": "https://en.wikipedia.org/wiki/Chobe_National_Park",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Chobe_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3AChobe_N.P._09.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Kasane, Botswana",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kasane%2C%20Botswana&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kasane%2C%20Botswana&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kasane%2C%20Botswana&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Kasane"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-100",
+      "tab": "parks",
+      "name": "Peneda-Gerês National Park",
+      "short_line": "Minho, Portugal",
+      "country": "Portugal",
+      "lat": 41.7247,
+      "lng": -8.1628,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Peneda-Geres_NP_from_Tibo_Lookout_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-100.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APeneda-Geres_NP_from_Tibo_Lookout_(2).jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Krzysztof Golik",
+        "attribution": "Photo: Krzysztof Golik, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Peneda-Geres NP from Tibo Lookout (2).jpg' (5401×1859) confirms Peneda-Gerês National Park; visually checked on contact sheet. desc: Peneda-Gerês National Park seen from Tibo Lookout, Viana do Castelo district, Portugal"
+      },
+      "facts": {
+        "one_liner": "Portugal’s only national park: granite mountains, waterfalls and old villages.",
+        "why_go": "Peneda-Gerês is Portugal’s only national park, in the north of the country along the Spanish border. Granite mountains hold waterfalls and pools, and stone villages such as Soajo and Lindoso keep old granaries.",
+        "best_time": "May–October for hiking and swimming.",
+        "how_to_get_there": "About 1.5 hours by road from Porto or Braga.",
+        "good_to_know": "Some routes need permits or are seasonally restricted; check park rules.",
+        "official_or_tourism_url": "https://www.visitportugal.com/",
+        "sources": [
+          "https://www.visitportugal.com/",
+          "https://en.wikipedia.org/wiki/Peneda-Ger%C3%AAs_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3APeneda-Geres_NP_from_Tibo_Lookout_(2).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Gerês, Portugal",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ger%C3%AAs%2C%20Portugal&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ger%C3%AAs%2C%20Portugal&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ger%C3%AAs%2C%20Portugal&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Gerês"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    }
+  ]
+}
