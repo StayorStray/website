@@ -1397,9 +1397,9 @@
     "luxury": {
       "live_file": "data/luxury.json",
       "archive_dir": "data/decks/luxury/",
-      "approved_count": 50,
+      "approved_count": 100,
       "catalog_target": 100,
-      "scale_target_met": false,
+      "scale_target_met": true,
       "mvp_ready": true,
       "sets": [
         {
@@ -1475,10 +1475,84 @@
             "luxury-049",
             "luxury-050"
           ]
+        },
+        {
+          "id": "luxury-set-004",
+          "file": "set-004.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "luxury-051",
+            "luxury-052",
+            "luxury-053",
+            "luxury-054",
+            "luxury-055",
+            "luxury-056",
+            "luxury-057",
+            "luxury-058",
+            "luxury-059",
+            "luxury-060",
+            "luxury-061",
+            "luxury-062",
+            "luxury-063",
+            "luxury-064",
+            "luxury-065",
+            "luxury-066",
+            "luxury-067",
+            "luxury-068",
+            "luxury-069",
+            "luxury-070"
+          ]
+        },
+        {
+          "id": "luxury-set-005",
+          "file": "set-005.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "luxury-071",
+            "luxury-072",
+            "luxury-073",
+            "luxury-074",
+            "luxury-075",
+            "luxury-076",
+            "luxury-077",
+            "luxury-078",
+            "luxury-079",
+            "luxury-080",
+            "luxury-081",
+            "luxury-082",
+            "luxury-083",
+            "luxury-084",
+            "luxury-085",
+            "luxury-086",
+            "luxury-087",
+            "luxury-088",
+            "luxury-089",
+            "luxury-090"
+          ]
+        },
+        {
+          "id": "luxury-set-006",
+          "file": "set-006.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "luxury-091",
+            "luxury-092",
+            "luxury-093",
+            "luxury-094",
+            "luxury-095",
+            "luxury-096",
+            "luxury-097",
+            "luxury-098",
+            "luxury-099",
+            "luxury-100"
+          ]
         }
       ],
-      "next": "Luxury 051\u2013100 toward 100 (catalog honesty: 50\u2260100)",
-      "latest_set": "set-003"
+      "next": "luxury DONE 100/100",
+      "latest_set": "set-006"
     }
   },
   "other_tabs": [
@@ -1498,5 +1572,5 @@
     "stray_key": "sos_stray_list",
     "scope": "on-device localStorage only; keyed by place id; survives daily rotation"
   },
-  "updated_at": "2026-10-09T01:46:20-05:00"
+  "updated_at": "2026-10-09T01:55:07-05:00"
 }
