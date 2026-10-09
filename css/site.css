@@ -1146,8 +1146,18 @@ body.list-panel-open { overflow: hidden; }
   color: var(--text);
   border-color: var(--muted);
 }
+/* Location Randomizer — gold pill with site navy letters */
 .tab-nav a.tab-nav-wheel {
-  border-color: rgba(232, 196, 124, 0.35);
+  background: var(--accent);
+  color: var(--bg);
+  border-color: var(--accent);
+  font-weight: 700;
+}
+.tab-nav a.tab-nav-wheel:hover,
+.tab-nav a.tab-nav-wheel[aria-current="page"] {
+  background: var(--bg);
+  color: var(--accent);
+  border-color: var(--accent);
 }
 
 /* Submit a Place — visual opposite of dark surface pills */
