@@ -278,6 +278,7 @@
     function renderPlaceSelect(ps) {
       var sorted = ps.slice().sort(function (a, b) { return b.votes - a.votes; });
       if (!state.sel || !sorted.some(function (p) { return p.card_id === state.sel; })) state.sel = sorted[0] ? sorted[0].card_id : null;
+      $('tr-place').hidden = !sorted.length;
       $('tr-place').innerHTML = sorted.map(function (p) { return '<option value="' + esc(p.card_id) + '"' + (p.card_id === state.sel ? ' selected' : '') + '>' + esc(p.place || p.card_id) + ' (' + esc(TAB_LABEL[p.tab] || p.tab) + ')</option>'; }).join('');
     }
     function renderChart(ps) {
