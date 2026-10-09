@@ -1,0 +1,549 @@
+{
+  "id": "countries-set-006",
+  "tab": "countries",
+  "label": "Countries — Set 6 (091–100)",
+  "card_ids": [
+    "countries-091",
+    "countries-092",
+    "countries-093",
+    "countries-094",
+    "countries-095",
+    "countries-096",
+    "countries-097",
+    "countries-098",
+    "countries-099",
+    "countries-100"
+  ],
+  "count": 10,
+  "auditor": "approved — content-to-100 batch: licensed Commons photos visually checked; facts sourced",
+  "created": "2026-10-09T01:12:13-05:00",
+  "cards": [
+    {
+      "id": "countries-091",
+      "tab": "countries",
+      "name": "Samoa",
+      "short_line": "Oceania",
+      "country": "Samoa",
+      "lat": -14.0247,
+      "lng": -171.433,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/To_Sua_Ocean_Trench.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-091.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ATo_Sua_Ocean_Trench.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Gelu Purcelu",
+        "attribution": "Photo: Gelu Purcelu, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:To Sua Ocean Trench.jpg' (5472×3648) confirms Samoa; visually checked on contact sheet. desc: To Sua Ocean Trench"
+      },
+      "facts": {
+        "one_liner": "A wooden ladder drops into the turquoise water of the To Sua Ocean Trench.",
+        "why_go": "Samoa is the heart of Polynesian culture—fa’a Samoa, the Samoan way—with open-sided fale beach huts, lava fields and waterfalls. On the south coast of Upolu, To Sua Ocean Trench is a 30-metre-deep swimming hole connected to the sea by an underwater lava tube, entered by a steep wooden ladder and surrounded by tropical gardens. Explore beaches such as Lalomanu, the Alofaaga blowholes on Savai’i and the Robert Louis Stevenson Museum.",
+        "best_time": "May–October is the drier, cooler season. November–April is hotter and wetter, with cyclone risk.",
+        "how_to_get_there": "Fly into Faleolo International (APW) on Upolu. To Sua is about 1–1.5 hours’ drive from Apia along the south coast.",
+        "good_to_know": "The ladder is steep—take care and check tides and conditions. Sundays are for church and family; many businesses close.",
+        "official_or_tourism_url": "https://www.samoa.travel/",
+        "sources": [
+          "https://www.samoa.travel/",
+          "https://en.wikipedia.org/wiki/To_Sua_Ocean_Trench",
+          "https://en.wikipedia.org/wiki/Samoa",
+          "https://commons.wikimedia.org/wiki/File%3ATo_Sua_Ocean_Trench.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Upolu, Samoa",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Upolu%2C%20Samoa&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Upolu%2C%20Samoa&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Upolu%2C%20Samoa&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Upolu"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:12:13-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "countries-092",
+      "tab": "countries",
+      "name": "Armenia",
+      "short_line": "Western Asia",
+      "country": "Armenia",
+      "lat": 39.8781,
+      "lng": 44.5761,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Monasterio_Khor_Virap%2C_Armenia%2C_2016-10-01%2C_DD_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-092.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMonasterio_Khor_Virap,_Armenia,_2016-10-01,_DD_25.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Diego Delso",
+        "attribution": "Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Monasterio Khor Virap, Armenia, 2016-10-01, DD 25.jpg' (8525×4360) confirms Armenia; visually checked on contact sheet. desc: View of Khor Virap, an Armenian monastery and one of the most visited pilgrimage sites in Armenia located in the Ararat plain with Mount Ararat in the backgroun"
+      },
+      "facts": {
+        "one_liner": "Khor Virap monastery stands on its hill beneath the snowy dome of Mount Ararat.",
+        "why_go": "Armenia was the first nation to adopt Christianity as its state religion, in the early 4th century, and its landscape is dotted with stone monasteries in dramatic settings. Khor Virap, near the Turkish border, stands where St Gregory the Illuminator was imprisoned in a pit before converting King Tiridates III—and it has perhaps the world’s best view of Mount Ararat. Combine it with Geghard, Garni temple, Lake Sevan and Yerevan’s cafés and brandy.",
+        "best_time": "May–June and September–October for clear skies and comfortable temperatures. Ararat is most often visible on clear mornings.",
+        "how_to_get_there": "Fly into Yerevan (EVN). Khor Virap is about 45 minutes’ drive south of Yerevan; taxis and tours are easy to arrange.",
+        "good_to_know": "You can climb down into St Gregory’s pit by a steep ladder. Ararat is in Turkey, and the border here is closed.",
+        "official_or_tourism_url": "https://armenia.travel/",
+        "sources": [
+          "https://armenia.travel/",
+          "https://en.wikipedia.org/wiki/Khor_Virap",
+          "https://en.wikipedia.org/wiki/Armenia",
+          "https://commons.wikimedia.org/wiki/File%3AMonasterio_Khor_Virap,_Armenia,_2016-10-01,_DD_25.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Yerevan, Armenia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Yerevan%2C%20Armenia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Yerevan%2C%20Armenia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Yerevan%2C%20Armenia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Yerevan"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:12:13-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "countries-093",
+      "tab": "countries",
+      "name": "Azerbaijan",
+      "short_line": "Western Asia",
+      "country": "Azerbaijan",
+      "lat": 40.3953,
+      "lng": 49.8822,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/View_From_Maidens_Tower_%28221090097%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-093.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AView_From_Maidens_Tower_(221090097).jpeg",
+        "license": "CC BY 3.0",
+        "author": "Francisco Anzola",
+        "attribution": "Photo: Francisco Anzola, CC BY 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:View From Maidens Tower (221090097).jpeg' (2048×1362) confirms Azerbaijan; visually checked on contact sheet. desc: 500px provided description: View From Maidens Tower [#sky ,#city ,#travel ,#church ,#house ,#tourism ,#urban ,#architecture ,#cityscape ,#building ,#sight ,#tow"
+      },
+      "facts": {
+        "one_liner": "Baku’s Flame Towers rise above the rooftops of the old city near the Caspian Sea.",
+        "why_go": "Azerbaijan, the ‘land of fire’, sits between the Caucasus and the Caspian Sea. Its capital Baku combines the walled Old City (Icherisheher) with the Maiden Tower and the Palace of the Shirvanshahs—a UNESCO World Heritage site—with bold modern architecture such as the Flame Towers and Zaha Hadid’s Heydar Aliyev Center. Walk the seaside boulevard, see the burning hillside of Yanar Dag and the mud volcanoes and rock art of Gobustan.",
+        "best_time": "April–June and September–October for mild weather. Summers are hot and Baku is famously windy.",
+        "how_to_get_there": "Fly into Heydar Aliyev International (GYD), about 30 minutes from central Baku. The metro and taxis serve the city.",
+        "good_to_know": "Check current visa rules (e-visa available for many nationalities). Climb the Maiden Tower for views over the Old City.",
+        "official_or_tourism_url": "https://azerbaijan.travel/",
+        "sources": [
+          "https://azerbaijan.travel/",
+          "https://en.wikipedia.org/wiki/Icherisheher",
+          "https://en.wikipedia.org/wiki/Azerbaijan",
+          "https://commons.wikimedia.org/wiki/File%3AView_From_Maidens_Tower_(221090097).jpeg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Baku, Azerbaijan",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Baku%2C%20Azerbaijan&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Baku%2C%20Azerbaijan&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Baku%2C%20Azerbaijan&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Baku"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:12:13-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "countries-094",
+      "tab": "countries",
+      "name": "Kazakhstan",
+      "short_line": "Central Asia",
+      "country": "Kazakhstan",
+      "lat": 43.3525,
+      "lng": 79.0778,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Charyn_Canyon%2C_Kazakhstan_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-094.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACharyn_Canyon,_Kazakhstan_03.jpg",
+        "license": "CC0",
+        "author": "Bgag",
+        "attribution": "Photo: Bgag, CC0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Charyn Canyon, Kazakhstan 03.jpg' (5184×3323) confirms Kazakhstan; visually checked on contact sheet. desc: Charyn Canyon, Kazakhstan"
+      },
+      "facts": {
+        "one_liner": "Charyn Canyon’s red sandstone walls are carved into towers and gullies.",
+        "why_go": "Kazakhstan, the world’s largest landlocked country, mixes futuristic Astana with vast steppe and the snow peaks of the Tian Shan above Almaty. Charyn Canyon, about 200 km east of Almaty, is often compared to a smaller Grand Canyon: the Valley of Castles section has a walking trail between sandstone formations down to the Charyn River. Combine it with the Kolsai and Kaindy lakes and Almaty’s mountain resort Shymbulak.",
+        "best_time": "April–June and September–October for comfortable hiking temperatures. Summer is hot in the canyon.",
+        "how_to_get_there": "Fly into Almaty (ALA). Charyn is about 3–4 hours by road; most visitors go with a driver or tour.",
+        "good_to_know": "Bring sun protection and plenty of water—there is little shade. There is a small park entry fee.",
+        "official_or_tourism_url": "https://kazakhstan.travel/",
+        "sources": [
+          "https://kazakhstan.travel/",
+          "https://en.wikipedia.org/wiki/Charyn_Canyon",
+          "https://en.wikipedia.org/wiki/Kazakhstan",
+          "https://commons.wikimedia.org/wiki/File%3ACharyn_Canyon,_Kazakhstan_03.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Almaty, Kazakhstan",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Almaty%2C%20Kazakhstan&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Almaty%2C%20Kazakhstan&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Almaty%2C%20Kazakhstan&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Almaty"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:12:13-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "countries-095",
+      "tab": "countries",
+      "name": "Saudi Arabia",
+      "short_line": "Western Asia",
+      "country": "Saudi Arabia",
+      "lat": 26.7917,
+      "lng": 37.9528,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Madain_Saleh_2017_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-095.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMadain_Saleh_2017_02.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Ahmad AlHasanat",
+        "attribution": "Photo: Ahmad AlHasanat, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Madain Saleh 2017 02.jpg' (7360×4912) confirms Saudi Arabia; visually checked on contact sheet. desc: Qasr al Farid, the biggest tomb in the archeological site of Mada'in Saleh. The Nabatean site of Hegra was built around the first century AD."
+      },
+      "facts": {
+        "one_liner": "Qasr al-Farid, a lone Nabataean tomb carved into a sandstone outcrop at Hegra.",
+        "why_go": "Saudi Arabia opened to leisure tourists in 2019, and its desert north is the highlight. Hegra (Al-Hijr/Madain Salih) near AlUla was the kingdom’s first UNESCO World Heritage site: a Nabataean city with more than a hundred monumental tombs carved into sandstone outcrops, built by the same civilisation as Petra. Explore AlUla’s old mud-brick town, the rock art of Jabal Ikmah and the mirrored Maraya concert hall.",
+        "best_time": "October–March for pleasant daytime temperatures; desert nights can be cold. Summer is extremely hot.",
+        "how_to_get_there": "Fly into AlUla International (ULH), with connections via Riyadh and Jeddah. Hegra is visited on official guided tours from the visitor centre.",
+        "good_to_know": "Tickets to Hegra must be booked in advance through the official AlUla site. Dress modestly and respect local customs.",
+        "official_or_tourism_url": "https://www.experiencealula.com/en",
+        "sources": [
+          "https://www.experiencealula.com/en",
+          "https://en.wikipedia.org/wiki/Hegra_(Mada%27in_Salih)",
+          "https://whc.unesco.org/en/list/1293/",
+          "https://en.wikipedia.org/wiki/Saudi_Arabia",
+          "https://commons.wikimedia.org/wiki/File%3AMadain_Saleh_2017_02.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "AlUla, Saudi Arabia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=AlUla%2C%20Saudi%20Arabia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=AlUla%2C%20Saudi%20Arabia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=AlUla%2C%20Saudi%20Arabia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in AlUla"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:12:13-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "countries-096",
+      "tab": "countries",
+      "name": "Liechtenstein",
+      "short_line": "Central Europe",
+      "country": "Liechtenstein",
+      "lat": 47.141,
+      "lng": 9.5215,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ch%C3%A2teau_de_Vaduz_-_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-096.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_de_Vaduz_-_2022.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Christian David",
+        "attribution": "Photo: Christian David, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Château de Vaduz - 2022.jpg' (5543×3837) confirms Liechtenstein; visually checked on contact sheet. desc: Le château de Vaduz en mars 2022."
+      },
+      "facts": {
+        "one_liner": "Vaduz Castle perches on a forested ledge above the capital with Alpine peaks behind.",
+        "why_go": "Liechtenstein is one of the world’s smallest countries, a principality tucked between Switzerland and Austria in the Rhine valley. Vaduz Castle, the official residence of the Prince of Liechtenstein, overlooks the capital from a hillside ledge; it is not open to the public, but trails lead up for close views. Visit the Kunstmuseum and the Prince’s wine cellars, hike the Fürstensteig ridge path, and get a souvenir passport stamp at the visitor centre.",
+        "best_time": "May–October for hiking and vineyard visits; December–March for skiing at Malbun. The national day on 15 August includes celebrations at the castle.",
+        "how_to_get_there": "Fly into Zurich (ZRH), then take a train to Sargans or Buchs in Switzerland and a bus to Vaduz (about 1.5–2 hours total). Buses cross the country quickly.",
+        "good_to_know": "The castle interior is private, but the castle grounds are opened to the public on the national holiday. Swiss francs are the currency.",
+        "official_or_tourism_url": "https://tourismus.li/en/",
+        "sources": [
+          "https://tourismus.li/en/",
+          "https://en.wikipedia.org/wiki/Vaduz_Castle",
+          "https://en.wikipedia.org/wiki/Liechtenstein",
+          "https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_de_Vaduz_-_2022.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Vaduz, Liechtenstein",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Vaduz%2C%20Liechtenstein&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Vaduz%2C%20Liechtenstein&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Vaduz%2C%20Liechtenstein&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Vaduz"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:12:13-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "countries-097",
+      "tab": "countries",
+      "name": "Monaco",
+      "short_line": "Western Europe",
+      "country": "Monaco",
+      "lat": 43.7384,
+      "lng": 7.4246,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Hafen_und_Felsen_von_Monaco-La_Turbie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-097.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AHafen_und_Felsen_von_Monaco-La_Turbie.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Tobi 87",
+        "attribution": "Photo: Tobi 87, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Hafen und Felsen von Monaco-La Turbie.jpg' (9319×4239) confirms Monaco; visually checked on contact sheet. desc: harbour and Rock of Monaco seen from a viewpoint near the village of La Turbie"
+      },
+      "facts": {
+        "one_liner": "Monaco’s yacht-filled harbour and the rock of Monaco-Ville, seen from the heights of La Turbie.",
+        "why_go": "Monaco, the world’s second-smallest country, is a glamorous strip of the Riviera between mountains and sea. Port Hercule fills with superyachts below the Rock, where the Prince’s Palace, the cathedral and the Oceanographic Museum stand on a clifftop old town. Visit the Belle Époque Casino de Monte-Carlo and its gardens, watch the Changing of the Guard, and see the city streets become the Formula 1 Grand Prix circuit each spring.",
+        "best_time": "April–June and September–October for warm, pleasant weather. The Grand Prix (usually May or June) brings huge crowds and prices.",
+        "how_to_get_there": "Fly into Nice Côte d’Azur (NCE), about 30–45 minutes away by bus, train or helicopter. Trains along the coast stop at Monaco-Monte-Carlo station.",
+        "good_to_know": "The casino has a dress code and charges entry to its gaming rooms. Public lifts and escalators help connect Monaco’s steep levels.",
+        "official_or_tourism_url": "https://www.visitmonaco.com/en",
+        "sources": [
+          "https://www.visitmonaco.com/en",
+          "https://en.wikipedia.org/wiki/Monaco",
+          "https://commons.wikimedia.org/wiki/File%3AHafen_und_Felsen_von_Monaco-La_Turbie.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Monaco",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Monaco&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Monaco&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Monaco&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Monaco"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:12:13-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "countries-098",
+      "tab": "countries",
+      "name": "San Marino",
+      "short_line": "Southern Europe",
+      "country": "San Marino",
+      "lat": 43.9356,
+      "lng": 12.4473,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Fortress_of_Guaita_2013-09-19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-098.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AFortress_of_Guaita_2013-09-19.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Max_Ryazanov",
+        "attribution": "Photo: Max_Ryazanov, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Fortress of Guaita 2013-09-19.jpg' (3348×1842) confirms San Marino; visually checked on contact sheet. desc: The fortress of Città di San Marino, viewed from the side of Torre Guaita on Monte Titano (Appennino tosco-romagnolo), Central Italy. UNESCO World Heritage Site"
+      },
+      "facts": {
+        "one_liner": "The Guaita tower crowns a sheer cliff of Monte Titano above the Italian countryside.",
+        "why_go": "San Marino, an enclave inside Italy, claims to be the world’s oldest surviving sovereign state and constitutional republic, traditionally founded in 301. Its historic centre and the three towers on the ridge of Monte Titano are a UNESCO World Heritage site. Walk the Passo delle Streghe path between the Guaita and Cesta towers for views to the Adriatic, browse the old town’s lanes, and watch the changing of the guard at the Palazzo Pubblico.",
+        "best_time": "April–June and September–October for clear views and mild weather. The medieval days festival is held in summer.",
+        "how_to_get_there": "Fly into Rimini (RMI) or Bologna (BLQ). Buses from Rimini reach San Marino in about 45–50 minutes; a cable car links Borgo Maggiore with the old town.",
+        "good_to_know": "There are no border controls with Italy. Sturdy shoes help on the steep cobbled lanes.",
+        "official_or_tourism_url": "https://www.visitsanmarino.com/",
+        "sources": [
+          "https://www.visitsanmarino.com/",
+          "https://en.wikipedia.org/wiki/Three_Towers_of_San_Marino",
+          "https://whc.unesco.org/en/list/1245/",
+          "https://commons.wikimedia.org/wiki/File%3AFortress_of_Guaita_2013-09-19.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "San Marino",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=San%20Marino&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=San%20Marino&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=San%20Marino&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in San Marino"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:12:13-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "countries-099",
+      "tab": "countries",
+      "name": "Tajikistan",
+      "short_line": "Central Asia",
+      "country": "Tajikistan",
+      "lat": 39.075,
+      "lng": 68.37,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Iskanderkul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-099.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AIskanderkul.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Marat Nadjibaev",
+        "attribution": "Photo: Marat Nadjibaev, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Iskanderkul.jpg' (8192×4608) confirms Tajikistan; visually checked on contact sheet. desc: This is a photo of a protected area in Tajikistan"
+      },
+      "facts": {
+        "one_liner": "Iskanderkul’s turquoise water mirrors the Fann Mountains.",
+        "why_go": "Tajikistan is more than 90% mountains, with the Pamir Highway and the jagged Fann Mountains drawing adventurous travellers. Iskanderkul, a mountain lake at about 2,200 m, is named after Alexander the Great, who legend says passed this way. Walk to the nearby waterfall, hike in the Fann range’s turquoise Seven Lakes valley, and experience Tajik hospitality in mountain homestays.",
+        "best_time": "June–September for open passes and hiking; nights are cool at altitude.",
+        "how_to_get_there": "Fly into Dushanbe (DYU). Iskanderkul is about 3–4 hours north by road through the Anzob tunnel; drivers and tours are easy to arrange.",
+        "good_to_know": "Infrastructure is basic—carry cash in somoni. Check current visa and permit rules (e-visas are available for many nationalities).",
+        "official_or_tourism_url": "https://en.wikipedia.org/wiki/Iskanderkul",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Iskanderkul",
+          "https://commons.wikimedia.org/wiki/File%3AIskanderkul.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Dushanbe, Tajikistan",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Dushanbe%2C%20Tajikistan&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Dushanbe%2C%20Tajikistan&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Dushanbe%2C%20Tajikistan&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Dushanbe"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:12:13-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "countries-100",
+      "tab": "countries",
+      "name": "Guyana",
+      "short_line": "South America",
+      "country": "Guyana",
+      "lat": 5.175,
+      "lng": -59.4806,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Kaieteur_Falls_Aerial_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/countries/countries-100.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AKaieteur_Falls_Aerial_02.jpg",
+        "license": "CC BY 2.0",
+        "author": "Amanda",
+        "attribution": "Photo: Amanda, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Kaieteur Falls Aerial 02.jpg' (4896×3672) confirms Guyana; visually checked on contact sheet. desc: Flying by Kaieteur Falls on the plane Guyana"
+      },
+      "facts": {
+        "one_liner": "Kaieteur Falls plunges off a table-top plateau into a deep, forested gorge.",
+        "why_go": "Guyana, on South America’s Caribbean shoulder, is one of the continent’s least-visited countries and mostly covered by pristine rainforest. Kaieteur Falls on the Potaro River is its natural wonder: a single drop of about 226 metres, several times higher than Niagara, carrying a huge volume of water. Day flights from Georgetown land on a strip nearby, followed by a short walk to viewpoints with no crowds and no railings. Add eco-lodges in the Rupununi savannahs.",
+        "best_time": "The falls flow year-round; the fullest flow is in the rainy seasons (roughly May–August and December–January), while drier months bring clearer flying weather.",
+        "how_to_get_there": "Fly into Georgetown (GEO), then take a scheduled or charter light-aircraft flight to Kaieteur (about an hour). Overland trips take several days.",
+        "good_to_know": "Flights can be delayed by weather—leave buffer days. Stay well back from the unguarded edges.",
+        "official_or_tourism_url": "https://guyanatourism.com/",
+        "sources": [
+          "https://guyanatourism.com/",
+          "https://en.wikipedia.org/wiki/Kaieteur_Falls",
+          "https://commons.wikimedia.org/wiki/File%3AKaieteur_Falls_Aerial_02.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Georgetown, Guyana",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Georgetown%2C%20Guyana&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Georgetown%2C%20Guyana&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Georgetown%2C%20Guyana&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Georgetown"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:12:13-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    }
+  ]
+}

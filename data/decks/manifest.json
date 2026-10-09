@@ -382,9 +382,9 @@
     "countries": {
       "live_file": "data/countries.json",
       "archive_dir": "data/decks/countries/",
-      "approved_count": 50,
+      "approved_count": 100,
       "catalog_target": 100,
-      "scale_target_met": false,
+      "scale_target_met": true,
       "mvp_ready": true,
       "sets": [
         {
@@ -460,9 +460,84 @@
             "countries-049",
             "countries-050"
           ]
+        },
+        {
+          "id": "countries-set-004",
+          "file": "set-004.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "countries-051",
+            "countries-052",
+            "countries-053",
+            "countries-054",
+            "countries-055",
+            "countries-056",
+            "countries-057",
+            "countries-058",
+            "countries-059",
+            "countries-060",
+            "countries-061",
+            "countries-062",
+            "countries-063",
+            "countries-064",
+            "countries-065",
+            "countries-066",
+            "countries-067",
+            "countries-068",
+            "countries-069",
+            "countries-070"
+          ]
+        },
+        {
+          "id": "countries-set-005",
+          "file": "set-005.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "countries-071",
+            "countries-072",
+            "countries-073",
+            "countries-074",
+            "countries-075",
+            "countries-076",
+            "countries-077",
+            "countries-078",
+            "countries-079",
+            "countries-080",
+            "countries-081",
+            "countries-082",
+            "countries-083",
+            "countries-084",
+            "countries-085",
+            "countries-086",
+            "countries-087",
+            "countries-088",
+            "countries-089",
+            "countries-090"
+          ]
+        },
+        {
+          "id": "countries-set-006",
+          "file": "set-006.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "countries-091",
+            "countries-092",
+            "countries-093",
+            "countries-094",
+            "countries-095",
+            "countries-096",
+            "countries-097",
+            "countries-098",
+            "countries-099",
+            "countries-100"
+          ]
         }
       ],
-      "next": "Countries 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
+      "next": "countries DONE 100/100",
+      "latest_set": "set-006"
     },
     "arenas": {
       "live_file": "data/arenas.json",
@@ -977,5 +1052,5 @@
     "stray_key": "sos_stray_list",
     "scope": "on-device localStorage only; keyed by place id; survives daily rotation"
   },
-  "updated_at": "2026-10-09T01:00:58-05:00"
+  "updated_at": "2026-10-09T01:12:13-05:00"
 }
