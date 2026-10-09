@@ -1096,7 +1096,7 @@
       "next": "parks DONE 100/100"
     },
     "landmarks": {
-      "approved": 50,
+      "approved": 100,
       "mvp_ready": true,
       "sets": [
         {
@@ -1150,15 +1150,89 @@
             "landmarks-049",
             "landmarks-050"
           ]
+        },
+        {
+          "id": "landmarks-set-004",
+          "file": "set-004.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "landmarks-051",
+            "landmarks-052",
+            "landmarks-053",
+            "landmarks-054",
+            "landmarks-055",
+            "landmarks-056",
+            "landmarks-057",
+            "landmarks-058",
+            "landmarks-059",
+            "landmarks-060",
+            "landmarks-061",
+            "landmarks-062",
+            "landmarks-063",
+            "landmarks-064",
+            "landmarks-065",
+            "landmarks-066",
+            "landmarks-067",
+            "landmarks-068",
+            "landmarks-069",
+            "landmarks-070"
+          ]
+        },
+        {
+          "id": "landmarks-set-005",
+          "file": "set-005.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "landmarks-071",
+            "landmarks-072",
+            "landmarks-073",
+            "landmarks-074",
+            "landmarks-075",
+            "landmarks-076",
+            "landmarks-077",
+            "landmarks-078",
+            "landmarks-079",
+            "landmarks-080",
+            "landmarks-081",
+            "landmarks-082",
+            "landmarks-083",
+            "landmarks-084",
+            "landmarks-085",
+            "landmarks-086",
+            "landmarks-087",
+            "landmarks-088",
+            "landmarks-089",
+            "landmarks-090"
+          ]
+        },
+        {
+          "id": "landmarks-set-006",
+          "file": "set-006.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "landmarks-091",
+            "landmarks-092",
+            "landmarks-093",
+            "landmarks-094",
+            "landmarks-095",
+            "landmarks-096",
+            "landmarks-097",
+            "landmarks-098",
+            "landmarks-099",
+            "landmarks-100"
+          ]
         }
       ],
-      "latest_set": "set-003",
+      "latest_set": "set-006",
       "live_file": "data/landmarks.json",
       "archive_dir": "data/decks/landmarks/",
-      "approved_count": 50,
+      "approved_count": 100,
       "catalog_target": 100,
-      "scale_target_met": false,
-      "next": "Landmarks 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
+      "scale_target_met": true,
+      "next": "landmarks DONE 100/100"
     },
     "islands": {
       "live_file": "data/islands.json",
@@ -1350,5 +1424,5 @@
     "stray_key": "sos_stray_list",
     "scope": "on-device localStorage only; keyed by place id; survives daily rotation"
   },
-  "updated_at": "2026-10-09T01:37:32-05:00"
+  "updated_at": "2026-10-09T01:41:35-05:00"
 }

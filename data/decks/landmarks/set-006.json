@@ -1,0 +1,539 @@
+{
+  "id": "landmarks-set-006",
+  "tab": "landmarks",
+  "label": "Landmarks — Set 6 (091–100)",
+  "card_ids": [
+    "landmarks-091",
+    "landmarks-092",
+    "landmarks-093",
+    "landmarks-094",
+    "landmarks-095",
+    "landmarks-096",
+    "landmarks-097",
+    "landmarks-098",
+    "landmarks-099",
+    "landmarks-100"
+  ],
+  "count": 10,
+  "auditor": "approved — content-to-100 batch: licensed Commons photos visually checked; facts sourced",
+  "created": "2026-10-09T01:41:35-05:00",
+  "cards": [
+    {
+      "id": "landmarks-091",
+      "tab": "landmarks",
+      "name": "Victoria Memorial",
+      "short_line": "Kolkata, India",
+      "country": "India",
+      "lat": 22.5449,
+      "lng": 88.3425,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Victoria_Memorial_situated_in_Kolkata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-091.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AVictoria_Memorial_situated_in_Kolkata.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Subhrajyoti07",
+        "attribution": "Photo: Subhrajyoti07, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Victoria Memorial situated in Kolkata.jpg' (12725×5694) confirms Victoria Memorial; visually checked on contact sheet. desc: The Victoria Memorial is a large marble building in Kolkata (formerly Calcutta), West Bengal, India, which was built between 1906 and 1921. It is dedicated to t"
+      },
+      "facts": {
+        "one_liner": "A white marble memorial hall set in gardens in Kolkata.",
+        "why_go": "The Victoria Memorial is a vast white Makrana marble hall built between 1906 and 1921 in memory of Queen Victoria, when Calcutta was the capital of British India. Its architecture blends British and Mughal styles, with a central dome topped by a bronze Angel of Victory. Inside is a museum of paintings and artefacts, and its 64 acres of gardens are a favourite place for locals to stroll.",
+        "best_time": "October–March for cooler weather; evenings for the illuminated building.",
+        "how_to_get_there": "Next to the Maidan in central Kolkata; Maidan and Rabindra Sadan metro stations are nearby.",
+        "good_to_know": "The museum galleries are closed on Mondays; the gardens have separate opening hours.",
+        "official_or_tourism_url": "https://victoriamemorial-cal.org/",
+        "sources": [
+          "https://victoriamemorial-cal.org/",
+          "https://en.wikipedia.org/wiki/Victoria_Memorial%2C_Kolkata",
+          "https://commons.wikimedia.org/wiki/File%3AVictoria_Memorial_situated_in_Kolkata.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Kolkata, India",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kolkata%2C%20India&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kolkata%2C%20India&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kolkata%2C%20India&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Kolkata"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:41:35-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "landmarks-092",
+      "tab": "landmarks",
+      "name": "Great Mosque of Djenné",
+      "short_line": "Djenné, Mali",
+      "country": "Mali",
+      "lat": 13.9053,
+      "lng": -4.5556,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Djenne_great_mud_mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-092.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ADjenne_great_mud_mosque.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Ruud Zwart",
+        "attribution": "Photo: Ruud Zwart, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Djenne great mud mosque.jpg' (2048×1362) confirms Great Mosque of Djenné; visually checked on contact sheet. desc: Great Mud Mosque, Djenné, Mali"
+      },
+      "facts": {
+        "one_liner": "The world’s largest mud-brick building.",
+        "why_go": "The Great Mosque of Djenné is the largest mud-brick building in the world and a masterpiece of Sudano-Sahelian architecture. The current structure was completed in 1907. Its walls bristle with palm-wood beams that serve as scaffolding when the whole town gathers for the annual Crépissage festival to replaster the mosque with fresh mud. It is part of the Old Towns of Djenné UNESCO World Heritage Site.",
+        "best_time": "November–February for the coolest, driest weather.",
+        "how_to_get_there": "Djenné is in central Mali, roughly a day’s drive from Bamako, with a ferry crossing of the Bani River.",
+        "good_to_know": "Many governments currently advise against travel to Mali—check official advice. Non-Muslims cannot enter the mosque.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/116",
+        "sources": [
+          "https://whc.unesco.org/en/list/116",
+          "https://en.wikipedia.org/wiki/Great_Mosque_of_Djenn%C3%A9",
+          "https://commons.wikimedia.org/wiki/File%3ADjenne_great_mud_mosque.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Djenné, Mali",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Djenn%C3%A9%2C%20Mali&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Djenn%C3%A9%2C%20Mali&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Djenn%C3%A9%2C%20Mali&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Djenné"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:41:35-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "landmarks-093",
+      "tab": "landmarks",
+      "name": "Kronborg",
+      "short_line": "Helsingør, Denmark",
+      "country": "Denmark",
+      "lat": 56.0386,
+      "lng": 12.6219,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Kronborg_April_2026_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-093.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AKronborg_April_2026_06.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "ArildV",
+        "attribution": "Photo: ArildV, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Kronborg April 2026 06.jpg' (7700×4812) confirms Kronborg; visually checked on contact sheet. desc: Kronborg is a castle and historical stronghold in the town of Helsingør, Denmark. Immortalised as Elsinore in William Shakespeare's play Hamlet, Kronborg is one"
+      },
+      "facts": {
+        "one_liner": "Hamlet’s castle guarding the Øresund strait.",
+        "why_go": "Kronborg is a Renaissance castle on a promontory at Helsingør, guarding the narrowest point of the Øresund strait between Denmark and Sweden. For centuries it collected the Sound Dues from passing ships. It is immortalised as Elsinore, the setting of Shakespeare’s Hamlet, and is a UNESCO World Heritage Site. Visitors explore the royal apartments, the great ballroom and the dark casemates where the statue of Holger the Dane sleeps.",
+        "best_time": "May–September; summer brings Hamlet performances in the courtyard.",
+        "how_to_get_there": "About 45 minutes by train from Copenhagen to Helsingør, then a short walk; ferries cross to Helsingborg, Sweden.",
+        "good_to_know": "Allow 2–3 hours. Combine with the M/S Maritime Museum of Denmark next door.",
+        "official_or_tourism_url": "https://kronborg.dk/en/",
+        "sources": [
+          "https://kronborg.dk/en/",
+          "https://en.wikipedia.org/wiki/Kronborg",
+          "https://commons.wikimedia.org/wiki/File%3AKronborg_April_2026_06.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Helsingør, Denmark",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Helsing%C3%B8r%2C%20Denmark&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Helsing%C3%B8r%2C%20Denmark&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Helsing%C3%B8r%2C%20Denmark&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Helsingør"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:41:35-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "landmarks-094",
+      "tab": "landmarks",
+      "name": "Temple of Poseidon, Sounion",
+      "short_line": "Attica, Greece",
+      "country": "Greece",
+      "lat": 37.6503,
+      "lng": 24.0246,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Greece_Cape_Sounion_BW_2017-10-09_10-12-43.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-094.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AGreece_Cape_Sounion_BW_2017-10-09_10-12-43.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Berthold Werner",
+        "attribution": "Photo: Berthold Werner, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Greece Cape Sounion BW 2017-10-09 10-12-43.jpg' (5580×3972) confirms Temple of Poseidon, Sounion; visually checked on contact sheet. desc: Greece, Temple of Poseidon at Cape Sounion"
+      },
+      "facts": {
+        "one_liner": "A marble temple on a cliff over the Aegean.",
+        "why_go": "The Temple of Poseidon stands on Cape Sounion, at the southern tip of Attica, about 60 metres above the Aegean. Built around 440 BC, its white marble Doric columns were a landmark for sailors returning to Athens. Lord Byron carved his name on one of the columns, and sunsets over the sea here are among the most famous in Greece.",
+        "best_time": "Year-round; sunset is magical, especially in spring and autumn.",
+        "how_to_get_there": "About 1.5 hours by car or bus from Athens along the scenic coastal road.",
+        "good_to_know": "The site is busy at sunset in summer—arrive early. The temple is roped off; views are from around it.",
+        "official_or_tourism_url": "https://en.wikipedia.org/wiki/Sounion",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Sounion",
+          "https://commons.wikimedia.org/wiki/File%3AGreece_Cape_Sounion_BW_2017-10-09_10-12-43.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Sounion, Greece",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sounion%2C%20Greece&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sounion%2C%20Greece&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sounion%2C%20Greece&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Sounion"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:41:35-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "landmarks-095",
+      "tab": "landmarks",
+      "name": "Alcázar of Segovia",
+      "short_line": "Segovia, Spain",
+      "country": "Spain",
+      "lat": 40.9528,
+      "lng": -4.1325,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Segovia_-_Alc%C3%A1zar_de_Segovia_22_2017-10-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-095.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASegovia_-_Alc%C3%A1zar_de_Segovia_22_2017-10-24.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Rafa Esteve",
+        "attribution": "Photo: Rafa Esteve, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Segovia - Alcázar de Segovia 22 2017-10-24.jpg' (5184×3456) confirms Alcázar of Segovia; visually checked on contact sheet. desc: Vista del Alcázar de Segovia al atardecer\n\n\n\n\n\nThis is a photo of a monument listed in the Spanish heritage register of Bienes de Interés Cultural under the ref"
+      },
+      "facts": {
+        "one_liner": "A castle on a rocky crag, said to have inspired Disney.",
+        "why_go": "The Alcázar of Segovia rises on a rocky crag above the confluence of the Eresma and Clamores rivers, its slender turrets and slate spires making it one of the most distinctive castles in Spain—often said to have inspired Disney’s castles. Once a royal palace, it later housed a military academy. Inside are richly decorated halls, and the Tower of John II gives sweeping views over Segovia and the plains. It is part of the Old Town of Segovia UNESCO site.",
+        "best_time": "Spring and autumn for mild weather and clear views.",
+        "how_to_get_there": "About 30 minutes by high-speed train from Madrid to Segovia, then a bus or taxi into the old town.",
+        "good_to_know": "The tower climb has about 150 steps. Combine with the aqueduct and cathedral in a day.",
+        "official_or_tourism_url": "https://www.alcazardesegovia.com/",
+        "sources": [
+          "https://www.alcazardesegovia.com/",
+          "https://en.wikipedia.org/wiki/Alc%C3%A1zar_of_Segovia",
+          "https://commons.wikimedia.org/wiki/File%3ASegovia_-_Alc%C3%A1zar_de_Segovia_22_2017-10-24.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Segovia, Spain",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Segovia%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Segovia%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Segovia%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Segovia"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:41:35-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "landmarks-096",
+      "tab": "landmarks",
+      "name": "Palenque",
+      "short_line": "Chiapas, Mexico",
+      "country": "Mexico",
+      "lat": 17.4842,
+      "lng": -92.0464,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Palenque_temple_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-096.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APalenque_temple_1.jpg",
+        "license": "CC BY 4.0",
+        "author": "Jan Harenburg",
+        "attribution": "Photo: Jan Harenburg, CC BY 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Palenque temple 1.jpg' (2000×1333) confirms Palenque; visually checked on contact sheet. desc: Palenque ( Chiapas ). Temple of inscriptions"
+      },
+      "facts": {
+        "one_liner": "Maya temples emerging from the rainforest.",
+        "why_go": "Palenque is one of the most beautiful Maya cities, set against the jungle-covered foothills of Chiapas. Its Temple of the Inscriptions contains the tomb of the great ruler K’inich Janaab’ Pakal, discovered in 1952, and the Palace complex has a distinctive four-storey tower. Howler monkeys call from the surrounding rainforest. It is a UNESCO World Heritage Site.",
+        "best_time": "November–April, the drier season; go early before the heat.",
+        "how_to_get_there": "About 8 km from the town of Palenque, which has bus links and a small airport; colectivos run to the site.",
+        "good_to_know": "Bring insect repellent and water. The on-site museum is worth a visit.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/411",
+        "sources": [
+          "https://whc.unesco.org/en/list/411",
+          "https://en.wikipedia.org/wiki/Palenque",
+          "https://commons.wikimedia.org/wiki/File%3APalenque_temple_1.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Palenque, Chiapas, Mexico",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Palenque%2C%20Chiapas%2C%20Mexico&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Palenque%2C%20Chiapas%2C%20Mexico&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Palenque%2C%20Chiapas%2C%20Mexico&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Palenque"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:41:35-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "landmarks-097",
+      "tab": "landmarks",
+      "name": "Château de Chenonceau",
+      "short_line": "Indre-et-Loire, France",
+      "country": "France",
+      "lat": 47.3249,
+      "lng": 1.0703,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Ch%C3%A2teau_de_Chenonceau_et_tour_des_Marques_-_ouest_%28Chenonceaux%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-097.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_de_Chenonceau_et_tour_des_Marques_-_ouest_(Chenonceaux)_(1).jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Gzen92",
+        "attribution": "Photo: Gzen92, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Château de Chenonceau et tour des Marques - ouest (Chenonceaux) (1).jpg' (5472×3648) confirms Château de Chenonceau; visually checked on contact sheet. desc: Chenonceau castle and Marques tower view of the west (Chenonceaux, Indre-et-Loire, France)."
+      },
+      "facts": {
+        "one_liner": "A Renaissance château built across the River Cher.",
+        "why_go": "Chenonceau spans the River Cher on a gallery of arches, making it one of the most romantic châteaux in the Loire Valley. It is known as the ‘Ladies’ Château’ because women shaped its history, including Diane de Poitiers and Catherine de’ Medici, who added the gallery across the river. Its gardens, maze and flower-filled rooms are beautiful, and it is part of the Loire Valley UNESCO World Heritage Site.",
+        "best_time": "April–October; summer evenings may have illuminated garden walks.",
+        "how_to_get_there": "Trains from Tours reach Chenonceaux station in about 30 minutes; the château is a short walk away.",
+        "good_to_know": "Ticket includes the gardens. Rowing boats can be hired in summer for a view from the river.",
+        "official_or_tourism_url": "https://www.chenonceau.com/en",
+        "sources": [
+          "https://www.chenonceau.com/en",
+          "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chenonceau",
+          "https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_de_Chenonceau_et_tour_des_Marques_-_ouest_(Chenonceaux)_(1).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Chenonceaux, France",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Chenonceaux%2C%20France&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Chenonceaux%2C%20France&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Chenonceaux%2C%20France&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Chenonceaux"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:41:35-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "landmarks-098",
+      "tab": "landmarks",
+      "name": "Hawa Mahal",
+      "short_line": "Jaipur, Rajasthan, India",
+      "country": "India",
+      "lat": 26.9239,
+      "lng": 75.8267,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Hawa_Mahal_east_facade_%2814-07-2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-098.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AHawa_Mahal_east_facade_(14-07-2022).jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Chainwit.",
+        "attribution": "Photo: Chainwit., CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Hawa Mahal east facade (14-07-2022).jpg' (4032×3024) confirms Hawa Mahal; visually checked on contact sheet. desc: Facade of Jaipur Hawa Mahal from Tattoo Cafe"
+      },
+      "facts": {
+        "one_liner": "The pink sandstone ‘Palace of Winds’ with 953 windows.",
+        "why_go": "Built in 1799 by Maharaja Sawai Pratap Singh, the Hawa Mahal or ‘Palace of Winds’ is a five-storey pink sandstone façade with 953 small windows (jharokhas). The latticework let royal women watch processions and street life without being seen, while breezes cooled the rooms. It is one of the most recognisable sights of Jaipur’s Pink City.",
+        "best_time": "October–March; early morning sun lights up the façade.",
+        "how_to_get_there": "In Jaipur’s old city on Badi Choupad; the entrance is at the back of the building.",
+        "good_to_know": "Cafés across the street have terraces with views of the façade.",
+        "official_or_tourism_url": "https://en.wikipedia.org/wiki/Hawa_Mahal",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Hawa_Mahal",
+          "https://commons.wikimedia.org/wiki/File%3AHawa_Mahal_east_facade_(14-07-2022).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Jaipur, Rajasthan, India",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Jaipur%2C%20Rajasthan%2C%20India&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Jaipur%2C%20Rajasthan%2C%20India&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Jaipur%2C%20Rajasthan%2C%20India&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Jaipur"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:41:35-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "landmarks-099",
+      "tab": "landmarks",
+      "name": "Plaza de España, Seville",
+      "short_line": "Seville, Spain",
+      "country": "Spain",
+      "lat": 37.3772,
+      "lng": -5.9869,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-099.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APlaza_de_Espa%C3%B1a_(Sevilla)_-_01.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Carlos Delgado",
+        "attribution": "Photo: Carlos Delgado, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Plaza de España (Sevilla) - 01.jpg' (3888×2592) confirms Plaza de España, Seville; visually checked on contact sheet. desc: Plaza de España (Spain Square), Seville, Andalusia, Spain."
+      },
+      "facts": {
+        "one_liner": "A grand semicircular plaza of tiled alcoves and canal bridges.",
+        "why_go": "Built for the 1929 Ibero-American Exposition, the Plaza de España is a huge semicircular plaza in Parque de María Luisa. Its brick buildings are decorated with Renaissance and Moorish-revival towers, and alcoves of painted tiles represent the provinces of Spain. A canal crossed by tiled bridges curves around the square, and rowing boats can be hired.",
+        "best_time": "March–May and October–November; summer is extremely hot.",
+        "how_to_get_there": "About 15–20 minutes’ walk from Seville Cathedral; the Prado de San Sebastián tram and metro stop is nearby.",
+        "good_to_know": "The plaza is free to visit. Flamenco dancers and street musicians often perform here.",
+        "official_or_tourism_url": "https://en.wikipedia.org/wiki/Plaza_de_Espa%C3%B1a_(Seville)",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Plaza_de_Espa%C3%B1a_(Seville)",
+          "https://en.wikipedia.org/wiki/Plaza_de_Espa%C3%B1a_%28Seville%29",
+          "https://commons.wikimedia.org/wiki/File%3APlaza_de_Espa%C3%B1a_(Sevilla)_-_01.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Seville, Spain",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Seville%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Seville%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Seville%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Seville"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:41:35-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "landmarks-100",
+      "tab": "landmarks",
+      "name": "Rila Monastery",
+      "short_line": "Rila Mountains, Bulgaria",
+      "country": "Bulgaria",
+      "lat": 42.1335,
+      "lng": 23.3403,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Rila_Monastery_%28%D0%A0%D0%B8%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80%29_-_by_Pudelek.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/landmarks/landmarks-100.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ARila_Monastery_(%D0%A0%D0%B8%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80)_-_by_Pudelek.JPG",
+        "license": "CC BY-SA 3.0",
+        "author": "Pudelek (Marcin Szala)",
+        "attribution": "Photo: Pudelek (Marcin Szala), CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Rila Monastery (Рилски манастир) - by Pudelek.JPG' (2885×2087) confirms Rila Monastery; visually checked on contact sheet. desc: Rila Monastery, Bulgaria"
+      },
+      "facts": {
+        "one_liner": "Bulgaria’s largest monastery with striped arcades and frescoes.",
+        "why_go": "Founded in the 10th century by the hermit Saint John of Rila, Rila Monastery is the largest and most famous Eastern Orthodox monastery in Bulgaria. Set in a forested valley of the Rila Mountains, it is surrounded by striped arcades and wooden balconies. The Church of the Nativity is covered with colourful frescoes, and the medieval Hrelyo’s Tower survives. It is a UNESCO World Heritage Site.",
+        "best_time": "May–October; autumn colours in the valley are beautiful.",
+        "how_to_get_there": "About 2 hours by road from Sofia; day tours and a daily bus are available.",
+        "good_to_know": "Dress modestly and photography may be restricted inside the church. Simple rooms are available in the monastery.",
+        "official_or_tourism_url": "https://whc.unesco.org/en/list/216",
+        "sources": [
+          "https://whc.unesco.org/en/list/216",
+          "https://commons.wikimedia.org/wiki/File%3ARila_Monastery_(%D0%A0%D0%B8%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80)_-_by_Pudelek.JPG"
+        ]
+      },
+      "ad": {
+        "destination_query": "Rila, Bulgaria",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rila%2C%20Bulgaria&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rila%2C%20Bulgaria&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rila%2C%20Bulgaria&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Rila"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:41:35-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    }
+  ]
+}

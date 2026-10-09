@@ -2577,5 +2577,2588 @@
     },
     "lat": 0.8056,
     "lng": -77.5861
+  },
+  {
+    "id": "landmarks-051",
+    "tab": "landmarks",
+    "name": "Terracotta Army",
+    "short_line": "Xi’an, Shaanxi, China",
+    "country": "China",
+    "lat": 34.385,
+    "lng": 109.2731,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Terracotta_Army%2C_View_of_Pit_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-051.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATerracotta_Army,_View_of_Pit_1.jpg",
+      "license": "CC BY 3.0",
+      "author": "Jmhullot",
+      "attribution": "Photo: Jmhullot, CC BY 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Terracotta Army, View of Pit 1.jpg' (5472×3648) confirms Terracotta Army; visually checked on contact sheet. desc: Pit one, which is 230 metres (750 ft) long and 62 metres (203 ft) wide,[30] contains the main army of more than 6,000 figures.[31] Pit one has 11 corridors, mos"
+    },
+    "facts": {
+      "one_liner": "Thousands of life-size clay warriors guarding China’s first emperor.",
+      "why_go": "Discovered by farmers digging a well in 1974, the Terracotta Army was buried around 210 BC to protect Qin Shi Huang, the first emperor of a unified China, in the afterlife. Pit 1 alone holds ranks of more than 6,000 estimated figures, each with an individual face, alongside horses, chariots and bronze weapons. The site is part of the UNESCO-listed Mausoleum of the First Qin Emperor.",
+      "best_time": "March–May and September–October for mild weather; avoid Chinese national holidays.",
+      "how_to_get_there": "About 1 hour by bus or taxi east of central Xi’an; tourist bus routes run from Xi’an Railway Station.",
+      "good_to_know": "Tickets are sold online with ID—bring your passport. Pit 1 is the largest; allow at least half a day.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Terracotta_Army",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Terracotta_Army",
+        "https://commons.wikimedia.org/wiki/File%3ATerracotta_Army,_View_of_Pit_1.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Xi’an, Shaanxi, China",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Xi%E2%80%99an%2C%20Shaanxi%2C%20China&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Xi%E2%80%99an%2C%20Shaanxi%2C%20China&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Xi%E2%80%99an%2C%20Shaanxi%2C%20China&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Xi’an"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-052",
+    "tab": "landmarks",
+    "name": "Potala Palace",
+    "short_line": "Lhasa, Tibet, China",
+    "country": "China",
+    "lat": 29.6578,
+    "lng": 91.1169,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Potala_Palace_%2823651397662%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-052.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APotala_Palace_(23651397662).jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Laika ac from UK",
+      "attribution": "Photo: Laika ac from UK, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Potala Palace (23651397662).jpg' (4414×3319) confirms Potala Palace; visually checked on contact sheet. desc: Potala Palace"
+    },
+    "facts": {
+      "one_liner": "The Dalai Lamas’ thousand-room palace rising above Lhasa.",
+      "why_go": "Built mainly in the 17th century on Marpo Ri hill, the Potala Palace was the winter residence of the Dalai Lamas and the seat of Tibetan government. Its White Palace and Red Palace rise 13 storeys above Lhasa at about 3,700 metres, containing chapels, stupa-tombs and thousands of artworks. It is a UNESCO World Heritage Site together with the Jokhang Temple and Norbulingka.",
+      "best_time": "April–October; May–June and September–October have clear skies.",
+      "how_to_get_there": "Lhasa is reached by flights from Chengdu and other Chinese cities, or on the Qinghai–Tibet Railway.",
+      "good_to_know": "Foreign visitors need a Tibet Travel Permit and must join an organised tour. Visits are timed—climb the steps slowly at this altitude.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Potala_Palace",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Potala_Palace",
+        "https://commons.wikimedia.org/wiki/File%3APotala_Palace_(23651397662).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Lhasa, Tibet, China",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Lhasa%2C%20Tibet%2C%20China&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Lhasa%2C%20Tibet%2C%20China&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Lhasa%2C%20Tibet%2C%20China&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Lhasa"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-053",
+    "tab": "landmarks",
+    "name": "Kinkaku-ji",
+    "short_line": "Kyoto, Japan",
+    "country": "Japan",
+    "lat": 35.0395,
+    "lng": 135.7285,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Water_reflection_of_Kinkaku-ji_Temple_with_blue_sky_and_white_clouds%2C_Kyoto%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-053.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AWater_reflection_of_Kinkaku-ji_Temple_with_blue_sky_and_white_clouds,_Kyoto,_Japan.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Basile Morin",
+      "attribution": "Photo: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Water reflection of Kinkaku-ji Temple with blue sky and white clouds, Kyoto, Japan.jpg' (6532×4355) confirms Kinkaku-ji; visually checked on contact sheet. desc: Water reflection of Kinkaku-ji Temple, a sunny day with blue sky and white clouds, in Kyoto, Japan."
+    },
+    "facts": {
+      "one_liner": "Kyoto’s gold-leaf pavilion mirrored in a garden pond.",
+      "why_go": "Kinkaku-ji, the Golden Pavilion, is a Zen temple whose upper two floors are covered in gold leaf. Originally a retirement villa of shogun Ashikaga Yoshimitsu, it became a temple after his death in 1408. The current pavilion is a 1955 reconstruction after it was burned down by a monk in 1950. It reflects in the Kyōko-chi (Mirror Pond) and is part of the Historic Monuments of Ancient Kyoto UNESCO site.",
+      "best_time": "November for autumn leaves; winter snow makes rare, magical views.",
+      "how_to_get_there": "Kyoto city buses 101, 102, 204 and 205 stop at Kinkakuji-michi; about 40 minutes from Kyoto Station.",
+      "good_to_know": "You view the pavilion from across the pond—the interior is not open. Arrive at opening time to beat tour groups.",
+      "official_or_tourism_url": "https://www.shokoku-ji.jp/en/kinkakuji/",
+      "sources": [
+        "https://www.shokoku-ji.jp/en/kinkakuji/",
+        "https://en.wikipedia.org/wiki/Kinkaku-ji",
+        "https://commons.wikimedia.org/wiki/File%3AWater_reflection_of_Kinkaku-ji_Temple_with_blue_sky_and_white_clouds,_Kyoto,_Japan.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kyoto, Japan",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kyoto%2C%20Japan&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kyoto%2C%20Japan&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kyoto%2C%20Japan&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kyoto"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-054",
+    "tab": "landmarks",
+    "name": "Itsukushima Shrine",
+    "short_line": "Miyajima, Hiroshima, Japan",
+    "country": "Japan",
+    "lat": 34.2958,
+    "lng": 132.3201,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Itsukushima_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-054.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AItsukushima_Gate.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "JordyMeow",
+      "attribution": "Photo: JordyMeow, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Itsukushima Gate.jpg' (4200×2803) confirms Itsukushima Shrine; visually checked on contact sheet. desc: The torii gate at Itsukushima Shrine on the island of Itsukushima (popularly known as Miyajima) in Hiroshima Prefecture, Japan"
+    },
+    "facts": {
+      "one_liner": "A vermilion torii gate that seems to float on the sea at high tide.",
+      "why_go": "Itsukushima Shrine on Miyajima island is built over the water of the Seto Inland Sea, and its great torii gate appears to float at high tide. At low tide you can walk out to the gate. Wild deer roam the island, and a ropeway climbs Mount Misen for views over the sea. The shrine is a UNESCO World Heritage Site.",
+      "best_time": "Spring and autumn; check tide tables for high-tide views or a low-tide walk.",
+      "how_to_get_there": "Ferries from Miyajimaguchi (about 30 minutes by train from Hiroshima) take 10 minutes.",
+      "good_to_know": "A small visitor tax is charged on entering Miyajima. Do not feed the deer.",
+      "official_or_tourism_url": "https://www.itsukushimajinja.jp/en/",
+      "sources": [
+        "https://www.itsukushimajinja.jp/en/",
+        "https://en.wikipedia.org/wiki/Itsukushima_Shrine",
+        "https://commons.wikimedia.org/wiki/File%3AItsukushima_Gate.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Miyajima, Hiroshima, Japan",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Miyajima%2C%20Hiroshima%2C%20Japan&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Miyajima%2C%20Hiroshima%2C%20Japan&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Miyajima%2C%20Hiroshima%2C%20Japan&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Miyajima"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-055",
+    "tab": "landmarks",
+    "name": "Prambanan",
+    "short_line": "Yogyakarta, Indonesia",
+    "country": "Indonesia",
+    "lat": -7.7522,
+    "lng": 110.4917,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Widok_na_%C5%9Bwi%C4%85tyni%C4%99_Prambanan_na_Jawie%2C_20220818_1315_9157.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-055.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AWidok_na_%C5%9Bwi%C4%85tyni%C4%99_Prambanan_na_Jawie,_20220818_1315_9157.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Jakub Hałun",
+      "attribution": "Photo: Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Widok na świątynię Prambanan na Jawie, 20220818 1315 9157.jpg' (4476×2988) confirms Prambanan; visually checked on contact sheet. desc: North view of Prambanan temple, Java, Indonesia"
+    },
+    "facts": {
+      "one_liner": "Soaring 9th-century Hindu temple spires on Java.",
+      "why_go": "Prambanan is the largest Hindu temple compound in Indonesia, built in the 9th century and dedicated to the Trimurti: Shiva, Vishnu and Brahma. Its central Shiva temple rises about 47 metres, and the walls are carved with scenes from the Ramayana. It is a UNESCO World Heritage Site, and the Ramayana Ballet is performed nearby.",
+      "best_time": "April–October, the dry season; late afternoon light is beautiful.",
+      "how_to_get_there": "About 17 km east of Yogyakarta; buses and taxis are easy to find.",
+      "good_to_know": "Combine with Borobudur—combo tickets are available. Sarongs may be required.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Prambanan",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Prambanan",
+        "https://commons.wikimedia.org/wiki/File%3AWidok_na_%C5%9Bwi%C4%85tyni%C4%99_Prambanan_na_Jawie,_20220818_1315_9157.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Yogyakarta, Indonesia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Yogyakarta%2C%20Indonesia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Yogyakarta%2C%20Indonesia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Yogyakarta%2C%20Indonesia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Yogyakarta"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-056",
+    "tab": "landmarks",
+    "name": "Bagan",
+    "short_line": "Mandalay Region, Myanmar",
+    "country": "Myanmar",
+    "lat": 21.1725,
+    "lng": 94.86,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/20160801_Bagan_temples_6701.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-056.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3A20160801_Bagan_temples_6701.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Jakub Hałun",
+      "attribution": "Photo: Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:20160801 Bagan temples 6701.jpg' (4608×2595) confirms Bagan; visually checked on contact sheet. desc: Temples on Bagan Plain in Myanmar"
+    },
+    "facts": {
+      "one_liner": "Thousands of ancient temples scattered across a plain on the Irrawaddy.",
+      "why_go": "Between the 11th and 13th centuries the kings of Pagan built more than 10,000 Buddhist temples, pagodas and monasteries here; over 2,000 survive. The Ananda Temple and Shwesandaw Pagoda are among the most famous, and hot-air balloon flights over the plain at sunrise are legendary. Bagan was listed as a UNESCO World Heritage Site in 2019.",
+      "best_time": "November–February for cooler, dry weather.",
+      "how_to_get_there": "Nyaung U Airport has domestic flights; overnight buses and boats from Mandalay also arrive.",
+      "good_to_know": "Check your government’s travel advice for Myanmar before planning a trip. Climbing temples is now banned.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/1588",
+      "sources": [
+        "https://whc.unesco.org/en/list/1588",
+        "https://en.wikipedia.org/wiki/Bagan",
+        "https://commons.wikimedia.org/wiki/File%3A20160801_Bagan_temples_6701.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Bagan, Myanmar",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bagan%2C%20Myanmar&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bagan%2C%20Myanmar&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bagan%2C%20Myanmar&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Bagan"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-057",
+    "tab": "landmarks",
+    "name": "Amber Fort",
+    "short_line": "Jaipur, Rajasthan, India",
+    "country": "India",
+    "lat": 26.9859,
+    "lng": 75.8507,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/20191218_Amber_Fort_seen_from_Jaigarh_Fort_1617_9427.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-057.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3A20191218_Amber_Fort_seen_from_Jaigarh_Fort_1617_9427.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Jakub Hałun",
+      "attribution": "Photo: Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:20191218 Amber Fort seen from Jaigarh Fort 1617 9427.jpg' (5517×3061) confirms Amber Fort; visually checked on contact sheet. desc: Amber Fort seen from Jaigarh Fort"
+    },
+    "facts": {
+      "one_liner": "A honey-coloured hilltop palace-fortress above Maota Lake.",
+      "why_go": "Amber (Amer) Fort was built from the late 16th century by Raja Man Singh I and is part of the UNESCO-listed Hill Forts of Rajasthan. Its sandstone and marble halls include the Sheesh Mahal, a hall of mirrors that sparkles in candlelight. Ramparts climb the ridge to Jaigarh Fort above.",
+      "best_time": "October–March for pleasant weather.",
+      "how_to_get_there": "About 11 km north of central Jaipur by taxi, rickshaw or bus.",
+      "good_to_know": "The evening sound and light show tells the fort’s history. Arrive early to avoid crowds.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Amber_Fort",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amber_Fort",
+        "https://commons.wikimedia.org/wiki/File%3A20191218_Amber_Fort_seen_from_Jaigarh_Fort_1617_9427.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Jaipur, Rajasthan, India",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Jaipur%2C%20Rajasthan%2C%20India&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Jaipur%2C%20Rajasthan%2C%20India&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Jaipur%2C%20Rajasthan%2C%20India&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Jaipur"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-058",
+    "tab": "landmarks",
+    "name": "Hampi",
+    "short_line": "Karnataka, India",
+    "country": "India",
+    "lat": 15.3344,
+    "lng": 76.4622,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Hampi_Vitthala_Temple_3465.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-058.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHampi_Vitthala_Temple_3465.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Basavaraj M",
+      "attribution": "Photo: Basavaraj M, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Hampi Vitthala Temple 3465.jpg' (5568×3712) confirms Hampi; visually checked on contact sheet. desc: Vijaya Vitthala Temple, Hampi, Karnataka, India, reflected in a shallow pool filled with rainwater. The Vitthala temple and market complex is over 3 kilometres "
+    },
+    "facts": {
+      "one_liner": "Ruins of the Vijayanagara capital among giant boulders.",
+      "why_go": "Hampi was the capital of the Vijayanagara Empire, one of the richest cities in the world in the 16th century. Its ruins, a UNESCO World Heritage Site, include the Virupaksha Temple, the Vittala Temple with its famous stone chariot and musical pillars, and royal enclosures spread across a landscape of granite boulders.",
+      "best_time": "October–February for cooler weather.",
+      "how_to_get_there": "Hosapete (Hospet) is the nearest railway station, about 13 km away.",
+      "good_to_know": "Rent a bicycle or scooter to explore the large site. Climb Matanga Hill for sunrise.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/241",
+      "sources": [
+        "https://whc.unesco.org/en/list/241",
+        "https://en.wikipedia.org/wiki/Hampi",
+        "https://commons.wikimedia.org/wiki/File%3AHampi_Vitthala_Temple_3465.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Hampi, Karnataka, India",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Hampi%2C%20Karnataka%2C%20India&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Hampi%2C%20Karnataka%2C%20India&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Hampi%2C%20Karnataka%2C%20India&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Hampi"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-059",
+    "tab": "landmarks",
+    "name": "Temple of Heaven",
+    "short_line": "Beijing, China",
+    "country": "China",
+    "lat": 39.8822,
+    "lng": 116.4066,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Peking_Himmelstempel-20110103-RM-160758.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-059.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APeking_Himmelstempel-20110103-RM-160758.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Ermell",
+      "attribution": "Photo: Ermell, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Peking Himmelstempel-20110103-RM-160758.jpg' (3949×2962) confirms Temple of Heaven; visually checked on contact sheet. desc: Hall of Prayer for Good Harvests in Beijing"
+    },
+    "facts": {
+      "one_liner": "Beijing’s triple-roofed imperial altar for prayers for good harvests.",
+      "why_go": "Built in the early 15th century under the Yongle Emperor, the Temple of Heaven is where Ming and Qing emperors prayed for good harvests. The Hall of Prayer for Good Harvests, a circular wooden hall with a triple blue-tiled roof, stands on a three-tiered marble terrace. It is a UNESCO World Heritage Site surrounded by a large park.",
+      "best_time": "Spring and autumn; mornings for locals doing tai chi in the park.",
+      "how_to_get_there": "Tiantan East Gate station on Beijing Subway Line 5.",
+      "good_to_know": "Buy the combined ticket to enter the main halls. Bring your passport for ticketing.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Temple_of_Heaven",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Temple_of_Heaven",
+        "https://commons.wikimedia.org/wiki/File%3APeking_Himmelstempel-20110103-RM-160758.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Beijing, China",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Beijing%2C%20China&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Beijing%2C%20China&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Beijing%2C%20China&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Beijing"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-060",
+    "tab": "landmarks",
+    "name": "Leshan Giant Buddha",
+    "short_line": "Leshan, Sichuan, China",
+    "country": "China",
+    "lat": 29.5447,
+    "lng": 103.7733,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Leshan_Giant_Buddha%2C_20161102.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-060.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALeshan_Giant_Buddha,_20161102.jpg",
+      "license": "CC BY 2.5",
+      "author": "王计",
+      "attribution": "Photo: 王计, CC BY 2.5, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Leshan Giant Buddha, 20161102.jpg' (3000×1687) confirms Leshan Giant Buddha; visually checked on contact sheet. desc: The Leshan Giant Buddha, an enormous rock carving begun in the early 8th century and completed in the early 9th century during the Chinese Tang Dynasty (618-907"
+    },
+    "facts": {
+      "one_liner": "The world’s largest stone Buddha, carved into a riverside cliff.",
+      "why_go": "The Leshan Giant Buddha was carved between 713 and 803 into a red sandstone cliff at the meeting of the Min, Qingyi and Dadu rivers. At 71 metres tall, it is the largest stone Buddha in the world. It is part of the Mount Emei Scenic Area UNESCO World Heritage Site.",
+      "best_time": "Spring and autumn; go early on weekdays to avoid long queues on the stairs.",
+      "how_to_get_there": "About 1–1.5 hours by high-speed train or bus from Chengdu.",
+      "good_to_know": "Boat trips on the river give a view of the whole Buddha. Queues for the steps can be long.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Leshan_Giant_Buddha",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Leshan_Giant_Buddha",
+        "https://commons.wikimedia.org/wiki/File%3ALeshan_Giant_Buddha,_20161102.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Leshan, Sichuan, China",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Leshan%2C%20Sichuan%2C%20China&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Leshan%2C%20Sichuan%2C%20China&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Leshan%2C%20Sichuan%2C%20China&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Leshan"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.5 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-061",
+    "tab": "landmarks",
+    "name": "Gyeongbokgung",
+    "short_line": "Seoul, South Korea",
+    "country": "South Korea",
+    "lat": 37.5799,
+    "lng": 126.9768,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Gyeonghoeru_%28Royal_Banquet_Hall%29_at_Gyeongbokgung_Palace%2C_Seoul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-061.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AGyeonghoeru_(Royal_Banquet_Hall)_at_Gyeongbokgung_Palace,_Seoul.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Frank Schulenburg",
+      "attribution": "Photo: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Gyeonghoeru (Royal Banquet Hall) at Gyeongbokgung Palace, Seoul.jpg' (6425×4283) confirms Gyeongbokgung; visually checked on contact sheet. desc: Royal Banquet Hall Gyeonghoeru (경회루) at Gyeongbokgung Palace (경복궁), Seoul"
+    },
+    "facts": {
+      "one_liner": "Seoul’s grand Joseon royal palace with a banquet hall on a lotus pond.",
+      "why_go": "Built in 1395, Gyeongbokgung was the main royal palace of the Joseon dynasty. Destroyed and rebuilt several times, it now includes Geunjeongjeon, the throne hall, and Gyeonghoeru, a pavilion standing over a pond. The changing of the guard ceremony takes place at Gwanghwamun Gate.",
+      "best_time": "April for cherry blossoms; October for autumn colours.",
+      "how_to_get_there": "Gyeongbokgung station on Seoul Subway Line 3.",
+      "good_to_know": "Visitors wearing hanbok enter free. The palace is closed on Tuesdays.",
+      "official_or_tourism_url": "https://royal.khs.go.kr/",
+      "sources": [
+        "https://royal.khs.go.kr/",
+        "https://en.wikipedia.org/wiki/Gyeongbokgung",
+        "https://commons.wikimedia.org/wiki/File%3AGyeonghoeru_(Royal_Banquet_Hall)_at_Gyeongbokgung_Palace,_Seoul.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Seoul, South Korea",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Seoul%2C%20South%20Korea&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Seoul%2C%20South%20Korea&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Seoul%2C%20South%20Korea&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Seoul"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-062",
+    "tab": "landmarks",
+    "name": "Ephesus",
+    "short_line": "İzmir Province, Turkey",
+    "country": "Turkey",
+    "lat": 37.9411,
+    "lng": 27.3419,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/TR.IZ.Selcuk_Ephesus_Celsus-Library_32_3x2-R_5K.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-062.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATR.IZ.Selcuk_Ephesus_Celsus-Library_32_3x2-R_5K.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Roy Egloff",
+      "attribution": "Photo: Roy Egloff, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:TR.IZ.Selcuk Ephesus Celsus-Library 32 3x2-R 5K.jpg' (5100×3400) confirms Ephesus; visually checked on contact sheet. desc: many people visit the ancient Celsus Library in Ephesus, Turkey"
+    },
+    "facts": {
+      "one_liner": "A Roman city with a magnificent two-storey library facade.",
+      "why_go": "Ephesus was one of the greatest cities of the Roman world. Its ruins, a UNESCO World Heritage Site, include the Library of Celsus with its reconstructed two-storey facade, the Great Theatre and the Terrace Houses. The Temple of Artemis, one of the Seven Wonders of the Ancient World, stood nearby.",
+      "best_time": "April–May and September–October; summer is very hot.",
+      "how_to_get_there": "About 3 km from Selçuk; İzmir Airport is about 1 hour away.",
+      "good_to_know": "Bring water and sun protection. Enter at the upper gate and walk downhill.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/1018",
+      "sources": [
+        "https://whc.unesco.org/en/list/1018",
+        "https://en.wikipedia.org/wiki/Ephesus",
+        "https://commons.wikimedia.org/wiki/File%3ATR.IZ.Selcuk_Ephesus_Celsus-Library_32_3x2-R_5K.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Selçuk, Turkey",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sel%C3%A7uk%2C%20Turkey&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sel%C3%A7uk%2C%20Turkey&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sel%C3%A7uk%2C%20Turkey&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Selçuk"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-063",
+    "tab": "landmarks",
+    "name": "Topkapı Palace",
+    "short_line": "Istanbul, Turkey",
+    "country": "Turkey",
+    "lat": 41.013,
+    "lng": 28.984,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Topkap%C4%B1_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-063.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATopkap%C4%B1_-_01.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Carlos Delgado",
+      "attribution": "Photo: Carlos Delgado, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Topkapı - 01.jpg' (3635×1817) confirms Topkapı Palace; visually checked on contact sheet. desc: Topkapı  Palace, Istanbul, Turkey."
+    },
+    "facts": {
+      "one_liner": "The Ottoman sultans’ palace on a hill above the Bosphorus.",
+      "why_go": "From the 1460s until the mid-19th century, Topkapı Palace was the main residence of the Ottoman sultans. Its courtyards, pavilions and the Harem overlook the meeting of the Bosphorus, the Golden Horn and the Sea of Marmara. It is part of the Historic Areas of Istanbul UNESCO site.",
+      "best_time": "April–May and September–November.",
+      "how_to_get_there": "Tram T1 to Gülhane or Sultanahmet.",
+      "good_to_know": "The palace is closed on Tuesdays. The Harem requires a separate or combined ticket.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace",
+        "https://commons.wikimedia.org/wiki/File%3ATopkap%C4%B1_-_01.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Istanbul, Turkey",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Istanbul%2C%20Turkey&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Istanbul%2C%20Turkey&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Istanbul%2C%20Turkey&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Istanbul"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-064",
+    "tab": "landmarks",
+    "name": "Pantheon",
+    "short_line": "Rome, Italy",
+    "country": "Italy",
+    "lat": 41.8986,
+    "lng": 12.4768,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Pantheon_%28Rome%29_-_Dome_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-064.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APantheon_(Rome)_-_Dome_interior.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Livioandronico2013",
+      "attribution": "Photo: Livioandronico2013, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Pantheon (Rome) - Dome interior.jpg' (4240×3227) confirms Pantheon; visually checked on contact sheet. desc: Pantheon (Rome) - Dome interior"
+    },
+    "facts": {
+      "one_liner": "Rome’s best-preserved ancient temple, crowned by an open oculus.",
+      "why_go": "Completed under Emperor Hadrian around AD 125, the Pantheon is one of the best-preserved buildings of ancient Rome. Its dome is still the largest unreinforced concrete dome in the world, and sunlight pours through the 8-metre oculus. It has been a church since the 7th century, and Raphael is buried here.",
+      "best_time": "Year-round; early morning for fewer crowds.",
+      "how_to_get_there": "In the historic centre, a short walk from Piazza Navona and the Trevi Fountain.",
+      "good_to_know": "Since 2023 there is an entry fee. Tickets can be booked online.",
+      "official_or_tourism_url": "https://www.pantheonroma.com/",
+      "sources": [
+        "https://www.pantheonroma.com/",
+        "https://en.wikipedia.org/wiki/Pantheon%2C_Rome",
+        "https://commons.wikimedia.org/wiki/File%3APantheon_(Rome)_-_Dome_interior.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Rome, Italy",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rome%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rome%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rome%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Rome"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-065",
+    "tab": "landmarks",
+    "name": "Trevi Fountain",
+    "short_line": "Rome, Italy",
+    "country": "Italy",
+    "lat": 41.9008,
+    "lng": 12.4831,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Fontaine_Trevi_-_Rome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-065.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AFontaine_Trevi_-_Rome.jpg",
+      "license": "CC0",
+      "author": "Wilfredor",
+      "attribution": "Photo: Wilfredor, CC0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Fontaine Trevi - Rome.jpg' (11184×6790) confirms Trevi Fountain; visually checked on contact sheet. desc: The Trevi Fountain (in Italian Fontana di Trevi), Rome, Italy. This 18th-century fountain is located in the Trevi district in Rome, Italy. It was designed by It"
+    },
+    "facts": {
+      "one_liner": "Rome’s baroque fountain, where a coin promises a return.",
+      "why_go": "Completed in 1762 to designs by Nicola Salvi, the Trevi Fountain is the largest Baroque fountain in Rome. Ocean is shown riding a shell chariot pulled by sea horses. Tradition says that throwing a coin over your shoulder guarantees a return to Rome.",
+      "best_time": "Early morning or late evening for fewer crowds.",
+      "how_to_get_there": "In central Rome, about 10 minutes’ walk from the Spanish Steps.",
+      "good_to_know": "Sitting on the fountain or wading is forbidden. Watch out for pickpockets.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Trevi_Fountain",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Trevi_Fountain",
+        "https://commons.wikimedia.org/wiki/File%3AFontaine_Trevi_-_Rome.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Rome, Italy",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rome%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rome%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rome%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Rome"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-066",
+    "tab": "landmarks",
+    "name": "Pompeii",
+    "short_line": "Campania, Italy",
+    "country": "Italy",
+    "lat": 40.75,
+    "lng": 14.4861,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Forum_%28Pompeii%29_and_the_Vesuvio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-066.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AForum_(Pompeii)_and_the_Vesuvio.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Commonists",
+      "attribution": "Photo: Commonists, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Forum (Pompeii) and the Vesuvio.jpg' (8308×5486) confirms Pompeii; visually checked on contact sheet. desc: Forum (Pompeii) and the Vesuvio"
+    },
+    "facts": {
+      "one_liner": "A Roman city frozen by Vesuvius in AD 79.",
+      "why_go": "The eruption of Mount Vesuvius in AD 79 buried the Roman city of Pompeii under volcanic ash, preserving it for centuries. Today the ruins include the Forum, villas, frescoes, bakeries, and amphitheatre, under the shadow of Vesuvius. It is a UNESCO World Heritage Site.",
+      "best_time": "April–May and September–October; summer is hot and exposed.",
+      "how_to_get_there": "Circumvesuviana trains from Naples to Pompei Scavi–Villa dei Misteri take about 35 minutes.",
+      "good_to_know": "Wear comfortable shoes and bring water. Book tickets online in peak season.",
+      "official_or_tourism_url": "https://pompeiisites.org/en/",
+      "sources": [
+        "https://pompeiisites.org/en/",
+        "https://en.wikipedia.org/wiki/Pompeii",
+        "https://commons.wikimedia.org/wiki/File%3AForum_(Pompeii)_and_the_Vesuvio.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Pompei, Italy",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Pompei%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Pompei%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Pompei%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Pompei"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-067",
+    "tab": "landmarks",
+    "name": "Florence Cathedral",
+    "short_line": "Florence, Italy",
+    "country": "Italy",
+    "lat": 43.7731,
+    "lng": 11.2569,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Catedral%2C_Florencia%2C_Italia%2C_2022-09-18%2C_DD_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-067.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACatedral,_Florencia,_Italia,_2022-09-18,_DD_14.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Diego Delso",
+      "attribution": "Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Catedral, Florencia, Italia, 2022-09-18, DD 14.jpg' (3947×3650) confirms Florence Cathedral; visually checked on contact sheet. desc: Florence Cathedral, Italy"
+    },
+    "facts": {
+      "one_liner": "Brunelleschi’s red dome rising over Florence.",
+      "why_go": "Florence’s Cathedral of Santa Maria del Fiore is crowned by Brunelleschi’s dome, completed in 1436. The exterior is clad in green, white and pink marble, and the complex includes Giotto’s Campanile and the Baptistery. It is part of the Historic Centre of Florence UNESCO World Heritage Site.",
+      "best_time": "Early morning or late afternoon; book dome climbs well ahead.",
+      "how_to_get_there": "In the heart of Florence, about 10 minutes’ walk from Santa Maria Novella station.",
+      "good_to_know": "Climbing the dome requires a timed ticket. Shoulders and knees must be covered.",
+      "official_or_tourism_url": "https://duomo.firenze.it/en/",
+      "sources": [
+        "https://duomo.firenze.it/en/",
+        "https://en.wikipedia.org/wiki/Florence_Cathedral",
+        "https://commons.wikimedia.org/wiki/File%3ACatedral,_Florencia,_Italia,_2022-09-18,_DD_14.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Florence, Italy",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Florence%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Florence%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Florence%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Florence"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-068",
+    "tab": "landmarks",
+    "name": "Notre-Dame de Paris",
+    "short_line": "Paris, France",
+    "country": "France",
+    "lat": 48.8531,
+    "lng": 2.35,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Paris_Notre-Dame_Southeast_View_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-068.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AParis_Notre-Dame_Southeast_View_01.JPG",
+      "license": "CC BY-SA 4.0",
+      "author": "Uoaei1",
+      "attribution": "Photo: Uoaei1, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Paris Notre-Dame Southeast View 01.JPG' (5596×3997) confirms Notre-Dame de Paris; visually checked on contact sheet. desc: Southeast view of cathedral Notre-Dame de Paris, France"
+    },
+    "facts": {
+      "one_liner": "Paris’s Gothic cathedral on the Île de la Cité, reborn after the 2019 fire.",
+      "why_go": "Notre-Dame de Paris was built from 1163 and is one of the most famous Gothic cathedrals in the world, known for its flying buttresses, rose windows and gargoyles. After a fire in April 2019 destroyed its roof and spire, it reopened in December 2024 after a major restoration.",
+      "best_time": "Year-round; evening views from the Seine are beautiful.",
+      "how_to_get_there": "Métro Cité (Line 4) or RER Saint-Michel Notre-Dame.",
+      "good_to_know": "Entry is free; reserving a time slot can reduce waiting. Towers require a separate ticket.",
+      "official_or_tourism_url": "https://www.notredamedeparis.fr/en/",
+      "sources": [
+        "https://www.notredamedeparis.fr/en/",
+        "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+        "https://commons.wikimedia.org/wiki/File%3AParis_Notre-Dame_Southeast_View_01.JPG"
+      ]
+    },
+    "ad": {
+      "destination_query": "Paris, France",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Paris%2C%20France&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Paris%2C%20France&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Paris%2C%20France&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Paris"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-069",
+    "tab": "landmarks",
+    "name": "Arc de Triomphe",
+    "short_line": "Paris, France",
+    "country": "France",
+    "lat": 48.8738,
+    "lng": 2.295,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Arc_de_Triomphe_de_l%27%C3%89toile_at_night_vertical_fix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-069.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AArc_de_Triomphe_de_l'%C3%89toile_at_night_vertical_fix.jpg",
+      "license": "CC0",
+      "author": "Wilfredor",
+      "attribution": "Photo: Wilfredor, CC0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Arc de Triomphe de l'Étoile at night vertical fix.jpg' (6784×4863) confirms Arc de Triomphe; visually checked on contact sheet. desc: Arc de Triomphe de l'Étoile at night, Paris, France."
+    },
+    "facts": {
+      "one_liner": "Napoleon’s triumphal arch at the top of the Champs-Élysées.",
+      "why_go": "Commissioned by Napoleon in 1806 and completed in 1836, the Arc de Triomphe stands at the centre of Place Charles de Gaulle. The Tomb of the Unknown Soldier lies beneath it, with an eternal flame rekindled every evening. A rooftop terrace gives views down the Champs-Élysées.",
+      "best_time": "Year-round; sunset from the rooftop is spectacular.",
+      "how_to_get_there": "Métro Charles de Gaulle–Étoile (Lines 1, 2, 6) and RER A.",
+      "good_to_know": "Use the underground passage to reach the arch—don’t cross the roundabout.",
+      "official_or_tourism_url": "https://www.paris-arc-de-triomphe.fr/en",
+      "sources": [
+        "https://www.paris-arc-de-triomphe.fr/en",
+        "https://en.wikipedia.org/wiki/Arc_de_Triomphe",
+        "https://commons.wikimedia.org/wiki/File%3AArc_de_Triomphe_de_l'%C3%89toile_at_night_vertical_fix.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Paris, France",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Paris%2C%20France&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Paris%2C%20France&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Paris%2C%20France&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Paris"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-070",
+    "tab": "landmarks",
+    "name": "Château de Chambord",
+    "short_line": "Loir-et-Cher, France",
+    "country": "France",
+    "lat": 47.6161,
+    "lng": 1.5172,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Ch%C3%A2teau_de_Chambord_at_dawn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-070.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_de_Chambord_at_dawn.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Clément Bardot",
+      "attribution": "Photo: Clément Bardot, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Château de Chambord at dawn.jpg' (5210×3025) confirms Château de Chambord; visually checked on contact sheet. desc: Château de Chambord at dawn"
+    },
+    "facts": {
+      "one_liner": "The Loire’s largest château, with a double-helix staircase.",
+      "why_go": "Built for King Francis I from 1519, Chambord is the largest château in the Loire Valley. Its roof is a forest of towers and chimneys, and its double-helix staircase is often linked to Leonardo da Vinci. It stands in a huge walled forest park. Chambord is part of the Loire Valley UNESCO World Heritage Site.",
+      "best_time": "April–October; the gardens are beautiful in summer.",
+      "how_to_get_there": "About 20 km from Blois; seasonal shuttle buses run from Blois station.",
+      "good_to_know": "Explore the park by bike or boat. Allow half a day.",
+      "official_or_tourism_url": "https://www.chambord.org/en/",
+      "sources": [
+        "https://www.chambord.org/en/",
+        "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chambord",
+        "https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_de_Chambord_at_dawn.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Chambord, France",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Chambord%2C%20France&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Chambord%2C%20France&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Chambord%2C%20France&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Chambord"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-071",
+    "tab": "landmarks",
+    "name": "Pont du Gard",
+    "short_line": "Gard, France",
+    "country": "France",
+    "lat": 43.9472,
+    "lng": 4.5356,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Pont_du_Gard_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-071.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APont_du_Gard_004.jpg",
+      "license": "CC BY 2.5",
+      "author": "Marc Ryckaert",
+      "attribution": "Photo: Marc Ryckaert, CC BY 2.5, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Pont du Gard 004.jpg' (2578×1926) confirms Pont du Gard; visually checked on contact sheet. desc: Pont du Gard, France"
+    },
+    "facts": {
+      "one_liner": "A three-tiered Roman aqueduct bridge over the Gardon River.",
+      "why_go": "Built in the 1st century AD, the Pont du Gard is the highest Roman aqueduct bridge, standing about 48 metres tall. It carried water to the Roman city of Nemausus (Nîmes). It is a UNESCO World Heritage Site, and visitors can swim in the river below in summer.",
+      "best_time": "May–September; the river is good for swimming in summer.",
+      "how_to_get_there": "About 25 km from Nîmes and Avignon; buses run from both.",
+      "good_to_know": "There is a museum and visitor centre on site. Parking fees apply.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Pont_du_Gard",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pont_du_Gard",
+        "https://commons.wikimedia.org/wiki/File%3APont_du_Gard_004.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Vers-Pont-du-Gard, France",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Vers-Pont-du-Gard%2C%20France&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Vers-Pont-du-Gard%2C%20France&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Vers-Pont-du-Gard%2C%20France&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Vers-Pont-du-Gard"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.5 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-072",
+    "tab": "landmarks",
+    "name": "Carcassonne (Cité)",
+    "short_line": "Aude, France",
+    "country": "France",
+    "lat": 43.2066,
+    "lng": 2.364,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Cit%C3%A9_de_Carcassonne_et_Pont-Vieux.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-072.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACit%C3%A9_de_Carcassonne_et_Pont-Vieux.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Lynx1211",
+      "attribution": "Photo: Lynx1211, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Cité de Carcassonne et Pont-Vieux.jpg' (5184×3456) confirms Carcassonne (Cité); visually checked on contact sheet. desc: The view of the Cité de Carcassonne, the Aude river and the Old Bridge. Photo taken from the New Bridge."
+    },
+    "facts": {
+      "one_liner": "A fairy-tale medieval walled city with 52 towers.",
+      "why_go": "La Cité de Carcassonne is a hilltop fortress with two rings of walls and 52 towers. It was restored in the 19th century by Eugène Viollet-le-Duc, and is a UNESCO World Heritage Site. The Old Bridge over the Aude links it to the lower town.",
+      "best_time": "Spring and autumn; Bastille Day fireworks on 14 July.",
+      "how_to_get_there": "Carcassonne station is on the Toulouse–Narbonne line; the Cité is a 30-minute walk or bus ride.",
+      "good_to_know": "Visit the Château Comtal and ramparts with a ticket. Evening walks are quiet once day-trippers leave.",
+      "official_or_tourism_url": "https://www.remparts-carcassonne.fr/en",
+      "sources": [
+        "https://www.remparts-carcassonne.fr/en",
+        "https://en.wikipedia.org/wiki/Cit%C3%A9_de_Carcassonne",
+        "https://commons.wikimedia.org/wiki/File%3ACit%C3%A9_de_Carcassonne_et_Pont-Vieux.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Carcassonne, France",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Carcassonne%2C%20France&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Carcassonne%2C%20France&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Carcassonne%2C%20France&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Carcassonne"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-073",
+    "tab": "landmarks",
+    "name": "Westminster Abbey",
+    "short_line": "London, United Kingdom",
+    "country": "United Kingdom",
+    "lat": 51.4994,
+    "lng": -0.1275,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Abad%C3%ADa_de_Westminster%2C_Londres%2C_Inglaterra%2C_2022-11-23%2C_DD_67-69_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-073.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAbad%C3%ADa_de_Westminster,_Londres,_Inglaterra,_2022-11-23,_DD_67-69_HDR.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Diego Delso",
+      "attribution": "Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Abadía de Westminster, Londres, Inglaterra, 2022-11-23, DD 67-69 HDR.jpg' (6870×4580) confirms Westminster Abbey; visually checked on contact sheet. desc: Westminster Abbey, London, England"
+    },
+    "facts": {
+      "one_liner": "London’s Gothic coronation church and burial place of monarchs.",
+      "why_go": "Westminster Abbey has been the coronation church of English and British monarchs since 1066. The current Gothic building dates largely from the 13th century. Kings, queens, poets and scientists such as Isaac Newton and Charles Darwin are buried here. It is a UNESCO World Heritage Site with the Palace of Westminster.",
+      "best_time": "Year-round; weekday mornings are quieter.",
+      "how_to_get_there": "Westminster or St James’s Park Underground stations.",
+      "good_to_know": "The Abbey is closed to sightseers on Sundays, when you can attend services.",
+      "official_or_tourism_url": "https://www.westminster-abbey.org/",
+      "sources": [
+        "https://www.westminster-abbey.org/",
+        "https://en.wikipedia.org/wiki/Westminster_Abbey",
+        "https://commons.wikimedia.org/wiki/File%3AAbad%C3%ADa_de_Westminster,_Londres,_Inglaterra,_2022-11-23,_DD_67-69_HDR.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "London, United Kingdom",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=London%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=London%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=London%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in London"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-074",
+    "tab": "landmarks",
+    "name": "Edinburgh Castle",
+    "short_line": "Edinburgh, Scotland",
+    "country": "United Kingdom",
+    "lat": 55.9486,
+    "lng": -3.2008,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Edinburgh_Castle_Rock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-074.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AEdinburgh_Castle_Rock.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Saffron Blaze",
+      "attribution": "Photo: Saffron Blaze, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Edinburgh Castle Rock.jpg' (4256×2832) confirms Edinburgh Castle; visually checked on contact sheet. desc: Edinburgh Castle is situated on top of an ancient volcano that allows it to dominate the city skyline even today. Edinburgh Scotland, UK"
+    },
+    "facts": {
+      "one_liner": "A fortress on an extinct volcano above Scotland’s capital.",
+      "why_go": "Edinburgh Castle sits on Castle Rock, an extinct volcanic plug, dominating the skyline. It houses the Honours of Scotland (the Scottish crown jewels), the Stone of Destiny and St Margaret’s Chapel, Edinburgh’s oldest building. The One O’Clock Gun is fired every day except Sundays.",
+      "best_time": "Year-round; August brings the Royal Edinburgh Military Tattoo.",
+      "how_to_get_there": "At the top of the Royal Mile, about 15 minutes’ walk from Edinburgh Waverley station.",
+      "good_to_know": "Book tickets online. Allow at least 2 hours.",
+      "official_or_tourism_url": "https://www.edinburghcastle.scot/",
+      "sources": [
+        "https://www.edinburghcastle.scot/",
+        "https://en.wikipedia.org/wiki/Edinburgh_Castle",
+        "https://commons.wikimedia.org/wiki/File%3AEdinburgh_Castle_Rock.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Edinburgh, Scotland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Edinburgh%2C%20Scotland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Edinburgh%2C%20Scotland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Edinburgh%2C%20Scotland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Edinburgh"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-075",
+    "tab": "landmarks",
+    "name": "Tower of London",
+    "short_line": "London, United Kingdom",
+    "country": "United Kingdom",
+    "lat": 51.5081,
+    "lng": -0.0761,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Tower_of_London_viewed_from_the_River_Thames.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-075.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATower_of_London_viewed_from_the_River_Thames.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Bob Collowan",
+      "attribution": "Photo: Bob Collowan, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Tower of London viewed from the River Thames.jpg' (3948×2479) confirms Tower of London; visually checked on contact sheet. desc: Tower of London viewed from the River Thames."
+    },
+    "facts": {
+      "one_liner": "A 1,000-year-old fortress guarding the Crown Jewels.",
+      "why_go": "Founded by William the Conqueror in the 1070s, the Tower of London has been a royal palace, prison and treasury. The White Tower is its oldest part, and the Crown Jewels are displayed here. Yeoman Warders lead tours, and ravens are kept on site. It is a UNESCO World Heritage Site.",
+      "best_time": "Year-round; arrive at opening to see the Crown Jewels first.",
+      "how_to_get_there": "Tower Hill Underground station; Tower Gateway on the DLR.",
+      "good_to_know": "Book tickets online. Yeoman Warder tours are included.",
+      "official_or_tourism_url": "https://www.hrp.org.uk/tower-of-london/",
+      "sources": [
+        "https://www.hrp.org.uk/tower-of-london/",
+        "https://en.wikipedia.org/wiki/Tower_of_London",
+        "https://commons.wikimedia.org/wiki/File%3ATower_of_London_viewed_from_the_River_Thames.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "London, United Kingdom",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=London%2C%20United%20Kingdom&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=London%2C%20United%20Kingdom&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=London%2C%20United%20Kingdom&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in London"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-076",
+    "tab": "landmarks",
+    "name": "Cologne Cathedral",
+    "short_line": "Cologne, Germany",
+    "country": "Germany",
+    "lat": 50.9414,
+    "lng": 6.9583,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Dom_%28Deutzer_Br%C3%BCcke%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-076.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ADom_(Deutzer_Br%C3%BCcke).jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Jörg Braukmann",
+      "attribution": "Photo: Jörg Braukmann, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Dom (Deutzer Brücke).jpg' (10000×5390) confirms Cologne Cathedral; visually checked on contact sheet. desc: Great St. Martin Church and Cologne Cathedral seen from the Deutz Bridge"
+    },
+    "facts": {
+      "one_liner": "Twin Gothic spires rising above the Rhine.",
+      "why_go": "Construction began in 1248 and finished in 1880, making Cologne Cathedral the largest Gothic church in Northern Europe. Its twin spires rise 157 metres. The cathedral holds the Shrine of the Three Kings and is a UNESCO World Heritage Site. You can climb 533 steps to a viewing platform.",
+      "best_time": "Year-round; December for the Christmas markets.",
+      "how_to_get_there": "Right next to Köln Hauptbahnhof (main station).",
+      "good_to_know": "Entry to the cathedral is free; the tower and treasury charge.",
+      "official_or_tourism_url": "https://www.koelner-dom.de/en",
+      "sources": [
+        "https://www.koelner-dom.de/en",
+        "https://en.wikipedia.org/wiki/Cologne_Cathedral",
+        "https://commons.wikimedia.org/wiki/File%3ADom_(Deutzer_Br%C3%BCcke).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Cologne, Germany",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Cologne%2C%20Germany&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Cologne%2C%20Germany&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Cologne%2C%20Germany&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Cologne"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-077",
+    "tab": "landmarks",
+    "name": "Prague Castle",
+    "short_line": "Prague, Czech Republic",
+    "country": "Czech Republic",
+    "lat": 50.09,
+    "lng": 14.4,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Czech-2013-Prague-View_from_Charles_Bridge_of_Prague_Castle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-077.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACzech-2013-Prague-View_from_Charles_Bridge_of_Prague_Castle.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Godot13",
+      "attribution": "Photo: Godot13, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Czech-2013-Prague-View from Charles Bridge of Prague Castle.jpg' (6000×4992) confirms Prague Castle; visually checked on contact sheet. desc: View of Prague Castle"
+    },
+    "facts": {
+      "one_liner": "One of the world’s largest castle complexes, above the Vltava.",
+      "why_go": "Prague Castle was founded in the 9th century and is one of the largest ancient castle complexes in the world. It includes St Vitus Cathedral, the Old Royal Palace, St George’s Basilica and Golden Lane. It is the seat of the Czech president.",
+      "best_time": "Spring and autumn; early morning before tour groups.",
+      "how_to_get_there": "Tram 22 to Pražský hrad, or walk up from Malá Strana.",
+      "good_to_know": "The castle grounds are free; the main buildings need a ticket.",
+      "official_or_tourism_url": "https://www.hrad.cz/en/prague-castle-for-visitors",
+      "sources": [
+        "https://www.hrad.cz/en/prague-castle-for-visitors",
+        "https://en.wikipedia.org/wiki/Prague_Castle",
+        "https://commons.wikimedia.org/wiki/File%3ACzech-2013-Prague-View_from_Charles_Bridge_of_Prague_Castle.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Prague, Czech Republic",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Prague%2C%20Czech%20Republic&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Prague%2C%20Czech%20Republic&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Prague%2C%20Czech%20Republic&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Prague"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-078",
+    "tab": "landmarks",
+    "name": "Schönbrunn Palace",
+    "short_line": "Vienna, Austria",
+    "country": "Austria",
+    "lat": 48.1845,
+    "lng": 16.3119,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Schloss_Sch%C3%B6nbrunn_Wien_2014_%28Zuschnitt_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-078.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASchloss_Sch%C3%B6nbrunn_Wien_2014_(Zuschnitt_1).jpg",
+      "license": "CC BY-SA 3.0 de",
+      "author": "Thomas Wolf, www.foto-tw.de",
+      "attribution": "Photo: Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 de, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Schloss Schönbrunn Wien 2014 (Zuschnitt 1).jpg' (8247×3693) confirms Schönbrunn Palace; visually checked on contact sheet. desc: Schönbrunn Palace in Vienna, Austria"
+    },
+    "facts": {
+      "one_liner": "The Habsburgs’ baroque summer palace with vast formal gardens.",
+      "why_go": "Schönbrunn was the summer residence of the Habsburg emperors. The palace has 1,441 rooms, and its gardens include the Gloriette, a hilltop colonnade with views over Vienna, and the world’s oldest zoo. It is a UNESCO World Heritage Site.",
+      "best_time": "April–October for the gardens.",
+      "how_to_get_there": "U4 subway to Schönbrunn or Hietzing.",
+      "good_to_know": "The gardens are free. Book palace tours online in summer.",
+      "official_or_tourism_url": "https://www.schoenbrunn.at/en/",
+      "sources": [
+        "https://www.schoenbrunn.at/en/",
+        "https://en.wikipedia.org/wiki/Sch%C3%B6nbrunn_Palace",
+        "https://commons.wikimedia.org/wiki/File%3ASchloss_Sch%C3%B6nbrunn_Wien_2014_(Zuschnitt_1).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Vienna, Austria",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Vienna%2C%20Austria&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Vienna%2C%20Austria&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Vienna%2C%20Austria&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Vienna"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 de verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-079",
+    "tab": "landmarks",
+    "name": "Belém Tower",
+    "short_line": "Lisbon, Portugal",
+    "country": "Portugal",
+    "lat": 38.6917,
+    "lng": -9.2161,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Lisbon_Torre_de_Bel%C3%A9m_BW_2018-10-03_16-33-21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-079.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALisbon_Torre_de_Bel%C3%A9m_BW_2018-10-03_16-33-21.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Berthold Werner",
+      "attribution": "Photo: Berthold Werner, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Lisbon Torre de Belém BW 2018-10-03 16-33-21.jpg' (5388×3936) confirms Belém Tower; visually checked on contact sheet. desc: Portugal, Lisbon, Torre de Belém"
+    },
+    "facts": {
+      "one_liner": "A Manueline fortress on the Tagus from the Age of Discovery.",
+      "why_go": "Built in the early 16th century, Belém Tower guarded the entrance to Lisbon’s harbour and marked the departure point of explorers. Its Manueline decoration includes ropes, armillary spheres and a rhinoceros carving. With the nearby Jerónimos Monastery it is a UNESCO World Heritage Site.",
+      "best_time": "Spring and autumn; sunset over the river is lovely.",
+      "how_to_get_there": "Tram 15E from central Lisbon to Belém.",
+      "good_to_know": "Interior spaces are small and queues can be long. The tower is closed on Mondays.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower",
+        "https://commons.wikimedia.org/wiki/File%3ALisbon_Torre_de_Bel%C3%A9m_BW_2018-10-03_16-33-21.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Lisbon, Portugal",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Lisbon%2C%20Portugal&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Lisbon%2C%20Portugal&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Lisbon%2C%20Portugal&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Lisbon"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-080",
+    "tab": "landmarks",
+    "name": "Mosque–Cathedral of Córdoba",
+    "short_line": "Córdoba, Spain",
+    "country": "Spain",
+    "lat": 37.8792,
+    "lng": -4.7797,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Centro_Hist%C3%B3rico%2C_16.9_--_2023_--_C%C3%B3rdoba%2C_Espa%C3%B1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-080.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACentro_Hist%C3%B3rico,_16.9_--_2023_--_C%C3%B3rdoba,_Espa%C3%B1a.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Jose María Ligero Loarte",
+      "attribution": "Photo: Jose María Ligero Loarte, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Centro Histórico, 16.9 -- 2023 -- Córdoba, España.jpg' (5984×3366) confirms Mosque–Cathedral of Córdoba; visually checked on contact sheet. desc: Views of the Historic centre of Córdoba from the Guadalquivir River, from where the Mosque-Cathedral and the Roman Bridge stand out, declared a World Heritage S"
+    },
+    "facts": {
+      "one_liner": "A forest of red-and-white arches where a cathedral rises inside a great mosque.",
+      "why_go": "The Mosque–Cathedral of Córdoba was begun in 785 as a mosque under the Umayyads and later became a cathedral. Its prayer hall has hundreds of columns with red-and-white striped arches, and a Renaissance cathedral nave was built in its centre in the 16th century. It is part of the Historic Centre of Córdoba UNESCO site.",
+      "best_time": "March–May and October–November; summer is extremely hot.",
+      "how_to_get_there": "About 15 minutes’ walk from the Roman Bridge; high-speed trains reach Córdoba from Madrid and Seville.",
+      "good_to_know": "Morning visits are often free at certain times—check the official site. Night tours run in season.",
+      "official_or_tourism_url": "https://mezquita-catedraldecordoba.es/en/",
+      "sources": [
+        "https://mezquita-catedraldecordoba.es/en/",
+        "https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba",
+        "https://commons.wikimedia.org/wiki/File%3ACentro_Hist%C3%B3rico,_16.9_--_2023_--_C%C3%B3rdoba,_Espa%C3%B1a.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Córdoba, Spain",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=C%C3%B3rdoba%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=C%C3%B3rdoba%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=C%C3%B3rdoba%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Córdoba"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-081",
+    "tab": "landmarks",
+    "name": "Aqueduct of Segovia",
+    "short_line": "Segovia, Spain",
+    "country": "Spain",
+    "lat": 40.9479,
+    "lng": -4.1178,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Aqueduct_of_Segovia_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-081.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAqueduct_of_Segovia_08.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Bernard Gagnon",
+      "attribution": "Photo: Bernard Gagnon, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Aqueduct of Segovia 08.jpg' (3456×2592) confirms Aqueduct of Segovia; visually checked on contact sheet. desc: Aqueduct of Segovia, located in the city of Segovia, Spain."
+    },
+    "facts": {
+      "one_liner": "A Roman aqueduct of granite blocks held without mortar.",
+      "why_go": "The Roman aqueduct of Segovia was built around the 1st–2nd century AD. Over 160 arches stretch across the city, built from granite blocks without mortar, with the highest section about 28 metres. It is a UNESCO World Heritage Site with the Old Town of Segovia.",
+      "best_time": "Spring and autumn.",
+      "how_to_get_there": "About 30 minutes by high-speed train from Madrid.",
+      "good_to_know": "Climb the steps next to the aqueduct for views. Try roast suckling pig, a local speciality.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Aqueduct_of_Segovia",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aqueduct_of_Segovia",
+        "https://commons.wikimedia.org/wiki/File%3AAqueduct_of_Segovia_08.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Segovia, Spain",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Segovia%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Segovia%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Segovia%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Segovia"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-082",
+    "tab": "landmarks",
+    "name": "Meteora",
+    "short_line": "Thessaly, Greece",
+    "country": "Greece",
+    "lat": 39.7142,
+    "lng": 21.6311,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Roussanou_Monastery%2C_Meteora.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-082.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ARoussanou_Monastery,_Meteora.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Bernard Gagnon",
+      "attribution": "Photo: Bernard Gagnon, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Roussanou Monastery, Meteora.jpg' (3316×2211) confirms Meteora; visually checked on contact sheet. desc: Roussanou Monastery, Meteora, Greece"
+    },
+    "facts": {
+      "one_liner": "Monasteries perched on towering sandstone pillars.",
+      "why_go": "At Meteora, Eastern Orthodox monks began building monasteries on top of soaring sandstone pillars in the 14th century, seeking isolation from the world. Of the 24 that once existed, six are still active, including the Great Meteoron and Varlaam. For centuries supplies and visitors were hauled up in nets and on rope ladders; today rock-cut steps lead to the doors. The rocks glow at sunset, and the site is a UNESCO World Heritage Site.",
+      "best_time": "April–June and September–October for mild weather and clear light.",
+      "how_to_get_there": "Kalambaka and Kastraki are the gateway villages; direct trains from Athens to Kalambaka take about 4–5 hours.",
+      "good_to_know": "Each monastery closes on a different weekday—check before you go. Women must wear skirts (wraps are lent at the doors) and shoulders must be covered.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Meteora",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Meteora",
+        "https://commons.wikimedia.org/wiki/File%3ARoussanou_Monastery,_Meteora.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kalambaka, Greece",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kalambaka%2C%20Greece&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kalambaka%2C%20Greece&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kalambaka%2C%20Greece&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kalambaka"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-083",
+    "tab": "landmarks",
+    "name": "Delphi",
+    "short_line": "Phocis, Greece",
+    "country": "Greece",
+    "lat": 38.4823,
+    "lng": 22.5013,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Tholos_of_Delphi_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-083.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATholos_of_Delphi_03.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Bernard Gagnon",
+      "attribution": "Photo: Bernard Gagnon, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Tholos of Delphi 03.jpg' (2998×2141) confirms Delphi; visually checked on contact sheet. desc: The Tholos of Delphi, Greece"
+    },
+    "facts": {
+      "one_liner": "The sanctuary of Apollo and the ancient oracle on Mount Parnassus.",
+      "why_go": "Delphi was the most important sanctuary in ancient Greece, home to the Oracle of Apollo. The ruins include the Temple of Apollo, the theatre, stadium and the Tholos at the Sanctuary of Athena Pronaia. It is a UNESCO World Heritage Site.",
+      "best_time": "April–June and September–October.",
+      "how_to_get_there": "About 2.5 hours by road from Athens.",
+      "good_to_know": "Wear good shoes for the steep path. Visit the museum to see the Charioteer of Delphi.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/393",
+      "sources": [
+        "https://whc.unesco.org/en/list/393",
+        "https://en.wikipedia.org/wiki/Delphi",
+        "https://commons.wikimedia.org/wiki/File%3ATholos_of_Delphi_03.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Delphi, Greece",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Delphi%2C%20Greece&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Delphi%2C%20Greece&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Delphi%2C%20Greece&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Delphi"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-084",
+    "tab": "landmarks",
+    "name": "Karnak Temple",
+    "short_line": "Luxor, Egypt",
+    "country": "Egypt",
+    "lat": 25.7183,
+    "lng": 32.6583,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-084.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATemplo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_142.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Diego Delso",
+      "attribution": "Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Templo de Karnak, Luxor, Egipto, 2022-04-03, DD 142.jpg' (8016×4295) confirms Karnak Temple; visually checked on contact sheet. desc: Karnak Temple, Luxor, Egypt"
+    },
+    "facts": {
+      "one_liner": "A vast temple complex with a forest of giant columns.",
+      "why_go": "Karnak is one of the largest religious complexes ever built, expanded by pharaohs over some 2,000 years and dedicated mainly to the god Amun-Ra. Its Great Hypostyle Hall is a forest of 134 colossal sandstone columns covered in carvings, and obelisks, sacred lake and avenues of ram-headed sphinxes complete the scene. It is part of the Ancient Thebes UNESCO World Heritage Site, linked to Luxor Temple by the restored Avenue of Sphinxes.",
+      "best_time": "October–April for cooler weather; arrive at opening time in any season.",
+      "how_to_get_there": "About 3 km north of central Luxor by taxi or horse-drawn carriage; Luxor has an international airport and overnight trains from Cairo.",
+      "good_to_know": "There is little shade—bring water, a hat and sunscreen. An evening sound-and-light show runs most nights.",
+      "official_or_tourism_url": "https://egymonuments.gov.eg/",
+      "sources": [
+        "https://egymonuments.gov.eg/",
+        "https://en.wikipedia.org/wiki/Karnak",
+        "https://commons.wikimedia.org/wiki/File%3ATemplo_de_Karnak,_Luxor,_Egipto,_2022-04-03,_DD_142.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Luxor, Egypt",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Luxor%2C%20Egypt&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Luxor%2C%20Egypt&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Luxor%2C%20Egypt&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Luxor"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-085",
+    "tab": "landmarks",
+    "name": "Lincoln Memorial",
+    "short_line": "Washington, D.C., United States",
+    "country": "United States",
+    "lat": 38.8893,
+    "lng": -77.0501,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Lincoln_Memorial_east_side.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-085.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALincoln_Memorial_east_side.JPG",
+      "license": "CC BY-SA 3.0",
+      "author": "Martin Falbisoner",
+      "attribution": "Photo: Martin Falbisoner, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Lincoln Memorial east side.JPG' (5467×2362) confirms Lincoln Memorial; visually checked on contact sheet. desc: Lincoln Memorial, east side."
+    },
+    "facts": {
+      "one_liner": "A Greek-temple memorial overlooking the Reflecting Pool.",
+      "why_go": "Dedicated in 1922, the Lincoln Memorial honours President Abraham Lincoln with a 19-foot seated statue. Its 36 Doric columns represent the states of the Union at Lincoln’s death. Martin Luther King Jr delivered his ‘I Have a Dream’ speech on its steps in 1963.",
+      "best_time": "Spring for cherry blossoms; evenings for a calm, lit-up view.",
+      "how_to_get_there": "Foggy Bottom Metro station is about 15 minutes’ walk away.",
+      "good_to_know": "Open 24 hours with no admission charge.",
+      "official_or_tourism_url": "https://www.nps.gov/linc/index.htm",
+      "sources": [
+        "https://www.nps.gov/linc/index.htm",
+        "https://en.wikipedia.org/wiki/Lincoln_Memorial",
+        "https://commons.wikimedia.org/wiki/File%3ALincoln_Memorial_east_side.JPG"
+      ]
+    },
+    "ad": {
+      "destination_query": "Washington, D.C., United States",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Washington%2C%20D.C.%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Washington%2C%20D.C.%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Washington%2C%20D.C.%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Washington"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-086",
+    "tab": "landmarks",
+    "name": "Gateway Arch",
+    "short_line": "St. Louis, Missouri, United States",
+    "country": "United States",
+    "lat": 38.6246,
+    "lng": -90.185,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/St_Louis_night_expblend.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-086.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASt_Louis_night_expblend.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Daniel Schwen",
+      "attribution": "Photo: Daniel Schwen, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:St Louis night expblend.jpg' (3000×1929) confirms Gateway Arch; visually checked on contact sheet. desc: St. Louis on the Mississippi river by night. Jefferson National Expansion Memorial aka. Gateway Arch and Old Courthouse are visible."
+    },
+    "facts": {
+      "one_liner": "A 630-foot stainless-steel arch on the Mississippi.",
+      "why_go": "Completed in 1965 to a design by architect Eero Saarinen, the stainless-steel Gateway Arch rises 630 feet over the Mississippi riverfront and is the tallest human-made monument in the Western Hemisphere. It commemorates the westward expansion of the United States. Small tram pods carry visitors to an observation deck at the top, and the museum beneath the arch tells the story of the American West.",
+      "best_time": "April–June and September–October; sunset turns the steel gold.",
+      "how_to_get_there": "In downtown St. Louis; the 8th & Pine and Convention Center MetroLink stations are a short walk away, and St. Louis Lambert Airport (STL) is about 25 minutes by car or train.",
+      "good_to_know": "Book tram tickets in advance—the pods are small and not ideal for claustrophobic visitors. Riverboat cruises leave from the levee below.",
+      "official_or_tourism_url": "https://www.nps.gov/jeff/index.htm",
+      "sources": [
+        "https://www.nps.gov/jeff/index.htm",
+        "https://en.wikipedia.org/wiki/Gateway_Arch",
+        "https://commons.wikimedia.org/wiki/File%3ASt_Louis_night_expblend.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "St. Louis, Missouri, United States",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=St.%20Louis%2C%20Missouri%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=St.%20Louis%2C%20Missouri%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=St.%20Louis%2C%20Missouri%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in St. Louis"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-087",
+    "tab": "landmarks",
+    "name": "Empire State Building",
+    "short_line": "New York City, United States",
+    "country": "United States",
+    "lat": 40.7483,
+    "lng": -73.9856,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-087.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AView_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Dllu",
+      "attribution": "Photo: Dllu, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:View of Empire State Building from Rockefeller Center New York City dllu.jpg' (8207×6167) confirms Empire State Building; visually checked on contact sheet. desc: View of the Empire State Building in New York City from the Top of the Rock at 30 Rockefeller Plaza during sunset. The tower was illuminated in green in honor o"
+    },
+    "facts": {
+      "one_liner": "The Art Deco tower that defined the Manhattan skyline.",
+      "why_go": "Completed in 1931 in just over a year, the Empire State Building was the tallest building in the world for nearly 40 years and remains a symbol of New York. Its Art Deco lobby is a landmark in its own right, and the open-air 86th-floor deck and the 102nd-floor observatory give sweeping views over Manhattan, the rivers and beyond. The tower’s top is lit in changing colours for holidays and events.",
+      "best_time": "Year-round; clear days, sunset and late evening for city lights.",
+      "how_to_get_there": "At Fifth Avenue and 34th Street; 34th Street–Herald Square subway station is a block away.",
+      "good_to_know": "Book timed tickets online. The 86th-floor deck is open late, and late-night visits are usually quieter.",
+      "official_or_tourism_url": "https://www.esbnyc.com/",
+      "sources": [
+        "https://www.esbnyc.com/",
+        "https://en.wikipedia.org/wiki/Empire_State_Building",
+        "https://commons.wikimedia.org/wiki/File%3AView_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "New York City, United States",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=New%20York%20City%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=New%20York%20City%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=New%20York%20City%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in New York City"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-088",
+    "tab": "landmarks",
+    "name": "Hoover Dam",
+    "short_line": "Arizona & Nevada, United States",
+    "country": "United States",
+    "lat": 36.0156,
+    "lng": -114.7378,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Hoover_Dam_and_Black_Canyon_seen_from_the_Mike_O%27Callaghan%E2%80%93Pat_Tillman_Memorial_Bridge%2C_panorama%2C_Arizona%E2%80%93Nevada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-088.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHoover_Dam_and_Black_Canyon_seen_from_the_Mike_O'Callaghan%E2%80%93Pat_Tillman_Memorial_Bridge,_panorama,_Arizona%E2%80%93Nevada.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Christian David",
+      "attribution": "Photo: Christian David, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Hoover Dam and Black Canyon seen from the Mike O'Callaghan–Pat Tillman Memorial Bridge, panorama, Arizona–Nevada.jpg' (11000×9243) confirms Hoover Dam; visually checked on contact sheet. desc: Overhead view of the downstream face of Hoover Dam in Black Canyon on the Colorado River, with the two powerhouse wings, the four intake towers on the crest, an"
+    },
+    "facts": {
+      "one_liner": "A massive concrete dam in Black Canyon on the Colorado River.",
+      "why_go": "Built during the Great Depression and completed in 1936, Hoover Dam rises about 726 feet in Black Canyon on the Colorado River, on the border between Nevada and Arizona. It created Lake Mead, one of the largest reservoirs in the United States, and its Art Deco design and scale make it an engineering landmark. The Mike O’Callaghan–Pat Tillman Memorial Bridge gives a dramatic view down onto the dam.",
+      "best_time": "October–April; summer temperatures in the canyon are extremely hot.",
+      "how_to_get_there": "About 45 minutes’ drive south-east of Las Vegas via Boulder City.",
+      "good_to_know": "Guided tours inside the dam have limited capacity; vehicles pass a security checkpoint. Parking at the visitor centre is paid.",
+      "official_or_tourism_url": "https://www.usbr.gov/lc/hooverdam/",
+      "sources": [
+        "https://www.usbr.gov/lc/hooverdam/",
+        "https://en.wikipedia.org/wiki/Hoover_Dam",
+        "https://commons.wikimedia.org/wiki/File%3AHoover_Dam_and_Black_Canyon_seen_from_the_Mike_O'Callaghan%E2%80%93Pat_Tillman_Memorial_Bridge,_panorama,_Arizona%E2%80%93Nevada.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Boulder City, Nevada, United States",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Boulder%20City%2C%20Nevada%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Boulder%20City%2C%20Nevada%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Boulder%20City%2C%20Nevada%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Boulder City"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-089",
+    "tab": "landmarks",
+    "name": "Sacsayhuamán",
+    "short_line": "Cusco, Peru",
+    "country": "Peru",
+    "lat": -13.5078,
+    "lng": -71.9822,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sacsayhuam%C3%A1n%2C_Cusco%2C_Per%C3%BA%2C_2015-07-31%2C_DD_40.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-089.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASacsayhuam%C3%A1n,_Cusco,_Per%C3%BA,_2015-07-31,_DD_40.JPG",
+      "license": "CC BY-SA 4.0",
+      "author": "Diego Delso",
+      "attribution": "Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Sacsayhuamán, Cusco, Perú, 2015-07-31, DD 40.JPG' (8623×4675) confirms Sacsayhuamán; visually checked on contact sheet. desc: Sacsayhuamán, Cusco, Peru"
+    },
+    "facts": {
+      "one_liner": "Massive Inca stone walls fitted without mortar.",
+      "why_go": "Sacsayhuamán is an Inca fortress-temple on a hill above Cusco, built mainly in the 15th century. Its three tiers of zigzag walls are made of enormous limestone blocks—some weighing well over 100 tonnes—cut to fit together so precisely that no mortar was needed. Every 24 June it hosts the re-enacted Inti Raymi, the Inca Festival of the Sun. It is part of the City of Cuzco UNESCO World Heritage Site.",
+      "best_time": "May–September, the dry season; late June for Inti Raymi.",
+      "how_to_get_there": "About 2 km uphill from Cusco’s Plaza de Armas—walk via San Cristóbal church or take a taxi.",
+      "good_to_know": "Entry is included in the Boleto Turístico del Cusco. At 3,700 metres, take the climb slowly.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Sacsayhuam%C3%A1n",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sacsayhuam%C3%A1n",
+        "https://commons.wikimedia.org/wiki/File%3ASacsayhuam%C3%A1n,_Cusco,_Per%C3%BA,_2015-07-31,_DD_40.JPG"
+      ]
+    },
+    "ad": {
+      "destination_query": "Cusco, Peru",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Cusco%2C%20Peru&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Cusco%2C%20Peru&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Cusco%2C%20Peru&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Cusco"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-090",
+    "tab": "landmarks",
+    "name": "Sydney Harbour Bridge",
+    "short_line": "Sydney, Australia",
+    "country": "Australia",
+    "lat": -33.8522,
+    "lng": 151.2106,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sydney_harbour_bridge_new_south_wales.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-090.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASydney_harbour_bridge_new_south_wales.jpg",
+      "license": "CC BY 3.0",
+      "author": "Adam.J.W.C.",
+      "attribution": "Photo: Adam.J.W.C., CC BY 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Sydney harbour bridge new south wales.jpg' (2599×1494) confirms Sydney Harbour Bridge; visually checked on contact sheet. desc: Sydney Harbour Bridge"
+    },
+    "facts": {
+      "one_liner": "The ‘Coathanger’ steel arch over Sydney Harbour.",
+      "why_go": "Opened in 1932, the Sydney Harbour Bridge—nicknamed ‘the Coathanger’—is one of the world’s largest steel arch bridges, linking the city centre with the North Shore. Pedestrians can walk across its eastern footway for views of the Opera House, climb to the top of the arch with BridgeClimb, or visit the Pylon Lookout museum. It is the centrepiece of Sydney’s famous New Year’s Eve fireworks.",
+      "best_time": "Year-round; sunset and New Year’s Eve are special.",
+      "how_to_get_there": "Walk up from The Rocks via the Argyle Stairs, or take the train to Milsons Point on the north side.",
+      "good_to_know": "BridgeClimb must be booked and includes a breath test. Ferries from Circular Quay give the best views from the water.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge",
+        "https://commons.wikimedia.org/wiki/File%3ASydney_harbour_bridge_new_south_wales.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Sydney, Australia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sydney%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sydney%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sydney%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Sydney"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-091",
+    "tab": "landmarks",
+    "name": "Victoria Memorial",
+    "short_line": "Kolkata, India",
+    "country": "India",
+    "lat": 22.5449,
+    "lng": 88.3425,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Victoria_Memorial_situated_in_Kolkata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-091.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AVictoria_Memorial_situated_in_Kolkata.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Subhrajyoti07",
+      "attribution": "Photo: Subhrajyoti07, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Victoria Memorial situated in Kolkata.jpg' (12725×5694) confirms Victoria Memorial; visually checked on contact sheet. desc: The Victoria Memorial is a large marble building in Kolkata (formerly Calcutta), West Bengal, India, which was built between 1906 and 1921. It is dedicated to t"
+    },
+    "facts": {
+      "one_liner": "A white marble memorial hall set in gardens in Kolkata.",
+      "why_go": "The Victoria Memorial is a vast white Makrana marble hall built between 1906 and 1921 in memory of Queen Victoria, when Calcutta was the capital of British India. Its architecture blends British and Mughal styles, with a central dome topped by a bronze Angel of Victory. Inside is a museum of paintings and artefacts, and its 64 acres of gardens are a favourite place for locals to stroll.",
+      "best_time": "October–March for cooler weather; evenings for the illuminated building.",
+      "how_to_get_there": "Next to the Maidan in central Kolkata; Maidan and Rabindra Sadan metro stations are nearby.",
+      "good_to_know": "The museum galleries are closed on Mondays; the gardens have separate opening hours.",
+      "official_or_tourism_url": "https://victoriamemorial-cal.org/",
+      "sources": [
+        "https://victoriamemorial-cal.org/",
+        "https://en.wikipedia.org/wiki/Victoria_Memorial%2C_Kolkata",
+        "https://commons.wikimedia.org/wiki/File%3AVictoria_Memorial_situated_in_Kolkata.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kolkata, India",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kolkata%2C%20India&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kolkata%2C%20India&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kolkata%2C%20India&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kolkata"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-092",
+    "tab": "landmarks",
+    "name": "Great Mosque of Djenné",
+    "short_line": "Djenné, Mali",
+    "country": "Mali",
+    "lat": 13.9053,
+    "lng": -4.5556,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Djenne_great_mud_mosque.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-092.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ADjenne_great_mud_mosque.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Ruud Zwart",
+      "attribution": "Photo: Ruud Zwart, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Djenne great mud mosque.jpg' (2048×1362) confirms Great Mosque of Djenné; visually checked on contact sheet. desc: Great Mud Mosque, Djenné, Mali"
+    },
+    "facts": {
+      "one_liner": "The world’s largest mud-brick building.",
+      "why_go": "The Great Mosque of Djenné is the largest mud-brick building in the world and a masterpiece of Sudano-Sahelian architecture. The current structure was completed in 1907. Its walls bristle with palm-wood beams that serve as scaffolding when the whole town gathers for the annual Crépissage festival to replaster the mosque with fresh mud. It is part of the Old Towns of Djenné UNESCO World Heritage Site.",
+      "best_time": "November–February for the coolest, driest weather.",
+      "how_to_get_there": "Djenné is in central Mali, roughly a day’s drive from Bamako, with a ferry crossing of the Bani River.",
+      "good_to_know": "Many governments currently advise against travel to Mali—check official advice. Non-Muslims cannot enter the mosque.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/116",
+      "sources": [
+        "https://whc.unesco.org/en/list/116",
+        "https://en.wikipedia.org/wiki/Great_Mosque_of_Djenn%C3%A9",
+        "https://commons.wikimedia.org/wiki/File%3ADjenne_great_mud_mosque.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Djenné, Mali",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Djenn%C3%A9%2C%20Mali&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Djenn%C3%A9%2C%20Mali&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Djenn%C3%A9%2C%20Mali&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Djenné"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-093",
+    "tab": "landmarks",
+    "name": "Kronborg",
+    "short_line": "Helsingør, Denmark",
+    "country": "Denmark",
+    "lat": 56.0386,
+    "lng": 12.6219,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Kronborg_April_2026_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-093.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AKronborg_April_2026_06.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "ArildV",
+      "attribution": "Photo: ArildV, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Kronborg April 2026 06.jpg' (7700×4812) confirms Kronborg; visually checked on contact sheet. desc: Kronborg is a castle and historical stronghold in the town of Helsingør, Denmark. Immortalised as Elsinore in William Shakespeare's play Hamlet, Kronborg is one"
+    },
+    "facts": {
+      "one_liner": "Hamlet’s castle guarding the Øresund strait.",
+      "why_go": "Kronborg is a Renaissance castle on a promontory at Helsingør, guarding the narrowest point of the Øresund strait between Denmark and Sweden. For centuries it collected the Sound Dues from passing ships. It is immortalised as Elsinore, the setting of Shakespeare’s Hamlet, and is a UNESCO World Heritage Site. Visitors explore the royal apartments, the great ballroom and the dark casemates where the statue of Holger the Dane sleeps.",
+      "best_time": "May–September; summer brings Hamlet performances in the courtyard.",
+      "how_to_get_there": "About 45 minutes by train from Copenhagen to Helsingør, then a short walk; ferries cross to Helsingborg, Sweden.",
+      "good_to_know": "Allow 2–3 hours. Combine with the M/S Maritime Museum of Denmark next door.",
+      "official_or_tourism_url": "https://kronborg.dk/en/",
+      "sources": [
+        "https://kronborg.dk/en/",
+        "https://en.wikipedia.org/wiki/Kronborg",
+        "https://commons.wikimedia.org/wiki/File%3AKronborg_April_2026_06.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Helsingør, Denmark",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Helsing%C3%B8r%2C%20Denmark&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Helsing%C3%B8r%2C%20Denmark&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Helsing%C3%B8r%2C%20Denmark&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Helsingør"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-094",
+    "tab": "landmarks",
+    "name": "Temple of Poseidon, Sounion",
+    "short_line": "Attica, Greece",
+    "country": "Greece",
+    "lat": 37.6503,
+    "lng": 24.0246,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Greece_Cape_Sounion_BW_2017-10-09_10-12-43.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-094.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AGreece_Cape_Sounion_BW_2017-10-09_10-12-43.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Berthold Werner",
+      "attribution": "Photo: Berthold Werner, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Greece Cape Sounion BW 2017-10-09 10-12-43.jpg' (5580×3972) confirms Temple of Poseidon, Sounion; visually checked on contact sheet. desc: Greece, Temple of Poseidon at Cape Sounion"
+    },
+    "facts": {
+      "one_liner": "A marble temple on a cliff over the Aegean.",
+      "why_go": "The Temple of Poseidon stands on Cape Sounion, at the southern tip of Attica, about 60 metres above the Aegean. Built around 440 BC, its white marble Doric columns were a landmark for sailors returning to Athens. Lord Byron carved his name on one of the columns, and sunsets over the sea here are among the most famous in Greece.",
+      "best_time": "Year-round; sunset is magical, especially in spring and autumn.",
+      "how_to_get_there": "About 1.5 hours by car or bus from Athens along the scenic coastal road.",
+      "good_to_know": "The site is busy at sunset in summer—arrive early. The temple is roped off; views are from around it.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Sounion",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sounion",
+        "https://commons.wikimedia.org/wiki/File%3AGreece_Cape_Sounion_BW_2017-10-09_10-12-43.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Sounion, Greece",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Sounion%2C%20Greece&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Sounion%2C%20Greece&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Sounion%2C%20Greece&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Sounion"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-095",
+    "tab": "landmarks",
+    "name": "Alcázar of Segovia",
+    "short_line": "Segovia, Spain",
+    "country": "Spain",
+    "lat": 40.9528,
+    "lng": -4.1325,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Segovia_-_Alc%C3%A1zar_de_Segovia_22_2017-10-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-095.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASegovia_-_Alc%C3%A1zar_de_Segovia_22_2017-10-24.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Rafa Esteve",
+      "attribution": "Photo: Rafa Esteve, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Segovia - Alcázar de Segovia 22 2017-10-24.jpg' (5184×3456) confirms Alcázar of Segovia; visually checked on contact sheet. desc: Vista del Alcázar de Segovia al atardecer\n\n\n\n\n\nThis is a photo of a monument listed in the Spanish heritage register of Bienes de Interés Cultural under the ref"
+    },
+    "facts": {
+      "one_liner": "A castle on a rocky crag, said to have inspired Disney.",
+      "why_go": "The Alcázar of Segovia rises on a rocky crag above the confluence of the Eresma and Clamores rivers, its slender turrets and slate spires making it one of the most distinctive castles in Spain—often said to have inspired Disney’s castles. Once a royal palace, it later housed a military academy. Inside are richly decorated halls, and the Tower of John II gives sweeping views over Segovia and the plains. It is part of the Old Town of Segovia UNESCO site.",
+      "best_time": "Spring and autumn for mild weather and clear views.",
+      "how_to_get_there": "About 30 minutes by high-speed train from Madrid to Segovia, then a bus or taxi into the old town.",
+      "good_to_know": "The tower climb has about 150 steps. Combine with the aqueduct and cathedral in a day.",
+      "official_or_tourism_url": "https://www.alcazardesegovia.com/",
+      "sources": [
+        "https://www.alcazardesegovia.com/",
+        "https://en.wikipedia.org/wiki/Alc%C3%A1zar_of_Segovia",
+        "https://commons.wikimedia.org/wiki/File%3ASegovia_-_Alc%C3%A1zar_de_Segovia_22_2017-10-24.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Segovia, Spain",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Segovia%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Segovia%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Segovia%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Segovia"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-096",
+    "tab": "landmarks",
+    "name": "Palenque",
+    "short_line": "Chiapas, Mexico",
+    "country": "Mexico",
+    "lat": 17.4842,
+    "lng": -92.0464,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Palenque_temple_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-096.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APalenque_temple_1.jpg",
+      "license": "CC BY 4.0",
+      "author": "Jan Harenburg",
+      "attribution": "Photo: Jan Harenburg, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Palenque temple 1.jpg' (2000×1333) confirms Palenque; visually checked on contact sheet. desc: Palenque ( Chiapas ). Temple of inscriptions"
+    },
+    "facts": {
+      "one_liner": "Maya temples emerging from the rainforest.",
+      "why_go": "Palenque is one of the most beautiful Maya cities, set against the jungle-covered foothills of Chiapas. Its Temple of the Inscriptions contains the tomb of the great ruler K’inich Janaab’ Pakal, discovered in 1952, and the Palace complex has a distinctive four-storey tower. Howler monkeys call from the surrounding rainforest. It is a UNESCO World Heritage Site.",
+      "best_time": "November–April, the drier season; go early before the heat.",
+      "how_to_get_there": "About 8 km from the town of Palenque, which has bus links and a small airport; colectivos run to the site.",
+      "good_to_know": "Bring insect repellent and water. The on-site museum is worth a visit.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/411",
+      "sources": [
+        "https://whc.unesco.org/en/list/411",
+        "https://en.wikipedia.org/wiki/Palenque",
+        "https://commons.wikimedia.org/wiki/File%3APalenque_temple_1.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Palenque, Chiapas, Mexico",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Palenque%2C%20Chiapas%2C%20Mexico&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Palenque%2C%20Chiapas%2C%20Mexico&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Palenque%2C%20Chiapas%2C%20Mexico&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Palenque"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-097",
+    "tab": "landmarks",
+    "name": "Château de Chenonceau",
+    "short_line": "Indre-et-Loire, France",
+    "country": "France",
+    "lat": 47.3249,
+    "lng": 1.0703,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Ch%C3%A2teau_de_Chenonceau_et_tour_des_Marques_-_ouest_%28Chenonceaux%29_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-097.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_de_Chenonceau_et_tour_des_Marques_-_ouest_(Chenonceaux)_(1).jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Gzen92",
+      "attribution": "Photo: Gzen92, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Château de Chenonceau et tour des Marques - ouest (Chenonceaux) (1).jpg' (5472×3648) confirms Château de Chenonceau; visually checked on contact sheet. desc: Chenonceau castle and Marques tower view of the west (Chenonceaux, Indre-et-Loire, France)."
+    },
+    "facts": {
+      "one_liner": "A Renaissance château built across the River Cher.",
+      "why_go": "Chenonceau spans the River Cher on a gallery of arches, making it one of the most romantic châteaux in the Loire Valley. It is known as the ‘Ladies’ Château’ because women shaped its history, including Diane de Poitiers and Catherine de’ Medici, who added the gallery across the river. Its gardens, maze and flower-filled rooms are beautiful, and it is part of the Loire Valley UNESCO World Heritage Site.",
+      "best_time": "April–October; summer evenings may have illuminated garden walks.",
+      "how_to_get_there": "Trains from Tours reach Chenonceaux station in about 30 minutes; the château is a short walk away.",
+      "good_to_know": "Ticket includes the gardens. Rowing boats can be hired in summer for a view from the river.",
+      "official_or_tourism_url": "https://www.chenonceau.com/en",
+      "sources": [
+        "https://www.chenonceau.com/en",
+        "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chenonceau",
+        "https://commons.wikimedia.org/wiki/File%3ACh%C3%A2teau_de_Chenonceau_et_tour_des_Marques_-_ouest_(Chenonceaux)_(1).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Chenonceaux, France",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Chenonceaux%2C%20France&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Chenonceaux%2C%20France&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Chenonceaux%2C%20France&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Chenonceaux"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-098",
+    "tab": "landmarks",
+    "name": "Hawa Mahal",
+    "short_line": "Jaipur, Rajasthan, India",
+    "country": "India",
+    "lat": 26.9239,
+    "lng": 75.8267,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Hawa_Mahal_east_facade_%2814-07-2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-098.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHawa_Mahal_east_facade_(14-07-2022).jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Chainwit.",
+      "attribution": "Photo: Chainwit., CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Hawa Mahal east facade (14-07-2022).jpg' (4032×3024) confirms Hawa Mahal; visually checked on contact sheet. desc: Facade of Jaipur Hawa Mahal from Tattoo Cafe"
+    },
+    "facts": {
+      "one_liner": "The pink sandstone ‘Palace of Winds’ with 953 windows.",
+      "why_go": "Built in 1799 by Maharaja Sawai Pratap Singh, the Hawa Mahal or ‘Palace of Winds’ is a five-storey pink sandstone façade with 953 small windows (jharokhas). The latticework let royal women watch processions and street life without being seen, while breezes cooled the rooms. It is one of the most recognisable sights of Jaipur’s Pink City.",
+      "best_time": "October–March; early morning sun lights up the façade.",
+      "how_to_get_there": "In Jaipur’s old city on Badi Choupad; the entrance is at the back of the building.",
+      "good_to_know": "Cafés across the street have terraces with views of the façade.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Hawa_Mahal",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hawa_Mahal",
+        "https://commons.wikimedia.org/wiki/File%3AHawa_Mahal_east_facade_(14-07-2022).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Jaipur, Rajasthan, India",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Jaipur%2C%20Rajasthan%2C%20India&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Jaipur%2C%20Rajasthan%2C%20India&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Jaipur%2C%20Rajasthan%2C%20India&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Jaipur"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-099",
+    "tab": "landmarks",
+    "name": "Plaza de España, Seville",
+    "short_line": "Seville, Spain",
+    "country": "Spain",
+    "lat": 37.3772,
+    "lng": -5.9869,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-099.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APlaza_de_Espa%C3%B1a_(Sevilla)_-_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Carlos Delgado",
+      "attribution": "Photo: Carlos Delgado, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Plaza de España (Sevilla) - 01.jpg' (3888×2592) confirms Plaza de España, Seville; visually checked on contact sheet. desc: Plaza de España (Spain Square), Seville, Andalusia, Spain."
+    },
+    "facts": {
+      "one_liner": "A grand semicircular plaza of tiled alcoves and canal bridges.",
+      "why_go": "Built for the 1929 Ibero-American Exposition, the Plaza de España is a huge semicircular plaza in Parque de María Luisa. Its brick buildings are decorated with Renaissance and Moorish-revival towers, and alcoves of painted tiles represent the provinces of Spain. A canal crossed by tiled bridges curves around the square, and rowing boats can be hired.",
+      "best_time": "March–May and October–November; summer is extremely hot.",
+      "how_to_get_there": "About 15–20 minutes’ walk from Seville Cathedral; the Prado de San Sebastián tram and metro stop is nearby.",
+      "good_to_know": "The plaza is free to visit. Flamenco dancers and street musicians often perform here.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Plaza_de_Espa%C3%B1a_(Seville)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Plaza_de_Espa%C3%B1a_(Seville)",
+        "https://en.wikipedia.org/wiki/Plaza_de_Espa%C3%B1a_%28Seville%29",
+        "https://commons.wikimedia.org/wiki/File%3APlaza_de_Espa%C3%B1a_(Sevilla)_-_01.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Seville, Spain",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Seville%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Seville%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Seville%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Seville"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "landmarks-100",
+    "tab": "landmarks",
+    "name": "Rila Monastery",
+    "short_line": "Rila Mountains, Bulgaria",
+    "country": "Bulgaria",
+    "lat": 42.1335,
+    "lng": 23.3403,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Rila_Monastery_%28%D0%A0%D0%B8%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80%29_-_by_Pudelek.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/landmarks/landmarks-100.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ARila_Monastery_(%D0%A0%D0%B8%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80)_-_by_Pudelek.JPG",
+      "license": "CC BY-SA 3.0",
+      "author": "Pudelek (Marcin Szala)",
+      "attribution": "Photo: Pudelek (Marcin Szala), CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Rila Monastery (Рилски манастир) - by Pudelek.JPG' (2885×2087) confirms Rila Monastery; visually checked on contact sheet. desc: Rila Monastery, Bulgaria"
+    },
+    "facts": {
+      "one_liner": "Bulgaria’s largest monastery with striped arcades and frescoes.",
+      "why_go": "Founded in the 10th century by the hermit Saint John of Rila, Rila Monastery is the largest and most famous Eastern Orthodox monastery in Bulgaria. Set in a forested valley of the Rila Mountains, it is surrounded by striped arcades and wooden balconies. The Church of the Nativity is covered with colourful frescoes, and the medieval Hrelyo’s Tower survives. It is a UNESCO World Heritage Site.",
+      "best_time": "May–October; autumn colours in the valley are beautiful.",
+      "how_to_get_there": "About 2 hours by road from Sofia; day tours and a daily bus are available.",
+      "good_to_know": "Dress modestly and photography may be restricted inside the church. Simple rooms are available in the monastery.",
+      "official_or_tourism_url": "https://whc.unesco.org/en/list/216",
+      "sources": [
+        "https://whc.unesco.org/en/list/216",
+        "https://commons.wikimedia.org/wiki/File%3ARila_Monastery_(%D0%A0%D0%B8%D0%BB%D1%81%D0%BA%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80)_-_by_Pudelek.JPG"
+      ]
+    },
+    "ad": {
+      "destination_query": "Rila, Bulgaria",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rila%2C%20Bulgaria&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rila%2C%20Bulgaria&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rila%2C%20Bulgaria&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Rila"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:41:35-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
   }
 ]
