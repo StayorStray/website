@@ -140,7 +140,17 @@
     "plan_after_travel": "喜欢{name}？现在就规划",
     "plan_close": "关闭",
     "submit_pin_none": "不置顶",
-    "submit_pin_line_30": "+$99.00 — 卡片上线后 30 天内保持在此标签前 25 位。"
+    "submit_pin_line_30": "+$99.00 — 卡片上线后 30 天内保持在此标签前 25 位。",
+    "submit_renew_legend": "续订",
+    "submit_renew_label": "自动续订",
+    "submit_renew_terms_founding": "Founding Standard：首年 $39.99，之后按 $49.99/年 自动续订。",
+    "submit_renew_terms_standard": "Standard：按 $49.99/年 自动续订。",
+    "submit_renew_terms_hg": "Hidden Gems：按 $99.99/年 自动续订。",
+    "submit_renew_terms_pick": "选择刊登类型以查看续订条款。",
+    "submit_renew_terms_pin30": "30 天置顶按 $99/月 自动续订。",
+    "submit_renew_terms_pin7": "7 天置顶为一次性，不会续订。",
+    "submit_renew_terms_cancel": "续订在你的刊登上线满一个周期后开始，并从此卡扣款，直到你取消。每次年度续订前我们会发邮件提醒；可随时通过邮件中的链接在线取消。不勾选则一次性付款，我们会在到期前约 7 天发送续订链接。",
+    "submit_renew_review": "自动续订：已开启（可随时取消）"
   },
   "tabs": {
     "hidden-gems": "隐藏瑰宝",

@@ -140,7 +140,17 @@
     "plan_after_travel": "Loved {name}? Plan it now",
     "plan_close": "Close",
     "submit_pin_none": "No pin",
-    "submit_pin_line_30": "+$99.00 — your card stays in this tab’s first 25 for 30 days after it goes live."
+    "submit_pin_line_30": "+$99.00 — your card stays in this tab’s first 25 for 30 days after it goes live.",
+    "submit_renew_legend": "Renewal",
+    "submit_renew_label": "Automatically renew",
+    "submit_renew_terms_founding": "Founding Standard: $39.99 for the first year, then renews automatically at $49.99/year.",
+    "submit_renew_terms_standard": "Standard: renews automatically at $49.99/year.",
+    "submit_renew_terms_hg": "Hidden Gems: renews automatically at $99.99/year.",
+    "submit_renew_terms_pick": "Pick a listing type to see renewal terms.",
+    "submit_renew_terms_pin30": "The 30-day pin renews automatically at $99/month.",
+    "submit_renew_terms_pin7": "The 7-day pin is one-time and does not renew.",
+    "submit_renew_terms_cancel": "Renewals start one term after your listing goes live and are charged to this card until you cancel. We email you before each yearly renewal; cancel anytime online from the link in your email. Leave unchecked to pay once, and we’ll email you a renew link about 7 days before your term ends.",
+    "submit_renew_review": "Auto-renew: ON (cancel anytime)"
   },
   "tabs": {
     "hidden-gems": "Hidden Gems",

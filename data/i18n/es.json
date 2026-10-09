@@ -140,7 +140,17 @@
     "plan_after_travel": "¿Te encantó {name}? Planifícalo ya",
     "plan_close": "Cerrar",
     "submit_pin_none": "Sin fijar",
-    "submit_pin_line_30": "+$99.00 — tu tarjeta permanece entre las 25 primeras de esta pestaña durante 30 días tras publicarse."
+    "submit_pin_line_30": "+$99.00 — tu tarjeta permanece entre las 25 primeras de esta pestaña durante 30 días tras publicarse.",
+    "submit_renew_legend": "Renovación",
+    "submit_renew_label": "Renovar automáticamente",
+    "submit_renew_terms_founding": "Founding Standard: $39.99 el primer año; después se renueva automáticamente a $49.99/año.",
+    "submit_renew_terms_standard": "Standard: se renueva automáticamente a $49.99/año.",
+    "submit_renew_terms_hg": "Hidden Gems: se renueva automáticamente a $99.99/año.",
+    "submit_renew_terms_pick": "Elige un tipo de anuncio para ver las condiciones de renovación.",
+    "submit_renew_terms_pin30": "El pin de 30 días se renueva automáticamente a $99/mes.",
+    "submit_renew_terms_pin7": "El pin de 7 días es único y no se renueva.",
+    "submit_renew_terms_cancel": "Las renovaciones empiezan un periodo después de que tu anuncio se publique y se cobran a esta tarjeta hasta que canceles. Te avisamos por email antes de cada renovación anual; cancela cuando quieras en línea desde el enlace del email. Si no lo marcas, pagas una vez y te enviaremos un enlace de renovación unos 7 días antes del fin del periodo.",
+    "submit_renew_review": "Renovación automática: ACTIVADA (cancela cuando quieras)"
   },
   "tabs": {
     "hidden-gems": "Joyas ocultas",

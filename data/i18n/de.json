@@ -140,7 +140,17 @@
     "plan_after_travel": "{name} gefällt dir? Jetzt planen",
     "plan_close": "Schließen",
     "submit_pin_none": "Kein Pin",
-    "submit_pin_line_30": "+$99.00 — Ihre Karte bleibt 30 Tage nach Go-live unter den ersten 25 dieses Tabs."
+    "submit_pin_line_30": "+$99.00 — Ihre Karte bleibt 30 Tage nach Go-live unter den ersten 25 dieses Tabs.",
+    "submit_renew_legend": "Verlängerung",
+    "submit_renew_label": "Automatisch verlängern",
+    "submit_renew_terms_founding": "Founding Standard: 39,99 $ im ersten Jahr, danach automatische Verlängerung zu 49,99 $/Jahr.",
+    "submit_renew_terms_standard": "Standard: automatische Verlängerung zu 49,99 $/Jahr.",
+    "submit_renew_terms_hg": "Hidden Gems: automatische Verlängerung zu 99,99 $/Jahr.",
+    "submit_renew_terms_pick": "Wähle einen Eintragstyp, um die Verlängerungsbedingungen zu sehen.",
+    "submit_renew_terms_pin30": "Der 30-Tage-Pin verlängert sich automatisch zu 99 $/Monat.",
+    "submit_renew_terms_pin7": "Der 7-Tage-Pin ist einmalig und verlängert sich nicht.",
+    "submit_renew_terms_cancel": "Verlängerungen beginnen eine Laufzeit nach dem Livegang und werden dieser Karte belastet, bis du kündigst. Wir erinnern dich per E-Mail vor jeder jährlichen Verlängerung; kündige jederzeit online über den Link in der E-Mail. Ohne Häkchen zahlst du einmalig und erhältst ca. 7 Tage vor Laufzeitende einen Verlängerungslink.",
+    "submit_renew_review": "Automatische Verlängerung: AN (jederzeit kündbar)"
   },
   "tabs": {
     "hidden-gems": "Versteckte Juwelen",

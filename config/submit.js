@@ -37,7 +37,18 @@
         hidden_gems_pin: 'https://buy.stripe.com/test_8x27sL9T15Up49iayG0Jq05', // plink_1UOWZmECBucDnUAXx7JNRgwn
         founding_standard_pin30: 'https://buy.stripe.com/test_9B6dR90ir96BbBKcGO0Jq06', // plink_1UOmdFECBucDnUAXcwDih6XR
         standard_pin30: 'https://buy.stripe.com/test_eVq7sL8OX82xeNW0Y60Jq07', // plink_1UOmdGECBucDnUAXNWqizu3S
-        hidden_gems_pin30: 'https://buy.stripe.com/test_dRmdR91mv4Ql35e22a0Jq08' // plink_1UOmdHECBucDnUAXxIP5lXiu
+        hidden_gems_pin30: 'https://buy.stripe.com/test_dRmdR91mv4Ql35e22a0Jq08', // plink_1UOmdHECBucDnUAXxIP5lXiu
+        // AUTO-RENEW PREVIEW (branch auto-renew-preview only): same holds + setup_future_usage=off_session,
+        // customer_creation=always, metadata renew=yes. Key: <sku>[_pin|_pin30]_renew.
+        founding_standard_renew: 'https://buy.stripe.com/test_6oUfZh6GPciN35e6iq0Jq09', // plink_1UOmkiECBucDnUAXEGy94PfI
+        founding_standard_pin_renew: 'https://buy.stripe.com/test_3cI00j8OX3Mh8py36e0Jq0a', // plink_1UOmkiECBucDnUAX3AjmvzJV
+        founding_standard_pin30_renew: 'https://buy.stripe.com/test_aFa8wP2qz6YteNWbCK0Jq0b', // plink_1UOmkjECBucDnUAXCPcz0oEO
+        standard_renew: 'https://buy.stripe.com/test_8x2fZhe9h2Id7lu5em0Jq0c', // plink_1UOmkjECBucDnUAXpFjhnmYU
+        standard_pin_renew: 'https://buy.stripe.com/test_6oU7sLe9heqVfS09uC0Jq0d', // plink_1UOmkkECBucDnUAX4Crw5ha1
+        standard_pin30_renew: 'https://buy.stripe.com/test_fZu5kD7KT1E9fS00Y60Jq0e', // plink_1UOmklECBucDnUAXheleo8NH
+        hidden_gems_renew: 'https://buy.stripe.com/test_aFaaEX9T1fuZ35e0Y60Jq0f', // plink_1UOmklECBucDnUAX0OhQOV5T
+        hidden_gems_pin_renew: 'https://buy.stripe.com/test_00w7sLfdl96B5dmeOW0Jq0g', // plink_1UOmkmECBucDnUAXe2FZbXkM
+        hidden_gems_pin30_renew: 'https://buy.stripe.com/test_eVq28rc192IdcFOdKS0Jq0h' // plink_1UOmknECBucDnUAX0lehNUId
       },
       live: {
         // Fill in after creating the 6 LIVE manual-capture links (docs/checkout/GO-LIVE.md).
@@ -50,6 +61,20 @@
         founding_standard_pin30: '',
         standard_pin30: '',
         hidden_gems_pin30: ''
+      }
+    },
+
+    // Renewal terms shown next to the opt-in checkbox (preview). Recurring TEST prices used by the
+    // billing Worker when a held payment is captured (workers/billing-preview).
+    renewal: {
+      enabled: { test: true, live: false },
+      prices: {
+        test: {
+          standard_yearly: 'price_1UOmkIECBucDnUAX2anGInHt', // $49.99/yr (Founding + Standard renewals)
+          hidden_gems_yearly: 'price_1UOmkUECBucDnUAXciJo91kd', // $99.99/yr
+          pin_30d_monthly: 'price_1UOmkUECBucDnUAXy8frB35B' // $99/mo
+        },
+        live: {}
       }
     },
 

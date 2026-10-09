@@ -140,7 +140,17 @@
     "plan_after_travel": "Amou {name}? Planeje agora",
     "plan_close": "Fechar",
     "submit_pin_none": "Sem fixar",
-    "submit_pin_line_30": "+$99.00 — seu cartão permanece entre os 25 primeiros desta aba por 30 dias após a publicação."
+    "submit_pin_line_30": "+$99.00 — seu cartão permanece entre os 25 primeiros desta aba por 30 dias após a publicação.",
+    "submit_renew_legend": "Renovação",
+    "submit_renew_label": "Renovar automaticamente",
+    "submit_renew_terms_founding": "Founding Standard: US$ 39,99 no primeiro ano; depois renova automaticamente por US$ 49,99/ano.",
+    "submit_renew_terms_standard": "Standard: renova automaticamente por US$ 49,99/ano.",
+    "submit_renew_terms_hg": "Hidden Gems: renova automaticamente por US$ 99,99/ano.",
+    "submit_renew_terms_pick": "Escolha um tipo de anúncio para ver os termos de renovação.",
+    "submit_renew_terms_pin30": "O pin de 30 dias renova automaticamente por US$ 99/mês.",
+    "submit_renew_terms_pin7": "O pin de 7 dias é único e não renova.",
+    "submit_renew_terms_cancel": "As renovações começam um período após seu anúncio entrar no ar e são cobradas neste cartão até você cancelar. Avisamos por e-mail antes de cada renovação anual; cancele quando quiser on-line pelo link do e-mail. Sem marcar, você paga uma vez e enviaremos um link de renovação cerca de 7 dias antes do fim do período.",
+    "submit_renew_review": "Renovação automática: ATIVADA (cancele quando quiser)"
   },
   "tabs": {
     "hidden-gems": "Joias Escondidas",

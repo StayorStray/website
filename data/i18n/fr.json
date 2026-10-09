@@ -140,7 +140,17 @@
     "plan_after_travel": "{name} vous plaît ? Planifiez-le",
     "plan_close": "Fermer",
     "submit_pin_none": "Pas d’épinglage",
-    "submit_pin_line_30": "+$99.00 — votre carte reste dans les 25 premières de cette rubrique pendant 30 jours après sa mise en ligne."
+    "submit_pin_line_30": "+$99.00 — votre carte reste dans les 25 premières de cette rubrique pendant 30 jours après sa mise en ligne.",
+    "submit_renew_legend": "Renouvellement",
+    "submit_renew_label": "Renouveler automatiquement",
+    "submit_renew_terms_founding": "Founding Standard : 39,99 $ la première année, puis renouvellement automatique à 49,99 $/an.",
+    "submit_renew_terms_standard": "Standard : renouvellement automatique à 49,99 $/an.",
+    "submit_renew_terms_hg": "Hidden Gems : renouvellement automatique à 99,99 $/an.",
+    "submit_renew_terms_pick": "Choisissez un type d’annonce pour voir les conditions de renouvellement.",
+    "submit_renew_terms_pin30": "L’épinglage 30 jours se renouvelle automatiquement à 99 $/mois.",
+    "submit_renew_terms_pin7": "L’épinglage 7 jours est unique et ne se renouvelle pas.",
+    "submit_renew_terms_cancel": "Les renouvellements commencent une période après la mise en ligne et sont prélevés sur cette carte jusqu’à résiliation. Nous vous prévenons par e-mail avant chaque renouvellement annuel ; résiliez à tout moment en ligne via le lien de l’e-mail. Sans cocher, vous payez une fois et recevez un lien de renouvellement environ 7 jours avant la fin.",
+    "submit_renew_review": "Renouvellement automatique : ACTIVÉ (résiliable à tout moment)"
   },
   "tabs": {
     "hidden-gems": "Pépites cachées",

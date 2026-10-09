@@ -1,0 +1,18 @@
+import { renewalPlan, verifyStripeSignature } from '../src/index.js';
+import crypto from 'node:crypto';
+let f = 0; const ok = (c, m) => { console.log((c ? 'PASS ' : 'FAIL ') + m); if (!c) f++; };
+const now = 1800000000, Y = 365 * 86400, M = 30 * 86400;
+const pi = (md) => ({ id: 'pi_x', livemode: false, metadata: Object.assign({ site: 'spot-and-travel' }, md) });
+let p = renewalPlan(pi({ sku: 'founding_standard', pin: 'pin30', renew: 'yes' }), now);
+ok(p.action === 'subscribe' && p.subs.length === 2 && p.subs[0].price === 'price_1UOmkIECBucDnUAX2anGInHt' && p.subs[0].trial_end === now + Y && p.subs[1].trial_end === now + M, 'founding+pin30 renew: yearly $49.99 + monthly pin');
+p = renewalPlan(pi({ sku: 'hidden_gems', pin: 'pin7', renew: 'yes' }), now);
+ok(p.subs.length === 1 && p.subs[0].price === 'price_1UOmkUECBucDnUAXciJo91kd', 'hidden gems + 7-day pin: only the listing renews');
+p = renewalPlan(pi({ sku: 'standard', pin_7d: 'no' }), now);
+ok(p.action === 'remind' && p.term_end === now + Y, 'no renew -> reminder path');
+ok(renewalPlan({ metadata: { sku: 'standard' } }, now).action === 'ignore', 'foreign PI ignored');
+const sec = 'whsec_test', body = '{"a":1}', t = Math.floor(Date.now() / 1000);
+const sig = crypto.createHmac('sha256', sec).update(t + '.' + body).digest('hex');
+ok(await verifyStripeSignature(body, `t=${t},v1=${sig}`, sec), 'valid signature');
+ok(!(await verifyStripeSignature(body, `t=${t - 1000},v1=${sig}`, sec)), 'stale timestamp rejected');
+ok(!(await verifyStripeSignature(body + ' ', `t=${t},v1=${sig}`, sec)), 'tampered body rejected');
+process.exit(f ? 1 : 0);

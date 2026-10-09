@@ -1,0 +1,21 @@
+# Spot and Travel — billing PREVIEW Worker (Stripe TEST mode only). Not deployed; see docs/checkout/AUTO-RENEW.md.
+name = "spotandtravel-billing-preview"
+main = "src/index.js"
+compatibility_date = "2025-09-01"
+workers_dev = true
+account_id = "a0834431555078b5312f9b68d00be5fd"
+
+[triggers]
+crons = ["23 14 * * *"]   # daily: reminder emails for one-time (non-renewing) listings
+
+[vars]
+SITE_URL = "https://spotandtravel.com"
+REMINDER_DAYS_BEFORE = "7"
+EMAIL_FROM = "Spot and Travel <renewals@spotandtravel.com>"
+# Secrets (wrangler secret put): STRIPE_SECRET_KEY (rk_/sk_ test), STRIPE_WEBHOOK_SECRET (whsec_), RESEND_API_KEY (optional)
+
+[[d1_databases]]
+binding = "DB"
+database_name = "spotandtravel-billing-preview"
+database_id = "00000000-0000-0000-0000-000000000000"   # create with `wrangler d1 create` before deploying
+migrations_dir = "migrations"

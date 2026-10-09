@@ -141,6 +141,15 @@
           <p class="submit-hint" data-i18n="submit_pin_cap">Subject to availability (25 pin cap per tab). Pin clock starts at go-live, not at payment.</p>
         </fieldset>
 
+        <fieldset class="submit-fieldset submit-renew" id="submit-renew" hidden>
+          <legend class="submit-label" data-i18n="submit_renew_legend">Renewal</legend>
+          <label class="submit-check">
+            <input type="checkbox" id="auto-renew" name="auto_renew" value="1" aria-describedby="renew-terms" />
+            <span data-i18n="submit_renew_label">Automatically renew</span>
+          </label>
+          <p class="submit-hint" id="renew-terms" aria-live="polite"></p>
+        </fieldset>
+
         <section class="submit-review" id="submit-review" aria-labelledby="submit-review-heading">
           <h2 id="submit-review-heading" class="submit-review-heading" data-i18n="submit_review_heading">Order summary</h2>
           <ul class="submit-review-lines" id="submit-review-lines">
@@ -242,6 +251,34 @@
       var checked = form.querySelector('input[name="sku"]:checked');
       return checked ? Number(checked.getAttribute('data-price') || 0) : 0;
     }
+    // ---- Auto-renew (opt-in, preview). Unchecked by default; terms update with the chosen SKU/pin.
+    function renewEnabled() {
+      var c = window.SOS_SUBMIT || cfg || {};
+      return !!(c.renewal && c.renewal.enabled && c.renewal.enabled[checkoutMode()]);
+    }
+    function renewChecked() {
+      var el = document.getElementById('auto-renew');
+      return !!(renewEnabled() && el && el.checked);
+    }
+    function renewTerms() {
+      var skuEl = form.querySelector('input[name="sku"]:checked');
+      var sku = skuEl ? skuEl.value : '';
+      var key = { founding_standard: 'submit_renew_terms_founding', standard: 'submit_renew_terms_standard',
+        hidden_gems: 'submit_renew_terms_hg' }[sku] || 'submit_renew_terms_pick';
+      var txt = t(key);
+      var pin = pinChoice();
+      if (pin === '30d') txt += ' ' + t('submit_renew_terms_pin30');
+      else if (pin === '7d') txt += ' ' + t('submit_renew_terms_pin7');
+      return txt + ' ' + t('submit_renew_terms_cancel');
+    }
+    function updateRenew() {
+      var box = document.getElementById('submit-renew');
+      if (!box) return;
+      box.hidden = !renewEnabled();
+      var terms = document.getElementById('renew-terms');
+      if (terms) terms.textContent = renewTerms();
+    }
+
     function pinChoice() {
       var el = form.querySelector('input[name="pin"]:checked');
       return el && (el.value === '7d' || el.value === '30d') ? el.value : 'none';
@@ -265,6 +302,7 @@
     }
 
     function updateReview() {
+      updateRenew();
       var total = skuPrice() + pinPrice();
       var pin = form.querySelector('input[name="pin"]:checked');
       var lines = [];
@@ -273,6 +311,7 @@
         var pinSpan = pin.parentNode && pin.parentNode.querySelector('[data-i18n]');
         lines.push(pinSpan ? (pinSpan.textContent || '').trim() : t(pinChoice() === '30d' ? 'submit_pin_line_30' : 'submit_pin_line'));
       }
+      if (renewChecked()) lines.push(t('submit_renew_review'));
       if (reviewLines) {
         reviewLines.innerHTML = lines.map(function (line) {
           return '<li>' + line.replace(/</g, '&lt;') + '</li>';
@@ -549,11 +588,11 @@
       var c = window.SOS_SUBMIT || cfg || {};
       return c.checkoutMode === 'live' ? 'live' : 'test';
     }
-    function checkoutUrl(sku, pin, ref, email) {
+    function checkoutUrl(sku, pin, ref, email, renew) {
       var c = window.SOS_SUBMIT || cfg || {};
       var links = (c.paymentLinks && c.paymentLinks[checkoutMode()]) || {};
       var suffix = pin === '30d' ? '_pin30' : pin === '7d' ? '_pin' : '';
-      var base = String(links[sku + suffix] || '').trim();
+      var base = String(links[sku + suffix + (renew ? '_renew' : '')] || '').trim();
       if (!/^https:\/\/buy\.stripe\.com\//.test(base)) return '';
       var q = 'client_reference_id=' + encodeURIComponent(ref);
       if (email) q += '&prefilled_email=' + encodeURIComponent(email);
@@ -561,7 +600,7 @@
     }
     function payloadKey(payload) {
       return [payload.submission_ref, payload.place_name, payload.country, payload.city, payload.tab,
-        payload.why_stay, payload.submitter_email, payload.sku, payload.pin,
+        payload.why_stay, payload.submitter_email, payload.sku, payload.pin, payload.auto_renew,
         selectedPhoto ? selectedPhoto.size : 0].join('|');
     }
     function showStatus(msg) {
@@ -579,7 +618,7 @@
       }
     }
     function goToCheckout(payload) {
-      var url = checkoutUrl(payload.sku, payload.pin, payload.submission_ref, payload.submitter_email);
+      var url = checkoutUrl(payload.sku, payload.pin, payload.submission_ref, payload.submitter_email, payload.auto_renew === 'yes');
       if (!url) {
         console.warn('[Spot and Travel Submit] no Payment Link for', checkoutMode(), payload.sku, payload.pin);
         showStatus(t('submit_status_checkout_unavailable', { ref: payload.submission_ref }));
@@ -680,6 +719,8 @@
         pin: pin,
         pin_7d: pin === '7d' ? 'yes' : 'no',
         pin_30d: pin === '30d' ? 'yes' : 'no',
+        auto_renew: renewChecked() ? 'yes' : 'no',
+        auto_renew_terms: renewChecked() ? renewTerms() : '',
         estimated_total: Number(total).toFixed(2),
         _subject: 'Spot and Travel submission ' + currentRef() + ': ' + place,
         acks: 'license=yes; real_place=yes; paid_listing=yes',
@@ -701,6 +742,7 @@
         'Submitter email: ' + payload.submitter_email,
         'SKU: ' + payload.sku,
         'Pin: ' + payload.pin + ' (pin_7d: ' + payload.pin_7d + ', pin_30d: ' + payload.pin_30d + ')',
+        'Auto-renew: ' + payload.auto_renew,
         'Estimated total (USD): $' + payload.estimated_total,
         '',
         'Acks: ' + payload.acks,
@@ -860,7 +902,7 @@
 
     /** Basin failed: the buyer emails the submission themselves, then can still place the card hold. */
     function offerCheckoutAfterFallback(payload) {
-      var url = checkoutUrl(payload.sku, payload.pin, payload.submission_ref, payload.submitter_email);
+      var url = checkoutUrl(payload.sku, payload.pin, payload.submission_ref, payload.submitter_email, payload.auto_renew === 'yes');
       if (!url) return;
       sset(PENDING_KEY, JSON.stringify({ ref: payload.submission_ref, url: url, sku: payload.sku,
         pin: payload.pin, total: payload.estimated_total, mode: checkoutMode(), at: Date.now() }));

@@ -140,7 +140,17 @@
     "plan_after_travel": "Fan van {name}? Plan het nu",
     "plan_close": "Sluiten",
     "submit_pin_none": "Geen pin",
-    "submit_pin_line_30": "+$99.00 — je kaart blijft 30 dagen na livegang in de eerste 25 van deze tab."
+    "submit_pin_line_30": "+$99.00 — je kaart blijft 30 dagen na livegang in de eerste 25 van deze tab.",
+    "submit_renew_legend": "Verlenging",
+    "submit_renew_label": "Automatisch verlengen",
+    "submit_renew_terms_founding": "Founding Standard: $39,99 het eerste jaar, daarna automatisch verlengd voor $49,99/jaar.",
+    "submit_renew_terms_standard": "Standard: automatisch verlengd voor $49,99/jaar.",
+    "submit_renew_terms_hg": "Hidden Gems: automatisch verlengd voor $99,99/jaar.",
+    "submit_renew_terms_pick": "Kies een vermeldingstype om de verlengingsvoorwaarden te zien.",
+    "submit_renew_terms_pin30": "De 30-dagenpin wordt automatisch verlengd voor $99/maand.",
+    "submit_renew_terms_pin7": "De 7-dagenpin is eenmalig en wordt niet verlengd.",
+    "submit_renew_terms_cancel": "Verlengingen starten één termijn nadat je vermelding live gaat en worden op deze kaart afgeschreven tot je opzegt. We mailen je vóór elke jaarlijkse verlenging; zeg op elk moment online op via de link in de mail. Niet aangevinkt: je betaalt eenmalig en krijgt ongeveer 7 dagen voor het einde een verlenglink.",
+    "submit_renew_review": "Automatisch verlengen: AAN (altijd opzegbaar)"
   },
   "tabs": {
     "hidden-gems": "Verborgen parels",

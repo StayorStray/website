@@ -140,7 +140,17 @@
     "plan_after_travel": "{name}が気に入りましたか？今すぐ計画",
     "plan_close": "閉じる",
     "submit_pin_none": "ピン留めなし",
-    "submit_pin_line_30": "+$99.00 — 公開後30日間、このタブの先頭25件にカードが表示されます。"
+    "submit_pin_line_30": "+$99.00 — 公開後30日間、このタブの先頭25件にカードが表示されます。",
+    "submit_renew_legend": "更新",
+    "submit_renew_label": "自動更新する",
+    "submit_renew_terms_founding": "Founding Standard：初年度 $39.99、その後 $49.99/年で自動更新。",
+    "submit_renew_terms_standard": "Standard：$49.99/年で自動更新。",
+    "submit_renew_terms_hg": "Hidden Gems：$99.99/年で自動更新。",
+    "submit_renew_terms_pick": "掲載タイプを選ぶと更新条件が表示されます。",
+    "submit_renew_terms_pin30": "30日ピンは $99/月で自動更新されます。",
+    "submit_renew_terms_pin7": "7日ピンは1回限りで、更新されません。",
+    "submit_renew_terms_cancel": "更新は掲載公開から1期間後に始まり、解約するまでこのカードに請求されます。毎年の更新前にメールでお知らせし、メール内のリンクからいつでもオンラインで解約できます。チェックしない場合は1回払いとなり、期間終了の約7日前に更新リンクをお送りします。",
+    "submit_renew_review": "自動更新：オン（いつでも解約可）"
   },
   "tabs": {
     "hidden-gems": "隠れた名所",

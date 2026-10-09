@@ -140,7 +140,17 @@
     "plan_after_travel": "{name}이(가) 마음에 드셨나요? 지금 계획하세요",
     "plan_close": "닫기",
     "submit_pin_none": "고정 안 함",
-    "submit_pin_line_30": "+$99.00 — 카드가 공개된 후 30일 동안 이 탭의 상위 25개에 유지됩니다."
+    "submit_pin_line_30": "+$99.00 — 카드가 공개된 후 30일 동안 이 탭의 상위 25개에 유지됩니다.",
+    "submit_renew_legend": "갱신",
+    "submit_renew_label": "자동 갱신",
+    "submit_renew_terms_founding": "Founding Standard: 첫해 $39.99, 이후 연 $49.99에 자동 갱신.",
+    "submit_renew_terms_standard": "Standard: 연 $49.99에 자동 갱신.",
+    "submit_renew_terms_hg": "Hidden Gems: 연 $99.99에 자동 갱신.",
+    "submit_renew_terms_pick": "갱신 조건을 보려면 등록 유형을 선택하세요.",
+    "submit_renew_terms_pin30": "30일 고정은 월 $99에 자동 갱신됩니다.",
+    "submit_renew_terms_pin7": "7일 고정은 1회성이며 갱신되지 않습니다.",
+    "submit_renew_terms_cancel": "갱신은 게시 후 한 기간이 지나면 시작되며 해지할 때까지 이 카드로 청구됩니다. 매년 갱신 전에 이메일로 알려 드리며, 이메일의 링크로 언제든 온라인 해지할 수 있습니다. 체크하지 않으면 1회 결제이며 기간 종료 약 7일 전에 갱신 링크를 보내 드립니다.",
+    "submit_renew_review": "자동 갱신: 켜짐 (언제든 해지 가능)"
   },
   "tabs": {
     "hidden-gems": "숨은 명소",
