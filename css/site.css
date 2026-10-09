@@ -1207,13 +1207,40 @@ body.list-panel-open { overflow: hidden; }
   font-size: 0.92rem;
   line-height: 1.4;
 }
-.submit-sales-final {
+.submit-hold-summary {
   margin: 0.15rem 0 0;
   font-size: 0.92rem;
   font-weight: 600;
   color: var(--text);
   line-height: 1.4;
 }
+.submit-checkout-notice {
+  margin: 0 0 1rem;
+  padding: 0.85rem 1rem;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.04);
+  display: grid;
+  gap: 0.35rem;
+}
+.submit-checkout-notice[hidden] { display: none; }
+.submit-checkout-notice.is-success {
+  border-color: rgba(47, 158, 107, 0.55);
+  background: rgba(47, 158, 107, 0.12);
+}
+.submit-checkout-notice.is-cancel {
+  border-color: rgba(232, 196, 124, 0.5);
+  background: rgba(232, 196, 124, 0.08);
+}
+.submit-checkout-notice p { margin: 0; line-height: 1.45; }
+.submit-checkout-notice-ref { font-weight: 700; font-size: 0.92rem; }
+.submit-continue-checkout {
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.submit-continue-checkout[hidden] { display: none; }
 .submit-acks {
   gap: 0.65rem;
 }

@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Submit a Place — Spot and Travel</title>
-  <meta name="description" content="Propose a real place for Spot and Travel. Paid does not equal live — Accuracy Auditor gates every card." />
+  <meta name="description" content="Propose a real place for Spot and Travel. Your card is only held at checkout and charged if your listing is approved — Accuracy Auditor gates every card." />
   <link rel="stylesheet" href="../css/site.css" />
   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml" />
   <link rel="icon" href="../assets/favicon-32.png" sizes="32x32" type="image/png" />
@@ -40,7 +40,11 @@
 
     <section class="submit-place" aria-labelledby="submit-place-heading">
       <h1 id="submit-place-heading" class="deck-section-label">Submit a Place</h1>
-      <p class="submit-place-intro" data-i18n="submit_intro">Propose a real, visitable place. Payment does not equal live — the Accuracy Auditor still gates every card before it goes public. All sales are final even if the card never goes live. Pin clocks start at go-live.</p>
+      <p class="submit-place-intro" data-i18n="submit_intro">Propose a real, visitable place. Payment does not equal live — the Accuracy Auditor still gates every card before it goes public. At checkout your card is only held, not charged: we charge it only if your listing is approved. If it’s rejected, the hold is released and you pay nothing. Pin clocks start at go-live.</p>
+      <div class="submit-checkout-notice" id="checkout-notice" role="status" aria-live="polite" hidden>
+        <p class="submit-checkout-notice-text" id="checkout-notice-text"></p>
+        <p class="submit-checkout-notice-ref" id="checkout-notice-ref" hidden></p>
+      </div>
 
       <form id="submit-place-form" class="submit-place-form" novalidate>
         <label class="submit-field">
@@ -134,8 +138,8 @@
           <ul class="submit-review-lines" id="submit-review-lines">
             <li id="submit-review-sku">Founding standard — $39.99</li>
           </ul>
-          <p class="submit-total" id="submit-total" aria-live="polite">Estimated total: <strong>$39.99</strong></p>
-          <p class="submit-sales-final" id="submit-sales-final-summary" data-i18n="submit_sales_final">All sales are final. No refunds.</p>
+          <p class="submit-total" id="submit-total" aria-live="polite">Total to hold on your card: <strong>$39.99</strong></p>
+          <p class="submit-hold-summary" id="submit-hold-summary" data-i18n="submit_hold_summary">Card hold, not a charge: you’re charged only if your listing is approved. Rejected? The hold is released and you pay nothing.</p>
         </section>
 
         <fieldset class="submit-fieldset submit-acks">
@@ -150,14 +154,15 @@
           </label>
           <label class="submit-check">
             <input type="checkbox" id="ack-paid-listing" name="ack_paid_listing" value="1" required />
-            <span data-i18n="submit_agree_paid_listing">I understand payment does not equal live — the Accuracy Auditor still gates the card, and the charge stays either way.</span>
+            <span data-i18n="submit_agree_paid_listing">I understand payment does not equal live: my card is held at checkout and charged only if the Accuracy Auditor approves the listing. If it’s rejected, the hold is released and I pay nothing.</span>
           </label>
         </fieldset>
 
-        <p class="submit-disclaimer" data-i18n="submit_disclaimer">Paid does not equal live. Accuracy Auditor gates every listing before it appears. All sales are final — no refunds if the card is rejected or never goes live. Until Stripe checkout is wired, we send your submission (with photo) to our notify inbox — or download the photo + JSON and open a mailto draft so you can attach the image.</p>
+        <p class="submit-disclaimer" data-i18n="submit_disclaimer">Paid does not equal live. The Accuracy Auditor checks every listing before it appears. Checkout (secure, by Stripe) places a hold on your card for the total above — it’s charged only once your listing is approved. If it’s rejected, we cancel the hold and you pay nothing. A hold can show as “pending” on your statement; a released hold drops off, and holds that are never captured expire automatically after about 7 days. We send your submission (with photo) to our inbox first, then take you to checkout.</p>
 
         <div class="submit-actions">
-          <button type="submit" class="btn btn-stay" id="submit-place-btn" data-i18n="submit_pay" disabled>Pay</button>
+          <button type="submit" class="btn btn-stay" id="submit-place-btn" data-i18n="submit_pay" disabled>Continue to checkout</button>
+          <a class="btn btn-stay submit-continue-checkout" id="continue-checkout" href="#" data-i18n="submit_continue_checkout" hidden>Continue to checkout</a>
         </div>
         <p class="submit-hint" id="submit-status" role="status" hidden></p>
       </form>
@@ -264,16 +269,16 @@
       if (totalEl) {
         var i = i18n();
         if (i && i.ready && i.ready()) {
-          totalEl.innerHTML = t('submit_total', { total: '$' + Number(total).toFixed(2) });
+          totalEl.innerHTML = t('submit_total', { total: Number(total).toFixed(2) }); // templates already contain the $ sign
         } else {
-          totalEl.innerHTML = 'Estimated total: <strong>$' + Number(total).toFixed(2) + '</strong>';
+          totalEl.innerHTML = 'Total to hold on your card: <strong>$' + Number(total).toFixed(2) + '</strong>';
         }
       }
-      var salesEl = document.getElementById('submit-sales-final-summary');
-      if (salesEl) {
+      var holdEl = document.getElementById('submit-hold-summary');
+      if (holdEl) {
         var i2 = i18n();
         if (i2 && i2.ready && i2.ready()) {
-          salesEl.textContent = t('submit_sales_final');
+          holdEl.textContent = t('submit_hold_summary');
         }
       }
     }
@@ -386,6 +391,7 @@
       enablePay();
       if (i18n() && i18n().applyChrome) i18n().applyChrome();
       updateReview();
+      renderNotice();
     }
 
     function openFilePicker() {
@@ -495,6 +501,130 @@
       }, 50);
     }
 
+    // ---- Stripe checkout (Payment Links, manual capture = card hold) ----
+    var REF_KEY = 'sat_submit_ref';
+    var PENDING_KEY = 'sat_checkout_pending';
+    var POSTED_KEY = 'sat_basin_posted';
+    var continueBtn = document.getElementById('continue-checkout');
+    var noticeState = null; // { kind: 'success'|'cancel', ref: string }
+
+    function store() {
+      try { return window.sessionStorage; } catch (e) { return null; }
+    }
+    function sget(k) { var st = store(); try { return st ? st.getItem(k) : null; } catch (e) { return null; } }
+    function sset(k, v) { var st = store(); try { if (st) st.setItem(k, v); } catch (e) {} }
+    function sdel(k) { var st = store(); try { if (st) st.removeItem(k); } catch (e) {} }
+
+    function newRef() {
+      var d = new Date();
+      var ymd = String(d.getUTCFullYear()).slice(2) +
+        ('0' + (d.getUTCMonth() + 1)).slice(-2) + ('0' + d.getUTCDate()).slice(-2);
+      var rnd = '';
+      var abc = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789';
+      var buf = new Uint8Array(6);
+      if (window.crypto && window.crypto.getRandomValues) window.crypto.getRandomValues(buf);
+      else for (var i = 0; i < 6; i++) buf[i] = Math.floor(Math.random() * 256);
+      for (var j = 0; j < 6; j++) rnd += abc.charAt(buf[j] % abc.length);
+      return 'SAT-' + ymd + '-' + rnd;
+    }
+    /** One reference per submission attempt (kept across a cancelled checkout, reset after success). */
+    function currentRef() {
+      var r = sget(REF_KEY);
+      if (!r || !/^SAT-\d{6}-[A-Z0-9]{6}$/.test(r)) { r = newRef(); sset(REF_KEY, r); }
+      return r;
+    }
+    function checkoutMode() {
+      var c = window.SOS_SUBMIT || cfg || {};
+      return c.checkoutMode === 'live' ? 'live' : 'test';
+    }
+    function checkoutUrl(sku, pin, ref, email) {
+      var c = window.SOS_SUBMIT || cfg || {};
+      var links = (c.paymentLinks && c.paymentLinks[checkoutMode()]) || {};
+      var base = String(links[sku + (pin ? '_pin' : '')] || '').trim();
+      if (!/^https:\/\/buy\.stripe\.com\//.test(base)) return '';
+      var q = 'client_reference_id=' + encodeURIComponent(ref);
+      if (email) q += '&prefilled_email=' + encodeURIComponent(email);
+      return base + (base.indexOf('?') === -1 ? '?' : '&') + q;
+    }
+    function payloadKey(payload) {
+      return [payload.submission_ref, payload.place_name, payload.country, payload.city, payload.tab,
+        payload.why_stay, payload.submitter_email, payload.sku, payload.pin_7d,
+        selectedPhoto ? selectedPhoto.size : 0].join('|');
+    }
+    function showStatus(msg) {
+      if (!statusEl) return;
+      statusEl.hidden = false;
+      statusEl.textContent = msg;
+    }
+    function showContinue(url) {
+      if (!continueBtn) return;
+      if (url) {
+        continueBtn.href = url;
+        continueBtn.hidden = false;
+      } else {
+        continueBtn.hidden = true;
+      }
+    }
+    function goToCheckout(payload) {
+      var url = checkoutUrl(payload.sku, payload.pin_7d === 'yes', payload.submission_ref, payload.submitter_email);
+      if (!url) {
+        console.warn('[Spot and Travel Submit] no Payment Link for', checkoutMode(), payload.sku, payload.pin_7d);
+        showStatus(t('submit_status_checkout_unavailable', { ref: payload.submission_ref }));
+        return;
+      }
+      sset(PENDING_KEY, JSON.stringify({ ref: payload.submission_ref, url: url, sku: payload.sku,
+        pin: payload.pin_7d, total: payload.estimated_total, mode: checkoutMode(), at: Date.now() }));
+      showStatus(t('submit_status_redirecting', { ref: payload.submission_ref }));
+      if (typeof window.__satRedirect === 'function') window.__satRedirect(url);
+      else window.location.assign(url);
+    }
+    function renderNotice() {
+      var box = document.getElementById('checkout-notice');
+      var txt = document.getElementById('checkout-notice-text');
+      var refEl = document.getElementById('checkout-notice-ref');
+      if (!box || !txt) return;
+      if (!noticeState) { box.hidden = true; return; }
+      box.hidden = false;
+      box.className = 'submit-checkout-notice is-' + noticeState.kind;
+      txt.textContent = t(noticeState.kind === 'success' ? 'submit_checkout_success' : 'submit_checkout_cancel');
+      if (refEl) {
+        refEl.hidden = !noticeState.ref;
+        refEl.textContent = noticeState.ref ? t('submit_ref_line', { ref: noticeState.ref }) : '';
+      }
+    }
+    function readPending() {
+      try { return JSON.parse(sget(PENDING_KEY) || 'null'); } catch (e) { return null; }
+    }
+    function handleReturn(fromBfcache) {
+      var params;
+      try { params = new URLSearchParams(window.location.search); } catch (e) { params = null; }
+      var state = params ? params.get('checkout') : null;
+      var pending = readPending();
+      if (state === 'success') {
+        noticeState = { kind: 'success', ref: pending && pending.ref ? pending.ref : '' };
+        sdel(PENDING_KEY); sdel(REF_KEY); sdel(POSTED_KEY);
+        showContinue('');
+      } else if (state === 'cancel' || pending) {
+        // Came back from Stripe without paying (explicit cancel URL or browser Back).
+        noticeState = { kind: 'cancel', ref: pending && pending.ref ? pending.ref : '' };
+        showContinue(pending && pending.url ? pending.url : '');
+        if (statusEl && fromBfcache) statusEl.hidden = true;
+      } else {
+        return;
+      }
+      if (state && window.history && window.history.replaceState) {
+        try { window.history.replaceState(null, '', window.location.pathname + window.location.hash); } catch (e) {}
+      }
+      renderNotice();
+      enablePay();
+      var box = document.getElementById('checkout-notice');
+      if (box && box.scrollIntoView) { try { box.scrollIntoView({ block: 'center' }); } catch (e) {} }
+    }
+    window.addEventListener('pageshow', function (e) {
+      if (e.persisted) handleReturn(true);
+    });
+    handleReturn(false);
+
     function isUsableEndpoint(ep) {
       if (!ep) return false;
       var s = String(ep).trim();
@@ -536,9 +666,11 @@
         sku: sku,
         pin_7d: pin ? 'yes' : 'no',
         estimated_total: Number(total).toFixed(2),
-        _subject: 'Spot and Travel submission: ' + place,
+        _subject: 'Spot and Travel submission ' + currentRef() + ': ' + place,
         acks: 'license=yes; real_place=yes; paid_listing=yes',
-        sales_final: 'All sales are final. No refunds.'
+        submission_ref: currentRef(),
+        checkout_mode: checkoutMode(),
+        payment_terms: 'Card HOLD only (Stripe manual capture). Captured only if the listing is approved; hold cancelled (no charge) if rejected. Holds expire after ~7 days.'
       };
     }
 
@@ -557,8 +689,9 @@
         'Estimated total (USD): $' + payload.estimated_total,
         '',
         'Acks: ' + payload.acks,
+        'Submission ref: ' + payload.submission_ref,
         'Note: paid does not equal live. Accuracy Auditor gates; pin clock starts at go-live.',
-        payload.sales_final,
+        payload.payment_terms,
         '',
         'IMPORTANT: Attach the downloaded photo file to this email before sending.'
       ].join('\n');
@@ -710,6 +843,16 @@
       });
     }
 
+    /** Basin failed: the buyer emails the submission themselves, then can still place the card hold. */
+    function offerCheckoutAfterFallback(payload) {
+      var url = checkoutUrl(payload.sku, payload.pin_7d === 'yes', payload.submission_ref, payload.submitter_email);
+      if (!url) return;
+      sset(PENDING_KEY, JSON.stringify({ ref: payload.submission_ref, url: url, sku: payload.sku,
+        pin: payload.pin_7d, total: payload.estimated_total, mode: checkoutMode(), at: Date.now() }));
+      if (statusEl) statusEl.textContent = statusEl.textContent + ' ' + t('submit_status_fallback_pay', { ref: payload.submission_ref });
+      showContinue(url);
+    }
+
     function postFormData(endpoint, payload) {
       if (payBtn) payBtn.disabled = true;
       if (statusEl) {
@@ -720,7 +863,9 @@
       return postOnce(endpoint, payload, true)
         .then(function (result) {
           if (result.ok) {
+            sset(POSTED_KEY, payloadKey(payload));
             if (statusEl) statusEl.textContent = t('submit_status_posted');
+            goToCheckout(payload);
             return;
           }
           console.warn('[Spot and Travel Submit] Basin POST not accepted', result.status, result.detail || result.body);
@@ -732,11 +877,13 @@
           }
           // Never drop the picture — download + mailto only after a failed / rejected POST
           fallbackDownloadAndMailto(payload, failMsg);
+          offerCheckoutAfterFallback(payload);
         })
         .catch(function (err) {
           console.warn('[Spot and Travel Submit] Basin network error', err);
           var failMsg = t('submit_status_post_failed', { status: 'network' });
           fallbackDownloadAndMailto(payload, failMsg);
+          offerCheckoutAfterFallback(payload);
         })
         .then(function () {
           enablePay();
@@ -755,6 +902,13 @@
         return;
       }
       var payload = collectPayload();
+      noticeState = null;
+      renderNotice();
+      // Same submission already stored at Basin (e.g. buyer came back from checkout): skip the re-POST.
+      if (sget(POSTED_KEY) === payloadKey(payload)) {
+        goToCheckout(payload);
+        return;
+      }
       // Always re-read live config — formEndpoint is set in config/submit.js
       var live = window.SOS_SUBMIT || cfg || {};
       var endpoint = String(live.formEndpoint || cfg.formEndpoint || '').trim();
@@ -763,6 +917,7 @@
       } else {
         console.warn('[Spot and Travel Submit] formEndpoint missing or unusable:', endpoint);
         fallbackDownloadAndMailto(payload, t('submit_status_post_failed', { status: 'no-endpoint' }));
+        offerCheckoutAfterFallback(payload);
       }
     });
   })();
