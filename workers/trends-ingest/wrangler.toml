@@ -4,6 +4,7 @@ name = "spotandtravel-trends"
 main = "src/index.js"
 compatibility_date = "2025-09-01"
 workers_dev = true
+account_id = "a0834431555078b5312f9b68d00be5fd"
 
 # Daily prune of raw events older than RAW_RETENTION_DAYS (rollups are kept).
 [triggers]
@@ -19,5 +20,5 @@ RAW_RETENTION_DAYS = "120"
 binding = "DB"
 database_name = "spotandtravel-trends"
 # Paste the id printed by `npx wrangler d1 create spotandtravel-trends`:
-database_id = "00000000-0000-0000-0000-000000000000"
+database_id = "359da016-ff9d-4f32-b3ea-8321441e96c5"
 migrations_dir = "migrations"

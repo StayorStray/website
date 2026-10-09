@@ -14,7 +14,7 @@
   'use strict';
 
   // ---- Activation: paste the deployed Worker URL, then set enabled: true (see docs/trends/WORKER-SETUP.md)
-  var SOS_TRENDS = { enabled: false, endpoint: '' };
+  var SOS_TRENDS = { enabled: true, endpoint: 'https://spotandtravel-trends.spotandtravel.workers.dev' };
 
   // Local testing only: a page served from localhost may pre-set window.SOS_TRENDS_LOCAL.
   try {
