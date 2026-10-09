@@ -129,7 +129,16 @@
     "submit_status_fallback_pay": "Ga na het versturen van die e-mail verder naar afrekenen om de reservering op je kaart te plaatsen (ref. {ref}).",
     "submit_checkout_success": "Bedankt — het bedrag is op je kaart gereserveerd, niet afgeschreven. We schrijven alleen af als je listing wordt goedgekeurd; wordt hij afgewezen, dan vervalt de reservering en betaal je niets. De reservering kan als in behandeling op je afschrift staan.",
     "submit_checkout_cancel": "Het afrekenen is niet afgerond, dus er is niets op je kaart gereserveerd. Je inzending is bewaard — tik op ‘Verder naar afrekenen’ om het opnieuw te proberen.",
-    "submit_ref_line": "Je inzendingsreferentie: {ref}"
+    "submit_ref_line": "Je inzendingsreferentie: {ref}",
+    "plan_title": "Plan je reis naar {name}",
+    "plan_hotel": "Hotels bij {name}",
+    "plan_cruise": "Boek een cruise op de {name}",
+    "plan_flight": "Vluchten naar {city}",
+    "plan_car": "Autohuur in {city}",
+    "plan_things": "Wat te doen in {city}",
+    "plan_note": "Opent de zoekfunctie van de partner voor deze plek in een nieuw tabblad. Sommige zijn affiliatelinks: we kunnen een commissie verdienen, zonder extra kosten voor jou.",
+    "plan_after_travel": "Fan van {name}? Plan het nu",
+    "plan_close": "Sluiten"
   },
   "tabs": {
     "hidden-gems": "Verborgen parels",

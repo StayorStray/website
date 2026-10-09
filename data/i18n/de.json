@@ -129,7 +129,16 @@
     "submit_status_fallback_pay": "Nachdem Sie diese E-Mail gesendet haben, fahren Sie mit dem Checkout fort, um die Kartenreservierung vorzunehmen (Ref. {ref}).",
     "submit_checkout_success": "Danke — Ihre Karte ist reserviert, nicht belastet. Wir buchen nur ab, wenn Ihr Listing freigegeben wird; wird es abgelehnt, wird die Reservierung aufgehoben und Sie zahlen nichts. Die Reservierung kann auf Ihrer Abrechnung als ausstehend erscheinen.",
     "submit_checkout_cancel": "Der Checkout wurde nicht abgeschlossen, daher wurde auf Ihrer Karte nichts reserviert. Ihre Einreichung ist gespeichert — tippen Sie auf „Weiter zum Checkout“, um es erneut zu versuchen.",
-    "submit_ref_line": "Ihre Einreichungsreferenz: {ref}"
+    "submit_ref_line": "Ihre Einreichungsreferenz: {ref}",
+    "plan_title": "Plane deine Reise nach {name}",
+    "plan_hotel": "Hotels in der Nähe von {name}",
+    "plan_cruise": "Kreuzfahrt auf der {name} buchen",
+    "plan_flight": "Flüge nach {city}",
+    "plan_car": "Mietwagen in {city}",
+    "plan_things": "Aktivitäten in {city}",
+    "plan_note": "Öffnet die Suche des Partners für diesen Ort in einem neuen Tab. Einige sind Affiliate-Links: Wir erhalten ggf. eine Provision – ohne Mehrkosten für dich.",
+    "plan_after_travel": "{name} gefällt dir? Jetzt planen",
+    "plan_close": "Schließen"
   },
   "tabs": {
     "hidden-gems": "Versteckte Juwelen",

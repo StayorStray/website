@@ -16,8 +16,9 @@ const ACTIONS = new Set(['stay', 'stray', 'undo', 'spin', 'spin_remove', 'ad_cli
 const SOURCES = new Set(['swipe', 'keyboard', 'button', 'wheel', 'ad', 'system']);
 const TABS = new Set([
   'hidden-gems', 'cities', 'pubs', 'countries', 'arenas', 'beaches',
-  'parks', 'landmarks', 'islands', 'luxury',
+  'parks', 'landmarks', 'islands', 'luxury', 'cruises',
 ]);
+const LINK_TYPES = new Set(['hotel', 'flight', 'car', 'things', 'cruise', 'klook']);
 const CARD_SCOPED = new Set(['stay', 'stray', 'undo', 'spin_remove', 'ad_click']);
 const ID_RE = /^[a-z0-9][a-z0-9-]{0,63}$/;
 const UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
@@ -125,6 +126,7 @@ export function sanitizeEvent(raw, ctx) {
     card_country: card_id ? str(raw.card_country, 60) : null,
     visitor_country: ctx.country,
     path, undo_of,
+    link_type: action === 'ad_click' ? (LINK_TYPES.has(raw.link_type) ? raw.link_type : 'hotel') : null,
     received_at: new Date(ctx.now).toISOString(),
   };
 }
@@ -163,13 +165,19 @@ async function handleIngest(request, env) {
   for (const e of events) {
     const res = await env.DB.prepare(
       'INSERT OR IGNORE INTO events (event_id, session_id, ts, day, hour, action, source, card_id, tab, place, ' +
-      'card_country, visitor_country, path, undo_of, received_at) VALUES (?1,?2,?3,?4,?5,?6,?7,?8,?9,?10,?11,?12,?13,?14,?15)'
+      'card_country, visitor_country, path, undo_of, received_at, link_type) VALUES (?1,?2,?3,?4,?5,?6,?7,?8,?9,?10,?11,?12,?13,?14,?15,?16)'
     ).bind(e.event_id, e.session_id, e.ts, e.day, e.hour, e.action, e.source, e.card_id, e.tab, e.place,
-      e.card_country, e.visitor_country, e.path, e.undo_of, e.received_at).run();
+      e.card_country, e.visitor_country, e.path, e.undo_of, e.received_at, e.link_type).run();
     if (res.meta && res.meta.changes === 1) {
       accepted += 1;
       const st = rollupStatement(env.DB, e);
       if (st) await st.run();
+      if (e.action === 'ad_click' && e.card_id && e.link_type) {
+        await env.DB.prepare(
+          'INSERT INTO daily_ad (day, card_id, tab, link_type, clicks) VALUES (?1, ?2, ?3, ?4, 1) ' +
+          'ON CONFLICT(day, card_id, link_type) DO UPDATE SET clicks = clicks + 1'
+        ).bind(e.day, e.card_id, e.tab, e.link_type).run();
+      }
     }
   }
   return json({ ok: true, received: list.length, accepted, rejected: Math.min(list.length, MAX_EVENTS) - events.length });

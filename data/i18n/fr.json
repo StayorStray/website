@@ -129,7 +129,16 @@
     "submit_status_fallback_pay": "Après avoir envoyé cet e-mail, continuez vers le paiement pour bloquer le montant sur votre carte (réf. {ref}).",
     "submit_checkout_success": "Merci — votre carte est bloquée, pas débitée. Nous ne la débitons que si votre annonce est approuvée ; si elle est refusée, le blocage est levé et vous ne payez rien. Le blocage peut apparaître en attente sur votre relevé.",
     "submit_checkout_cancel": "Le paiement n’a pas été finalisé, donc rien n’a été bloqué sur votre carte. Votre proposition est enregistrée — appuyez sur « Continuer vers le paiement » pour réessayer.",
-    "submit_ref_line": "Référence de votre proposition : {ref}"
+    "submit_ref_line": "Référence de votre proposition : {ref}",
+    "plan_title": "Planifiez votre voyage à {name}",
+    "plan_hotel": "Hôtels près de {name}",
+    "plan_cruise": "Réserver une croisière sur le {name}",
+    "plan_flight": "Vols vers {city}",
+    "plan_car": "Location de voiture à {city}",
+    "plan_things": "Que faire à {city}",
+    "plan_note": "Ouvre la recherche du partenaire pour ce lieu dans un nouvel onglet. Certains sont des liens d’affiliation : nous pouvons toucher une commission, sans surcoût pour vous.",
+    "plan_after_travel": "{name} vous plaît ? Planifiez-le",
+    "plan_close": "Fermer"
   },
   "tabs": {
     "hidden-gems": "Pépites cachées",

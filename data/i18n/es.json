@@ -129,7 +129,16 @@
     "submit_status_fallback_pay": "Cuando envíes ese correo, continúa al pago para hacer la retención en tu tarjeta (ref. {ref}).",
     "submit_checkout_success": "Gracias: tu tarjeta está retenida, no cobrada. Solo la cobramos si tu anuncio se aprueba; si se rechaza, la retención se libera y no pagas nada. La retención puede aparecer como pendiente en tu extracto.",
     "submit_checkout_cancel": "El pago no se completó, así que no se retuvo nada en tu tarjeta. Tu propuesta está guardada: pulsa «Continuar al pago» para intentarlo de nuevo.",
-    "submit_ref_line": "Tu referencia de propuesta: {ref}"
+    "submit_ref_line": "Tu referencia de propuesta: {ref}",
+    "plan_title": "Planifica tu viaje a {name}",
+    "plan_hotel": "Hoteles cerca de {name}",
+    "plan_cruise": "Reserva un crucero en el {name}",
+    "plan_flight": "Vuelos a {city}",
+    "plan_car": "Alquiler de coches en {city}",
+    "plan_things": "Qué hacer en {city}",
+    "plan_note": "Abre la búsqueda del socio para este lugar en una pestaña nueva. Algunos son enlaces de afiliado: podemos ganar una comisión sin coste adicional para ti.",
+    "plan_after_travel": "¿Te encantó {name}? Planifícalo ya",
+    "plan_close": "Cerrar"
   },
   "tabs": {
     "hidden-gems": "Joyas ocultas",

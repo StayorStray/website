@@ -47,5 +47,18 @@ ok(p2 && p2.travel - b2.travel === 0, 'undo cancels the Travel for islands-002')
 ok(!JSON.stringify(j).match(/Jane|j@x\.com|1\.2\.3\.4|removedIds|wheel_home_country/), 'no PII in report');
 r = await fetch(BASE + '/v1/report/tabs?days=7', { headers: { Authorization: 'Bearer ' + KEY } }); j = await r.json();
 ok(j.tabs.some((t) => t.tab === 'islands' && t.deck_ends >= 1), 'tabs report has deck_end');
+// ad_click + link_type (migration 0003)
+const adBefore = (get(await report(), 'islands-001').ad_links || {});
+r = await post({ events: [
+  ev('ad_click', 'islands-001', 'islands', { source: 'ad', link_type: 'flight' }),
+  ev('ad_click', 'islands-001', 'islands', { source: 'ad', link_type: 'car' }),
+  ev('ad_click', 'islands-001', 'islands', { source: 'ad', link_type: 'evil<script>' }),
+] }); j = await r.json();
+ok(j.accepted === 3, 'ad_click events accepted (' + JSON.stringify(j) + ')');
+const adAfter = (get(await report(), 'islands-001').ad_links || {});
+ok((adAfter.flight || 0) - (adBefore.flight || 0) === 1 && (adAfter.car || 0) - (adBefore.car || 0) === 1,
+  'ad_links counts flight/car');
+ok((adAfter.hotel || 0) - (adBefore.hotel || 0) === 1 && !JSON.stringify(adAfter).includes('script'),
+  'unknown link_type falls back to hotel');
 console.log(fails ? `${fails} FAILED` : 'ALL PASS');
 process.exit(fails ? 1 : 0);
