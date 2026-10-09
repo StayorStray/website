@@ -1,0 +1,2 @@
+# Local `wrangler dev` only. Copy to .dev.vars (git-ignored).
+REPORT_KEY=local-dev-key-change-me

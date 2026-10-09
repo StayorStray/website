@@ -25,6 +25,7 @@
     "disclosure": "As an affiliate we may earn from qualifying bookings.",
     "about_blurb": "<strong>About Spot and Travel.</strong> Swipe real, visitable places — Travel if you’d go, Skip if you wouldn’t. Photos are licensed real photographs (no AI images).",
     "legal_disclaimer": "Spot and Travel provides general information for entertainment and reference only—not travel, safety, or booking advice—and makes no warranty as to accuracy or completeness. You alone decide where to visit, what to book, and how to travel. Third-party booking, affiliate, and support links are external and subject to their own terms. To the fullest extent permitted by law, Spot and Travel disclaims liability for travel outcomes or losses arising from this site or reliance on its content.",
+    "privacy_blurb": "Privacy: Spot and Travel may count anonymous Travel/Skip swipes per place to show which destinations are trending. A vote may be tagged with your approximate country, but we never store your IP address, name, email or exact location, or the home country you set on the wheel. Your saved lists stay on this device.",
     "credits_blurb": "Photo credits appear under each card. Full attributions live in <code>data/hidden-gems.json</code> (Wikimedia Commons CC licenses).",
     "best_time": "Best time",
     "how_to_get_there": "How to get there",

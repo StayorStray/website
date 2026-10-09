@@ -35,6 +35,16 @@
     { slug: 'luxury' },
   ];
 
+  // Anonymous trends (js/trends.js). No-op while disabled; never throws into the UI.
+  function trackTrend(action, deck, card, extra) {
+    try {
+      const T = window.SpotAndTravelTrends;
+      if (!T || !T.isEnabled || !T.isEnabled()) return;
+      if (card && !(deck && deck.cards.some(function (c) { return c && c.id === card.id; }))) return;
+      T.track(action, Object.assign({ card: card || null, tab: deck ? deck.tab : null }, extra || {}));
+    } catch (e) {}
+  }
+
   function I18n() {
     return window.SpotAndTravelI18n || null;
   }
@@ -514,6 +524,7 @@
     }
     this.index = 0;
     this.last = null;
+    this._endTracked = false;
     this.renderDailyNote();
     this.render();
     this.prefetch();
@@ -703,6 +714,10 @@
   };
 
   Deck.prototype.renderEnd = function () {
+    if (!this._endTracked && this.cards.length) {
+      this._endTracked = true;
+      trackTrend('deck_end', this, null, { source: 'system' });
+    }
     this.root.innerHTML =
       '<div class="end-deck" role="status">' +
       '<h2>' +
@@ -786,12 +801,16 @@
     html += klookRailMarkup('desktop');
     this.root.innerHTML = html;
 
-    document.getElementById('btn-stay').addEventListener('click', () => this.decide('stay'));
-    document.getElementById('btn-stray').addEventListener('click', () => this.decide('stray'));
+    document.getElementById('btn-stay').addEventListener('click', () => this.decide('stay', 'button'));
+    document.getElementById('btn-stray').addEventListener('click', () => this.decide('stray', 'button'));
     const undoBtn = document.getElementById('btn-undo');
     if (this.last) {
       undoBtn.hidden = false;
-      undoBtn.addEventListener('click', () => this.undo());
+      undoBtn.addEventListener('click', () => this.undo('button'));
+    }
+    const adCta = document.getElementById('ad-cta');
+    if (adCta) {
+      adCta.addEventListener('click', () => trackTrend('ad_click', this, card, { source: 'ad' }));
     }
 
     const moreBtn = this.root.querySelector('.why-more');
@@ -1002,7 +1021,7 @@
         card.style.opacity = '';
       }
       if (Math.abs(dx) < SWIPE_THRESHOLD || Math.abs(dx) < Math.abs(dy)) return;
-      this.decide(dx > 0 ? 'stay' : 'stray');
+      this.decide(dx > 0 ? 'stay' : 'stray', 'swipe');
     };
 
     stage.addEventListener(
@@ -1058,7 +1077,7 @@
     );
   };
 
-  Deck.prototype.decide = function (decision) {
+  Deck.prototype.decide = function (decision, source) {
     if (this.busy) return;
     const card = this.current();
     if (!card) return;
@@ -1068,6 +1087,7 @@
 
     recordDecision(decision, card);
     updateStatsUI();
+    trackTrend(decision, this, card, { source: source || 'button' });
 
     this.last = { card: card, decision: decision, index: this.index };
 
@@ -1079,9 +1099,10 @@
     }, FLY_MS);
   };
 
-  Deck.prototype.undo = function () {
+  Deck.prototype.undo = function (source) {
     if (this.busy || !this.last) return;
     undoDecision(this.last.decision, this.last.card.id);
+    trackTrend('undo', this, this.last.card, { source: source || 'button', undo_of: this.last.decision });
     updateStatsUI();
     this.index = this.last.index;
     this.last = null;
@@ -1178,13 +1199,13 @@
       if (panel && !panel.hidden) return;
       if (e.key === 'ArrowRight') {
         e.preventDefault();
-        deck.decide('stay');
+        deck.decide('stay', 'keyboard');
       } else if (e.key === 'ArrowLeft') {
         e.preventDefault();
-        deck.decide('stray');
+        deck.decide('stray', 'keyboard');
       } else if ((e.key === 'z' || e.key === 'Z') && (e.metaKey || e.ctrlKey)) {
         e.preventDefault();
-        deck.undo();
+        deck.undo('keyboard');
       }
     });
   }

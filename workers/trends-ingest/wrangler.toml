@@ -1,0 +1,23 @@
+# Spot and Travel — trends ingest + report Worker (Cloudflare free tier)
+# Activation steps: docs/trends/WORKER-SETUP.md
+name = "spotandtravel-trends"
+main = "src/index.js"
+compatibility_date = "2025-09-01"
+workers_dev = true
+
+# Daily prune of raw events older than RAW_RETENTION_DAYS (rollups are kept).
+[triggers]
+crons = ["17 4 * * *"]
+
+[vars]
+# Browsers on these origins may POST events / call the report API.
+ALLOWED_ORIGINS = "https://stayorstray.github.io,https://spotandtravel.com,https://www.spotandtravel.com"
+RAW_RETENTION_DAYS = "120"
+# REPORT_KEY is a Worker *secret*: `npx wrangler secret put REPORT_KEY` (never put it here).
+
+[[d1_databases]]
+binding = "DB"
+database_name = "spotandtravel-trends"
+# Paste the id printed by `npx wrangler d1 create spotandtravel-trends`:
+database_id = "00000000-0000-0000-0000-000000000000"
+migrations_dir = "migrations"
