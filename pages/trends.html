@@ -117,6 +117,7 @@
       </div>
 
       <div class="tr-kpis" id="tr-kpis"></div>
+      <p class="tr-cat" id="tr-adlinks" style="margin:10px 2px 0"></p>
 
       <div class="tr-movers">
         <section class="tr-panel"><h2>Top risers</h2><div id="tr-risers"></div></section>
@@ -264,6 +265,13 @@
         '<div class="tr-kpi"><b>' + fmtPct(share(t, s)) + '</b><span>overall Travel share</span></div>' +
         '<div class="tr-kpi"><b>' + withVotes + '</b><span>places with votes</span></div>' +
         '<div class="tr-kpi"><b>' + esc(topTab ? TAB_LABEL[topTab] || topTab : '—') + '</b><span>busiest category</span></div>';
+      // "Plan this trip" partner clicks by link type (Worker migration 0003; empty for sample data).
+      var ad = {}, adTotal = 0;
+      ps.forEach(function (p) { var m = p.ad_links || {}; Object.keys(m).forEach(function (k) { ad[k] = (ad[k] || 0) + m[k]; adTotal += m[k]; }); });
+      var AD_LABEL = { hotel: 'Hotels', flight: 'Flights', car: 'Cars', things: 'Things to do', cruise: 'Cruises', klook: 'Klook' };
+      $('tr-adlinks').textContent = 'Partner clicks (' + state.days + 'd): ' + (adTotal
+        ? Object.keys(AD_LABEL).filter(function (k) { return ad[k]; }).map(function (k) { return AD_LABEL[k] + ' ' + ad[k]; }).join(' · ')
+        : 'none yet');
     }
     function moverRow(p) {
       return '<div class="tr-mover" data-id="' + esc(p.card_id) + '"><div><div class="tr-name">' + esc(p.place || p.card_id) + '</div><div class="tr-cat">' + esc(TAB_LABEL[p.tab] || p.tab) + ' · ' + fmtPct(p.score) + ' · ' + p.votes + ' votes</div></div><div class="tr-delta">' + fmtChg(p.change) + '</div>' + spark(p.daily, 84, 28) + '</div>';

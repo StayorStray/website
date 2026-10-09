@@ -129,7 +129,16 @@
     "submit_status_fallback_pay": "해당 이메일을 보낸 후 결제로 계속하여 카드 홀드를 진행하세요(참조 {ref}).",
     "submit_checkout_success": "감사합니다 — 카드는 홀드되었을 뿐 청구되지 않았습니다. 등록이 승인될 때만 청구하며, 거절되면 홀드가 해제되어 아무것도 지불하지 않습니다. 홀드는 명세서에 대기 중으로 표시될 수 있습니다.",
     "submit_checkout_cancel": "결제가 완료되지 않아 카드에 홀드가 걸리지 않았습니다. 제출 내용은 저장되어 있습니다 — ‘결제로 계속’을 눌러 다시 시도하세요.",
-    "submit_ref_line": "제출 참조 번호: {ref}"
+    "submit_ref_line": "제출 참조 번호: {ref}",
+    "plan_title": "{name} 여행 계획하기",
+    "plan_hotel": "{name} 근처 호텔",
+    "plan_cruise": "{name} 크루즈 예약",
+    "plan_flight": "{city}행 항공편",
+    "plan_car": "{city} 렌터카",
+    "plan_things": "{city} 즐길 거리",
+    "plan_note": "이 장소에 대한 파트너 검색을 새 탭에서 엽니다. 일부는 제휴 링크로, 추가 비용 없이 저희가 수수료를 받을 수 있습니다.",
+    "plan_after_travel": "{name}이(가) 마음에 드셨나요? 지금 계획하세요",
+    "plan_close": "닫기"
   },
   "tabs": {
     "hidden-gems": "숨은 명소",

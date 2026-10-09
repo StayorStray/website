@@ -129,7 +129,16 @@
     "submit_status_fallback_pay": "发送该邮件后，请继续结账以完成银行卡冻结（编号 {ref}）。",
     "submit_checkout_success": "谢谢——您的银行卡已被冻结，尚未扣款。只有刊登获批我们才会扣款；若被拒绝，冻结将被释放，您无需支付任何费用。冻结可能在账单上显示为待处理。",
     "submit_checkout_cancel": "结账未完成，因此您的银行卡未被冻结。您的提交已保存——点击“前往结账”即可重试。",
-    "submit_ref_line": "您的提交编号：{ref}"
+    "submit_ref_line": "您的提交编号：{ref}",
+    "plan_title": "规划你的{name}之旅",
+    "plan_hotel": "{name}附近的酒店",
+    "plan_cruise": "预订{name}邮轮",
+    "plan_flight": "飞往{city}的航班",
+    "plan_car": "{city}租车",
+    "plan_things": "{city}玩乐体验",
+    "plan_note": "在新标签页中打开合作伙伴针对此地的搜索。部分为联盟链接：我们可能获得佣金，你无需额外付费。",
+    "plan_after_travel": "喜欢{name}？现在就规划",
+    "plan_close": "关闭"
   },
   "tabs": {
     "hidden-gems": "隐藏瑰宝",

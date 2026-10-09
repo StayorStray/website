@@ -432,6 +432,197 @@
     return t('ad_cta', { name: name });
   }
 
+  // ---------- "Plan this trip" panel (location-focused partner links) ----------
+  // Optional per-card fields (all may be missing; documented in docs/ads/CARD-FIELDS.md):
+  //   ad.destination_query, ad.city, ad.iata, ad.cruise_line, ad.ship, ad.cruise_url,
+  //   card.kind === 'cruise' | card.tab === 'cruises'.
+  const PLAN_KINDS = ['hotel', 'cruise', 'flight', 'car', 'things'];
+  const PLAN_ICONS = { hotel: '🏨', cruise: '🚢', flight: '✈️', car: '🚗', things: '🎟️' };
+  const PLAN_FALLBACK = {
+    plan_title: 'Plan your trip to {name}',
+    plan_hotel: 'Hotels near {name}',
+    plan_cruise: 'Book a cruise on {name}',
+    plan_flight: 'Flights to {city}',
+    plan_car: 'Car rental in {city}',
+    plan_things: 'Things to do in {city}',
+    plan_note: 'Opens the partner’s search for this place in a new tab. Some are affiliate links: we may earn a commission at no extra cost to you.',
+    plan_after_travel: 'Loved {name}? Plan it now',
+    plan_close: 'Close',
+  };
+
+  function pt(key, vars) {
+    const v = t(key, vars);
+    if (v && v !== key) return v;
+    return String(PLAN_FALLBACK[key] || key).replace(/\{(\w+)\}/g, function (_, k) {
+      return vars && k in vars ? String(vars[k]) : '{' + k + '}';
+    });
+  }
+
+  let airportsState = null; // null | 'loading' | Array
+  const airportWaiters = [];
+
+  function loadAirports() {
+    if (Array.isArray(airportsState)) return Promise.resolve(airportsState);
+    if (airportsState === 'loading') {
+      return new Promise(function (r) { airportWaiters.push(r); });
+    }
+    airportsState = 'loading';
+    return fetch(assetPath('assets/airports.json'))
+      .then(function (r) { return r.ok ? r.json() : { airports: [] }; })
+      .catch(function () { return { airports: [] }; })
+      .then(function (j) {
+        airportsState = Array.isArray(j && j.airports) ? j.airports : [];
+        airportWaiters.splice(0).forEach(function (r) { r(airportsState); });
+        return airportsState;
+      });
+  }
+
+  function distKm(lat1, lng1, lat2, lng2) {
+    const R = 6371;
+    const toR = Math.PI / 180;
+    const dLat = (lat2 - lat1) * toR;
+    const dLng = (lng2 - lng1) * toR;
+    const a =
+      Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+      Math.cos(lat1 * toR) * Math.cos(lat2 * toR) * Math.sin(dLng / 2) * Math.sin(dLng / 2);
+    return 2 * R * Math.asin(Math.min(1, Math.sqrt(a)));
+  }
+
+  /** Nearest scheduled-service airport; prefers a large hub when it is not much farther. */
+  function nearestAirport(lat, lng) {
+    if (!Array.isArray(airportsState) || !airportsState.length) return null;
+    if (typeof lat !== 'number' || typeof lng !== 'number' || !isFinite(lat) || !isFinite(lng)) return null;
+    let best = null;
+    let bestLarge = null;
+    for (let i = 0; i < airportsState.length; i++) {
+      const a = airportsState[i];
+      const d = distKm(lat, lng, a[1], a[2]);
+      if (!best || d < best.d) best = { a: a, d: d };
+      if (a[4] && (!bestLarge || d < bestLarge.d)) bestLarge = { a: a, d: d };
+    }
+    if (!best || best.d > 400) return null;
+    const pick = bestLarge && bestLarge.d <= Math.max(best.d * 1.6, best.d + 40) ? bestLarge : best;
+    return { iata: pick.a[0], city: pick.a[3], km: Math.round(pick.d), large: !!pick.a[4] };
+  }
+
+  function cruiseInfo(card) {
+    const ad = card.ad || {};
+    const kind = String(card.kind || card.type || '').toLowerCase();
+    const isCruise =
+      card.tab === 'cruises' || kind === 'cruise' || kind === 'cruise_ship' ||
+      !!(ad.cruise_line || ad.ship || card.cruise_line || card.ship);
+    if (!isCruise) return null;
+    return {
+      line: String(ad.cruise_line || card.cruise_line || '').trim(),
+      ship: String(ad.ship || card.ship || card.name || '').trim(),
+      url: String(ad.cruise_url || '').trim(),
+    };
+  }
+
+  /** Everything the link builder needs, from the raw (English) card data. */
+  function planContext(card) {
+    const ad = card.ad || {};
+    const cruise = cruiseInfo(card);
+    const airport = nearestAirport(Number(card.lat), Number(card.lng));
+    const explicitIata = String(ad.iata || card.iata || '').toUpperCase();
+    const explicitCity = String(ad.city || card.city || '').trim();
+    let city = explicitCity;
+    if (!city && airport && airport.km <= 200) city = airport.city;
+    if (!city && !cruise) city = card.name || '';
+    // Things to do: a big nearby hub city searches best; otherwise the place itself.
+    let things = explicitCity;
+    if (!things && airport && airport.large && airport.km <= 60) things = airport.city;
+    if (!things && !cruise) things = card.name || '';
+    return {
+      thingsQuery: things,
+      place: card.name || '',
+      hotelQuery:
+        ad.destination_query ||
+        card.destination_query ||
+        [card.name, card.country].filter(Boolean).join(', '),
+      city: city,
+      country: card.country || '',
+      iata: /^[A-Z]{3}$/.test(explicitIata) ? explicitIata : airport ? airport.iata : '',
+      cruise: cruise,
+    };
+  }
+
+  function planLinks(card) {
+    const Aff = window.SpotAndTravelAffiliates;
+    if (!Aff || typeof Aff.buildPlanLinks !== 'function') {
+      const href = adHref(card);
+      return href && href !== '#'
+        ? [{ kind: 'hotel', href: href, brand: 'Hotels.com', affiliated: false }]
+        : [];
+    }
+    try {
+      return Aff.buildPlanLinks(planContext(card)) || [];
+    } catch (e) {
+      return [];
+    }
+  }
+
+  function planLinkLabel(link, card, ctx, displayName) {
+    const cityLabel = link.kind === 'flight' && ctx.iata
+      ? (ctx.city || displayName) + ' (' + ctx.iata + ')'
+      : ctx.city || displayName;
+    if (link.kind === 'hotel') return pt('plan_hotel', { name: displayName });
+    if (link.kind === 'cruise') return pt('plan_cruise', { name: (ctx.cruise && ctx.cruise.ship) || displayName });
+    if (link.kind === 'flight') return pt('plan_flight', { city: cityLabel });
+    if (link.kind === 'car') return pt('plan_car', { city: cityLabel });
+    return pt('plan_things', { city: ctx.thingsQuery || ctx.city || displayName });
+  }
+
+  function planLinksMarkup(rawCard, displayName, variant) {
+    const ctx = planContext(rawCard);
+    const links = planLinks(rawCard).sort(function (a, b) {
+      return PLAN_KINDS.indexOf(a.kind) - PLAN_KINDS.indexOf(b.kind);
+    });
+    if (!links.length) return '';
+    return (
+      '<ul class="plan-links plan-links--' + variant + '">' +
+      links
+        .map(function (l) {
+          return (
+            '<li><a class="plan-link plan-link--' + l.kind + '"' +
+            (l.kind === 'hotel' && variant === 'panel' ? ' id="ad-cta"' : '') +
+            ' href="' + escapeHtml(l.href) + '" target="_blank" rel="sponsored noopener"' +
+            ' data-link-type="' + l.kind + '" data-card-id="' + escapeHtml(rawCard.id || '') + '"' +
+            ' data-affiliated="' + (l.affiliated ? 'true' : 'false') + '">' +
+            '<span class="plan-ico" aria-hidden="true">' + PLAN_ICONS[l.kind] + '</span>' +
+            '<span class="plan-text"><span class="plan-label">' +
+            escapeHtml(planLinkLabel(l, rawCard, ctx, displayName)) +
+            '</span><span class="plan-brand">' + escapeHtml(l.brand || '') + '</span></span>' +
+            '<span class="plan-arrow" aria-hidden="true">↗</span></a></li>'
+          );
+        })
+        .join('') +
+      '</ul>'
+    );
+  }
+
+  let planSheetTimer = 0;
+  function hidePlanSheet() {
+    window.clearTimeout(planSheetTimer);
+    const sheet = document.getElementById('plan-sheet');
+    if (!sheet) return;
+    sheet.classList.remove('is-open');
+    sheet.hidden = true;
+  }
+
+  function planPanelMarkup(rawCard, displayName) {
+    const links = planLinksMarkup(rawCard, displayName, 'panel');
+    if (!links) return '';
+    return (
+      '<aside class="ad-slot plan-trip" id="plan-trip" data-card-id="' + escapeHtml(rawCard.id || '') +
+      '" aria-label="' + escapeHtml(pt('plan_title', { name: displayName })) + '">' +
+      '<p class="ad-kicker plan-kicker">' + escapeHtml(pt('plan_title', { name: displayName })) + '</p>' +
+      links +
+      '<p class="ad-note plan-note">' + escapeHtml(pt('plan_note')) + '</p>' +
+      '</aside>'
+    );
+  }
+
 
   function klookSidebarUrl() {
     const Aff = window.SpotAndTravelAffiliates;
@@ -576,6 +767,7 @@
   Deck.prototype.cardMarkup = function (card, opts) {
     opts = opts || {};
     const i18n = I18n();
+    const rawCard = card;
     if (i18n && i18n.localizeCard) card = i18n.localizeCard(card);
     const src = imageSrc(card);
     const facts = card.facts || {};
@@ -659,25 +851,7 @@
           creditHtml +
           '</p>' +
           '</div>' +
-          '<aside class="ad-slot" aria-label="' +
-          escapeHtml(t('booking_offer')) +
-          '">' +
-          '<p class="ad-kicker">' +
-          escapeHtml(t('ad_kicker')) +
-          '</p>' +
-          '<a class="ad-cta" id="ad-cta" href="' +
-          escapeHtml(adHref(card)) +
-          '" target="_blank" rel="noopener sponsored noreferrer">' +
-          escapeHtml(adLabel(card)) +
-          ' →</a>' +
-          '<p class="ad-note">' +
-          escapeHtml(
-            t('ad_note', {
-              destination: (card.ad && card.ad.destination_query) || card.name || '',
-            })
-          ) +
-          '</p>' +
-          '</aside>' +
+          planPanelMarkup(rawCard, card.name || t('this_place')) +
           klookRailMarkup('mobile')
         : '';
 
@@ -808,9 +982,19 @@
       undoBtn.hidden = false;
       undoBtn.addEventListener('click', () => this.undo('button'));
     }
-    const adCta = document.getElementById('ad-cta');
-    if (adCta) {
-      adCta.addEventListener('click', () => trackTrend('ad_click', this, card, { source: 'ad' }));
+    this.bindPlanClicks();
+    this.showAfterTravel();
+    if (!Array.isArray(airportsState)) {
+      const shownId = card.id;
+      loadAirports().then(() => {
+        const cur = this.current();
+        const panel = document.getElementById('plan-trip');
+        if (!cur || cur.id !== shownId || !panel) return;
+        const i18n = I18n();
+        const disp = (i18n && i18n.localizeCard ? i18n.localizeCard(cur) : cur).name || t('this_place');
+        const html = planPanelMarkup(cur, disp);
+        if (html) panel.outerHTML = html;
+      });
     }
 
     const moreBtn = this.root.querySelector('.why-more');
@@ -1077,6 +1261,71 @@
     );
   };
 
+  /** One delegated listener: every partner link (panel or post-Travel sheet) logs ad_click + link_type. */
+  Deck.prototype.bindPlanClicks = function () {
+    if (this._planBound) return;
+    this._planBound = true;
+    const deck = this;
+    document.addEventListener('click', function (e) {
+      const a = e.target && e.target.closest ? e.target.closest('a.plan-link') : null;
+      if (!a) return;
+      const id = a.getAttribute('data-card-id');
+      const card = deck.cards.find(function (c) { return c && c.id === id; });
+      if (!card) return;
+      trackTrend('ad_click', deck, card, {
+        source: 'ad',
+        link_type: a.getAttribute('data-link-type') || 'hotel',
+      });
+    });
+    // Keep taps inside the panels from ever reaching swipe handlers.
+    ['pointerdown', 'touchstart', 'mousedown'].forEach(function (evt) {
+      document.addEventListener(
+        evt,
+        function (e) {
+          if (e.target && e.target.closest && e.target.closest('.plan-trip, .plan-sheet')) e.stopPropagation();
+        },
+        true
+      );
+    });
+  };
+
+  /** After a Travel swipe: a small, dismissible sheet with links for the place just saved. */
+  Deck.prototype.showAfterTravel = function () {
+    const card = this._afterTravel;
+    this._afterTravel = null;
+    if (!card) { hidePlanSheet(); return; }
+    const i18n = I18n();
+    const disp = (i18n && i18n.localizeCard ? i18n.localizeCard(card) : card).name || t('this_place');
+    const build = function () {
+      const links = planLinksMarkup(card, disp, 'sheet');
+      if (!links) return;
+      let sheet = document.getElementById('plan-sheet');
+      if (!sheet) {
+        sheet = document.createElement('aside');
+        sheet.id = 'plan-sheet';
+        sheet.className = 'plan-sheet';
+        sheet.setAttribute('role', 'complementary');
+        document.body.appendChild(sheet);
+      }
+      sheet.setAttribute('aria-label', pt('plan_after_travel', { name: disp }));
+      sheet.setAttribute('data-card-id', card.id || '');
+      sheet.innerHTML =
+        '<div class="plan-sheet-head"><p class="plan-sheet-title">' +
+        escapeHtml(pt('plan_after_travel', { name: disp })) +
+        '</p><button type="button" class="plan-sheet-close" aria-label="' +
+        escapeHtml(pt('plan_close')) + '">×</button></div>' +
+        links +
+        '<p class="plan-note">' + escapeHtml(pt('plan_note')) + '</p>';
+      sheet.querySelector('.plan-sheet-close').addEventListener('click', hidePlanSheet);
+      sheet.hidden = false;
+      window.requestAnimationFrame(function () { sheet.classList.add('is-open'); });
+      window.clearTimeout(planSheetTimer);
+      planSheetTimer = window.setTimeout(hidePlanSheet, 12000);
+    };
+    if (Array.isArray(airportsState)) build();
+    else loadAirports().then(build);
+  };
+
   Deck.prototype.decide = function (decision, source) {
     if (this.busy) return;
     const card = this.current();
@@ -1090,6 +1339,7 @@
     trackTrend(decision, this, card, { source: source || 'button' });
 
     this.last = { card: card, decision: decision, index: this.index };
+    this._afterTravel = decision === 'stay' ? card : null;
 
     window.setTimeout(() => {
       this.index += 1;
@@ -1102,6 +1352,8 @@
   Deck.prototype.undo = function (source) {
     if (this.busy || !this.last) return;
     undoDecision(this.last.decision, this.last.card.id);
+    this._afterTravel = null;
+    hidePlanSheet();
     trackTrend('undo', this, this.last.card, { source: source || 'button', undo_of: this.last.decision });
     updateStatsUI();
     this.index = this.last.index;

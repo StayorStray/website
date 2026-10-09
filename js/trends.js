@@ -5,7 +5,8 @@
  * no network requests, no storage writes.
  *
  * Sends only: random event/session ids, time, action (stay = Travel, stray = Skip, undo,
- * spin, spin_remove, ad_click, deck_end), source, card id/tab/name/country, page path.
+ * spin, spin_remove, ad_click, deck_end), source, card id/tab/name/country, page path,
+ * and for ad_click the partner link type (hotel/flight/car/things/cruise/klook).
  * Never sends names, emails, location, the wheel home country, removedIds, or the
  * saved lists, and never reads or writes sos_stay_list / sos_stray_list / stayorstray.wheel.v1.
  * Any failure is swallowed so swiping is never blocked.
@@ -30,6 +31,8 @@
 
   var ACTIONS = { stay: 1, stray: 1, undo: 1, spin: 1, spin_remove: 1, ad_click: 1, deck_end: 1 };
   var SOURCES = { swipe: 1, keyboard: 1, button: 1, wheel: 1, ad: 1, system: 1 };
+  // ad_click only: which "Plan this trip" link was opened (docs/ads/TRACKING.md).
+  var LINK_TYPES = { hotel: 1, flight: 1, car: 1, things: 1, cruise: 1, klook: 1 };
   var SESSION_KEY = 'sat_trends_session';
   var FLUSH_MS = 3000;
   var MAX_QUEUE = 50;
@@ -125,6 +128,7 @@
         path: (global.location && global.location.pathname) || '/',
       };
       if (action === 'undo') ev.undo_of = opts.undo_of === 'stray' ? 'stray' : 'stay';
+      if (action === 'ad_click') ev.link_type = LINK_TYPES[opts.link_type] ? opts.link_type : 'hotel';
       queue.push(ev);
       listen();
       if (queue.length >= MAX_QUEUE) flush(false);

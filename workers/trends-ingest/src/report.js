@@ -80,8 +80,26 @@ export async function buildPlacesReport(db, { days, tab, now }) {
       daily,
     });
   }
+  // Partner-link breakdown (daily_ad, migration 0003). Missing table => empty breakdown.
+  let adRows = [];
+  try {
+    adRows = (await db.prepare(
+      'SELECT card_id, link_type, SUM(clicks) AS clicks FROM daily_ad WHERE day >= ?1 AND day <= ?2' +
+      (tab ? ' AND tab = ?3' : '') + ' GROUP BY card_id, link_type'
+    ).bind(...(tab ? [w.curStart, w.today, tab] : [w.curStart, w.today])).all()).results || [];
+  } catch (e) { adRows = []; }
+  const adByCard = new Map();
+  const ad_links = {};
+  for (const r of adRows) {
+    const m = adByCard.get(r.card_id) || {};
+    m[r.link_type] = (m[r.link_type] || 0) + (r.clicks || 0);
+    adByCard.set(r.card_id, m);
+    ad_links[r.link_type] = (ad_links[r.link_type] || 0) + (r.clicks || 0);
+  }
+  for (const p of places) p.ad_links = adByCard.get(p.card_id) || {};
   places.sort((a, b) => b.votes - a.votes);
   return {
+    ad_links,
     sample: false,
     generated_at: new Date(now).toISOString(),
     days, tab: tab || null,

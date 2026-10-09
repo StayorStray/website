@@ -129,7 +129,16 @@
     "submit_status_fallback_pay": "After you send that email, continue to checkout to place the card hold (ref {ref}).",
     "submit_checkout_success": "Thanks — your card is held, not charged. We charge it only if your listing is approved; if it’s rejected, the hold is released and you pay nothing. The hold may show as pending on your statement.",
     "submit_checkout_cancel": "Checkout wasn’t completed, so no hold was placed on your card. Your submission is saved — press Continue to checkout to try again.",
-    "submit_ref_line": "Your submission reference: {ref}"
+    "submit_ref_line": "Your submission reference: {ref}",
+    "plan_title": "Plan your trip to {name}",
+    "plan_hotel": "Hotels near {name}",
+    "plan_cruise": "Book a cruise on {name}",
+    "plan_flight": "Flights to {city}",
+    "plan_car": "Car rental in {city}",
+    "plan_things": "Things to do in {city}",
+    "plan_note": "Opens the partner’s search for this place in a new tab. Some are affiliate links: we may earn a commission at no extra cost to you.",
+    "plan_after_travel": "Loved {name}? Plan it now",
+    "plan_close": "Close"
   },
   "tabs": {
     "hidden-gems": "Hidden Gems",
