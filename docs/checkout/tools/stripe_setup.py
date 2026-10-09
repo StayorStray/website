@@ -11,7 +11,7 @@ import os, json, sys, requests
 MODE=(sys.argv[1] if len(sys.argv)>1 else 'test'); assert MODE in ('test','live')
 KEY=os.environ['STRIPE_%s_RESTRICTED_KEY'%MODE.upper()]; assert KEY.startswith(('rk_%s_'%MODE,'sk_%s_'%MODE))
 API='https://api.stripe.com/v1'; S=requests.Session(); S.auth=(KEY,'')
-SUBMIT='https://stayorstray.github.io/website/pages/submit-a-place.html'
+SUBMIT='https://spotandtravel.com/pages/submit-a-place.html'
 def call(method, path, **data):
     r=S.request(method, API+path, data=data if method=='POST' else None, params=data if method=='GET' else None)
     j=r.json()
