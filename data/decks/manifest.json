@@ -297,9 +297,9 @@
     "pubs": {
       "live_file": "data/pubs.json",
       "archive_dir": "data/decks/pubs/",
-      "approved_count": 50,
+      "approved_count": 100,
       "catalog_target": 100,
-      "scale_target_met": false,
+      "scale_target_met": true,
       "mvp_ready": true,
       "sets": [
         {
@@ -375,9 +375,84 @@
             "pubs-049",
             "pubs-050"
           ]
+        },
+        {
+          "id": "pubs-set-004",
+          "file": "set-004.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "pubs-051",
+            "pubs-052",
+            "pubs-053",
+            "pubs-054",
+            "pubs-055",
+            "pubs-056",
+            "pubs-057",
+            "pubs-058",
+            "pubs-059",
+            "pubs-060",
+            "pubs-061",
+            "pubs-062",
+            "pubs-063",
+            "pubs-064",
+            "pubs-065",
+            "pubs-066",
+            "pubs-067",
+            "pubs-068",
+            "pubs-069",
+            "pubs-070"
+          ]
+        },
+        {
+          "id": "pubs-set-005",
+          "file": "set-005.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "pubs-071",
+            "pubs-072",
+            "pubs-073",
+            "pubs-074",
+            "pubs-075",
+            "pubs-076",
+            "pubs-077",
+            "pubs-078",
+            "pubs-079",
+            "pubs-080",
+            "pubs-081",
+            "pubs-082",
+            "pubs-083",
+            "pubs-084",
+            "pubs-085",
+            "pubs-086",
+            "pubs-087",
+            "pubs-088",
+            "pubs-089",
+            "pubs-090"
+          ]
+        },
+        {
+          "id": "pubs-set-006",
+          "file": "set-006.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "pubs-091",
+            "pubs-092",
+            "pubs-093",
+            "pubs-094",
+            "pubs-095",
+            "pubs-096",
+            "pubs-097",
+            "pubs-098",
+            "pubs-099",
+            "pubs-100"
+          ]
         }
       ],
-      "next": "Pubs 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
+      "next": "pubs DONE 100/100",
+      "latest_set": "set-006"
     },
     "countries": {
       "live_file": "data/countries.json",
@@ -1052,5 +1127,5 @@
     "stray_key": "sos_stray_list",
     "scope": "on-device localStorage only; keyed by place id; survives daily rotation"
   },
-  "updated_at": "2026-10-09T01:12:13-05:00"
+  "updated_at": "2026-10-09T01:18:23-05:00"
 }

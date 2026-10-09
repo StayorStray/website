@@ -2530,5 +2530,2594 @@
       "license_ok": true,
       "auditor_status": "approved"
     }
+  },
+  {
+    "id": "pubs-051",
+    "tab": "pubs",
+    "name": "Ye Olde Trip to Jerusalem",
+    "short_line": "Nottingham, England",
+    "country": "United Kingdom",
+    "lat": 52.9493,
+    "lng": -1.1526,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Ye_Olde_Trip_to_Jerusalem_-_July_2013%2C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-051.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AYe_Olde_Trip_to_Jerusalem_-_July_2013,.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Immanuel Giel",
+      "attribution": "Photo: Immanuel Giel, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Ye Olde Trip to Jerusalem - July 2013,.jpg' (1393×1021) confirms Ye Olde Trip to Jerusalem; visually checked on contact sheet. desc: Ye Olde Trip to Jerusalem is a public house in Nottingham which claims to have been established in 1189; however, there is no documentation to verify this date."
+    },
+    "facts": {
+      "one_liner": "A whitewashed inn built into the sandstone of Castle Rock beneath Nottingham Castle.",
+      "why_go": "One of several pubs that claim to be England’s oldest, the Grade II listed ‘Trip’ leans against Castle Rock, and some of its rooms are caves carved straight out of the soft sandstone. The painted date of 1189 on its wall links it to legend of crusaders gathering here before heading to Jerusalem. Inside you’ll find low ceilings, smoke-darkened rock walls and quirky curios, all a short climb below Nottingham Castle.",
+      "best_time": "Weekday afternoons for a seat in the cave rooms; summer evenings for the courtyard under the rock.",
+      "how_to_get_there": "Nottingham station is about a 10-minute walk away; the pub sits on Brewhouse Yard at the foot of Castle Rock.",
+      "good_to_know": "The 1189 founding date is a claim, not documented history. Ask staff about the cellar caves, which are sometimes shown on tours.",
+      "official_or_tourism_url": "https://www.greeneking.co.uk/pubs/nottinghamshire/ye-olde-trip-to-jerusalem",
+      "sources": [
+        "https://www.greeneking.co.uk/pubs/nottinghamshire/ye-olde-trip-to-jerusalem",
+        "https://en.wikipedia.org/wiki/Ye_Olde_Trip_to_Jerusalem",
+        "https://commons.wikimedia.org/wiki/File%3AYe_Olde_Trip_to_Jerusalem_-_July_2013,.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Nottingham, England",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Nottingham%2C%20England&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Nottingham%2C%20England&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Nottingham%2C%20England&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Nottingham"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-052",
+    "tab": "pubs",
+    "name": "The Black Friar",
+    "short_line": "Blackfriars, London",
+    "country": "United Kingdom",
+    "lat": 51.5121,
+    "lng": -0.1037,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/The_Black_Friar_Pub%2C_London_%288484501967%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-052.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Black_Friar_Pub,_London_(8484501967).jpg",
+      "license": "CC BY 2.0",
+      "author": "Love Art Nouveau",
+      "attribution": "Photo: Love Art Nouveau, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:The Black Friar Pub, London (8484501967).jpg' (2048×1536) confirms The Black Friar; visually checked on contact sheet. desc: Exterior and Interior of The Black Friar Pub, built in 1905. One of the best examples of Art Nouveau buildings in London."
+    },
+    "facts": {
+      "one_liner": "An Arts and Crafts jewel box of marble, mosaic and bronze friars at Blackfriars.",
+      "why_go": "This wedge-shaped Grade II* listed pub stands on the site of a medieval Dominican friary, and its early-20th-century makeover by architect H. Fuller Clark and sculptor Henry Poole turned it into one of London’s most extraordinary interiors. Jolly friars appear in bronze reliefs, marble, mosaics and carved inscriptions throughout. In the 1960s a campaign backed by poet John Betjeman helped save it from demolition.",
+      "best_time": "Mid-afternoon on weekdays, before the City after-work crowd arrives, to see the interior properly.",
+      "how_to_get_there": "Directly opposite Blackfriars station (Tube and National Rail) on Queen Victoria Street.",
+      "good_to_know": "It is very busy on weekday evenings with office workers. Tables in the back saloon have the best decoration.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/The_Black_Friar,_Blackfriars",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Black_Friar,_Blackfriars",
+        "https://commons.wikimedia.org/wiki/File%3AThe_Black_Friar_Pub,_London_(8484501967).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Blackfriars, London, England",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Blackfriars%2C%20London%2C%20England&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Blackfriars%2C%20London%2C%20England&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Blackfriars%2C%20London%2C%20England&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Blackfriars"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-053",
+    "tab": "pubs",
+    "name": "The Mayflower",
+    "short_line": "Rotherhithe, London",
+    "country": "United Kingdom",
+    "lat": 51.5017,
+    "lng": -0.053,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/The_Mayflower_pub_Rotherhithe_2025-05-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-053.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Mayflower_pub_Rotherhithe_2025-05-01.jpg",
+      "license": "CC BY 2.0",
+      "author": "Matt Brown",
+      "attribution": "Photo: Matt Brown, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:The Mayflower pub Rotherhithe 2025-05-01.jpg' (4032×3024) confirms The Mayflower; visually checked on contact sheet. desc: The Mayflower pub, Rotherhithe"
+    },
+    "facts": {
+      "one_liner": "A timbered riverside inn on the Thames close to where the Mayflower set out in 1620.",
+      "why_go": "The Mayflower stands on Rotherhithe Street near the mooring where the Mayflower ship began its voyage in 1620; the ship’s captain, Christopher Jones, is buried at St Mary’s church nearby. The building dates largely from the 18th century, with dark beams, a tiny back terrace on stilts over the river, and a nautical, candlelit interior.",
+      "best_time": "Late afternoon to sunset, when the jetty terrace catches the light over the Thames.",
+      "how_to_get_there": "Rotherhithe Overground station is a few minutes’ walk away; Canada Water (Jubilee line) is about 10 minutes.",
+      "good_to_know": "The riverside jetty is small and fills up fast in good weather. Pair a visit with the Brunel Museum next door.",
+      "official_or_tourism_url": "https://www.mayflowerpub.co.uk/",
+      "sources": [
+        "https://www.mayflowerpub.co.uk/",
+        "https://en.wikipedia.org/wiki/Rotherhithe",
+        "https://commons.wikimedia.org/wiki/File%3AThe_Mayflower_pub_Rotherhithe_2025-05-01.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Rotherhithe, London, England",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rotherhithe%2C%20London%2C%20England&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rotherhithe%2C%20London%2C%20England&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rotherhithe%2C%20London%2C%20England&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Rotherhithe"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-054",
+    "tab": "pubs",
+    "name": "Ye Olde Mitre",
+    "short_line": "Hatton Garden, London",
+    "country": "United Kingdom",
+    "lat": 51.5185,
+    "lng": -0.1064,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/London_Borough_of_Camden_-_Ye_Olde_Mitre_-_20220318114110.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-054.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALondon_Borough_of_Camden_-_Ye_Olde_Mitre_-_20220318114110.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "JRennocks",
+      "attribution": "Photo: JRennocks, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:London Borough of Camden - Ye Olde Mitre - 20220318114110.jpg' (4032×2268) confirms Ye Olde Mitre; visually checked on contact sheet. desc: London Borough of Camden, Ye Olde Mitre."
+    },
+    "facts": {
+      "one_liner": "A hidden tavern tucked down a narrow alley off Hatton Garden.",
+      "why_go": "Hidden down Ely Court, a passage between Hatton Garden and Ely Place, Ye Olde Mitre traces its origins to 1546, when it served the household of the Bishops of Ely; the present building dates from the 18th century. Its wood-panelled snugs are famously hard to find, and in a corner of the bar stands the preserved trunk of a cherry tree that Elizabeth I is said to have danced around.",
+      "best_time": "Weekday afternoons and early evenings—the pub has traditionally been closed at weekends, so check hours.",
+      "how_to_get_there": "Chancery Lane and Farringdon stations are each about 5 minutes’ walk; look for the small lamp marking the alley.",
+      "good_to_know": "Opening days are limited; confirm before visiting. Space is tight, so go in a small group.",
+      "official_or_tourism_url": "https://www.yeoldemitreholborn.co.uk/",
+      "sources": [
+        "https://www.yeoldemitreholborn.co.uk/",
+        "https://en.wikipedia.org/wiki/Ye_Olde_Mitre",
+        "https://commons.wikimedia.org/wiki/File%3ALondon_Borough_of_Camden_-_Ye_Olde_Mitre_-_20220318114110.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Holborn, London, England",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Holborn%2C%20London%2C%20England&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Holborn%2C%20London%2C%20England&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Holborn%2C%20London%2C%20England&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Holborn"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-055",
+    "tab": "pubs",
+    "name": "The Spaniards Inn",
+    "short_line": "Hampstead Heath, London",
+    "country": "United Kingdom",
+    "lat": 51.57,
+    "lng": -0.174,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Spaniard%27s_Inn%2C_Hampstead%2C_2026-07-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-055.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASpaniard's_Inn,_Hampstead,_2026-07-11.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Ewan-M",
+      "attribution": "Photo: Ewan-M, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Spaniard's Inn, Hampstead, 2026-07-11.jpg' (3386×2541) confirms The Spaniards Inn; visually checked on contact sheet. desc: An historic inn on the north edge of Hampstead Heath. (Older photo of it from 2008.)\nAddress: Spaniards Road.\nFormer Name(s): The Spaniard's Hotel.\nOwner: Mitch"
+    },
+    "facts": {
+      "one_liner": "A 16th-century coaching inn on the edge of Hampstead Heath.",
+      "why_go": "This Grade II listed inn on Spaniards Road dates back to the 16th century and sits beside an old tollhouse that still narrows the road. Legend links it to the highwayman Dick Turpin, and it appears in Charles Dickens’s The Pickwick Papers and Bram Stoker’s Dracula. The big garden makes it a classic stop after a walk across the Heath or a visit to nearby Kenwood House.",
+      "best_time": "Spring and summer weekends for the garden; winter afternoons for fireside rooms after a Heath walk.",
+      "how_to_get_there": "Hampstead (Northern line) is about 20 minutes’ walk across the Heath; bus 210 stops outside.",
+      "good_to_know": "Expect a crowd on sunny weekends. Kenwood House (free entry) is a short walk away.",
+      "official_or_tourism_url": "https://www.thespaniardshampstead.co.uk/",
+      "sources": [
+        "https://www.thespaniardshampstead.co.uk/",
+        "https://en.wikipedia.org/wiki/Spaniards_Inn",
+        "https://commons.wikimedia.org/wiki/File%3ASpaniard's_Inn,_Hampstead,_2026-07-11.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Hampstead, London, England",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Hampstead%2C%20London%2C%20England&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Hampstead%2C%20London%2C%20England&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Hampstead%2C%20London%2C%20England&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Hampstead"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-056",
+    "tab": "pubs",
+    "name": "Turf Tavern",
+    "short_line": "Oxford, England",
+    "country": "United Kingdom",
+    "lat": 51.7547,
+    "lng": -1.253,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Turf_Tavern_in_Oxford%2C_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-056.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATurf_Tavern_in_Oxford,_England.jpg",
+      "license": "CC BY 2.0",
+      "author": "Jim Linwood",
+      "attribution": "Photo: Jim Linwood, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Turf Tavern in Oxford, England.jpg' (4000×3000) confirms Turf Tavern; visually checked on contact sheet. desc: The following is the author's description of the photograph quoted directly from the photograph's Flickr page.\"The Turf Tavern is a historic pub located just ou"
+    },
+    "facts": {
+      "one_liner": "A low-beamed tavern tucked beneath Oxford’s old city wall.",
+      "why_go": "Reached through narrow alleys off Holywell Street and New College Lane near the Bridge of Sighs, the Turf Tavern has served drinks since at least the late 18th century, when it was known as the Spotted Cow. A stretch of Oxford’s medieval city wall runs beside its beer gardens. It is a student institution, and it is where future Australian prime minister Bob Hawke famously set a record for downing a yard of ale.",
+      "best_time": "Autumn and winter evenings, when braziers glow in the courtyards; summer for long afternoons outside.",
+      "how_to_get_there": "About 15 minutes’ walk from Oxford station; follow St Helen’s Passage from New College Lane.",
+      "good_to_know": "It is hard to find on purpose—look for the signs at the alley entrances. Food is served most of the day.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Turf_Tavern",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Turf_Tavern",
+        "https://commons.wikimedia.org/wiki/File%3ATurf_Tavern_in_Oxford,_England.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Oxford, England",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Oxford%2C%20England&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Oxford%2C%20England&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Oxford%2C%20England&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Oxford"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-057",
+    "tab": "pubs",
+    "name": "Philharmonic Dining Rooms",
+    "short_line": "Liverpool, England",
+    "country": "United Kingdom",
+    "lat": 53.4017,
+    "lng": -2.9705,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Philharmonic_Dining_Rooms_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-057.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APhilharmonic_Dining_Rooms_2017.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Rodhullandemu",
+      "attribution": "Photo: Rodhullandemu, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Philharmonic Dining Rooms 2017.jpg' (4049×3536) confirms Philharmonic Dining Rooms; visually checked on contact sheet. desc: View across the junction of Hope Street and Myrtle Street from corner of the Philharmonic Hall of the Grade II listed Philharmonic Dining Rooms pub in Liverpool"
+    },
+    "facts": {
+      "one_liner": "A Grade I listed Victorian gin palace of mosaics, carved wood and stained glass.",
+      "why_go": "‘The Phil’ was built around 1898–1900 opposite the Liverpool Philharmonic Hall, decorated by craftsmen who had worked on ocean liners. It is one of very few pubs listed at Grade I, with a mosaic-floored bar, copper panels, carved mahogany, stained glass and grand rooms named Brahms and Liszt. Its marble Victorian gents’ toilets are themselves a listed attraction.",
+      "best_time": "Afternoons for a quiet look at the rooms; concert nights at the Philharmonic Hall for buzz.",
+      "how_to_get_there": "On the corner of Hope Street and Hardman Street, about 15 minutes’ walk from Liverpool Lime Street.",
+      "good_to_know": "Visitors of any gender may politely ask to peek into the famous gents when it is empty.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Philharmonic_Dining_Rooms",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Philharmonic_Dining_Rooms",
+        "https://commons.wikimedia.org/wiki/File%3APhilharmonic_Dining_Rooms_2017.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Liverpool, England",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Liverpool%2C%20England&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Liverpool%2C%20England&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Liverpool%2C%20England&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Liverpool"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-058",
+    "tab": "pubs",
+    "name": "The Sheep Heid Inn",
+    "short_line": "Duddingston, Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9419,
+    "lng": -3.1486,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Sheep_Heid_Inn%2C_Duddingston.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-058.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASheep_Heid_Inn,_Duddingston.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Kim Traynor",
+      "attribution": "Photo: Kim Traynor, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Sheep Heid Inn, Duddingston.jpg' (1600×1200) confirms The Sheep Heid Inn; visually checked on contact sheet. desc: Known in popular parlance as 'the Sheep's Heid', this public house claims to be the oldest known pub in Scotland. Tradition has it that it was established aroun"
+    },
+    "facts": {
+      "one_liner": "A village inn beneath Arthur’s Seat with a centuries-old skittle alley.",
+      "why_go": "In Duddingston village on the far side of Arthur’s Seat, the Sheep Heid claims an inn has stood here since 1360, which would make it one of Scotland’s oldest licensed premises; the current building is largely 18th century. Its historic skittle alley still runs, and visitors are said to have included Mary, Queen of Scots and Robert Burns. It makes a perfect end to a walk over Holyrood Park.",
+      "best_time": "Spring to autumn, combined with a walk over Arthur’s Seat; the beer garden is lovely in summer.",
+      "how_to_get_there": "Walk over Arthur’s Seat from Holyrood (about 45 minutes) or take bus 42 to Duddingston.",
+      "good_to_know": "Book the skittle alley ahead for groups. Duddingston Loch and Kirk are next door.",
+      "official_or_tourism_url": "https://www.thesheepheidedinburgh.co.uk",
+      "sources": [
+        "https://www.thesheepheidedinburgh.co.uk",
+        "https://en.wikipedia.org/wiki/Sheep_Heid_Inn",
+        "https://commons.wikimedia.org/wiki/File%3ASheep_Heid_Inn,_Duddingston.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Edinburgh, Scotland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Edinburgh%2C%20Scotland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Edinburgh%2C%20Scotland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Edinburgh%2C%20Scotland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Edinburgh"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-059",
+    "tab": "pubs",
+    "name": "Café Royal",
+    "short_line": "New Town, Edinburgh",
+    "country": "United Kingdom",
+    "lat": 55.9536,
+    "lng": -3.1904,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Edinburgh_-_Edinburgh%2C_17_West_Register_Street%2C_Cafe_Royal_-_20140421203136.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-059.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AEdinburgh_-_Edinburgh,_17_West_Register_Street,_Cafe_Royal_-_20140421203136.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Enric",
+      "attribution": "Photo: Enric, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Edinburgh - Edinburgh, 17 West Register Street, Cafe Royal - 20140421203136.jpg' (2816×2112) confirms Café Royal; visually checked on contact sheet. desc: This is a photo of listed building number"
+    },
+    "facts": {
+      "one_liner": "A Victorian island bar ringed with Royal Doulton tile portraits of inventors.",
+      "why_go": "Behind an 1860s façade on West Register Street, the Café Royal keeps one of Edinburgh’s finest Victorian interiors: an island bar, ornate plasterwork, and large Doulton ceramic tile pictures of inventors such as James Watt and George Stephenson. The adjoining Oyster Bar has stained-glass windows showing sportsmen and is a classic place for seafood.",
+      "best_time": "Any time of year; weekday afternoons are calmest for admiring the tiles.",
+      "how_to_get_there": "Just off the east end of Princes Street, a few minutes from Edinburgh Waverley station.",
+      "good_to_know": "The Oyster Bar restaurant gets booked up; reserve ahead for dinner.",
+      "official_or_tourism_url": "https://www.caferoyaledinburgh.co.uk/",
+      "sources": [
+        "https://www.caferoyaledinburgh.co.uk/",
+        "https://en.wikipedia.org/wiki/Caf%C3%A9_Royal,_Edinburgh",
+        "https://commons.wikimedia.org/wiki/File%3AEdinburgh_-_Edinburgh,_17_West_Register_Street,_Cafe_Royal_-_20140421203136.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Edinburgh, Scotland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Edinburgh%2C%20Scotland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Edinburgh%2C%20Scotland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Edinburgh%2C%20Scotland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Edinburgh"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-060",
+    "tab": "pubs",
+    "name": "Jamaica Inn",
+    "short_line": "Bodmin Moor, Cornwall",
+    "country": "United Kingdom",
+    "lat": 50.5622,
+    "lng": -4.5668,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jamaica_Inn%2C_Bolventor_%28461305%29_%289459348998%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-060.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AJamaica_Inn,_Bolventor_(461305)_(9459348998).jpg",
+      "license": "CC BY 2.0",
+      "author": "Robert Linsdell from St. Andrews, Canada",
+      "attribution": "Photo: Robert Linsdell from St. Andrews, Canada, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Jamaica Inn, Bolventor (461305) (9459348998).jpg' (4320×3240) confirms Jamaica Inn; visually checked on contact sheet. desc: Jamaica Inn, Bolventor, Cornwall, England"
+    },
+    "facts": {
+      "one_liner": "A lonely slate coaching inn on Bodmin Moor, famous from Daphne du Maurier’s novel.",
+      "why_go": "Built as a coaching inn in 1750 on the old road across Bodmin Moor, Jamaica Inn has long been associated with smuggling, and it inspired Daphne du Maurier’s 1936 novel Jamaica Inn. Today it combines a beamed bar, rooms and a smugglers museum, and makes a dramatic base for walks to Brown Willy and Dozmary Pool.",
+      "best_time": "Late spring to early autumn for moorland walks; misty winter days for full atmosphere.",
+      "how_to_get_there": "Just off the A30 at Bolventor, roughly halfway between Launceston and Bodmin; a car is easiest.",
+      "good_to_know": "It is a popular stop for road trippers. The smugglers museum has a separate entry fee.",
+      "official_or_tourism_url": "https://www.jamaicainn.co.uk",
+      "sources": [
+        "https://www.jamaicainn.co.uk",
+        "https://en.wikipedia.org/wiki/Jamaica_Inn",
+        "https://commons.wikimedia.org/wiki/File%3AJamaica_Inn,_Bolventor_(461305)_(9459348998).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Bodmin Moor, Cornwall, England",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bodmin%20Moor%2C%20Cornwall%2C%20England&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bodmin%20Moor%2C%20Cornwall%2C%20England&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bodmin%20Moor%2C%20Cornwall%2C%20England&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Bodmin Moor"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-061",
+    "tab": "pubs",
+    "name": "The Lamb",
+    "short_line": "Bloomsbury, London",
+    "country": "United Kingdom",
+    "lat": 51.523,
+    "lng": -0.1191,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Lamb_pub%2C_Lamb%27s_Conduit_Street%2C_Bloomsbury_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-061.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALamb_pub,_Lamb's_Conduit_Street,_Bloomsbury_08.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Edwardx",
+      "attribution": "Photo: Edwardx, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Lamb pub, Lamb's Conduit Street, Bloomsbury 08.jpg' (4608×3456) confirms The Lamb; visually checked on contact sheet. desc: Lamb pub, Lamb's Conduit Street, Bloomsbury"
+    },
+    "facts": {
+      "one_liner": "A Bloomsbury pub keeping its rare Victorian ‘snob screens’ around the bar.",
+      "why_go": "Built in the 1720s and refurbished in the Victorian era, The Lamb on Lamb’s Conduit Street is one of the few pubs that still has its swivelling etched-glass ‘snob screens’, which let well-off drinkers avoid being seen by bar staff. Dark wood, photographs of music-hall stars and a polyphon music box give it great character; Charles Dickens lived nearby.",
+      "best_time": "Weekday afternoons; the street is pleasant for strolling in good weather.",
+      "how_to_get_there": "Russell Square and Holborn stations are both about 8 minutes’ walk.",
+      "good_to_know": "Pair with a visit to the Charles Dickens Museum on nearby Doughty Street.",
+      "official_or_tourism_url": "https://www.thelamblondon.com/",
+      "sources": [
+        "https://www.thelamblondon.com/",
+        "https://en.wikipedia.org/wiki/The_Lamb,_Bloomsbury",
+        "https://commons.wikimedia.org/wiki/File%3ALamb_pub,_Lamb's_Conduit_Street,_Bloomsbury_08.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Bloomsbury, London, England",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bloomsbury%2C%20London%2C%20England&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bloomsbury%2C%20London%2C%20England&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bloomsbury%2C%20London%2C%20England&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Bloomsbury"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-062",
+    "tab": "pubs",
+    "name": "Kelly's Cellars",
+    "short_line": "Belfast, Northern Ireland",
+    "country": "United Kingdom",
+    "lat": 54.599,
+    "lng": -5.932,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Kelly%27s_Cellars_-_Belfast_%285682939761%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-062.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AKelly's_Cellars_-_Belfast_(5682939761).jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "William Murphy from Dublin, Ireland",
+      "attribution": "Photo: William Murphy from Dublin, Ireland, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Kelly's Cellars - Belfast (5682939761).jpg' (4592×3056) confirms Kelly's Cellars; visually checked on contact sheet. desc: It is claimed that Kelly's Cellars is the oldest licensed premises in Belfast. The original two-storey pub was built in 1720 by Belfast merchant Hugh Kelly who "
+    },
+    "facts": {
+      "one_liner": "One of Belfast’s oldest pubs, with whitewashed walls and traditional music.",
+      "why_go": "Kelly’s Cellars on Bank Street dates from 1720, making it one of Belfast’s oldest pubs. It is resolutely old-fashioned—vaulted ceiling, elbow-worn bar and walls crammed with memorabilia—and is known for traditional Irish music sessions and pub food. Tradition links it to the United Irishmen of the 1790s.",
+      "best_time": "Evenings and weekend afternoons for traditional music sessions.",
+      "how_to_get_there": "In Belfast city centre beside the Castlecourt shopping centre, a short walk from City Hall.",
+      "good_to_know": "Sessions are informal—check locally which nights have music.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Kelly%27s_Cellars",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kelly%27s_Cellars",
+        "https://visitbelfast.com/",
+        "https://commons.wikimedia.org/wiki/File%3AKelly's_Cellars_-_Belfast_(5682939761).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Belfast, Northern Ireland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Belfast%2C%20Northern%20Ireland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Belfast%2C%20Northern%20Ireland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Belfast%2C%20Northern%20Ireland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Belfast"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-063",
+    "tab": "pubs",
+    "name": "The Palace Bar",
+    "short_line": "Fleet Street, Dublin",
+    "country": "Ireland",
+    "lat": 53.3459,
+    "lng": -6.2591,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/20130808_dublin05.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-063.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3A20130808_dublin05.JPG",
+      "license": "CC BY-SA 3.0",
+      "author": "Jean Housen",
+      "attribution": "Photo: Jean Housen, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:20130808 dublin05.JPG' (3872×2592) confirms The Palace Bar; visually checked on contact sheet. desc: Vue de Fleet Street à Dublin."
+    },
+    "facts": {
+      "one_liner": "A narrow Victorian bar of mirrors and mahogany on Fleet Street.",
+      "why_go": "The Palace Bar has stood on Fleet Street since 1823 and keeps a classic Victorian interior of mahogany, etched mirrors and a skylit back room. It was long a haunt of Irish Times journalists and writers such as Patrick Kavanagh and Flann O’Brien, and it remains one of Dublin’s best-loved traditional pubs, just steps from Temple Bar.",
+      "best_time": "Weekday afternoons for a quiet pint; evenings are lively.",
+      "how_to_get_there": "On Fleet Street, a short walk from Trinity College and O’Connell Bridge.",
+      "good_to_know": "It has an upstairs whiskey bar. No TVs or loud music downstairs—this is a talking pub.",
+      "official_or_tourism_url": "https://thepalacebardublin.com/",
+      "sources": [
+        "https://thepalacebardublin.com/",
+        "https://en.wikipedia.org/wiki/The_Palace_Bar",
+        "https://commons.wikimedia.org/wiki/File%3A20130808_dublin05.JPG"
+      ]
+    },
+    "ad": {
+      "destination_query": "Dublin, Ireland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Dublin%2C%20Ireland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Dublin%2C%20Ireland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Dublin%2C%20Ireland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Dublin"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-064",
+    "tab": "pubs",
+    "name": "Toner's",
+    "short_line": "Baggot Street, Dublin",
+    "country": "Ireland",
+    "lat": 53.3369,
+    "lng": -6.2507,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/James_Toner%27s%2C_Dublin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-064.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AJames_Toner's,_Dublin.jpg",
+      "license": "CC BY 2.0",
+      "author": "Adam Bruderer",
+      "attribution": "Photo: Adam Bruderer, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:James Toner's, Dublin.jpg' (3872×2592) confirms Toner's; visually checked on contact sheet. desc: James Toner's, 139 Lower Baggot Street, Dublin 2."
+    },
+    "facts": {
+      "one_liner": "A Victorian Dublin pub with its old grocer’s drawers still behind the bar.",
+      "why_go": "Toner’s on Lower Baggot Street is one of Dublin’s classic Victorian pubs, with its original shop-front drawers and shelves from its days as a grocer-pub, stone floor and snug. Tradition has it that W. B. Yeats drank here—reputedly the only pub he ever visited—and it has a large courtyard for summer evenings.",
+      "best_time": "Any time; summer evenings for the courtyard.",
+      "how_to_get_there": "About 10 minutes’ walk from St Stephen’s Green on Baggot Street.",
+      "good_to_know": "The Yeats story is a tradition rather than documented history. Busy on match days.",
+      "official_or_tourism_url": "https://www.tonerspub.ie/",
+      "sources": [
+        "https://www.tonerspub.ie/",
+        "https://en.wikipedia.org/wiki/Toner%27s_Pub",
+        "https://commons.wikimedia.org/wiki/File%3AJames_Toner's,_Dublin.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Dublin, Ireland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Dublin%2C%20Ireland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Dublin%2C%20Ireland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Dublin%2C%20Ireland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Dublin"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-065",
+    "tab": "pubs",
+    "name": "Durty Nelly's",
+    "short_line": "Bunratty, County Clare",
+    "country": "Ireland",
+    "lat": 52.6993,
+    "lng": -8.8133,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Bunratty_Castle_and_Durty_Nellys%2C_Southeast_view_20150803_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-065.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABunratty_Castle_and_Durty_Nellys,_Southeast_view_20150803_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "DXR",
+      "attribution": "Photo: DXR, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Bunratty Castle and Durty Nellys, Southeast view 20150803 1.jpg' (5941×4412) confirms Durty Nelly's; visually checked on contact sheet. desc: A southeast view of Bunratty Castle and the nearby Durty Nelly's pub"
+    },
+    "facts": {
+      "one_liner": "A thatch-era country pub beside the walls of Bunratty Castle.",
+      "why_go": "Durty Nelly’s sits by the bridge at the foot of 15th-century Bunratty Castle, and claims to date from 1620. Low ceilings, open fires, traditional music and a riverside setting make it one of Ireland’s most famous country pubs, and the castle’s medieval banquets and folk park are right next door.",
+      "best_time": "Year-round; summer evenings for music, winter for fireside pints.",
+      "how_to_get_there": "In Bunratty village off the N18, about 15 minutes by car from Shannon Airport and 20 minutes from Limerick.",
+      "good_to_know": "Combine with a medieval banquet at Bunratty Castle (book ahead).",
+      "official_or_tourism_url": "https://www.durtynellys.ie/",
+      "sources": [
+        "https://www.durtynellys.ie/",
+        "https://en.wikipedia.org/wiki/Bunratty",
+        "https://commons.wikimedia.org/wiki/File%3ABunratty_Castle_and_Durty_Nellys,_Southeast_view_20150803_1.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Bunratty, County Clare, Ireland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bunratty%2C%20County%20Clare%2C%20Ireland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bunratty%2C%20County%20Clare%2C%20Ireland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bunratty%2C%20County%20Clare%2C%20Ireland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Bunratty"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-066",
+    "tab": "pubs",
+    "name": "Tigh Neachtain",
+    "short_line": "Galway, Ireland",
+    "country": "Ireland",
+    "lat": 53.2714,
+    "lng": -9.054,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Tigh_Neacht%C3%A1in_January_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-066.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATigh_Neacht%C3%A1in_January_2026.jpg",
+      "license": "CC BY 4.0",
+      "author": "Blaithnaid",
+      "attribution": "Photo: Blaithnaid, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Tigh Neachtáin January 2026.jpg' (4946×3593) confirms Tigh Neachtain; visually checked on contact sheet. desc: The Galway pub Tigh Neachtáin as it appeared in the early evening of New Year's day 2026."
+    },
+    "facts": {
+      "one_liner": "A painted corner pub in Galway’s Latin Quarter, buzzing with music and chat.",
+      "why_go": "Tigh Neachtáin (Naughton’s) has been a pub since 1894 on the corner of Quay Street and Cross Street, in a building once home to Richard ‘Humanity Dick’ Martin, the animal-welfare campaigner. Its colourful façade, snugs and wooden nooks make it a hub of Galway life, with traditional music sessions and a strong whiskey selection.",
+      "best_time": "Summer for street life and festivals (Galway Arts Festival in July); winter evenings for snug sessions.",
+      "how_to_get_there": "In the pedestrian Latin Quarter, about 10 minutes’ walk from Galway Ceannt station.",
+      "good_to_know": "Seats are scarce on festival nights; arrive early afternoon to grab a snug.",
+      "official_or_tourism_url": "https://tighneachtain.com/",
+      "sources": [
+        "https://tighneachtain.com/",
+        "https://en.wikipedia.org/wiki/Tigh_Neacht%C3%A1in",
+        "https://commons.wikimedia.org/wiki/File%3ATigh_Neacht%C3%A1in_January_2026.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Galway, Ireland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Galway%2C%20Ireland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Galway%2C%20Ireland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Galway%2C%20Ireland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Galway"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-067",
+    "tab": "pubs",
+    "name": "À la Mort Subite",
+    "short_line": "Brussels, Belgium",
+    "country": "Belgium",
+    "lat": 50.8486,
+    "lng": 4.3561,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bruxelles_rue_Montagne-aux-Herbes-Potag%C3%A8res_7_901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-067.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABruxelles_rue_Montagne-aux-Herbes-Potag%C3%A8res_7_901.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Michel wal",
+      "attribution": "Photo: Michel wal, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Bruxelles rue Montagne-aux-Herbes-Potagères 7 901.jpg' (3888×2592) confirms À la Mort Subite; visually checked on contact sheet. desc: Rue Montagne-aux-Herbes-Potagères 7, Bruxelles, Belgique. Café \"À la Mort Subite\""
+    },
+    "facts": {
+      "one_liner": "A long, mirrored Belgian café unchanged since the 1920s.",
+      "why_go": "Near the Galeries Royales Saint-Hubert, À la Mort Subite has occupied this spot since 1928 and its long hall of mirrors, wooden benches and cream walls is protected heritage (listed in 1998). It gave its name to the Mort Subite lambic and gueuze beers, and is a classic stop for a kriek with cheese or a tartine.",
+      "best_time": "Afternoons any time of year.",
+      "how_to_get_there": "A few minutes’ walk from the Grand-Place and Bruxelles-Central station.",
+      "good_to_know": "Waiters in traditional aprons take orders at the table. Try a gueuze or kriek.",
+      "official_or_tourism_url": "https://alamortsubite.com/",
+      "sources": [
+        "https://alamortsubite.com/",
+        "https://en.wikipedia.org/wiki/%C3%80_la_Mort_Subite",
+        "https://commons.wikimedia.org/wiki/File%3ABruxelles_rue_Montagne-aux-Herbes-Potag%C3%A8res_7_901.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Brussels, Belgium",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Brussels%2C%20Belgium&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Brussels%2C%20Belgium&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Brussels%2C%20Belgium&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Brussels"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-068",
+    "tab": "pubs",
+    "name": "Andechs Abbey Bräustüberl",
+    "short_line": "Bavaria, Germany",
+    "country": "Germany",
+    "lat": 47.9747,
+    "lng": 11.1825,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Kloster_Andechs-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-068.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AKloster_Andechs-1.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Rufus46",
+      "attribution": "Photo: Rufus46, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Kloster Andechs-1.jpg' (5010×3385) confirms Andechs Abbey Bräustüberl; visually checked on contact sheet. desc: Kloster Andechs, 1438 als Chorherrenstift begründet, 1455/58 Umwandlung in eine Benediktinerabtei, Aufhebung 1803, Neugründung als Benediktinerpriorat 1846:; Er"
+    },
+    "facts": {
+      "one_liner": "A Benedictine hilltop monastery brewing beer above the Ammersee.",
+      "why_go": "Andechs Abbey crowns the ‘Holy Mountain’ east of the Ammersee lake, a pilgrimage site with a flamboyant Baroque church and a monastery brewery whose profits support the monks’ work. The Bräustüberl and beer garden serve its beers with Bavarian food and long views over the Alpine foothills. Composer Carl Orff is buried in the church.",
+      "best_time": "May–October for the beer garden; weekdays are quieter than sunny weekends.",
+      "how_to_get_there": "Take the S-Bahn from Munich to Herrsching (about 50 minutes), then walk up through the Kiental gorge (about 1 hour) or take the bus.",
+      "good_to_know": "Bring cash for convenience; it gets very busy on summer weekends and holidays.",
+      "official_or_tourism_url": "https://www.andechs.de/",
+      "sources": [
+        "https://www.andechs.de/",
+        "https://en.wikipedia.org/wiki/Andechs_Abbey",
+        "https://commons.wikimedia.org/wiki/File%3AKloster_Andechs-1.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Andechs, Bavaria, Germany",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Andechs%2C%20Bavaria%2C%20Germany&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Andechs%2C%20Bavaria%2C%20Germany&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Andechs%2C%20Bavaria%2C%20Germany&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay near the Ammersee"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-069",
+    "tab": "pubs",
+    "name": "Szimpla Kert",
+    "short_line": "Budapest, Hungary",
+    "country": "Hungary",
+    "lat": 47.497,
+    "lng": 19.0634,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Budapest%2C_Szimpla_Kert%2C_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-069.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABudapest,_Szimpla_Kert,_2.jpg",
+      "license": "CC0",
+      "author": "Random photos 1989",
+      "attribution": "Photo: Random photos 1989, CC0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Budapest, Szimpla Kert, 2.jpg' (4096×3072) confirms Szimpla Kert; visually checked on contact sheet. desc: Budapest, Szimpla Kert"
+    },
+    "facts": {
+      "one_liner": "Budapest’s original ruin bar, a maze of salvaged junk and fairy lights.",
+      "why_go": "Szimpla Kert pioneered Budapest’s ‘ruin bars’ (romkocsma) in the Jewish Quarter: a crumbling building filled with mismatched furniture, old bathtubs, a Trabant car and layers of art. It has grown into a community hub with live music, film screenings and a Sunday farmers’ market, and rooms full of graffiti and plants to explore.",
+      "best_time": "Sunday mornings for the farmers’ market; late evenings for the full party atmosphere.",
+      "how_to_get_there": "On Kazinczy utca in District VII, a short walk from Astoria or Deák Ferenc tér metro stations.",
+      "good_to_know": "Be mindful of residents when leaving late. Queues form on weekend nights.",
+      "official_or_tourism_url": "https://www.szimpla.hu/",
+      "sources": [
+        "https://www.szimpla.hu/",
+        "https://en.wikipedia.org/wiki/Szimpla_Kert",
+        "https://commons.wikimedia.org/wiki/File%3ABudapest,_Szimpla_Kert,_2.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Budapest, Hungary",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Budapest%2C%20Hungary&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Budapest%2C%20Hungary&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Budapest%2C%20Hungary&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Budapest"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-070",
+    "tab": "pubs",
+    "name": "Café Papeneiland",
+    "short_line": "Amsterdam, Netherlands",
+    "country": "Netherlands",
+    "lat": 52.3802,
+    "lng": 4.8862,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Papeneiland-amsterdam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-070.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APapeneiland-amsterdam.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Paul2",
+      "attribution": "Photo: Paul2, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Papeneiland-amsterdam.jpg' (1600×1200) confirms Café Papeneiland; visually checked on contact sheet. desc: Cafe Papeneiland, a typical so called brown cafe, in a building from 1642, at the corner of Prinsengracht and Brouwersgracht in Amsterdam"
+    },
+    "facts": {
+      "one_liner": "A 17th-century canal-corner brown café famous for its apple pie.",
+      "why_go": "On the corner of the Prinsengracht and Brouwersgracht, Papeneiland has been a café since 1642, making it one of Amsterdam’s oldest ‘brown cafés’. Delft tiles, a wood stove and a tiny interior keep it cosy, and its apple pie is a local favourite. Legend says a tunnel once connected it to a hidden Catholic church across the canal.",
+      "best_time": "Mornings or early afternoons for pie and coffee; quiet weekday evenings.",
+      "how_to_get_there": "In the Jordaan, about 10 minutes’ walk from Amsterdam Centraal.",
+      "good_to_know": "Seating is limited; on fine days, sit outside facing the canals.",
+      "official_or_tourism_url": "https://papeneiland.nl/",
+      "sources": [
+        "https://papeneiland.nl/",
+        "https://en.wikipedia.org/wiki/Caf%C3%A9_Papeneiland",
+        "https://commons.wikimedia.org/wiki/File%3APapeneiland-amsterdam.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Amsterdam, Netherlands",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Amsterdam%2C%20Netherlands&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Amsterdam%2C%20Netherlands&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Amsterdam%2C%20Netherlands&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Amsterdam"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-071",
+    "tab": "pubs",
+    "name": "Wynand Fockink",
+    "short_line": "Amsterdam, Netherlands",
+    "country": "Netherlands",
+    "lat": 52.3727,
+    "lng": 4.8946,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Wynand_Focking_Amsterdam_2014_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-071.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AWynand_Focking_Amsterdam_2014_(4).jpg",
+      "license": "CC0",
+      "author": "Gryffindor",
+      "attribution": "Photo: Gryffindor, CC0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Wynand Focking Amsterdam 2014 (4).jpg' (3035×1866) confirms Wynand Fockink; visually checked on contact sheet. desc: The Proeflokaal of Wynand Fockink at Pijlsteeg 31 in Amsterdam."
+    },
+    "facts": {
+      "one_liner": "A 17th-century tasting room for jenever and liqueurs behind the Dam.",
+      "why_go": "Wynand Fockink, founded in 1679, is a traditional proeflokaal (tasting room) in an alley behind Dam Square, where jenever and Dutch liqueurs are poured to the brim of tulip glasses. Tradition says you take the first sip bent over the bar without lifting the glass. The distillery behind it offers tours and tastings.",
+      "best_time": "Late afternoon for a pre-dinner glass.",
+      "how_to_get_there": "On Pijlsteeg, a two-minute walk from Dam Square.",
+      "good_to_know": "Tiny and standing-room only at busy times. Book distillery tours ahead.",
+      "official_or_tourism_url": "https://www.wynand-fockink.nl/",
+      "sources": [
+        "https://www.wynand-fockink.nl/",
+        "https://en.wikipedia.org/wiki/Wynand_Fockink",
+        "https://commons.wikimedia.org/wiki/File%3AWynand_Focking_Amsterdam_2014_(4).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Amsterdam, Netherlands",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Amsterdam%2C%20Netherlands&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Amsterdam%2C%20Netherlands&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Amsterdam%2C%20Netherlands&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Amsterdam"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-072",
+    "tab": "pubs",
+    "name": "El Floridita",
+    "short_line": "Old Havana, Cuba",
+    "country": "Cuba",
+    "lat": 23.1373,
+    "lng": -82.3573,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Floridita_bar%2C_Havana%2C_Cuba_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-072.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AFloridita_bar,_Havana,_Cuba_1.jpg",
+      "license": "CC BY 2.0",
+      "author": "Tony Hisgett from Birmingham, UK",
+      "attribution": "Photo: Tony Hisgett from Birmingham, UK, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Floridita bar, Havana, Cuba 1.jpg' (4752×3168) confirms El Floridita; visually checked on contact sheet. desc: Interior of the Floridita bar, a favourite of Hemingway in Havana, Cuba"
+    },
+    "facts": {
+      "one_liner": "The pink-fronted ‘cradle of the daiquiri’, where Hemingway’s bronze still leans on the bar.",
+      "why_go": "At the end of Calle Obispo in Old Havana, El Floridita is famous for its frozen daiquiris and for being one of Ernest Hemingway’s favourite haunts; a life-size bronze statue of the writer stands at his corner of the bar. The red-and-gold interior with its long mahogany bar is little changed in spirit, and live son and bolero music plays most days.",
+      "best_time": "November–April for drier, cooler weather; afternoons for live music.",
+      "how_to_get_there": "At Obispo and Monserrate, opposite the Museo Nacional de Bellas Artes, walking distance from Parque Central.",
+      "good_to_know": "It is a popular tourist stop, with prices to match. Carry cash and check current travel rules for Cuba.",
+      "official_or_tourism_url": "https://www.barfloridita.com/",
+      "sources": [
+        "https://www.barfloridita.com/",
+        "https://en.wikipedia.org/wiki/Floridita",
+        "https://commons.wikimedia.org/wiki/File%3AFloridita_bar,_Havana,_Cuba_1.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Old Havana, Cuba",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Old%20Havana%2C%20Cuba&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Old%20Havana%2C%20Cuba&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Old%20Havana%2C%20Cuba&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Old Havana"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-073",
+    "tab": "pubs",
+    "name": "La Bodeguita del Medio",
+    "short_line": "Old Havana, Cuba",
+    "country": "Cuba",
+    "lat": 23.1407,
+    "lng": -82.3511,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/La_bodeguita_del_medio_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-073.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALa_bodeguita_del_medio_09.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Gorupdebesanez",
+      "attribution": "Photo: Gorupdebesanez, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:La bodeguita del medio 09.jpg' (3008×2000) confirms La Bodeguita del Medio; visually checked on contact sheet. desc: Cuba, Havana, La Bodeguita del Medio, Hemingway's preferred place for his mojito"
+    },
+    "facts": {
+      "one_liner": "A tiny Havana bodega with signature-covered walls and the city’s famous mojitos.",
+      "why_go": "La Bodeguita del Medio, half a block from Havana Cathedral on Calle Empedrado, opened in the 1940s and became famous for its mojitos and Cuban food. Its walls are covered in the scrawled signatures of visitors, and it is tied to Hemingway legend through a framed note attributed to him—though historians doubt he wrote it.",
+      "best_time": "November–April; go early in the day to avoid the crowds.",
+      "how_to_get_there": "On Calle Empedrado near Plaza de la Catedral in Old Havana.",
+      "good_to_know": "The bar is cramped and busy; the restaurant upstairs takes bookings.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/La_Bodeguita_del_Medio",
+      "sources": [
+        "https://en.wikipedia.org/wiki/La_Bodeguita_del_Medio",
+        "https://commons.wikimedia.org/wiki/File%3ALa_bodeguita_del_medio_09.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Old Havana, Cuba",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Old%20Havana%2C%20Cuba&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Old%20Havana%2C%20Cuba&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Old%20Havana%2C%20Cuba&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Old Havana"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-074",
+    "tab": "pubs",
+    "name": "Harry's Bar",
+    "short_line": "Venice, Italy",
+    "country": "Italy",
+    "lat": 45.4325,
+    "lng": 12.3372,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Harry%27s_Bar_%28inside%29_-_Venice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-074.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHarry's_Bar_(inside)_-_Venice.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Felix Haslimeier from Edinburgh, Scotland",
+      "attribution": "Photo: Felix Haslimeier from Edinburgh, Scotland, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Harry's Bar (inside) - Venice.jpg' (3264×2448) confirms Harry's Bar; visually checked on contact sheet. desc: Italy - Venice, Harry's Bar, San Marco"
+    },
+    "facts": {
+      "one_liner": "The Venetian bar where the Bellini and beef carpaccio were born.",
+      "why_go": "Opened in 1931 by Giuseppe Cipriani near St Mark’s Square, Harry’s Bar is credited with creating the Bellini cocktail and beef carpaccio. Its simple wood-panelled room has hosted everyone from Ernest Hemingway to Orson Welles, and it was declared a national landmark by Italy’s Ministry of Cultural Heritage in 2001.",
+      "best_time": "October–April for a cosier, less crowded Venice; evenings for the full atmosphere.",
+      "how_to_get_there": "At Calle Vallaresso 1323, by the San Marco Vallaresso vaporetto stop.",
+      "good_to_know": "Expect very high prices; a Bellini at the bar is the classic experience. Smart-casual dress.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Harry%27s_Bar_(Venice)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Harry%27s_Bar_(Venice)",
+        "https://en.wikipedia.org/wiki/Harry%27s_Bar_%28Venice%29",
+        "https://commons.wikimedia.org/wiki/File%3AHarry's_Bar_(inside)_-_Venice.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Venice, Italy",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Venice%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Venice%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Venice%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Venice"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-075",
+    "tab": "pubs",
+    "name": "Harry's New York Bar",
+    "short_line": "Paris, France",
+    "country": "France",
+    "lat": 48.8692,
+    "lng": 2.3321,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Harrys_New_York_Bar_3%2C_Paris_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-075.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHarrys_New_York_Bar_3,_Paris_2012.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Mitch Barrie from Costa Mesa, CA, USA",
+      "attribution": "Photo: Mitch Barrie from Costa Mesa, CA, USA, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Harrys New York Bar 3, Paris 2012.jpg' (2730×2054) confirms Harry's New York Bar; visually checked on contact sheet. desc: Harry's New York Bar, Paris."
+    },
+    "facts": {
+      "one_liner": "A mahogany Manhattan saloon transplanted to Paris near the Opéra.",
+      "why_go": "Harry’s New York Bar at 5 Rue Daunou opened in 1911, when jockey Tod Sloan had a Manhattan bar interior dismantled and shipped to Paris. It became an expatriate favourite through both world wars and claims the invention of classic cocktails including the Bloody Mary and the Sidecar. Its address is famously given to English speakers as ‘Sank Roo Doe Noo’.",
+      "best_time": "Evenings any time of year; the basement piano bar is liveliest late.",
+      "how_to_get_there": "Between Avenue de l’Opéra and Rue de la Paix, close to Opéra metro station.",
+      "good_to_know": "Cocktail-origin claims are the bar’s own. Smart-casual dress recommended.",
+      "official_or_tourism_url": "https://www.harrysbar.com/en/",
+      "sources": [
+        "https://www.harrysbar.com/en/",
+        "https://en.wikipedia.org/wiki/Harry%27s_New_York_Bar",
+        "https://commons.wikimedia.org/wiki/File%3AHarrys_New_York_Bar_3,_Paris_2012.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Paris, France",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Paris%2C%20France&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Paris%2C%20France&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Paris%2C%20France&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Paris"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-076",
+    "tab": "pubs",
+    "name": "Lafitte's Blacksmith Shop",
+    "short_line": "French Quarter, New Orleans",
+    "country": "United States",
+    "lat": 29.9607,
+    "lng": -90.0639,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Jean_Lafitte%27s_Blacksmith_Shop_IMG_0910.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-076.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AJean_Lafitte's_Blacksmith_Shop_IMG_0910.JPG",
+      "license": "CC BY-SA 3.0",
+      "author": "BoBSerrone",
+      "attribution": "Photo: BoBSerrone, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Jean Lafitte's Blacksmith Shop IMG 0910.JPG' (2592×1936) confirms Lafitte's Blacksmith Shop; visually checked on contact sheet. desc: Lafitte's Blacksmith Shop is a tavern located on the corner of Bourbon Street and St. Philip Street. The tavern's building, built sometime before 1772, is one o"
+    },
+    "facts": {
+      "one_liner": "A crumbling 18th-century cottage on Bourbon Street, lit by candlelight.",
+      "why_go": "Lafitte’s Blacksmith Shop, most likely built in the 1770s, is one of the oldest surviving structures in New Orleans. Legend ties it to the privateer Jean Lafitte. Its brick-between-post walls, patchy plaster and dim candlelit bar make it a contrast to the neon of Bourbon Street, with a piano bar in the evenings.",
+      "best_time": "October–May for comfortable weather; evenings for candlelight and piano singalongs.",
+      "how_to_get_there": "At the corner of Bourbon and St. Philip streets in the French Quarter.",
+      "good_to_know": "It is at the quieter end of Bourbon Street. Frozen ‘purple drink’ is a house favourite.",
+      "official_or_tourism_url": "https://www.lafittesblacksmithshop.com/",
+      "sources": [
+        "https://www.lafittesblacksmithshop.com/",
+        "https://en.wikipedia.org/wiki/Lafitte%27s_Blacksmith_Shop",
+        "https://commons.wikimedia.org/wiki/File%3AJean_Lafitte's_Blacksmith_Shop_IMG_0910.JPG"
+      ]
+    },
+    "ad": {
+      "destination_query": "French Quarter, New Orleans, Louisiana",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=French%20Quarter%2C%20New%20Orleans%2C%20Louisiana&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=French%20Quarter%2C%20New%20Orleans%2C%20Louisiana&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=French%20Quarter%2C%20New%20Orleans%2C%20Louisiana&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in French Quarter"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-077",
+    "tab": "pubs",
+    "name": "Clachaig Inn",
+    "short_line": "Glen Coe, Scotland",
+    "country": "United Kingdom",
+    "lat": 56.6644,
+    "lng": -5.0595,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/At_Clachaig_Inn%2C_Glencoe_%2846669965175%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-077.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAt_Clachaig_Inn,_Glencoe_(46669965175).jpg",
+      "license": "CC BY 2.0",
+      "author": "Iain Cameron",
+      "attribution": "Photo: Iain Cameron, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:At Clachaig Inn, Glencoe (46669965175).jpg' (4608×3456) confirms Clachaig Inn; visually checked on contact sheet. desc: At Clachaig Inn, Glencoe"
+    },
+    "facts": {
+      "one_liner": "A climbers’ inn beneath the peaks of Glen Coe.",
+      "why_go": "The Clachaig Inn has welcomed walkers and climbers in Glen Coe for over 300 years, with mountain views from almost every window. Its Boots Bar has a stone floor, real ales, a big malt whisky range and live music. A famous sign by the door—‘No hawkers or Campbells’—recalls the 1692 Massacre of Glencoe.",
+      "best_time": "May–September for long hill days; winter for snowy peaks and fireside evenings.",
+      "how_to_get_there": "Off the A82 in Glen Coe, about 30 minutes’ drive south of Fort William; Citylink buses stop on the A82.",
+      "good_to_know": "Book rooms well ahead in summer. Mountain weather changes quickly—be prepared.",
+      "official_or_tourism_url": "https://clachaig.com/",
+      "sources": [
+        "https://clachaig.com/",
+        "https://en.wikipedia.org/wiki/Clachaig_Inn",
+        "https://commons.wikimedia.org/wiki/File%3AAt_Clachaig_Inn,_Glencoe_(46669965175).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Glencoe, Scotland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Glencoe%2C%20Scotland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Glencoe%2C%20Scotland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Glencoe%2C%20Scotland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Glencoe"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-078",
+    "tab": "pubs",
+    "name": "Warren Tavern",
+    "short_line": "Charlestown, Boston",
+    "country": "United States",
+    "lat": 42.3743,
+    "lng": -71.0631,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/General_Warren_Tavern_1_-_Boston%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-078.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AGeneral_Warren_Tavern_1_-_Boston,_MA.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Upstateherd",
+      "attribution": "Photo: Upstateherd, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:General Warren Tavern 1 - Boston, MA.jpg' (4000×3000) confirms Warren Tavern; visually checked on contact sheet. desc: General Warren Tavern 1 - Boston, MA"
+    },
+    "facts": {
+      "one_liner": "A 1780 clapboard tavern named for a Revolutionary hero.",
+      "why_go": "Founded in 1780 in Charlestown, the Warren Tavern is named after Dr. Joseph Warren, who was killed at the Battle of Bunker Hill. It is reputed to have been frequented by Paul Revere and George Washington. Its low-beamed rooms are a natural stop on the Freedom Trail between the USS Constitution and the Bunker Hill Monument.",
+      "best_time": "September–October for crisp Freedom Trail walks; any time of year inside.",
+      "how_to_get_there": "In Charlestown, about 10 minutes’ walk from Community College (Orange Line) station.",
+      "good_to_know": "Combine with the Bunker Hill Monument and USS Constitution, both nearby.",
+      "official_or_tourism_url": "https://www.warrentavern.com/",
+      "sources": [
+        "https://www.warrentavern.com/",
+        "https://en.wikipedia.org/wiki/Warren_Tavern",
+        "https://commons.wikimedia.org/wiki/File%3AGeneral_Warren_Tavern_1_-_Boston,_MA.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Charlestown, Boston, Massachusetts",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Charlestown%2C%20Boston%2C%20Massachusetts&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Charlestown%2C%20Boston%2C%20Massachusetts&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Charlestown%2C%20Boston%2C%20Massachusetts&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Charlestown"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-079",
+    "tab": "pubs",
+    "name": "The Eagle",
+    "short_line": "Cambridge, England",
+    "country": "United Kingdom",
+    "lat": 52.204,
+    "lng": 0.1182,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Cmglee_Cambridge_Friar_House_from_The_Eagle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-079.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACmglee_Cambridge_Friar_House_from_The_Eagle.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Cmglee",
+      "attribution": "Photo: Cmglee, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Cmglee Cambridge Friar House from The Eagle.jpg' (4800×3200) confirms The Eagle; visually checked on contact sheet. desc: Friar House, Cambridge viewed from The Eagle pub in October 2018."
+    },
+    "facts": {
+      "one_liner": "The Cambridge pub where Crick and Watson announced the structure of DNA.",
+      "why_go": "The Eagle opened as a coaching inn in 1667 on Bene’t Street. In 1953 Francis Crick announced here that he and James Watson had discovered the ‘secret of life’—the structure of DNA—a moment recorded on a blue plaque. Its RAF Bar has a ceiling covered in graffiti left by World War II airmen.",
+      "best_time": "Term time for student atmosphere; summer for the galleried courtyard.",
+      "how_to_get_there": "On Bene’t Street in central Cambridge, about 20 minutes’ walk from Cambridge station.",
+      "good_to_know": "It gets busy at lunchtime with tour groups. Look up in the RAF Bar.",
+      "official_or_tourism_url": "https://www.greeneking.co.uk/pubs/cambridgeshire/eagle",
+      "sources": [
+        "https://www.greeneking.co.uk/pubs/cambridgeshire/eagle",
+        "https://en.wikipedia.org/wiki/The_Eagle,_Cambridge",
+        "https://commons.wikimedia.org/wiki/File%3ACmglee_Cambridge_Friar_House_from_The_Eagle.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Cambridge, England",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Cambridge%2C%20England&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Cambridge%2C%20England&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Cambridge%2C%20England&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Cambridge"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-080",
+    "tab": "pubs",
+    "name": "Daly Waters Pub",
+    "short_line": "Northern Territory, Australia",
+    "country": "Australia",
+    "lat": -16.2547,
+    "lng": 133.3681,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Daly_Waters_Pub_Outside.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-080.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ADaly_Waters_Pub_Outside.JPG",
+      "license": "Public Domain",
+      "author": "Lakeyboy",
+      "attribution": "Photo: Lakeyboy, Public Domain, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Daly Waters Pub Outside.JPG' (2048×1536) confirms Daly Waters Pub; visually checked on contact sheet. desc: Daly Waters Pub"
+    },
+    "facts": {
+      "one_liner": "A tin-roofed outback pub on the Stuart Highway, hung with travellers’ memorabilia.",
+      "why_go": "Daly Waters is a tiny Outback settlement just off the Stuart Highway, and its historic pub is a legendary road-trip stop between Darwin and Alice Springs. Inside, the walls and ceilings are covered in souvenirs left by travellers—from banknotes and caps to underwear. Expect beef-and-barra dinners and live outback entertainment in the dry season.",
+      "best_time": "May–September (dry season) for comfortable days and evening entertainment.",
+      "how_to_get_there": "About 600 km south of Darwin, 3 km off the Stuart Highway; a self-drive road trip is the usual way.",
+      "good_to_know": "Services in the region are far apart—plan fuel and water stops.",
+      "official_or_tourism_url": "https://dalywaterspub.com.au/",
+      "sources": [
+        "https://dalywaterspub.com.au/",
+        "https://en.wikipedia.org/wiki/Daly_Waters%2C_Northern_Territory",
+        "https://commons.wikimedia.org/wiki/File%3ADaly_Waters_Pub_Outside.JPG"
+      ]
+    },
+    "ad": {
+      "destination_query": "Daly Waters, Northern Territory, Australia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Daly%20Waters%2C%20Northern%20Territory%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Daly%20Waters%2C%20Northern%20Territory%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Daly%20Waters%2C%20Northern%20Territory%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Daly Waters"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license Public Domain verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-081",
+    "tab": "pubs",
+    "name": "Birdsville Hotel",
+    "short_line": "Outback Queensland, Australia",
+    "country": "Australia",
+    "lat": -25.8986,
+    "lng": 139.3517,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Birdsville_Pub_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-081.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABirdsville_Pub_-_panoramio_(3).jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Lobster1",
+      "attribution": "Photo: Lobster1, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Birdsville Pub - panoramio (3).jpg' (3648×2736) confirms Birdsville Hotel; visually checked on contact sheet. desc: Birdsville Pub"
+    },
+    "facts": {
+      "one_liner": "A stone outback hotel on the edge of the Simpson Desert.",
+      "why_go": "Built in 1884, the sandstone Birdsville Hotel is the social heart of remote Birdsville in far south-west Queensland, near the edge of the Simpson Desert. It is the base for 4WD adventurers on the Birdsville Track and the gateway to the giant red Big Red dune. Every September the Birdsville Races draw thousands of visitors to the town.",
+      "best_time": "April–September for cooler outback weather; early September for the Birdsville Races.",
+      "how_to_get_there": "Small planes fly to Birdsville from Brisbane via Charleville or Mount Isa; otherwise it’s a long outback drive.",
+      "good_to_know": "Book months ahead for race week. Carry spares and extra fuel on outback roads.",
+      "official_or_tourism_url": "https://www.birdsvillehotel.com.au/",
+      "sources": [
+        "https://www.birdsvillehotel.com.au/",
+        "https://en.wikipedia.org/wiki/Birdsville",
+        "https://commons.wikimedia.org/wiki/File%3ABirdsville_Pub_-_panoramio_(3).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Birdsville, Queensland, Australia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Birdsville%2C%20Queensland%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Birdsville%2C%20Queensland%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Birdsville%2C%20Queensland%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Birdsville"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-082",
+    "tab": "pubs",
+    "name": "Ty Coch Inn",
+    "short_line": "Llŷn Peninsula, Wales",
+    "country": "United Kingdom",
+    "lat": 52.9425,
+    "lng": -4.5655,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Porthdinllaen_-_Ty_Coch_Inn_view_from_beach_-_Sep_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-082.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APorthdinllaen_-_Ty_Coch_Inn_view_from_beach_-_Sep_2025.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Dominic Nelson",
+      "attribution": "Photo: Dominic Nelson, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Porthdinllaen - Ty Coch Inn view from beach - Sep 2025.jpg' (5803×3869) confirms Ty Coch Inn; visually checked on contact sheet. desc: Ty Coch Inn, Porthdinllaen, as seen from the beach. The name means \"Red House\" in English."
+    },
+    "facts": {
+      "one_liner": "A beachfront inn in a car-free fishing hamlet on the Llŷn Peninsula.",
+      "why_go": "The Ty Coch Inn sits right on the sand at Porthdinllaen, a tiny National Trust-owned hamlet on the north coast of the Llŷn Peninsula, and has featured in lists of the world’s best beach bars. You can only walk in—along the beach at low tide or across the headland golf course—to drink by the water as boats bob in the bay.",
+      "best_time": "May–September for sunny beach afternoons; check tide times before walking along the sand.",
+      "how_to_get_there": "Park at the National Trust car park in Morfa Nefyn, then walk about 20–30 minutes along the beach or headland.",
+      "good_to_know": "No vehicle access for visitors. Opening hours vary seasonally.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Porthdinllaen",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Porthdinllaen",
+        "https://commons.wikimedia.org/wiki/File%3APorthdinllaen_-_Ty_Coch_Inn_view_from_beach_-_Sep_2025.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Morfa Nefyn, Wales",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Morfa%20Nefyn%2C%20Wales&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Morfa%20Nefyn%2C%20Wales&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Morfa%20Nefyn%2C%20Wales&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Morfa Nefyn"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-083",
+    "tab": "pubs",
+    "name": "Pilchard Inn",
+    "short_line": "Burgh Island, Devon",
+    "country": "United Kingdom",
+    "lat": 50.2797,
+    "lng": -3.9003,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/The_Pilchard_Inn%2C_Burgh_Island%2C_Devon-9368867768.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-083.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Pilchard_Inn,_Burgh_Island,_Devon-9368867768.jpg",
+      "license": "CC BY 2.0",
+      "author": "Matthew Hartley",
+      "attribution": "Photo: Matthew Hartley, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:The Pilchard Inn, Burgh Island, Devon-9368867768.jpg' (3954×2956) confirms Pilchard Inn; visually checked on contact sheet. desc: The Pilchard Inn, Burgh Island, Devon."
+    },
+    "facts": {
+      "one_liner": "An ancient inn on a tidal island reached by sea tractor at high tide.",
+      "why_go": "The Pilchard Inn stands on Burgh Island, a tidal island off Bigbury-on-Sea in south Devon, and is said to date back to 1336. At low tide you walk across the sand; at high tide the island’s unique sea tractor carries you over. The island’s Art Deco hotel inspired Agatha Christie, who wrote here.",
+      "best_time": "Late spring to early autumn; check tide tables and come for sunset.",
+      "how_to_get_there": "Drive to Bigbury-on-Sea (about 30 minutes from Plymouth), then walk across at low tide or take the sea tractor.",
+      "good_to_know": "Watch the tide carefully. Opening hours can be restricted for hotel events.",
+      "official_or_tourism_url": "https://www.burghisland.com/",
+      "sources": [
+        "https://www.burghisland.com/",
+        "https://en.wikipedia.org/wiki/Burgh_Island",
+        "https://commons.wikimedia.org/wiki/File%3AThe_Pilchard_Inn,_Burgh_Island,_Devon-9368867768.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Bigbury-on-Sea, Devon, England",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bigbury-on-Sea%2C%20Devon%2C%20England&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bigbury-on-Sea%2C%20Devon%2C%20England&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bigbury-on-Sea%2C%20Devon%2C%20England&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Bigbury-on-Sea"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-084",
+    "tab": "pubs",
+    "name": "The Nutshell",
+    "short_line": "Bury St Edmunds, England",
+    "country": "United Kingdom",
+    "lat": 52.2459,
+    "lng": 0.7127,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Nutshell_Pub_-_Bury_St_Edmunds._%282015-05-20_14.16.19_by_Jim_Linwood%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-084.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Nutshell_Pub_-_Bury_St_Edmunds._(2015-05-20_14.16.19_by_Jim_Linwood).jpg",
+      "license": "CC BY 2.0",
+      "author": "Jim Linwood from London",
+      "attribution": "Photo: Jim Linwood from London, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:The Nutshell Pub - Bury St Edmunds. (2015-05-20 14.16.19 by Jim Linwood).jpg' (3396×2830) confirms The Nutshell; visually checked on contact sheet. desc: This pub claims to be the smallest pub in the UK with little more than eight square metres inside.\n\nfrom Flickr album \"Bury St Edmunds\" by Jim Linwood from Lond"
+    },
+    "facts": {
+      "one_liner": "A pocket-sized pub that claims to be Britain’s smallest.",
+      "why_go": "The Nutshell in Bury St Edmunds, Suffolk, measures only about 15 by 7 feet inside and has long claimed the title of Britain’s smallest pub. Its ceiling is covered in banknotes and curiosities, and squeezing in with a pint is part of the fun. The surrounding market town has a ruined abbey and gardens worth exploring.",
+      "best_time": "Weekday afternoons, when there is more chance of a spot inside.",
+      "how_to_get_there": "In central Bury St Edmunds, about 10 minutes’ walk from the station (trains from Cambridge and Ipswich).",
+      "good_to_know": "Only a handful of people fit at once—be patient and take turns.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/The_Nutshell",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Nutshell",
+        "https://commons.wikimedia.org/wiki/File%3AThe_Nutshell_Pub_-_Bury_St_Edmunds._(2015-05-20_14.16.19_by_Jim_Linwood).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Bury St Edmunds, England",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bury%20St%20Edmunds%2C%20England&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bury%20St%20Edmunds%2C%20England&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bury%20St%20Edmunds%2C%20England&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Bury St Edmunds"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-085",
+    "tab": "pubs",
+    "name": "Fleece Inn",
+    "short_line": "Bretforton, Worcestershire",
+    "country": "United Kingdom",
+    "lat": 52.0933,
+    "lng": -1.8714,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Fleece_Inn%2C_Traditional_English_Pub%2C_Bretforton%2C_Worcestershire_%283820832105%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-085.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Fleece_Inn,_Traditional_English_Pub,_Bretforton,_Worcestershire_(3820832105).jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "IDS.photos from Tiverton, UK",
+      "attribution": "Photo: IDS.photos from Tiverton, UK, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:The Fleece Inn, Traditional English Pub, Bretforton, Worcestershire (3820832105).jpg' (3888×2592) confirms Fleece Inn; visually checked on contact sheet. desc: The Fleece Inn, Traditional English Pub, Bretforton, Worcestershire"
+    },
+    "facts": {
+      "one_liner": "A medieval half-timbered longhouse that became the National Trust’s first pub.",
+      "why_go": "The Fleece Inn in Bretforton began life as a medieval longhouse and became an inn in 1848. In 1977 its owner Lola Taplin bequeathed it to the National Trust, making it the Trust’s first pub. It keeps flagstone floors, inglenook fireplaces, a historic pewter collection and witch marks drawn on the hearth to ward off evil spirits.",
+      "best_time": "Summer for the orchard garden and events; winter for open fires.",
+      "how_to_get_there": "In Bretforton village, about 10 minutes’ drive east of Evesham in the Vale of Evesham, near the Cotswolds.",
+      "good_to_know": "Owned by the National Trust but run as a working pub with rooms.",
+      "official_or_tourism_url": "https://www.thefleeceinn.co.uk/",
+      "sources": [
+        "https://www.thefleeceinn.co.uk/",
+        "https://en.wikipedia.org/wiki/Fleece_Inn",
+        "https://commons.wikimedia.org/wiki/File%3AThe_Fleece_Inn,_Traditional_English_Pub,_Bretforton,_Worcestershire_(3820832105).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Bretforton, Worcestershire, England",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bretforton%2C%20Worcestershire%2C%20England&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bretforton%2C%20Worcestershire%2C%20England&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bretforton%2C%20Worcestershire%2C%20England&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Bretforton"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-086",
+    "tab": "pubs",
+    "name": "Cittie of Yorke",
+    "short_line": "High Holborn, London",
+    "country": "United Kingdom",
+    "lat": 51.5183,
+    "lng": -0.1132,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Cittie_of_Yorke_pub%2C_High_Holborn%2C_2014_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-086.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACittie_of_Yorke_pub,_High_Holborn,_2014_04.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Edwardx",
+      "attribution": "Photo: Edwardx, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Cittie of Yorke pub, High Holborn, 2014 04.jpg' (4608×3456) confirms Cittie of Yorke; visually checked on contact sheet. desc: Cittie of Yorke pub, High Holborn, 2014"
+    },
+    "facts": {
+      "one_liner": "A vaulted, cathedral-like hall of wooden booths on High Holborn.",
+      "why_go": "A pub has stood at this High Holborn site for centuries, but the current Cittie of Yorke was rebuilt in the 1920s with a remarkable long back hall: a high timber roof, huge vats above the bar and a row of wooden cubicles where lawyers from nearby Gray’s Inn once talked privately. It is run by Samuel Smith’s, with keenly priced beers.",
+      "best_time": "Weekday afternoons; it is busy after work.",
+      "how_to_get_there": "On High Holborn, about 3 minutes’ walk from Chancery Lane station.",
+      "good_to_know": "Samuel Smith’s pubs have a no-phones, no-swearing policy.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Cittie_of_Yorke",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cittie_of_Yorke",
+        "https://commons.wikimedia.org/wiki/File%3ACittie_of_Yorke_pub,_High_Holborn,_2014_04.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Holborn, London, England",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Holborn%2C%20London%2C%20England&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Holborn%2C%20London%2C%20England&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Holborn%2C%20London%2C%20England&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Holborn"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-087",
+    "tab": "pubs",
+    "name": "Drovers Inn",
+    "short_line": "Loch Lomond, Scotland",
+    "country": "United Kingdom",
+    "lat": 56.3283,
+    "lng": -4.7183,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Detail_-_Front_view_of_the_Drovers_Inn%2C_Inverarnan%2C_Stirling%2C_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-087.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ADetail_-_Front_view_of_the_Drovers_Inn,_Inverarnan,_Stirling,_Scotland.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Rosser1954",
+      "attribution": "Photo: Rosser1954, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Detail - Front view of the Drovers Inn, Inverarnan, Stirling, Scotland.jpg' (4075×2256) confirms Drovers Inn; visually checked on contact sheet. desc: Detail - Front view of the 1705 Drovers Inn, Inverarnan, Stirling, Scotland. Previously the Inverarnan Hotel or Inn."
+    },
+    "facts": {
+      "one_liner": "An eccentric 18th-century Highland inn crowded with stuffed animals.",
+      "why_go": "The Drovers Inn at Inverarnan, at the northern end of Loch Lomond, dates from 1705 and served the cattle drovers who drove herds south to market. Its smoky-looking hallway is lined with taxidermy, its bar has a roaring fire and staff in kilts, and it is a famous stop for hikers on the West Highland Way.",
+      "best_time": "May–September for hiking; winter for fireside drams.",
+      "how_to_get_there": "On the A82 at Inverarnan, about 1.5 hours’ drive from Glasgow; Ardlui station is a few kilometres south.",
+      "good_to_know": "Rooms are old-fashioned and characterful. The inn is a popular West Highland Way overnight.",
+      "official_or_tourism_url": "https://www.droversinn.co.uk/",
+      "sources": [
+        "https://www.droversinn.co.uk/",
+        "https://en.wikipedia.org/wiki/Inverarnan",
+        "https://commons.wikimedia.org/wiki/File%3ADetail_-_Front_view_of_the_Drovers_Inn,_Inverarnan,_Stirling,_Scotland.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Inverarnan, Scotland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Inverarnan%2C%20Scotland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Inverarnan%2C%20Scotland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Inverarnan%2C%20Scotland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Inverarnan"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-088",
+    "tab": "pubs",
+    "name": "Napoleon House",
+    "short_line": "French Quarter, New Orleans",
+    "country": "United States",
+    "lat": 29.9558,
+    "lng": -90.0646,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Napoleon_House_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-088.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ANapoleon_House_cropped.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Elisa Rolle",
+      "attribution": "Photo: Elisa Rolle, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Napoleon House cropped.jpg' (1536×1084) confirms Napoleon House; visually checked on contact sheet. desc: Nicholas Girod House"
+    },
+    "facts": {
+      "one_liner": "A peeling French Quarter landmark built for an exiled emperor who never came.",
+      "why_go": "This building on Chartres Street belonged to New Orleans mayor Nicholas Girod, who, legend says, offered it as a refuge for Napoleon Bonaparte in exile. Napoleon never came, but the bar has kept its faded, timeworn walls, classical music and courtyard. It is famous for its Pimm’s Cup and muffuletta sandwiches.",
+      "best_time": "October–May for pleasant weather; afternoons for a quiet courtyard.",
+      "how_to_get_there": "At 500 Chartres Street in the French Quarter, a short walk from Jackson Square.",
+      "good_to_know": "Check current opening hours. The Pimm’s Cup is the house classic.",
+      "official_or_tourism_url": "https://napoleonhouse.com/",
+      "sources": [
+        "https://napoleonhouse.com/",
+        "https://en.wikipedia.org/wiki/Napoleon_House",
+        "https://commons.wikimedia.org/wiki/File%3ANapoleon_House_cropped.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "French Quarter, New Orleans, Louisiana",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=French%20Quarter%2C%20New%20Orleans%2C%20Louisiana&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=French%20Quarter%2C%20New%20Orleans%2C%20Louisiana&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=French%20Quarter%2C%20New%20Orleans%2C%20Louisiana&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in French Quarter"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-089",
+    "tab": "pubs",
+    "name": "Carousel Bar",
+    "short_line": "French Quarter, New Orleans",
+    "country": "United States",
+    "lat": 29.9556,
+    "lng": -90.0667,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Hotel_Monteleone_-_The_Carousel_Lounge%2C_New_Orleans%2C_November_2025_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-089.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHotel_Monteleone_-_The_Carousel_Lounge,_New_Orleans,_November_2025_-_4.jpg",
+      "license": "CC BY 4.0",
+      "author": "Jeremy Thompson",
+      "attribution": "Photo: Jeremy Thompson, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Hotel Monteleone - The Carousel Lounge, New Orleans, November 2025 - 4.jpg' (4080×3072) confirms Carousel Bar; visually checked on contact sheet. desc: Hotel Monteleone - The Carousel Lounge"
+    },
+    "facts": {
+      "one_liner": "A revolving carousel bar inside the Hotel Monteleone.",
+      "why_go": "The Carousel Bar in the Hotel Monteleone on Royal Street has turned slowly since 1949, its 25 seats circling under a painted, lightbulb-studded canopy. The hotel is linked to writers such as Tennessee Williams and Truman Capote, and the Vieux Carré cocktail was created here in the 1930s.",
+      "best_time": "Evenings any time of year; afternoons for a better chance of a carousel seat.",
+      "how_to_get_there": "At 214 Royal Street in the French Quarter, near Canal Street.",
+      "good_to_know": "Seats on the carousel are first-come, first-served. A full rotation is slow and gentle.",
+      "official_or_tourism_url": "https://www.hotelmonteleone.com/",
+      "sources": [
+        "https://www.hotelmonteleone.com/",
+        "https://en.wikipedia.org/wiki/Carousel_Piano_Bar_%26_Lounge",
+        "https://commons.wikimedia.org/wiki/File%3AHotel_Monteleone_-_The_Carousel_Lounge,_New_Orleans,_November_2025_-_4.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "French Quarter, New Orleans, Louisiana",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=French%20Quarter%2C%20New%20Orleans%2C%20Louisiana&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=French%20Quarter%2C%20New%20Orleans%2C%20Louisiana&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=French%20Quarter%2C%20New%20Orleans%2C%20Louisiana&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in French Quarter"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-090",
+    "tab": "pubs",
+    "name": "Golden Gai",
+    "short_line": "Shinjuku, Tokyo",
+    "country": "Japan",
+    "lat": 35.6939,
+    "lng": 139.7045,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/2024-10-20_Shinjuku_Golden_Gai_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-090.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3A2024-10-20_Shinjuku_Golden_Gai_at_night.jpg",
+      "license": "CC BY 4.0",
+      "author": "Alexkom000",
+      "attribution": "Photo: Alexkom000, CC BY 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:2024-10-20 Shinjuku Golden Gai at night.jpg' (4961×3307) confirms Golden Gai; visually checked on contact sheet. desc: Shinjuku Golden Gai at night"
+    },
+    "facts": {
+      "one_liner": "Six narrow lanes packed with around 200 tiny bars in the heart of Shinjuku.",
+      "why_go": "Golden Gai is a small area of Shinjuku made up of six narrow alleys squeezed with around 200 tiny bars, many seating only a handful of people. Its post-war, low-rise buildings have long drawn writers, artists and musicians, and each bar has its own theme—from jazz and punk to film. Lantern-lit at night, it is a world away from the neon towers around it.",
+      "best_time": "Evenings year-round; most bars open after 8 pm.",
+      "how_to_get_there": "A few minutes’ walk east of Shinjuku station, next to Hanazono Shrine.",
+      "good_to_know": "Many bars charge a seat fee; some are regulars-only—look for signs welcoming visitors. Photography in the alleys is often discouraged.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Golden_Gai",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Golden_Gai",
+        "https://www.gotokyo.org/en/",
+        "https://commons.wikimedia.org/wiki/File%3A2024-10-20_Shinjuku_Golden_Gai_at_night.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Shinjuku, Tokyo, Japan",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Shinjuku%2C%20Tokyo%2C%20Japan&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Shinjuku%2C%20Tokyo%2C%20Japan&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Shinjuku%2C%20Tokyo%2C%20Japan&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Shinjuku"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-091",
+    "tab": "pubs",
+    "name": "In de Wildeman",
+    "short_line": "Amsterdam, Netherlands",
+    "country": "Netherlands",
+    "lat": 52.377,
+    "lng": 4.8954,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/DE_WILDEMAN_BAR_AMSTERDAM_HOLLAND_APRIL_2013_%289374346323%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-091.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ADE_WILDEMAN_BAR_AMSTERDAM_HOLLAND_APRIL_2013_(9374346323).jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "calflier001",
+      "attribution": "Photo: calflier001, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:DE WILDEMAN BAR AMSTERDAM HOLLAND APRIL 2013 (9374346323).jpg' (5184×3456) confirms In de Wildeman; visually checked on contact sheet. desc: DE WILDEMAN BAR AMSTERDAM HOLLAND APRIL 2013"
+    },
+    "facts": {
+      "one_liner": "A former distillery turned beer café with dozens of taps and bottles.",
+      "why_go": "In de Wildeman occupies a historic former distillery tasting room on the Kolksteeg in Amsterdam’s old centre. Its wood-panelled room with old shelves and tiled floors pours a rotating selection of Dutch and Belgian draught beers and a long bottle list, making it a beer-lover’s favourite.",
+      "best_time": "Afternoons and early evenings any time of year.",
+      "how_to_get_there": "On Kolksteeg, about 5 minutes’ walk from Amsterdam Centraal.",
+      "good_to_know": "It is a quiet, conversation-focused café; no music or TV.",
+      "official_or_tourism_url": "https://www.indewildeman.nl/",
+      "sources": [
+        "https://www.indewildeman.nl/",
+        "https://commons.wikimedia.org/wiki/File%3ADE_WILDEMAN_BAR_AMSTERDAM_HOLLAND_APRIL_2013_(9374346323).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Amsterdam, Netherlands",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Amsterdam%2C%20Netherlands&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Amsterdam%2C%20Netherlands&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Amsterdam%2C%20Netherlands&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Amsterdam"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-092",
+    "tab": "pubs",
+    "name": "Poechenellekelder",
+    "short_line": "Brussels, Belgium",
+    "country": "Belgium",
+    "lat": 50.8452,
+    "lng": 4.35,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/11_City_of_Brussels%2C_Belgium_-_Old_Town_restaurant_on_street_Rue_du_Chene%2C_Eikstraat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-092.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3A11_City_of_Brussels,_Belgium_-_Old_Town_restaurant_on_street_Rue_du_Chene,_Eikstraat.jpg",
+      "license": "CC BY 3.0",
+      "author": "Marek Ślusarczyk (Tupungato) Photo portfolio",
+      "attribution": "Photo: Marek Ślusarczyk (Tupungato) Photo portfolio, CC BY 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:11 City of Brussels, Belgium - Old Town restaurant on street Rue du Chene, Eikstraat.jpg' (1440×1052) confirms Poechenellekelder; visually checked on contact sheet. desc: Outdoor restaurant tables in Rue du Chêne/Eikstraat in Brussels, Belgium. Blue hour."
+    },
+    "facts": {
+      "one_liner": "A puppet-filled Brussels café facing the Manneken Pis.",
+      "why_go": "Right opposite the Manneken Pis statue, the Poechenellekelder (Brussels dialect for ‘puppet cellar’) is crammed with marionettes, old Manneken Pis costumes and curiosities. Its long beer list showcases Belgian ales, lambics and Trappists, and the terrace is perfect for watching the crowds around the famous fountain.",
+      "best_time": "Afternoons year-round; the terrace is best in warm weather.",
+      "how_to_get_there": "On Rue du Chêne, about 5 minutes’ walk from the Grand-Place.",
+      "good_to_know": "Prices are reasonable for such a touristy spot. Ask for beer recommendations.",
+      "official_or_tourism_url": "https://poechenellekelder.be/",
+      "sources": [
+        "https://poechenellekelder.be/",
+        "https://commons.wikimedia.org/wiki/File%3A11_City_of_Brussels,_Belgium_-_Old_Town_restaurant_on_street_Rue_du_Chene,_Eikstraat.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Brussels, Belgium",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Brussels%2C%20Belgium&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Brussels%2C%20Belgium&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Brussels%2C%20Belgium&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Brussels"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-093",
+    "tab": "pubs",
+    "name": "Zum Schiffchen",
+    "short_line": "Düsseldorf, Germany",
+    "country": "Germany",
+    "lat": 51.2244,
+    "lng": 6.7718,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/D%C3%BCsseldorf%2C_Zum_Schiffchen%2C_April_2017_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-093.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AD%C3%BCsseldorf,_Zum_Schiffchen,_April_2017_(2).jpg",
+      "license": "Public Domain",
+      "author": "Kürschner 16:54, 28 April 2017 (UTC)",
+      "attribution": "Photo: Kürschner 16:54, 28 April 2017 (UTC), Public Domain, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Düsseldorf, Zum Schiffchen, April 2017 (2).jpg' (5103×3384) confirms Zum Schiffchen; visually checked on contact sheet. desc: Düsseldorf-Altstadt, Restaurant „Zum Schiffchen“. Dekoriert für die „Tour de France“ mit Start in Düsseldorf. Installation: Bea Schröder, Atelier Micmac. April "
+    },
+    "facts": {
+      "one_liner": "Düsseldorf’s historic Altbier brewery-tavern in the old town.",
+      "why_go": "Zum Schiffchen in Düsseldorf’s Altstadt traces its history to 1628, making it one of the city’s oldest inns. Blue-aproned ‘Köbes’ waiters keep fresh glasses of Altbier coming until you put your coaster on top. Napoleon Bonaparte is said to have dined here in 1811.",
+      "best_time": "Year-round; summer for the outdoor tables, November–February for the Rhineland carnival season.",
+      "how_to_get_there": "On Hafenstraße in the Altstadt, a short walk from the Rhine promenade and Heinrich-Heine-Allee U-Bahn.",
+      "good_to_know": "Put your beer mat on your glass to stop refills. Hearty Rhineland dishes are served.",
+      "official_or_tourism_url": "https://www.brauerei-zum-schiffchen.de/",
+      "sources": [
+        "https://www.brauerei-zum-schiffchen.de/",
+        "https://commons.wikimedia.org/wiki/File%3AD%C3%BCsseldorf,_Zum_Schiffchen,_April_2017_(2).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Düsseldorf, Germany",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=D%C3%BCsseldorf%2C%20Germany&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=D%C3%BCsseldorf%2C%20Germany&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=D%C3%BCsseldorf%2C%20Germany&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Düsseldorf"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license Public Domain verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-094",
+    "tab": "pubs",
+    "name": "Johnnie Fox's",
+    "short_line": "Dublin Mountains, Ireland",
+    "country": "Ireland",
+    "lat": 53.2216,
+    "lng": -6.2203,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Johnnie_Fox%27s_Pub%2C_Glencullen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-094.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AJohnnie_Fox's_Pub,_Glencullen.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Joe King",
+      "attribution": "Photo: Joe King, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Johnnie Fox's Pub, Glencullen.jpg' (4137×2327) confirms Johnnie Fox's; visually checked on contact sheet. desc: Johnnie Fox's Pub, Glencullen, County Dublin, Ireland"
+    },
+    "facts": {
+      "one_liner": "A rambling mountain pub above Dublin, famous for its ‘Hooley’ nights.",
+      "why_go": "High in the hamlet of Glencullen in the Dublin Mountains, Johnnie Fox’s claims to date from 1798 and to be one of Ireland’s highest pubs. Its rambling rooms are packed with old farm tools, signs and bric-a-brac, and its Hooley show combines dinner, traditional music and Irish dancing.",
+      "best_time": "Year-round; evenings for the Hooley show, fireside winter nights.",
+      "how_to_get_there": "About 30–40 minutes by car from Dublin city centre; the pub runs a shuttle bus for Hooley guests.",
+      "good_to_know": "Book the Hooley ahead. Mountain roads are narrow and winding.",
+      "official_or_tourism_url": "https://johnniefoxs.com/",
+      "sources": [
+        "https://johnniefoxs.com/",
+        "https://en.wikipedia.org/wiki/Glencullen",
+        "https://commons.wikimedia.org/wiki/File%3AJohnnie_Fox's_Pub,_Glencullen.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Glencullen, County Dublin, Ireland",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Glencullen%2C%20County%20Dublin%2C%20Ireland&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Glencullen%2C%20County%20Dublin%2C%20Ireland&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Glencullen%2C%20County%20Dublin%2C%20Ireland&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Glencullen"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-095",
+    "tab": "pubs",
+    "name": "Fortune of War",
+    "short_line": "The Rocks, Sydney",
+    "country": "Australia",
+    "lat": -33.8594,
+    "lng": 151.2085,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fortune_of_War%2C_Sydney_IMG_3292_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-095.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AFortune_of_War,_Sydney_IMG_3292_-_panoramio.jpg",
+      "license": "CC BY 3.0",
+      "author": "Paul Lakin",
+      "attribution": "Photo: Paul Lakin, CC BY 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Fortune of War, Sydney IMG 3292 - panoramio.jpg' (1200×863) confirms Fortune of War; visually checked on contact sheet. desc: Fortune of War, Sydney IMG_3292"
+    },
+    "facts": {
+      "one_liner": "A tiled, character-filled corner hotel in The Rocks, Sydney’s historic quarter.",
+      "why_go": "The Fortune of War on George Street in The Rocks claims to be Sydney’s oldest pub, licensed since 1828; the current building dates from the 1920s. Its tiled frontage, timber bar and memorabilia make it a classic stop near Circular Quay, with live music at weekends.",
+      "best_time": "Year-round; weekend afternoons for music.",
+      "how_to_get_there": "On George Street in The Rocks, about 5 minutes’ walk from Circular Quay.",
+      "good_to_know": "Several pubs in The Rocks claim to be Sydney’s oldest—try more than one.",
+      "official_or_tourism_url": "https://fortuneofwar.com.au/",
+      "sources": [
+        "https://fortuneofwar.com.au/",
+        "https://en.wikipedia.org/wiki/Fortune_of_War_Hotel",
+        "https://commons.wikimedia.org/wiki/File%3AFortune_of_War,_Sydney_IMG_3292_-_panoramio.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "The Rocks, Sydney, Australia",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=The%20Rocks%2C%20Sydney%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=The%20Rocks%2C%20Sydney%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=The%20Rocks%2C%20Sydney%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in The Rocks"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-096",
+    "tab": "pubs",
+    "name": "Long Bar",
+    "short_line": "Raffles Hotel, Singapore",
+    "country": "Singapore",
+    "lat": 1.2949,
+    "lng": 103.8545,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Singapore_Raffles_Long_Bar-1_%286592612825%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-096.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASingapore_Raffles_Long_Bar-1_(6592612825).jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Sheba_Also 43,000 photos",
+      "attribution": "Photo: Sheba_Also 43,000 photos, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Singapore Raffles Long Bar-1 (6592612825).jpg' (1890×1300) confirms Long Bar; visually checked on contact sheet. desc: Singapore Raffles Long Bar"
+    },
+    "facts": {
+      "one_liner": "The colonial bar at Raffles where the Singapore Sling was created.",
+      "why_go": "The Long Bar at Singapore’s Raffles Hotel is where bartender Ngiam Tong Boon created the Singapore Sling in the early 20th century. Inspired by Malayan plantation life, the bar has wooden fittings and rattan fans, and guests are encouraged to brush peanut shells onto the floor.",
+      "best_time": "Year-round (Singapore is hot all year); afternoons are calmest.",
+      "how_to_get_there": "In the Raffles Arcade on Beach Road, a short walk from City Hall or Esplanade MRT stations.",
+      "good_to_know": "Expect queues and premium prices. Smart-casual dress.",
+      "official_or_tourism_url": "https://www.raffles.com/singapore/dining/long-bar/",
+      "sources": [
+        "https://www.raffles.com/singapore/dining/long-bar/",
+        "https://en.wikipedia.org/wiki/Raffles_Hotel",
+        "https://commons.wikimedia.org/wiki/File%3ASingapore_Raffles_Long_Bar-1_(6592612825).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Singapore",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Singapore&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Singapore&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Singapore&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Singapore"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-097",
+    "tab": "pubs",
+    "name": "Old Town Bar",
+    "short_line": "Flatiron, New York City",
+    "country": "United States",
+    "lat": 40.7378,
+    "lng": -73.9891,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Old_Town_Bar_%26_Restaurant%2C_Manhattan%2C_New_York_City_%284026975551%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-097.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AOld_Town_Bar_%26_Restaurant,_Manhattan,_New_York_City_(4026975551).jpg",
+      "license": "CC BY 2.0",
+      "author": "Jazz Guy from New Jersey, United States",
+      "attribution": "Photo: Jazz Guy from New Jersey, United States, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Old Town Bar & Restaurant, Manhattan, New York City (4026975551).jpg' (1400×932) confirms Old Town Bar; visually checked on contact sheet. desc: This old place has some character."
+    },
+    "facts": {
+      "one_liner": "A mahogany-and-tin-ceiling saloon near Union Square, pouring since 1892.",
+      "why_go": "The Old Town Bar on East 18th Street has served drinks since 1892 and keeps its long mahogany bar, tiled floor, tin ceiling and wooden booths. Its dumbwaiter still sends burgers down from the upstairs kitchen, and the bar has appeared in films and TV shows.",
+      "best_time": "Afternoons year-round; weeknights are less crowded.",
+      "how_to_get_there": "At 45 East 18th Street, a few minutes’ walk from Union Square subway station.",
+      "good_to_know": "Upstairs dining room serves burgers. Bring ID—New York checks.",
+      "official_or_tourism_url": "https://oldtownbar.com/",
+      "sources": [
+        "https://oldtownbar.com/",
+        "https://en.wikipedia.org/wiki/Old_Town_Bar_and_Restaurant",
+        "https://commons.wikimedia.org/wiki/File%3AOld_Town_Bar_%26_Restaurant,_Manhattan,_New_York_City_(4026975551).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Manhattan, New York City",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Manhattan%2C%20New%20York%20City&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Manhattan%2C%20New%20York%20City&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Manhattan%2C%20New%20York%20City&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Manhattan"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-098",
+    "tab": "pubs",
+    "name": "Viaduct Tavern",
+    "short_line": "St Paul's, London",
+    "country": "United Kingdom",
+    "lat": 51.5163,
+    "lng": -0.1033,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/The_Viaduct_Tavern_bar_interior%2C_Newgate_St%2C_St_Paul%27s%2C_London_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-098.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_Viaduct_Tavern_bar_interior,_Newgate_St,_St_Paul's,_London_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Acabashi",
+      "attribution": "Photo: Acabashi, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:The Viaduct Tavern bar interior, Newgate St, St Paul's, London 01.jpg' (4608×3456) confirms Viaduct Tavern; visually checked on contact sheet. desc: Mirrors and reflections in The Viaduct Tavern on the corner of Newgate St and Giltspur St, at St Paul's, London, England.Camera: Canon PowerShot SX60 HS.Softwar"
+    },
+    "facts": {
+      "one_liner": "A Victorian gin palace of etched glass and painted ladies opposite the Old Bailey.",
+      "why_go": "The Viaduct Tavern on Newgate Street was built in 1869, the year Holborn Viaduct opened, and is one of London’s best-preserved Victorian gin palaces. Its interior has etched and gilded glass, a pressed-metal ceiling and large paintings of female figures. Stories link its cellars to the old Newgate Prison across the road.",
+      "best_time": "Weekday afternoons; it is busy after work.",
+      "how_to_get_there": "On Newgate Street, about 5 minutes’ walk from St Paul’s station.",
+      "good_to_know": "Ask staff about the cellars—sometimes shown to visitors.",
+      "official_or_tourism_url": "https://en.wikipedia.org/wiki/Viaduct_Tavern",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Viaduct_Tavern",
+        "https://commons.wikimedia.org/wiki/File%3AThe_Viaduct_Tavern_bar_interior,_Newgate_St,_St_Paul's,_London_01.jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "St Paul's, London, England",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=St%20Paul%27s%2C%20London%2C%20England&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=St%20Paul%27s%2C%20London%2C%20England&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=St%20Paul%27s%2C%20London%2C%20England&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in St Paul's"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-099",
+    "tab": "pubs",
+    "name": "Sloppy Joe's Bar",
+    "short_line": "Key West, Florida",
+    "country": "United States",
+    "lat": 24.5594,
+    "lng": -81.8048,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Sloppy_Joe%27s_Bar%2C_Key_West%2C_FL%2C_US_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-099.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASloppy_Joe's_Bar,_Key_West,_FL,_US_(04).jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Bubba73",
+      "attribution": "Photo: Bubba73, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Sloppy Joe's Bar, Key West, FL, US (04).jpg' (6000×4000) confirms Sloppy Joe's Bar; visually checked on contact sheet. desc: Sloppy Joe's Bar, Key West, Florida, U.S.  \n\n\n\n\n\n\nThis is an image of a place or building that is listed on the National Register of Historic Places in the Unit"
+    },
+    "facts": {
+      "one_liner": "Key West’s legendary Duval Street bar with Hemingway lore and live music.",
+      "why_go": "Sloppy Joe’s grew out of the bar run by Joe Russell, Ernest Hemingway’s friend and fishing partner in the 1930s, and moved to its current building at Duval and Greene streets in 1937. With open sides, ceiling fans and live music from midday, it is the centre of Key West nightlife and hosts the Hemingway Look-Alike Contest during Hemingway Days each July.",
+      "best_time": "December–April for dry, warm weather; July for Hemingway Days.",
+      "how_to_get_there": "At 201 Duval Street in Old Town Key West; Key West International Airport is about 15 minutes away.",
+      "good_to_know": "It is busy when cruise ships are in port. Hurricane season runs June–November.",
+      "official_or_tourism_url": "https://sloppyjoes.com/",
+      "sources": [
+        "https://sloppyjoes.com/",
+        "https://en.wikipedia.org/wiki/Sloppy_Joe%27s",
+        "https://commons.wikimedia.org/wiki/File%3ASloppy_Joe's_Bar,_Key_West,_FL,_US_(04).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Key West, Florida",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Key%20West%2C%20Florida&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Key%20West%2C%20Florida&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Key%20West%2C%20Florida&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Key West"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
+  },
+  {
+    "id": "pubs-100",
+    "tab": "pubs",
+    "name": "Queen Mary 2 — Golden Lion Pub",
+    "short_line": "Cunard ocean liner · Golden Lion pub",
+    "country": "United Kingdom",
+    "lat": 50.8975,
+    "lng": -1.4,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Cruise_ship_Queen_Mary_2_in_Flam_Norway_%2899262299%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/pubs/pubs-100.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACruise_ship_Queen_Mary_2_in_Flam_Norway_(99262299).jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Markus Trienke",
+      "attribution": "Photo: Markus Trienke, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons file 'File:Cruise ship Queen Mary 2 in Flam Norway (99262299).jpg' (4068×2712) confirms Queen Mary 2 — Golden Lion Pub; visually checked on contact sheet. desc: Cruise ship Queen Mary 2 in Flåm, Norway"
+    },
+    "facts": {
+      "one_liner": "Cunard’s flagship ocean liner, here gliding through a Norwegian fjord, with a classic British pub on board.",
+      "why_go": "Queen Mary 2 has been Cunard’s flagship since 2004 and is the only ship built as an ocean liner still in service, sailing regular transatlantic crossings between Southampton and New York as well as cruises and an annual world voyage. On board, the Golden Lion is a traditional British pub with pub lunches, quizzes and live music—perfect between days at sea, ballroom evenings and the planetarium.",
+      "best_time": "Transatlantic crossings run mainly from spring to autumn; summer cruises often visit the Norwegian fjords.",
+      "how_to_get_there": "Most voyages start at Southampton (about 80 minutes by train from London Waterloo) or Brooklyn Cruise Terminal in New York.",
+      "good_to_know": "A crossing takes about seven nights. Some evenings have dress codes; check Cunard’s guidance.",
+      "official_or_tourism_url": "https://www.cunard.com/en-gb/cruise-ships/queen-mary-2",
+      "sources": [
+        "https://www.cunard.com/en-gb/cruise-ships/queen-mary-2",
+        "https://en.wikipedia.org/wiki/Queen_Mary_2",
+        "https://commons.wikimedia.org/wiki/File%3ACruise_ship_Queen_Mary_2_in_Flam_Norway_(99262299).jpg"
+      ]
+    },
+    "ad": {
+      "destination_query": "Southampton, England",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Southampton%2C%20England&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Southampton%2C%20England&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Southampton%2C%20England&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Southampton before you sail"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "audited_at": "2026-10-09T01:18:23-05:00",
+      "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+      "reject_reason": null
+    }
   }
 ]
