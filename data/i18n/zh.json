@@ -138,7 +138,9 @@
     "plan_things": "{city}玩乐体验",
     "plan_note": "在新标签页中打开合作伙伴针对此地的搜索。部分为联盟链接：我们可能获得佣金，你无需额外付费。",
     "plan_after_travel": "喜欢{name}？现在就规划",
-    "plan_close": "关闭"
+    "plan_close": "关闭",
+    "submit_pin_none": "不置顶",
+    "submit_pin_line_30": "+$99.00 — 卡片上线后 30 天内保持在此标签前 25 位。"
   },
   "tabs": {
     "hidden-gems": "隐藏瑰宝",

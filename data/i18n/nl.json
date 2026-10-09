@@ -138,7 +138,9 @@
     "plan_things": "Wat te doen in {city}",
     "plan_note": "Opent de zoekfunctie van de partner voor deze plek in een nieuw tabblad. Sommige zijn affiliatelinks: we kunnen een commissie verdienen, zonder extra kosten voor jou.",
     "plan_after_travel": "Fan van {name}? Plan het nu",
-    "plan_close": "Sluiten"
+    "plan_close": "Sluiten",
+    "submit_pin_none": "Geen pin",
+    "submit_pin_line_30": "+$99.00 — je kaart blijft 30 dagen na livegang in de eerste 25 van deze tab."
   },
   "tabs": {
     "hidden-gems": "Verborgen parels",

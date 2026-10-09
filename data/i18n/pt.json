@@ -138,7 +138,9 @@
     "plan_things": "O que fazer em {city}",
     "plan_note": "Abre a busca do parceiro para este lugar em uma nova aba. Alguns são links de afiliado: podemos ganhar uma comissão sem custo extra para você.",
     "plan_after_travel": "Amou {name}? Planeje agora",
-    "plan_close": "Fechar"
+    "plan_close": "Fechar",
+    "submit_pin_none": "Sem fixar",
+    "submit_pin_line_30": "+$99.00 — seu cartão permanece entre os 25 primeiros desta aba por 30 dias após a publicação."
   },
   "tabs": {
     "hidden-gems": "Joias Escondidas",

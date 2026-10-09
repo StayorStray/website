@@ -138,7 +138,9 @@
     "plan_things": "Qué hacer en {city}",
     "plan_note": "Abre la búsqueda del socio para este lugar en una pestaña nueva. Algunos son enlaces de afiliado: podemos ganar una comisión sin coste adicional para ti.",
     "plan_after_travel": "¿Te encantó {name}? Planifícalo ya",
-    "plan_close": "Cerrar"
+    "plan_close": "Cerrar",
+    "submit_pin_none": "Sin fijar",
+    "submit_pin_line_30": "+$99.00 — tu tarjeta permanece entre las 25 primeras de esta pestaña durante 30 días tras publicarse."
   },
   "tabs": {
     "hidden-gems": "Joyas ocultas",

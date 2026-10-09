@@ -138,7 +138,9 @@
     "plan_things": "{city} 즐길 거리",
     "plan_note": "이 장소에 대한 파트너 검색을 새 탭에서 엽니다. 일부는 제휴 링크로, 추가 비용 없이 저희가 수수료를 받을 수 있습니다.",
     "plan_after_travel": "{name}이(가) 마음에 드셨나요? 지금 계획하세요",
-    "plan_close": "닫기"
+    "plan_close": "닫기",
+    "submit_pin_none": "고정 안 함",
+    "submit_pin_line_30": "+$99.00 — 카드가 공개된 후 30일 동안 이 탭의 상위 25개에 유지됩니다."
   },
   "tabs": {
     "hidden-gems": "숨은 명소",
