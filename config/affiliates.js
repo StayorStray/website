@@ -1,5 +1,5 @@
 /**
- * Stay or Stray — affiliate / booking deeplink config (browser)
+ * Spot and Travel — affiliate / booking deeplink config (browser)
  *
  * Paste real IDs from Expedia Group Travel Creator / Hotels.com / Booking / Travelpayouts.
  * Keep YOUR_AFFILIATE_ID until then — never invent live keys.
@@ -88,7 +88,7 @@
     return 'https://klook.tpx.gr/cVdJs2X5';
   }
 
-  global.StayOrStrayAffiliates = {
+  global.SpotAndTravelAffiliates = {
     affiliates,
     fillTemplate,
     buildDeeplink,

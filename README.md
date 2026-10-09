@@ -1,7 +1,7 @@
-# Stay or Stray — static site
+# Spot and Travel — static site
 
-**Brand:** Stay or Stray  
-**Tagline:** Swipe a place. Stay or stray.
+**Brand:** Spot and Travel (formerly Stay or Stray)  
+**Tagline:** Spot a place. Travel or skip?
 
 Vanilla HTML/CSS/JS, mobile-first. No framework. Home features the **Hidden Gems** deck; ten category pages share the same swipe UX.
 
@@ -10,7 +10,7 @@ Vanilla HTML/CSS/JS, mobile-first. No framework. Home features the **Hidden Gems
 Serve this folder over HTTP (ES modules / `fetch` need a server; opening `index.html` as `file://` will fail JSON loads).
 
 ```bash
-cd /workspace/listings/stay-or-stray/site
+cd /path/to/website   # this repo (StayorStray/website)
 python3 -m http.server 8080
 # open http://localhost:8080
 ```
