@@ -935,7 +935,7 @@
       "next": "beaches DONE 100/100"
     },
     "parks": {
-      "approved": 50,
+      "approved": 100,
       "mvp_ready": true,
       "sets": [
         {
@@ -1011,15 +1011,89 @@
             "parks-049",
             "parks-050"
           ]
+        },
+        {
+          "id": "parks-set-004",
+          "file": "set-004.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "parks-051",
+            "parks-052",
+            "parks-053",
+            "parks-054",
+            "parks-055",
+            "parks-056",
+            "parks-057",
+            "parks-058",
+            "parks-059",
+            "parks-060",
+            "parks-061",
+            "parks-062",
+            "parks-063",
+            "parks-064",
+            "parks-065",
+            "parks-066",
+            "parks-067",
+            "parks-068",
+            "parks-069",
+            "parks-070"
+          ]
+        },
+        {
+          "id": "parks-set-005",
+          "file": "set-005.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "parks-071",
+            "parks-072",
+            "parks-073",
+            "parks-074",
+            "parks-075",
+            "parks-076",
+            "parks-077",
+            "parks-078",
+            "parks-079",
+            "parks-080",
+            "parks-081",
+            "parks-082",
+            "parks-083",
+            "parks-084",
+            "parks-085",
+            "parks-086",
+            "parks-087",
+            "parks-088",
+            "parks-089",
+            "parks-090"
+          ]
+        },
+        {
+          "id": "parks-set-006",
+          "file": "set-006.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "parks-091",
+            "parks-092",
+            "parks-093",
+            "parks-094",
+            "parks-095",
+            "parks-096",
+            "parks-097",
+            "parks-098",
+            "parks-099",
+            "parks-100"
+          ]
         }
       ],
-      "latest_set": "set-003",
+      "latest_set": "set-006",
       "live_file": "data/parks.json",
       "archive_dir": "data/decks/parks/",
-      "approved_count": 50,
+      "approved_count": 100,
       "catalog_target": 100,
-      "scale_target_met": false,
-      "next": "Parks 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
+      "scale_target_met": true,
+      "next": "parks DONE 100/100"
     },
     "landmarks": {
       "approved": 50,
@@ -1276,5 +1350,5 @@
     "stray_key": "sos_stray_list",
     "scope": "on-device localStorage only; keyed by place id; survives daily rotation"
   },
-  "updated_at": "2026-10-09T01:27:00-05:00"
+  "updated_at": "2026-10-09T01:37:32-05:00"
 }

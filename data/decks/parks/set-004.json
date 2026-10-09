@@ -1,0 +1,1072 @@
+{
+  "id": "parks-set-004",
+  "tab": "parks",
+  "label": "National Parks — Set 4 (051–070)",
+  "card_ids": [
+    "parks-051",
+    "parks-052",
+    "parks-053",
+    "parks-054",
+    "parks-055",
+    "parks-056",
+    "parks-057",
+    "parks-058",
+    "parks-059",
+    "parks-060",
+    "parks-061",
+    "parks-062",
+    "parks-063",
+    "parks-064",
+    "parks-065",
+    "parks-066",
+    "parks-067",
+    "parks-068",
+    "parks-069",
+    "parks-070"
+  ],
+  "count": 20,
+  "auditor": "approved — content-to-100 batch: licensed Commons photos visually checked; facts sourced",
+  "created": "2026-10-09T01:37:32-05:00",
+  "cards": [
+    {
+      "id": "parks-051",
+      "tab": "parks",
+      "name": "Arches National Park",
+      "short_line": "Utah, United States",
+      "country": "United States",
+      "lat": 38.7281,
+      "lng": -109.54,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Delicate_Arch_in_Arches_National_Park_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-051.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ADelicate_Arch_in_Arches_National_Park_3.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "“Jon Zander (Digon3)”",
+        "attribution": "Photo: “Jon Zander (Digon3)”, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Delicate Arch in Arches National Park 3.jpg' (2272×1704) confirms Arches National Park; visually checked on contact sheet. desc: Photo of Delicate Arch in Arches National Park, Utah, USA."
+      },
+      "facts": {
+        "one_liner": "More than 2,000 natural sandstone arches in the red-rock desert outside Moab.",
+        "why_go": "Arches holds the world’s densest concentration of natural stone arches—over 2,000 of them—carved from salmon-coloured Entrada sandstone. Delicate Arch, the free-standing icon on Utah’s licence plates, is reached by a 3-mile round-trip hike across open slickrock, while the Windows Section and Devils Garden put dozens more arches within easy walking distance. Sunset sets the fins and spires glowing.",
+        "best_time": "March–May and September–October for comfortable hiking; summer is very hot, so hike at dawn or dusk.",
+        "how_to_get_there": "The entrance is about 5 miles north of Moab on US 191. The nearest airports are Canyonlands Regional (CNY) near Moab and Grand Junction, Colorado (about 2 hours).",
+        "good_to_know": "A timed-entry reservation has been required in peak season in recent years—check nps.gov before you go. Carry plenty of water; there is little shade.",
+        "official_or_tourism_url": "https://www.nps.gov/arch/index.htm",
+        "sources": [
+          "https://www.nps.gov/arch/index.htm",
+          "https://en.wikipedia.org/wiki/Arches_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3ADelicate_Arch_in_Arches_National_Park_3.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Moab, Utah, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Moab%2C%20Utah%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Moab%2C%20Utah%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Moab%2C%20Utah%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Moab"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-052",
+      "tab": "parks",
+      "name": "Bryce Canyon National Park",
+      "short_line": "Utah, United States",
+      "country": "United States",
+      "lat": 37.64,
+      "lng": -112.17,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bryce_Canyon_Hoodoos_Amphitheater_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-052.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABryce_Canyon_Hoodoos_Amphitheater_2.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "“Jon Zander (Digon3)”",
+        "attribution": "Photo: “Jon Zander (Digon3)”, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Bryce Canyon Hoodoos Amphitheater 2.jpg' (2272×1704) confirms Bryce Canyon National Park; visually checked on contact sheet. desc: Photo of Hoodoos in Bryce Canyon National Park, Utah, USA."
+      },
+      "facts": {
+        "one_liner": "A natural amphitheatre packed with thousands of orange-and-white hoodoos.",
+        "why_go": "Bryce Canyon is not one canyon but a series of natural amphitheatres eroded into the edge of the Paunsaugunt Plateau. The Bryce Amphitheater is filled with hoodoos—tall, thin spires of rock—that glow orange at sunrise. Rim viewpoints such as Sunrise, Sunset, Inspiration and Bryce Point are short walks from the road, and the Navajo Loop and Queen’s Garden trails drop you right among the spires. At over 8,000 feet, it is also a celebrated dark-sky park.",
+        "best_time": "May–October for hiking; winter brings snow-dusted hoodoos and quiet trails.",
+        "how_to_get_there": "About 4 hours’ drive from Las Vegas or Salt Lake City; the park road runs south from Utah Route 63 near Bryce Canyon City. A free seasonal shuttle serves the main viewpoints.",
+        "good_to_know": "The high elevation means cold nights even in summer, and the trails below the rim are steep on the climb back up.",
+        "official_or_tourism_url": "https://www.nps.gov/brca/index.htm",
+        "sources": [
+          "https://www.nps.gov/brca/index.htm",
+          "https://en.wikipedia.org/wiki/Bryce_Canyon_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3ABryce_Canyon_Hoodoos_Amphitheater_2.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Bryce Canyon City, Utah, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bryce%20Canyon%20City%2C%20Utah%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bryce%20Canyon%20City%2C%20Utah%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bryce%20Canyon%20City%2C%20Utah%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Bryce Canyon City"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-053",
+      "tab": "parks",
+      "name": "Great Smoky Mountains National Park",
+      "short_line": "Tennessee & North Carolina, United States",
+      "country": "United States",
+      "lat": 35.6111,
+      "lng": -83.425,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Meadow_in_the_Smoky_Mountains_%2841666%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-053.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMeadow_in_the_Smoky_Mountains_(41666).jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Rhododendrites",
+        "attribution": "Photo: Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Meadow in the Smoky Mountains (41666).jpg' (5183×3291) confirms Great Smoky Mountains National Park; visually checked on contact sheet. desc: Meadow in the Great Smoky Mountains in Tennessee, with namesake \"smoke\""
+      },
+      "facts": {
+        "one_liner": "Mist-wrapped ridges, wildflower meadows and historic log cabins in the southern Appalachians.",
+        "why_go": "Straddling the Tennessee–North Carolina border, Great Smoky Mountains is America’s most visited national park and a UNESCO World Heritage Site famed for its biodiversity. The blue haze that gives the range its name hangs over ancient forested ridges, while Cades Cove preserves log cabins, churches and open meadows where deer and black bears roam. Clingmans Dome and Newfound Gap give sweeping views, and hundreds of miles of trail include a stretch of the Appalachian Trail.",
+        "best_time": "April–May for wildflowers; mid-October for blazing autumn colour.",
+        "how_to_get_there": "Gateway towns are Gatlinburg, Tennessee, and Cherokee, North Carolina. Knoxville’s McGhee Tyson Airport (TYS) is about an hour from the Sugarlands Visitor Center.",
+        "good_to_know": "Entry is free, but a parking tag is required for vehicles parked more than 15 minutes. Cades Cove Loop Road is closed to cars on some mornings for cyclists—check the NPS schedule.",
+        "official_or_tourism_url": "https://www.nps.gov/grsm/index.htm",
+        "sources": [
+          "https://www.nps.gov/grsm/index.htm",
+          "https://en.wikipedia.org/wiki/Great_Smoky_Mountains_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3AMeadow_in_the_Smoky_Mountains_(41666).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Gatlinburg, Tennessee, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Gatlinburg%2C%20Tennessee%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Gatlinburg%2C%20Tennessee%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Gatlinburg%2C%20Tennessee%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Gatlinburg"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-054",
+      "tab": "parks",
+      "name": "Acadia National Park",
+      "short_line": "Maine, United States",
+      "country": "United States",
+      "lat": 44.35,
+      "lng": -68.2167,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Acadia_National_Park_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-054.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AAcadia_National_Park_02.JPG",
+        "license": "CC BY-SA 3.0",
+        "author": "Plh1234us",
+        "attribution": "Photo: Plh1234us, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Acadia National Park 02.JPG' (3124×2343) confirms Acadia National Park; visually checked on contact sheet. desc: Acadia National Park (Jordan Pond and the Bubbles), Maine"
+      },
+      "facts": {
+        "one_liner": "Granite peaks, rocky shores and glassy ponds on Maine’s Mount Desert Island.",
+        "why_go": "Acadia protects much of Mount Desert Island on the Maine coast, where pink granite mountains meet the cold Atlantic. Cadillac Mountain is the highest point on the US Atlantic seaboard, and from autumn to spring it is among the first places in the country to see the sunrise. The Park Loop Road links Sand Beach, Thunder Hole and Jordan Pond, while 45 miles of historic carriage roads are perfect for cycling and walking.",
+        "best_time": "June–October; late September to mid-October for autumn foliage.",
+        "how_to_get_there": "Bar Harbor is the gateway town. Fly to Bangor (BGR), about an hour away, or the small Hancock County–Bar Harbor airport; the free seasonal Island Explorer bus links Bar Harbor with park trailheads.",
+        "good_to_know": "A vehicle reservation is required for the Cadillac Summit Road in peak season. Parking at popular spots fills quickly—use the Island Explorer.",
+        "official_or_tourism_url": "https://www.nps.gov/acad/index.htm",
+        "sources": [
+          "https://www.nps.gov/acad/index.htm",
+          "https://en.wikipedia.org/wiki/Acadia_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3AAcadia_National_Park_02.JPG"
+        ]
+      },
+      "ad": {
+        "destination_query": "Bar Harbor, Maine, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Bar%20Harbor%2C%20Maine%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Bar%20Harbor%2C%20Maine%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Bar%20Harbor%2C%20Maine%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Bar Harbor"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-055",
+      "tab": "parks",
+      "name": "Rocky Mountain National Park",
+      "short_line": "Colorado, United States",
+      "country": "United States",
+      "lat": 40.3466,
+      "lng": -105.7364,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Moraine_Park_Valley%2C_Rocky_Mountain_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-055.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMoraine_Park_Valley,_Rocky_Mountain_National_Park.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Frank Schulenburg",
+        "attribution": "Photo: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Moraine Park Valley, Rocky Mountain National Park.jpg' (4161×2782) confirms Rocky Mountain National Park; visually checked on contact sheet. desc: Moraine Park Valley in Rocky Mountain National Park, Colorado."
+      },
+      "facts": {
+        "one_liner": "High alpine tundra, elk-filled meadows and 14,000-foot peaks along Trail Ridge Road.",
+        "why_go": "Rocky Mountain National Park straddles the Continental Divide in northern Colorado. Trail Ridge Road, the highest continuous paved road in the US, crosses miles of alpine tundra above 11,000 feet, while valleys such as Moraine Park fill with grazing elk—especially during the dramatic autumn rut. Longs Peak towers above more than 300 miles of trails leading to alpine lakes such as Bear Lake and Dream Lake.",
+        "best_time": "June–September when Trail Ridge Road is open; September–October for the elk rut and golden aspens.",
+        "how_to_get_there": "Estes Park, the main gateway, is about 1.5–2 hours’ drive from Denver International Airport (DEN).",
+        "good_to_know": "Timed-entry permits have been required in summer and early autumn—check NPS. Weather changes fast at altitude; afternoon thunderstorms are common.",
+        "official_or_tourism_url": "https://www.nps.gov/romo/index.htm",
+        "sources": [
+          "https://www.nps.gov/romo/index.htm",
+          "https://en.wikipedia.org/wiki/Rocky_Mountain_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3AMoraine_Park_Valley,_Rocky_Mountain_National_Park.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Estes Park, Colorado, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Estes%20Park%2C%20Colorado%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Estes%20Park%2C%20Colorado%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Estes%20Park%2C%20Colorado%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Estes Park"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-056",
+      "tab": "parks",
+      "name": "Olympic National Park",
+      "short_line": "Washington, United States",
+      "country": "United States",
+      "lat": 47.9693,
+      "lng": -123.4986,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Second_Beach_Olympic_June_2018_008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-056.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASecond_Beach_Olympic_June_2018_008.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "King of Hearts",
+        "attribution": "Photo: King of Hearts, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Second Beach Olympic June 2018 008.jpg' (5880×3920) confirms Olympic National Park; visually checked on contact sheet. desc: Sea stacks, Second Beach, Olympic National Park, Washington."
+      },
+      "facts": {
+        "one_liner": "Wild Pacific beaches, temperate rainforest and glacier-capped peaks in one park.",
+        "why_go": "Olympic National Park protects three distinct ecosystems on Washington’s Olympic Peninsula: more than 70 miles of rugged Pacific coastline with sea stacks and tide pools, the moss-draped Hoh and Quinault temperate rainforests, and the glaciated Olympic Mountains crowned by Mount Olympus. Hurricane Ridge offers easy alpine views, and Rialto, Ruby and Second beaches are known for their dramatic sea stacks at sunset. It is both a UNESCO World Heritage Site and a Biosphere Reserve.",
+        "best_time": "July–September for drier weather and open mountain roads; winter brings storm-watching on the coast.",
+        "how_to_get_there": "Port Angeles is the main gateway, about 2.5–3 hours from Seattle via ferry or road. There is no road through the park’s interior, so plan a loop on US 101.",
+        "good_to_know": "Check tide tables before beach hikes—some headlands can only be passed at low tide.",
+        "official_or_tourism_url": "https://www.nps.gov/olym/index.htm",
+        "sources": [
+          "https://www.nps.gov/olym/index.htm",
+          "https://en.wikipedia.org/wiki/Olympic_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3ASecond_Beach_Olympic_June_2018_008.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Port Angeles, Washington, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Port%20Angeles%2C%20Washington%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Port%20Angeles%2C%20Washington%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Port%20Angeles%2C%20Washington%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Port Angeles"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-057",
+      "tab": "parks",
+      "name": "Grand Teton National Park",
+      "short_line": "Wyoming, United States",
+      "country": "United States",
+      "lat": 43.8333,
+      "lng": -110.7008,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Central_Teton_range_WY1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-057.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACentral_Teton_range_WY1.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Acroterion",
+        "attribution": "Photo: Acroterion, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Central Teton range WY1.jpg' (5472×3648) confirms Grand Teton National Park; visually checked on contact sheet. desc: The central Teton Range, Grand Teton National Park, Wyoming. From left to right, Middle Teton, Disappointment Peak, Teepe Pillar and Grand Teton, with the shoul"
+      },
+      "facts": {
+        "one_liner": "Jagged granite peaks rising straight out of the sagebrush flats of Jackson Hole.",
+        "why_go": "With no foothills to soften them, the Teton Range rises abruptly more than 7,000 feet above the valley of Jackson Hole, making Grand Teton one of the most dramatic mountain fronts in North America. Jenny Lake, String Lake and Jackson Lake mirror the peaks, Schwabacher Landing and Oxbow Bend are famous at sunrise, and moose, elk and bison graze the flats. It sits just south of Yellowstone, and many visitors combine the two.",
+        "best_time": "Late May–early October; September brings golden aspens and active wildlife.",
+        "how_to_get_there": "Jackson Hole Airport (JAC) is inside the park; the town of Jackson is about 20 minutes south of the Moose entrance.",
+        "good_to_know": "Carry bear spray on trails and keep a safe distance from wildlife. Shuttle boats cross Jenny Lake to the Hidden Falls and Inspiration Point trailheads in summer.",
+        "official_or_tourism_url": "https://www.nps.gov/grte/index.htm",
+        "sources": [
+          "https://www.nps.gov/grte/index.htm",
+          "https://en.wikipedia.org/wiki/Grand_Teton_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3ACentral_Teton_range_WY1.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Jackson, Wyoming, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Jackson%2C%20Wyoming%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Jackson%2C%20Wyoming%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Jackson%2C%20Wyoming%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Jackson"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-058",
+      "tab": "parks",
+      "name": "Denali National Park",
+      "short_line": "Alaska, United States",
+      "country": "United States",
+      "lat": 63.43,
+      "lng": -150.32,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Parque_nacional_y_reserva_Denali%2C_Alaska%2C_Estados_Unidos%2C_2017-08-30%2C_DD_72.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-058.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AParque_nacional_y_reserva_Denali,_Alaska,_Estados_Unidos,_2017-08-30,_DD_72.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Diego Delso",
+        "attribution": "Photo: Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Parque nacional y reserva Denali, Alaska, Estados Unidos, 2017-08-30, DD 72.jpg' (7472×3014) confirms Denali National Park; visually checked on contact sheet. desc: Landscape of Denali National Park from Eielson Visitor Center, Alaska, United States."
+      },
+      "facts": {
+        "one_liner": "Six million acres of wild tundra beneath North America’s tallest peak.",
+        "why_go": "Denali National Park and Preserve covers six million acres of Alaskan wilderness around Denali, at 20,310 feet the highest mountain in North America. A single 92-mile road winds into the park, and most visitors travel it by bus, scanning braided rivers and open tundra for grizzly bears, moose, caribou, Dall sheep and wolves. The mountain is often hidden in its own weather, which makes a clear view all the more memorable.",
+        "best_time": "Late May–mid-September, when buses run; late August brings autumn colours on the tundra.",
+        "how_to_get_there": "The park entrance is about 4 hours’ drive (or a scenic Alaska Railroad journey) north of Anchorage and about 2 hours south of Fairbanks.",
+        "good_to_know": "Private vehicles are limited to the first 15 miles of the park road. A landslide has closed the road beyond about Mile 43 in recent seasons—check NPS for current bus destinations.",
+        "official_or_tourism_url": "https://www.nps.gov/dena/index.htm",
+        "sources": [
+          "https://www.nps.gov/dena/index.htm",
+          "https://en.wikipedia.org/wiki/Denali_National_Park_and_Preserve",
+          "https://commons.wikimedia.org/wiki/File%3AParque_nacional_y_reserva_Denali,_Alaska,_Estados_Unidos,_2017-08-30,_DD_72.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Healy, Alaska, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Healy%2C%20Alaska%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Healy%2C%20Alaska%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Healy%2C%20Alaska%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Healy"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-059",
+      "tab": "parks",
+      "name": "Joshua Tree National Park",
+      "short_line": "California, United States",
+      "country": "United States",
+      "lat": 34.1,
+      "lng": -116.27,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Joschua_Tree_National_Park_Rock_formation_near_Barker_Dam_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-059.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AJoschua_Tree_National_Park_Rock_formation_near_Barker_Dam_2013.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Tuxyso",
+        "attribution": "Photo: Tuxyso, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Joschua Tree National Park Rock formation near Barker Dam 2013.jpg' (4849×3003) confirms Joshua Tree National Park; visually checked on contact sheet. desc: Rock formation on the Barker Dam Natural Trail"
+      },
+      "facts": {
+        "one_liner": "Twisted Joshua trees and giant granite boulders where two deserts meet.",
+        "why_go": "Joshua Tree protects the meeting point of the Mojave and Colorado deserts in southern California. The higher Mojave side is studded with spiky Joshua trees and piles of rounded granite boulders that draw climbers from around the world, while the lower Colorado Desert holds the Cholla Cactus Garden. Keys View looks over the Coachella Valley, and the park’s dark skies make for spectacular stargazing.",
+        "best_time": "October–April for mild temperatures; spring can bring wildflowers.",
+        "how_to_get_there": "About 2.5 hours’ drive east of Los Angeles; Palm Springs International Airport (PSP) is about an hour from the West Entrance near the town of Joshua Tree.",
+        "good_to_know": "There is no water or food for sale inside the park—bring everything you need. Mobile reception is patchy.",
+        "official_or_tourism_url": "https://www.nps.gov/jotr/index.htm",
+        "sources": [
+          "https://www.nps.gov/jotr/index.htm",
+          "https://en.wikipedia.org/wiki/Joshua_Tree_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3AJoschua_Tree_National_Park_Rock_formation_near_Barker_Dam_2013.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Joshua Tree, California, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Joshua%20Tree%2C%20California%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Joshua%20Tree%2C%20California%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Joshua%20Tree%2C%20California%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Joshua Tree"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-060",
+      "tab": "parks",
+      "name": "Death Valley National Park",
+      "short_line": "California & Nevada, United States",
+      "country": "United States",
+      "lat": 36.45,
+      "lng": -116.85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Eroded_badlands_at_Zabriskie_Point%2C_Death_Valley_National_Park%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-060.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AEroded_badlands_at_Zabriskie_Point,_Death_Valley_National_Park,_California.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Christian David",
+        "attribution": "Photo: Christian David, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Eroded badlands at Zabriskie Point, Death Valley National Park, California.jpg' (7728×5152) confirms Death Valley National Park; visually checked on contact sheet. desc: Eroded badlands of the Furnace Creek Formation below the dark ridges of the Amargosa Range, seen from Zabriskie Point."
+      },
+      "facts": {
+        "one_liner": "Salt flats, sand dunes and sculpted badlands in North America’s hottest, driest place.",
+        "why_go": "Death Valley is the largest national park in the contiguous United States and holds records for heat and dryness. Badwater Basin sits 282 feet below sea level—the lowest point in North America—while the golden, wave-like badlands of Zabriskie Point, the Mesquite Flat Sand Dunes and the colourful Artists Palette make it one of the most otherworldly landscapes in the country. It is also a certified dark-sky park.",
+        "best_time": "November–March for comfortable temperatures; summer heat regularly exceeds 120°F (49°C).",
+        "how_to_get_there": "About 2 hours’ drive west of Las Vegas. Furnace Creek is the main hub, with a visitor centre, lodging and fuel.",
+        "good_to_know": "Carry extra water and fuel—distances are long. In summer, avoid hiking after 10 am at low elevations.",
+        "official_or_tourism_url": "https://www.nps.gov/deva/index.htm",
+        "sources": [
+          "https://www.nps.gov/deva/index.htm",
+          "https://en.wikipedia.org/wiki/Death_Valley_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3AEroded_badlands_at_Zabriskie_Point,_Death_Valley_National_Park,_California.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Furnace Creek, California, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Furnace%20Creek%2C%20California%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Furnace%20Creek%2C%20California%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Furnace%20Creek%2C%20California%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Furnace Creek"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-061",
+      "tab": "parks",
+      "name": "Hawaiʻi Volcanoes National Park",
+      "short_line": "Island of Hawaiʻi, United States",
+      "country": "United States",
+      "lat": 19.3833,
+      "lng": -155.2,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Sulfur_dioxide_emissions_from_the_Halemaumau_vent_04-08-1_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-061.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ASulfur_dioxide_emissions_from_the_Halemaumau_vent_04-08-1_1.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Brocken Inaglory",
+        "attribution": "Photo: Brocken Inaglory, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Sulfur dioxide emissions from the Halemaumau vent 04-08-1 1.jpg' (1992×1157) confirms Hawaiʻi Volcanoes National Park; visually checked on contact sheet. desc: sulfur dioxide emissions  from the Halema`uma`u vent, Kīlauea."
+      },
+      "facts": {
+        "one_liner": "Steaming craters and fresh lava fields on two of the world’s most active volcanoes.",
+        "why_go": "Hawaiʻi Volcanoes National Park, a UNESCO World Heritage Site, protects Kīlauea and Mauna Loa on the Big Island. Crater Rim Drive circles Kīlauea’s summit caldera, where Halemaʻumaʻu crater steams and—during eruptions—glows at night. The Chain of Craters Road descends past lava flows to dramatic sea cliffs, and trails cross the floor of Kīlauea Iki crater and pass through the Nāhuku lava tube.",
+        "best_time": "Year-round; check the USGS and NPS for current eruption activity before you visit.",
+        "how_to_get_there": "About 45 minutes’ drive from Hilo International Airport (ITO), or about 2.5 hours from Kona.",
+        "good_to_know": "Volcanic gases can be hazardous for people with heart or breathing problems. The summit is cool and often rainy—bring layers.",
+        "official_or_tourism_url": "https://www.nps.gov/havo/index.htm",
+        "sources": [
+          "https://www.nps.gov/havo/index.htm",
+          "https://en.wikipedia.org/wiki/Hawai%CA%BBi_Volcanoes_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3ASulfur_dioxide_emissions_from_the_Halemaumau_vent_04-08-1_1.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Volcano, Hawaii, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Volcano%2C%20Hawaii%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Volcano%2C%20Hawaii%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Volcano%2C%20Hawaii%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Volcano"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-062",
+      "tab": "parks",
+      "name": "Mount Rainier National Park",
+      "short_line": "Washington, United States",
+      "country": "United States",
+      "lat": 46.85,
+      "lng": -121.75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Mount_Rainier_from_the_Silver_Queen_Peak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-062.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMount_Rainier_from_the_Silver_Queen_Peak.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Dllu",
+        "attribution": "Photo: Dllu, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Mount Rainier from the Silver Queen Peak.jpg' (7366×4920) confirms Mount Rainier National Park; visually checked on contact sheet. desc: Mount Rainier as viewed in the summer from Silver Queen Peak, near Crystal Mountain resort at an elevation of around 7000 ft looking west by southwest. The main"
+      },
+      "facts": {
+        "one_liner": "An ice-clad volcano ringed by old-growth forest and famous wildflower meadows.",
+        "why_go": "Mount Rainier, at 14,410 feet, is the most glaciated peak in the contiguous United States and dominates the skyline of the Pacific Northwest. Its lower slopes are wrapped in old-growth forest, while subalpine meadows at Paradise and Sunrise burst into colour with wildflowers in mid-summer. The Skyline Trail at Paradise and the long-distance Wonderland Trail circling the mountain are classic hikes.",
+        "best_time": "Mid-July–August for wildflowers; September for fewer crowds and autumn colour.",
+        "how_to_get_there": "About 2–2.5 hours’ drive from Seattle–Tacoma International Airport (SEA) to the Nisqually Entrance and Paradise.",
+        "good_to_know": "Timed-entry reservations have been required for some corridors in summer—check NPS. Sunrise Road is open only in summer.",
+        "official_or_tourism_url": "https://www.nps.gov/mora/index.htm",
+        "sources": [
+          "https://www.nps.gov/mora/index.htm",
+          "https://en.wikipedia.org/wiki/Mount_Rainier_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3AMount_Rainier_from_the_Silver_Queen_Peak.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Ashford, Washington, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ashford%2C%20Washington%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ashford%2C%20Washington%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ashford%2C%20Washington%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Ashford"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-063",
+      "tab": "parks",
+      "name": "Sequoia National Park",
+      "short_line": "California, United States",
+      "country": "United States",
+      "lat": 36.5647,
+      "lng": -118.7728,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/The_General_Sherman_tree_-_Sequoia_National_Park_%2833241877800%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-063.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AThe_General_Sherman_tree_-_Sequoia_National_Park_(33241877800).jpg",
+        "license": "CC BY-SA 2.0",
+        "author": "m01229 from USA",
+        "attribution": "Photo: m01229 from USA, CC BY-SA 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:The General Sherman tree - Sequoia National Park (33241877800).jpg' (4063×2709) confirms Sequoia National Park; visually checked on contact sheet. desc: The General Sherman tree - Sequoia National Park"
+      },
+      "facts": {
+        "one_liner": "Walk among giant sequoias, including General Sherman, the world’s largest tree by volume.",
+        "why_go": "Sequoia National Park in California’s southern Sierra Nevada protects groves of giant sequoias, the largest trees on Earth. In the Giant Forest, the General Sherman Tree is the largest living single-stem tree by volume, and the Congress Trail loops past dozens more giants. Climb the granite dome of Moro Rock for views over the Great Western Divide, or drive through the Tunnel Log.",
+        "best_time": "Late May–October for open roads and trails; winter brings snow-covered groves for snowshoeing.",
+        "how_to_get_there": "About 1.5 hours’ drive from Fresno Yosemite International Airport (FAT); the gateway town is Three Rivers, near the Ash Mountain entrance.",
+        "good_to_know": "The Generals Highway is steep and winding—vehicles over 22 feet are discouraged between Potwisha and Giant Forest. Chains may be required in winter.",
+        "official_or_tourism_url": "https://www.nps.gov/seki/index.htm",
+        "sources": [
+          "https://www.nps.gov/seki/index.htm",
+          "https://en.wikipedia.org/wiki/Sequoia_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3AThe_General_Sherman_tree_-_Sequoia_National_Park_(33241877800).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Three Rivers, California, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Three%20Rivers%2C%20California%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Three%20Rivers%2C%20California%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Three%20Rivers%2C%20California%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Three Rivers"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-064",
+      "tab": "parks",
+      "name": "Crater Lake National Park",
+      "short_line": "Oregon, United States",
+      "country": "United States",
+      "lat": 42.9111,
+      "lng": -122.1478,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Crater_Lake_October_2019_015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-064.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACrater_Lake_October_2019_015.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "King of Hearts",
+        "attribution": "Photo: King of Hearts, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Crater Lake October 2019 015.jpg' (6016×4016) confirms Crater Lake National Park; visually checked on contact sheet. desc: Wizard Island, Crater Lake National Park, Oregon."
+      },
+      "facts": {
+        "one_liner": "The deepest lake in the United States, intensely blue inside a collapsed volcano.",
+        "why_go": "Crater Lake fills the caldera left when Mount Mazama collapsed about 7,700 years ago. At 1,943 feet, it is the deepest lake in the United States, and fed almost entirely by rain and snow, its water is famously clear and deep blue. Rim Drive circles the caldera past viewpoints over Wizard Island, and in summer the Cleetwood Cove Trail leads down to the shore for boat tours.",
+        "best_time": "July–September, when Rim Drive and trails are usually snow-free.",
+        "how_to_get_there": "About 1.5 hours’ drive from Medford (MFR) or Klamath Falls; Rim Village is open year-round via the south entrance.",
+        "good_to_know": "The area gets some of the heaviest snowfall in the US—much of the park is closed for over half the year. Boat tours require tickets and a steep hike back up.",
+        "official_or_tourism_url": "https://www.nps.gov/crla/index.htm",
+        "sources": [
+          "https://www.nps.gov/crla/index.htm",
+          "https://en.wikipedia.org/wiki/Crater_Lake_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3ACrater_Lake_October_2019_015.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Klamath Falls, Oregon, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Klamath%20Falls%2C%20Oregon%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Klamath%20Falls%2C%20Oregon%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Klamath%20Falls%2C%20Oregon%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Klamath Falls"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-065",
+      "tab": "parks",
+      "name": "Yoho National Park",
+      "short_line": "British Columbia, Canada",
+      "country": "Canada",
+      "lat": 51.4,
+      "lng": -116.5,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Emerald_Lake_-_Yoho_National_Park%2C_BC%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-065.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AEmerald_Lake_-_Yoho_National_Park,_BC,_Canada.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "BarbEagen",
+        "attribution": "Photo: BarbEagen, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Emerald Lake - Yoho National Park, BC, Canada.jpg' (1280×959) confirms Yoho National Park; visually checked on contact sheet. desc: Emerald Lake, Field, BC, Canada"
+      },
+      "facts": {
+        "one_liner": "Emerald lakes, thundering waterfalls and fossil beds in the Canadian Rockies.",
+        "why_go": "Yoho, a Cree word expressing awe, sits on the western slope of the Continental Divide next to Banff. Emerald Lake glows green beneath the President Range, Takakkaw Falls drops about 373 metres, and the Natural Bridge spans the Kicking Horse River. The park is part of the Canadian Rocky Mountain Parks UNESCO World Heritage Site, which includes the world-famous Burgess Shale fossil beds.",
+        "best_time": "July–September; the road to Takakkaw Falls is usually open late June to mid-October.",
+        "how_to_get_there": "The village of Field is on the Trans-Canada Highway about 30 minutes west of Lake Louise and roughly 2.5 hours from Calgary International Airport (YYC).",
+        "good_to_know": "A Parks Canada pass is required. Lake O’Hara is reached by a reservation-only bus or a long hike.",
+        "official_or_tourism_url": "https://parks.canada.ca/pn-np/bc/yoho",
+        "sources": [
+          "https://parks.canada.ca/pn-np/bc/yoho",
+          "https://en.wikipedia.org/wiki/Yoho_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3AEmerald_Lake_-_Yoho_National_Park,_BC,_Canada.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Field, British Columbia, Canada",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Field%2C%20British%20Columbia%2C%20Canada&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Field%2C%20British%20Columbia%2C%20Canada&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Field%2C%20British%20Columbia%2C%20Canada&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Field"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-066",
+      "tab": "parks",
+      "name": "Gros Morne National Park",
+      "short_line": "Newfoundland and Labrador, Canada",
+      "country": "Canada",
+      "lat": 49.6894,
+      "lng": -57.7381,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Western_Brook_Pond6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-066.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AWestern_Brook_Pond6.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Mykola Swarnyk",
+        "attribution": "Photo: Mykola Swarnyk, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Western Brook Pond6.jpg' (6016×4016) confirms Gros Morne National Park; visually checked on contact sheet. desc: Скелі над озером Вестерн-Брук-Понд на Ньюфаундленді"
+      },
+      "facts": {
+        "one_liner": "Fjords, tablelands and towering cliffs on Newfoundland’s west coast.",
+        "why_go": "Gros Morne is a UNESCO World Heritage Site because its rocks tell the story of plate tectonics: the barren, ochre Tablelands are exposed Earth’s mantle. Elsewhere, Western Brook Pond is a landlocked fjord with cliffs rising some 600 metres, best seen on a boat tour, and the summit of Gros Morne Mountain gives sweeping views. Fishing villages like Rocky Harbour and Woody Point sit on Bonne Bay.",
+        "best_time": "June–September for boat tours and hiking; autumn brings colour and fewer visitors.",
+        "how_to_get_there": "Deer Lake Airport (YDF) is about 45 minutes’ drive from the park entrance at Wiltondale.",
+        "good_to_know": "Western Brook Pond boat tours need a 3 km walk to the dock—book ahead in summer.",
+        "official_or_tourism_url": "https://parks.canada.ca/pn-np/nl/grosmorne",
+        "sources": [
+          "https://parks.canada.ca/pn-np/nl/grosmorne",
+          "https://en.wikipedia.org/wiki/Gros_Morne_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3AWestern_Brook_Pond6.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Rocky Harbour, Newfoundland and Labrador, Canada",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rocky%20Harbour%2C%20Newfoundland%20and%20Labrador%2C%20Canada&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rocky%20Harbour%2C%20Newfoundland%20and%20Labrador%2C%20Canada&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rocky%20Harbour%2C%20Newfoundland%20and%20Labrador%2C%20Canada&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Rocky Harbour"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-067",
+      "tab": "parks",
+      "name": "Waterton Lakes National Park",
+      "short_line": "Alberta, Canada",
+      "country": "Canada",
+      "lat": 49.0458,
+      "lng": -113.9153,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Waterton_lakes_national_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-067.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AWaterton_lakes_national_park.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Khoshhat",
+        "attribution": "Photo: Khoshhat, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Waterton lakes national park.jpg' (4608×3456) confirms Waterton Lakes National Park; visually checked on contact sheet. desc: View of Waterton Lakes National Park in Alberta. Upper Waterton Lake in the center. Waterton Park in the bottom. I took this photo from Bear's Hump. Looking SSE"
+      },
+      "facts": {
+        "one_liner": "Where the Rockies rise straight from the prairie, around a lakeside mountain village.",
+        "why_go": "Waterton Lakes, in Alberta’s south-west corner, is where the prairies meet the Rocky Mountains with almost no transition. Upper Waterton Lake stretches south into Montana, and with Glacier National Park it forms the Waterton–Glacier International Peace Park, a UNESCO World Heritage Site. The historic Prince of Wales Hotel overlooks the walkable Waterton townsite, and Red Rock Canyon and Cameron Lake are short drives away.",
+        "best_time": "June–September; boat cruises on Upper Waterton Lake run in summer.",
+        "how_to_get_there": "About 3 hours’ drive south of Calgary, or about 1.5 hours from Lethbridge.",
+        "good_to_know": "Mule deer wander the townsite, and winds can be fierce. Parts of the park are still recovering from the 2017 Kenow Wildfire.",
+        "official_or_tourism_url": "https://parks.canada.ca/pn-np/ab/waterton",
+        "sources": [
+          "https://parks.canada.ca/pn-np/ab/waterton",
+          "https://en.wikipedia.org/wiki/Waterton_Lakes_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3AWaterton_lakes_national_park.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Waterton Park, Alberta, Canada",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Waterton%20Park%2C%20Alberta%2C%20Canada&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Waterton%20Park%2C%20Alberta%2C%20Canada&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Waterton%20Park%2C%20Alberta%2C%20Canada&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Waterton Park"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-068",
+      "tab": "parks",
+      "name": "Huascarán National Park",
+      "short_line": "Áncash, Peru",
+      "country": "Peru",
+      "lat": -9.4,
+      "lng": -77.4,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Laguna_69%2C_no_desfiladeiro_Demanda_do_Parque_Nacional_Huascar%C3%A1n_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-068.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ALaguna_69,_no_desfiladeiro_Demanda_do_Parque_Nacional_Huascar%C3%A1n_11.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Renata Maria Cristina",
+        "attribution": "Photo: Renata Maria Cristina, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Laguna 69, no desfiladeiro Demanda do Parque Nacional Huascarán 11.jpg' (4000×2252) confirms Huascarán National Park; visually checked on contact sheet. desc: Laguna 69, no desfiladeiro Demanda do Parque Nacional Huascarán"
+      },
+      "facts": {
+        "one_liner": "Turquoise glacial lakes beneath the highest tropical peaks on Earth.",
+        "why_go": "Huascarán National Park protects most of Peru’s Cordillera Blanca, the world’s highest tropical mountain range, crowned by 6,768-metre Huascarán. It is a UNESCO World Heritage Site with hundreds of glacial lakes. Laguna 69 and the Llanganuco lakes are classic hikes, and the Santa Cruz trek is one of South America’s great multi-day walks. Look for puya raimondii, a giant bromeliad that can grow over 10 metres tall.",
+        "best_time": "May–September, the dry season, for clear skies and trekking.",
+        "how_to_get_there": "Huaraz is the base town, about 8 hours by bus from Lima.",
+        "good_to_know": "Spend a few days acclimatising in Huaraz before high hikes—most trails top 4,000 metres. A park entry ticket is required.",
+        "official_or_tourism_url": "https://www.peru.travel/en",
+        "sources": [
+          "https://www.peru.travel/en",
+          "https://en.wikipedia.org/wiki/Huascar%C3%A1n_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3ALaguna_69,_no_desfiladeiro_Demanda_do_Parque_Nacional_Huascar%C3%A1n_11.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Huaraz, Peru",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Huaraz%2C%20Peru&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Huaraz%2C%20Peru&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Huaraz%2C%20Peru&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Huaraz"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-069",
+      "tab": "parks",
+      "name": "Lençóis Maranhenses National Park",
+      "short_line": "Maranhão, Brazil",
+      "country": "Brazil",
+      "lat": -2.5333,
+      "lng": -43.1167,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Parque_Nacional_dos_Len%C3%A7ois_Maranhenses_Matheus_Hobold_Sovernigo_%2802%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-069.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AParque_Nacional_dos_Len%C3%A7ois_Maranhenses_Matheus_Hobold_Sovernigo_(02).jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Matheus Hobold Sovernigo",
+        "attribution": "Photo: Matheus Hobold Sovernigo, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Parque Nacional dos Lençois Maranhenses Matheus Hobold Sovernigo (02).jpg' (4000×2667) confirms Lençóis Maranhenses National Park; visually checked on contact sheet. desc: Parque Nacional dos Lençóis Maranhenses de nível Federal, localizado (a) em Primeira Cruz (MA), Barreirinhas (MA)"
+      },
+      "facts": {
+        "one_liner": "White dunes dotted with blue and green rainwater lagoons on Brazil’s north coast.",
+        "why_go": "Lençóis Maranhenses looks like a desert, but it is fed by heavy seasonal rains that fill the hollows between its white sand dunes with thousands of clear freshwater lagoons. The ‘bedsheets’ of sand stretch some 50 km inland from the Atlantic. Lagoa Azul and Lagoa Bonita are the classic swimming spots, reached by 4×4 from Barreirinhas.",
+        "best_time": "June–September, when the lagoons are at their fullest.",
+        "how_to_get_there": "Fly to São Luís, then travel about 4 hours by road to Barreirinhas, the main gateway; tours continue by 4×4 or boat.",
+        "good_to_know": "Visits are by licensed tour. There is no shade on the dunes—bring water, a hat and sunscreen.",
+        "official_or_tourism_url": "https://www.icmbio.gov.br/",
+        "sources": [
+          "https://www.icmbio.gov.br/",
+          "https://en.wikipedia.org/wiki/Len%C3%A7%C3%B3is_Maranhenses_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3AParque_Nacional_dos_Len%C3%A7ois_Maranhenses_Matheus_Hobold_Sovernigo_(02).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Barreirinhas, Maranhão, Brazil",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Barreirinhas%2C%20Maranh%C3%A3o%2C%20Brazil&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Barreirinhas%2C%20Maranh%C3%A3o%2C%20Brazil&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Barreirinhas%2C%20Maranh%C3%A3o%2C%20Brazil&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Barreirinhas"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "parks-070",
+      "tab": "parks",
+      "name": "Tierra del Fuego National Park",
+      "short_line": "Tierra del Fuego, Argentina",
+      "country": "Argentina",
+      "lat": -54.8333,
+      "lng": -68.5,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/PN_Tierra_del_Fuego_%28View_Costera%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/parks/parks-070.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3APN_Tierra_del_Fuego_(View_Costera).jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Butterfly voyages Serge Ouachée",
+        "attribution": "Photo: Butterfly voyages Serge Ouachée, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:PN Tierra del Fuego (View Costera).jpg' (4000×3000) confirms Tierra del Fuego National Park; visually checked on contact sheet. desc: Tierra del Fuego National Park (view of coast)"
+      },
+      "facts": {
+        "one_liner": "Beagle Channel shores and subantarctic forest at the end of the world.",
+        "why_go": "Tierra del Fuego National Park on the Beagle Channel is Argentina’s southernmost national park. Coastal trails wind through southern beech forest to bays dotted with islets, while Lago Roca, Ensenada Zaratiegui and Lapataia Bay—where Argentina’s National Route 3 ends—are classic stops. The Southern Fuegian Railway, the ‘End of the World Train’, also runs into the park.",
+        "best_time": "November–March, the southern summer, for the longest days and mildest weather.",
+        "how_to_get_there": "The park is about 12 km west of Ushuaia, which has flights from Buenos Aires.",
+        "good_to_know": "Weather is changeable even in summer—carry waterproof layers. A park entry fee applies.",
+        "official_or_tourism_url": "https://www.argentina.gob.ar/parquesnacionales/tierradelfuego",
+        "sources": [
+          "https://www.argentina.gob.ar/parquesnacionales/tierradelfuego",
+          "https://en.wikipedia.org/wiki/Tierra_del_Fuego_National_Park",
+          "https://commons.wikimedia.org/wiki/File%3APN_Tierra_del_Fuego_(View_Costera).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Ushuaia, Argentina",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ushuaia%2C%20Argentina&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ushuaia%2C%20Argentina&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ushuaia%2C%20Argentina&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Ushuaia"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:37:32-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    }
+  ]
+}
