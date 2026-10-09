@@ -1,0 +1,1071 @@
+{
+  "id": "islands-set-004",
+  "tab": "islands",
+  "label": "Islands — Set 4 (051–070)",
+  "card_ids": [
+    "islands-051",
+    "islands-052",
+    "islands-053",
+    "islands-054",
+    "islands-055",
+    "islands-056",
+    "islands-057",
+    "islands-058",
+    "islands-059",
+    "islands-060",
+    "islands-061",
+    "islands-062",
+    "islands-063",
+    "islands-064",
+    "islands-065",
+    "islands-066",
+    "islands-067",
+    "islands-068",
+    "islands-069",
+    "islands-070"
+  ],
+  "count": 20,
+  "auditor": "approved — content-to-100 batch: licensed Commons photos visually checked; facts sourced",
+  "created": "2026-10-09T01:46:20-05:00",
+  "cards": [
+    {
+      "id": "islands-051",
+      "tab": "islands",
+      "name": "Crete",
+      "short_line": "Aegean Sea, Greece",
+      "country": "Greece",
+      "lat": 35.517,
+      "lng": 24.017,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Aerial_view_of_the_Old_Venetian_Harbour_in_Chania%2C_Greece.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-051.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_the_Old_Venetian_Harbour_in_Chania,_Greece.jpg",
+        "license": "CC BY 2.0",
+        "author": "dronepicr",
+        "attribution": "Photo: dronepicr, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Aerial view of the Old Venetian Harbour in Chania, Greece.jpg' (5464×3640) confirms Crete; visually checked on contact sheet. desc: Aerial view of the Old Venetian Harbour in Chania, Greece"
+      },
+      "facts": {
+        "one_liner": "Greece’s largest island: Venetian harbours, Minoan palaces and wild gorges.",
+        "why_go": "Crete is the largest Greek island and was the heart of the Minoan civilisation, whose palace at Knossos near Heraklion is one of Europe’s great archaeological sites. Chania’s Old Venetian Harbour, with its lighthouse and pastel waterfront, is one of the most beautiful towns in Greece. Inland, the Samaria Gorge cuts through the White Mountains, and the south coast hides quiet villages and beaches.",
+        "best_time": "May–June and September–October for warm seas without peak crowds; Samaria Gorge usually opens May–October.",
+        "how_to_get_there": "Heraklion (HER) and Chania (CHQ) airports have flights from Athens and across Europe; overnight ferries run from Piraeus.",
+        "good_to_know": "The island is big—allow at least a week and rent a car to explore beyond the north coast.",
+        "official_or_tourism_url": "https://www.incrediblecrete.gr/",
+        "sources": [
+          "https://www.incrediblecrete.gr/",
+          "https://en.wikipedia.org/wiki/Crete",
+          "https://commons.wikimedia.org/wiki/File%3AAerial_view_of_the_Old_Venetian_Harbour_in_Chania,_Greece.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Chania, Crete, Greece",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Chania%2C%20Crete%2C%20Greece&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Chania%2C%20Crete%2C%20Greece&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Chania%2C%20Crete%2C%20Greece&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Chania"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-052",
+      "tab": "islands",
+      "name": "Rhodes",
+      "short_line": "Dodecanese, Greece",
+      "country": "Greece",
+      "lat": 36.17,
+      "lng": 27.92,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lindos_Rhodes_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-052.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ALindos_Rhodes_3.jpg",
+        "license": "CC0",
+        "author": "Jebulon",
+        "attribution": "Photo: Jebulon, CC0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Lindos Rhodes 3.jpg' (4586×2750) confirms Rhodes; visually checked on contact sheet. desc: The village and castle (acropolis) of Lindos, island of Rhodes, Greece."
+      },
+      "facts": {
+        "one_liner": "A medieval knights’ city and the whitewashed village of Lindos under its acropolis.",
+        "why_go": "Rhodes was home to the Knights of St John, and its walled Old Town—a UNESCO World Heritage Site—is one of the best-preserved medieval towns in Europe, with the Palace of the Grand Master and the cobbled Street of the Knights. On the east coast, Lindos is a village of white houses beneath a clifftop acropolis overlooking a turquoise bay.",
+        "best_time": "May–June and September–October; summer is hot and busy.",
+        "how_to_get_there": "Rhodes International Airport (RHO) has flights from Athens and across Europe; ferries connect with Piraeus and other Dodecanese islands.",
+        "good_to_know": "Lindos acropolis has little shade—go early. Donkey rides up the hill are controversial; walking takes about 20 minutes.",
+        "official_or_tourism_url": "https://www.visitgreece.gr/",
+        "sources": [
+          "https://www.visitgreece.gr/",
+          "https://en.wikipedia.org/wiki/Rhodes",
+          "https://commons.wikimedia.org/wiki/File%3ALindos_Rhodes_3.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Rhodes, Greece",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Rhodes%2C%20Greece&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Rhodes%2C%20Greece&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Rhodes%2C%20Greece&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Rhodes"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-053",
+      "tab": "islands",
+      "name": "Corfu",
+      "short_line": "Ionian Islands, Greece",
+      "country": "Greece",
+      "lat": 39.6,
+      "lng": 19.87,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Korfu_%28GR%29%2C_Paleokastritsa_--_2018_--_1235.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-053.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AKorfu_(GR),_Paleokastritsa_--_2018_--_1235.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Dietmar Rabich",
+        "attribution": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Korfu (GR), Paleokastritsa -- 2018 -- 1235.jpg' (6720×4480) confirms Corfu; visually checked on contact sheet. desc: Coast in Paleokastritsa, Corfu, Greece"
+      },
+      "facts": {
+        "one_liner": "Green hills, Venetian-era old town and the coves of Paleokastritsa.",
+        "why_go": "Corfu is the greenest of the Greek islands, covered in olive groves and cypress trees. Its Old Town, a UNESCO World Heritage Site, shows Venetian, French and British influences, with two fortresses and the arcaded Liston. On the west coast, Paleokastritsa is a cluster of coves with clear water below a hilltop monastery.",
+        "best_time": "May–June and September–October.",
+        "how_to_get_there": "Corfu Airport (CFU) has flights from Athens and around Europe; ferries run from Igoumenitsa and Italian ports.",
+        "good_to_know": "Boat trips from Paleokastritsa visit sea caves. Roads are narrow and winding.",
+        "official_or_tourism_url": "https://www.visitgreece.gr/",
+        "sources": [
+          "https://www.visitgreece.gr/",
+          "https://en.wikipedia.org/wiki/Corfu",
+          "https://commons.wikimedia.org/wiki/File%3AKorfu_(GR),_Paleokastritsa_--_2018_--_1235.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Corfu, Greece",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Corfu%2C%20Greece&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Corfu%2C%20Greece&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Corfu%2C%20Greece&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Corfu"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-054",
+      "tab": "islands",
+      "name": "Naxos",
+      "short_line": "Cyclades, Greece",
+      "country": "Greece",
+      "lat": 37.0875,
+      "lng": 25.4039,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Naxos_%CE%9D%CE%AC%CE%BE%CE%BF%CF%82_Chora_2020-08-20_34_Portara_%CE%A0%CE%BF%CF%81%CF%84%CE%AC%CF%81%CE%B1_Blues_Star_Ferry_Delos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-054.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ANaxos_%CE%9D%CE%AC%CE%BE%CE%BF%CF%82_Chora_2020-08-20_34_Portara_%CE%A0%CE%BF%CF%81%CF%84%CE%AC%CF%81%CE%B1_Blues_Star_Ferry_Delos.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Manfred Werner (Tsui)",
+        "attribution": "Photo: Manfred Werner (Tsui), CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Naxos Νάξος Chora 2020-08-20 34 Portara Πορτάρα Blues Star Ferry Delos.jpg' (5400×3600) confirms Naxos; visually checked on contact sheet. desc: View through Portara on the peninsula Palátia towards Chora of Naxos with Blue Star Ferries' Delos at the port (Naxos island, Naxos and Lesser Cyclades/Cyclades"
+      },
+      "facts": {
+        "one_liner": "The Portara marble gateway, a hilltop Venetian Chora and long sandy beaches.",
+        "why_go": "Naxos is the largest of the Cyclades. The Portara, a huge marble doorway from an unfinished 6th-century BC temple of Apollo, stands on an islet joined to Naxos Town. Above the harbour, the Venetian Kastro crowns the old town. The west coast has some of the best beaches in the Cyclades, and mountain villages like Halki and Apeiranthos are worth exploring.",
+        "best_time": "May–June and September–October.",
+        "how_to_get_there": "Ferries from Piraeus take about 3.5–6 hours; flights from Athens take under an hour.",
+        "good_to_know": "The Portara is a classic sunset spot—arrive early to get a place.",
+        "official_or_tourism_url": "https://www.visitgreece.gr/",
+        "sources": [
+          "https://www.visitgreece.gr/",
+          "https://en.wikipedia.org/wiki/Naxos",
+          "https://commons.wikimedia.org/wiki/File%3ANaxos_%CE%9D%CE%AC%CE%BE%CE%BF%CF%82_Chora_2020-08-20_34_Portara_%CE%A0%CE%BF%CF%81%CF%84%CE%AC%CF%81%CE%B1_Blues_Star_Ferry_Delos.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Naxos, Greece",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Naxos%2C%20Greece&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Naxos%2C%20Greece&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Naxos%2C%20Greece&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Naxos"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-055",
+      "tab": "islands",
+      "name": "Sardinia",
+      "short_line": "Mediterranean Sea, Italy",
+      "country": "Italy",
+      "lat": 40,
+      "lng": 9,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Costa_Smeralda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-055.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACosta_Smeralda.jpg",
+        "license": "CC0",
+        "author": "Ökologix",
+        "attribution": "Photo: Ökologix, CC0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Costa Smeralda.jpg' (3264×2448) confirms Sardinia; visually checked on contact sheet. desc: Blick Richtung Südosten von der Strada Provinciale 94, ca. 3 km vor Abbiadori. Von vorn zum Hintergrund: Landzunge Petra Ruja, Halbinsel Golfo Aranci, Insel Iso"
+      },
+      "facts": {
+        "one_liner": "Emerald coves, granite headlands and ancient nuraghi.",
+        "why_go": "Sardinia is the second-largest island in the Mediterranean. The Costa Smeralda in the north-east is famous for granite headlands and clear water, while the interior is scattered with thousands of Bronze Age stone towers called nuraghi; Su Nuraxi di Barumini is a UNESCO World Heritage Site. The La Maddalena archipelago is a national park.",
+        "best_time": "June and September for warm seas; spring for hiking and wildflowers.",
+        "how_to_get_there": "Airports at Olbia, Alghero and Cagliari; ferries from Genoa, Livorno, Civitavecchia and other ports.",
+        "good_to_know": "Distances are long and public transport is limited—rent a car.",
+        "official_or_tourism_url": "https://www.sardegnaturismo.it/en",
+        "sources": [
+          "https://www.sardegnaturismo.it/en",
+          "https://en.wikipedia.org/wiki/Sardinia",
+          "https://commons.wikimedia.org/wiki/File%3ACosta_Smeralda.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Olbia, Sardinia, Italy",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Olbia%2C%20Sardinia%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Olbia%2C%20Sardinia%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Olbia%2C%20Sardinia%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Olbia"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-056",
+      "tab": "islands",
+      "name": "Elba",
+      "short_line": "Tuscan Archipelago, Italy",
+      "country": "Italy",
+      "lat": 42.78,
+      "lng": 10.275,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Elba_-_Chiessi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-056.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AElba_-_Chiessi.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Ingo Mehling",
+        "attribution": "Photo: Ingo Mehling, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Elba - Chiessi.jpg' (6610×3711) confirms Elba; visually checked on contact sheet. desc: Elba - View on Chiessi"
+      },
+      "facts": {
+        "one_liner": "Napoleon’s island of exile: hillside villages and clear Tuscan sea.",
+        "why_go": "Elba is the largest island of the Tuscan Archipelago and part of a national park. Napoleon was exiled here in 1814–15, and his residences can be visited. The island has mountain villages, such as Chiessi on the wild west coast, and beaches with clear water. Monte Capanne, its highest peak, can be climbed or reached by cable car.",
+        "best_time": "May–June and September for warm seas.",
+        "how_to_get_there": "Ferries from Piombino reach Portoferraio in about 1 hour.",
+        "good_to_know": "Book car ferries ahead in August.",
+        "official_or_tourism_url": "https://www.visitelba.info/en/",
+        "sources": [
+          "https://www.visitelba.info/en/",
+          "https://en.wikipedia.org/wiki/Elba",
+          "https://commons.wikimedia.org/wiki/File%3AElba_-_Chiessi.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Portoferraio, Elba, Italy",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Portoferraio%2C%20Elba%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Portoferraio%2C%20Elba%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Portoferraio%2C%20Elba%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Portoferraio"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-057",
+      "tab": "islands",
+      "name": "Ischia",
+      "short_line": "Bay of Naples, Italy",
+      "country": "Italy",
+      "lat": 40.7312,
+      "lng": 13.8957,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Aragonese_Castle_Island_of_Ischia_%2853929679155%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-057.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AAragonese_Castle_Island_of_Ischia_(53929679155).jpg",
+        "license": "CC BY 2.0",
+        "author": "Steve Jurvetson",
+        "attribution": "Photo: Steve Jurvetson, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Aragonese Castle Island of Ischia (53929679155).jpg' (2978×1680) confirms Ischia; visually checked on contact sheet. desc: Finally saw The Talented Mr. Ripley after many suggested it. We were at the same Italian island of Ischia this summer.\nWhile the movie has a dark and disturbing"
+      },
+      "facts": {
+        "one_liner": "Thermal springs and a castle on a rock in the Bay of Naples.",
+        "why_go": "Ischia is the largest island in the Bay of Naples and a volcanic one, famous for hot springs that feed dozens of thermal gardens and spas. The medieval Aragonese Castle rises on a rocky islet joined to Ischia Ponte by a stone causeway, while the gardens of La Mortella, created by the composer William Walton’s wife Susana, and the car-free fishing village of Sant’Angelo are highlights. Monte Epomeo gives views across the bay.",
+        "best_time": "May–June and September–October.",
+        "how_to_get_there": "Ferries and hydrofoils from Naples and Pozzuoli take about 1 hour.",
+        "good_to_know": "Thermal parks charge entrance fees. Summer weekends are busy.",
+        "official_or_tourism_url": "https://en.wikipedia.org/wiki/Ischia",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ischia",
+          "https://commons.wikimedia.org/wiki/File%3AAragonese_Castle_Island_of_Ischia_(53929679155).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Ischia, Italy",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Ischia%2C%20Italy&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Ischia%2C%20Italy&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Ischia%2C%20Italy&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Ischia"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-058",
+      "tab": "islands",
+      "name": "Mallorca",
+      "short_line": "Balearic Islands, Spain",
+      "country": "Spain",
+      "lat": 39.6167,
+      "lng": 2.9833,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Carretera_de_la_Calobra_msu-2018-4033.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-058.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ACarretera_de_la_Calobra_msu-2018-4033.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "User:Matthias Süßen",
+        "attribution": "Photo: User:Matthias Süßen, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Carretera de la Calobra msu-2018-4033.jpg' (6000×4000) confirms Mallorca; visually checked on contact sheet. desc: Road to Sa Calobra, known as the tie knot, Serra de Tramuntana, Mallorca, Spain"
+      },
+      "facts": {
+        "one_liner": "Mountain roads, hidden coves and the Gothic cathedral of Palma.",
+        "why_go": "Mallorca is the largest of Spain’s Balearic Islands. In the north-west, the Serra de Tramuntana—a UNESCO World Heritage cultural landscape—is crossed by dramatic roads such as the hairpin descent to the cove of Sa Calobra, and dotted with stone villages like Valldemossa and Deià. Palma, the capital, is crowned by its Gothic cathedral, La Seu, and the coast is lined with turquoise calas.",
+        "best_time": "April–June and September–October.",
+        "how_to_get_there": "Palma de Mallorca Airport (PMI) has flights across Europe; ferries from Barcelona and Valencia.",
+        "good_to_know": "Cyclists use the mountain roads—drive with care.",
+        "official_or_tourism_url": "https://www.illesbalears.travel/",
+        "sources": [
+          "https://www.illesbalears.travel/",
+          "https://en.wikipedia.org/wiki/Mallorca",
+          "https://commons.wikimedia.org/wiki/File%3ACarretera_de_la_Calobra_msu-2018-4033.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Palma, Mallorca, Spain",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Palma%2C%20Mallorca%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Palma%2C%20Mallorca%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Palma%2C%20Mallorca%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Palma"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-059",
+      "tab": "islands",
+      "name": "Menorca",
+      "short_line": "Balearic Islands, Spain",
+      "country": "Spain",
+      "lat": 39.9667,
+      "lng": 4.0833,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Menorca_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-059.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMenorca_2.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Feranza",
+        "attribution": "Photo: Feranza, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Menorca 2.jpg' (4128×2322) confirms Menorca; visually checked on contact sheet. desc: Playa"
+      },
+      "facts": {
+        "one_liner": "A quieter Balearic island with turquoise coves and ancient monuments.",
+        "why_go": "Menorca is a UNESCO Biosphere Reserve and the most tranquil of the major Balearic Islands, with turquoise coves reached by the long-distance Camí de Cavalls path. The island is dotted with prehistoric monuments—stone towers, T-shaped taula enclosures and burial chambers—inscribed as Talaiotic Menorca on the UNESCO World Heritage List in 2023. Mahón sits on one of the world’s largest natural harbours, and Ciutadella has a charming old town.",
+        "best_time": "May–June and September.",
+        "how_to_get_there": "Menorca Airport (MAH) near Mahón; ferries from Barcelona and Mallorca.",
+        "good_to_know": "Access to some popular coves is restricted in summer—check parking rules.",
+        "official_or_tourism_url": "https://www.menorca.es/",
+        "sources": [
+          "https://www.menorca.es/",
+          "https://en.wikipedia.org/wiki/Menorca",
+          "https://commons.wikimedia.org/wiki/File%3AMenorca_2.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Mahón, Menorca, Spain",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Mah%C3%B3n%2C%20Menorca%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Mah%C3%B3n%2C%20Menorca%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Mah%C3%B3n%2C%20Menorca%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Mahón"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-060",
+      "tab": "islands",
+      "name": "Lanzarote",
+      "short_line": "Canary Islands, Spain",
+      "country": "Spain",
+      "lat": 29.035,
+      "lng": -13.635,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Lanzarote_Landscape_%2833620199613%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-060.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ALanzarote_Landscape_(33620199613).jpg",
+        "license": "CC BY 2.0",
+        "author": "kuhnmi",
+        "attribution": "Photo: kuhnmi, CC BY 2.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Lanzarote Landscape (33620199613).jpg' (5621×3162) confirms Lanzarote; visually checked on contact sheet. desc: Volcanic landscape on Lanzarote, Canary Islands, Spain."
+      },
+      "facts": {
+        "one_liner": "Volcanic landscapes and whitewashed villages shaped by César Manrique.",
+        "why_go": "Lanzarote is a volcanic island and UNESCO Biosphere Reserve shaped by eruptions in the 1730s that buried villages under the lava fields now protected in Timanfaya National Park. Artist César Manrique championed the island’s low-rise white villages and created landmarks such as the Jameos del Agua lava cave and the Mirador del Río. In La Geria, vines grow in black ash pits sheltered by stone walls.",
+        "best_time": "Year-round; spring and autumn are pleasant.",
+        "how_to_get_there": "Lanzarote Airport (ACE) has flights from mainland Spain and across Europe.",
+        "good_to_know": "Timanfaya National Park is visited by coach tour from the visitor centre.",
+        "official_or_tourism_url": "https://www.turismolanzarote.com/en/",
+        "sources": [
+          "https://www.turismolanzarote.com/en/",
+          "https://en.wikipedia.org/wiki/Lanzarote",
+          "https://commons.wikimedia.org/wiki/File%3ALanzarote_Landscape_(33620199613).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Arrecife, Lanzarote, Spain",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Arrecife%2C%20Lanzarote%2C%20Spain&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Arrecife%2C%20Lanzarote%2C%20Spain&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Arrecife%2C%20Lanzarote%2C%20Spain&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Arrecife"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-061",
+      "tab": "islands",
+      "name": "Isle of Harris",
+      "short_line": "Outer Hebrides, Scotland",
+      "country": "United Kingdom",
+      "lat": 57.91,
+      "lng": -6.83,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Luskentyre_Beach%2C_Lewis_and_Harris%2C_The_Outer_Hebrides%2C_Scotland_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-061.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ALuskentyre_Beach,_Lewis_and_Harris,_The_Outer_Hebrides,_Scotland_(4).jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Thomas Andy Branson",
+        "attribution": "Photo: Thomas Andy Branson, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Luskentyre Beach, Lewis and Harris, The Outer Hebrides, Scotland (4).jpg' (2000×1500) confirms Isle of Harris; visually checked on contact sheet. desc: Luskentyre Beach, Lewis and Harris, The Outer Hebrides, Scotland, Photo by Thomas Andy Branson (4)"
+      },
+      "facts": {
+        "one_liner": "White sand beaches and turquoise water against the hills of the Outer Hebrides.",
+        "why_go": "Harris, the southern part of the island of Lewis and Harris in the Outer Hebrides, is known for beaches like Luskentyre and Seilebost, whose white sand and turquoise water look tropical on a sunny day. The rocky east coast is followed by the twisting Golden Road, and Harris Tweed is still woven by hand in islanders’ homes. Traditions are strong, and Gaelic is widely spoken.",
+        "best_time": "May–September for longer days.",
+        "how_to_get_there": "Ferries from Uig on Skye to Tarbert take about 1 hour 40 minutes.",
+        "good_to_know": "Book ferries ahead in summer. Shops close on Sundays.",
+        "official_or_tourism_url": "https://www.visitouterhebrides.co.uk/",
+        "sources": [
+          "https://www.visitouterhebrides.co.uk/",
+          "https://en.wikipedia.org/wiki/Harris%2C_Outer_Hebrides",
+          "https://commons.wikimedia.org/wiki/File%3ALuskentyre_Beach,_Lewis_and_Harris,_The_Outer_Hebrides,_Scotland_(4).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Tarbert, Harris, Scotland",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Tarbert%2C%20Harris%2C%20Scotland&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Tarbert%2C%20Harris%2C%20Scotland&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Tarbert%2C%20Harris%2C%20Scotland&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Tarbert"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-062",
+      "tab": "islands",
+      "name": "Orkney Mainland",
+      "short_line": "Orkney, Scotland",
+      "country": "United Kingdom",
+      "lat": 59,
+      "lng": -3.1,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Ring_of_Brodgar%2C_Orkney.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-062.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ARing_of_Brodgar,_Orkney.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Stevekeiretsu",
+        "attribution": "Photo: Stevekeiretsu, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Ring of Brodgar, Orkney.jpg' (4288×2848) confirms Orkney Mainland; visually checked on contact sheet. desc: This is a photo of scheduled monument number"
+      },
+      "facts": {
+        "one_liner": "Neolithic stone circles and villages older than the pyramids.",
+        "why_go": "Orkney’s Mainland is home to the Heart of Neolithic Orkney UNESCO World Heritage Site: the Ring of Brodgar stone circle, the Standing Stones of Stenness, the chambered tomb of Maeshowe and Skara Brae, a 5,000-year-old village older than Stonehenge and the Great Pyramid. Kirkwall has the red-sandstone St Magnus Cathedral, and Stromness is a harbour town with stone lanes.",
+        "best_time": "May–September.",
+        "how_to_get_there": "Ferries from Scrabster, Aberdeen or Gills Bay; flights to Kirkwall from Scottish cities.",
+        "good_to_know": "Maeshowe visits must be booked.",
+        "official_or_tourism_url": "https://www.orkney.com/",
+        "sources": [
+          "https://www.orkney.com/",
+          "https://en.wikipedia.org/wiki/Mainland%2C_Orkney",
+          "https://commons.wikimedia.org/wiki/File%3ARing_of_Brodgar,_Orkney.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Kirkwall, Orkney, Scotland",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kirkwall%2C%20Orkney%2C%20Scotland&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kirkwall%2C%20Orkney%2C%20Scotland&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kirkwall%2C%20Orkney%2C%20Scotland&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Kirkwall"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-063",
+      "tab": "islands",
+      "name": "Aran Islands",
+      "short_line": "Galway Bay, Ireland",
+      "country": "Ireland",
+      "lat": 53.0971,
+      "lng": -9.6326,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Wide_angle_view_from_the_stone_walls_of_D%C3%BAn_Aonghasa_fort%2C_Inishmore%2C_Aran_Islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-063.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AWide_angle_view_from_the_stone_walls_of_D%C3%BAn_Aonghasa_fort,_Inishmore,_Aran_Islands.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Annie Japaud",
+        "attribution": "Photo: Annie Japaud, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Wide angle view from the stone walls of Dún Aonghasa fort, Inishmore, Aran Islands.jpg' (5591×3727) confirms Aran Islands; visually checked on contact sheet. desc: Beautiful and barren stony landscape of Inishmore the biggest of the Aran Islands, Galway county, Ireland"
+      },
+      "facts": {
+        "one_liner": "Stone walls, Irish-speaking villages and a clifftop prehistoric fort.",
+        "why_go": "The three Aran Islands—Inis Mór, Inis Meáin and Inis Oírr—lie at the mouth of Galway Bay. Inis Mór’s Dún Aonghasa is a prehistoric stone fort on the edge of a cliff about 100 metres above the Atlantic. Irish is spoken on the islands, and a maze of stone walls divides the fields.",
+        "best_time": "May–September.",
+        "how_to_get_there": "Ferries from Rossaveal and Doolin; flights from Connemara Airport.",
+        "good_to_know": "Rent a bicycle on Inis Mór. The cliff edges at Dún Aonghasa have no railings.",
+        "official_or_tourism_url": "https://www.aranislands.ie/",
+        "sources": [
+          "https://www.aranislands.ie/",
+          "https://en.wikipedia.org/wiki/Aran_Islands",
+          "https://commons.wikimedia.org/wiki/File%3AWide_angle_view_from_the_stone_walls_of_D%C3%BAn_Aonghasa_fort,_Inishmore,_Aran_Islands.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Inis Mór, Aran Islands, Ireland",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Inis%20M%C3%B3r%2C%20Aran%20Islands%2C%20Ireland&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Inis%20M%C3%B3r%2C%20Aran%20Islands%2C%20Ireland&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Inis%20M%C3%B3r%2C%20Aran%20Islands%2C%20Ireland&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Inis Mór"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-064",
+      "tab": "islands",
+      "name": "Bornholm",
+      "short_line": "Baltic Sea, Denmark",
+      "country": "Denmark",
+      "lat": 55.1333,
+      "lng": 14.9167,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bornholm_Hammershus_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-064.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ABornholm_Hammershus_02.jpg",
+        "license": "CC BY 4.0",
+        "author": "Unukorno",
+        "attribution": "Photo: Unukorno, CC BY 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Bornholm Hammershus 02.jpg' (3898×2598) confirms Bornholm; visually checked on contact sheet. desc: Hammershus castle on Bornholm in Denmark"
+      },
+      "facts": {
+        "one_liner": "Round churches, granite cliffs and Northern Europe’s largest castle ruin.",
+        "why_go": "Bornholm is a Danish island in the Baltic Sea, closer to Sweden than to Copenhagen. On its granite northern cliffs stands Hammershus, the largest castle ruin in Northern Europe. The island has four distinctive whitewashed round churches, fishing villages with smokehouses producing smoked herring, and the fine white sand of Dueodde beach.",
+        "best_time": "June–August.",
+        "how_to_get_there": "Ferries from Ystad in Sweden; flights from Copenhagen.",
+        "good_to_know": "Bornholm is great for cycling.",
+        "official_or_tourism_url": "https://www.bornholm.info/en/",
+        "sources": [
+          "https://www.bornholm.info/en/",
+          "https://en.wikipedia.org/wiki/Bornholm",
+          "https://commons.wikimedia.org/wiki/File%3ABornholm_Hammershus_02.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Rønne, Bornholm, Denmark",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=R%C3%B8nne%2C%20Bornholm%2C%20Denmark&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=R%C3%B8nne%2C%20Bornholm%2C%20Denmark&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=R%C3%B8nne%2C%20Bornholm%2C%20Denmark&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Rønne"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-065",
+      "tab": "islands",
+      "name": "Korčula",
+      "short_line": "Dalmatia, Croatia",
+      "country": "Croatia",
+      "lat": 42.95,
+      "lng": 16.9,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Kor%C4%8Dula_Old_Town%2C_Croatia_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-065.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AKor%C4%8Dula_Old_Town,_Croatia_(2024).jpg",
+        "license": "CC BY 4.0",
+        "author": "Quintin Soloviev",
+        "attribution": "Photo: Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Korčula Old Town, Croatia (2024).jpg' (7261×5594) confirms Korčula; visually checked on contact sheet. desc: Korčula Old Town (2024)"
+      },
+      "facts": {
+        "one_liner": "A walled medieval town on a peninsula, said to be Marco Polo’s birthplace.",
+        "why_go": "Korčula Town sits on a small peninsula, encircled by medieval walls and laid out in a herringbone pattern of streets that catch the breeze. Locals claim Marco Polo was born here, and the Moreška sword dance has been performed for centuries. The island produces white wines from the Pošip and Grk grapes, and quiet coves line its coast.",
+        "best_time": "May–June and September.",
+        "how_to_get_there": "Ferries and catamarans from Split and Dubrovnik; car ferry from Orebić.",
+        "good_to_know": "Old Town gets busy in summer.",
+        "official_or_tourism_url": "https://www.visitkorcula.eu/",
+        "sources": [
+          "https://www.visitkorcula.eu/",
+          "https://en.wikipedia.org/wiki/Kor%C4%8Dula",
+          "https://commons.wikimedia.org/wiki/File%3AKor%C4%8Dula_Old_Town,_Croatia_(2024).jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Korčula, Croatia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kor%C4%8Dula%2C%20Croatia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kor%C4%8Dula%2C%20Croatia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kor%C4%8Dula%2C%20Croatia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Korčula"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-066",
+      "tab": "islands",
+      "name": "Martha's Vineyard",
+      "short_line": "Massachusetts, United States",
+      "country": "United States",
+      "lat": 41.4,
+      "lng": -70.6167,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gay_Head_Cliffs_-_Aquinnah_-_Martha%27s_Vineyard_-_MA_-_USA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-066.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AGay_Head_Cliffs_-_Aquinnah_-_Martha's_Vineyard_-_MA_-_USA.jpg",
+        "license": "CC BY 2.5",
+        "author": "Alberto Fernandez Fernandez",
+        "attribution": "Photo: Alberto Fernandez Fernandez, CC BY 2.5, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Gay Head Cliffs - Aquinnah - Martha's Vineyard - MA - USA.jpg' (1900×1266) confirms Martha's Vineyard; visually checked on contact sheet. desc: Gay Head Cliffs - Aquinnah - Martha's Vineyard - Massachusetts  - USA.\nThese beautiful clay cliffs are located on Martha's Vineyard in Dukes County, close to Aq"
+      },
+      "facts": {
+        "one_liner": "Gingerbread cottages, lighthouses and the clay cliffs of Aquinnah.",
+        "why_go": "Martha’s Vineyard, off Cape Cod, is a summer island of distinct villages: Oak Bluffs with its colourful gingerbread cottages, Edgartown with white whaling captains’ houses and a lighthouse, and Aquinnah, where colourful clay cliffs rise above the Atlantic. The cliffs are sacred to the Wampanoag Tribe and are a National Natural Landmark.",
+        "best_time": "June–September.",
+        "how_to_get_there": "Ferries from Woods Hole take about 45 minutes; flights from Boston.",
+        "good_to_know": "Book car ferry reservations far ahead in summer. Climbing the cliffs is prohibited.",
+        "official_or_tourism_url": "https://www.mvy.com/",
+        "sources": [
+          "https://www.mvy.com/",
+          "https://en.wikipedia.org/wiki/Martha%27s_Vineyard",
+          "https://commons.wikimedia.org/wiki/File%3AGay_Head_Cliffs_-_Aquinnah_-_Martha's_Vineyard_-_MA_-_USA.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Oak Bluffs, Massachusetts, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Oak%20Bluffs%2C%20Massachusetts%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Oak%20Bluffs%2C%20Massachusetts%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Oak%20Bluffs%2C%20Massachusetts%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Oak Bluffs"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY 2.5 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-067",
+      "tab": "islands",
+      "name": "Nantucket",
+      "short_line": "Massachusetts, United States",
+      "country": "United States",
+      "lat": 41.2828,
+      "lng": -70.0994,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Nantucket-08-2004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-067.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3ANantucket-08-2004.jpg",
+        "license": "CC BY-SA 2.5",
+        "author": "The original uploader was Bobak at English Wikipedia.",
+        "attribution": "Photo: The original uploader was Bobak at English Wikipedia., CC BY-SA 2.5, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Nantucket-08-2004.jpg' (1280×960) confirms Nantucket; visually checked on contact sheet. desc: en:Nantucket, Massachusetts.  Photo taken by Bobak Ha'Eri, August 2004.  Please observe license and properly cite in use outside Wikipedia."
+      },
+      "facts": {
+        "one_liner": "A historic whaling island of grey-shingled houses and cobblestone streets.",
+        "why_go": "Thirty miles out to sea from Cape Cod, Nantucket was the world’s whaling capital in the late 18th and early 19th centuries. The entire island is a National Historic Landmark district, with grey-shingled houses, cobblestone Main Street and three lighthouses. The Whaling Museum tells the story that inspired Moby-Dick, and beaches and moors cover much of the island.",
+        "best_time": "June–September; December for the Christmas Stroll.",
+        "how_to_get_there": "Ferries from Hyannis take 1–2.25 hours.",
+        "good_to_know": "Rent bikes to explore.",
+        "official_or_tourism_url": "https://www.nantucketchamber.org/",
+        "sources": [
+          "https://www.nantucketchamber.org/",
+          "https://en.wikipedia.org/wiki/Nantucket",
+          "https://commons.wikimedia.org/wiki/File%3ANantucket-08-2004.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Nantucket, Massachusetts, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Nantucket%2C%20Massachusetts%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Nantucket%2C%20Massachusetts%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Nantucket%2C%20Massachusetts%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Nantucket"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 2.5 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-068",
+      "tab": "islands",
+      "name": "Mackinac Island",
+      "short_line": "Michigan, United States",
+      "country": "United States",
+      "lat": 45.8611,
+      "lng": -84.6306,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Mackinac_Island_Main_Street.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-068.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMackinac_Island_Main_Street.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Mnanian",
+        "attribution": "Photo: Mnanian, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Mackinac Island Main Street.jpg' (2997×2386) confirms Mackinac Island; visually checked on contact sheet. desc: No cars are allowed on this island, so horse-drawn carriages or bicycles are the mode of transportation."
+      },
+      "facts": {
+        "one_liner": "A car-free island of horse carriages, Victorian cottages and fudge shops.",
+        "why_go": "Motor vehicles have been banned on Mackinac Island, in Lake Huron, since 1898, so the island moves by horse-drawn carriage, bicycle and on foot. Victorian cottages line the bluffs, the Grand Hotel claims the world’s longest porch, and Fort Mackinac overlooks the harbour. Most of the island is a state park, and fudge shops line Main Street.",
+        "best_time": "June–August; September for fewer crowds.",
+        "how_to_get_there": "Ferries from Mackinaw City and St. Ignace.",
+        "good_to_know": "The 8-mile road around the island is popular by bicycle.",
+        "official_or_tourism_url": "https://www.mackinacisland.org/",
+        "sources": [
+          "https://www.mackinacisland.org/",
+          "https://en.wikipedia.org/wiki/Mackinac_Island",
+          "https://commons.wikimedia.org/wiki/File%3AMackinac_Island_Main_Street.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Mackinac Island, Michigan, United States",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Mackinac%20Island%2C%20Michigan%2C%20United%20States&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Mackinac%20Island%2C%20Michigan%2C%20United%20States&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Mackinac%20Island%2C%20Michigan%2C%20United%20States&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Mackinac Island"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-069",
+      "tab": "islands",
+      "name": "Prince Edward Island",
+      "short_line": "Atlantic Canada",
+      "country": "Canada",
+      "lat": 46.4,
+      "lng": -63.2,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Green_Gables_House_backyard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-069.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AGreen_Gables_House_backyard.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Markus Gregory",
+        "attribution": "Photo: Markus Gregory, CC BY-SA 3.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Green Gables House backyard.jpg' (4928×3280) confirms Prince Edward Island; visually checked on contact sheet. desc: Green Gables House, Cavendish, P.E.I."
+      },
+      "facts": {
+        "one_liner": "Red-sand shores, farmland and the home of Anne of Green Gables.",
+        "why_go": "Prince Edward Island, Canada’s smallest province, is known for red sandstone cliffs, sandy beaches and patchwork farmland. Green Gables Heritage Place in Cavendish preserves the farmhouse that inspired Lucy Maud Montgomery’s Anne of Green Gables, and Prince Edward Island National Park protects dunes along the north shore. Charlottetown hosted the 1864 conference that led to Canadian Confederation.",
+        "best_time": "June–September.",
+        "how_to_get_there": "Drive across the Confederation Bridge or take a ferry from Nova Scotia; flights to Charlottetown.",
+        "good_to_know": "Try PEI mussels and lobster suppers.",
+        "official_or_tourism_url": "https://www.tourismpei.com/",
+        "sources": [
+          "https://www.tourismpei.com/",
+          "https://en.wikipedia.org/wiki/Prince_Edward_Island",
+          "https://commons.wikimedia.org/wiki/File%3AGreen_Gables_House_backyard.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Charlottetown, Prince Edward Island, Canada",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Charlottetown%2C%20Prince%20Edward%20Island%2C%20Canada&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Charlottetown%2C%20Prince%20Edward%20Island%2C%20Canada&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Charlottetown%2C%20Prince%20Edward%20Island%2C%20Canada&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Charlottetown"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    },
+    {
+      "id": "islands-070",
+      "tab": "islands",
+      "name": "Cape Breton Island",
+      "short_line": "Nova Scotia, Canada",
+      "country": "Canada",
+      "lat": 46.295,
+      "lng": -60.67,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Autumn_on_the_Cabot_Trail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/islands/islands-070.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AAutumn_on_the_Cabot_Trail.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Eric Van Lochem",
+        "attribution": "Photo: Eric Van Lochem, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Autumn on the Cabot Trail.jpg' (4916×3248) confirms Cape Breton Island; visually checked on contact sheet. desc: A section of Nova Scotia's Cabot Trail in Cape Breton Highlands National Park."
+      },
+      "facts": {
+        "one_liner": "The Cabot Trail’s cliffs, highlands and Celtic music.",
+        "why_go": "Cape Breton Island is famous for the Cabot Trail, a road loop that climbs the cliffs and highlands of Cape Breton Highlands National Park above the Gulf of St. Lawrence. Whales can be seen offshore, and Gaelic and Acadian cultures thrive in fiddle music and ceilidhs—celebrated at the Celtic Colours festival each October, when autumn colours peak.",
+        "best_time": "September–October for autumn colour.",
+        "how_to_get_there": "Drive across the Canso Causeway from mainland Nova Scotia.",
+        "good_to_know": "Allow 2–3 days for the Cabot Trail.",
+        "official_or_tourism_url": "https://www.cbisland.com/",
+        "sources": [
+          "https://www.cbisland.com/",
+          "https://en.wikipedia.org/wiki/Cape_Breton_Island",
+          "https://commons.wikimedia.org/wiki/File%3AAutumn_on_the_Cabot_Trail.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Baddeck, Nova Scotia, Canada",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Baddeck%2C%20Nova%20Scotia%2C%20Canada&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Baddeck%2C%20Nova%20Scotia%2C%20Canada&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Baddeck%2C%20Nova%20Scotia%2C%20Canada&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Baddeck"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:46:20-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    }
+  ]
+}

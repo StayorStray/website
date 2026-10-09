@@ -1237,9 +1237,9 @@
     "islands": {
       "live_file": "data/islands.json",
       "archive_dir": "data/decks/islands/",
-      "approved_count": 50,
+      "approved_count": 100,
       "catalog_target": 100,
-      "scale_target_met": false,
+      "scale_target_met": true,
       "mvp_ready": true,
       "sets": [
         {
@@ -1315,10 +1315,84 @@
             "islands-049",
             "islands-050"
           ]
+        },
+        {
+          "id": "islands-set-004",
+          "file": "set-004.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "islands-051",
+            "islands-052",
+            "islands-053",
+            "islands-054",
+            "islands-055",
+            "islands-056",
+            "islands-057",
+            "islands-058",
+            "islands-059",
+            "islands-060",
+            "islands-061",
+            "islands-062",
+            "islands-063",
+            "islands-064",
+            "islands-065",
+            "islands-066",
+            "islands-067",
+            "islands-068",
+            "islands-069",
+            "islands-070"
+          ]
+        },
+        {
+          "id": "islands-set-005",
+          "file": "set-005.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "islands-071",
+            "islands-072",
+            "islands-073",
+            "islands-074",
+            "islands-075",
+            "islands-076",
+            "islands-077",
+            "islands-078",
+            "islands-079",
+            "islands-080",
+            "islands-081",
+            "islands-082",
+            "islands-083",
+            "islands-084",
+            "islands-085",
+            "islands-086",
+            "islands-087",
+            "islands-088",
+            "islands-089",
+            "islands-090"
+          ]
+        },
+        {
+          "id": "islands-set-006",
+          "file": "set-006.json",
+          "status": "approved",
+          "count": 10,
+          "card_ids": [
+            "islands-091",
+            "islands-092",
+            "islands-093",
+            "islands-094",
+            "islands-095",
+            "islands-096",
+            "islands-097",
+            "islands-098",
+            "islands-099",
+            "islands-100"
+          ]
         }
       ],
-      "latest_set": "set-003",
-      "next": "Islands 051\u2013100 toward 100 (catalog honesty: 50\u2260100)"
+      "latest_set": "set-006",
+      "next": "islands DONE 100/100"
     },
     "luxury": {
       "live_file": "data/luxury.json",
@@ -1424,5 +1498,5 @@
     "stray_key": "sos_stray_list",
     "scope": "on-device localStorage only; keyed by place id; survives daily rotation"
   },
-  "updated_at": "2026-10-09T01:41:35-05:00"
+  "updated_at": "2026-10-09T01:46:20-05:00"
 }
