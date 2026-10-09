@@ -160,9 +160,9 @@
     "cities": {
       "live_file": "data/cities.json",
       "archive_dir": "data/decks/cities/",
-      "approved_count": 59,
+      "approved_count": 100,
       "catalog_target": 100,
-      "scale_target_met": false,
+      "scale_target_met": true,
       "mvp_ready": true,
       "sets": [
         {
@@ -224,9 +224,75 @@
             "cities-060"
           ],
           "note": "Belgrade (cities-054) rejected and excluded."
+        },
+        {
+          "id": "cities-set-004",
+          "file": "set-004.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "cities-061",
+            "cities-062",
+            "cities-063",
+            "cities-064",
+            "cities-065",
+            "cities-066",
+            "cities-067",
+            "cities-068",
+            "cities-069",
+            "cities-070",
+            "cities-071",
+            "cities-072",
+            "cities-073",
+            "cities-074",
+            "cities-075",
+            "cities-076",
+            "cities-077",
+            "cities-078",
+            "cities-079",
+            "cities-080"
+          ]
+        },
+        {
+          "id": "cities-set-005",
+          "file": "set-005.json",
+          "status": "approved",
+          "count": 20,
+          "card_ids": [
+            "cities-081",
+            "cities-082",
+            "cities-083",
+            "cities-084",
+            "cities-085",
+            "cities-086",
+            "cities-087",
+            "cities-088",
+            "cities-089",
+            "cities-090",
+            "cities-091",
+            "cities-092",
+            "cities-093",
+            "cities-094",
+            "cities-095",
+            "cities-096",
+            "cities-097",
+            "cities-098",
+            "cities-099",
+            "cities-100"
+          ]
+        },
+        {
+          "id": "cities-set-006",
+          "file": "set-006.json",
+          "status": "approved",
+          "count": 1,
+          "card_ids": [
+            "cities-101"
+          ]
         }
       ],
-      "next": "Cities 061\u2013080 toward 100"
+      "next": "cities DONE 100/100",
+      "latest_set": "set-006"
     },
     "pubs": {
       "live_file": "data/pubs.json",
@@ -911,5 +977,5 @@
     "stray_key": "sos_stray_list",
     "scope": "on-device localStorage only; keyed by place id; survives daily rotation"
   },
-  "updated_at": "2026-09-24T06:29:00-05:00"
+  "updated_at": "2026-10-09T01:00:58-05:00"
 }

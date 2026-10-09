@@ -1,0 +1,65 @@
+{
+  "id": "cities-set-006",
+  "tab": "cities",
+  "label": "Iconic Cities — Set 6 (101–101)",
+  "card_ids": [
+    "cities-101"
+  ],
+  "count": 1,
+  "auditor": "approved — content-to-100 batch: licensed Commons photos visually checked; facts sourced",
+  "created": "2026-10-09T01:00:58-05:00",
+  "cards": [
+    {
+      "id": "cities-101",
+      "tab": "cities",
+      "name": "Melbourne",
+      "short_line": "Victoria, Australia",
+      "country": "Australia",
+      "lat": -37.8142,
+      "lng": 144.9631,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Melbourne_%28AU%29%2C_Melbourne_City_Centre_--_2019_--_1530-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "local_path": "images/cities/cities-101.jpg",
+        "source": "Wikimedia Commons",
+        "source_page": "https://commons.wikimedia.org/wiki/File%3AMelbourne_(AU),_Melbourne_City_Centre_--_2019_--_1530-4.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Dietmar Rabich",
+        "attribution": "Photo: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+        "verified_real_location": true,
+        "shows_named_place": true,
+        "ai_generated": false,
+        "proof_notes": "Commons file 'File:Melbourne (AU), Melbourne City Centre -- 2019 -- 1530-4.jpg' (6698×4465) confirms Melbourne; visually checked on contact sheet. desc: Melbourne City Centre, Melbourne, Victoria, Australia"
+      },
+      "facts": {
+        "one_liner": "Melbourne’s city towers light up along the Yarra River at dusk.",
+        "why_go": "Melbourne, Victoria’s capital, is Australia’s culture and coffee capital. Explore its graffiti-covered laneways and arcades, the Royal Botanic Gardens, the National Gallery of Victoria and the Queen Victoria Market. It is also a sports-mad city, home to the Australian Open and the Melbourne Cricket Ground. Ride the free City Circle tram, watch the sunset along Southbank, and take day trips along the Great Ocean Road, to the penguins of Phillip Island or into the Yarra Valley wine region.",
+        "best_time": "March–May and September–November for mild weather. Summer (December–February) can be hot; Melbourne is famous for ‘four seasons in one day’.",
+        "how_to_get_there": "Fly into Melbourne Airport (MEL); the SkyBus reaches Southern Cross Station in about 20–30 minutes. Trams are free within the CBD Free Tram Zone; use a myki card beyond it.",
+        "good_to_know": "Pack layers—the weather changes quickly. Laneway cafés such as those on Degraves Street are best enjoyed early.",
+        "official_or_tourism_url": "https://www.visitmelbourne.com/",
+        "sources": [
+          "https://www.visitmelbourne.com/",
+          "https://en.wikipedia.org/wiki/Melbourne",
+          "https://commons.wikimedia.org/wiki/File%3AMelbourne_(AU),_Melbourne_City_Centre_--_2019_--_1530-4.jpg"
+        ]
+      },
+      "ad": {
+        "destination_query": "Melbourne, Australia",
+        "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Melbourne%2C%20Australia&affid=YOUR_AFFILIATE_ID",
+        "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Melbourne%2C%20Australia&affcid=YOUR_AFFILIATE_ID",
+        "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Melbourne%2C%20Australia&aid=YOUR_AFFILIATE_ID",
+        "primary_network": "hotels.com",
+        "cta_label": "Find a stay in Melbourne"
+      },
+      "qa": {
+        "image_matches_name": true,
+        "facts_verified": true,
+        "license_ok": true,
+        "auditor_status": "approved",
+        "audited_at": "2026-10-09T01:00:58-05:00",
+        "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 4.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
+        "reject_reason": null
+      }
+    }
+  ]
+}
