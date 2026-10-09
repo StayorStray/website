@@ -1505,3 +1505,9 @@ body.list-panel-open { overflow: hidden; }
   min-height: 44px;
   cursor: pointer;
 }
+
+/* Inner navy rings on special tabs */
+.tab-nav a.tab-nav-wheel{box-shadow: inset 0 0 0 3px var(--accent), inset 0 0 0 5px var(--bg);}
+.tab-nav a.tab-nav-wheel:hover,.tab-nav a.tab-nav-wheel[aria-current="page"]{box-shadow: inset 0 0 0 3px var(--bg), inset 0 0 0 5px var(--accent);}
+.tab-nav a.tab-nav-submit{box-shadow: inset 0 0 0 3px #f4f1ea, inset 0 0 0 4px var(--bg);}
+.tab-nav a.tab-nav-submit:hover,.tab-nav a.tab-nav-submit[aria-current="page"]{box-shadow: inset 0 0 0 3px var(--bg), inset 0 0 0 4px #f4f1ea;}
