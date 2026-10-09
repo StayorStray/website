@@ -25,6 +25,7 @@
     "disclosure": "Como afiliados, podemos ganar con reservas que cumplan los requisitos.",
     "about_blurb": "<strong>Acerca de Spot and Travel.</strong> Desliza lugares reales y visitables — Viajar si irías, Saltar si no. Las fotos son fotografías reales con licencia (sin imágenes de IA).",
     "legal_disclaimer": "Spot and Travel ofrece información general solo con fines de entretenimiento y referencia —no constituye asesoramiento de viaje, seguridad ni reservas— y no garantiza su exactitud o integridad. Tú decides por tu cuenta qué destinos visitar, qué reservar y cómo viajar. Los enlaces externos de reservas, afiliación y asistencia están sujetos a sus propios términos. En la máxima medida permitida por la ley, Spot and Travel declina toda responsabilidad por los resultados del viaje o las pérdidas derivadas del uso de este sitio o de la confianza depositada en su contenido.",
+    "privacy_blurb": "Privacidad: Spot and Travel puede contar de forma anónima los votos Viajar/Saltar por lugar para mostrar qué destinos son tendencia. Un voto puede llevar tu país aproximado, pero nunca guardamos tu dirección IP, nombre, correo electrónico ni ubicación exacta, ni el país de origen que elijas en la ruleta. Tus listas guardadas permanecen en este dispositivo.",
     "credits_blurb": "Los créditos de las fotos aparecen bajo cada tarjeta. Las atribuciones completas están en <code>data/hidden-gems.json</code> (licencias CC de Wikimedia Commons).",
     "best_time": "Mejor época",
     "how_to_get_there": "Cómo llegar",

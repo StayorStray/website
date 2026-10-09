@@ -336,6 +336,19 @@
       .join(' ');
   }
 
+  // Anonymous trends (js/trends.js): card fields only — never the home country or removedIds.
+  function trackTrend(action, card) {
+    try {
+      var T = window.SpotAndTravelTrends;
+      if (!T || !T.isEnabled || !T.isEnabled() || !card || !card.id) return;
+      T.track(action, {
+        card: { id: card.id, tab: card.tab, name: card.name, country: card.country },
+        tab: card.tab,
+        source: 'wheel',
+      });
+    } catch (e) {}
+  }
+
   function t(key, vars) {
     var i = window.SpotAndTravelI18n;
     return i && i.t ? i.t(key, vars) : key;
@@ -645,6 +658,7 @@
       if (removeBtn) {
         removeBtn.addEventListener('click', function () {
           if (state.lastPick && state.lastPick.id) {
+            trackTrend('spin_remove', state.lastPick);
             if (state.removedIds.indexOf(state.lastPick.id) === -1) {
               state.removedIds.push(state.lastPick.id);
               saveStorage();
@@ -844,6 +858,7 @@
         updatePoolStatus();
         playLandChime();
         showModal(pick);
+        trackTrend('spin', pick);
       }
     }
     requestAnimationFrame(frame);

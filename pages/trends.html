@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex, nofollow, noarchive" />
+  <meta name="referrer" content="no-referrer" />
+  <title>Trends (private) — Spot and Travel</title>
+  <link rel="stylesheet" href="../css/site.css" />
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml" />
+  <link rel="icon" href="../assets/favicon-32.png" sizes="32x32" type="image/png" />
+  <style>
+    .tr-wrap { max-width: 1180px; margin: 0 auto; padding: 16px 16px 48px; }
+    .tr-head { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; padding: 12px 0 16px; border-bottom: 1px solid var(--border); }
+    .tr-head img { width: 150px; height: auto; }
+    .tr-head h1 { font-family: var(--font-ui); font-size: 1.15rem; margin: 0; color: var(--text); }
+    .tr-head .tr-sub { color: var(--muted); font-size: .85rem; margin: 2px 0 0; }
+    .tr-mode { margin-left: auto; font: 700 .75rem/1 var(--font-ui); letter-spacing: .08em; padding: 7px 10px; border-radius: 999px; }
+    .tr-mode.live { background: rgba(47,158,107,.18); color: #5fd39b; border: 1px solid rgba(47,158,107,.5); }
+    .tr-mode.sample { background: rgba(232,196,124,.16); color: var(--accent); border: 1px solid rgba(232,196,124,.55); }
+    .tr-banner { margin: 14px 0 0; padding: 10px 14px; border-radius: 12px; font: 600 .9rem/1.4 var(--font-ui);
+      background: repeating-linear-gradient(135deg, rgba(232,196,124,.16) 0 14px, rgba(232,196,124,.08) 14px 28px);
+      border: 1px dashed var(--accent); color: var(--accent); }
+    .tr-panel { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; margin-top: 16px; }
+    .tr-panel h2 { font: 700 .8rem/1.2 var(--font-ui); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0 0 12px; }
+    .tr-form { display: grid; grid-template-columns: 1fr 1fr auto auto; gap: 10px; align-items: end; }
+    .tr-form label { display: grid; gap: 6px; font: 600 .78rem var(--font-ui); color: var(--muted); }
+    .tr-form input, .tr-controls select, #tr-place { background: var(--bg); color: var(--text); border: 1px solid rgba(255,255,255,.14); border-radius: 10px; padding: 10px 12px; font: .95rem var(--font-ui); min-width: 0; }
+    .tr-btn { border: 1px solid rgba(255,255,255,.18); background: var(--bg); color: var(--text); border-radius: 10px; padding: 10px 14px; font: 600 .9rem var(--font-ui); cursor: pointer; white-space: nowrap; }
+    .tr-btn.primary { background: var(--stay); border-color: var(--stay); color: #fff; }
+    .tr-btn.ghost { border-color: var(--accent); color: var(--accent); }
+    .tr-msg { margin: 10px 0 0; font: .88rem var(--font-ui); color: var(--muted); min-height: 1.2em; }
+    .tr-msg.err { color: #ff8a78; }
+    .tr-controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-top: 16px; }
+    .tr-seg { display: inline-flex; border: 1px solid rgba(255,255,255,.14); border-radius: 10px; overflow: hidden; }
+    .tr-seg button { background: transparent; color: var(--muted); border: 0; padding: 9px 14px; font: 700 .85rem var(--font-ui); cursor: pointer; }
+    .tr-seg button[aria-pressed="true"] { background: var(--text); color: var(--bg); }
+    .tr-kpis { display: grid; grid-template-columns: repeat(4, minmax(0,1fr)); gap: 10px; margin-top: 16px; }
+    .tr-kpi { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 12px 14px; }
+    .tr-kpi b { display: block; font: 700 1.35rem var(--font-ui); color: var(--text); }
+    .tr-kpi span { font: .78rem var(--font-ui); color: var(--muted); }
+    .tr-movers { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 16px; }
+    .tr-movers .tr-panel { margin-top: 16px; }
+    .tr-mover > div:first-child { min-width: 0; }
+    .tr-mover { display: grid; grid-template-columns: minmax(0,1fr) auto 84px; gap: 10px; align-items: center; padding: 9px 4px; border-top: 1px solid var(--border); cursor: pointer; }
+    .tr-mover:first-of-type { border-top: 0; }
+    .tr-mover:hover { background: rgba(255,255,255,.03); }
+    .tr-name { font: 600 .92rem var(--font-ui); color: var(--text); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .tr-cat { font: .74rem var(--font-ui); color: var(--muted); }
+    .up { color: #3ccf8a; } .down { color: #ff6b57; } .flat { color: var(--muted); }
+    .tr-delta { font: 700 .9rem var(--font-ui); text-align: right; white-space: nowrap; }
+    .tr-chart-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px 16px; }
+    .tr-chart-head select { max-width: 100%; }
+    .tr-ticker { font: 800 1.6rem var(--font-ui); color: var(--text); }
+    .tr-chart { position: relative; margin-top: 10px; }
+    .tr-chart svg { width: 100%; height: auto; display: block; }
+    .tr-tip { position: absolute; pointer-events: none; background: #0b0e13; border: 1px solid rgba(255,255,255,.2); border-radius: 8px; padding: 6px 8px; font: .78rem/1.35 var(--font-ui); color: var(--text); white-space: nowrap; transform: translate(-50%, -110%); }
+    .tr-table-wrap { overflow-x: auto; }
+    table.tr-table { width: 100%; border-collapse: collapse; font: .88rem var(--font-ui); min-width: 720px; }
+    .tr-table th { text-align: left; color: var(--muted); font-weight: 700; font-size: .75rem; letter-spacing: .05em; text-transform: uppercase; padding: 8px; border-bottom: 1px solid rgba(255,255,255,.12); cursor: pointer; user-select: none; white-space: nowrap; }
+    .tr-table th[aria-sort="ascending"]::after { content: " ▲"; } .tr-table th[aria-sort="descending"]::after { content: " ▼"; }
+    .tr-table td { padding: 8px; border-bottom: 1px solid var(--border); color: var(--text); white-space: nowrap; }
+    .tr-table td.num, .tr-table th.num { text-align: right; }
+    .tr-table tr { cursor: pointer; } .tr-table tbody tr:hover { background: rgba(255,255,255,.03); }
+    .tr-table tr.sel { background: rgba(232,196,124,.08); }
+    .tr-foot { margin-top: 18px; color: var(--muted); font: .8rem/1.5 var(--font-ui); }
+    .tr-empty { color: var(--muted); font: .9rem var(--font-ui); padding: 8px 0; }
+    @media (max-width: 760px) {
+      .tr-form { grid-template-columns: 1fr; }
+      .tr-kpis { grid-template-columns: minmax(0,1fr) minmax(0,1fr); }
+      .tr-movers { grid-template-columns: minmax(0,1fr); gap: 0; }
+      .tr-mover { grid-template-columns: minmax(0,1fr) auto 64px; }
+      .tr-mover svg { width: 64px; }
+      #tr-place { width: 100%; }
+      .tr-mode { margin-left: 0; }
+      .tr-ticker { font-size: 1.3rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="tr-wrap">
+    <header class="tr-head">
+      <img src="../assets/logo.png" alt="Spot and Travel" width="150" height="47" />
+      <div>
+        <h1>Trends dashboard</h1>
+        <p class="tr-sub">Private. Anonymous Travel/Skip counts per place. Not linked from the site.</p>
+      </div>
+      <span id="tr-mode" class="tr-mode" hidden></span>
+    </header>
+    <div id="tr-banner" class="tr-banner" role="status" hidden>SAMPLE DATA. These numbers are generated for preview only and are not real visitor activity.</div>
+
+    <section class="tr-panel" aria-labelledby="tr-connect-h">
+      <h2 id="tr-connect-h">Connect</h2>
+      <form id="tr-form" class="tr-form" autocomplete="off">
+        <label>Worker URL<input id="tr-endpoint" type="url" placeholder="https://spotandtravel-trends.&lt;you&gt;.workers.dev" spellcheck="false" /></label>
+        <label>Report key<input id="tr-key" type="password" placeholder="REPORT_KEY" spellcheck="false" /></label>
+        <button class="tr-btn primary" type="submit">Load live data</button>
+        <button class="tr-btn ghost" type="button" id="tr-demo">View sample data</button>
+      </form>
+      <p id="tr-msg" class="tr-msg" aria-live="polite"></p>
+    </section>
+
+    <div id="tr-main" hidden>
+      <div class="tr-controls">
+        <div class="tr-seg" role="group" aria-label="Range">
+          <button type="button" data-days="7" aria-pressed="false">7D</button>
+          <button type="button" data-days="30" aria-pressed="true">30D</button>
+          <button type="button" data-days="90" aria-pressed="false">90D</button>
+        </div>
+        <select id="tr-cat" aria-label="Category"></select>
+        <label class="tr-cat">Min votes for movers
+          <select id="tr-min" aria-label="Minimum votes">
+            <option>1</option><option>3</option><option selected>5</option><option>10</option><option>25</option>
+          </select>
+        </label>
+        <button class="tr-btn" type="button" id="tr-refresh">Refresh</button>
+      </div>
+
+      <div class="tr-kpis" id="tr-kpis"></div>
+
+      <div class="tr-movers">
+        <section class="tr-panel"><h2>Top risers</h2><div id="tr-risers"></div></section>
+        <section class="tr-panel"><h2>Top fallers</h2><div id="tr-fallers"></div></section>
+      </div>
+
+      <section class="tr-panel" aria-labelledby="tr-chart-h">
+        <h2 id="tr-chart-h">Place chart: 7-day rolling Travel share</h2>
+        <div class="tr-chart-head">
+          <select id="tr-place" aria-label="Place"></select>
+          <span class="tr-ticker" id="tr-ticker"></span>
+          <span class="tr-delta" id="tr-tdelta"></span>
+        </div>
+        <div class="tr-chart" id="tr-chart"></div>
+      </section>
+
+      <section class="tr-panel" aria-labelledby="tr-table-h">
+        <h2 id="tr-table-h">All places</h2>
+        <div class="tr-table-wrap">
+          <table class="tr-table" id="tr-table">
+            <thead><tr>
+              <th data-k="place">Place</th><th data-k="tab">Category</th>
+              <th data-k="travel" class="num">Travel</th><th data-k="skip" class="num">Skip</th>
+              <th data-k="votes" class="num" aria-sort="descending">Votes</th><th data-k="score" class="num">Score</th>
+              <th data-k="change" class="num">Change</th><th>Trend</th>
+            </tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </section>
+      <p class="tr-foot">Score = Travel share (Travel ÷ (Travel + Skip)) for the selected range. Change = points vs the previous range of the same length. The chart plots the 7-day rolling Travel share each day, green when it ends above where it started and red when below. Undos are subtracted. No personal data is stored or shown.</p>
+    </div>
+  </div>
+
+  <script src="../js/trends.js"></script>
+  <script>
+  (function () {
+    'use strict';
+    var TABS = ['hidden-gems','cities','pubs','countries','arenas','beaches','parks','landmarks','islands','luxury'];
+    var TAB_LABEL = { 'hidden-gems':'Hidden Gems', cities:'Iconic Cities', pubs:'Unique Pubs', countries:'Countries', arenas:'Sports Arenas', beaches:'Beaches & Coasts', parks:'National Parks', landmarks:'Historic Landmarks', islands:'Islands', luxury:'Luxury Stays' };
+    var KEY_SS = 'sat_report_key', EP_SS = 'sat_report_endpoint';
+    var state = { mode: null, days: 30, cat: 'all', min: 5, report: null, sel: null, sortK: 'votes', sortDir: -1, sampleCache: {} };
+    var $ = function (id) { return document.getElementById(id); };
+
+    function esc(s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return { '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]; }); }
+    function fmtPct(v) { return v == null ? '—' : v.toFixed(1) + '%'; }
+    function fmtChg(v) { if (v == null) return '<span class="flat">new</span>'; var c = v > 0 ? 'up' : v < 0 ? 'down' : 'flat'; return '<span class="' + c + '">' + (v > 0 ? '▲ +' : v < 0 ? '▼ ' : '■ ') + v.toFixed(1) + ' pts</span>'; }
+    function msg(t, err) { var m = $('tr-msg'); m.textContent = t || ''; m.className = 'tr-msg' + (err ? ' err' : ''); }
+
+    // ---------- live data ----------
+    function loadLive() {
+      var ep = ($('tr-endpoint').value || '').trim().replace(/\/+$/, '');
+      var key = ($('tr-key').value || '').trim();
+      if (!/^https:\/\/|^http:\/\/(localhost|127\.0\.0\.1)[:/]/.test(ep)) { msg('Enter the Worker URL (https://…workers.dev).', true); return; }
+      if (!key) { msg('Enter the report key.', true); return; }
+      try { sessionStorage.setItem(KEY_SS, key); sessionStorage.setItem(EP_SS, ep); } catch (e) {}
+      msg('Loading…');
+      fetch(ep + '/v1/report/places?days=' + state.days, { headers: { Authorization: 'Bearer ' + key }, credentials: 'omit', cache: 'no-store' })
+        .then(function (r) {
+          if (r.status === 401) throw new Error('Report key rejected.');
+          if (!r.ok) throw new Error('Worker returned HTTP ' + r.status + '.');
+          return r.json();
+        })
+        .then(function (rep) {
+          if (rep.sample) throw new Error('Unexpected sample flag from Worker.');
+          state.mode = 'live'; state.report = rep;
+          msg('Live data loaded · ' + rep.places.length + ' places · window ' + rep.window.start + ' → ' + rep.window.end + ' (UTC).');
+          renderAll();
+        })
+        .catch(function (e) { msg('Could not load live data: ' + (e && e.message ? e.message : 'network error') + ' Check the URL, key and that this site is in ALLOWED_ORIGINS.', true); });
+    }
+
+    // ---------- sample data (clearly labelled, never mixed with live) ----------
+    function rng(seed) { return function () { seed |= 0; seed = seed + 0x6D2B79F5 | 0; var t = Math.imul(seed ^ seed >>> 15, 1 | seed); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
+    var catalogPromise = null;
+    function loadCatalog() {
+      if (!catalogPromise) {
+        catalogPromise = Promise.all(TABS.map(function (t) {
+          return fetch('../data/' + t + '.json').then(function (r) { return r.ok ? r.json() : []; }).catch(function () { return []; });
+        })).then(function (lists) { var all = []; lists.forEach(function (l) { (Array.isArray(l) ? l : []).forEach(function (c) { if (c && c.id && c.name) all.push(c); }); }); return all; });
+      }
+      return catalogPromise;
+    }
+    function dstr(ms) { return new Date(ms).toISOString().slice(0, 10); }
+    function share(t, s) { return t + s > 0 ? Math.round(1000 * t / (t + s)) / 10 : null; }
+    function buildSample(days, catalog) {
+      var R = rng(20261008), now = new Date();
+      var today = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate());
+      var total = 2 * days + 6, start = today - (total - 1) * 864e5;
+      var picks = catalog.filter(function (_, i) { return i % 4 === 0; }).slice(0, 90);
+      var places = picks.map(function (c, idx) {
+        var R2 = rng(1000 + idx);
+        var base = 0.25 + R2() * 0.55, drift = (R2() - 0.5) * 0.012, pop = 2 + R2() * 14, p = base;
+        var rows = [];
+        for (var i = 0; i < 90 * 2 + 6; i++) { p = Math.min(0.95, Math.max(0.05, p + drift + (R2() - 0.5) * 0.05)); var n = Math.max(0, Math.round(pop * (0.6 + R2() * 0.8))); var tr = Math.round(n * p); rows.push([tr, n - tr]); }
+        rows = rows.slice(rows.length - total);
+        var curStartIdx = total - days, t = 0, s = 0, pt = 0, ps = 0, daily = [], rt = 0, rs = 0, win = [];
+        for (var j = 0; j < total; j++) {
+          var v = rows[j];
+          if (j >= curStartIdx) { t += v[0]; s += v[1]; } else if (j >= curStartIdx - days) { pt += v[0]; ps += v[1]; }
+          if (j >= curStartIdx - 6) {
+            win.push(v); rt += v[0]; rs += v[1]; if (win.length > 7) { var o = win.shift(); rt -= o[0]; rs -= o[1]; }
+            if (j >= curStartIdx) daily.push({ day: dstr(start + j * 864e5), travel: v[0], skip: v[1], score7: share(rt, rs) });
+          }
+        }
+        var sc = share(t, s), pr = share(pt, ps);
+        return { card_id: c.id, tab: c.tab, place: c.name, card_country: c.country || null, travel: t, skip: s, votes: t + s, net: t - s, score: sc, prior_score: pr, change: sc != null && pr != null ? Math.round((sc - pr) * 10) / 10 : null, prior_votes: pt + ps, daily: daily };
+      });
+      return { sample: true, days: days, generated_at: new Date().toISOString(), window: { start: dstr(today - (days - 1) * 864e5), end: dstr(today) }, places: places };
+    }
+    function loadSample() {
+      msg('Building sample data from the real place catalog (numbers are invented)…');
+      loadCatalog().then(function (cat) {
+        state.mode = 'sample'; state.report = buildSample(state.days, cat);
+        msg('Showing SAMPLE DATA. Load live data above once the Worker is running.');
+        renderAll();
+      });
+    }
+
+    // ---------- rendering ----------
+    function filtered() {
+      var ps = state.report ? state.report.places : [];
+      return state.cat === 'all' ? ps.slice() : ps.filter(function (p) { return p.tab === state.cat; });
+    }
+    function spark(daily, w, h) {
+      var pts = daily.filter(function (d) { return d.score7 != null; });
+      if (pts.length < 2) return '<svg width="' + w + '" height="' + h + '"></svg>';
+      var vals = pts.map(function (d) { return d.score7; }), mn = Math.min.apply(null, vals), mx = Math.max.apply(null, vals); if (mx - mn < 4) { mn -= 2; mx += 2; }
+      var col = vals[vals.length - 1] >= vals[0] ? '#3ccf8a' : '#ff6b57';
+      var d = vals.map(function (v, i) { return (i ? 'L' : 'M') + (i * (w - 2) / (vals.length - 1) + 1).toFixed(1) + ' ' + (h - 2 - (v - mn) / (mx - mn) * (h - 4)).toFixed(1); }).join(' ');
+      return '<svg width="' + w + '" height="' + h + '" viewBox="0 0 ' + w + ' ' + h + '" aria-hidden="true"><path d="' + d + '" fill="none" stroke="' + col + '" stroke-width="1.6"/></svg>';
+    }
+    function renderMode() {
+      var live = state.mode === 'live';
+      var m = $('tr-mode'); m.hidden = false; m.className = 'tr-mode ' + (live ? 'live' : 'sample'); m.textContent = live ? 'LIVE DATA' : 'SAMPLE DATA';
+      $('tr-banner').hidden = live;
+      $('tr-main').hidden = false;
+    }
+    function renderKpis(ps) {
+      var t = 0, s = 0, withVotes = 0, byTab = {};
+      ps.forEach(function (p) { t += p.travel; s += p.skip; if (p.votes) withVotes++; byTab[p.tab] = (byTab[p.tab] || 0) + p.votes; });
+      var topTab = Object.keys(byTab).sort(function (a, b) { return byTab[b] - byTab[a]; })[0];
+      $('tr-kpis').innerHTML =
+        '<div class="tr-kpi"><b>' + (t + s).toLocaleString() + '</b><span>votes (' + state.days + 'd)</span></div>' +
+        '<div class="tr-kpi"><b>' + fmtPct(share(t, s)) + '</b><span>overall Travel share</span></div>' +
+        '<div class="tr-kpi"><b>' + withVotes + '</b><span>places with votes</span></div>' +
+        '<div class="tr-kpi"><b>' + esc(topTab ? TAB_LABEL[topTab] || topTab : '—') + '</b><span>busiest category</span></div>';
+    }
+    function moverRow(p) {
+      return '<div class="tr-mover" data-id="' + esc(p.card_id) + '"><div><div class="tr-name">' + esc(p.place || p.card_id) + '</div><div class="tr-cat">' + esc(TAB_LABEL[p.tab] || p.tab) + ' · ' + fmtPct(p.score) + ' · ' + p.votes + ' votes</div></div><div class="tr-delta">' + fmtChg(p.change) + '</div>' + spark(p.daily, 84, 28) + '</div>';
+    }
+    function renderMovers(ps) {
+      var el = ps.filter(function (p) { return p.change != null && p.votes >= state.min && p.prior_votes >= state.min; });
+      var up = el.filter(function (p) { return p.change > 0; }).sort(function (a, b) { return b.change - a.change; }).slice(0, 5);
+      var dn = el.filter(function (p) { return p.change < 0; }).sort(function (a, b) { return a.change - b.change; }).slice(0, 5);
+      $('tr-risers').innerHTML = up.length ? up.map(moverRow).join('') : '<p class="tr-empty">No risers yet with at least ' + state.min + ' votes in both periods.</p>';
+      $('tr-fallers').innerHTML = dn.length ? dn.map(moverRow).join('') : '<p class="tr-empty">No fallers yet with at least ' + state.min + ' votes in both periods.</p>';
+    }
+    function renderPlaceSelect(ps) {
+      var sorted = ps.slice().sort(function (a, b) { return b.votes - a.votes; });
+      if (!state.sel || !sorted.some(function (p) { return p.card_id === state.sel; })) state.sel = sorted[0] ? sorted[0].card_id : null;
+      $('tr-place').innerHTML = sorted.map(function (p) { return '<option value="' + esc(p.card_id) + '"' + (p.card_id === state.sel ? ' selected' : '') + '>' + esc(p.place || p.card_id) + ' (' + esc(TAB_LABEL[p.tab] || p.tab) + ')</option>'; }).join('');
+    }
+    function renderChart(ps) {
+      var p = ps.filter(function (x) { return x.card_id === state.sel; })[0];
+      var box = $('tr-chart');
+      if (!p) { box.innerHTML = '<p class="tr-empty">No places with votes in this range.</p>'; $('tr-ticker').textContent = ''; $('tr-tdelta').innerHTML = ''; return; }
+      var pts = p.daily, vals = pts.map(function (d) { return d.score7; });
+      var first = null, last = null; vals.forEach(function (v) { if (v != null) { if (first == null) first = v; last = v; } });
+      var up = last != null && first != null ? last >= first : true, col = up ? '#3ccf8a' : '#ff6b57';
+      $('tr-ticker').textContent = fmtPct(p.score);
+      $('tr-tdelta').innerHTML = fmtChg(p.change) + ' <span class="tr-cat">vs prior ' + state.days + 'd · ' + p.travel + ' Travel / ' + p.skip + ' Skip</span>';
+      var W = Math.max(320, Math.min(1100, Math.round(box.clientWidth || 960))), H = W < 600 ? 300 : 340, L = 40, R = 10, T = 14, VB = W < 600 ? 48 : 60, B = 26, plotH = H - T - B - VB - 10;
+      var mn = Math.min.apply(null, vals.filter(function (v) { return v != null; }).concat([100])), mx = Math.max.apply(null, vals.filter(function (v) { return v != null; }).concat([0]));
+      mn = Math.max(0, Math.floor((mn - 5) / 10) * 10); mx = Math.min(100, Math.ceil((mx + 5) / 10) * 10); if (mx - mn < 20) { mx = Math.min(100, mn + 20); mn = Math.max(0, mx - 20); }
+      var n = pts.length, xs = function (i) { return L + (n === 1 ? (W - L - R) / 2 : i * (W - L - R) / (n - 1)); };
+      var ys = function (v) { return T + (mx - v) / (mx - mn) * plotH; };
+      var g = '';
+      for (var gv = mn; gv <= mx; gv += (mx - mn > 40 ? 20 : 10)) g += '<line x1="' + L + '" x2="' + (W - R) + '" y1="' + ys(gv).toFixed(1) + '" y2="' + ys(gv).toFixed(1) + '" stroke="rgba(255,255,255,.07)"/><text x="' + (L - 6) + '" y="' + (ys(gv) + 4).toFixed(1) + '" fill="#a8b0c0" font-size="11" text-anchor="end">' + gv + '%</text>';
+      var line = '', area = '', started = false, lastX = 0, firstX = 0;
+      pts.forEach(function (d, i) { if (d.score7 == null) return; var x = xs(i).toFixed(1), y = ys(d.score7).toFixed(1); if (!started) { firstX = x; line += 'M' + x + ' ' + y; area += 'M' + x + ' ' + (T + plotH) + ' L' + x + ' ' + y; started = true; } else { line += ' L' + x + ' ' + y; area += ' L' + x + ' ' + y; } lastX = x; });
+      area += ' L' + lastX + ' ' + (T + plotH) + ' Z';
+      var maxV = Math.max.apply(null, pts.map(function (d) { return d.travel + d.skip; }).concat([1])), bw = Math.max(1, (W - L - R) / n * 0.7), vb = '';
+      pts.forEach(function (d, i) { var x = xs(i) - bw / 2, y0 = H - B, ht = (d.travel + d.skip) / maxV * VB, ht2 = d.travel / maxV * VB; vb += '<rect x="' + x.toFixed(1) + '" y="' + (y0 - ht).toFixed(1) + '" width="' + bw.toFixed(1) + '" height="' + ht.toFixed(1) + '" fill="rgba(255,107,87,.45)"/><rect x="' + x.toFixed(1) + '" y="' + (y0 - ht2).toFixed(1) + '" width="' + bw.toFixed(1) + '" height="' + ht2.toFixed(1) + '" fill="rgba(60,207,138,.6)"/>'; });
+      var lbl = ''; [0, Math.floor((n - 1) / 2), n - 1].forEach(function (i) { if (pts[i]) lbl += '<text x="' + xs(i).toFixed(1) + '" y="' + (H - 8) + '" fill="#a8b0c0" font-size="11" text-anchor="' + (i === 0 ? 'start' : i === n - 1 ? 'end' : 'middle') + '">' + pts[i].day.slice(5) + '</text>'; });
+      var wm = state.mode === 'sample' ? '<text x="' + (W / 2) + '" y="' + (T + plotH / 2 + 14) + '" fill="rgba(232,196,124,.16)" font-size="' + (W < 600 ? 34 : 54) + '" font-weight="800" text-anchor="middle" letter-spacing="6">SAMPLE DATA</text>' : '';
+      box.innerHTML = '<svg viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="7-day rolling Travel share for ' + esc(p.place) + '">' +
+        '<defs><linearGradient id="trg" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="' + col + '" stop-opacity=".35"/><stop offset="1" stop-color="' + col + '" stop-opacity="0"/></linearGradient></defs>' +
+        g + wm + '<path d="' + area + '" fill="url(#trg)"/><path d="' + line + '" fill="none" stroke="' + col + '" stroke-width="2.4" stroke-linejoin="round"/>' + vb +
+        '<text x="' + L + '" y="' + (H - B - VB - 2) + '" fill="#a8b0c0" font-size="10">Daily votes (green Travel / red Skip)</text>' + lbl +
+        '<line id="tr-cross" x1="0" x2="0" y1="' + T + '" y2="' + (H - B) + '" stroke="rgba(255,255,255,.35)" stroke-dasharray="3 3" visibility="hidden"/><rect id="tr-hit" x="' + L + '" y="0" width="' + (W - L - R) + '" height="' + H + '" fill="transparent"/></svg><div class="tr-tip" id="tr-tip" hidden></div>';
+      var svg = box.querySelector('svg'), tip = $('tr-tip'), cross = $('tr-cross');
+      function move(ev) {
+        var r = svg.getBoundingClientRect(), cx = ((ev.touches ? ev.touches[0].clientX : ev.clientX) - r.left) / r.width * W;
+        var i = Math.max(0, Math.min(n - 1, Math.round((cx - L) / ((W - L - R) / Math.max(1, n - 1))))), d = pts[i];
+        cross.setAttribute('x1', xs(i)); cross.setAttribute('x2', xs(i)); cross.setAttribute('visibility', 'visible');
+        tip.hidden = false; tip.style.left = (xs(i) / W * r.width) + 'px'; tip.style.top = ((d.score7 != null ? ys(d.score7) : T + plotH) / H * r.height) + 'px';
+        tip.innerHTML = '<b>' + d.day + '</b><br>7-day share: ' + fmtPct(d.score7) + '<br>Travel ' + d.travel + ' · Skip ' + d.skip + (state.mode === 'sample' ? '<br><span style="color:#e8c47c">sample</span>' : '');
+      }
+      svg.addEventListener('mousemove', move); svg.addEventListener('touchstart', move, { passive: true });
+      svg.addEventListener('mouseleave', function () { tip.hidden = true; cross.setAttribute('visibility', 'hidden'); });
+    }
+    function renderTable(ps) {
+      var k = state.sortK, dir = state.sortDir;
+      ps.sort(function (a, b) { var x = a[k], y = b[k]; if (x == null) return 1; if (y == null) return -1; return (typeof x === 'string' ? x.localeCompare(y) : x - y) * dir; });
+      Array.prototype.forEach.call($('tr-table').querySelectorAll('th[data-k]'), function (th) { th.setAttribute('aria-sort', th.dataset.k === k ? (dir > 0 ? 'ascending' : 'descending') : 'none'); });
+      $('tr-table').querySelector('tbody').innerHTML = ps.length ? ps.map(function (p) {
+        return '<tr data-id="' + esc(p.card_id) + '"' + (p.card_id === state.sel ? ' class="sel"' : '') + '><td>' + esc(p.place || p.card_id) + '</td><td>' + esc(TAB_LABEL[p.tab] || p.tab) + '</td><td class="num">' + p.travel + '</td><td class="num">' + p.skip + '</td><td class="num">' + p.votes + '</td><td class="num">' + fmtPct(p.score) + '</td><td class="num">' + fmtChg(p.change) + '</td><td>' + spark(p.daily, 90, 24) + '</td></tr>';
+      }).join('') : '<tr><td colspan="8" class="tr-empty">No votes in this range yet.</td></tr>';
+    }
+    function renderAll() {
+      if (!state.report) return;
+      renderMode();
+      var ps = filtered();
+      renderKpis(ps); renderMovers(ps); renderPlaceSelect(ps); renderChart(ps); renderTable(ps);
+    }
+    function select(id) { state.sel = id; renderAll(); $('tr-chart').scrollIntoView({ behavior: 'smooth', block: 'center' }); }
+    function reload() { if (state.mode === 'live') loadLive(); else if (state.mode === 'sample') loadSample(); }
+
+    // ---------- wiring ----------
+    $('tr-cat').innerHTML = '<option value="all">All categories</option>' + TABS.map(function (t) { return '<option value="' + t + '">' + esc(TAB_LABEL[t]) + '</option>'; }).join('');
+    var cfgEp = (window.SOS_TRENDS && window.SOS_TRENDS.endpoint) || '';
+    try { $('tr-endpoint').value = sessionStorage.getItem(EP_SS) || cfgEp; $('tr-key').value = sessionStorage.getItem(KEY_SS) || ''; } catch (e) { $('tr-endpoint').value = cfgEp; }
+    $('tr-form').addEventListener('submit', function (e) { e.preventDefault(); loadLive(); });
+    $('tr-demo').addEventListener('click', loadSample);
+    $('tr-refresh').addEventListener('click', reload);
+    $('tr-cat').addEventListener('change', function () { state.cat = this.value; renderAll(); });
+    $('tr-min').addEventListener('change', function () { state.min = +this.value; renderAll(); });
+    $('tr-place').addEventListener('change', function () { state.sel = this.value; renderAll(); });
+    Array.prototype.forEach.call(document.querySelectorAll('.tr-seg button'), function (b) {
+      b.addEventListener('click', function () {
+        state.days = +b.dataset.days;
+        Array.prototype.forEach.call(document.querySelectorAll('.tr-seg button'), function (x) { x.setAttribute('aria-pressed', String(x === b)); });
+        reload();
+      });
+    });
+    Array.prototype.forEach.call(document.querySelectorAll('#tr-table th[data-k]'), function (th) {
+      th.addEventListener('click', function () { var k = th.dataset.k; state.sortDir = state.sortK === k ? -state.sortDir : (k === 'place' || k === 'tab' ? 1 : -1); state.sortK = k; renderAll(); });
+    });
+    document.addEventListener('click', function (e) { var r = e.target.closest && e.target.closest('[data-id]'); if (r && (r.classList.contains('tr-mover') || r.tagName === 'TR')) select(r.getAttribute('data-id')); });
+    if (/[?&]demo=1\b/.test(location.search)) loadSample();
+    else if ($('tr-endpoint').value && $('tr-key').value) loadLive();
+  })();
+  </script>
+</body>
+</html>
