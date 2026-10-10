@@ -201,7 +201,7 @@
 
     var switcherBtn = document.getElementById('lang-switcher-btn');
     if (switcherBtn) {
-      switcherBtn.setAttribute('aria-label', t('lang_aria'));
+      switcherBtn.setAttribute('aria-label', String(state.lang || 'en').toUpperCase() + ' – ' + t('lang_aria'));
       switcherBtn.setAttribute('title', t('lang_aria'));
     }
   }
@@ -241,7 +241,7 @@
     if (btn) {
       var codeEl = btn.querySelector('.lang-code');
       if (codeEl) codeEl.textContent = state.lang.toUpperCase();
-      btn.setAttribute('aria-label', t('lang_aria'));
+      btn.setAttribute('aria-label', String(state.lang || 'en').toUpperCase() + ' – ' + t('lang_aria'));
       btn.setAttribute('title', t('lang_aria'));
       btn.setAttribute('aria-expanded', 'false');
     }
@@ -283,7 +283,7 @@
     btn.setAttribute('aria-haspopup', 'menu');
     btn.setAttribute('aria-expanded', 'false');
     btn.setAttribute('aria-controls', 'lang-menu');
-    btn.setAttribute('aria-label', t('lang_aria'));
+    btn.setAttribute('aria-label', String(state.lang || 'en').toUpperCase() + ' – ' + t('lang_aria'));
     btn.setAttribute('title', t('lang_aria'));
     btn.innerHTML =
       '<span class="lang-code" aria-hidden="true">' +

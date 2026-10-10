@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /pages/trends.html
+
+Sitemap: https://spotandtravel.com/sitemap.xml
