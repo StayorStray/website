@@ -9,6 +9,10 @@
  * and for ad_click the partner link type (hotel/flight/car/things/cruise/klook).
  * Never sends names, emails, location, the wheel home country, removedIds, or the
  * saved lists, and never reads or writes sos_stay_list / sos_stray_list / stayorstray.wheel.v1.
+ * Visits: once per page load sends a 'pageview' with the page path, a random anonymous
+ * visitor id (localStorage 'sat_vid', never linked to anything else; the Worker stores only
+ * salted hashes of it), the referrer DOMAIN only, and visit_start (true on the first page of a
+ * visit; a visit ends after 30 min without a pageview, tracked in sessionStorage 'sat_visit').
  * Any failure is swallowed so swiping is never blocked.
  */
 (function (global) {
@@ -139,9 +143,69 @@
     }
   }
 
+  var VID_KEY = 'sat_vid';
+  var VISIT_KEY = 'sat_visit';
+  var VISIT_GAP_MS = 30 * 60 * 1000;
+  var UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
+
+  function visitorId() {
+    var v = null;
+    try { v = global.localStorage.getItem(VID_KEY); } catch (e) {}
+    if (!v || !UUID_RE.test(v)) {
+      v = uuid();
+      try { global.localStorage.setItem(VID_KEY, v); } catch (e) {}
+    }
+    return v;
+  }
+
+  function visitStart(now) {
+    var last = 0;
+    try { last = parseInt(global.sessionStorage.getItem(VISIT_KEY) || '0', 10) || 0; } catch (e) {}
+    try { global.sessionStorage.setItem(VISIT_KEY, String(now)); } catch (e) {}
+    return !last || now - last > VISIT_GAP_MS;
+  }
+
+  function referrerDomain() {
+    try {
+      var r = global.document.referrer;
+      if (!r) return null;
+      var h = new URL(r).hostname.toLowerCase();
+      return h && h !== global.location.hostname ? h : null;
+    } catch (e) { return null; }
+  }
+
+  var pageviewSent = false;
+  function pageview() {
+    if (pageviewSent || !active()) return false;
+    try {
+      var path = (global.location && global.location.pathname) || '/';
+      if (/\/pages\/trends\.html$/.test(path)) return false; // private dashboard is not a visit
+      pageviewSent = true;
+      var now = Date.now();
+      queue.push({
+        action: 'pageview',
+        event_id: uuid(),
+        ts: new Date(now).toISOString(),
+        path: path,
+        vid: visitorId(),
+        ref: referrerDomain(),
+        visit_start: visitStart(now),
+      });
+      listen();
+      flush(false);
+      return true;
+    } catch (e) { return false; }
+  }
+
+  try {
+    if (global.document.readyState === 'loading') global.document.addEventListener('DOMContentLoaded', pageview);
+    else pageview();
+  } catch (e) {}
+
   global.SpotAndTravelTrends = {
     track: track,
     flush: function () { flush(false); },
     isEnabled: active,
+    pageview: pageview,
   };
 })(window);
