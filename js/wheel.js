@@ -701,6 +701,8 @@
       var AudioContextCtor = window.AudioContext || window.webkitAudioContext;
       if (!AudioContextCtor || !window.WheelAudioV2) return null;
       if (!audioContext) {
+        // iOS 17+: play through the silent switch like a media sound.
+        try { if (navigator.audioSession) navigator.audioSession.type = 'playback'; } catch (e) {}
         audioContext = new AudioContextCtor({ latencyHint: 'interactive' });
         audioBus = window.WheelAudioV2.createBus(audioContext);
       }
@@ -731,10 +733,11 @@
     var ctx = getAudioContext();
     if (!ctx) return Promise.resolve(null);
     if (ctx.state === 'running') return Promise.resolve(ctx);
+    // Some phones take longer than 250ms to resume; never drop sound just because it was slow.
     return Promise.race([
       unlockAudioFromGesture(),
-      new Promise(function (r) { setTimeout(r, 250); }),
-    ]).then(function () { return ctx.state === 'running' ? ctx : null; });
+      new Promise(function (r) { setTimeout(r, 900); }),
+    ]).then(function () { return ctx.state === 'closed' ? null : ctx; });
   }
 
   function stopSpinAudio() {
@@ -813,7 +816,7 @@
       }
       var perfStart = null;
       function elapsed(ts) {
-        if (ctx && ctx.state === 'running') return ctx.currentTime - audioStart;
+        if (ctx && ctx.state === 'running' && ctx.currentTime > 0) return ctx.currentTime - audioStart;
         if (perfStart == null) perfStart = ts;
         return (ts - perfStart) / 1000;
       }
