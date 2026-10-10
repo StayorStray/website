@@ -116,6 +116,11 @@
         <button class="tr-btn" type="button" id="tr-refresh">Refresh</button>
       </div>
 
+      <section class="tr-panel" aria-labelledby="tr-vis-h" id="tr-visitors">
+        <h2 id="tr-vis-h">Visitors</h2>
+        <div id="tr-vis-body"><p class="tr-empty">Load live data to see visitor counts.</p></div>
+      </section>
+
       <div class="tr-kpis" id="tr-kpis"></div>
       <p class="tr-cat" id="tr-adlinks" style="margin:10px 2px 0"></p>
 
@@ -184,6 +189,7 @@
         .then(function (rep) {
           if (rep.sample) throw new Error('Unexpected sample flag from Worker.');
           state.mode = 'live'; state.report = rep;
+          loadVisitors(ep, key);
           msg('Live data loaded · ' + rep.places.length + ' places · window ' + rep.window.start + ' → ' + rep.window.end + ' (UTC).');
           renderAll();
         })
@@ -228,10 +234,63 @@
       });
       return { sample: true, days: days, generated_at: new Date().toISOString(), window: { start: dstr(today - (days - 1) * 864e5), end: dstr(today) }, places: places };
     }
+
+    // ---------- visitors (live only; never sampled) ----------
+    function renderVisitors() {
+      var box = $('tr-vis-body');
+      if (state.mode !== 'live') { box.innerHTML = '<p class="tr-empty">Visitor counts are live-only (no sample numbers). Load live data above.</p>'; return; }
+      var v = state.visitors;
+      if (!v) { box.innerHTML = '<p class="tr-empty">Loading visitor counts…</p>'; return; }
+      var n = function (x) { return Number(x || 0).toLocaleString('en-US'); };
+      var years = (v.visits && v.visits.by_year) || [];
+      var html = '<div class="tr-kpis" style="margin-top:0">' +
+        '<div class="tr-kpi"><b>' + n(v.today.uniques) + '</b><span>Unique visitors today (UTC)</span></div>' +
+        '<div class="tr-kpi"><b>' + n(v.uniques_7d) + '</b><span>Unique visitors, last 7 days*</span></div>' +
+        '<div class="tr-kpi"><b>' + n(v.uniques_30d) + '</b><span>Unique visitors, last 30 days*</span></div>' +
+        '<div class="tr-kpi"><b>' + n(v.pageviews_all_time) + '</b><span>Total pageviews (all time) · ' + n(v.pageviews_window) + ' in ' + state.days + 'd</span></div>' +
+        '</div>' +
+        '<p class="tr-cat" style="margin:12px 2px 0"><b style="color:var(--text)">Visits (sessions), all time: ' + n(v.visits && v.visits.all_time) + '</b>' +
+        (years.length ? ' · ' + years.map(function (y) { return esc(y.year) + ': ' + n(y.visits) + ' visits'; }).join(' · ') : ' · no visits yet') + '</p>' +
+        '<div class="tr-chart" id="tr-vchart"></div>' +
+        '<div class="tr-movers"><section class="tr-panel"><h2>Top pages (' + state.days + 'd)</h2>' + list(v.top_pages, 'path') + '</section>' +
+        '<section class="tr-panel"><h2>Top referrers (' + state.days + 'd)</h2>' + list(v.top_referrers, 'ref') + '</section></div>' +
+        '<p class="tr-foot">A visit = one browser session; a new visit starts after 30 minutes without a pageview. Visit years use America/Chicago time. ' +
+        'Daily uniques are exact per UTC day (daily salt). *7/30-day uniques use a monthly salt, so a visitor seen in two calendar months inside the window counts twice (approximate). ' +
+        'Only salted hashes of a random browser id are stored; no IPs, names or emails. Referrers show the domain only.</p>';
+      box.innerHTML = html;
+      vchart(v.daily);
+    }
+    function list(rows, k) {
+      if (!rows || !rows.length) return '<p class="tr-empty">None yet.</p>';
+      return rows.map(function (r) { return '<div class="tr-mover" style="cursor:default;grid-template-columns:minmax(0,1fr) auto"><div class="tr-name">' + esc(r[k]) + '</div><div class="tr-delta flat">' + Number(r.pageviews).toLocaleString('en-US') + ' views</div></div>'; }).join('');
+    }
+    function vchart(pts) {
+      var box = $('tr-vchart'); if (!box) return;
+      var W = Math.max(320, Math.min(1100, Math.round(box.clientWidth || 960))), H = W < 600 ? 240 : 280, L = 40, R = 10, T = 14, B = 26, plotH = H - T - B;
+      var mx = Math.max.apply(null, pts.map(function (d) { return Math.max(d.pageviews, d.uniques); }).concat([4]));
+      var nn = pts.length, xs = function (i) { return L + (nn === 1 ? (W - L - R) / 2 : i * (W - L - R) / (nn - 1)); }, ys = function (v) { return T + (mx - v) / mx * plotH; };
+      var g = ''; for (var i = 0; i <= 4; i++) { var gv = Math.round(mx * i / 4); g += '<line x1="' + L + '" x2="' + (W - R) + '" y1="' + ys(gv).toFixed(1) + '" y2="' + ys(gv).toFixed(1) + '" stroke="rgba(255,255,255,.07)"/><text x="' + (L - 6) + '" y="' + (ys(gv) + 4).toFixed(1) + '" fill="#a8b0c0" font-size="11" text-anchor="end">' + gv + '</text>'; }
+      var path = function (k) { return pts.map(function (d, i) { return (i ? 'L' : 'M') + xs(i).toFixed(1) + ' ' + ys(d[k]).toFixed(1); }).join(' '); };
+      var area = path('uniques') + ' L' + xs(nn - 1).toFixed(1) + ' ' + (T + plotH) + ' L' + xs(0).toFixed(1) + ' ' + (T + plotH) + ' Z';
+      var lbl = ''; [0, Math.floor((nn - 1) / 2), nn - 1].forEach(function (i) { if (pts[i]) lbl += '<text x="' + xs(i).toFixed(1) + '" y="' + (H - 8) + '" fill="#a8b0c0" font-size="11" text-anchor="' + (i === 0 ? 'start' : i === nn - 1 ? 'end' : 'middle') + '">' + pts[i].day + '</text>'; });
+      box.innerHTML = '<svg viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="Daily unique visitors and pageviews">' +
+        '<defs><linearGradient id="trv" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#3ccf8a" stop-opacity=".35"/><stop offset="1" stop-color="#3ccf8a" stop-opacity="0"/></linearGradient></defs>' +
+        g + '<path d="' + area + '" fill="url(#trv)"/><path d="' + path('pageviews') + '" fill="none" stroke="#e8c47c" stroke-width="2" stroke-dasharray="5 4"/>' +
+        '<path d="' + path('uniques') + '" fill="none" stroke="#3ccf8a" stroke-width="2.4" stroke-linejoin="round"/>' + lbl +
+        '<text x="' + (L + 6) + '" y="' + (T + 12) + '" font-size="11" fill="#3ccf8a">— Unique visitors / day</text><text x="' + (L + 170) + '" y="' + (T + 12) + '" font-size="11" fill="#e8c47c">- - Pageviews / day</text></svg>';
+    }
+    function loadVisitors(ep, key) {
+      state.visitors = null; renderVisitors();
+      fetch(ep + '/v1/report/visitors?days=' + state.days, { headers: { Authorization: 'Bearer ' + key }, credentials: 'omit', cache: 'no-store' })
+        .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+        .then(function (v) { state.visitors = v; renderVisitors(); })
+        .catch(function (e) { $('tr-vis-body').innerHTML = '<p class="tr-empty">Could not load visitor counts (' + esc(e.message) + ').</p>'; });
+    }
     function loadSample() {
       msg('Building sample data from the real place catalog (numbers are invented)…');
       loadCatalog().then(function (cat) {
-        state.mode = 'sample'; state.report = buildSample(state.days, cat);
+        state.mode = 'sample'; state.report = buildSample(state.days, cat); state.visitors = null;
+        renderVisitors();
         msg('Showing SAMPLE DATA. Load live data above once the Worker is running.');
         renderAll();
       });

@@ -3,6 +3,7 @@
  *
  *   POST /v1/events           anonymous swipe events (schema v1, docs/trends/EVENT-SCHEMA.md)
  *   GET  /v1/report/places    per-place travel/skip totals, score, change vs prior period, daily series
+ *   GET  /v1/report/visitors  unique visitors (salted hashes) + pageviews, top pages/referrers
  *   GET  /v1/report/tabs      per-category totals + deck_end counts
  *   GET  /v1/health           liveness (no auth, no data)
  *
@@ -10,7 +11,7 @@
  * Privacy: allowlisted fields only; no raw IP stored or logged; visitor_country = request.cf.country.
  * Wire names keep "stay"/"stray" (shown to visitors as Travel/Skip).
  */
-import { buildPlacesReport, buildTabsReport } from './report.js';
+import { buildPlacesReport, buildTabsReport, buildVisitorsReport } from './report.js';
 
 const ACTIONS = new Set(['stay', 'stray', 'undo', 'spin', 'spin_remove', 'ad_click', 'deck_end']);
 const SOURCES = new Set(['swipe', 'keyboard', 'button', 'wheel', 'ad', 'system']);
@@ -131,6 +132,68 @@ export function sanitizeEvent(raw, ctx) {
   };
 }
 
+// ---- Pageviews / unique visitors (migration 0004) ----
+const PATH_RE = /^\/[A-Za-z0-9._\/-]{0,120}$/;
+const REF_RE = /^[a-z0-9]([a-z0-9-]*[a-z0-9])?(\.[a-z0-9]([a-z0-9-]*[a-z0-9])?)+$/;
+const OWN_HOSTS = new Set(['spotandtravel.com', 'www.spotandtravel.com', 'stayorstray.github.io']);
+
+function normPath(p) {
+  if (typeof p !== 'string') return null;
+  p = p.split('?')[0].split('#')[0];
+  if (p.startsWith('/website/')) p = p.slice(8); // old github.io project path
+  if (p === '' || p === '/index.html') p = '/';
+  return PATH_RE.test(p) ? p : null;
+}
+
+export function sanitizePageview(raw, ctx) {
+  if (!raw || typeof raw !== 'object' || raw.action !== 'pageview') return null;
+  const event_id = typeof raw.event_id === 'string' && UUID_RE.test(raw.event_id) ? raw.event_id.toLowerCase() : null;
+  const vid = typeof raw.vid === 'string' && UUID_RE.test(raw.vid) ? raw.vid.toLowerCase() : null;
+  const path = normPath(raw.path);
+  if (!event_id || !vid || !path || path.startsWith('/pages/trends')) return null;
+  let ref = typeof raw.ref === 'string' ? raw.ref.toLowerCase().replace(/^www\./, '').slice(0, 80) : '';
+  if (!REF_RE.test(ref) || OWN_HOSTS.has(ref) || OWN_HOSTS.has('www.' + ref)) ref = null;
+  const ts = new Date(ctx.now).toISOString(); // server time: salts/day boundaries are UTC
+  const year = new Intl.DateTimeFormat('en-US', { timeZone: 'America/Chicago', year: 'numeric' }).format(new Date(ctx.now));
+  return { event_id, vid, path, ref, ts, day: ts.slice(0, 10), month: ts.slice(0, 7), year,
+    visit_start: raw.visit_start === true, visitor_country: ctx.country };
+}
+
+async function saltFor(db, period) {
+  const row = await db.prepare('SELECT salt FROM visit_salts WHERE period = ?1').bind(period).first();
+  if (row) return row.salt;
+  const b = new Uint8Array(32);
+  crypto.getRandomValues(b);
+  const salt = [...b].map((x) => x.toString(16).padStart(2, '0')).join('');
+  await db.prepare('INSERT OR IGNORE INTO visit_salts (period, salt) VALUES (?1, ?2)').bind(period, salt).run();
+  return (await db.prepare('SELECT salt FROM visit_salts WHERE period = ?1').bind(period).first()).salt;
+}
+
+async function recordPageview(db, pv) {
+  const vh_day = await sha256Hex((await saltFor(db, 'd:' + pv.day)) + '|' + pv.vid);
+  const vh_month = await sha256Hex((await saltFor(db, 'm:' + pv.month)) + '|' + pv.vid);
+  // Raw visitor id is dropped here; only the two salted hashes are stored.
+  const seenSite = await db.prepare('SELECT 1 FROM pageviews WHERE day = ?1 AND vh_day = ?2 LIMIT 1').bind(pv.day, vh_day).first();
+  const seenPage = await db.prepare('SELECT 1 FROM pageviews WHERE day = ?1 AND path = ?2 AND vh_day = ?3 LIMIT 1').bind(pv.day, pv.path, vh_day).first();
+  const res = await db.prepare(
+    'INSERT OR IGNORE INTO pageviews (event_id, ts, day, path, ref, visitor_country, vh_day, vh_month) VALUES (?1,?2,?3,?4,?5,?6,?7,?8)'
+  ).bind(pv.event_id, pv.ts, pv.day, pv.path, pv.ref, pv.visitor_country, vh_day, vh_month).run();
+  if (!(res.meta && res.meta.changes === 1)) return false;
+  const up = 'INSERT INTO daily_visits (day, path, pageviews, uniques) VALUES (?1, ?2, 1, ?3) ' +
+    'ON CONFLICT(day, path) DO UPDATE SET pageviews = pageviews + 1, uniques = uniques + excluded.uniques';
+  await db.prepare(up).bind(pv.day, '*', seenSite ? 0 : 1).run();
+  await db.prepare(up).bind(pv.day, pv.path, seenPage ? 0 : 1).run();
+  if (pv.visit_start) {
+    await db.prepare('INSERT INTO yearly_visits (year, visits) VALUES (?1, 1) ' +
+      'ON CONFLICT(year) DO UPDATE SET visits = visits + 1').bind(pv.year).run();
+  }
+  if (pv.ref) {
+    await db.prepare('INSERT INTO daily_ref (day, ref, pageviews) VALUES (?1, ?2, 1) ' +
+      'ON CONFLICT(day, ref) DO UPDATE SET pageviews = pageviews + 1').bind(pv.day, pv.ref).run();
+  }
+  return true;
+}
+
 function rollupStatement(db, e) {
   if (e.action === 'deck_end') {
     if (!e.tab) return null;
@@ -160,8 +223,15 @@ async function handleIngest(request, env) {
   try { body = JSON.parse(text); } catch (e) { return json({ error: 'bad_json' }, 400); }
   const list = Array.isArray(body) ? body : Array.isArray(body && body.events) ? body.events : [body];
   const ctx = { now: Date.now(), country: str((request.cf || {}).country, 2) };
-  const events = list.slice(0, MAX_EVENTS).map((r) => sanitizeEvent(r, ctx)).filter(Boolean);
+  const slice = list.slice(0, MAX_EVENTS);
   let accepted = 0;
+  let pvCount = 0;
+  for (const r of slice) {
+    if (!r || r.action !== 'pageview') continue;
+    const pv = sanitizePageview(r, ctx);
+    if (pv) { pvCount += 1; if (await recordPageview(env.DB, pv)) accepted += 1; }
+  }
+  const events = slice.filter((r) => !r || r.action !== 'pageview').map((r) => sanitizeEvent(r, ctx)).filter(Boolean);
   for (const e of events) {
     const res = await env.DB.prepare(
       'INSERT OR IGNORE INTO events (event_id, session_id, ts, day, hour, action, source, card_id, tab, place, ' +
@@ -180,7 +250,7 @@ async function handleIngest(request, env) {
       }
     }
   }
-  return json({ ok: true, received: list.length, accepted, rejected: Math.min(list.length, MAX_EVENTS) - events.length });
+  return json({ ok: true, received: list.length, accepted, rejected: slice.length - events.length - pvCount });
 }
 
 function timingSafeEqual(a, b) {
@@ -227,6 +297,9 @@ export default {
         if (url.pathname === '/v1/report/places') {
           return json(await buildPlacesReport(env.DB, { days, tab: tabFilter, now: Date.now() }), 200, cors.headers);
         }
+        if (url.pathname === '/v1/report/visitors') {
+          return json(await buildVisitorsReport(env.DB, { days, now: Date.now() }), 200, cors.headers);
+        }
         if (url.pathname === '/v1/report/tabs') {
           return json(await buildTabsReport(env.DB, { days, now: Date.now() }), 200, cors.headers);
         }
@@ -243,5 +316,14 @@ export default {
     const keep = Math.max(30, parseInt(env.RAW_RETENTION_DAYS || '120', 10) || 120);
     const cutoff = new Date(Date.now() - keep * 86400000).toISOString().slice(0, 10);
     await env.DB.prepare('DELETE FROM events WHERE day < ?1').bind(cutoff).run();
+    await env.DB.prepare('DELETE FROM pageviews WHERE day < ?1').bind(cutoff).run();
+    // Forget salts once their period is over (keep yesterday's day salt and last month's
+    // month salt one extra period for late events). Old hashes can then never be re-linked.
+    const now = Date.now();
+    const yday = new Date(now - 86400000).toISOString().slice(0, 10);
+    const d = new Date(now);
+    const prevMonth = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth() - 1, 1)).toISOString().slice(0, 7);
+    await env.DB.prepare("DELETE FROM visit_salts WHERE (period LIKE 'd:%' AND period < ?1) OR (period LIKE 'm:%' AND period < ?2)")
+      .bind('d:' + yday, 'm:' + prevMonth).run();
   },
 };
