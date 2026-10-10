@@ -567,7 +567,10 @@ img { max-width: 100%; display: block; }
     min-height: 12rem;
   }
   .klook-rail--mobile { display: none; }
+  .klook-rail--desktop.klook-rail--linkonly { min-height: 0; height: auto; }
 }
+.klook-widget-mount[hidden] { display: none !important; }
+.klook-rail--linkonly .klook-widget-mount { height: 0; min-height: 0 !important; }
 
 .end-deck {
   text-align: center;

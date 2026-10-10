@@ -28,6 +28,9 @@
     },
     klook: {
       sidebarUrl: 'https://klook.tpx.gr/cVdJs2X5',
+      // Travelpayouts Klook program (verified: tp.media/r?p=4110 -> affiliate.klook.com, pid 779952).
+      tp: { p: '4110', campaign_id: '137' },
+      // city_id is replaced per card from assets/klook-cities.json (Klook city ids).
       widgetSrc: 'https://tpemb.com/content?currency=USD&trs=576993&shmarker=779952&locale=en&city_id=2&category=4&amount=3&powered_by=true&campaign_id=137&promo_id=4497',
     },
     ctaLabelTemplate: 'Find a stay in {name}',
@@ -67,8 +70,7 @@
       things: {
         brand: 'Klook',
         template: 'https://www.klook.com/en-US/search/result/?query={query}',
-        // Fill from a Klook deep link generated in Travelpayouts → Tools.
-        tp: { p: null, campaign_id: null },
+        tp: { p: '4110', campaign_id: '137' }, // verified Klook program
       },
       cruise: {
         brand: 'Cruise line',
@@ -107,6 +109,7 @@
     verifiedTravelpayoutsPrograms: {
       aviasales: { p: '4114', example: 'https://www.aviasales.com/?params=PARNYC1' },
       qeeq: { p: '4845', example: 'https://www.qeeq.com' },
+      klook: { p: '4110', campaign_id: '137', example: 'https://www.klook.com/en-US/destination/c2-hong-kong/1-things-to-do/' },
     },
     disclosure: 'As an affiliate we may earn from qualifying bookings.',
   };
