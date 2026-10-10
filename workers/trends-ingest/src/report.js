@@ -128,3 +128,50 @@ export async function buildTabsReport(db, { days, now }) {
   tabs.sort((a, b) => b.votes - a.votes);
   return { sample: false, generated_at: new Date(now).toISOString(), days, window: { start: w.curStart, end: w.today }, tabs };
 }
+
+/**
+ * Visitors report. Daily uniques = distinct daily-salted hashes (exact per UTC day).
+ * 7/30-day uniques = distinct MONTHLY-salted hashes in the window: exact inside one calendar
+ * month; a visitor seen in two calendar months inside the window counts twice (approximate).
+ * Multi-day uniques need raw pageviews, so they cover at most RAW_RETENTION_DAYS.
+ */
+export async function buildVisitorsReport(db, { days, now }) {
+  const w = windows(days, now);
+  const day0 = (n) => dayStr(Date.parse(w.today + 'T00:00:00Z') - (n - 1) * 86400000);
+  const uniq = async (start) => ((await db.prepare(
+    'SELECT COUNT(DISTINCT vh_month) AS n FROM pageviews WHERE day >= ?1 AND day <= ?2'
+  ).bind(start, w.today).first()) || {}).n || 0;
+  const todayRow = (await db.prepare("SELECT pageviews, uniques FROM daily_visits WHERE day = ?1 AND path = '*'").bind(w.today).first()) || {};
+  const series = (await db.prepare(
+    "SELECT day, pageviews, uniques FROM daily_visits WHERE path = '*' AND day >= ?1 AND day <= ?2 ORDER BY day"
+  ).bind(w.curStart, w.today).all()).results || [];
+  const byDay = new Map(series.map((r) => [r.day, r]));
+  const pages = (await db.prepare(
+    "SELECT path, SUM(pageviews) AS pageviews, SUM(uniques) AS visitor_days FROM daily_visits WHERE path <> '*' AND day >= ?1 AND day <= ?2 GROUP BY path ORDER BY pageviews DESC LIMIT 15"
+  ).bind(w.curStart, w.today).all()).results || [];
+  const refs = (await db.prepare(
+    'SELECT ref, SUM(pageviews) AS pageviews FROM daily_ref WHERE day >= ?1 AND day <= ?2 GROUP BY ref ORDER BY pageviews DESC LIMIT 15'
+  ).bind(w.curStart, w.today).all()).results || [];
+  const totals = (await db.prepare(
+    "SELECT SUM(pageviews) AS pv FROM daily_visits WHERE path = '*' AND day >= ?1 AND day <= ?2"
+  ).bind(w.curStart, w.today).first()) || {};
+  const allTime = (await db.prepare("SELECT SUM(pageviews) AS pv FROM daily_visits WHERE path = '*'").first()) || {};
+  const years = (await db.prepare('SELECT year, visits FROM yearly_visits ORDER BY year DESC').all()).results || [];
+  return {
+    sample: false,
+    generated_at: new Date(now).toISOString(),
+    days,
+    window: { start: w.curStart, end: w.today },
+    visits: { all_time: years.reduce((a, y) => a + (y.visits || 0), 0), by_year: years,
+      definition: 'Visit = one browser session (new after 30 min without a pageview). Years in America/Chicago.' },
+    today: { uniques: todayRow.uniques || 0, pageviews: todayRow.pageviews || 0 },
+    uniques_7d: await uniq(day0(7)),
+    uniques_30d: await uniq(day0(30)),
+    pageviews_window: totals.pv || 0,
+    pageviews_all_time: allTime.pv || 0,
+    daily: w.dayList.map((d) => ({ day: d, uniques: (byDay.get(d) || {}).uniques || 0, pageviews: (byDay.get(d) || {}).pageviews || 0 })),
+    top_pages: pages,
+    top_referrers: refs,
+    method: 'Daily uniques: distinct visitors per UTC day (daily salt, exact). 7/30-day uniques: distinct visitors using a monthly salt, so a visitor seen in two calendar months inside the window counts twice (approximate). Pageviews count every page load.',
+  };
+}

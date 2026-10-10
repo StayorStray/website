@@ -628,6 +628,7 @@
         saveStorage();
         updateSoundToggle();
         if (state.soundEnabled) unlockAudioFromGesture();
+        else stopSpinAudio();
       });
       updateSoundToggle();
     }
@@ -689,94 +690,59 @@
     }
   }
 
+  /* ---- Audio v2: see js/wheel-audio-v2.js. Sound follows the mute toggle only;
+     reduced-motion no longer silences it (it's not motion). ---- */
+  var audioBus = null;
+  var activeSchedule = null;
+
   function getAudioContext() {
-    if (!state.soundEnabled || prefersReducedMotion()) return null;
+    if (!state.soundEnabled) return null;
     try {
       var AudioContextCtor = window.AudioContext || window.webkitAudioContext;
-      if (!AudioContextCtor) return null;
-      if (!audioContext) audioContext = new AudioContextCtor();
+      if (!AudioContextCtor || !window.WheelAudioV2) return null;
+      if (!audioContext) {
+        // iOS 17+: play through the silent switch like a media sound.
+        try { if (navigator.audioSession) navigator.audioSession.type = 'playback'; } catch (e) {}
+        audioContext = new AudioContextCtor({ latencyHint: 'interactive' });
+        audioBus = window.WheelAudioV2.createBus(audioContext);
+      }
       return audioContext;
     } catch (e) {
       return null;
     }
   }
 
-  /**
-   * iOS Safari/Chrome require AudioContext.resume() and an actual
-   * buffer/oscillator start inside the same user gesture that starts
-   * playback. Call this from Spin (and unmute) before rAF ticks.
-   */
+  /** Must run inside the user gesture (iOS): resume + a silent one-shot. Returns a promise. */
   function unlockAudioFromGesture() {
-    if (!state.soundEnabled || prefersReducedMotion()) return null;
     var ctx = getAudioContext();
-    if (!ctx) return null;
+    if (!ctx) return Promise.resolve(null);
+    var p = Promise.resolve();
     try {
-      if (ctx.state === 'suspended') {
-        var resume = ctx.resume();
-        if (resume && resume.catch) resume.catch(function () {});
-      }
-      /* Near-silent one-shot unlocks Web Audio on iOS within the gesture. */
+      if (ctx.state !== 'running') p = ctx.resume();
       var buffer = ctx.createBuffer(1, 1, ctx.sampleRate || 22050);
       var source = ctx.createBufferSource();
       source.buffer = buffer;
-      var gain = ctx.createGain();
-      gain.gain.setValueAtTime(0.0001, ctx.currentTime);
-      source.connect(gain);
-      gain.connect(ctx.destination);
+      source.connect(ctx.destination);
       source.start(0);
-    } catch (e) {
-      /* Unlock is best-effort; ticks still attempt to play. */
-    }
-    return ctx;
+    } catch (e) {}
+    return Promise.resolve(p).then(function () { return ctx; }, function () { return ctx; });
   }
 
-  function playTick() {
+  /** Wait (briefly) for a running context so the first clacks aren't lost. */
+  function readyAudio() {
     var ctx = getAudioContext();
-    if (!ctx || ctx.state === 'suspended') return;
-    try {
-      var now = ctx.currentTime;
-      var osc = ctx.createOscillator();
-      var gain = ctx.createGain();
-      osc.type = 'triangle';
-      osc.frequency.setValueAtTime(1150, now);
-      osc.frequency.exponentialRampToValueAtTime(680, now + 0.014);
-      gain.gain.setValueAtTime(0.0001, now);
-      gain.gain.exponentialRampToValueAtTime(0.085, now + 0.002);
-      gain.gain.exponentialRampToValueAtTime(0.0001, now + 0.017);
-      osc.connect(gain);
-      gain.connect(ctx.destination);
-      osc.start(now);
-      osc.stop(now + 0.02);
-    } catch (e) {
-      /* Web Audio is optional and may be unavailable or blocked. */
-    }
+    if (!ctx) return Promise.resolve(null);
+    if (ctx.state === 'running') return Promise.resolve(ctx);
+    // Some phones take longer than 250ms to resume; never drop sound just because it was slow.
+    return Promise.race([
+      unlockAudioFromGesture(),
+      new Promise(function (r) { setTimeout(r, 900); }),
+    ]).then(function () { return ctx.state === 'closed' ? null : ctx; });
   }
 
-  function playLandTone(ctx, frequency, start, duration, volume) {
-    var osc = ctx.createOscillator();
-    var gain = ctx.createGain();
-    osc.type = 'sine';
-    osc.frequency.setValueAtTime(frequency, start);
-    gain.gain.setValueAtTime(0.0001, start);
-    gain.gain.linearRampToValueAtTime(volume, start + 0.035);
-    gain.gain.exponentialRampToValueAtTime(0.0001, start + duration);
-    osc.connect(gain);
-    gain.connect(ctx.destination);
-    osc.start(start);
-    osc.stop(start + duration + 0.03);
-  }
-
-  function playLandChime() {
-    var ctx = getAudioContext();
-    if (!ctx || ctx.state === 'suspended') return;
-    try {
-      var start = ctx.currentTime + 0.01;
-      playLandTone(ctx, 523.25, start, 0.52, 0.052);
-      playLandTone(ctx, 659.25, start + 0.12, 0.56, 0.048);
-      playLandTone(ctx, 783.99, start + 0.24, 0.68, 0.044);
-    } catch (e) {
-      /* Web Audio is optional and may be unavailable or blocked. */
-    }
+  function stopSpinAudio() {
+    if (activeSchedule) activeSchedule.stop();
+    activeSchedule = null;
   }
 
   function wheelIndexAtPointer(rotation, segmentCount) {
@@ -836,32 +802,42 @@
     var desired = extraTurns * 360 + (360 - (targetCenter % 360));
     var endRot = startRot + desired - (startRot % 360);
 
-    var startTime = null;
-    var lastTickIndex = wheelIndexAtPointer(startRot, n);
-    function frame(ts) {
-      if (!startTime) startTime = ts;
-      var t = Math.min(1, (ts - startTime) / duration);
-      var e = easeOutCubic(t);
-      state.rotation = startRot + (endRot - startRot) * e;
-      var tickIndex = wheelIndexAtPointer(state.rotation, n);
-      if (tickIndex !== lastTickIndex) {
-        lastTickIndex = tickIndex;
-        playTick();
+    var durS = duration / 1000;
+    var ticks = window.WheelAudioV2
+      ? window.WheelAudioV2.crossings(startRot, endRot, n, durS)
+      : [];
+
+    readyAudio().then(function (ctx) {
+      // Audio clock drives both sound and animation when available (keeps them locked together).
+      var audioStart = ctx ? ctx.currentTime + 0.04 : 0;
+      if (ctx && state.soundEnabled) {
+        stopSpinAudio();
+        activeSchedule = window.WheelAudioV2.scheduleSpin(ctx, audioBus, ticks, audioStart, durS);
       }
-      paintWheelWithSegs(segs);
-      if (t < 1) {
-        requestAnimationFrame(frame);
-      } else {
-        state.rotation = endRot;
+      var perfStart = null;
+      function elapsed(ts) {
+        if (ctx && ctx.state === 'running' && ctx.currentTime > 0) return ctx.currentTime - audioStart;
+        if (perfStart == null) perfStart = ts;
+        return (ts - perfStart) / 1000;
+      }
+      function frame(ts) {
+        var t = Math.max(0, Math.min(1, elapsed(ts) / durS));
+        var e = easeOutCubic(t);
+        state.rotation = startRot + (endRot - startRot) * e;
         paintWheelWithSegs(segs);
-        state.spinning = false;
-        updatePoolStatus();
-        playLandChime();
-        showModal(pick);
-        trackTrend('spin', pick);
+        if (t < 1) {
+          requestAnimationFrame(frame);
+        } else {
+          state.rotation = endRot;
+          paintWheelWithSegs(segs);
+          state.spinning = false;
+          updatePoolStatus();
+          showModal(pick); // chime is already scheduled to land with the wheel
+          trackTrend('spin', pick);
+        }
       }
-    }
-    requestAnimationFrame(frame);
+      requestAnimationFrame(frame);
+    });
   }
 
   function showModal(card) {

@@ -3,8 +3,26 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Iconic Cities — Spot and Travel</title>
-  <meta name="description" content="Spot a place. Travel or skip? Real locations, licensed photos." />
+  <title>Iconic Cities — Swipe the world's great cities | Spot and Travel</title>
+  <meta name="description" content="Paris, Tokyo, New York and more: swipe iconic cities with licensed photos and quick facts, then decide Travel or Skip." />
+  <!-- seo -->
+  <link rel="canonical" href="https://spotandtravel.com/pages/cities.html" />
+  <link rel="manifest" href="../manifest.webmanifest" />
+  <meta name="theme-color" content="#0f1420" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Spot and Travel" />
+  <meta property="og:title" content="Iconic Cities — Swipe the world's great cities | Spot and Travel" />
+  <meta property="og:description" content="Paris, Tokyo, New York and more: swipe iconic cities with licensed photos and quick facts, then decide Travel or Skip." />
+  <meta property="og:url" content="https://spotandtravel.com/pages/cities.html" />
+  <meta property="og:image" content="https://spotandtravel.com/assets/share-1200x630.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:alt" content="Spot and Travel logo with photo cards of Yosemite, Santorini and Navagio Beach" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Iconic Cities — Swipe the world's great cities | Spot and Travel" />
+  <meta name="twitter:description" content="Paris, Tokyo, New York and more: swipe iconic cities with licensed photos and quick facts, then decide Travel or Skip." />
+  <meta name="twitter:image" content="https://spotandtravel.com/assets/share-1200x630.jpg" />
+  <!-- /seo -->
   <link rel="stylesheet" href="../css/site.css" />
   <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml" />
   <link rel="icon" href="../assets/favicon-32.png" sizes="32x32" type="image/png" />
@@ -15,7 +33,10 @@
       script.async = 1;
       script.setAttribute("data-cmp-ab","2");
       script.src = 'https://emrld.ltd/NTc2OTkz.js?t=576993';
-      document.head.appendChild(script);
+      // Emerald (Travelpayouts auto-monetization): load after the page is up so it can never
+      // delay or break site code; its 'config is not valid' errors are its own.
+      var add = function () { try { document.head.appendChild(script); } catch (e) {} };
+      if (document.readyState === 'complete') add(); else window.addEventListener('load', add);
   })();
 </script>
 </head>
@@ -55,7 +76,7 @@
     <p class="disclosure" id="affiliate-disclosure">As an affiliate we may earn from qualifying bookings.</p>
     <p id="about" class="about-blurb"><strong>About Spot and Travel.</strong> Swipe real, visitable places — Travel if you’d go, Skip if you wouldn’t. Photos are licensed real photographs (no AI images).</p>
     <p id="legal-disclaimer" class="legal-disclaimer" data-i18n="legal_disclaimer"></p>
-    <p id="privacy-blurb" class="legal-disclaimer" data-i18n="privacy_blurb">Privacy: Spot and Travel may count anonymous Travel/Skip swipes per place to show which destinations are trending. A vote may be tagged with your approximate country, but we never store your IP address, name, email or exact location, or the home country you set on the wheel. Your saved lists stay on this device.</p>
+    <p id="privacy-blurb" class="legal-disclaimer" data-i18n="privacy_blurb">Privacy: Spot and Travel counts visits anonymously, using a random ID stored in your browser that we only keep in hashed form, the page you opened and the website that linked you (domain only). It also counts Travel/Skip swipes per place to show which destinations are trending. Counts may be tagged with your approximate country, but we never store your IP address, name, email or exact location, or the home country you set on the wheel. Your saved lists stay on this device.</p>
     <p id="credits" class="about-blurb">Photo credits appear under each card. Full attributions live in <code>data/hidden-gems.json</code> (Wikimedia Commons CC licenses).</p>
   </footer>
 
