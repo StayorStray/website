@@ -1,5 +1,5 @@
 /**
- * Spot and Travel — prize-wheel audio v2 (PREVIEW; used by pages/wheel-sound-preview.html only).
+ * Spot and Travel — prize-wheel audio v2 (used by pages/location-randomizer.html).
  *
  * - Peg crossings are computed from the spin's easing curve (not from animation frames) and
  *   scheduled on the AudioContext clock with a small lookahead, so ticks land exactly on the pegs.
