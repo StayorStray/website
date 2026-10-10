@@ -645,37 +645,70 @@
     return KLOOK_WIDGET_FALLBACK;
   }
 
-  function klookRailMarkup(variant) {
-    const url = klookSidebarUrl();
-    if (!url && !klookWidgetSrc()) return '';
-    const cls = 'klook-rail klook-rail--' + (variant || 'desktop');
-    // city_id is fixed (not per-card); never claim "nearby" until a real city map exists.
-    const nearby =
-      t('klook_find_klook') ||
-      t('klook_nearby') ||
-      'Find experiences on Klook';
+  // ---- Klook rail: per-card affiliated link + city widget (docs/ads/KLOOK.md).
+  let klookCitiesState = null; // null | Promise | Object
+  function loadKlookCities() {
+    if (klookCitiesState && !(klookCitiesState instanceof Promise)) {
+      return Promise.resolve(klookCitiesState);
+    }
+    if (!klookCitiesState) {
+      klookCitiesState = fetch(assetPath('assets/klook-cities.json'))
+        .then(function (r) { return r.ok ? r.json() : {}; })
+        .catch(function () { return {}; })
+        .then(function (j) { klookCitiesState = j || {}; return klookCitiesState; });
+    }
+    return klookCitiesState;
+  }
+
+  function klookCity(card, cities) {
+    if (!card || !cities) return null;
+    const ad = card.ad || {};
+    if (ad.klook_city_id) return { id: String(ad.klook_city_id), slug: ad.klook_city_slug || '' };
+    const ctx = planContext(card);
+    const names = [ad.city, card.city, card.name, ctx.thingsQuery].filter(Boolean);
+    for (let i = 0; i < names.length; i++) {
+      const hit = cities[String(names[i]).trim().toLowerCase()];
+      if (hit) return { id: String(hit[0]), slug: hit[1], name: names[i] };
+    }
+    return null;
+  }
+
+  // Affiliated (tp.media, marker 779952) Klook URL: city page when known, else search.
+  function klookCardUrl(card, cities) {
+    const Aff = window.SpotAndTravelAffiliates;
+    const generic = klookSidebarUrl() || KLOOK_WIDGET_FALLBACK;
+    if (!card || !Aff || typeof Aff.wrapTravelpayouts !== 'function') return generic;
+    const k = (Aff.affiliates && Aff.affiliates.klook) || {};
+    const city = klookCity(card, cities);
+    let target = '';
+    if (city && city.slug) {
+      target = 'https://www.klook.com/en-US/destination/c' + city.id + '-' + city.slug + '/1-things-to-do/';
+    } else {
+      const q = card.name || planContext(card).thingsQuery || '';
+      if (q) target = 'https://www.klook.com/en-US/search/result/?query=' + encodeURIComponent(q);
+    }
+    if (!target) return generic;
+    const w = Aff.wrapTravelpayouts(target, k.tp);
+    return w.affiliated ? w.href : generic;
+  }
+
+  function klookRailMarkup(variant, card) {
+    const url = klookCardUrl(card, klookCitiesState instanceof Promise ? null : klookCitiesState);
+    if (!url) return '';
+    const cls = 'klook-rail klook-rail--' + (variant || 'desktop') + ' klook-rail--linkonly';
+    const kicker = t('klook_find_klook') || t('klook_nearby') || 'Find experiences on Klook';
     const findExp = t('klook_find') || 'Find experiences →';
-    const fallback = url
-      ? '<a class="klook-cta klook-fallback" href="' +
-        escapeHtml(url) +
-        '" target="_blank" rel="noopener sponsored nofollow">' +
-        escapeHtml(findExp) +
-        '</a>'
-      : '';
     return (
-      '<aside class="' +
-      cls +
-      '" aria-label="' +
-      escapeHtml(nearby) +
-      '">' +
-      '<p class="klook-kicker">' +
-      escapeHtml(nearby) +
-      '</p>' +
-      fallback +
-      '<div class="klook-widget-mount" data-klook-mount></div>' +
+      '<aside class="' + cls + '" aria-label="' + escapeHtml(kicker) + '">' +
+      '<p class="klook-kicker">' + escapeHtml(kicker) + '</p>' +
+      '<a class="klook-cta klook-fallback" href="' + escapeHtml(url) +
+      '" target="_blank" rel="sponsored noopener nofollow" data-link-type="klook">' +
+      escapeHtml(findExp) + '</a>' +
+      '<div class="klook-widget-mount" data-klook-mount hidden></div>' +
       '</aside>'
     );
   }
+
 
   /** First two sentences for small-screen collapse; rest behind "More". */
   function splitWhyGo(text) {
@@ -852,7 +885,7 @@
           '</p>' +
           '</div>' +
           planPanelMarkup(rawCard, card.name || t('this_place')) +
-          klookRailMarkup('mobile')
+          klookRailMarkup('mobile', rawCard)
         : '';
 
     const cls = opts.className || 'card';
@@ -972,7 +1005,7 @@
     });
     html += '</div>';
     // Desktop Klook rail: page-right gutter (fixed), not inside the card flex row.
-    html += klookRailMarkup('desktop');
+    html += klookRailMarkup('desktop', this.current());
     this.root.innerHTML = html;
 
     document.getElementById('btn-stay').addEventListener('click', () => this.decide('stay', 'button'));
@@ -1065,8 +1098,11 @@
     const useDesktop =
       typeof window.matchMedia === 'function' &&
       window.matchMedia('(min-width: 1200px)').matches;
-    if (!useDesktop) {
-      rail.style.top = '';
+    if (!useDesktop || rail.classList.contains('klook-rail--linkonly')) {
+      if (useDesktop) {
+        const tab = document.querySelector('.deck-section-label') || document.querySelector('.tab-nav');
+        rail.style.top = tab ? Math.max(0, Math.round(tab.getBoundingClientRect().top)) + 'px' : '';
+      } else rail.style.top = '';
       rail.style.height = '';
       rail.style.minHeight = '';
       return;
@@ -1106,45 +1142,84 @@
     rail.style.minHeight = height + 'px';
   };
 
+  const KLOOK_WIDGET_TIMEOUT_MS = 8000;
+
+  function klookLinkOnly(rail, mount) {
+    if (mount) { mount.innerHTML = ''; mount.hidden = true; }
+    if (rail) {
+      rail.classList.add('klook-rail--linkonly');
+      rail.style.height = '';
+      rail.style.minHeight = '';
+    }
+  }
+
   Deck.prototype.mountKlookWidget = function () {
     if (!this.root) return;
-    const src = klookWidgetSrc();
-    // Clear every mount so a prior card never leaves stacked widgets.
-    this.root.querySelectorAll('[data-klook-mount]').forEach(function (mount) {
-      mount.innerHTML = '';
+    const self = this;
+    const gen = (this._klookGen = (this._klookGen || 0) + 1);
+    const card = this.current();
+    this.root.querySelectorAll('.klook-rail').forEach(function (rail) {
+      klookLinkOnly(rail, rail.querySelector('[data-klook-mount]'));
     });
-
     this.syncKlookRailGeometry();
-
-    if (!src) return;
-
-    const desktop = this.root.querySelector('.klook-rail--desktop');
-    const mobile = this.root.querySelector('.klook-rail--mobile');
     const useDesktop =
       typeof window.matchMedia === 'function' &&
       window.matchMedia('(min-width: 1200px)').matches;
-    const rail = useDesktop ? desktop : mobile;
-    if (!rail) return;
-    const mount = rail.querySelector('[data-klook-mount]');
-    if (!mount) return;
-
-    const fallback = rail.querySelector('.klook-fallback');
-    const script = document.createElement('script');
-    script.async = true;
-    script.charset = 'utf-8';
-    script.src = src;
-    script.setAttribute('data-klook-widget', '1');
-    script.onerror = function () {
-      if (fallback) fallback.hidden = false;
-    };
-    script.onload = function () {
-      // Keep fallback as compact top CTA once the widget mounts below it.
-      if (fallback) fallback.classList.add('klook-fallback--secondary');
-    };
-    mount.appendChild(script);
-
     this._klookWasDesktop = useDesktop;
+    this.bindKlookResize();
+    const tpl = klookWidgetSrc();
+    if (!card || !tpl || !/city_id=/.test(tpl)) return;
 
+    loadKlookCities().then(function (cities) {
+      if (gen !== self._klookGen || !self.root) return;
+      // Upgrade the CTA to the city page now that the lookup is loaded.
+      const href = klookCardUrl(card, cities);
+      self.root.querySelectorAll('.klook-rail .klook-fallback').forEach(function (a) {
+        if (href) a.setAttribute('href', href);
+      });
+      const city = klookCity(card, cities);
+      // No Klook city for this card: link only (never show another city's tours).
+      if (!city) return;
+      const rail = self.root.querySelector(useDesktop ? '.klook-rail--desktop' : '.klook-rail--mobile');
+      const mount = rail && rail.querySelector('[data-klook-mount]');
+      if (!mount) return;
+      const script = document.createElement('script');
+      script.async = true;
+      script.charset = 'utf-8';
+      script.src = tpl.replace(/([?&]city_id=)[^&]*/, '$1' + encodeURIComponent(city.id));
+      script.setAttribute('data-klook-widget', '1');
+      let settled = false;
+      const giveUp = function () {
+        if (settled || gen !== self._klookGen) return;
+        settled = true;
+        watch.disconnect();
+        klookLinkOnly(rail, mount);
+        self.syncKlookRailGeometry();
+      };
+      script.onerror = giveUp; // blocked by an ad/content blocker, offline, etc.
+      // The mount stays collapsed (0 height) until Klook inserts its iframe, so an
+      // empty box never shows. Klook renders lazily when the slot scrolls into view.
+      mount.hidden = false;
+      const timer = setTimeout(function () {
+        if (!mount.querySelector('iframe, ins')) giveUp();
+      }, KLOOK_WIDGET_TIMEOUT_MS);
+      const watch = new MutationObserver(function () {
+        if (settled || gen !== self._klookGen || !mount.querySelector('iframe')) return;
+        settled = true;
+        clearTimeout(timer);
+        watch.disconnect();
+        rail.classList.remove('klook-rail--linkonly');
+        rail.querySelector('.klook-fallback').classList.add('klook-fallback--secondary');
+        self.syncKlookRailGeometry();
+      });
+      watch.observe(mount, { childList: true, subtree: true });
+      // The script must live inside its container: tpemb.com inserts the widget
+      // next to its own <script> tag (it finds itself via promo_id in src).
+      mount.appendChild(script);
+    });
+  };
+
+  Deck.prototype.bindKlookResize = function () {
     if (!this._klookResizeBound) {
       this._klookResizeBound = true;
       const self = this;
@@ -1267,16 +1342,18 @@
     this._planBound = true;
     const deck = this;
     document.addEventListener('click', function (e) {
-      const a = e.target && e.target.closest ? e.target.closest('a.plan-link') : null;
+      const a = e.target && e.target.closest ? e.target.closest('a.plan-link, a.klook-fallback') : null;
       if (!a) return;
       const id = a.getAttribute('data-card-id');
-      const card = deck.cards.find(function (c) { return c && c.id === id; });
+      const card = id
+        ? deck.cards.find(function (c) { return c && c.id === id; })
+        : deck.current();
       if (!card) return;
       trackTrend('ad_click', deck, card, {
         source: 'ad',
         link_type: a.getAttribute('data-link-type') || 'hotel',
       });
-    });
+    }, true);
     // Keep taps inside the panels from ever reaching swipe handlers.
     ['pointerdown', 'touchstart', 'mousedown'].forEach(function (evt) {
       document.addEventListener(
