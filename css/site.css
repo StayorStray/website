@@ -1530,3 +1530,7 @@ body.list-panel-open { overflow: hidden; }
 .eg-rail-mount{min-height:320px;overflow:hidden;max-width:100%}
 .eg-rail.eg-blocked .eg-rail-mount{display:none}
 .klook-rail--desktop{overflow-x:hidden}
+
+/* Klook frame stays collapsed until its document has loaded (no blank block) */
+.klook-widget-mount.klook-mount--pending{height:2px!important;min-height:0!important;overflow:hidden;opacity:0}
+.klook-rail--mobile.klook-rail--linkonly{min-height:0;height:auto}

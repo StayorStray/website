@@ -1359,14 +1359,36 @@
       // The mount stays collapsed (0 height) until Klook inserts its iframe, so an
       // empty box never shows. Klook renders lazily when the slot scrolls into view.
       mount.hidden = false;
-      const timer = setTimeout(function () {
+      let timer = setTimeout(function () {
         if (!mount.querySelector('iframe, ins')) giveUp();
       }, KLOOK_WIDGET_TIMEOUT_MS);
       const watch = new MutationObserver(function () {
-        if (settled || gen !== self._klookGen || !mount.querySelector('iframe')) return;
+        const ifr = mount.querySelector('iframe');
+        if (settled || gen !== self._klookGen || !ifr) return;
         settled = true;
-        clearTimeout(timer);
         watch.disconnect();
+        // Keep the slot collapsed until the iframe document actually loads, so a
+        // slow or blocked Klook frame (common on iPhone Safari) never shows an empty box.
+        mount.classList.add('klook-mount--pending');
+        let shown = false;
+        const reveal = function () {
+          if (shown || gen !== self._klookGen) return;
+          shown = true;
+          clearTimeout(timer);
+          mount.classList.remove('klook-mount--pending');
+          rail.classList.remove('klook-rail--linkonly');
+          rail.querySelector('.klook-fallback').classList.add('klook-fallback--secondary');
+          self.syncKlookRailGeometry();
+        };
+        ifr.addEventListener('load', function () { setTimeout(reveal, 400); });
+        clearTimeout(timer);
+        timer = setTimeout(function () {
+          if (shown) return;
+          shown = true;
+          klookLinkOnly(rail, mount);
+          self.syncKlookRailGeometry();
+        }, KLOOK_WIDGET_TIMEOUT_MS);
+        return;
         rail.classList.remove('klook-rail--linkonly');
         rail.querySelector('.klook-fallback').classList.add('klook-fallback--secondary');
         self.syncKlookRailGeometry();
