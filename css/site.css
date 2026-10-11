@@ -1514,3 +1514,6 @@ body.list-panel-open { overflow: hidden; }
 .tab-nav a.tab-nav-wheel:hover,.tab-nav a.tab-nav-wheel[aria-current="page"]{box-shadow: inset 0 0 0 3px var(--bg), inset 0 0 0 5px var(--accent);}
 .tab-nav a.tab-nav-submit{box-shadow: inset 0 0 0 3px #f4f1ea, inset 0 0 0 4px var(--bg);}
 .tab-nav a.tab-nav-submit:hover,.tab-nav a.tab-nav-submit[aria-current="page"]{box-shadow: inset 0 0 0 3px var(--bg), inset 0 0 0 4px #f4f1ea;}
+/* Hottest Locations tab (ranking preview) */
+.tab-nav a.tab-nav-hot{background:linear-gradient(135deg,#ff7a3d,#e8c47c);color:#1a1206;border-color:transparent;font-weight:600;}
+.tab-nav a.tab-nav-hot:hover,.tab-nav a.tab-nav-hot[aria-current="page"]{box-shadow:0 0 0 2px var(--bg),0 0 0 3px #ff7a3d;color:#1a1206;}

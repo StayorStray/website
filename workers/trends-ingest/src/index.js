@@ -269,6 +269,8 @@ function authorized(request, env) {
   return given.length > 0 && timingSafeEqual(given, key);
 }
 
+import { buildScores } from './scores.js';
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -284,6 +286,14 @@ export default {
         if (await rateLimited(request, 'ingest')) return json({ error: 'rate_limited' }, 429, cors.headers);
         const res = await handleIngest(request, env);
         for (const [k, v] of Object.entries(cors.headers)) res.headers.set(k, v);
+        return res;
+      }
+
+      if (url.pathname === '/v1/scores') {
+        if (request.method !== 'GET') return json({ error: 'method' }, 405, cors.headers);
+        if (await rateLimited(request, 'report')) return json({ error: 'rate_limited' }, 429, cors.headers);
+        const res = json(await buildScores(env.DB, Date.now()), 200, cors.headers);
+        res.headers.set('Cache-Control', 'public, max-age=600');
         return res;
       }
 

@@ -381,6 +381,11 @@
         '</a></li>'
       );
     });
+    if (window.SpotAndTravelRanking && window.SpotAndTravelRanking.enabled()) {
+      const hotCur = activeSlug === 'hottest' ? ' aria-current="page"' : '';
+      items.unshift('<li><a class="tab-nav-hot"' + hotCur + ' href="' + pagePrefix +
+        'hottest.html">\uD83D\uDD25 Hottest</a></li>');
+    }
     const wheelHref = pagePrefix + 'location-randomizer.html';
     const wheelCur =
       activeSlug === 'location-randomizer' ? ' aria-current="page"' : '';
@@ -735,7 +740,19 @@
 
   Deck.prototype.load = async function () {
     const Daily = window.SpotAndTravelDaily;
-    if (Daily && Daily.selectDailyDeck) {
+    const Rank = window.SpotAndTravelRanking;
+    if (this.tab === 'hottest' && Rank) {
+      const slugs = TAB_SLUGS.map(function (t) { return t.slug; });
+      const hot = await Rank.hottest(slugs, function (tab) {
+        return fetch(dataPath(tab), { cache: 'no-store' }).then(function (r) { return r.json(); });
+      });
+      this.cards = hot.map(function (c) {
+        return Object.assign({}, c, {
+          short_line: '\uD83D\uDD25 Hot in ' + tabLabel(c.hot_tab) + ' \u00B7 ' + (c.short_line || ''),
+        });
+      });
+      this.dailyMeta = null;
+    } else if (Daily && Daily.selectDailyDeck) {
       const picked = await Daily.selectDailyDeck(this.tab);
       this.cards = picked.cards || [];
       this.dailyMeta = picked;
@@ -745,6 +762,9 @@
       const data = await res.json();
       this.cards = Array.isArray(data) ? data : [];
       this.dailyMeta = null;
+    }
+    if (Rank && this.tab !== 'hottest') {
+      try { this.cards = await Rank.rankDeck(this.tab, this.cards); } catch (e) {}
     }
     this.index = 0;
     this.last = null;
