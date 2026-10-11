@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>PREVIEW — Pay with Xaman | Spot and Travel</title>
+  <link rel="stylesheet" href="../css/site.css" />
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml" />
+  <style>
+    .xp { max-width: 560px; margin: 0 auto; padding: 16px; }
+    .xp-banner { background: #b45309; color: #fff; padding: 8px 12px; border-radius: 8px; font-weight: 700; text-align: center; }
+    .xp fieldset { border: 1px solid rgba(255,255,255,.18); border-radius: 10px; margin: 14px 0; padding: 10px 12px; }
+    .xp label { display: block; padding: 6px 0; }
+    .xp-cur { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+    .xp-cur button { padding: 12px 6px; border-radius: 10px; border: 1px solid rgba(255,255,255,.25); background: #1b2333; color: #fff; font-weight: 700; }
+    .xp-cur button small { display: block; font-weight: 400; opacity: .8; }
+    .xp-cur button[aria-pressed="true"] { outline: 2px solid #3b82f6; background: #1e3a8a; }
+    .xp-pay { width: 100%; padding: 14px; border-radius: 12px; border: 0; background: #2563eb; color: #fff; font-size: 1.05rem; font-weight: 700; margin-top: 8px; }
+    .xp-note { font-size: .92rem; opacity: .9; }
+    .xp-quote { margin-top: 16px; padding: 14px; border-radius: 12px; background: #111827; text-align: center; }
+    .xp-quote img { width: 220px; height: 220px; background: #fff; border-radius: 8px; }
+    .xp-amt { font-size: 1.5rem; font-weight: 800; margin: 6px 0; }
+    .xp-err { color: #fca5a5; }
+    .xp-small { font-size: .8rem; opacity: .75; word-break: break-all; }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <a class="home-btn" href="../index.html">Home</a>
+    <div class="brand-block"><a class="brand site-logo" href="../index.html" aria-label="Spot and Travel"><img src="../assets/logo.png" alt="Spot and Travel" width="240" height="75" /></a></div>
+  </header>
+  <main class="xp">
+    <p class="xp-banner">PREVIEW — not live. Card checkout stays the default on <a href="submit-a-place.html" style="color:#fff">Submit a Place</a>.</p>
+    <h1>Pay with Xaman</h1>
+    <p class="xp-note"><strong>Crypto is charged up front. If your listing isn't approved, we refund it in full.</strong></p>
+    <form id="xp-form">
+      <fieldset><legend>Plan</legend>
+        <label><input type="radio" name="sku" value="founding_standard" data-price="39.99" checked /> Founding Standard — $39.99</label>
+        <label><input type="radio" name="sku" value="standard" data-price="49.99" /> Standard — $49.99</label>
+        <label><input type="radio" name="sku" value="hidden_gems" data-price="99.99" /> Hidden Gems — $99.99</label>
+      </fieldset>
+      <fieldset><legend>Optional pin</legend>
+        <label><input type="radio" name="pin" value="none" data-price="0" checked /> No pin</label>
+        <label><input type="radio" name="pin" value="7d" data-price="39.99" /> 7-day Top 25 pin — +$39.99</label>
+        <label><input type="radio" name="pin" value="30d" data-price="99.99" /> 30-day Top 25 pin — +$99.99</label>
+      </fieldset>
+      <p>Total: <strong id="xp-total">$39.99</strong></p>
+      <div class="xp-cur" role="group" aria-label="Pay with">
+        <button type="button" data-cur="RLUSD" aria-pressed="true">RLUSD<small>= USD</small></button>
+        <button type="button" data-cur="XRP" aria-pressed="false">XRP<small>live rate</small></button>
+        <button type="button" data-cur="XRH" aria-pressed="false">XRH<small>10% off</small></button>
+      </div>
+      <button class="xp-pay" type="submit" id="xp-go">Pay with Xaman</button>
+      <p class="xp-small">Quotes are locked for 10 minutes. XRP and XRH amounts use a live on-ledger rate and may be refused if markets are unstable.</p>
+    </form>
+    <div id="xp-out" aria-live="polite"></div>
+  </main>
+  <script>
+  (function () {
+    var API = 'https://spotandtravel-crypto-pay.spotandtravel.workers.dev';
+    var form = document.getElementById('xp-form'), out = document.getElementById('xp-out'), cur = 'RLUSD', poll = null, tick = null;
+    function val(n) { var e = form.querySelector('input[name="' + n + '"]:checked'); return e ? e : null; }
+    function total() { return Number(val('sku').dataset.price) + Number(val('pin').dataset.price); }
+    function upd() { var t = total(); document.getElementById('xp-total').textContent = '$' + t.toFixed(2) + (cur === 'XRH' ? '  →  $' + (Math.round(t * 90) / 100).toFixed(2) + ' with XRH' : ''); }
+    form.addEventListener('change', upd);
+    Array.prototype.forEach.call(form.querySelectorAll('[data-cur]'), function (b) {
+      b.addEventListener('click', function () { cur = b.dataset.cur; Array.prototype.forEach.call(form.querySelectorAll('[data-cur]'), function (x) { x.setAttribute('aria-pressed', String(x === b)); }); upd(); });
+    });
+    function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+    form.addEventListener('submit', function (e) {
+      e.preventDefault(); clearInterval(poll); clearInterval(tick);
+      out.innerHTML = '<div class="xp-quote">Getting a quote…</div>';
+      fetch(API + '/v1/quote', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ sku: val('sku').value, pin: val('pin').value, currency: cur }) })
+        .then(function (r) { return r.json(); }).then(function (q) {
+          if (!q.ok) { out.innerHTML = '<div class="xp-quote xp-err">' + esc(q.message || 'Could not get a quote. Please try again or pay by card.') + '</div>'; return; }
+          out.innerHTML = '<div class="xp-quote"><div>Send exactly</div><div class="xp-amt">' + esc(q.amount_display) + '</div>' +
+            '<div>for $' + esc(q.charge_usd) + (q.discount_pct ? ' (10% off $' + esc(q.list_usd) + ')' : '') + '</div>' +
+            '<p><img alt="Xaman QR code" src="' + esc(q.xaman.qr_png) + '" /></p>' +
+            '<a class="xp-pay" style="display:block;text-decoration:none" href="' + esc(q.xaman.deeplink) + '">Open in Xaman</a>' +
+            '<p>Quote locked for <strong id="xp-left">10:00</strong></p><p id="xp-st">Waiting for payment…</p>' +
+            '<p class="xp-small">Listing reference ' + esc(q.ref) + ' · Destination tag ' + esc(q.destination_tag) + '<br>To ' + esc(q.destination) + '</p>' +
+            '<p class="xp-note">Crypto is charged up front. If your listing isn\'t approved, we refund it in full.</p></div>';
+          tick = setInterval(function () { var s = Math.max(0, Math.round((q.expires_at - Date.now()) / 1000)); var el = document.getElementById('xp-left'); if (el) el.textContent = Math.floor(s / 60) + ':' + String(s % 60).padStart(2, '0'); if (!s) clearInterval(tick); }, 1000);
+          poll = setInterval(function () {
+            fetch(API + '/v1/status?ref=' + encodeURIComponent(q.ref)).then(function (r) { return r.json(); }).then(function (s) {
+              var el = document.getElementById('xp-st'); if (!el) return;
+              var msg = { paid: 'Payment verified on the XRP Ledger. Thank you!', rejected_payment: 'Payment could not be accepted: ' + (s.note || ''), expired: 'Quote expired. Get a new quote.', declined: 'Cancelled in Xaman.', pending_validation: 'Payment sent, confirming on the ledger…' }[s.status];
+              if (msg) el.textContent = msg;
+              if (['paid', 'rejected_payment', 'expired', 'declined'].indexOf(s.status) >= 0) { clearInterval(poll); }
+            }).catch(function () {});
+          }, 4000);
+        }).catch(function () { out.innerHTML = '<div class="xp-quote xp-err">Could not reach the crypto checkout. Please try again or pay by card.</div>'; });
+    });
+    upd();
+  })();
+  </script>
+</body>
+</html>
