@@ -1,9 +1,19 @@
-# Pay with Xaman (crypto) — PREVIEW
+# Pay with Xaman (crypto) — LIVE (since 2026-10-11)
 
-Status: **preview only**. Hidden page `pages/submit-a-place-crypto-preview.html` (noindex, not in sitemap or nav).
-The real Submit a Place page and the Stripe card-hold checkout (`config/submit.js`) are unchanged and remain the default.
+Status: **live** as a secondary option on `pages/submit-a-place.html` ("How to pay"), UI in `js/crypto-pay.js`.
+Card hold (Stripe links in `config/submit.js`, unchanged) stays the default. The buyer submits the form first (same Basin
+POST, same `submission_ref` as card orders, with `pay_method=crypto_xaman` and `crypto_currency`), then gets the Xaman quote.
+The old preview page now redirects to the real page.
 
-- Worker: `workers/crypto-pay` → `https://spotandtravel-crypto-pay.spotandtravel.workers.dev` (`PREVIEW = "true"`)
+## Seeing crypto orders
+- Paid orders trigger a Basin alert (same inbox as new submissions), subject `Spot and Travel CRYPTO PAID <submission ref>: <amount>`.
+- List orders (report key in `/home/box/secrets/spotandtravel-report-key.txt`):
+  `curl -s -H "Authorization: Bearer $(cat /home/box/secrets/spotandtravel-report-key.txt)" "https://spotandtravel-crypto-pay.spotandtravel.workers.dev/v1/admin/orders?status=paid"`
+  (`status=` paid | awaiting_payment | expired | declined | rejected_payment | refunded | all; `&limit=` up to 200).
+- Payment status updates when the buyer's page polls, or via the optional webhook. If a buyer closes the page right after
+  paying, open `GET /v1/status?ref=SAT-<tag>` once (from the admin list) to verify and record it.
+
+- Worker: `workers/crypto-pay` → `https://spotandtravel-crypto-pay.spotandtravel.workers.dev` (`PREVIEW = "false"`; preview `test_override` is ignored in live mode)
 - Secrets (Worker secrets only, never in repo/browser): `XAMAN_API_KEY`, `XAMAN_API_SECRET`
 - Receiving wallet (receive-only, no seed held anywhere): `rDV2dFozB1jqCYXQnAMVAWVZEUQKpeQ4Yo`
 - D1: shared `spotandtravel-trends` DB, tables `crypto_orders`, `crypto_events` (`migrations/0001_crypto.sql`)
@@ -32,7 +42,7 @@ transactions within 72 h (each post-trade ratio is the price that trade left beh
 - XRP: ledger mid vs public API (Kraken, fallback Coinbase) differ > **3 %**; book spread > 2 %; empty side of book.
 - XRH: spot deviates > **15 %** from the average; fewer than 5 trades in 72 h; AMM XRP reserve < 500 XRP;
   quote worth > 10 % of the AMM XRP reserve; pool frozen.
-- Preview only: `test_override` (`spot_mult`, `pool_xrp`) simulates a spike / thin pool and returns a dry run (no payload).
+- Preview only (ignored when PREVIEW=false): `test_override` (`spot_mult`, `pool_xrp`) simulates a spike / thin pool and returns a dry run (no payload).
 
 ## Refunds (by hand)
 Crypto is charged up front. If a listing is rejected, BoOnE refunds it **in full, by hand, from his own wallet** in Xaman:
@@ -44,6 +54,5 @@ Crypto is charged up front. If a listing is rejected, BoOnE refunds it **in full
 4. Record it: `UPDATE crypto_orders SET status='refunded', verify_note='refund tx <hash>' WHERE ref='SAT-…'`.
 Never share the wallet seed with anyone (including Grok Bot); refunds are always signed by BoOnE in Xaman.
 
-## Going live (not done)
-Set `PREVIEW = "false"`, redeploy, link the option from the real Submit page (after the Basin submission step), and add the
-webhook URL in the Xaman console if wanted.
+## Tests
+`node workers/crypto-pay/test/verify.test.mjs` (on-ledger verification) and `node workers/crypto-pay/test/guards.test.mjs` (quote guards, live mode).

@@ -162,6 +162,27 @@
           <p class="submit-hint" data-i18n="submit_pin_cap">Subject to availability (25 pin cap per tab). Pin clock starts at go-live, not at payment.</p>
         </fieldset>
 
+        <fieldset class="submit-fieldset submit-paymethod" id="submit-paymethod">
+          <legend class="submit-label">How to pay</legend>
+          <label class="submit-radio">
+            <input type="radio" name="pay_method" value="card" checked />
+            <span>Card (default): held at checkout, charged only if your listing is approved</span>
+          </label>
+          <label class="submit-radio">
+            <input type="radio" name="pay_method" value="crypto" />
+            <span>Pay with Xaman (RLUSD, XRP, or XRH 10% off)</span>
+          </label>
+          <div class="xc-options" id="xc-options" hidden>
+            <div class="xc-cur" role="group" aria-label="Crypto currency">
+              <button type="button" data-xc-cur="RLUSD" aria-pressed="true">RLUSD<small>= USD</small></button>
+              <button type="button" data-xc-cur="XRP" aria-pressed="false">XRP<small>live rate</small></button>
+              <button type="button" data-xc-cur="XRH" aria-pressed="false">XRH<small>10% off</small></button>
+            </div>
+            <p class="xc-note">Crypto is charged up front. If your listing isn't approved, we refund it in full.</p>
+            <p class="submit-hint">We send your submission first, then show a Xaman request. Quotes are locked for 10 minutes. XRP and XRH use a live on-ledger rate and may be refused if markets are unstable.</p>
+          </div>
+        </fieldset>
+
         <section class="submit-review" id="submit-review" aria-labelledby="submit-review-heading">
           <h2 id="submit-review-heading" class="submit-review-heading" data-i18n="submit_review_heading">Order summary</h2>
           <ul class="submit-review-lines" id="submit-review-lines">
@@ -195,6 +216,7 @@
         </div>
         <p class="submit-hint" id="submit-status" role="status" hidden></p>
       </form>
+      <div class="xc-out" id="xc-out" aria-live="polite" hidden></div>
     </section>
   </main>
 
@@ -215,6 +237,7 @@
 
   <script src="../config/affiliates.js"></script>
   <script src="../config/submit.js"></script>
+  <script src="../js/crypto-pay.js"></script>
   <script src="../js/i18n.js"></script>
   <script src="../js/trends.js"></script>
   <script src="../js/ranking.js"></script>
@@ -584,7 +607,7 @@
     }
     function payloadKey(payload) {
       return [payload.submission_ref, payload.place_name, payload.country, payload.city, payload.tab,
-        payload.why_stay, payload.submitter_email, payload.sku, payload.pin,
+        payload.why_stay, payload.submitter_email, payload.sku, payload.pin, payload.pay_method, payload.crypto_currency,
         selectedPhoto ? selectedPhoto.size : 0].join('|');
     }
     function showStatus(msg) {
@@ -602,6 +625,7 @@
       }
     }
     function goToCheckout(payload) {
+      if (payload.pay_method === 'crypto_xaman' && window.SATCrypto) { window.SATCrypto.start(payload, showStatus); return; }
       var url = checkoutUrl(payload.sku, payload.pin, payload.submission_ref, payload.submitter_email);
       if (!url) {
         console.warn('[Spot and Travel Submit] no Payment Link for', checkoutMode(), payload.sku, payload.pin);
@@ -708,7 +732,11 @@
         acks: 'license=yes; real_place=yes; paid_listing=yes',
         submission_ref: currentRef(),
         checkout_mode: checkoutMode(),
-        payment_terms: 'Card HOLD only (Stripe manual capture). Captured only if the listing is approved; hold cancelled (no charge) if rejected. Holds expire after ~7 days.'
+        pay_method: (window.SATCrypto && window.SATCrypto.selected()) ? 'crypto_xaman' : 'card',
+        crypto_currency: (window.SATCrypto && window.SATCrypto.selected()) ? window.SATCrypto.currency() : '',
+        payment_terms: (window.SATCrypto && window.SATCrypto.selected())
+          ? 'CRYPTO via Xaman (' + window.SATCrypto.currency() + '), charged up front to rDV2dFozB1jqCYXQnAMVAWVZEUQKpeQ4Yo. Refunded in full by hand if the listing is rejected.'
+          : 'Card HOLD only (Stripe manual capture). Captured only if the listing is approved; hold cancelled (no charge) if rejected. Holds expire after ~7 days.'
       };
     }
 
@@ -883,6 +911,7 @@
 
     /** Basin failed: the buyer emails the submission themselves, then can still place the card hold. */
     function offerCheckoutAfterFallback(payload) {
+      if (payload.pay_method === 'crypto_xaman' && window.SATCrypto) { window.SATCrypto.start(payload); return; }
       var url = checkoutUrl(payload.sku, payload.pin, payload.submission_ref, payload.submitter_email);
       if (!url) return;
       sset(PENDING_KEY, JSON.stringify({ ref: payload.submission_ref, url: url, sku: payload.sku,

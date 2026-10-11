@@ -35,6 +35,7 @@ class Refuse extends Error { constructor(code, msg, detail) { super(msg); this.c
 function cors(req, env) {
   const o = req.headers.get('Origin') || '';
   const ok = String(env.ALLOWED_ORIGINS || '').split(',').map((s) => s.trim()).includes(o);
+  // (admin routes are not CORS-enabled for browsers; use curl with the report key)
   return ok ? { 'Access-Control-Allow-Origin': o, 'Vary': 'Origin', 'Access-Control-Allow-Methods': 'GET,POST,OPTIONS', 'Access-Control-Allow-Headers': 'Content-Type' } : {};
 }
 function json(body, status, h) {
@@ -173,6 +174,9 @@ async function handleQuote(req, env) {
   const b = await req.json().catch(() => ({}));
   const sku = String(b.sku || ''), pin = String(b.pin || 'none'), currency = String(b.currency || '').toUpperCase();
   if (!(sku in SKUS) || !(pin in PINS) || !['RLUSD', 'XRP', 'XRH'].includes(currency)) return { status: 400, body: { ok: false, error: 'bad_request' } };
+  const subRef = String(b.submission_ref || '');
+  if (subRef && !/^SAT-\d{6}-[A-Z0-9]{6}$/.test(subRef)) return { status: 400, body: { ok: false, error: 'bad_submission_ref' } };
+  if (env.PREVIEW !== 'true' && !subRef) return { status: 400, body: { ok: false, error: 'submission_required', message: 'Please submit the listing form first.' } };
   const listCents = SKUS[sku] + PINS[pin];
   const chargeCents = currency === 'XRH' ? Math.round(listCents * (100 - XRH_DISCOUNT_PCT) / 100) : listCents;
   // Guard-test overrides (simulate a price spike / thin pool) only in PREVIEW, and they never create a payload.
@@ -199,14 +203,14 @@ async function handleQuote(req, env) {
     txjson: { TransactionType: 'Payment', Destination: env.DEST_WALLET, DestinationTag: tag, Amount: q.amount,
       Memos: [{ Memo: { MemoType: hex('spotandtravel/listing'), MemoData: hex(ref) } }] },
     options: { submit: true, expire: LOCK_MIN },
-    custom_meta: { identifier: ref, instruction: 'Spot and Travel listing ' + ref + ': ' + label + ' — ' + q.display + '. Charged up front; refunded in full if the listing is not approved.' },
+    custom_meta: { identifier: ref, blob: { submission_ref: subRef }, instruction: 'Spot and Travel listing ' + (subRef || ref) + ' (payment ' + ref + ')' + ': ' + label + ' — ' + q.display + '. Charged up front; refunded in full if the listing is not approved.' },
   }) });
-  await env.DB.prepare(`INSERT INTO crypto_orders (ref,dest_tag,sku,pin,usd_cents,charge_usd_cents,currency,amount_json,amount_display,rate_json,payload_uuid,email,place_name,preview,created_at,expires_at,status)
-    VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,'awaiting_payment')`).bind(ref, tag, sku, pin, listCents, chargeCents, currency,
+  await env.DB.prepare(`INSERT INTO crypto_orders (ref,dest_tag,sku,pin,usd_cents,charge_usd_cents,currency,amount_json,amount_display,rate_json,payload_uuid,email,place_name,preview,created_at,expires_at,status,submission_ref)
+    VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,'awaiting_payment',?)`).bind(ref, tag, sku, pin, listCents, chargeCents, currency,
     JSON.stringify(q.amount), q.display, JSON.stringify(q.rate), payload.uuid, String(b.email || '').slice(0, 200) || null,
-    String(b.place_name || '').slice(0, 200) || null, env.PREVIEW === 'true' ? 1 : 0, now, expires).run();
+    String(b.place_name || '').slice(0, 200) || null, env.PREVIEW === 'true' ? 1 : 0, now, expires, subRef || null).run();
   await logEvent(env, ref, 'quote', { currency, display: q.display, uuid: payload.uuid });
-  return { status: 200, body: { ok: true, ref, destination_tag: tag, destination: env.DEST_WALLET, currency, list_usd: (listCents / 100).toFixed(2), charge_usd: (chargeCents / 100).toFixed(2),
+  return { status: 200, body: { ok: true, ref, submission_ref: subRef || null, destination_tag: tag, destination: env.DEST_WALLET, currency, list_usd: (listCents / 100).toFixed(2), charge_usd: (chargeCents / 100).toFixed(2),
     discount_pct: currency === 'XRH' ? XRH_DISCOUNT_PCT : 0, amount: q.amount, amount_display: q.display, rate: q.rate, expires_at: expires,
     xaman: { uuid: payload.uuid, qr_png: payload.refs && payload.refs.qr_png, deeplink: payload.next && payload.next.always } } };
 }
@@ -252,7 +256,31 @@ async function verify(env, ref) {
   const dupe = await env.DB.prepare('SELECT ref FROM crypto_orders WHERE tx_hash=? AND ref<>?').bind(txid, ref).first();
   if (dupe) problems.push('tx already used for ' + dupe.ref);
   if (problems.length) return set('rejected_payment', problems.join('; '), dupe ? null : txid, delivered);
-  return set('paid', 'Verified on-ledger: delivered_amount, destination, tag, currency and issuer match.', txid, delivered);
+  const res = await set('paid', 'Verified on-ledger: delivered_amount, destination, tag, currency and issuer match.', txid, delivered);
+  await alertPaid(env, Object.assign({}, o, { tx_hash: txid, delivered_json: JSON.stringify(delivered) }));
+  return res;
+}
+
+// Same alert path as new submissions: a Basin form post, which emails BoOnE.
+async function alertPaid(env, o, test) {
+  if (!env.ALERT_FORM_ENDPOINT) return { ok: false, error: 'no endpoint' };
+  const fd = new FormData();
+  const subj = (test ? '[TEST] ' : '') + 'Spot and Travel CRYPTO PAID ' + (o.submission_ref || o.ref) + ': ' + o.amount_display;
+  const f = { _subject: subj, submission_ref: o.submission_ref || '', crypto_ref: o.ref, place_name: o.place_name || '', email: o.email || '',
+    sku: o.sku, pin: o.pin, currency: o.currency, amount: o.amount_display, usd_charged: (o.charge_usd_cents / 100).toFixed(2),
+    tx_hash: o.tx_hash || '', explorer: o.tx_hash ? 'https://livenet.xrpl.org/transactions/' + o.tx_hash : '', delivered: o.delivered_json || '',
+    note: (test ? 'TEST ALERT ONLY - no payment. ' : '') + 'Crypto charged up front. If rejected, refund in full by hand (docs/checkout/CRYPTO-XAMAN.md).' };
+  for (const k in f) fd.append(k, String(f[k]));
+  try {
+    const r = await fetch(env.ALERT_FORM_ENDPOINT, { method: 'POST', body: fd, headers: { Accept: 'application/json', Origin: 'https://spotandtravel.com', Referer: 'https://spotandtravel.com/pages/submit-a-place.html' } });
+    const t = await r.text();
+    await logEvent(env, o.ref, 'alert', { status: r.status, body: t.slice(0, 300), test: !!test });
+    return { ok: r.ok, status: r.status, body: t.slice(0, 300) };
+  } catch (e) { await logEvent(env, o.ref, 'alert', { error: String(e) }); return { ok: false, error: String(e) }; }
+}
+function authed(req, env, url) {
+  const k = (req.headers.get('Authorization') || '').replace(/^Bearer\s+/i, '') || req.headers.get('X-Report-Key') || '';
+  return !!env.REPORT_KEY && k.length === env.REPORT_KEY.length && k === env.REPORT_KEY;
 }
 
 export default {
@@ -266,6 +294,21 @@ export default {
         const ref = url.searchParams.get('ref') || '';
         if (!/^SAT-\d{9,10}$/.test(ref)) return json({ ok: false, error: 'bad_ref' }, 400, h);
         const r = await verify(env, ref); return json(r.body, r.status, h);
+      }
+      if (url.pathname.startsWith('/v1/admin/')) {
+        if (!authed(req, env, url)) return json({ ok: false, error: 'unauthorized' }, 401);
+        if (url.pathname === '/v1/admin/orders' && req.method === 'GET') {
+          const st = url.searchParams.get('status') || 'paid';
+          const lim = Math.min(200, Number(url.searchParams.get('limit')) || 50);
+          const q = st === 'all' ? env.DB.prepare('SELECT * FROM crypto_orders ORDER BY created_at DESC LIMIT ?').bind(lim)
+            : env.DB.prepare('SELECT * FROM crypto_orders WHERE status=? ORDER BY created_at DESC LIMIT ?').bind(st, lim);
+          const r = await q.all();
+          return json({ ok: true, status: st, count: r.results.length, orders: r.results.map((o) => Object.assign({}, o, { created_ct: new Date(o.created_at).toLocaleString('en-US', { timeZone: 'America/Chicago' }) })) });
+        }
+        if (url.pathname === '/v1/admin/test-alert' && req.method === 'POST') {
+          return json(await alertPaid(env, { ref: 'SAT-000000000', submission_ref: 'SAT-000000-TEST00', amount_display: '0 TEST', sku: 'test', pin: 'none', currency: 'TEST', charge_usd_cents: 0, place_name: 'TEST alert (no payment)' }, true));
+        }
+        return json({ ok: false, error: 'not_found' }, 404);
       }
       if (url.pathname === '/v1/xaman-webhook' && req.method === 'POST') {
         // Body is untrusted: we only read the payload uuid, then re-fetch everything from Xaman + the ledger.

@@ -1,4 +1,4 @@
-# Spot and Travel — "Pay with Xaman" crypto checkout Worker (PREVIEW). Docs: docs/checkout/CRYPTO-XAMAN.md
+# Spot and Travel — "Pay with Xaman" crypto checkout Worker (LIVE). Docs: docs/checkout/CRYPTO-XAMAN.md
 name = "spotandtravel-crypto-pay"
 main = "src/index.js"
 compatibility_date = "2025-09-01"
@@ -8,7 +8,8 @@ account_id = "a0834431555078b5312f9b68d00be5fd"
 [vars]
 ALLOWED_ORIGINS = "https://spotandtravel.com,https://www.spotandtravel.com,https://stayorstray.github.io"
 DEST_WALLET = "rDV2dFozB1jqCYXQnAMVAWVZEUQKpeQ4Yo"
-PREVIEW = "true"
+PREVIEW = "false"
+ALERT_FORM_ENDPOINT = "https://usebasin.com/f/22787259725b"
 # XAMAN_API_KEY and XAMAN_API_SECRET are Worker *secrets* (wrangler secret put). Never commit them.
 
 # Shares the existing D1 database; crypto tables are prefixed crypto_.

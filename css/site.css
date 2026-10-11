@@ -1550,3 +1550,45 @@ body.list-panel-open { overflow: hidden; }
 /* Klook frame stays collapsed until its document has loaded (no blank block) */
 .klook-widget-mount.klook-mount--pending{height:2px!important;min-height:0!important;overflow:hidden;opacity:0}
 .klook-rail--mobile.klook-rail--linkonly{min-height:0;height:auto}
+
+/* ---- Pay with Xaman (secondary crypto option, js/crypto-pay.js) ---- */
+.xc-options { display: grid; gap: 0.75rem; margin-top: 0.35rem; }
+.xc-options[hidden], .xc-out[hidden] { display: none; }
+.xc-cur { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.5rem; }
+.xc-cur button {
+  min-height: var(--tap); padding: 0.5rem 0.25rem; border-radius: 12px; border: 1px solid var(--border);
+  background: var(--bg); color: var(--text); font: 600 0.95rem/1.2 var(--font-ui); cursor: pointer;
+}
+.xc-cur button small { display: block; margin-top: 0.15rem; font-weight: 400; font-size: 0.75rem; color: var(--muted); }
+.xc-cur button[aria-pressed="true"] { border-color: var(--accent); box-shadow: inset 0 0 0 1px var(--accent); }
+.xc-cur button:focus-visible, .xc-copy:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.xc-note { margin: 0; font-size: 0.9rem; line-height: 1.45; color: var(--text); font-weight: 600; }
+.xc-out { margin-top: 1rem; scroll-margin-top: 110px; }
+.xc-quote {
+  display: grid; justify-items: center; gap: 0.75rem; padding: 1.25rem 1rem; text-align: center;
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+}
+.xc-quote p { margin: 0; }
+.xc-kicker { font-size: 0.85rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; }
+.xc-amt { font-family: var(--font-display); font-size: 1.7rem; font-weight: 700; line-height: 1.15; }
+.xc-line { font-size: 0.95rem; line-height: 1.45; }
+.xc-err .xc-line { color: #f3b4a8; }
+.xc-issuer {
+  width: 100%; box-sizing: border-box; display: grid; gap: 0.5rem; padding: 0.85rem; text-align: left;
+  border: 1px solid var(--accent); border-radius: 12px;
+}
+.xc-issuer-label { font-size: 0.9rem; font-weight: 600; color: var(--accent); }
+.xc-addr {
+  display: block; padding: 0.55rem 0.65rem; border-radius: 8px; background: var(--bg);
+  font: 0.85rem/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; overflow-wrap: anywhere;
+  user-select: all; -webkit-user-select: all;
+}
+.xc-addr-inline { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; overflow-wrap: anywhere; }
+.xc-copy {
+  justify-self: start; min-height: 40px; padding: 0 1rem; border-radius: 999px; border: 1px solid var(--border);
+  background: transparent; color: var(--text); font: 600 0.9rem var(--font-ui); cursor: pointer;
+}
+.xc-issuer-note { font-size: 0.82rem; line-height: 1.45; color: var(--muted); }
+.xc-qr { width: 220px; height: 220px; padding: 8px; background: #fff; border-radius: 12px; }
+.xc-open { width: 100%; max-width: 320px; text-decoration: none; color: #fff; font-weight: 700; }
+.xc-meta { font-size: 0.78rem; line-height: 1.5; color: var(--muted); }
