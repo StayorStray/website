@@ -22,6 +22,9 @@
     .xp-quote img { width: 220px; height: 220px; background: #fff; border-radius: 8px; }
     .xp-amt { font-size: 1.5rem; font-weight: 800; margin: 6px 0; }
     .xp-err { color: #fca5a5; }
+    .xp-quote { scroll-margin-top: 120px; }
+    .xp-issuer { margin: 10px 0; padding: 10px; border: 1px solid #f59e0b; border-radius: 8px; text-align: left; }
+    .xp-issuer code { display: block; user-select: all; -webkit-user-select: all; word-break: break-all; font-size: .95rem; background: #000; padding: 6px; border-radius: 6px; margin: 4px 0; }
     .xp-small { font-size: .8rem; opacity: .75; word-break: break-all; }
   </style>
 </head>
@@ -58,6 +61,7 @@
   </main>
   <script>
   (function () {
+    var ISSUERS = { RLUSD: 'rMxCKbEDwqr76QuheSUMdEGf4B9xJ8m5De', XRH: 'r9xu7pdBEx4DdiatMqAUFodgxaPkfFU1Zw' };
     var API = 'https://spotandtravel-crypto-pay.spotandtravel.workers.dev';
     var form = document.getElementById('xp-form'), out = document.getElementById('xp-out'), cur = 'RLUSD', poll = null, tick = null;
     function val(n) { var e = form.querySelector('input[name="' + n + '"]:checked'); return e ? e : null; }
@@ -76,11 +80,14 @@
           if (!q.ok) { out.innerHTML = '<div class="xp-quote xp-err">' + esc(q.message || 'Could not get a quote. Please try again or pay by card.') + '</div>'; return; }
           out.innerHTML = '<div class="xp-quote"><div>Send exactly</div><div class="xp-amt">' + esc(q.amount_display) + '</div>' +
             '<div>for $' + esc(q.charge_usd) + (q.discount_pct ? ' (10% off $' + esc(q.list_usd) + ')' : '') + '</div>' +
+            (ISSUERS[q.currency] ? (q.amount.issuer !== ISSUERS[q.currency] ? '' : '<div class="xp-issuer">Official ' + q.currency + ' issuer:<code id="xp-issuer-addr">' + ISSUERS[q.currency] + '</code><button type="button" id="xp-copy">Copy issuer</button><div class="xp-small">Make sure your wallet\'s ' + q.currency + ' trustline uses this exact issuer. Look-alike tokens with other issuers will be rejected.</div></div>') : '') +
             '<p><img alt="Xaman QR code" src="' + esc(q.xaman.qr_png) + '" /></p>' +
             '<a class="xp-pay" style="display:block;text-decoration:none" href="' + esc(q.xaman.deeplink) + '">Open in Xaman</a>' +
             '<p>Quote locked for <strong id="xp-left">10:00</strong></p><p id="xp-st">Waiting for payment…</p>' +
             '<p class="xp-small">Listing reference ' + esc(q.ref) + ' · Destination tag ' + esc(q.destination_tag) + '<br>To ' + esc(q.destination) + '</p>' +
             '<p class="xp-note">Crypto is charged up front. If your listing isn\'t approved, we refund it in full.</p></div>';
+          var cp = document.getElementById('xp-copy'); if (cp) cp.addEventListener('click', function () { var t = document.getElementById('xp-issuer-addr').textContent; (navigator.clipboard ? navigator.clipboard.writeText(t) : Promise.reject()).then(function () { cp.textContent = 'Copied'; }, function () { var r = document.createRange(); r.selectNodeContents(document.getElementById('xp-issuer-addr')); var sel = getSelection(); sel.removeAllRanges(); sel.addRange(r); }); });
+          out.querySelector('.xp-quote').scrollIntoView({ behavior: 'smooth', block: 'start' });
           tick = setInterval(function () { var s = Math.max(0, Math.round((q.expires_at - Date.now()) / 1000)); var el = document.getElementById('xp-left'); if (el) el.textContent = Math.floor(s / 60) + ':' + String(s % 60).padStart(2, '0'); if (!s) clearInterval(tick); }, 1000);
           poll = setInterval(function () {
             fetch(API + '/v1/status?ref=' + encodeURIComponent(q.ref)).then(function (r) { return r.json(); }).then(function (s) {
