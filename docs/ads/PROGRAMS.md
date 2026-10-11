@@ -1,11 +1,11 @@
 # Affiliate programs to join, and how to switch each link on
 
-Account: Travelpayouts **marker (partner ID) 779952**, **project (trs) 576993**. Both come from the
+Account: Travelpayouts **marker (partner ID) 779952**, **project (trs) 583983**. Both come from the
 Klook widget already on the site.
 
 Travelpayouts' documented universal deep-link format (Help Center, e.g. "Airalo affiliate links"):
 
-    https://tp.media/r?marker=779952&trs=576993&p=<PROGRAM_ID>&u=<URL-encoded brand URL>[&campaign_id=<ID>]
+    https://tp.media/r?marker=779952&trs=583983&p=<PROGRAM_ID>&u=<URL-encoded brand URL>[&campaign_id=<ID>]
 
 The site builds this automatically for any brand whose `tp.p` is set in `config/affiliates.js`.
 Program ids are **not** guessed. Only these two are published on Travelpayouts' own offer pages, and
@@ -19,7 +19,7 @@ both were verified on 2026-10-09 to redirect with `marker=779952`:
 These are not used in the panel yet. Aviasales links need a departure airport, which the site does not
 know. QEEQ has no documented per-city URL.
 
-## Join these programs (Travelpayouts → Programs → search → "Join", project 576993)
+## Join these programs (Travelpayouts → Programs → search → "Join", project 583983)
 
 1. **EconomyBookings** (car rental): https://www.travelpayouts.com/en/offers/economybookings-affiliate-program/
 2. **Klook** (things to do; you are already in it for the widget): https://www.travelpayouts.com/en/offers/klook-affiliate-program/
@@ -28,7 +28,7 @@ know. QEEQ has no documented per-city URL.
 
 Then, for each of EconomyBookings and Klook (2 minutes each):
 
-1. Travelpayouts → **Tools → Link generator** (or "Create link"), project 576993, choose the brand.
+1. Travelpayouts → **Tools → Link generator** (or "Create link"), project 583983, choose the brand.
 2. Paste any search URL from that brand, e.g. `https://www.economybookings.com/en?idpick=Milan` or
    `https://www.klook.com/en-US/search/result/?query=Paris`, then click **Generate**.
 3. Open the generated short link in https://linkunshorten.com and copy the `p=` value (and `campaign_id=`
