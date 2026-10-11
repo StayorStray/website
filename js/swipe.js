@@ -41,7 +41,8 @@
       const T = window.SpotAndTravelTrends;
       if (!T || !T.isEnabled || !T.isEnabled()) return;
       if (card && !(deck && deck.cards.some(function (c) { return c && c.id === card.id; }))) return;
-      T.track(action, Object.assign({ card: card || null, tab: deck ? deck.tab : null }, extra || {}));
+      const homeTab = card && card.hot_tab ? card.hot_tab : (deck ? deck.tab : null);
+      T.track(action, Object.assign({ card: card || null, tab: homeTab }, extra || {}));
     } catch (e) {}
   }
 
@@ -381,11 +382,6 @@
         '</a></li>'
       );
     });
-    if (window.SpotAndTravelRanking && window.SpotAndTravelRanking.enabled()) {
-      const hotCur = activeSlug === 'hottest' ? ' aria-current="page"' : '';
-      items.unshift('<li><a class="tab-nav-hot"' + hotCur + ' href="' + pagePrefix +
-        'hottest.html">\uD83D\uDD25 Hottest</a></li>');
-    }
     const wheelHref = pagePrefix + 'location-randomizer.html';
     const wheelCur =
       activeSlug === 'location-randomizer' ? ' aria-current="page"' : '';
@@ -396,6 +392,9 @@
         wheelHref +
         '">' + escapeHtml(tabLabel('location-randomizer')) + '</a></li>'
     );
+    const hotCur = activeSlug === 'hottest' ? ' aria-current="page"' : '';
+    items.push('<li id="tab-nav-hot-li" hidden><a class="tab-nav-hot"' + hotCur + ' href="' + pagePrefix +
+      'hottest.html">\uD83D\uDD25 Hottest</a></li>');
     const submitHref = pagePrefix + 'submit-a-place.html';
     const submitCur =
       activeSlug === 'submit-a-place' ? ' aria-current="page"' : '';
@@ -407,6 +406,15 @@
         '">' + escapeHtml(tabLabel('submit-a-place')) + '</a></li>'
     );
     nav.innerHTML = items.join('');
+    const R = window.SpotAndTravelRanking;
+    if (R && R.hottest) {
+      R.hottest(TAB_SLUGS.map(function (t) { return t.slug; }), function (tab) {
+        return fetch(dataPath(tab)).then(function (r) { return r.json(); });
+      }).then(function (hot) {
+        const li = document.getElementById('tab-nav-hot-li');
+        if (li && hot && hot.length >= 10) li.hidden = false;
+      }).catch(function () {});
+    }
   }
 
 
@@ -746,7 +754,7 @@
       const hot = await Rank.hottest(slugs, function (tab) {
         return fetch(dataPath(tab), { cache: 'no-store' }).then(function (r) { return r.json(); });
       });
-      this.cards = hot.map(function (c) {
+      this.cards = (hot.length >= 10 ? hot : []).map(function (c) {
         return Object.assign({}, c, {
           short_line: '\uD83D\uDD25 Hot in ' + tabLabel(c.hot_tab) + ' \u00B7 ' + (c.short_line || ''),
         });
@@ -996,6 +1004,12 @@
   };
 
   Deck.prototype.render = function () {
+    if (this.tab === 'hottest' && !this.cards.length) {
+      this.root.innerHTML = '<div class="end-deck" role="status"><h2>\uD83D\uDD25 Heating up\u2026</h2>' +
+        '<p>Hottest Locations shows the most-liked places in each section once enough travelers have voted. Keep swiping, and check back soon!</p>' +
+        '<p><a href="hidden-gems.html">Start swiping Hidden Gems \u2192</a></p></div>';
+      return;
+    }
     if (!this.root) return;
     if (this._swipeAbort) {
       this._swipeAbort.abort();

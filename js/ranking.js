@@ -1,11 +1,11 @@
 /* Spot and Travel — like-based deck ordering + "Hottest Locations" (PREVIEW, off by default).
- * Turned on only with ?ranking=preview (remembered in sessionStorage) until BoOnE approves.
+ * On by default (?ranking=off disables). Sections with < 30 votes keep the current order.
  * Score (plain words): a place's like rate, pulled toward the site average until it has enough
  * votes (Bayesian average, PRIOR_VOTES "pretend" votes at the site-wide rate), so 2-for-2 doesn't
  * beat 80-for-100. New / barely-seen places get a fading freshness boost. Near-ties get a small
  * daily shuffle. Paid pins (data/pins.json) always go first. Any failure -> original order.
  * Stats: public aggregated /v1/scores (one vote per visitor session per place, 90 days),
- * falling back to data/ranking-snapshot.json. No personal data either way.
+ * No personal data.
  */
 (function (global) {
   'use strict';
@@ -25,12 +25,7 @@
 
   function root() { return (document.body && document.body.dataset.assetRoot) || './'; }
   function enabled() {
-    try {
-      var q = new URLSearchParams(location.search).get('ranking');
-      if (q === 'preview') sessionStorage.setItem('sat_ranking', '1');
-      if (q === 'off') sessionStorage.removeItem('sat_ranking');
-      return sessionStorage.getItem('sat_ranking') === '1';
-    } catch (e) { return false; }
+    try { return new URLSearchParams(location.search).get('ranking') !== 'off'; } catch (e) { return true; }
   }
   function getJSON(u) {
     return fetch(u, { cache: 'no-store' }).then(function (r) { if (!r.ok) throw 0; return r.json(); });
@@ -38,7 +33,6 @@
   function loadStats() {
     if (!statsP) {
       statsP = getJSON(ENDPOINT)
-        .catch(function () { return getJSON(root() + 'data/ranking-snapshot.json'); })
         .catch(function () { return null; });
     }
     return statsP;
