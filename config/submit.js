@@ -9,7 +9,7 @@
  * See docs/checkout/APPROVE-OR-REJECT.md and docs/checkout/GO-LIVE.md.
  *
  * ┌──────────────────────────────────────────────────────────────┐
- * │ checkoutMode: 'test' → Stripe TEST links (card 4242…, no money) │
+ * │ checkoutMode: 'live' → Stripe TEST links (card 4242…, no money) │
  * │               'live' → real charges (fill paymentLinks.live!)   │
  * └──────────────────────────────────────────────────────────────┘
  * If the selected mode has no link for a SKU, the page records the submission and
@@ -24,9 +24,9 @@
     formEndpoint: 'https://usebasin.com/f/22787259725b',
     notifyEmail: 'xrhgrokbot@outlook.com',
 
-    checkoutMode: 'test',
+    checkoutMode: 'live',
 
-    // Keys: <sku>, <sku>_pin (7-day pin, +$39.99) or <sku>_pin30 (30-day pin, +$99.00). Stripe account acct_1UGihKECBucDnUAX.
+    // Keys: <sku>, <sku>_pin (7-day pin, +$39.99) or <sku>_pin30 (30-day pin, +$99.99). Stripe account acct_1UGihKECBucDnUAX.
     paymentLinks: {
       test: {
         founding_standard: 'https://buy.stripe.com/test_8x28wP6GPbeJ5dm6iq0Jq00', // plink_1UOWZkECBucDnUAX3Z0vqUNS
@@ -40,16 +40,16 @@
         hidden_gems_pin30: 'https://buy.stripe.com/test_dRmdR91mv4Ql35e22a0Jq08' // plink_1UOmdHECBucDnUAXxIP5lXiu
       },
       live: {
-        // Fill in after creating the 6 LIVE manual-capture links (docs/checkout/GO-LIVE.md).
-        founding_standard: '',
-        founding_standard_pin: '',
-        standard: '',
-        standard_pin: '',
-        hidden_gems: '',
-        hidden_gems_pin: '',
-        founding_standard_pin30: '',
-        standard_pin30: '',
-        hidden_gems_pin30: ''
+        // LIVE manual-capture links created 2026-10-11 (see website-rebrand-spot/checkout/LIVE-OBJECTS.md).
+        founding_standard: 'https://buy.stripe.com/8x28wP6GPbeJ5dm6iq0Jq00', // plink_1UPUXvECBucDnUAXopnDcSV5
+        founding_standard_pin: 'https://buy.stripe.com/eVqeVd7KTaaF6hq7mu0Jq01', // plink_1UPUXvECBucDnUAXnw8dkceR
+        standard: 'https://buy.stripe.com/dRm4gz1mvaaFdJSfT00Jq03', // plink_1UPUXwECBucDnUAXaWUpFtjQ
+        standard_pin: 'https://buy.stripe.com/cNiaEXghpaaF6hqdKS0Jq04', // plink_1UPUXwECBucDnUAXTxAVOUN3
+        hidden_gems: 'https://buy.stripe.com/9B6dR90ir96BbBKcGO0Jq06', // plink_1UPUXxECBucDnUAXvgHF6Hrp
+        hidden_gems_pin: 'https://buy.stripe.com/eVq7sL8OX82xeNW0Y60Jq07', // plink_1UPUXxECBucDnUAXOTSuS1M7
+        founding_standard_pin30: 'https://buy.stripe.com/eVq4gzghpciN0X6dKS0Jq02', // plink_1UPUXwECBucDnUAXsCWzC9rr
+        standard_pin30: 'https://buy.stripe.com/8x27sL9T15Up49iayG0Jq05', // plink_1UPUXxECBucDnUAX2KzkOqAP
+        hidden_gems_pin30: 'https://buy.stripe.com/dRmdR91mv4Ql35e22a0Jq08'
       }
     },
 
@@ -60,15 +60,15 @@
         standard: 'price_1UOWZiECBucDnUAXLlEu22tw', // $49.99
         hidden_gems: 'price_1UOWZjECBucDnUAXTtFhIcPs', // $99.99
         pin_7d: 'price_1UOWZkECBucDnUAXY20YC3jr', // $39.99
-        pin_30d: 'price_1UOmdFECBucDnUAXhAZ010V4' // $99.00
+        pin_30d: 'price_1UOmdFECBucDnUAXhAZ010V4' // $99.00 (test only)
       },
       live: {
-        // Existing LIVE-mode prices (BoOnE prices.csv 2026-09-24) — not usable in test mode.
+        // LIVE one-time prices used by the live links.
         founding_standard: 'price_1UJOIDECBucDnUAXUCTMtj7G',
-        standard: 'price_1UJOFmECBucDnUAXvW2O5PCT',
-        hidden_gems: 'price_1UJOKQECBucDnUAXtteM7IZC',
+        standard: 'price_1UPUXuECBucDnUAXSERywid0', // $49.99 one-time
+        hidden_gems: 'price_1UPUXuECBucDnUAXnW6jrEDI', // $99.99 one-time
         pin_7d: 'price_1UJOO3ECBucDnUAX6yhR6T3c',
-        pin_30d: '' // create a LIVE $99.00 "Pin 30 days" price at go-live
+        pin_30d: 'price_1UPUXvECBucDnUAXWwLsCDw5' // $99.99
       }
     },
 
