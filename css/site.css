@@ -1694,3 +1694,13 @@ body.list-panel-open { overflow: hidden; }
 .home-faq summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 12px; }
 .home-faq .ans { padding: 0 16px 12px; color: var(--muted); line-height: 1.6; }
 .home-faq .ans p { margin: 0.2rem 0; }
+
+/* Deals strip (Plan this trip panel) */
+.deals-strip{margin:.7rem 0 .3rem;padding:.6rem .7rem;border-radius:10px;background:rgba(232,196,124,.08);border:1px solid rgba(232,196,124,.3)}
+.deals-kicker{margin:0 0 .35rem;font-size:.7rem;letter-spacing:.07em;text-transform:uppercase;color:var(--muted)}
+.deals-list{list-style:none;margin:0;padding:0;display:grid;gap:.4rem}
+.deal{display:block;text-decoration:none;color:inherit;min-height:44px}
+.deal-top{display:block;color:var(--accent);font-size:.95rem}
+.deal-text{display:block;font-size:.8rem;color:var(--muted)}
+.deal-text em{font-style:normal;opacity:.85}
+.deal-flash{font-size:.65rem;padding:.05rem .35rem;border-radius:6px;background:#c0392b;color:#fff;vertical-align:middle}

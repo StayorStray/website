@@ -270,6 +270,7 @@ function authorized(request, env) {
 }
 
 import { buildScores } from './scores.js';
+import { buildDeals } from './deals.js';
 
 export default {
   async fetch(request, env) {
@@ -286,6 +287,13 @@ export default {
         if (await rateLimited(request, 'ingest')) return json({ error: 'rate_limited' }, 429, cors.headers);
         const res = await handleIngest(request, env);
         for (const [k, v] of Object.entries(cors.headers)) res.headers.set(k, v);
+        return res;
+      }
+
+      if (url.pathname === '/v1/deals') {
+        if (request.method !== 'GET') return json({ error: 'method' }, 405, cors.headers);
+        const res = json(buildDeals(env), 200, cors.headers);
+        res.headers.set('Cache-Control', 'public, max-age=1800');
         return res;
       }
 

@@ -672,6 +672,7 @@
       '<p class="ad-kicker plan-kicker">' + escapeHtml(pt('plan_title', { name: displayName })) + '</p>' +
       links +
       expediaWidgetMarkup(rawCard) +
+      '<div class="deals-mount" data-deals></div>' +
       '<p class="ad-note plan-note">' + escapeHtml(pt('plan_note')) + '</p>' +
       '</aside>'
     );
@@ -1186,6 +1187,7 @@
     }
     this.bindPlanClicks();
     bindExpediaWidget(document.getElementById('plan-trip'));
+    if (window.SpotDeals) window.SpotDeals.mount(document.getElementById('plan-trip'));
     this.showAfterTravel();
     if (!Array.isArray(airportsState)) {
       const shownId = card.id;
@@ -1198,6 +1200,7 @@
         const html = planPanelMarkup(cur, disp);
         if (html) panel.outerHTML = html;
         bindExpediaWidget(document.getElementById('plan-trip'));
+        if (window.SpotDeals) window.SpotDeals.mount(document.getElementById('plan-trip'));
       });
     }
 
