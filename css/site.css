@@ -1517,3 +1517,9 @@ body.list-panel-open { overflow: hidden; }
 /* Hottest Locations tab (ranking preview) */
 .tab-nav a.tab-nav-hot{background:linear-gradient(135deg,#ff7a3d,#e8c47c);color:#1a1206;border-color:transparent;font-weight:600;}
 .tab-nav a.tab-nav-hot:hover,.tab-nav a.tab-nav-hot[aria-current="page"]{box-shadow:0 0 0 2px var(--bg),0 0 0 3px #ff7a3d;color:#1a1206;}
+
+/* Expedia search widget (lazy) */
+.plan-trip .eg-search{margin:.6rem 0 .2rem}
+.plan-trip .eg-search summary{cursor:pointer;font-weight:600;padding:.4rem 0}
+.plan-trip .eg-mount{min-height:0;overflow:hidden;max-width:100%}
+.plan-trip .eg-fallback{display:inline-block;margin-top:.4rem;font-size:.9rem}

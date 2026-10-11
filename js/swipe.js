@@ -548,6 +548,7 @@
     if (!things && !cruise) things = card.name || '';
     return {
       thingsQuery: things,
+      slug: card.id || card.slug || '',
       place: card.name || '',
       hotelQuery:
         ad.destination_query ||
@@ -623,6 +624,52 @@
     sheet.hidden = true;
   }
 
+  // Expedia Group search widget: loaded only when the visitor opens it (docs/ads).
+  function expediaWidgetMarkup(rawCard) {
+    const Aff = window.SpotAndTravelAffiliates;
+    const E = Aff && Aff.affiliates && Aff.affiliates.expedia;
+    if (!E || !E.camref || typeof Aff.wrapExpedia !== 'function') return '';
+    const slug = String(rawCard.id || '').toLowerCase().replace(/[^a-z0-9_-]+/g, '-');
+    const fb = Aff.wrapExpedia('https://www.expedia.com/', slug).href;
+    return (
+      '<details class="eg-search" data-eg-slug="' + escapeHtml(slug) + '">' +
+      '<summary>🔎 Search Expedia stays &amp; flights</summary>' +
+      '<div class="eg-mount"></div>' +
+      '<a class="eg-fallback" href="' + escapeHtml(fb) + '" target="_blank" rel="sponsored noopener" data-link-type="hotel">Open Expedia search ↗</a>' +
+      '</details>'
+    );
+  }
+
+  function bindExpediaWidget(root) {
+    const d = root && root.querySelector && root.querySelector('details.eg-search');
+    if (!d || d.dataset.bound) return;
+    d.dataset.bound = '1';
+    d.addEventListener('toggle', function () {
+      if (!d.open || d.dataset.loaded) return;
+      d.dataset.loaded = '1';
+      const Aff = window.SpotAndTravelAffiliates;
+      const E = Aff.affiliates.expedia;
+      const mount = d.querySelector('.eg-mount');
+      const w = document.createElement('div');
+      w.className = 'eg-widget';
+      w.setAttribute('data-widget', 'search');
+      w.setAttribute('data-program', 'us-expedia');
+      w.setAttribute('data-lobs', 'stays,flights');
+      w.setAttribute('data-network', 'pz');
+      w.setAttribute('data-camref', E.camref);
+      w.setAttribute('data-pubref', d.dataset.egSlug || '');
+      mount.appendChild(w);
+      const old = document.querySelector('script.eg-widgets-script');
+      if (old) old.remove();
+      const sc = document.createElement('script');
+      sc.className = 'eg-widgets-script';
+      sc.async = true;
+      sc.src = E.widgetScript;
+      sc.onerror = function () { d.classList.add('eg-blocked'); };
+      document.head.appendChild(sc);
+    });
+  }
+
   function planPanelMarkup(rawCard, displayName) {
     const links = planLinksMarkup(rawCard, displayName, 'panel');
     if (!links) return '';
@@ -631,6 +678,7 @@
       '" aria-label="' + escapeHtml(pt('plan_title', { name: displayName })) + '">' +
       '<p class="ad-kicker plan-kicker">' + escapeHtml(pt('plan_title', { name: displayName })) + '</p>' +
       links +
+      expediaWidgetMarkup(rawCard) +
       '<p class="ad-note plan-note">' + escapeHtml(pt('plan_note')) + '</p>' +
       '</aside>'
     );
@@ -1050,6 +1098,7 @@
       undoBtn.addEventListener('click', () => this.undo('button'));
     }
     this.bindPlanClicks();
+    bindExpediaWidget(document.getElementById('plan-trip'));
     this.showAfterTravel();
     if (!Array.isArray(airportsState)) {
       const shownId = card.id;
@@ -1061,6 +1110,7 @@
         const disp = (i18n && i18n.localizeCard ? i18n.localizeCard(cur) : cur).name || t('this_place');
         const html = planPanelMarkup(cur, disp);
         if (html) panel.outerHTML = html;
+        bindExpediaWidget(document.getElementById('plan-trip'));
       });
     }
 

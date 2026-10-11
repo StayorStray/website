@@ -10,16 +10,22 @@
   'use strict';
 
   const affiliates = {
-    primaryNetwork: 'hotels.com',
+    primaryNetwork: 'expedia',
     hotels: {
       affiliateId: 'YOUR_AFFILIATE_ID',
       searchTemplate:
         'https://www.hotels.com/Hotel-Search?destination={destination}&affid={affiliateId}',
     },
     expedia: {
-      affiliateId: 'YOUR_AFFILIATE_ID',
-      searchTemplate:
-        'https://www.expedia.com/Hotel-Search?destination={destination}&affcid={affiliateId}',
+      // Expedia Group Travel Creator program via Partnerize (publisher 1101l440577).
+      // Tracking = prf.hn deeplink wrapper with camref; pubref = card slug.
+      affiliateId: '1011l6u48u',
+      camref: '1011l6u48u',
+      deeplink: 'https://prf.hn/click/camref:{camref}/pubref:{pubref}/destination:{url}',
+      searchTemplate: 'https://www.expedia.com/Hotel-Search?destination={destination}',
+      flightTemplate: 'https://www.expedia.com/Flights-Search?trip=oneway&leg1=from:,to:{to}&mode=search',
+      shopUrl: 'https://expedia.com/shop/spot-and-travel',
+      widgetScript: 'https://creator.expediagroup.com/products/widgets/assets/eg-widgets.js',
     },
     booking: {
       affiliateId: 'YOUR_AFFILIATE_ID',
@@ -131,6 +137,9 @@
     };
     const cfg = map[network];
     if (!cfg) throw new Error('Unknown network: ' + network);
+    if (network === 'expedia') {
+      return wrapExpedia(fillTemplate(cfg.searchTemplate, { destination: encoded }), arguments[2]).href;
+    }
     let template = cfg.searchTemplate;
     // Never ship the placeholder: drop the affiliate param until a real id is pasted.
     if (!isLiveId(cfg.affiliateId)) {
@@ -140,6 +149,17 @@
       destination: encoded,
       affiliateId: cfg.affiliateId,
     });
+  }
+
+  /** Wrap any expedia.com URL in the Partnerize (prf.hn) tracking redirect. */
+  function wrapExpedia(url, pubref) {
+    const E = affiliates.expedia;
+    if (!url || !E || !isLiveId(E.camref)) return { href: url, affiliated: false };
+    const ref = String(pubref || 'site').toLowerCase().replace(/[^a-z0-9_-]+/g, '-').slice(0, 60) || 'site';
+    return {
+      href: fillTemplate(E.deeplink, { camref: E.camref, pubref: ref, url: encodeURIComponent(url) }),
+      affiliated: true,
+    };
   }
 
   function isLiveId(id) {
@@ -212,14 +232,19 @@
         try {
           out.push({
             kind: 'hotel',
-            href: buildPrimaryDeeplink(q),
-            brand: affiliates.primaryNetwork === 'hotels.com' ? 'Hotels.com' : affiliates.primaryNetwork,
+            href: buildDeeplink(affiliates.primaryNetwork, q, ctx.slug),
+            brand: ({ 'hotels.com': 'Hotels.com', expedia: 'Expedia', booking: 'Booking.com' })[affiliates.primaryNetwork] || affiliates.primaryNetwork,
             affiliated: hotelsAffiliated(),
           });
         } catch (e) {}
       }
     }
 
+    const E = affiliates.expedia;
+    if (E && E.flightTemplate && (iata || city)) {
+      const ew = wrapExpedia(fillTemplate(E.flightTemplate, { to: enc(iata || city) }), ctx.slug);
+      out.push({ kind: 'flight', href: ew.href, brand: 'Expedia', affiliated: ew.affiliated });
+    }
     if (P.flights && (iata || city)) {
       const fq = 'Flights to ' + (iata || city);
       const w = wrapTravelpayouts(fillTemplate(P.flights.template, { query: enc(fq) }), P.flights.tp);
@@ -281,6 +306,7 @@
     getKlookSidebarUrl,
     getKlookWidgetSrc,
     buildPlanLinks,
+    wrapExpedia,
     wrapTravelpayouts,
     hotelsAffiliated,
     isLiveId,
