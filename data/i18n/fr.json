@@ -140,7 +140,13 @@
     "plan_after_travel": "{name} vous plaît ? Planifiez-le",
     "plan_close": "Fermer",
     "submit_pin_none": "Pas d’épinglage",
-    "submit_pin_line_30": "+$99.00 — votre carte reste dans les 25 premières de cette rubrique pendant 30 jours après sa mise en ligne."
+    "submit_pin_line_30": "+$99.00 — votre carte reste dans les 25 premières de cette rubrique pendant 30 jours après sa mise en ligne.",
+    "hot_tab": "Tendances",
+    "hot_section_label": "🔥 Lieux tendance · les plus aimés de chaque section, mis en avant 30 jours",
+    "hot_empty_title": "Ça chauffe…",
+    "hot_empty_body": "Lieux tendance affiche les endroits les plus aimés de chaque section dès que suffisamment de voyageurs ont voté. Continuez à swiper et revenez bientôt !",
+    "hot_empty_cta": "Commencer à swiper {tab} →",
+    "expedia_shop": "Notre boutique de voyage Expedia"
   },
   "tabs": {
     "hidden-gems": "Pépites cachées",

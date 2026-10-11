@@ -140,7 +140,13 @@
     "plan_after_travel": "¿Te encantó {name}? Planifícalo ya",
     "plan_close": "Cerrar",
     "submit_pin_none": "Sin fijar",
-    "submit_pin_line_30": "+$99.00 — tu tarjeta permanece entre las 25 primeras de esta pestaña durante 30 días tras publicarse."
+    "submit_pin_line_30": "+$99.00 — tu tarjeta permanece entre las 25 primeras de esta pestaña durante 30 días tras publicarse.",
+    "hot_tab": "Lo más popular",
+    "hot_section_label": "🔥 Lugares más populares · los más gustados de cada sección, destacados 30 días",
+    "hot_empty_title": "Calentando motores…",
+    "hot_empty_body": "Lugares más populares muestra los sitios con más «me gusta» de cada sección cuando suficientes viajeros han votado. ¡Sigue deslizando y vuelve pronto!",
+    "hot_empty_cta": "Empieza a deslizar {tab} →",
+    "expedia_shop": "Nuestra tienda de viajes en Expedia"
   },
   "tabs": {
     "hidden-gems": "Joyas ocultas",

@@ -140,7 +140,13 @@
     "plan_after_travel": "Fan van {name}? Plan het nu",
     "plan_close": "Sluiten",
     "submit_pin_none": "Geen pin",
-    "submit_pin_line_30": "+$99.00 — je kaart blijft 30 dagen na livegang in de eerste 25 van deze tab."
+    "submit_pin_line_30": "+$99.00 — je kaart blijft 30 dagen na livegang in de eerste 25 van deze tab.",
+    "hot_tab": "Populairst",
+    "hot_section_label": "🔥 Populairste plekken · de meest gelikete per categorie, 30 dagen uitgelicht",
+    "hot_empty_title": "Het warmt op…",
+    "hot_empty_body": "Populairste plekken toont de meest gelikete plekken per categorie zodra genoeg reizigers hebben gestemd. Blijf swipen en kom snel terug!",
+    "hot_empty_cta": "Begin met swipen: {tab} →",
+    "expedia_shop": "Onze Expedia-reiswinkel"
   },
   "tabs": {
     "hidden-gems": "Verborgen parels",

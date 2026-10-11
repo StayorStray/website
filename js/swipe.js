@@ -405,7 +405,7 @@
     );
     const hotCur = activeSlug === 'hottest' ? ' aria-current="page"' : '';
     items.push('<li id="tab-nav-hot-li" hidden><a class="tab-nav-hot"' + hotCur + ' href="' + pagePrefix +
-      'hottest.html">\uD83D\uDD25 Hottest</a></li>');
+      'hottest.html">\uD83D\uDD25 ' + escapeHtml(t('hot_tab')) + '</a></li>');
     const submitHref = pagePrefix + 'submit-a-place.html';
     const submitCur =
       activeSlug === 'submit-a-place' ? ' aria-current="page"' : '';
@@ -1127,9 +1127,9 @@
 
   Deck.prototype.render = function () {
     if (this.tab === 'hottest' && !this.cards.length) {
-      this.root.innerHTML = '<div class="end-deck" role="status"><h2>\uD83D\uDD25 Heating up\u2026</h2>' +
-        '<p>Hottest Locations shows the most-liked places in each section once enough travelers have voted. Keep swiping, and check back soon!</p>' +
-        '<p><a href="hidden-gems.html">Start swiping Hidden Gems \u2192</a></p></div>';
+      this.root.innerHTML = '<div class="end-deck" role="status"><h2>\uD83D\uDD25 ' + escapeHtml(t('hot_empty_title')) + '</h2>' +
+        '<p>' + escapeHtml(t('hot_empty_body')) + '</p>' +
+        '<p><a href="hidden-gems.html">' + escapeHtml(t('hot_empty_cta', { tab: tabLabel('hidden-gems') })) + '</a></p></div>';
       return;
     }
     if (!this.root) return;

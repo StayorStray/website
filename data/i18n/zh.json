@@ -140,7 +140,13 @@
     "plan_after_travel": "喜欢{name}？现在就规划",
     "plan_close": "关闭",
     "submit_pin_none": "不置顶",
-    "submit_pin_line_30": "+$99.00 — 卡片上线后 30 天内保持在此标签前 25 位。"
+    "submit_pin_line_30": "+$99.00 — 卡片上线后 30 天内保持在此标签前 25 位。",
+    "hot_tab": "最热门",
+    "hot_section_label": "🔥 最热门地点 · 各分类最受喜爱的地点，精选展示 30 天",
+    "hot_empty_title": "正在升温…",
+    "hot_empty_body": "当足够多的旅行者投票后，这里会显示各分类中最受喜爱的地点。继续滑动，稍后再来看看！",
+    "hot_empty_cta": "开始滑动{tab} →",
+    "expedia_shop": "我们的 Expedia 旅行商店"
   },
   "tabs": {
     "hidden-gems": "隐藏瑰宝",

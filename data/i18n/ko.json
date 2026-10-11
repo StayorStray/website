@@ -140,7 +140,13 @@
     "plan_after_travel": "{name}이(가) 마음에 드셨나요? 지금 계획하세요",
     "plan_close": "닫기",
     "submit_pin_none": "고정 안 함",
-    "submit_pin_line_30": "+$99.00 — 카드가 공개된 후 30일 동안 이 탭의 상위 25개에 유지됩니다."
+    "submit_pin_line_30": "+$99.00 — 카드가 공개된 후 30일 동안 이 탭의 상위 25개에 유지됩니다.",
+    "hot_tab": "인기 급상승",
+    "hot_section_label": "🔥 인기 급상승 여행지 · 섹션별 '좋아요' 1위 장소를 30일간 소개",
+    "hot_empty_title": "집계 중…",
+    "hot_empty_body": "충분한 여행자가 투표하면 섹션별로 가장 많은 '좋아요'를 받은 장소가 여기에 표시됩니다. 계속 스와이프하고 곧 다시 확인해 보세요!",
+    "hot_empty_cta": "{tab} 스와이프 시작 →",
+    "expedia_shop": "Expedia 여행 숍"
   },
   "tabs": {
     "hidden-gems": "숨은 명소",

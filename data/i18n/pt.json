@@ -140,7 +140,13 @@
     "plan_after_travel": "Amou {name}? Planeje agora",
     "plan_close": "Fechar",
     "submit_pin_none": "Sem fixar",
-    "submit_pin_line_30": "+$99.00 — seu cartão permanece entre os 25 primeiros desta aba por 30 dias após a publicação."
+    "submit_pin_line_30": "+$99.00 — seu cartão permanece entre os 25 primeiros desta aba por 30 dias após a publicação.",
+    "hot_tab": "Em alta",
+    "hot_section_label": "🔥 Lugares em alta · os mais curtidos de cada seção, em destaque por 30 dias",
+    "hot_empty_title": "Esquentando…",
+    "hot_empty_body": "Lugares em alta mostra os lugares mais curtidos de cada seção assim que viajantes suficientes votarem. Continue deslizando e volte em breve!",
+    "hot_empty_cta": "Comece a deslizar {tab} →",
+    "expedia_shop": "Nossa loja de viagens na Expedia"
   },
   "tabs": {
     "hidden-gems": "Joias Escondidas",

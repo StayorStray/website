@@ -72,9 +72,38 @@
     return tabs[slug] || slug;
   }
 
+  /* Per-section card translations live in data/i18n/<lang>/<section>.json and
+   * are lazy-loaded the first time a card from that section is localized.
+   * Entries in the main locale file win; missing sections fall back to English. */
+  var sectionReq = {};
+
+  function loadSection(lang, section) {
+    var key = lang + '/' + section;
+    if (sectionReq[key]) return;
+    sectionReq[key] = true;
+    fetch(assetPath('data/i18n/' + key + '.json'))
+      .then(function (res) { return res.ok ? res.json() : null; })
+      .then(function (data) {
+        if (!data || state.lang !== lang || !state.dict) return;
+        var cards = state.dict.cards || (state.dict.cards = {});
+        var src = data.cards || data;
+        var added = false;
+        Object.keys(src).forEach(function (id) {
+          if (!cards[id]) { cards[id] = src[id]; added = true; }
+        });
+        if (added) notify();
+      })
+      .catch(function () { /* fall back to English */ });
+  }
+
   function getCardLocale(cardId) {
     var cards = (state.dict && state.dict.cards) || {};
-    return cards[cardId] || null;
+    var hit = cards[cardId];
+    if (!hit && cardId && state.lang && state.lang !== 'en') {
+      var m = /^(.+)-\d+$/.exec(String(cardId));
+      if (m) loadSection(state.lang, m[1]);
+    }
+    return hit || null;
   }
 
   function localizeCard(card) {

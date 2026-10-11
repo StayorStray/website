@@ -140,7 +140,13 @@
     "plan_after_travel": "{name}が気に入りましたか？今すぐ計画",
     "plan_close": "閉じる",
     "submit_pin_none": "ピン留めなし",
-    "submit_pin_line_30": "+$99.00 — 公開後30日間、このタブの先頭25件にカードが表示されます。"
+    "submit_pin_line_30": "+$99.00 — 公開後30日間、このタブの先頭25件にカードが表示されます。",
+    "hot_tab": "人気急上昇",
+    "hot_section_label": "🔥 人気急上昇スポット · 各カテゴリで最も「いいね」された場所を30日間掲載",
+    "hot_empty_title": "ただいま集計中…",
+    "hot_empty_body": "十分な数の旅行者が投票すると、各カテゴリで最も「いいね」された場所がここに表示されます。スワイプを続けて、またチェックしてください！",
+    "hot_empty_cta": "{tab}をスワイプする →",
+    "expedia_shop": "Expedia トラベルショップ"
   },
   "tabs": {
     "hidden-gems": "隠れた名所",
