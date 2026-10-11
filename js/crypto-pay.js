@@ -13,8 +13,47 @@
   function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
   function selected() { var e = document.querySelector('input[name="pay_method"]:checked'); return !!e && e.value === 'crypto'; }
   function currency() { return cur; }
+  // Card-specific wording ↔ crypto wording (card text is saved and restored exactly).
+  var CRYPTO_TXT = {
+    hold: 'Crypto is charged up front, not held. If your listing isn’t approved, we refund it in full to the wallet you paid from.',
+    ack: 'I understand payment does not equal live: crypto is charged up front and refunded in full if my listing isn’t approved by the Accuracy Auditor.',
+    disc: 'Paid does not equal live. The Accuracy Auditor checks every listing before it appears. Crypto payments (via Xaman, on the XRP Ledger) are charged up front for the total above. If your listing is rejected, we refund it in full. We send your submission (with photo) to our inbox first, then show your Xaman payment request.'
+  };
+  var saved = {}, mo = null, patching = false;
+  function els() {
+    var ack = $('ack-paid-listing');
+    return { total: $('submit-total'), hold: $('submit-hold-summary'), ack: ack && ack.parentNode && ack.parentNode.querySelector('span'), disc: document.querySelector('.submit-disclaimer') };
+  }
+  function patch() {
+    if (patching || !selected()) return;
+    patching = true;
+    var e = els();
+    if (e.total) {
+      var st = e.total.querySelector('strong'), amt = st ? st.textContent : '';
+      var html = 'Total to pay in crypto (charged up front): <strong>' + esc(amt) + '</strong>';
+      if (e.total.innerHTML !== html) { saved.total = e.total.innerHTML; e.total.innerHTML = html; }
+    }
+    [['hold', 'hold'], ['ack', 'ack'], ['disc', 'disc']].forEach(function (k) {
+      var el = e[k[0]]; if (el && el.textContent !== CRYPTO_TXT[k[1]]) { saved[k[0]] = el.textContent; el.textContent = CRYPTO_TXT[k[1]]; }
+    });
+    patching = false;
+  }
+  function restore() {
+    var e = els();
+    ['hold', 'ack', 'disc'].forEach(function (k) { if (e[k] && saved[k] != null && e[k].textContent === CRYPTO_TXT[k]) e[k].textContent = saved[k]; });
+    if (e.total && saved.total != null && /crypto/.test(e.total.textContent)) e.total.innerHTML = saved.total;
+    var sku = document.querySelector('input[name="sku"]:checked');
+    if (sku) sku.dispatchEvent(new Event('change', { bubbles: true })); // let the page re-render its own card wording/total
+  }
+  function watch() {
+    if (mo || !global.MutationObserver) return;
+    mo = new MutationObserver(function () { if (selected()) patch(); });
+    var e = els();
+    ['total', 'hold', 'ack', 'disc'].forEach(function (k) { if (e[k]) mo.observe(e[k], { childList: true, characterData: true, subtree: true }); });
+  }
   function sync() {
     var on = selected(), box = $('xc-options');
+    if (on) patch(); else restore();
     if (box) box.hidden = !on;
     var btn = $('submit-place-btn'); if (btn && !btn.dataset.cardLabel) btn.dataset.cardLabel = btn.textContent;
     if (btn) btn.textContent = on ? 'Continue to Pay with Xaman' : btn.dataset.cardLabel;
@@ -75,6 +114,7 @@
         Array.prototype.forEach.call(document.querySelectorAll('[data-xc-cur]'), function (x) { x.setAttribute('aria-pressed', String(x === b)); });
       });
     });
+    watch();
     sync();
   }
   global.SATCrypto = { selected: selected, currency: currency, start: start, note: NOTE };
