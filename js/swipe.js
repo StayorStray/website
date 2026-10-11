@@ -361,6 +361,16 @@
   }
 
 
+  const EMERALD_SVG =
+    '<svg class="tab-gem" viewBox="0 0 24 24" width="1em" height="1em" aria-hidden="true" focusable="false">' +
+    '<polygon points="7,3 17,3 22,9 12,22 2,9" fill="#059669"/>' +
+    '<polygon points="7,3 17,3 15,9 9,9" fill="#6ee7b7"/>' +
+    '<polygon points="2,9 7,3 9,9" fill="#34d399"/><polygon points="22,9 17,3 15,9" fill="#10b981"/>' +
+    '<polygon points="2,9 9,9 12,22" fill="#10b981"/><polygon points="9,9 15,9 12,22" fill="#34d399"/>' +
+    '<polygon points="15,9 22,9 12,22" fill="#047857"/>' +
+    '<polygon points="17,2.2 17.55,4.45 19.8,5 17.55,5.55 17,7.8 16.45,5.55 14.2,5 16.45,4.45" fill="#ffffff"/>' +
+    '<circle cx="20.2" cy="3.2" r="0.7" fill="#ffffff"/></svg>';
+
   function renderTabNav(activeSlug) {
     const nav = document.getElementById('tab-nav');
     if (!nav) return;
@@ -378,6 +388,7 @@
         ' href="' +
         href +
         '">' +
+        (t.slug === 'hidden-gems' ? EMERALD_SVG : '') +
         t.label +
         '</a></li>'
       );
