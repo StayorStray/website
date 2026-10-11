@@ -1533,7 +1533,7 @@
 
     try {
       await deck.load();
-      if (!deck.cards.length) {
+      if (!deck.cards.length && deck.tab !== 'hottest') {
         deck.root.innerHTML =
           '<div class="end-deck" role="status"><h2>' +
           escapeHtml(t('empty_deck')) +
