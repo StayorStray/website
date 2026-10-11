@@ -36,7 +36,7 @@
       email: payload.submitter_email, place_name: payload.place_name }) })
       .then(function (r) { return r.json(); })
       .then(function (q) {
-        if (!q.ok) { out.innerHTML = '<div class="xc-quote xc-err"><p class="xc-line">' + esc(q.message || 'We couldn’t get a crypto quote right now.') + '</p><p class="xc-line">Your submission ' + esc(payload.submission_ref) + ' is saved. Try again in a few minutes, or switch to card.</p></div>'; return; }
+        if (!q.ok) { out.innerHTML = '<div class="xc-quote xc-err"><p class="xc-line">' + esc(q.refused ? q.message : 'We couldn’t get a crypto quote right now.') + '</p><p class="xc-line">Your submission ' + esc(payload.submission_ref) + ' is saved. Try again in a few minutes, or switch to card.</p></div>'; return; }
         if (q.amount && typeof q.amount === 'object' && ISSUERS[q.currency] && q.amount.issuer !== ISSUERS[q.currency]) { out.innerHTML = '<div class="xc-quote xc-err"><p class="xc-line">Quote failed a safety check. Please pay by card.</p></div>'; return; }
         out.innerHTML = '<div class="xc-quote">' +
           '<p class="xc-kicker">Send exactly</p><p class="xc-amt">' + esc(q.amount_display) + '</p>' +

@@ -10,7 +10,7 @@
  * Method + guards: docs/checkout/CRYPTO-XAMAN.md
  */
 const XAMAN = 'https://xumm.app/api/v1/platform';
-const RPCS = ['https://xrplcluster.com/', 'https://xrpl.ws/', 'https://s2.ripple.com:51234/'];
+const RPCS = ['https://xrplcluster.com/', 'https://xrpl.ws/', 'https://xrpl.link/', 'https://s2.ripple.com:51234/', 'https://s1.ripple.com:51234/'];
 const RLUSD = { currency: '524C555344000000000000000000000000000000', issuer: 'rMxCKbEDwqr76QuheSUMdEGf4B9xJ8m5De' };
 const XRH = { currency: 'XRH', issuer: 'r9xu7pdBEx4DdiatMqAUFodgxaPkfFU1Zw' };
 const XRH_AMM = 'rf5BUNqEYi159nP3Hew1i1rkoWvguZEpdX';
@@ -43,7 +43,9 @@ function json(body, status, h) {
 }
 async function rpc(method, params) {
   let last;
-  for (const url of RPCS) {
+  const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+  for (let round = 0; round < 3; round++) for (const url of RPCS) {
+    if (round || url !== RPCS[0]) await sleep(150 + round * 400);
     try {
       const r = await fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ method, params: [params] }) });
       const j = await r.json();
@@ -89,10 +91,8 @@ async function publicXrpUsd() {
   throw new Refuse('rate_unavailable', 'No public XRP/USD price available right now.');
 }
 async function xrpUsd() {
-  const [a, b] = await Promise.all([
-    rpc('book_offers', { taker_gets: { currency: 'XRP' }, taker_pays: RLUSD, limit: 5 }),
-    rpc('book_offers', { taker_gets: RLUSD, taker_pays: { currency: 'XRP' }, limit: 5 }),
-  ]);
+  const a = await rpc('book_offers', { taker_gets: { currency: 'XRP' }, taker_pays: RLUSD, limit: 5 });
+  const b = await rpc('book_offers', { taker_gets: RLUSD, taker_pays: { currency: 'XRP' }, limit: 5 });
   const funded = (o) => o.owner_funds === undefined || Number(o.owner_funds) > 0;
   const ask = (a.offers || []).filter(funded)[0], bid = (b.offers || []).filter(funded)[0];
   if (!ask || !bid) throw new Refuse('thin_book', 'RLUSD/XRP order book is empty on one side.');
@@ -117,10 +117,8 @@ function ammRatioFromMeta(meta) {
   return xrp && xrh ? xrp / xrh : null;
 }
 async function xrhXrp(override) {
-  const [amm, hist] = await Promise.all([
-    rpc('amm_info', { amm_account: XRH_AMM }),
-    rpc('account_tx', { account: XRH_AMM, limit: 30 }),
-  ]);
+  const amm = await rpc('amm_info', { amm_account: XRH_AMM });
+  const hist = await rpc('account_tx', { account: XRH_AMM, limit: 30 });
   const a = amm.amm;
   const poolXrp = Number(a.amount) / 1e6, poolXrh = Number(a.amount2.value);
   const spot = poolXrp / poolXrh;

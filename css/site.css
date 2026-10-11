@@ -1580,7 +1580,7 @@ body.list-panel-open { overflow: hidden; }
 .xc-issuer-label { font-size: 0.9rem; font-weight: 600; color: var(--accent); }
 .xc-addr {
   display: block; padding: 0.55rem 0.65rem; border-radius: 8px; background: var(--bg);
-  font: 0.85rem/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; overflow-wrap: anywhere;
+  font: 0.78rem/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; overflow-wrap: anywhere;
   user-select: all; -webkit-user-select: all;
 }
 .xc-addr-inline { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; overflow-wrap: anywhere; }
