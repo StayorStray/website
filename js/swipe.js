@@ -1075,12 +1075,25 @@
       this._endTracked = true;
       trackTrend('deck_end', this, null, { source: 'system' });
     }
+    const coffeeIcon = assetPath('assets/buy-me-a-coffee.png');
     this.root.innerHTML =
       '<div class="end-deck" role="status">' +
       '<h2>' +
       escapeHtml(t('end_deck_title')) +
       '</h2>' +
       '<p class="session-inline" id="end-stats"></p>' +
+      '<div class="end-coffee">' +
+      '<p class="coffee-prompt">' +
+      escapeHtml(t('coffee_prompt')) +
+      '</p>' +
+      '<a class="coffee-link" href="https://buymeacoffee.com/alanhueserb" target="_blank" rel="noopener noreferrer" aria-label="' +
+      escapeHtml(t('buy_me_coffee')) +
+      '"><span class="coffee-link-text">' +
+      escapeHtml(t('buy_me_coffee')) +
+      '</span><img class="coffee-link-icon" src="' +
+      escapeHtml(coffeeIcon) +
+      '" width="44" height="44" alt="" decoding="async" /></a>' +
+      '</div>' +
       '<nav class="end-tabs" aria-label="' +
       escapeHtml(t('try_another_category')) +
       '">' +
