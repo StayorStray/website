@@ -1523,3 +1523,9 @@ body.list-panel-open { overflow: hidden; }
 .plan-trip .eg-search summary{cursor:pointer;font-weight:600;padding:.4rem 0}
 .plan-trip .eg-mount{min-height:0;overflow:hidden;max-width:100%}
 .plan-trip .eg-fallback{display:inline-block;margin-top:.4rem;font-size:.9rem}
+
+/* Expedia widget atop the ad rail; space reserved so nothing jumps */
+.eg-rail{margin:0 0 .8rem;padding-bottom:.7rem;border-bottom:1px dashed rgba(232,196,124,.35)}
+.eg-rail-mount{min-height:320px;overflow:hidden;max-width:100%}
+.eg-rail.eg-blocked .eg-rail-mount{display:none}
+.klook-rail--desktop{overflow-x:hidden}

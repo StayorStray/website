@@ -632,7 +632,7 @@
     const slug = String(rawCard.id || '').toLowerCase().replace(/[^a-z0-9_-]+/g, '-');
     const fb = Aff.wrapExpedia('https://www.expedia.com/', slug).href;
     return (
-      '<details class="eg-search" data-eg-slug="' + escapeHtml(slug) + '">' +
+      '<details class="eg-search" data-eg-slug="' + escapeHtml(slug) + '" data-eg-dest="' + escapeHtml(planContext(rawCard).hotelQuery || rawCard.name || '') + '">' +
       '<summary>🔎 Search Expedia stays &amp; flights</summary>' +
       '<div class="eg-mount"></div>' +
       '<a class="eg-fallback" href="' + escapeHtml(fb) + '" target="_blank" rel="sponsored noopener" data-link-type="hotel">Open Expedia search ↗</a>' +
@@ -647,26 +647,8 @@
     d.addEventListener('toggle', function () {
       if (!d.open || d.dataset.loaded) return;
       d.dataset.loaded = '1';
-      const Aff = window.SpotAndTravelAffiliates;
-      const E = Aff.affiliates.expedia;
-      const mount = d.querySelector('.eg-mount');
-      const w = document.createElement('div');
-      w.className = 'eg-widget';
-      w.setAttribute('data-widget', 'search');
-      w.setAttribute('data-program', 'us-expedia');
-      w.setAttribute('data-lobs', 'stays,flights');
-      w.setAttribute('data-network', 'pz');
-      w.setAttribute('data-camref', E.camref);
-      w.setAttribute('data-pubref', d.dataset.egSlug || '');
-      mount.appendChild(w);
-      const old = document.querySelector('script.eg-widgets-script');
-      if (old) old.remove();
-      const sc = document.createElement('script');
-      sc.className = 'eg-widgets-script';
-      sc.async = true;
-      sc.src = E.widgetScript;
-      sc.onerror = function () { d.classList.add('eg-blocked'); };
-      document.head.appendChild(sc);
+      egMountFrame(d.querySelector('.eg-mount'), d.dataset.egSlug || '', d.dataset.egDest || '',
+        function () { d.classList.add('eg-blocked'); });
     });
   }
 
@@ -753,6 +735,86 @@
     return w.affiliated ? w.href : generic;
   }
 
+  // Expedia Group search widget, built directly as its iframe (the vendor loader only
+  // scans the page once at DOMContentLoaded, so it can't handle per-card mounts).
+  const EG_WIDGET_BASE = 'https://creator.expediagroup.com/products/widgets';
+  const egFrames = {};
+  let egListening = false;
+  function egMountFrame(mount, slug, destination, onFail) {
+    const Aff = window.SpotAndTravelAffiliates;
+    const E = Aff && Aff.affiliates && Aff.affiliates.expedia;
+    if (!mount || !E || !E.camref) return;
+    if (!egListening) {
+      egListening = true;
+      window.addEventListener('message', function (ev) {
+        if (ev.origin !== 'https://creator.expediagroup.com') return;
+        const d = ev.data;
+        if (!d || d.type !== 'eg-widget/resize' || !d.meta || !d.payload) return;
+        const f = egFrames[d.meta.instance];
+        if (!f || !d.payload.frame || !d.payload.frame.style) return;
+        f.style.width = '100%';
+        f.style.height = d.payload.frame.style.height;
+      });
+    }
+    const instance = Date.now().toString(36) + Math.random().toString(36).slice(2);
+    const qs = [
+      ['program', 'us-expedia'], ['lobs', 'stays,flights'], ['destination', destination],
+      ['network', 'pz'], ['camref', E.camref], ['pubref', slug], ['instance', instance],
+    ].filter(function (kv) { return kv[1]; })
+      .map(function (kv) { return kv[0] + '=' + encodeURIComponent(kv[1]); }).join('&');
+    const f = document.createElement('iframe');
+    f.className = 'eg-widget-frame eg-search-widget-frame';
+    f.title = 'Expedia search';
+    f.src = EG_WIDGET_BASE + '/search-widget?' + qs;
+    f.style.cssText = 'width:100%;height:320px;border:0;display:block';
+    f.onerror = onFail || null;
+    egFrames[instance] = f;
+    mount.appendChild(f);
+  }
+
+  // Expedia Group search widget at the top of the ad rail (above Klook).
+  function expediaRailMarkup(card) {
+    const Aff = window.SpotAndTravelAffiliates;
+    const E = Aff && Aff.affiliates && Aff.affiliates.expedia;
+    if (!card || !E || !E.camref || typeof Aff.wrapExpedia !== 'function') return '';
+    const slug = String(card.id || '').toLowerCase().replace(/[^a-z0-9_-]+/g, '-');
+    const ctx = planContext(card);
+    const q = ctx.hotelQuery || card.name || '';
+    const fb = Aff.wrapExpedia(
+      q ? 'https://www.expedia.com/Hotel-Search?destination=' + encodeURIComponent(q) : 'https://www.expedia.com/',
+      slug
+    ).href;
+    return (
+      '<div class="eg-rail" data-eg-slug="' + escapeHtml(slug) + '" data-eg-dest="' + escapeHtml(q) + '">' +
+      '<p class="klook-kicker">Stays &amp; flights on Expedia</p>' +
+      '<a class="klook-cta eg-rail-fallback" href="' + escapeHtml(fb) +
+      '" target="_blank" rel="sponsored noopener" data-link-type="hotel">Search ' + escapeHtml(card.name || 'Expedia') + ' →</a>' +
+      '<div class="eg-rail-mount"></div>' +
+      '</div>'
+    );
+  }
+
+  function mountExpediaRails(root) {
+    const Aff = window.SpotAndTravelAffiliates;
+    const E = Aff && Aff.affiliates && Aff.affiliates.expedia;
+    if (!root || !E) return;
+    const desk = typeof window.matchMedia === 'function' && window.matchMedia('(min-width: 1200px)').matches;
+    const rail = root.querySelector(desk ? '.klook-rail--desktop .eg-rail' : '.klook-rail--mobile .eg-rail');
+    if (!rail || rail.dataset.loaded) return;
+    const go = function () {
+      if (rail.dataset.loaded) return;
+      rail.dataset.loaded = '1';
+      egMountFrame(rail.querySelector('.eg-rail-mount'), rail.dataset.egSlug || '', rail.dataset.egDest || '',
+        function () { rail.classList.add('eg-blocked'); });
+    };
+    if ('IntersectionObserver' in window) {
+      const io = new IntersectionObserver(function (es) {
+        if (es.some(function (e) { return e.isIntersecting; })) { io.disconnect(); go(); }
+      }, { rootMargin: '200px' });
+      io.observe(rail);
+    } else go();
+  }
+
   function klookRailMarkup(variant, card) {
     const url = klookCardUrl(card, klookCitiesState instanceof Promise ? null : klookCitiesState);
     if (!url) return '';
@@ -761,6 +823,7 @@
     const findExp = t('klook_find') || 'Find experiences →';
     return (
       '<aside class="' + cls + '" aria-label="' + escapeHtml(kicker) + '">' +
+      expediaRailMarkup(card) +
       '<p class="klook-kicker">' + escapeHtml(kicker) + '</p>' +
       '<a class="klook-cta klook-fallback" href="' + escapeHtml(url) +
       '" target="_blank" rel="sponsored noopener nofollow" data-link-type="klook">' +
@@ -1251,6 +1314,7 @@
       window.matchMedia('(min-width: 1200px)').matches;
     this._klookWasDesktop = useDesktop;
     this.bindKlookResize();
+    mountExpediaRails(this.root);
     const tpl = klookWidgetSrc();
     if (!card || !tpl || !/city_id=/.test(tpl)) return;
 
