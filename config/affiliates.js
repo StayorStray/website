@@ -31,7 +31,7 @@
       // Travelpayouts Klook program (verified: tp.media/r?p=4110 -> affiliate.klook.com, pid 779952).
       tp: { p: '4110', campaign_id: '137' },
       // city_id is replaced per card from assets/klook-cities.json (Klook city ids).
-      widgetSrc: 'https://tpemb.com/content?currency=USD&trs=576993&shmarker=779952&locale=en&city_id=2&category=4&amount=3&powered_by=true&campaign_id=137&promo_id=4497',
+      widgetSrc: 'https://tpemb.com/content?currency=USD&trs=583983&shmarker=779952&locale=en&city_id=2&category=4&amount=3&powered_by=true&campaign_id=137&promo_id=4497',
     },
     ctaLabelTemplate: 'Find a stay in {name}',
 
@@ -43,7 +43,7 @@
     //   https://tp.media/r?marker=MARKER&trs=PROJECT&p=PROGRAM&u=ENCODED_URL[&campaign_id=ID]
     travelpayouts: {
       marker: '779952',
-      trs: '576993',
+      trs: '583983',
       redirect: 'https://tp.media/r',
     },
 
