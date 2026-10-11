@@ -1,0 +1,601 @@
+{
+  "ui": {
+    "brand": "Spot and Travel",
+    "tagline": "Makakita ng lugar. Travel o skip?",
+    "meta_description": "Makakita ng lugar. Travel o skip? Mga totoong lugar, lisensyadong litrato.",
+    "home": "Home",
+    "stay": "Travel",
+    "stray": "Skip",
+    "stay_btn": "Travel →",
+    "stray_btn": "← Skip",
+    "undo": "I-undo ang huli",
+    "session_stats": "Travel {stay} · Skip {stray}",
+    "nav_categories": "Mga kategorya",
+    "nav_footer": "Footer",
+    "intro_blurb": "Tumuklas ng mga totoong lugar, tapos i-swipe para mag-travel o mag-skip. Tampok na deck: <strong>{featured}</strong>.",
+    "deck_featured": "{tab} — tampok",
+    "loading": "Nilo-load ang deck…",
+    "end_deck_title": "Na-swipe mo na ang listahang ito. Subukan ang ibang tab.",
+    "end_deck_session": "Ngayong session: {stay} Travel · {stray} Skip",
+    "end_of_deck_live": "Tapos na ang deck.",
+    "try_another_category": "Subukan ang ibang kategorya",
+    "about": "Tungkol sa amin",
+    "photo_credits": "Credits ng litrato",
+    "buy_me_coffee": "Ilibre mo ako ng kape",
+    "disclosure": "Bilang affiliate, maaari kaming kumita mula sa mga kwalipikadong booking.",
+    "about_blurb": "<strong>Tungkol sa Spot and Travel.</strong> Mag-swipe ng mga totoong lugar na puwedeng puntahan — Travel kung pupunta ka, Skip kung hindi. Ang mga litrato ay lisensyadong totoong larawan (walang AI images).",
+    "legal_disclaimer": "Ang Spot and Travel ay nagbibigay ng pangkalahatang impormasyon para sa libangan at sanggunian lamang—hindi ito payo sa paglalakbay, kaligtasan, o booking—at walang garantiya sa katumpakan o pagkakumpleto nito. Ikaw lang ang magpapasya kung saan pupunta, ano ang ibo-book, at paano maglalakbay. Ang mga third-party na booking, affiliate, at support link ay panlabas at sakop ng sarili nilang mga tuntunin. Hangga't pinapayagan ng batas, hindi mananagot ang Spot and Travel sa anumang resulta ng biyahe o pagkalugi na dulot ng site na ito o ng pag-asa sa nilalaman nito.",
+    "privacy_blurb": "Privacy: Anonimong binibilang ng Spot and Travel ang mga pagbisita gamit ang random na ID na naka-store sa browser mo (hashed form lang ang itinatago namin), ang page na binuksan mo, at ang website na nag-link sa iyo (domain lang). Binibilang din nito ang Travel/Skip swipes bawat lugar para ipakita kung aling mga destinasyon ang trending. Maaaring markahan ang bilang ng tinatayang bansa mo, pero hindi namin kailanman itinatago ang IP address, pangalan, email o eksaktong lokasyon mo, o ang home country na itinakda mo sa wheel. Nananatili sa device na ito ang mga naka-save mong listahan.",
+    "credits_blurb": "Makikita ang photo credits sa ilalim ng bawat card. Ang buong attribution ay nasa <code>data/hidden-gems.json</code> (Wikimedia Commons CC licenses).",
+    "best_time": "Pinakamagandang panahon",
+    "how_to_get_there": "Paano pumunta",
+    "good_to_know": "Dapat malaman",
+    "photo_credit": "Credit ng litrato:",
+    "ad_kicker": "Mag-stay malapit dito",
+    "ad_cta": "Maghanap ng matutuluyan sa {name}",
+    "ad_note": "Bubuksan ang partner search para sa {destination}. Placeholder ang affiliate ID hangga't hindi pa naka-configure.",
+    "this_place": "lugar na ito",
+    "more": "Higit pa",
+    "less": "Bawasan",
+    "could_not_load": "Hindi ma-load ang deck",
+    "serve_http": "I-serve ang folder na ito sa HTTP (tingnan ang README).",
+    "empty_deck": "Wala pang lugar sa deck na ito.",
+    "card_live": "Card {n} sa {total}: {name}",
+    "lang_aria": "Palitan ang wika",
+    "lang_menu_aria": "Mga wika",
+    "booking_offer": "Alok sa booking",
+    "em_dash": "—",
+    "stay_list_title": "Mga lugar na gusto mong puntahan",
+    "stray_list_title": "Mga lugar na ini-skip mo",
+    "list_empty_stay": "Wala pang laman ang Travel. Mag-swipe pakanan (o i-tap ang Travel) sa lugar na gusto mong bisitahin.",
+    "list_empty_stray": "Wala ka pang ini-skip. Mag-swipe pakaliwa (o i-tap ang Skip) sa lugar na ayaw mong puntahan.",
+    "close_list": "Isara",
+    "daily_note": "Sa device na ito lang naka-save ang mga listahan mo ng Travel at Skip.",
+    "daily_deck_label": "Deck ngayong araw · {date}",
+    "end_deck_saved_prefix": "Naka-save sa device na ito:",
+    "move_up": "Itaas",
+    "move_down": "Ibaba",
+    "move_top": "Ilipat sa itaas",
+    "move_bottom": "Ilipat sa ibaba",
+    "stay_reorder_note": "Gamitin ang mga arrow para i-ranggo ang mga Travel place mo. Naka-save ang pagkakasunod sa device na ito.",
+    "randomizer_intro": "Piliin kung saan ka nakatira, i-filter ang deck, tapos i-spin para sa isang totoong lugar.",
+    "im_in": "Nasa",
+    "filter": "Filter",
+    "geo_all": "Lahat",
+    "geo_domestic": "Lokal",
+    "geo_international": "Internasyonal",
+    "category": "Kategorya",
+    "all_categories": "Lahat ng kategorya",
+    "spin": "I-spin",
+    "mute_sound": "I-mute ang tunog",
+    "unmute_sound": "I-unmute ang tunog",
+    "reset_wheel": "I-reset ang wheel ko",
+    "pool_status": "{n} lugar ang handa",
+    "pool_empty": "Walang lugar na tugma sa mga filter mo (o natanggal na lahat). Subukan ang Lahat / ibang kategorya, o gamitin ang I-reset ang wheel ko.",
+    "no_places_canvas": "Walang lugar",
+    "find_stay_near": "Maghanap ng matutuluyan malapit sa {name}",
+    "remove_from_wheel": "Alisin sa wheel ko",
+    "spin_again": "I-spin ulit",
+    "close": "Isara",
+    "prize_wheel_aria": "Prize wheel",
+    "home_country_aria": "Bansang tinitirhan",
+    "category_aria": "Kategorya",
+    "geo_group_aria": "Lokal o internasyonal",
+    "submit_intro": "Magmungkahi ng totoong lugar na puwedeng bisitahin. Hindi ibig sabihin na live na kapag nagbayad — sinusuri pa rin ng Accuracy Auditor ang bawat card bago ito maging public. Sa checkout, naka-hold lang ang card mo, hindi sinisingil: sisingilin lang namin kapag na-approve ang listing mo. Kapag na-reject, ire-release ang hold at wala kang babayaran. Magsisimula ang pin clock sa go-live.",
+    "submit_place_name": "Pangalan ng lugar",
+    "submit_country": "Bansa",
+    "submit_city": "Lungsod / rehiyon",
+    "submit_which_tab": "Aling tab",
+    "submit_why": "Bakit ito nababagay (maikli)",
+    "submit_photo": "Litrato",
+    "submit_photo_hint": "Mag-upload ng litrato o mag-paste (Ctrl+V).",
+    "submit_your_name": "Pangalan mo",
+    "submit_your_email": "Email mo",
+    "submit_sku_legend": "Listing SKU",
+    "submit_sku_founding": "Founding standard — $39.99 (unang taon, isang beses). Hiwalay na pagbili ang renewal sa standard na presyo.",
+    "submit_sku_standard": "Standard listing — $49.99/taon",
+    "submit_sku_hg": "Hidden Gems — $99.99 / 12 buwan",
+    "submit_pin_legend": "Opsyonal na pin",
+    "submit_pin_cap": "Depende sa availability (hanggang 25 pin bawat tab). Magsisimula ang pin clock sa go-live, hindi sa pagbabayad.",
+    "submit_disclaimer": "Hindi ibig sabihin na live na kapag nagbayad. Sinusuri ng Accuracy Auditor ang bawat listing bago ito lumabas. Ang checkout (secure, sa pamamagitan ng Stripe) ay maglalagay ng hold sa card mo para sa kabuuang halaga sa itaas — sisingilin lang ito kapag na-approve ang listing mo. Kapag na-reject, kakanselahin namin ang hold at wala kang babayaran. Maaaring lumabas ang hold bilang “pending” sa statement mo; nawawala ang na-release na hold, at kusang nag-e-expire ang mga hold na hindi na-capture pagkalipas ng mga 7 araw. Ipapadala muna namin ang submission mo (kasama ang litrato) sa aming inbox, tapos dadalhin ka namin sa checkout.",
+    "submit_send": "I-email ang submission",
+    "submit_pin_line": "+$39.99 — mananatili ang card mo sa unang 25 ng tab na ito sa loob ng 7 araw pagka-live nito.",
+    "submit_total": "Kabuuang iho-hold sa card mo: <strong>${total}</strong>",
+    "submit_why_placeholder": "Ilang pangungusap kung bakit bagay ang lugar na ito sa tab.",
+    "submit_photo_placeholder": "Mag-upload o mag-paste ng litrato",
+    "submit_status_ok": "Binubuksan ang email app mo papunta sa {email}. Kung walang bumukas, kopyahin ang draft at ipadala nang mano-mano.",
+    "klook_nearby": "Maghanap ng experiences sa Klook",
+    "klook_find": "Maghanap ng experiences →",
+    "submit_acks_legend": "Bago ka magbayad",
+    "submit_agree_license": "Kinukumpirma kong lisensyadong totoong litrato ito (walang AI).",
+    "submit_agree_real_place": "Kinukumpirma kong totoong lugar ito na puwedeng bisitahin.",
+    "submit_agree_paid_listing": "Naiintindihan ko na hindi ibig sabihin na live na kapag nagbayad: iho-hold ang card ko sa checkout at sisingilin lang kapag na-approve ng Accuracy Auditor ang listing. Kapag na-reject, ire-release ang hold at wala akong babayaran.",
+    "submit_pay": "Magpatuloy sa checkout",
+    "submit_review_heading": "Buod ng order",
+    "submit_photo_cta": "Pumili ng litrato",
+    "submit_photo_error_type": "Gumamit ng JPG, PNG, o WebP na larawan.",
+    "submit_photo_error_size": "Dapat 8 MB o mas maliit ang litrato.",
+    "submit_photo_error_required": "Magdagdag ng litrato (upload o paste) bago magbayad.",
+    "submit_status_attach": "Na-download ang litrato at submission JSON mo. I-attach ang na-download na litrato sa email papunta sa {email}, tapos ipadala.",
+    "submit_status_sending": "Ipinapadala ang submission mo…",
+    "submit_status_posted": "Natanggap ang submission.",
+    "submit_status_post_failed": "Hindi tinanggap ng Basin ang litrato — i-download at i-attach sa email. (HTTP {status})",
+    "klook_find_klook": "Maghanap ng experiences sa Klook",
+    "submit_status_basin_rejected": "Hindi na-store ng Basin ang submission — {detail} (HTTP {status}). I-download ang litrato at i-attach sa email.",
+    "submit_hold_summary": "Hold sa card, hindi singil: sisingilin ka lang kapag na-approve ang listing mo. Na-reject? Ire-release ang hold at wala kang babayaran.",
+    "submit_status_redirecting": "Natanggap ang submission (ref {ref}). Dinadala ka sa secure na Stripe checkout…",
+    "submit_status_checkout_unavailable": "Natanggap ang submission (ref {ref}), pero hindi available ang checkout ngayon. Mag-e-email kami sa iyo ng payment link — wala pang sinisingil.",
+    "submit_continue_checkout": "Magpatuloy sa checkout",
+    "submit_status_fallback_pay": "Pagkatapos mong ipadala ang email na iyon, magpatuloy sa checkout para ilagay ang card hold (ref {ref}).",
+    "submit_checkout_success": "Salamat — naka-hold ang card mo, hindi sinisingil. Sisingilin lang namin kapag na-approve ang listing mo; kapag na-reject, ire-release ang hold at wala kang babayaran. Maaaring lumabas ang hold bilang pending sa statement mo.",
+    "submit_checkout_cancel": "Hindi natapos ang checkout, kaya walang hold na inilagay sa card mo. Naka-save ang submission mo — pindutin ang Magpatuloy sa checkout para subukan ulit.",
+    "submit_ref_line": "Reference ng submission mo: {ref}",
+    "plan_title": "Planuhin ang trip mo sa {name}",
+    "plan_hotel": "Mga hotel malapit sa {name}",
+    "plan_cruise": "Mag-book ng cruise sa {name}",
+    "plan_flight": "Mga flight papuntang {city}",
+    "plan_car": "Car rental sa {city}",
+    "plan_things": "Mga puwedeng gawin sa {city}",
+    "plan_note": "Bubuksan ang search ng partner para sa lugar na ito sa bagong tab. Ang ilan ay affiliate link: maaari kaming kumita ng komisyon nang walang dagdag na gastos sa iyo.",
+    "plan_after_travel": "Nagustuhan mo ang {name}? Planuhin na ngayon",
+    "plan_close": "Isara",
+    "submit_pin_none": "Walang pin",
+    "submit_pin_line_30": "+$99.00 — mananatili ang card mo sa unang 25 ng tab na ito sa loob ng 30 araw pagka-live nito."
+  },
+  "tabs": {
+    "hidden-gems": "Mga Nakatagong Hiyas",
+    "cities": "Mga Iconic na Lungsod",
+    "pubs": "Mga Natatanging Pub",
+    "countries": "Mga Bansa",
+    "arenas": "Mga Sports Arena",
+    "beaches": "Mga Beach at Baybayin",
+    "parks": "Mga National Park",
+    "landmarks": "Mga Makasaysayang Landmark",
+    "islands": "Mga Isla",
+    "luxury": "Mga Luxury na Tuluyan",
+    "location-randomizer": "Random na Lokasyon",
+    "submit-a-place": "Mag-submit ng Lugar"
+  },
+  "cards": {
+    "hidden-gems-001": {
+      "short_line": "Overijssel, Netherlands",
+      "country": "Netherlands",
+      "facts": {
+        "one_liner": "Nayong may mga kanal sa Weerribben-Wieden; ~2,800 residente, makasaysayang sentro na walang sasakyan, mga daluyang tubig na puwedeng bangkain.",
+        "why_go": "Ang Giethoorn ay buhay na nayon sa Kop van Overijssel, na madalas tawaging Hollands Venetië dahil sa mga kanal, bahay-bukid na may bubong na pawid, at mga kahoy na tulay. Pumupunta ang mga bisita para maglibot sakay ng whisper boat, bisikleta, o lakad—hindi ito museong may gate. Walang dumadaang sasakyan sa lumang sentro; ang mga lawa sa paligid ay nabuo mula sa makasaysayang paghuhukay ng peat. Hindi kailangan ng lisensya para umupa ng bangka, pero mariing ipinapayo ang advance booking sa mga abalang araw.",
+        "best_time": "Mayo–Setyembre para sa pamamangka at mahabang liwanag ng araw; dumating bago mag-10:00 o pagkalipas ng 16:00 para sa mas tahimik na mga kanal. Mas banayad at hindi gaanong matao ang Abril at Oktubre.",
+        "how_to_get_there": "Walang istasyon sa nayon. Mag-tren papuntang Steenwijk, tapos bus 70 o ang seasonal na Giethoorn Express (270) papuntang Hylkemaweg–Giethoorn Centre / Hollands Venetië. Kung may kotse, mag-park sa P-route sa gilid; walang sasakyan sa sentro. Mga 10 minutong biyahe mula Steenwijk, 30 mula Zwolle.",
+        "good_to_know": "Tinitirhan talaga ang nayon (~2,600–2,800 katao), hindi theme park—huwag pumasok sa mga pribadong hardin at daanan. Walang entrance fee para maglakad sa nayon."
+      }
+    },
+    "hidden-gems-002": {
+      "short_line": "Tangier-Tetouan-Al Hoceima, Morocco",
+      "country": "Morocco",
+      "facts": {
+        "one_liner": "Bayan sa bundok ng Rif (~600 m) na kilala bilang Chaouen; asul na medina, Kasbah, at daan papunta sa hiking.",
+        "why_go": "Ang Chefchaouen (Chaouen / شفشاون) ay nasa kanlurang Rif ng Morocco, sa pagitan ng Tétouan at Ouazzane. Pumupunta ang mga tao para sa asul-at-puting mga eskinita ng medina, ang Place Outa Hammam kasama ang Kasbah museum, at mga day hike papuntang Akchour at Talassemtane National Park. Ang Andalusian na ayos ng medina at ang lokasyon nito sa bundok ang nagpapaiba rito sa malalaking imperial city. Mas maganda ang liwanag at mas kaunti ang day-tripper sa madaling-araw at hapon.",
+        "best_time": "Abril–Mayo at Setyembre–Oktubre para sa banayad na panahon at mas malinaw na kondisyon sa hiking. Mas mainit at mas matao ang Hulyo–Agosto dahil sa mga lokal na weekend trip; mas tahimik ang taglamig pero mas malamig at maulan.",
+        "how_to_get_there": "Karamihan ng bisita ay dumarating sakay ng bus o shared grand taxi mula Tangier, Tétouan, o Fès (mga daang pabundok; maglaan ng ilang oras). Walang istasyon ng tren—sumakay ng CTM/lokal na bus papunta sa bagong bayan, tapos maglakad o mag-taxi papunta sa medina.",
+        "good_to_know": "Magsuot nang disente sa medina; magpaalam bago kunan ng litrato ang mga residente. Isabay ang bayan sa guided hike sa halip na street photos lang—ang Ras el-Maa at ang viewpoint ng Spanish Mosque ay maikling lakad lang mula sa lumang bayan."
+      }
+    },
+    "hidden-gems-003": {
+      "short_line": "Upper Austria, Austria",
+      "country": "Austria",
+      "facts": {
+        "one_liner": "Market town sa tabi ng Hallstätter See; sentro ng UNESCO Hallstatt–Dachstein/Salzkammergut, pamana ng salt mine.",
+        "why_go": "Ang Hallstatt ay maliit na munisipalidad sa timog-kanlurang pampang ng Lake Hallstatt, sa paanan ng Dachstein massif sa Upper Austria. Pumupunta ang mga bisita para sa lumang bayan sa tabi ng lawa, kasaysayan ng salt mine at museo (dito nagmula ang pangalan ng Hallstatt culture), ang Skywalk sa itaas ng mga bubong, at ang Beinhaus ossuary. Nasa makitid na lupa ang bayan sa pagitan ng bangin at tubig, kaya halos lahat ng paglilibot ay lakad. Matindi ang dami ng day-tripper; malaki ang ipinagbabago ng karanasan kapag nag-overnight o dumating nang napakaaga.",
+        "best_time": "Mayo–Hunyo at Setyembre–Oktubre para sa mas banayad na panahon at mas kaunting tao. Napakaraming day tourist tuwing Hulyo–Agosto at maaraw na weekend; mas tahimik ang taglamig at posibleng may niyebe.",
+        "how_to_get_there": "Mag-tren sa ÖBB papuntang Attnang-Puchheim, tapos Salzkammergut Railway papuntang Hallstatt station sa kabilang pampang; ferry (~15 min) papunta sa pier ng nayon. Mula Salzburg, bus 150 papuntang Bad Ischl, tapos lokal na bus (lumipat sa Gosaumühle papuntang Hallstatt Lahn). Kung may kotse, kailangan ng Austrian motorway vignette; kakaunti ang parking sa nayon—mag-book nang maaga o bumiyahe nang maaga.",
+        "good_to_know": "May limitadong time slot ang mga tour bus; inuuna ang mga overnight guest. Karamihan ng parking sa sentro ay para sa residente—magplano ng public transport o reserved na parking."
+      }
+    },
+    "hidden-gems-004": {
+      "short_line": "Grand Est, France",
+      "country": "France",
+      "facts": {
+        "one_liner": "Prefecture city ng Alsace; lumang bayan na may half-timbered na bahay, mga kanal ng Petite Venise, at sentro ng Alsace Wine Route.",
+        "why_go": "Ang Colmar (sa Alsatian: Colmer) ay ang prefecture ng Haut-Rhin sa pagitan ng Vosges at Rhine, kilala bilang kabisera ng Alsace wines. Pumupunta ang mga biyahero para sa protektadong makasaysayang sentro—Petite Venise, ang quarter ng mga tanner, Maison Pfister, Maison des Têtes—at ang Unterlinden Museum na may Isenheim Altarpiece. Pinaghahalo ng pedestrian na sentro ang arkitekturang French at Germanic mula sa iba't ibang siglo. Magandang base ito para sa Route des Vins at mga kalapit na nayon.",
+        "best_time": "Mayo–Hunyo at Setyembre–Oktubre para sa panahong masarap maglakad at panahon ng ubasan. Sikat ang Christmas markets tuwing Disyembre pero siksikan; peak ng tag-init ang Hulyo–Agosto.",
+        "how_to_get_there": "May madalas na TER/TGV na tren mula Strasbourg at Mulhouse papuntang Gare de Colmar. Pinakamalapit na malalaking airport: Basel–Mulhouse–Freiburg (~52 km) at Strasbourg (~68 km). Kayang lakarin ang sentro mula sa istasyon; nasa Place Unterlinden ang tourist office.",
+        "good_to_know": "Pinakamaliwanag ang ilaw sa lumang bayan tuwing Biyernes–Sabado ng gabi buong taon, at gabi-gabi sa malalaking event (wine fair, Pasko). May mapa ng Petite Venise at impormasyon sa ticket ng museo ang tourist office."
+      }
+    },
+    "hidden-gems-005": {
+      "short_line": "Lazio, Italy",
+      "country": "Italy",
+      "facts": {
+        "one_liner": "Borgo sa tuktok ng bangin sa itaas ng Valle dei Calanchi; footbridge lang ang daan mula Bagnoregio, may bayad ang pagpasok.",
+        "why_go": "Ang Civita di Bagnoregio ay frazione ng Bagnoregio sa Tuscia, nakatayo sa marupok na tuff sa itaas ng clay badlands. Tumatawid ang mga bisita sa pinatibay na tulay para sa naglalakad papunta sa siksik na medieval na kalye na may ugat na Etruscan, simbahan ng San Donato, at tanaw ng calanchi. Dahil sa patuloy na erosion, tinawag itong “la città che muore,” kaya bahagi ng pagbisita ang mismong lokasyon. Iilan na lang ang permanenteng residente; day tourism ang pangunahing aktibidad.",
+        "best_time": "Abril–Hunyo at Setyembre–Oktubre para sa mas malamig na pag-akyat sa tulay. Iwasan ang init ng tanghali tuwing Hulyo–Agosto; mas komportable at hindi matao sa madaling-araw o gabi.",
+        "how_to_get_there": "A1 exit Orvieto (~18 km) o Attigliano (~30 km) papuntang Bagnoregio. Mag-park sa Piazzale Battaglini; shuttle o ~1.3 km na lakad papunta sa Belvedere, tapos tawirin nang lakad ang ~300 m na tulay. Mag-tren papuntang Orvieto o Viterbo, tapos COTRAL bus papuntang Bagnoregio. Diretso sa entrance ng tulay ang may online ticket.",
+        "good_to_know": "May bayad ang pagpasok (pinamamahalaan ng Casa Civita); matarik ang pag-akyat sa tulay—hindi angkop sa matinding init para sa may problema sa puso o paggalaw. Bawal ang bisikleta sa nayon."
+      }
+    },
+    "hidden-gems-006": {
+      "short_line": "Gifu Prefecture, Japan",
+      "country": "Japan",
+      "facts": {
+        "one_liner": "Gasshō-zukuri na nayon ng Ogimachi (白川郷); UNESCO Historic Villages of Shirakawa-go and Gokayama.",
+        "why_go": "Pinapanatili ng Ogimachi hamlet ng Shirakawa-gō sa Shirakawa Village (Gifu) ang matatarik na bahay-bukid na gasshō-zukuri na may bubong na pawid, ginawa para sa makapal na niyebe. Kasama ng mga site ng Gokayama sa Toyama, bumubuo ito ng UNESCO World Heritage property na naitala noong 1995. Naglalakad ang mga bisita sa mga eskinita, umaakyat sa observatory overlook, at puwedeng mag-stay sa mga farmhouse lodging. Ilang bahay ang museo na nagpapaliwanag ng pag-aalaga ng silkworm at paggawa ng bubong; marami pa ring pribadong tahanan.",
+        "best_time": "Huling bahagi ng Abril–Mayo (luntian), kalagitnaan ng Oktubre (mga dahon/panahon ng Doburoku Festival), at taglamig para sa tanawin ng niyebe kung handa ang daan at damit. Siksikan tuwing Golden Week at mga petsa ng autumn festival.",
+        "how_to_get_there": "Walang pampasaherong tren sa nayon. Highway bus (madalas kailangan ng reservation) mula Takayama (~50 min), Kanazawa (~75 min), o Nagoya. Kung may kotse, gamitin ang Seseragi Park Parking ng nayon, tapos tawirin ang Deai Bridge; restricted ang pagpasok ng sasakyan sa World Heritage core. Kailangan ng studless tires o chains sa pagmamaneho sa taglamig.",
+        "good_to_know": "Gamitin ang opisyal na Seseragi parking—hindi ang mga pribadong nag-aalok malapit sa entrance. Igalang ang mga residente: tahanan ang maraming gusali, at mataas ang panganib ng sunog sa mga bahay na may bubong na pawid."
+      }
+    },
+    "hidden-gems-007": {
+      "short_line": "Tunis Governorate, Tunisia",
+      "country": "Tunisia",
+      "facts": {
+        "one_liner": "Bayan sa bangin ~20 km hilagang-silangan ng Tunis; puting pader, asul na bintana, tanaw ng Gulf of Tunis (سيدي بو سعيد).",
+        "why_go": "Tanaw ng Sidi Bou Saïd ang Gulf of Tunis mula sa matarik na promontory, kilala sa mga bahay na Andalusian ang istilo, kulay puti at cobalt blue. Naglalakad ang mga bisita sa Rue Hedi Zarrouk at mga eskinita, tumatambay sa mga café sa bangin, at bumibisita sa Dar Ennejma Ezzahra (Centre of Arab and Mediterranean Music) o mga house museum gaya ng Dar el-Annabi. Madali itong isabay sa mga guho ng Carthage ilang kilometro sa kanluran. Siksik at halos pang-pedestrian ang itaas na bahagi ng nayon.",
+        "best_time": "Tagsibol at taglagas para sa banayad na panahon at mas kaunting tao kaysa peak ng tag-init. Dumating bago mag-11:00 o mag-overnight para sa mas tahimik na kalye; dinadagsa ng day-tripper tuwing hapon.",
+        "how_to_get_there": "TGM suburban train mula Tunis Marine papuntang La Marsa; bumaba sa Sidi Bou Saïd station (~0.5 km sa ibaba ng sentro), tapos maglakad paakyat. Ang taxi/rideshare ay nagbababa malapit sa Rue Hedi Zarrouk. Isabay ang Carthage sa parehong TGM line.",
+        "good_to_know": "Tuwing Ramadan, maraming food stall ang sarado sa araw—magplano ng iftar o kumain sa labas ng oras ng pag-aayuno. Ang marina ay naaabot sa matarik na “365 Steps” (mas kaunti sa totoo); ang mga kalye sa itaas ang pangunahing photo circuit."
+      }
+    },
+    "hidden-gems-008": {
+      "short_line": "Žilina Region, Slovakia",
+      "country": "Slovakia",
+      "facts": {
+        "one_liner": "Nayon sa bundok sa Rajecká dolina; mga bahay na troso na may puting geometric na disenyo sa pader (reserba ng katutubong arkitektura).",
+        "why_go": "Ang Čičmany ay nasa Žilina District sa pagitan ng Strážovské vrchy at Malá Fatra, sikat sa mga kahoy na bahay na pinintahan ng natatanging puting palamuti. Pinoprotektahan ng isang folk architecture reserve (idineklara noong 1977) ang grupo ng mga bahay na ito; ang Radenov dom at House No. 42 ay may ethnographic na exhibit ng Považské múzeum tungkol sa pang-araw-araw na buhay, kasuotan, at gawang-kamay. Makikita rin ang mga disenyo sa lokal na burda. Maliit at residential pa rin ang nayon.",
+        "best_time": "Mayo–Setyembre para sa paglalakad sa labas at oras ng museo; pinakamahaba ang oras ng museo tuwing Hulyo–Agosto. Maganda ang dating ng taglamig pero malamig at mas kaunti ang serbisyo.",
+        "how_to_get_there": "Kung may kotse, dumaan sa Rajecká Lesná / Rajecké Teplice sa timog ng Žilina (mga daan sa lambak ng bundok). Limitado ang public transport—tingnan ang mga regional bus ng Žilina papuntang Čičmany at kumpirmahin ang oras ng balik. Address ng museo: Čičmany 137.",
+        "good_to_know": "Sarado ang museo tuwing Lunes; Martes–Biyernes mga 9:00–15:00 na may break sa tanghali, mas mahaba tuwing weekend—kumpirmahin ang kasalukuyang oras sa pmza.sk bago pumunta. Maglakad nang may paggalang sa ibabang bahagi ng nayon; pribadong tahanan ang maraming pinintahang bahay."
+      }
+    },
+    "hidden-gems-009": {
+      "short_line": "Lofoten, Norway",
+      "country": "Norway",
+      "facts": {
+        "one_liner": "Fishing village sa Moskenesøya; sentro ng munisipyo ng Moskenes, Arctic Circle, daan sa E10, ~300 residente.",
+        "why_go": "Ang Reine ay nasa pagitan ng Vestfjorden at Reinefjorden sa Moskenesøya sa Lofoten archipelago. Pumupunta ang mga tao para sa tanaw ng daungan at mga tuktok, rorbu cabins, mga sampayan ng stockfish, at mga hike gaya ng Reinebringen (hagdanang bato na ginawa noong 2016–2019). Aktibong komunidad pa rin ito ng pagpoproseso ng isda, hindi lang viewpoint. Malapit lang ang kalapit na Hamnøy at Å sa parehong kalsada.",
+        "best_time": "Hunyo–Agosto para sa hiking, ferry, at midnight sun. Mas tahimik ang Mayo at Setyembre na mahaba pa rin ang liwanag. Oktubre–Marso para sa tsansang makita ang Northern Lights, pero asahan ang maiikling araw, limitadong serbisyo, at mapanganib na trail sa taglamig.",
+        "how_to_get_there": "Ferry Bodø–Moskenes, tapos bus/taxi papuntang Reine; o lumipad papuntang Leknes o Svolvær at magpatuloy sakay ng bus/kotse sa E10. Tingnan ang Reis Nordland (reisnordland.com / Reis app) para sa bus 300 / Lofotekspressen at lokal na biyahe. May public parking sa nayon—makikitid ang kalye.",
+        "good_to_know": "Mariing hindi ipinapayo ang Reinebringen sa taglamig para sa kaligtasan. Igalang ang aktibong trabaho sa pangisdaan at huwag hawakan ang pinatutuyong stockfish; sa mga markadong campsite lang mag-camp."
+      }
+    },
+    "hidden-gems-010": {
+      "short_line": "Teruel, Spain",
+      "country": "Spain",
+      "facts": {
+        "one_liner": "Bayan sa burol na may kulay-rosas na pader sa liko ng Guadalaviar; Sierra de Albarracín, Monumento Nacional mula 1961.",
+        "why_go": "Umaakyat ang Albarracín sa mabatong liko ng Guadalaviar sa taas na mga 1,180 m sa timog Aragón. Naglalakad ang mga bisita sa medieval na sala-salabat na kalye, katedral at mga pader (tanaw mula Torre del Andador), at mga harapang sandstone na kulay-rosas. Nag-aalok ang paligid na sierra ng paglalakad at ng tanawing Rodeno pine/boulder na sikat sa mga climber. Kabisera ito ng comarca ng Sierra de Albarracín at miyembro ng asosasyon ng Most Beautiful Villages ng Spain.",
+        "best_time": "Mayo–Hunyo at Setyembre–Oktubre para sa komportableng paglalakad at kulay ng taglagas sa sierra. Mainit ang tag-init sa araw pero malamig sa gabi; puwedeng magka-niyebe sa taglamig at mas tahimik ang kalye.",
+        "how_to_get_there": "Pinakamainam kung may kotse: ~2 oras mula Valencia (A-23), ~3 oras mula Madrid, ~5 oras mula Barcelona. May bus mula Teruel bus station karaniwang Lunes–Sabado (hal. Teruel 08:50 / Albarracín 14:10 ayon sa munisipyo—kumpirmahin ang kasalukuyang oras). Limitado ang biyahe tuwing Linggo/holiday.",
+        "good_to_know": "Gamitin ang itinakdang parking sa labas ng makasaysayang sentro; napakakitid ng mga kalye. Tingnan ang albarracin.es o Albarracín Movilidad para sa updated na bus ticket bago umasa sa same-day na biyahe mula Teruel."
+      }
+    },
+    "hidden-gems-011": {
+      "short_line": "Waikato, New Zealand",
+      "country": "New Zealand",
+      "facts": {
+        "one_liner": "Guided na limestone caves na may tahimik na pagsakay sa bangka sa ilalim ng Arachnocampa luminosa glowworms.",
+        "why_go": "Ang Waitomo Glowworm Caves ay show-cave complex sa kanayunan ng Waikato kung saan dumadaan ang guided tour sa mga silid gaya ng Cathedral bago ang maikling pagsakay sa bangka sa glowworm grotto. Pinapatakbo ng Discover Waitomo ang opisyal na Glowworm Cave kasama ang kalapit na Ruakuri at Aranui caves, kaya puwedeng half-day o multi-cave stop ang lugar sa pagitan ng Auckland at Rotorua. Asahan ang malamig at mamasa-masang kondisyon sa ilalim ng lupa at cashless na visitor centre sa 39 Waitomo Village Road.",
+        "best_time": "Buong taon; mas mahaba ang liwanag at mas maraming biyahe tuwing tag-init (Dis–Peb), habang mas tahimik ang shoulder months (Mar–May, Set–Nob). Mag-book nang maaga tuwing school holidays.",
+        "how_to_get_there": "Mga 1 oras na biyahe mula Hamilton, ~2.5 oras mula Auckland. Magmaneho sa SH3/SH37 papuntang Waitomo Village, o sumali sa day tour mula Auckland/Rotorua. Nagche-check in ang mga tour sa Glowworm Caves Visitor Centre.",
+        "good_to_know": "Kailangang mag-pre-book online sa Discover Waitomo; mag-check in 30 minuto bago umalis. Magsuot ng saradong sapatos at pangginaw—puwedeng basa at madulas ang daan. Iba-iba ang patakaran sa pagkuha ng litrato depende sa bahagi ng tour."
+      }
+    },
+    "hidden-gems-012": {
+      "short_line": "Antioquia, Colombia",
+      "country": "Colombia",
+      "facts": {
+        "one_liner": "Bayan sa tabi ng lawa sa Antioquia na may pinintahang zócalos, katabi ng El Peñón de Guatapé (La Piedra del Peñol).",
+        "why_go": "Ang Guatapé, mga 75 km silangan ng Medellín, ay kilala sa makukulay na pinintahang base ng bahay (zócalos) na naglalarawan ng lokal na hanapbuhay, halaman, at kasaysayan sa mga kalye gaya ng Calle del Recuerdo. Ang Peñol-Guatapé reservoir, na ginawa para sa hydroelectric project na lumunod sa libu-libong ektarya noong 1970s, ang backdrop ng mga boat trip at lakad sa pampang. Ang kalapit na El Peñón de Guatapé—~220 m na granite monolith sa pagitan ng Guatapé at El Peñol—ay may hagdanang humigit-kumulang 700 baitang papunta sa tanaw ng reservoir.",
+        "best_time": "Pinakamalinaw ang dry season (Dis–Mar) para sa pag-akyat sa bato at litrato; binibisita ang Guatapé buong taon. Mas kaunti ang tao tuwing weekday kaysa weekend.",
+        "how_to_get_there": "May bus mula Terminal del Norte ng Medellín papuntang Guatapé (~2 oras). Nasa daang El Peñol–Guatapé ang bato, maikling sakay o lakad bago ang bayan. Karaniwan ang day tour mula Medellín.",
+        "good_to_know": "Magdala ng cash (COP) para sa entrance ng bato at parking; hindi maaasahan ang pagtanggap ng card doon. Umakyat sa madaling-araw o hapon para iwas-init at iwas-pila."
+      }
+    },
+    "hidden-gems-013": {
+      "short_line": "Bali, Indonesia",
+      "country": "Indonesia",
+      "facts": {
+        "one_liner": "Nayon sa kabundukan ng Bangli na may iisang batong pangunahing kalye, mga compound na may gate, at kagubatan ng kawayan.",
+        "why_go": "Ang Penglipuran (Desa Wisata Penglipuran) sa Kubu, Bangli Regency, ay komunidad ng Bali Aga na kilala sa maayos na batong pangunahing kalye na napapalibutan ng maayos na hardin at tradisyonal na arkong gate ng bahay papunta sa templo ng nayon. Puwedeng maglakad ang mga bisita sa mga residential na eskinita, pumasok sa mga itinalagang bahay, at puntahan ang kagubatan ng kawayan sa gilid ng nayon. Pinangalanan ito ng UN Tourism bilang isa sa Best Tourism Villages noong 2023.",
+        "best_time": "Dry season (Abr–Okt) para komportableng maglakad; mas malamig at mas kaunti ang tao sa umaga. Sarado tuwing Nyepi; puwedeng pansamantalang isara para sa mga seremonya.",
+        "how_to_get_there": "Nasa kabundukan ng Bangli sa East Bali, mga 1–1.5 oras na biyahe mula Ubud o mga resort sa south Bali. Address: Jl. Penglipuran, Kubu, Bangli. Walang public online ticket—bumili sa opisyal na counter.",
+        "good_to_know": "Mula 1 Ene 2026, visit packages na lang ang ibinebenta ng nayon (wala nang hiwalay na entrance fee) sa opisyal na counter; cash IDR o QRIS. Magsuot nang disente; bawal pumasok sa kaloob-loobang bahagi ng templo."
+      }
+    },
+    "hidden-gems-014": {
+      "short_line": "Vágar, Faroe Islands",
+      "country": "Faroe Islands",
+      "facts": {
+        "one_liner": "Maliit na nayon sa bangin ng Vágar sa itaas ng Múlafossur, talon na diretsong bumabagsak sa Atlantic.",
+        "why_go": "Ang Gásadalur ay nasa kanlurang bahagi ng Vágar na may iilang bahay (ayon sa opisyal na tourism sources, mga 13 residente noong 2023) sa itaas ng mga bangin sa dagat. Ang tanyag dito ay ang Múlafossur, ang talon na bumabagsak mula sa gilid ng nayon papunta sa karagatan, at tanaw ang Mykines kapag maaliwalas. Nagkaroon lang ng daan noong 2005 sa Gásadalstunnilin tunnel; bago nito, nilalakad pa ang bundok mula Bøur para marating ang nayon.",
+        "best_time": "May–Set para sa mas mahabang liwanag at mas banayad na panahon; asahan ang hangin at hamog anumang buwan. Posible ang pagbisita sa taglamig pero depende sa panahon.",
+        "how_to_get_there": "Magmaneho mula Vágar Airport o Sørvágur sa tunnel mula Bøur (~15–20 min mula sa airport). Mag-park lang sa markadong puwesto at maglakad nang ~5 minuto papunta sa nakabakod na viewpoint. Opsyonal na mahirap na hike: ang lumang postman’s trail mula Bøur.",
+        "good_to_know": "Manatili sa loob ng bakod—matarik at mapanganib ang bangin. Huwag magmaneho sa damuhan o harangan ang daan ng mga lokal. Magdala ng pangginaw; puwedeng malakas ang hangin sa viewpoint."
+      }
+    },
+    "hidden-gems-015": {
+      "short_line": "Grand Est, France",
+      "country": "France",
+      "facts": {
+        "one_liner": "Pabilog na wine village ng Alsace na may half-timbered na bahay sa Route des Vins d’Alsace.",
+        "why_go": "Ang Eguisheim (Pays d’Eguisheim) ay medieval na nayon malapit sa Colmar na ang mga kalye ay pabilog, sumusunod sa dating mga pader, lalo na sa Rue du Rempart. Ang mga half-timbered na harapan, mga bulaklak, at Place du Château—kasama ang kapilya at estatwa ni Pope Leo IX, na tradisyonal na iniuugnay sa nayon—ay ginagawa itong siksik na walking stop sa Alsace Wine Route. Kasama ito sa Les Plus Beaux Villages de France.",
+        "best_time": "Abr–Hun para sa mga bulaklak at mas kaunting tao; Set–Okt para sa kulay ng ubasan at anihan. Pinakamatao tuwing Hul–Ago at Christmas markets ng Disyembre.",
+        "how_to_get_there": "~7 km timog-kanluran ng Colmar (tren papuntang Gare de Colmar, tapos lokal na bus o taxi/bisikleta). Kung may kotse: A35 exit Sainte-Croix-en-Plaine / Herrlisheim papuntang Eguisheim. Kayang lakarin ang makasaysayang sentro (~250 m ang lapad).",
+        "good_to_know": "Nasa 22a Grand Rue ang tourist office (Office de Tourisme Pays d’Eguisheim et de Rouffach). Dumating nang maaga tuwing weekend; mabilis mapuno ang parking sa high season at sa panahon ng Christmas markets."
+      }
+    },
+    "hidden-gems-016": {
+      "short_line": "Herzegovina-Neretva, Bosnia and Herzegovina",
+      "country": "Bosnia and Herzegovina",
+      "facts": {
+        "one_liner": "UNESCO Old Bridge (Stari Most) at bazaar sa tabi ng ilog na tumatawid sa bangin ng Neretva.",
+        "why_go": "Ang Old Bridge Area ng Old City ng Mostar ay UNESCO World Heritage property (naitala noong 2005) na nakasentro sa Stari Most, ang muling itinayong Ottoman na batong arko sa ibabaw ng Neretva. Pinaghahalo ng mga eskinita ng Kujundžiluk bazaar sa paligid ang Ottoman, Mediterranean, at Austro-Hungarian na istruktura na inayos matapos masira sa digmaan noong 1990s. Ipinagpapatuloy ng mga lokal na diver mula Klub skakača u vodu Mostari ang tradisyon ng pagtalon mula sa tulay, na madalas panoorin mula sa pampang tuwing mainit na buwan.",
+        "best_time": "May–Hun at Set para sa mainit na panahon at mas kaunting tao; peak ng bridge-diving at init ang Hul–Ago. Tahimik ang taglamig, mas malamig, at mas payapa para maglakad.",
+        "how_to_get_there": "May tren ng ŽFBH at madalas na bus sa pagitan ng Sarajevo at Mostar (~2–2.5 oras sa tren kapag may biyahe). Siksik at kayang lakarin ang lumang bayan mula sa istasyon/bus terminal ng Mostar, o maikling taxi papuntang Stari Most.",
+        "good_to_know": "Libre at pang-pedestrian ang pagtawid sa Stari Most; asahan ang madulas na cobblestone. Pinakamaaasahan ang bridge jumps mga Hun–Set, huling bahagi ng umaga hanggang kalagitnaan ng hapon—manood mula sa pampang, magbigay kung may koleksyon, at huwag na huwag tumalon nang walang training ng club."
+      }
+    },
+    "hidden-gems-017": {
+      "short_line": "Andalusia, Spain",
+      "country": "Spain",
+      "facts": {
+        "one_liner": "Asul na pueblo sa Genal Valley ng Málaga, opisyal na pinopromote bilang La Aldea Azul.",
+        "why_go": "Ang Júzcar ay maliit na munisipalidad sa Serranía de Ronda / Valle del Genal, mga 22 km mula Ronda. Noong 2011, pininturahan ng asul ang mga gusali nito para sa promosyon ng pelikulang Smurfs; kalaunan ay bumoto ang mga residente na panatilihin ang kulay, at matapos ang away sa karapatan, ibinebenta ang lugar bilang La Aldea Azul sa halip na opisyal na Smurf village. Bukod sa asul na kalye, ginagamit ito ng mga bisita bilang base para sa mga lakad sa Genal Valley, kasama ang kulay ng chestnut tuwing taglagas sa kalapit na Bosque de Cobre.",
+        "best_time": "Tagsibol (Abr–Hun) at taglagas (Set–Nob)—taglagas para sa kulay ng chestnut (Bosque de Cobre). Mainit ang tag-init; banayad ang taglamig pero mas tahimik.",
+        "how_to_get_there": "Magmaneho sa MA-515 mula Ronda (~30 min) o sa mga daang panloob mula Málaga (~1.5–2 oras, ~113–115 km). Limitado ang lokal na bus mula Ronda papunta sa mga nayon ng Genal—kumpirmahin ang oras ng balik. May parking malapit sa entrance ng nayon.",
+        "good_to_know": "Asahan ang asul na pintura, hindi lisensyadong estatwa o branding ng Smurf—nag-rebrand na ang nayon patungo sa lokal na kalikasan at tema ng chestnut. Isabay ang iba pang white villages ng Genal kung may kotse ka."
+      }
+    },
+    "hidden-gems-018": {
+      "short_line": "Isle of Skye, Scotland",
+      "country": "United Kingdom",
+      "facts": {
+        "one_liner": "Kabisera at daungan ng Skye (Port Rìgh) sa protektadong look na nakaharap sa Raasay.",
+        "why_go": "Ang Portree ang pangunahing bayan at service hub ng Isle of Skye, nakapalibot sa protektadong daungan sa Loch Portree / Sound of Raasay na may makukulay na gusali sa pampang at aktibong pier. Itinayo bilang fishing settlement noong unang bahagi ng ika-19 na siglo, ngayon ay dito nakatipon ang mga tindahan, matutuluyan, at tourist information ng isla, at panimulang punto ito ng mga boat trip at pamamasyal. Pinalilibutan ng mga burol gaya ng Ben Tianavaig ang look; tanaw sa kabilang tubig ang Dun Caan ng Raasay.",
+        "best_time": "May–Set para sa mas mahabang araw at mas maraming serbisyo; mas tahimik ang shoulder months. Pabago-bago ang panahon buong taon—magdala ng waterproof.",
+        "how_to_get_there": "Magmaneho sa libreng Skye Bridge (Kyle of Lochalsh–Kyleakin), tapos A87 papuntang Portree (~1 oras mula sa tulay). Bumibiyahe ang Scottish Citylink coaches mula Inverness at Glasgow papuntang Somerled Square; dumarating ang CalMac ferries sa Skye sa Armadale (Mallaig) na may kasunod na bus. Walang tren sa Skye.",
+        "good_to_know": "Mag-book ng upuan sa Citylink tuwing tag-init. Sakop ng lokal na Stagecoach bus ang Staffin, Uig, at Dunvegan pero madalang ang biyahe—tingnan ang timetable. Puwedeng isara ang harbour pontoon kapag may cruise ship."
+      }
+    },
+    "hidden-gems-019": {
+      "short_line": "Santorini, Greece",
+      "country": "Greece",
+      "facts": {
+        "one_liner": "Nayon sa hilagang-kanluran ng Santorini sa gilid ng caldera — mapuputing eskinita, guho ng kastilyo, at dagsa ng tao tuwing sunset.",
+        "why_go": "Ang Oia (Οία, madalas isulat na Ia; bigkas EE-ah) ay nasa hilagang-kanlurang gilid ng caldera ng Santorini, mga 70–100 m sa itaas ng dagat, na may mapuputing Cycladic na bahay, simbahang may asul na simboryo, at mga windmill sa bangin. Pumupunta ang mga biyahero para sa tanaw ng caldera, pag-stay sa cave house, at ang guho ng Kasteli ng Agios Nikolaos (Londsa / Oia Castle) sa kanlurang dulo — libreng open-air viewpoint at hindi kutang may ticket. Sa ibaba ng nayon, ang Ammoudi Bay ay naaabot sa daan-daang baitang at may mga taverna sa daungan at bangka papuntang Therasia. Ang Nikolaou Nomikou ang pangunahing daanan ng mga tindahan at gallery.",
+        "best_time": "Abril–Hunyo at Setyembre–Oktubre para sa mas banayad na panahon at mas kaunting tao. Siksikan sa guho ng kastilyo tuwing sunset ng Hulyo–Agosto; mas tahimik sa umaga para maglakad sa mga eskinita.",
+        "how_to_get_there": "Lumipad o mag-ferry papuntang Santorini, tapos sumakay ng KTEL bus mula Fira papuntang Oia (~20 minuto) o taxi/rental car (napupuno ang parking sa peak season). Halos walang sasakyan sa sentro — maglibot nang lakad.",
+        "good_to_know": "Dumating nang mas maaga bago mag-sunset kung gusto mo ng puwesto sa guho ng kastilyo; o bumisita nang mas maaga para sa walang-taong eskinita at parehong tanaw ng caldera. Opsyonal: dito nagtatapos ang caldera-rim path na Fira–Oia kung mas gusto mong maglakad kaysa mag-bus."
+      }
+    },
+    "hidden-gems-020": {
+      "short_line": "Bavaria, Germany",
+      "country": "Germany",
+      "facts": {
+        "one_liner": "Napangalagaang Franconian na bayang napapaderan sa Romantic Road, may ~4 km na ikot sa pader na kayang lakarin.",
+        "why_go": "Ang Rothenburg ob der Tauber ay pangunahing tourist town sa Middle Franconia na ang lumang sentro ay napapalibutan ng humigit-kumulang apat na kilometrong medieval na pader at dose-dosenang tore. Naglalakad ang mga bisita sa Rothenburger Turmweg sa kahabaan ng mga kuta, dumaraan sa mga gate gaya ng Rödertor at Spitaltor, at naglilibot sa Marktplatz at Plönlein viewpoint. Nasa Romantic Road ito ng Germany at dinarayo ng mga day-tripper at mga nag-o-overnight sa makasaysayang inn.",
+        "best_time": "Abr–Hun at Set–Okt para sa mas banayad na panahon; pinakamatao sa panahon ng Christmas market ng Disyembre. Iwas sa mga tour group ang paglalakad sa pader sa madaling-araw o gabi.",
+        "how_to_get_there": "Regional train papuntang Rothenburg ob der Tauber station (koneksyon sa Steinach); maikling lakad o bus papunta sa lumang bayan. Kung may kotse, A7 tapos lokal na daan; mag-park sa labas ng pader at maglakad papasok. Naaabot din sa mga Romantic Road bus mula sa ibang bayan sa Franconia.",
+        "good_to_know": "Kumuha ng English Tower Trail brochure sa Tourist Information, Marktplatz 2. Bukas buong araw at gabi ang malaking bahagi ng wall walk bilang daanan; mag-ingat sa hindi pantay na bato at matarik na bangin. Tema ng 2026: City.Landscape.Nature."
+      }
+    },
+    "pubs-021": {
+      "short_line": "Berlin, Germany",
+      "country": "Germany",
+      "facts": {
+        "one_liner": "Pinakamatandang restawran sa Berlin: kulay-okreng harapan sa Waisenstraße na may Gothic mural at simbolong §.",
+        "why_go": "Inaangkin ng Zur letzten Instanz ang pinakamatandang tradisyon ng restawran sa Berlin (dokumentadong inuman mula 1621; kasalukuyang pangalan mula 1924) sa Waisenstraße sa tabi ng lumang pader ng lungsod. Cobblestone, mga shutter, at parol sa pader ang bumabalot sa tahimik na kalye ng Altstadt bago ka pumasok sa mga silid na may tiles at seasonal na beer garden.",
+        "best_time": "Tanghalian tuwing weekday (Martes–Sabado) o maagang gabi para sa mas tahimik na mesa; sarado tuwing Linggo. Bagay sa mural ang malambot na liwanag ng hapon para sa litrato sa labas.",
+        "how_to_get_there": "Waisenstraße 14–16, 10179 Berlin (Mitte), malapit sa mga korte ng Littenstraße at Rotes Rathaus. U-Bahn Klosterstraße o Jannowitzbrücke; S-Bahn Hackescher Markt / Alexanderplatz na maikling lakad lang.",
+        "good_to_know": "Bukas hanggang Set 2026 (opisyal: Lunes 17:30–23:00; Martes–Sabado 12:00–15:00 at 17:30–23:00; sarado Linggo). Sa telepono lang ang same-day booking; magpareserba nang maaga para sa hapunan. Berlin cuisine at beer garden kapag maganda ang panahon."
+      }
+    },
+    "pubs-022": {
+      "short_line": "Stockholm, Sweden",
+      "country": "Sweden",
+      "facts": {
+        "one_liner": "Beer hall sa Skeppsbron, Gamla stan: berdeng karatulang ZUM FRANZISKANER sa magaspang na bato.",
+        "why_go": "Ang Zum Franziskaner ay isa sa pinakamatagal na restawran sa Stockholm, binuksan noong 1889 at mula 1910 ay nasa Jugend building ni Fredrik Dahlberg sa Skeppsbron 44. Sa loob, may wood panelling at stucco pa rin ang Art Nouveau na beer-hall dining room mula 1910; Swedish–German na husmanskost ang luto, kasama ang craft lager mula sa mga independiyenteng brewery sa Sweden at Germany.",
+        "best_time": "Hapon o maagang gabi ng weekday para sa mas tahimik na hall; mabilis mapuno tuwing Biyernes–Sabado ng gabi. Pinakamadaling kunan ang labas sa araw sa Skeppsbron.",
+        "how_to_get_there": "Skeppsbron 44, 111 30 Stockholm, sa pampang ng Gamla stan. Maglakad mula Gamla stan o Slussen T-bana; maraming bus at ferry ang humihinto sa mga pantalan ng Old Town.",
+        "good_to_know": "Bukas hanggang Set 2026 (karaniwang oras: Lunes 16–23, Martes–Huwebes 16–00, Biyernes–Sabado 15–00, Linggo 15–23; kumpirmahin sa zumen.se). Puwedeng pansamantalang magsara para sa renovation—tingnan ang site bago bumiyahe. Inirerekomenda ang table booking para sa hapunan."
+      }
+    },
+    "pubs-023": {
+      "short_line": "Amsterdam, Netherlands",
+      "country": "Netherlands",
+      "facts": {
+        "one_liner": "Corner café sa Amsterdam mula Anno 1606: itim na itaas na palapag at karatulang CAFÉ KARPERSHOEK.",
+        "why_go": "Ipinakikilala ng Café Karpershoek ang sarili bilang pinakamatandang bar sa Amsterdam, nagsimula bilang guest house ng mga marinero ng VOC noong 1606 sa Martelaarsgracht malapit sa Centraal Station. Klasikong talk café pa rin ito—walang malakas na tugtog—na naghahain ng Heineken, bitterballen, at apple pie sa mga lokal at biyaherong nanonood ng trapiko sa Prins Hendrikkade.",
+        "best_time": "Kalagitnaan ng umaga o maagang hapon para manood ng tao sa terrace bago ang rush hour; mas masigla sa gabi. Pinakamaganda ang litrato sa labas sa maliwanag na araw kapag malinaw ang itim-at-puting kontrast.",
+        "how_to_get_there": "Martelaarsgracht 2, 1012 TP Amsterdam, katapat ng Centraal Station sa kanto ng Prins Hendrikkade. 2–3 minutong lakad mula Amsterdam Centraal; napakaraming tram at bus ang humihinto sa malapit.",
+        "good_to_know": "Bukas hanggang 2025–2026 (opisyal na site: Lunes–Linggo 10:00–00:00). Cash/card ayon sa nakapaskil; first-come ang upuan sa terrace. Asahan ang maraming turista—pero totoong brown-café vibe pa rin sa loob."
+      }
+    },
+    "pubs-024": {
+      "short_line": "New York City, United States",
+      "country": "United States",
+      "facts": {
+        "one_liner": "Literary landmark sa West Village: kulay-uling na kanto sa Hudson Street na may karatulang White Horse Tavern.",
+        "why_go": "Naghahain na ang White Horse Tavern mula 1880 sa Hudson at 11th—una bilang bar ng mga longshoreman, kalaunan ay tambayan ng mga manunulat noong 1950s na iniuugnay kina Dylan Thomas, Kerouac, at sa eksena ng Village. Ang fire escape at mga puno sa kalye ang bumabalot sa klasikong harapan ng West Village na tugma pa rin sa landmark na interior na kahoy at tin ceiling.",
+        "best_time": "Mas tahimik tuwing hapon ng weekday kaysa weekend ng gabi; dinarayo ng mga lokal tuwing Sunday brunch. Bagay sa madilim na harapan ang malambot na liwanag ng umaga o hapon para sa litrato.",
+        "how_to_get_there": "567 Hudson Street, New York, NY 10014 (kanto ng W 11th). Subway: 1 papuntang Christopher St–Sheridan Sq; A/C/E o L papuntang 14th St / Eighth Ave; maikling lakad sa West Village.",
+        "good_to_know": "Bukas hanggang 2025–2026 (karaniwang oras sa opisyal na site: Lunes–Huwebes mula tanghali, Biyernes–Sabado mula 11am, Linggo mula 11am—kumpirmahin ang oras ng pagsasara). Makasaysayang landmark bar; dinarayo ng turista—asahan ang paghihintay sa peak hours."
+      }
+    },
+    "pubs-025": {
+      "short_line": "London, United Kingdom",
+      "country": "United Kingdom",
+      "facts": {
+        "one_liner": "Inn sa tabi ng ilog sa Wapping: brick na harapan na may karatulang THE PROSPECT OF WHITBY at mga basket ng bulaklak.",
+        "why_go": "Tinatawag ng Prospect of Whitby ng Greene King sa Wapping Wall ang sarili bilang pinakamatandang riverside inn sa London (c. 1520), may orihinal na flagstones at tanaw ng Thames mula sa beer garden at terrace sa itaas. Cobblestone at weeping willow ang nasa daan papunta rito; ang mga chalkboard ng oras at karatulang “amazing river views” ang magtuturo sa iyo sa upuan sa tabi ng tubig.",
+        "best_time": "Tanghalian o kalagitnaan ng hapon ng weekday para may puwesto sa terrace; mabilis mapuno tuwing gabi ng tag-init at weekend. Bagay pa rin sa brick at bulaklak ang makulimlim na liwanag para sa litrato sa labas.",
+        "how_to_get_there": "57 Wapping Wall, London E1W 3SH. Overground papuntang Wapping; DLR/Tube papuntang Shadwell o Tower Hill, tapos lakad/bus sa tabi ng ilog. May riverside path mula St Katharine Docks.",
+        "good_to_know": "Bukas hanggang 2025–2026 (opisyal: Lunes–Sabado 11:00–23:00, Linggo 12:00–22:00; pagkain karaniwang 12:00–21:00). Dog- at family-friendly na Greene King pub; mag-book nang maaga para sa mesa sa tabi ng ilog sa peak season."
+      }
+    },
+    "pubs-026": {
+      "short_line": "Kelheim, Germany",
+      "country": "Germany",
+      "facts": {
+        "one_liner": "Beer garden ng abbey sa Danube Gorge: kulay-peach na courtyard ng Klosterschenke sa ilalim ng malilim na puno.",
+        "why_go": "Naghahain ang Klosterschenke Bräustüberl ng Weltenburg Abbey ng beer mula sa pinakamatandang monastery brewery sa mundo, sa cobblestone na courtyard sa tabi ng Danube Gorge malapit sa Kelheim. Paikot-ikot sa mga grupo ang mga server na naka-tradisyonal na kasuotan—pumunta para sa Weltenburger dunkles at helles sa open air matapos sumakay ng bangka sa Donaudurchbruch o maglakad mula sa simbahan ng abbey.",
+        "best_time": "Mainit na hapon ng Mayo–Setyembre para sa buong Biergarten atmosphere; dumating nang maaga tuwing weekend. Mas tahimik ang shoulder months; tingnan kung may seasonal na pagsasara sa taglamig.",
+        "how_to_get_there": "Asamstraße 32, 93309 Kelheim / Weltenburg. Bangka mula Kelheim sa Danube Gorge, o magmaneho/mag-bus papunta sa parking ng Weltenburg at maglakad papasok sa courtyard ng abbey. Mga 25–30 minuto mula Regensburg kung may kotse.",
+        "good_to_know": "Bukas hanggang Set 2026 (opisyal na Klosterschenke: araw-araw ~10:00–18:00 mula 20 Hul 2026 hanggang may abiso; umiikli ang oras sa Oktubre; sarado mula unang bahagi hanggang kalagitnaan ng Nobyembre—kumpirmahin ang kasalukuyang season). Beer ng abbey brewery on site; may guest house para sa overnight."
+      }
+    },
+    "pubs-027": {
+      "short_line": "Galway, Ireland",
+      "country": "Ireland",
+      "facts": {
+        "one_liner": "Landmark sa Quay Street ng Galway: dobleng karatulang THE QUAYS / Teach na Céibhe at mga bandila.",
+        "why_go": "Ang The Quays (Teach na Céibhe) ay multi-level na bar at restawran sa pedestrian na Quay Street sa Latin Quarter ng Galway. Ang mga instrumento sa bintana ay pahiwatig ng live na tradisyonal na musika na pumupuno sa mga silid sa itaas at ibaba—pumunta para sa atmosphere, hindi lang para sa pint.",
+        "best_time": "Maagang gabi para makaupo bago dumagsa ang tao para sa musika; siksikan sa hatinggabi. Pinakamadali ang litrato sa labas sa araw sa pedestrian na kalye.",
+        "how_to_get_there": "11 Quay Street, sentro ng Galway. Maikling lakad mula Eyre Square at Galway Coach/Rail Station sa Shop Street papunta sa pedestrian zone ng Latin Quarter.",
+        "good_to_know": "Bukas hanggang 2025–2026 (opisyal: Lunes–Sabado mula 11:30 hanggang 2am; Linggo 12:30–1am; mas maaga ang serbisyo ng restawran). Asahan ang dami ng turista at live music—mag-book ng mesa kung kakain."
+      }
+    },
+    "pubs-028": {
+      "short_line": "Madrid, Spain",
+      "country": "Spain",
+      "facts": {
+        "one_liner": "Klasiko sa Plaza de Santa Ana: madilim na kahoy na karatulang CERVECERIA ALEMANA mula 1904.",
+        "why_go": "Nakatayo ang Cervecería Alemana sa Plaza de Santa Ana 6 mula 1904, itinatag bilang German-style na beer hall at kinikilala pa ring Traditional Madrid Establishment. Ayon sa Tourism Madrid, halos hindi nagbago ang dekorasyon at kasama sa mga naging bisita sina Valle-Inclán hanggang Hemingway; uminom ng caña sa mesa sa bintana o sa terrace na nakaharap sa mga ilaw ng teatro sa plaza.",
+        "best_time": "Pagbukas sa huling bahagi ng umaga o kalagitnaan ng hapon ng weekday bago mapuno ang terrace; mas gabi ang Biyernes–Sabado. Pinakamaganda ang kahoy na harapan sa malambot na liwanag ng araw.",
+        "how_to_get_there": "Plaza de Santa Ana 6, 28012 Madrid (Barrio de las Letras). Metro Sol (L1/L2/L3) o Antón Martín (L1); maikling lakad mula Puerta del Sol.",
+        "good_to_know": "Bukas hanggang 2025–2026 (opisyal: Lunes–Huwebes at Linggo 12:00–00:00; Biyernes–Sabado at bisperas ng holiday 12:00–01:00). Pinag-aagawan ang terrace tuwing tag-init—dumating nang maaga. Makasaysayang tapas/beer stop, hindi atraksyong may ticket."
+      }
+    },
+    "pubs-029": {
+      "short_line": "London, United Kingdom",
+      "country": "United Kingdom",
+      "facts": {
+        "one_liner": "Mabulaklak na Fuller’s pub sa Kensington: gintong karatulang THE CHURCHILL ARMS sa ilalim ng mga Union Jack.",
+        "why_go": "Landmark ng Fuller’s ang The Churchill Arms sa Kensington Church Street: pub mula 1750 na kalaunan ay iniugnay sa kuwento ng pamilya ni Winston Churchill, sikat ngayon sa umaapaw na flower boxes at Thai kitchen. Ang kanto sa Campden Street na kulay-cream at kahoy—gintong karatulang “THE CHURCHILL ARMS,” letrang “CHISWICK ALES & STOUT” sa itaas, nakabiting karatula ni Winston, maroon na tiles, at mga pader na natatabunan ng rosas, lila, at pulang bulaklak na may mga Union Jack sa itaas. Pumasok para sa cask ales at matagal nang Thai dishes pagkatapos mag-selfie sa labas.",
+        "best_time": "Tanghalian o maagang hapon ng weekday para sa litrato sa labas at mas tahimik na bar; siksikan tuwing gabi at weekend. Pinakamaganda ang bulaklak sa mas maiinit na buwan.",
+        "how_to_get_there": "119 Kensington Church Street, London W8 7LN (kanto ng Campden Street). Tube: Notting Hill Gate o High Street Kensington; may bus sa Kensington Church Street.",
+        "good_to_know": "Bukas hanggang 2025–2026 (opisyal: Lunes–Sabado 11:00–23:00, Linggo 12:00–22:30; pagkain mga tanghali–21:30 / 21:00 Linggo). Fuller’s pub na may Thai kitchen; dog- at family-friendly—asahan ang pila para sa litrato at mesa."
+      }
+    },
+    "pubs-030": {
+      "short_line": "New York City, United States",
+      "country": "United States",
+      "facts": {
+        "one_liner": "Georgian na landmark sa FiDi: red-brick na Fraunces Tavern sa ilalim ng mga skyscraper ng Pearl Street.",
+        "why_go": "Ang Fraunces Tavern sa Pearl at Broad ay may pinakamatandang natitirang istruktura sa Manhattan na naging Revolutionary landmark—ang tavern ni Samuel Fraunces noong 1762, ang paalam ni Washington sa kanyang mga opisyal noong 1783, at ngayon ay restaurant-bar sa ilalim ng museo. Libutin ang museo sa itaas, tapos umupo sa mga makasaysayang silid para kumain o uminom.",
+        "best_time": "Tanghalian o maagang gabi ng weekday bago ang after-work rush ng FiDi; sikat sa mga bisita tuwing weekend. Mas tumitingkad ang kontrast ng brick at skyscraper sa maaliwalas na araw para sa litrato.",
+        "how_to_get_there": "54 Pearl Street, New York, NY 10004 (kanto ng Broad Street). Subway: 4/5 papuntang Bowling Green; R/W papuntang Whitehall; 2/3 papuntang Wall Street; maikling lakad mula Battery Park at mga ferry terminal.",
+        "good_to_know": "Bukas hanggang 2025–2026 (karaniwang bukas ang restawran mula huling bahagi ng umaga hanggang gabi—kumpirmahin sa frauncestavern.com; hiwalay ang oras/ticket ng museo). Landmark complex: kainan sa ibaba, Fraunces Tavern Museum sa itaas."
+      }
+    },
+    "pubs-031": {
+      "short_line": "Bamberg, Germany",
+      "country": "Germany",
+      "facts": {
+        "one_liner": "Half-timbered na Rauchbier brewery-pub sa Obere Königsstraße ng Bamberg—gintong letrang BRAUEREI SPEZIAL at mga kahon ng geranium.",
+        "why_go": "Gumagawa ang Brauerei Spezial ng sikat na smoked beer ng Bamberg sa Obere Königstraße mula nang banggitin ng mga dokumento ang lugar noong 1536; pinapatakbo ito ng pamilyang Merz mula 1898 at sila pa rin ang nagpapatuyo ng sariling malt sa apoy ng beechwood. Sa loob, ipinapares ang Franconian na pagkain sa Spezial Lager, Märzen, at seasonal na Bock; tuwing tag-init, umaabot ang upuan sa courtyard ng brewery malapit sa bike path ng Main–Danube canal.",
+        "best_time": "Huling bahagi ng umaga o maagang hapon ng weekday para sa mas tahimik na Wirtsstube at litrato sa labas; nagsasara ang Sabado sa kalagitnaan ng hapon, kaya tanghalian ang planuhin. Bagay ang gabi ng tag-init sa Brauereihof kapag maganda ang panahon.",
+        "how_to_get_there": "Obere Königstraße 10, 96052 Bamberg—mga kalagitnaan ng Bamberg Hauptbahnhof at Altstadt. Mga 10–15 minutong lakad mula sa istasyon sa Obere Königstraße; may regional bus at bike route (Main–Danube canal ~50 m) din sa kalye.",
+        "good_to_know": "Bukas hanggang 2025–2026 (opisyal na site: Lunes–Biyernes 9:00–22:30, Sabado 9:00–14:00 tapos sarado, Linggo 9:00–21:00; hiwalay ang kusina sa tanghalian/hapunan). Sa telepono lang ang reservation; limitado ang upuan at tradisyonal na sarado tuwing Biyernes Santo, 1 Mayo, at Ascension—tingnan ang brauerei-spezial.de bago bumisita."
+      }
+    },
+    "pubs-032": {
+      "short_line": "Dublin, Ireland",
+      "country": "Ireland",
+      "facts": {
+        "one_liner": "Victorian na corner pub sa Dame Court ng Dublin—gintong karatulang THE STAG'S HEAD, eskultura ng usa, at Tyson street clock.",
+        "why_go": "Ang The Stag’s Head sa 1 Dame Court ay ang tanyag na Victorian pub ng Dublin: may tavern na rito mula huling bahagi ng ika-18 siglo, at muling itinayo ito ng negosyanteng si George Tyson noong 1890s (binuksan Mayo 1894) bilang showpiece na may kuryenteng ilaw, mahogany na kagamitan, at bar na Connemara marble. Sa loob, dinarayo pa rin ng mga lokal at tour ang stained glass at mga snug; may pagkain sa tanghali at madalas may tradisyonal na session sa Stag’s Tail sa ibaba.",
+        "best_time": "Maagang hapon ng weekday para sa mas malinaw na litrato sa labas at may upuan; siksikan ang bar at music room tuwing gabi at weekend. Karaniwang may pagkain mga 12–17:00 araw-araw—dumating bago magsara ang kusina kung kakain.",
+        "how_to_get_there": "1 Dame Court, Dublin 2 (D02 TW84), nakatago sa labas ng Dame Street sa pagitan ng Grafton Street at Temple Bar; naaabot din mula Exchequer Street o South Great George’s Street. May LUAS at maraming city bus sa Dame Street / College Green; maikling lakad mula Trinity College.",
+        "good_to_know": "Bukas hanggang 2025–2026 (aktibo ang opisyal na site; may reviews Ago 2025; pagkain 12–17:00 araw-araw). Abalang heritage landmark—asahan ang tayuan sa peak; card/cash ayon sa nakapaskil. Kumpirmadong bukas ayon sa stagshead.ie."
+      }
+    },
+    "pubs-033": {
+      "short_line": "Leuven, Belgium",
+      "country": "Belgium",
+      "facts": {
+        "one_liner": "Guildhouse café sa Grote Markt ng Leuven—batong frieze na IN DEN ENGEL, estatwa ng anghel, at awning ng Primus Haacht.",
+        "why_go": "Nakatayo ang Café In Den Engel sa Grote Markt ng Leuven sa numero 15, sa makitid na puting batong gusali na muling idinisenyo noong 1922 nina Léon Govaerts at Georges Decock matapos masira sa digmaan—café sa ibaba, mga flat sa itaas. Sa loob, klasikong bruine kroeg ito na may kahoy, fireplace, at tanaw mula sa terrace ng bahagi ng plaza na may town hall.",
+        "best_time": "Kalagitnaan ng hapon ng weekday para sa mas tahimik na litrato ng terrace sa plaza; napupuno ng estudyante at lokal tuwing Biyernes at Sabado ng gabi. Bagay ang gabi ng taglamig sa bukas na fireplace.",
+        "how_to_get_there": "Grote Markt 15, 3000 Leuven, sa pangunahing market square katapat ng makasaysayang town hall. Lima hanggang sampung minutong lakad mula Leuven station sa sentro; humihinto ang De Lijn bus sa ring at Bondgenotenlaan.",
+        "good_to_know": "Bukas hanggang 2025–2026 (opisyal na oras sa denengel.be: Lunes–Biyernes 12:00–01:00, Sabado 14:00–00:00, Linggo 14:00–22:00). Bruine kroeg—puwedeng walk-in; depende sa panahon ang terrace. Hindi ito ang kapangalang Den Engel sa Antwerp."
+      }
+    },
+    "pubs-034": {
+      "short_line": "Prague, Czechia",
+      "country": "Czechia",
+      "facts": {
+        "one_liner": "Beerhall-hotel sa Old Town ng Prague sa Na Perštýně—letrang U MEDVÍDKŮ sa gable at relief ng oso sa itaas ng arko.",
+        "why_go": "Inaangkin ng U Medvídků (“Sa Maliliit na Oso”) sa Na Perštýně ang ugat ng brewery mula 1466 sa ilalim ni Jan Medvídek at isa pa rin sa pinakamalalaking makasaysayang beerhall sa Prague, ngayon ay may microbrewery, Czech kitchen, at three-star hotel. Sa loob, kasama ng Budvar sa gripo ang mga house special gaya ng Oldgott at ang matapang na XBEER; nakalista pa rin ng Prague City Tourism ang restawran at brewery bilang buhay na stop sa Old Town.",
+        "best_time": "Tanghalian o kalagitnaan ng hapon ng weekday para mas madaling makaupo sa beerhall; dinarayo ng tourist group tuwing gabi at weekend. Puwedeng isabay ng hotel guests ang pag-stay sa brewery tour kapag hiniling.",
+        "how_to_get_there": "Na Perštýně 7, 110 00 Praha 1 (Staré Město), maikling lakad sa timog ng Old Town Square papuntang Národní / metro Národní třída (line B) o Můstek. Pinakamalapit ang tram sa Národní at Jungmannovo náměstí.",
+        "good_to_know": "Bukas hanggang 2025–2026 (opisyal na oras ng restawran sa umedvidku.cz mga Lunes–Miyerkules 11:30–23:00, Huwebes–Sabado hanggang 23:30, Linggo 12:00–22:00; ayon sa Prague.eu, Lunes–Sabado 11:30–23:00). Magkaiba ang telepono ng hotel at restawran—mag-book ng kainan sa linya ng restawran. Kumpirmadong bukas sa opisyal na site na may beer listings ng 2025–2026."
+      }
+    },
+    "pubs-035": {
+      "short_line": "Edinburgh, United Kingdom",
+      "country": "United Kingdom",
+      "facts": {
+        "one_liner": "Nicholson's pub sa Royal Mile / Lawnmarket ng Edinburgh—gintong karatulang DEACON BRODIE'S TAVERN sa mga arkong bay.",
+        "why_go": "Nasa 435 Lawnmarket sa Royal Mile ang Deacon Brodie’s Tavern, ipinangalan kay William Brodie (1741–1788)—kagalang-galang na guild deacon sa araw, magnanakaw sa gabi, at totoong inspirasyon ng Jekyll and Hyde ni Stevenson. Matapos ang refurbishment noong 2024, muling nagbukas ito bilang Nicholson's pub na may Scottish pub classics sa itaas; binabanggit ng CAMRA ang magarbong kisame at halo ng turista at lokal malapit sa Castle.",
+        "best_time": "Huling bahagi ng umaga o hapon sa kalagitnaan ng linggo para sa hindi gaanong siksik na bar at litrato ng harapan; pinakamatao tuwing Festival/Fringe (Agosto) at gabi ng weekend. Buong araw ang serbisyo ng pagkain—tingnan ang kasalukuyang oras ng kusina pagdating.",
+        "how_to_get_there": "435 Lawnmarket, Edinburgh EH1 2NT, sa Royal Mile sa pagitan ng Edinburgh Castle at St Giles’ Cathedral. Maglakad pababa mula Castle Esplanade o sumakay ng bus sa Princes Street / The Mound; pinakamalapit na tren ang Waverley (~10–15 minutong lakad paakyat).",
+        "good_to_know": "Bukas hanggang 2025–2026 (opisyal na page ng Nicholson’s; muling nagbukas Hulyo 2024 matapos ang refurb; walk-in lang—walang table booking, may host/buzzer system para sa kainan). Napakaabalang tourist pub—asahan ang paghihintay sa peak. Kumpirmado sa nicholsonspubs.co.uk at CAMRA."
+      }
+    },
+    "pubs-036": {
+      "short_line": "Madrid, Spain",
+      "country": "Spain",
+      "facts": {
+        "one_liner": "Corner taberna sa Chueca, Madrid mula 1854—karatulang TABERNA LA CARMENCITA at letrang Libertad/San Marcos.",
+        "why_go": "Inaangkin ng Taberna La Carmencita sa Calle de la Libertad 16 na ito ang ikalawang pinakamatandang taberna sa Madrid (itinatag 1854) at naging tambayan ng vermouth ng grupo ni Lorca sa Generation of ’27. Nakalista sa Turismo Madrid ang muling binuhay na lugar sa ilalim ni Carlos Zamora, na may antigong tiles, bar na kahoy at tin, at organic na lutong may impluwensyang Cantabrian.",
+        "best_time": "Oras ng vermouth sa huling bahagi ng umaga o tanghalian ng weekday para sa mas tahimik na silid; bagay ang tuloy-tuloy na oras ng kusina tuwing Miyerkules–Linggo sa mas mahabang pagbisita. Mabilis mapuno ang Chueca tuwing gabi—magpareserba kung kakain.",
+        "how_to_get_there": "Calle de la Libertad 16, 28004 Madrid (Chueca), kanto ng Calle de San Marcos. Metro Chueca (L5) o Banco de España (L2); maraming EMT bus sa gilid ng Gran Vía / Recoletos.",
+        "good_to_know": "Bukas hanggang 2025–2026 (opisyal na tabernalacarmencita.es; in-update ng Turismo Madrid noong 10 Abr 2026—kusina Lunes–Martes 12:30–17:00 at 20:00–23:00, Miyerkules–Linggo 13:00–23:00). Tradisyon ng lugar ang pag-angkin na ikalawang pinakamatandang taberna; mag-book para sa peak na hapunan."
+      }
+    },
+    "pubs-037": {
+      "short_line": "Miltenberg, Germany",
+      "country": "Germany",
+      "facts": {
+        "one_liner": "Half-timbered na Fürstenherberge sa Miltenberg—Fachwerk oriel, nakabiting karatula ng higante, at mga mesa sa cobblestone na courtyard.",
+        "why_go": "Ipinakikilala ng Gasthaus zum Riesen sa Hauptstraße ng Miltenberg ang sarili bilang pinakamatandang princely inn sa Germany: tradisyonal na iniuugnay ang isang korte sa ika-12 siglo, matibay na dokumentado ang pangalan noong 1411 (wirt Conrad Trestram), at ang kasalukuyang Renaissance Fachwerk na gusali ay itinayo mga 1589–90 sa ilalim ni Jost Virnhaber kasama ang karpinterong si Jakob Stoer. Muling binuksan ng Brauhaus Faust ang lugar noong 2001 matapos itong magsara noong huling bahagi ng 1990s.",
+        "best_time": "Tanghali o kalagitnaan ng hapon, labas sa peak ng coach tour, para sa mas malinaw na harapan at upuan sa courtyard; sarado tuwing Miyerkules. Sikat ang gabi ng tag-init sa mga bangko sa labas.",
+        "how_to_get_there": "Hauptstraße 99, 63897 Miltenberg, sa makasaysayang pangunahing kalye ng lumang bayan sa dulo ng Marktplatz. Regional train papuntang Miltenberg station, tapos ~10–15 minutong lakad papasok sa Altstadt; nasa labas ng pedestrian core ang parking.",
+        "good_to_know": "Bukas hanggang 2025–2026 (opisyal na riesen-miltenberg.de: Lunes–Martes at Huwebes 11:00–22:30, Biyernes–Sabado hanggang 23:30, Linggo hanggang 21:30; sarado Miyerkules; break ng kusina ~15:00–16:30). Faust beers sa gripo; may hiwalay na hotel rooms. Kumpirmahin ang oras tuwing holiday sa telepono."
+      }
+    },
+    "pubs-038": {
+      "short_line": "New Orleans, United States",
+      "country": "United States",
+      "facts": {
+        "one_liner": "Corner bar sa French Quarter sa Bourbon & Bienville—maputlang pader, berdeng shutter, at wrought-iron na balkonahe.",
+        "why_go": "Ang Old Absinthe House sa 240 Bourbon Street ay nasa kantong gusali mula 1806 na nagkaroon ng liquor license noong 1835, naging Aleix’s Coffee House, at pagkatapos ay Absinthe Room matapos ang Absinthe House Frappé ni Cayetano Ferrer (1874). Binago pero hindi binura ng pagbabawal sa absinthe sa US at ng Prohibition ang landmark; ngayon ay pinapatakbo pa rin ito ng Rue Bourbon bilang French Quarter bar na may absinthe drips at kuwento ng Speakeasy/Prohibition rooms. Hanapin ang kanto ng Bourbon–Bienville: maputlang harapan, bukas na dark-green na shutter, paikot na bakal na balkonahe na may guhit-guhit na payong, at itim na street sign ng dalawang kalye—tanaw sa likod ang Hotel Monteleone.",
+        "best_time": "Huling bahagi ng umaga o hapon ng weekday para sa hindi gaanong magulong Bourbon Street at liwanag sa balkonahe; maingay at siksikan tuwing gabi at weekend ng festival. Maagang nagbubukas (mula 9am) para sa mas tahimik na unang round.",
+        "how_to_get_there": "240 Bourbon St (kanto ng Bienville), New Orleans, LA 70112, sa French Quarter. Maglakad mula sa streetcar stops sa Canal Street o mag-park sa labas ng Quarter at maglakad papasok; nagbababa ang rideshare malapit sa gilid ng Iberville/Bienville.",
+        "good_to_know": "Bukas hanggang 2025–2026 (opisyal na listing ng Rue Bourbon: mga Lunes–Miyerkules 9am–2am, Huwebes 9am–3am, Biyernes–Sabado 9am–4am, Linggo 9am–3am). Cash/card ayon sa nakapaskil; asahan ang dami ng tao at ingay sa Bourbon Street pagdilim. Kumpirmadong bukas ayon sa ruebourbon.com."
+      }
+    },
+    "pubs-039": {
+      "short_line": "Paris, France",
+      "country": "France",
+      "facts": {
+        "one_liner": "Café-restaurant sa Saint-Germain, Paris mula 1686—pulang oval na Le Procope Café-Glacier sa Rue de l'Ancienne Comédie.",
+        "why_go": "Inaangkin ng Le Procope sa 13 rue de l’Ancienne Comédie ang pinakamatandang lahi ng café sa Paris (binuksan 1686) at gumagana pa rin bilang restawran, café, at glacier sa Saint-Germain-des-Prés—matagal nang iniuugnay sa mga suki noong Enlightenment gaya nina Voltaire, Rousseau, at Diderot. Ngayon ay naghahain ito ng klasikong French na pagkain araw-araw mula tanghali, at may coffee lounge tuwing hapon ng weekday na walang reservation.",
+        "best_time": "Kalagitnaan ng hapon ng weekday para sa café lounge (mga 15:00–18:00, walang reservation) at mas tahimik na litrato ng harapan; puno ang hapunan at weekend—magpareserba para sa restawran. Mas tahimik na opsyon sa tag-init ang courtyard terrace kapag bukas.",
+        "how_to_get_there": "13 rue de l’Ancienne Comédie, 75006 Paris, maikling lakad mula Odéon (M4/M10) papuntang Cour du Commerce Saint-André. Malapit din ang RER B/C Saint-Michel–Notre-Dame sa kabila ng ilog.",
+        "good_to_know": "Bukas hanggang 2025–2026 (opisyal na procope.com: araw-araw 12:00–00:00; café lounge Lunes–Biyernes ~15:00–18:00 nang walang booking). Makasaysayang tourist restaurant—asahan ang pormal na serbisyo at pangangailangan ng reservation sa peak. Kumpirmadong bukas sa opisyal na site."
+      }
+    },
+    "pubs-040": {
+      "short_line": "Amsterdam, Netherlands",
+      "country": "Netherlands",
+      "facts": {
+        "one_liner": "Brown café sa Spui, Amsterdam—berdeng neon na HOPPE, pulang awning, at mga taong nakatayo sa kanto.",
+        "why_go": "Nakatayo ang Café Hoppe sa Spui mula 1670; protektadong monumento ang pinakamatandang silid sa Spui 18 na may makasaysayang bariles ng jenever, habang idinugtong ang numero 20 noong 1930s sa ilalim ni Harry Mustert para mabuo ang “nakatayo” at “nakaupo” na bahagi ngayon. Ayon sa opisyal na kasaysayan, naging tambayan ito ng liberal na pulitika, binisita ni Heineken, at dinaanan ng isang royal; pinangalanan ito ng Misset Horeca bilang pinakamahusay na café sa Netherlands (2013).",
+        "best_time": "Huling bahagi ng umaga o maagang hapon ng weekday para sa almusal/tanghalian at may puwang sa loob; klasikong siksikan ng mga nakatayo sa ilalim ng awning tuwing Biyernes pagkatapos ng trabaho. Abala pa rin tuwing gabi at weekend—pagtayo ang nakasanayan sa Hoppe.",
+        "how_to_get_there": "Spui 18–20, 1012 XA Amsterdam, sa Spui square. Humihinto ang tram 2/11/12 sa Spui; mga 3 minutong lakad ang Metro 52 (Rokin). Madali ang lakad mula Dam o Leidseplein.",
+        "good_to_know": "Bukas hanggang 2025–2026 (opisyal na cafehoppe.com: Linggo–Huwebes 09:00–01:00, Biyernes–Sabado 09:00–02:00). Klasikong bruin café—asahan ang tayuan sa peak; may almusal at tanghalian sa araw. Kumpirmadong bukas sa opisyal na site."
+      }
+    }
+  }
+}
