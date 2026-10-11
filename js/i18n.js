@@ -1,12 +1,12 @@
 /**
- * Spot and Travel — i18n (en, es, fr, de, ru, ja, nl, pt, ko, zh)
+ * Spot and Travel — i18n (en, es, fr, de, ru, ja, nl, pt, ko, zh, fil)
  * Top-right language control; persists in localStorage (sos_lang).
  */
 (function (global) {
   'use strict';
 
   var STORAGE_KEY = 'sos_lang';
-  var SUPPORTED = ['en', 'es', 'fr', 'de', 'ru', 'ja', 'nl', 'pt', 'ko', 'zh'];
+  var SUPPORTED = ['en', 'es', 'fr', 'de', 'ru', 'ja', 'nl', 'pt', 'ko', 'zh', 'fil'];
   var LANG_NATIVE = {
     en: 'English',
     es: 'Español',
@@ -18,6 +18,7 @@
     pt: 'Português',
     ko: '한국어',
     zh: '中文',
+    fil: 'Filipino',
   };
 
   var state = {
