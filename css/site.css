@@ -1609,3 +1609,6 @@ body.list-panel-open { overflow: hidden; }
   font-size: 0.95rem;
   line-height: 1.45;
 }
+
+/* pubs-101 (Weston Brewing): keep the arched stone cellar ceiling in frame */
+.photo-stage img[src*="pubs-101.jpg"] { object-position: center 15%; }
