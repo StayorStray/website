@@ -1592,3 +1592,20 @@ body.list-panel-open { overflow: hidden; }
 .xc-qr { width: 220px; height: 220px; padding: 8px; background: #fff; border-radius: 12px; }
 .xc-open { width: 100%; max-width: 320px; text-decoration: none; color: #fff; font-weight: 700; }
 .xc-meta { font-size: 0.78rem; line-height: 1.5; color: var(--muted); }
+
+/* SEO page headings (visible H1 + one-line intro) */
+.page-intro { margin: 0.25rem 0 1rem; }
+.page-title {
+  margin: 0 0 0.35rem;
+  font-family: var(--font-display);
+  font-size: clamp(1.35rem, 4.5vw, 1.9rem);
+  line-height: 1.2;
+  font-weight: 600;
+  color: var(--text);
+}
+.page-intro-text {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
