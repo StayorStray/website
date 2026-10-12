@@ -297,7 +297,7 @@
     "pubs": {
       "live_file": "data/pubs.json",
       "archive_dir": "data/decks/pubs/",
-      "approved_count": 100,
+      "approved_count": 101,
       "catalog_target": 100,
       "scale_target_met": true,
       "mvp_ready": true,
@@ -449,10 +449,19 @@
             "pubs-099",
             "pubs-100"
           ]
+        },
+        {
+          "id": "pubs-set-007",
+          "file": "set-007.json",
+          "status": "approved",
+          "card_ids": [
+            "pubs-101"
+          ],
+          "count": 1
         }
       ],
-      "next": "pubs DONE 100/100",
-      "latest_set": "set-006"
+      "next": "pubs DONE 101 (daily rotation serves 100 per day)",
+      "latest_set": "set-007"
     },
     "countries": {
       "live_file": "data/countries.json",

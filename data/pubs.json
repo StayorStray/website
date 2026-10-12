@@ -5215,5 +5215,64 @@
       "audit_notes": "content-to-100 batch (2026-10-09): Commons license CC BY-SA 3.0 verified via API; image visually checked (scenic, no logo wall/signage focus); facts cross-checked against Wikipedia and official/tourism sources.",
       "reject_reason": null
     }
+  },
+  {
+    "ad": {
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Weston%2C%20Missouri&aid=YOUR_AFFILIATE_ID",
+      "cta_label": "Find a stay in Weston or nearby Kansas City",
+      "destination_query": "Weston, Missouri",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Weston%2C%20Missouri&affcid=YOUR_AFFILIATE_ID",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Weston%2C%20Missouri&affid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com"
+    },
+    "city": "Weston",
+    "country": "United States",
+    "facts": {
+      "best_time": "Friday and Saturday nights for live music on the pub and hall stages; Saturdays if you want a brewery tour (call ahead).",
+      "good_to_know": "Pub hours: Mon–Thu 5–10pm, Fri–Sat 11:30am–1:30am, Sun 11:30am–11pm. Lodging is available on-site at the St. George Hotel and the Inn at Weston Landing.",
+      "how_to_get_there": "500 Welt St., Weston, MO 64098 — about 35 minutes’ drive north of downtown Kansas City and 20 minutes from Kansas City International Airport.",
+      "official_or_tourism_url": "https://westonirish.com/omalleys-1842-pub-weston-mo/",
+      "one_liner": "An Irish pub built inside the 1840s lagering cellars of the Weston Brewing Company, with house-brewed beer and live music.",
+      "sources": [
+        "https://westonirish.com/",
+        "https://westonirish.com/omalleys-1842-pub-weston-mo/",
+        "https://westonirish.com/contact-us/",
+        "https://www.visitmo.com/things-to-do/omalleys-pub-and-weston-brewing-company"
+      ],
+      "why_go": "The Weston Brewing Company says it was founded in 1842 by German immigrant John Georgian, who dug cellars deep into the hillside to keep his lager cold, and it describes itself as one of the first lager breweries in the United States. Today O’Malley’s 1842 Pub fills those vaulted stone cellars, pouring O’Malley’s beers brewed on-site alongside live Irish music in the historic river town of Weston."
+    },
+    "id": "pubs-101",
+    "image": {
+      "ai_generated": false,
+      "attribution": "Photo courtesy of Weston Brewing Company",
+      "author": "Weston Brewing Company",
+      "license": "Used with permission",
+      "local_path": "images/pubs/pubs-101.jpg",
+      "proof_notes": "Photo supplied by Weston Brewing Company to BoOnE for use on Spot and Travel; permission granted by the business via BoOnE on 2026-10-12. Shows the vaulted O’Malley’s cellar bar with live music; visually checked. Source is 533×800 (kept at native size, not upscaled).",
+      "permission": {
+        "granted_by": "Weston Brewing Company",
+        "via": "BoOnE",
+        "date": "2026-10-12"
+      },
+      "shows_named_place": true,
+      "source": "Weston Brewing Company (direct permission)",
+      "source_page": "https://westonirish.com/",
+      "url": "",
+      "verified_real_location": true
+    },
+    "lat": 39.4106,
+    "lng": -94.9006,
+    "name": "Weston Brewing Company — O’Malley’s 1842 Pub",
+    "qa": {
+      "audit_notes": "Added 2026-10-12 at BoOnE’s request. Address, hours and on-site brewing verified on westonirish.com and VisitMO. 1842 founding and ‘one of the first lager breweries’ presented as the business’s own claim. Esquire ranking omitted (unverified). English only until November translation quota reset.",
+      "audited_at": "2026-10-12T12:50:16-05:00",
+      "auditor_status": "approved",
+      "facts_verified": true,
+      "image_matches_name": true,
+      "license_ok": true,
+      "reject_reason": null
+    },
+    "short_line": "Weston, Missouri · 1840s brewery cellar pub",
+    "tab": "pubs"
   }
 ]
