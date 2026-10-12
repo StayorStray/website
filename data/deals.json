@@ -1,9 +1,27 @@
 {
-  "_note": "Snapshot from Travelpayouts > Spotandtravel (583983) > Promo codes, 2026-10-10. Travelpayouts has no public promo-code API; refresh by hand or via the Worker DEALS list. href = 'Get promo link' affiliate URL (fill before going live).",
-  "updated": "2026-10-10",
+  "_note": "Snapshot from Travelpayouts > Spotandtravel (583983) > Promo codes, 2026-10-12. Travelpayouts has no public promo-code API; refresh by hand or via the Worker DEALS list. href = 'Get promo link' affiliate URL (fill before going live).",
+  "updated": "2026-10-12",
   "deals": [
-    { "brand": "KKday", "kind": "things", "discount": "Up to 30% off", "text": "Tours & activities in the US, Europe, Japan, Korea, SE Asia and more.", "start": "2026-10-08", "end": "2026-10-11", "us_valid": true, "flash": true, "href": "" },
-    { "brand": "intui.travel", "kind": "transfer", "discount": "5% off", "text": "Airport transfers, any dates and destinations.", "start": "2026-08-13", "end": "2026-10-31", "us_valid": true, "href": "" },
-    { "brand": "AirHelp", "kind": "other", "discount": "11% off", "text": "AirHelp+ subscriptions.", "start": "2026-06-25", "end": "2026-11-30", "us_valid": false, "href": "" }
+    {
+      "brand": "intui.travel",
+      "kind": "transfer",
+      "discount": "5% off",
+      "text": "Airport transfers, any dates and destinations.",
+      "start": "2026-08-13",
+      "end": "2026-10-31",
+      "us_valid": true,
+      "href": "https://intui.tpx.gr/umB6jqd4",
+      "code": "VELVET"
+    },
+    {
+      "brand": "AirHelp",
+      "kind": "other",
+      "discount": "11% off",
+      "text": "AirHelp+ subscriptions.",
+      "start": "2026-06-25",
+      "end": "2026-11-30",
+      "us_valid": false,
+      "href": ""
+    }
   ]
 }
