@@ -1653,7 +1653,7 @@
     const tab = document.body.dataset.tab || 'hidden-gems';
     const showHome = document.body.dataset.showHome === 'true';
     const isNonDeckPage =
-      tab === 'location-randomizer' || tab === 'submit-a-place';
+      tab === 'location-randomizer' || tab === 'submit-a-place' || tab === 'support';
     renderTabNav(tab);
     updateStatsUI();
     ensureListPanel();
