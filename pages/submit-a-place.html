@@ -163,23 +163,23 @@
         </fieldset>
 
         <fieldset class="submit-fieldset submit-paymethod" id="submit-paymethod">
-          <legend class="submit-label">How to pay</legend>
+          <legend class="submit-label" data-i18n="xc_how_to_pay">How to pay</legend>
           <label class="submit-radio">
             <input type="radio" name="pay_method" value="card" checked />
-            <span>Card (default): held at checkout, charged only if your listing is approved</span>
+            <span data-i18n="xc_card_option">Card (default): held at checkout, charged only if your listing is approved</span>
           </label>
           <label class="submit-radio">
             <input type="radio" name="pay_method" value="crypto" />
-            <span>Pay with Xaman (RLUSD, XRP, or XRH 10% off)</span>
+            <span data-i18n="xc_crypto_option">Pay with Xaman (RLUSD, XRP, or XRH 10% off)</span>
           </label>
           <div class="xc-options" id="xc-options" hidden>
             <div class="xc-cur" role="group" aria-label="Crypto currency">
               <button type="button" data-xc-cur="RLUSD" aria-pressed="true">RLUSD<small>= USD</small></button>
-              <button type="button" data-xc-cur="XRP" aria-pressed="false">XRP<small>live rate</small></button>
-              <button type="button" data-xc-cur="XRH" aria-pressed="false">XRH<small>10% off</small></button>
+              <button type="button" data-xc-cur="XRP" aria-pressed="false">XRP<small data-i18n="xc_live_rate">live rate</small></button>
+              <button type="button" data-xc-cur="XRH" aria-pressed="false">XRH<small data-i18n="xc_off">10% off</small></button>
             </div>
-            <p class="xc-note">Crypto is charged up front. If your listing isn't approved, we refund it in full.</p>
-            <p class="submit-hint">We send your submission first, then show a Xaman request. Quotes are locked for 10 minutes. XRP and XRH use a live on-ledger rate and may be refused if markets are unstable.</p>
+            <p class="xc-note" data-i18n="xc_note">Crypto is charged up front. If your listing isn't approved, we refund it in full.</p>
+            <p class="submit-hint" data-i18n="xc_hint">We send your submission first, then show a Xaman request. Quotes are locked for 10 minutes. XRP and XRH use a live on-ledger rate and may be refused if markets are unstable.</p>
           </div>
         </fieldset>
 
