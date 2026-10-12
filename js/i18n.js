@@ -1,12 +1,15 @@
 /**
- * Spot and Travel — i18n (en, es, fr, de, ru, ja, nl, pt, ko, zh, fil)
+ * Spot and Travel — i18n (en, es, fr, de, ru, ja, nl, pt, ko, fil; zh hidden for now)
  * Top-right language control; persists in localStorage (sos_lang).
  */
 (function (global) {
   'use strict';
 
   var STORAGE_KEY = 'sos_lang';
-  var SUPPORTED = ['en', 'es', 'fr', 'de', 'ru', 'ja', 'nl', 'pt', 'ko', 'zh', 'fil'];
+  /* zh (中文) is HIDDEN until the November 2026 re-translation (data/i18n/zh* is kept).
+   * To re-enable: add 'zh' back into SUPPORTED below (between 'ko' and 'fil'). See docs/I18N-ZH-HIDDEN.md. */
+  var HIDDEN = ['zh'];
+  var SUPPORTED = ['en', 'es', 'fr', 'de', 'ru', 'ja', 'nl', 'pt', 'ko', 'fil'];
   var LANG_NATIVE = {
     en: 'English',
     es: 'Español',
@@ -37,6 +40,15 @@
   }
 
   function getStoredLang() {
+    // A hidden language (saved earlier, or passed as ?lang=) falls back to English.
+    try {
+      var q = new URLSearchParams(location.search).get('lang');
+      if (q && SUPPORTED.indexOf(q) !== -1) return q;
+    } catch (e) { /* ignore */ }
+    try {
+      var saved = localStorage.getItem(STORAGE_KEY);
+      if (saved && HIDDEN.indexOf(saved) !== -1) localStorage.setItem(STORAGE_KEY, 'en');
+    } catch (e) { /* ignore */ }
     try {
       var v = localStorage.getItem(STORAGE_KEY);
       if (v && SUPPORTED.indexOf(v) !== -1) return v;
