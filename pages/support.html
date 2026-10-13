@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: data: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' https: data: blob:; font-src 'self' https: data:; connect-src 'self' https: wss:; frame-src https:; worker-src 'self' blob:; media-src 'self' https: data: blob:; object-src 'none'; base-uri 'self'; form-action 'self' https://usebasin.com https://*.stripe.com; upgrade-insecure-requests" />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Support and FAQ | Spot and Travel</title>
   <meta name="description" content="Answers about Spot and Travel listings, pins, card holds, Xaman payments, corrections and photo credits, plus a form to reach us." />
@@ -60,6 +62,9 @@
         <details><summary>Why is there a “pending” charge on my card?</summary><div class="ans">
           <p>At checkout your card is only held, not charged. We charge it only if your listing is approved. If it’s rejected, we cancel the hold and you pay nothing. A hold can show as “pending” on your statement; a released hold drops off, and holds that are never charged expire automatically after about 7 days.</p></div></details>
 
+        <details><summary>Is my payment information safe?</summary><div class="ans">
+          <p>Payments are processed securely by Xaman (XRPL) and Stripe. Spot and Travel never sees or stores your card number, bank details, or wallet keys. All connections to this site are encrypted with HTTPS.</p></div></details>
+
         <details><summary>What is your refund policy?</summary><div class="ans">
           <p><strong>Rejected listings:</strong> card holds are cancelled, so you’re never charged. Crypto payments are refunded in full, in the same currency, to the wallet you paid from.</p>
           <p><strong>After a listing is live:</strong> Once a listing or pin is live, it isn’t refundable. The one exception: if we remove your listing ourselves, you get a full refund.</p>
@@ -109,6 +114,7 @@
           </select></label>
         <label class="submit-field"><span class="submit-label">Message</span>
           <textarea class="submit-textarea" name="message" required maxlength="2000" rows="5" placeholder="If it’s about a specific card, include the place name and tab. For an order, include your SAT- reference."></textarea></label>
+        <input type="text" name="_gotcha" class="signup-hp" tabindex="-1" autocomplete="off" aria-hidden="true" />
         <input type="hidden" name="form_type" value="support" />
         <input type="hidden" name="_subject" value="Spot and Travel SUPPORT request" />
         <div class="submit-actions"><button type="submit" class="btn btn-stay" id="support-send">Send message</button></div>

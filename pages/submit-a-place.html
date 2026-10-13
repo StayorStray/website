@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: data: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' https: data: blob:; font-src 'self' https: data:; connect-src 'self' https: wss:; frame-src https:; worker-src 'self' blob:; media-src 'self' https: data: blob:; object-src 'none'; base-uri 'self'; form-action 'self' https://usebasin.com https://*.stripe.com; upgrade-insecure-requests" />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Submit a Place: List Your Location | Spot and Travel</title>
   <meta name="description" content="Propose a real place for Spot and Travel. Your card is only held at checkout and charged only if your listing is approved." />
@@ -68,6 +70,7 @@
       </div>
 
       <form id="submit-place-form" class="submit-place-form" novalidate>
+        <input type="text" name="_gotcha" class="signup-hp" tabindex="-1" autocomplete="off" aria-hidden="true" />
         <label class="submit-field">
           <span class="submit-label" data-i18n="submit_place_name">Place name</span>
           <input type="text" id="place-name" name="place_name" class="submit-input" required maxlength="120" autocomplete="organization" />
@@ -210,6 +213,7 @@
 
         <p class="submit-disclaimer" data-i18n="submit_disclaimer">Paid does not equal live. The Accuracy Auditor checks every listing before it appears. Checkout (secure, by Stripe) places a hold on your card for the total above — it’s charged only once your listing is approved. If it’s rejected, we cancel the hold and you pay nothing. A hold can show as “pending” on your statement; a released hold drops off, and holds that are never captured expire automatically after about 7 days. We send your submission (with photo) to our inbox first, then take you to checkout.</p>
 
+        <p class="submit-disclaimer payment-notice" id="payment-notice">Payments are processed securely by Xaman (XRPL) and Stripe. Spot and Travel never sees or stores your card number, bank details, or wallet keys. All connections to this site are encrypted with HTTPS.</p>
         <div class="submit-actions">
           <button type="submit" class="btn btn-stay" id="submit-place-btn" data-i18n="submit_pay" disabled>Continue to checkout</button>
           <a class="btn btn-stay submit-continue-checkout" id="continue-checkout" href="#" data-i18n="submit_continue_checkout" hidden>Continue to checkout</a>
@@ -831,6 +835,8 @@
 
     function buildFormData(payload, includePhoto) {
       var fd = new FormData();
+      var hp = document.querySelector('#submit-place-form input[name="_gotcha"]');
+      fd.append('_gotcha', hp ? hp.value : '');
       Object.keys(payload).forEach(function (k) {
         fd.append(k, String(payload[k]));
       });
