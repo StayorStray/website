@@ -1612,3 +1612,18 @@ body.list-panel-open { overflow: hidden; }
 
 /* pubs-101 (Weston Brewing): keep the arched stone cellar ceiling in frame */
 .photo-stage img[src*="pubs-101.jpg"] { object-position: center 15%; }
+
+/* Newsletter signup */
+.signup{max-width:640px;margin:0 auto 1.5rem;padding:1.5rem 1.25rem;border-radius:16px;background:rgba(127,127,127,.08);border:1px solid rgba(127,127,127,.2);text-align:center;box-sizing:border-box;width:calc(100% - 2rem)}
+.signup--compact{padding:1.1rem 1rem}
+.signup-title{margin:0 0 .4rem;font-size:1.3rem}
+.signup--compact .signup-title{font-size:1.1rem;margin-bottom:.75rem}
+.signup-text{margin:0 0 1rem;opacity:.85;line-height:1.45}
+.signup-row{display:flex;gap:.5rem;flex-wrap:wrap;justify-content:center}
+.signup-input{flex:1 1 220px;min-width:0;margin:0}
+.signup-btn{flex:0 0 auto;margin:0}
+.signup-hp{position:absolute!important;left:-9999px!important;width:1px;height:1px;opacity:0}
+.signup-consent{margin:.75rem 0 0;font-size:.85rem;opacity:.8}
+.signup-status{margin:.6rem 0 0;font-weight:600}
+@media (max-width:480px){.signup-btn{flex:1 1 100%}}
+.signup-links{white-space:nowrap}

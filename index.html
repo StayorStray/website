@@ -72,6 +72,24 @@
     </div>
   </main>
 
+  <section class="signup" aria-labelledby="signup-title">
+    <h2 class="signup-title" id="signup-title">Get one hidden gem a week</h2>
+    <p class="signup-text">One real, visitable place you probably haven’t heard of, with a licensed photo and how to get there. Free.</p>
+    <!-- Shares the Submit a Place Basin form; form_type=newsletter distinguishes signups. -->
+    <form class="signup-form" action="https://usebasin.com/f/22787259725b" method="POST">
+      <label class="sr-only" for="signup-email">Email address</label>
+      <div class="signup-row">
+        <input class="submit-input signup-input" id="signup-email" type="email" name="email" required maxlength="120" autocomplete="email" placeholder="you@example.com" />
+        <button type="submit" class="btn btn-stay signup-btn">Sign up free</button>
+      </div>
+      <input type="text" name="_gotcha" class="signup-hp" tabindex="-1" autocomplete="off" aria-hidden="true" />
+      <input type="hidden" name="form_type" value="newsletter" />
+      <input type="hidden" name="_subject" value="Spot and Travel NEWSLETTER signup" />
+      <p class="signup-consent">One email a week. Unsubscribe anytime. <span class="signup-links"><a href="#privacy-blurb">Privacy</a> · <a href="pages/support.html">Support</a></span></p>
+      <p class="signup-status" role="status" hidden></p>
+    </form>
+  </section>
+
   <footer class="site-footer" id="footer">
     <nav aria-label="Footer">
       <a href="index.html#about">About</a>
@@ -90,6 +108,7 @@
 
   <script src="./config/affiliates.js"></script>
   <script src="./js/i18n.js"></script>
+  <script src="./js/signup.js"></script>
   <script src="./js/daily.js"></script>
   <script src="./js/trends.js"></script>
   <script src="./js/ranking.js"></script>
