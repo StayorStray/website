@@ -1054,7 +1054,7 @@
       '<img src="' +
       escapeHtml(src) +
       '" alt="' +
-      escapeHtml(card.name) +
+      escapeHtml(card.name + (card.short_line ? ', ' + card.short_line : '')) +
       '" draggable="false" />' +
       '<div class="photo-overlay">' +
       '<h2 class="place-name">' +
