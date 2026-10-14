@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: data: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'unsafe-inline' https:; img-src 'self' https: data: blob:; font-src 'self' https: data:; connect-src 'self' https: wss:; frame-src https:; worker-src 'self' blob:; media-src 'self' https: data: blob:; object-src 'none'; base-uri 'self'; form-action 'self' https://usebasin.com https://*.stripe.com; upgrade-insecure-requests" />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sponsor a Category | Spot and Travel</title>
+  <meta name="description" content="Put your logo, link and a short line at the top of one Spot and Travel category page for 30 days." />
+  <link rel="canonical" href="https://spotandtravel.com/pages/sponsor.html" />
+  <meta name="theme-color" content="#0f1420" />
+  <link rel="stylesheet" href="../css/site.css" />
+  <link rel="stylesheet" href="../css/support.css?v=2" />
+  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png" />
+</head>
+<body data-tab="support" data-asset-root="../" data-show-home="true">
+  <header class="site-header">
+    <a class="home-btn" id="home-btn" href="../index.html">Home</a>
+    <div class="brand-block">
+      <a class="brand site-logo" href="../index.html" aria-label="Spot and Travel">
+        <img src="../assets/logo.png" alt="Spot and Travel" width="240" height="75" decoding="async" />
+      </a>
+      <p class="tagline">Spot a place. Travel or skip?</p>
+    </div>
+    <div class="header-end">
+      <div class="session-stats" id="session-stats" aria-live="polite">Travel <strong>0</strong> · Skip <strong>0</strong></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="support">
+      <h1 class="page-title">Sponsor a category</h1>
+      <p class="support-intro">Put your business in front of people planning trips. One sponsor per category page, shown at the top for 30 days.</p>
+
+      <h2 class="support-h2">What you get</h2>
+      <ul class="sp-list">
+        <li>Your logo, a link to your site, and one short line (up to 90 characters) in the “Sponsored by” spot at the top of one category page, such as Pubs or Beaches.</li>
+        <li>30 days, starting when your artwork is approved.</li>
+        <li>Only one sponsor per category at a time.</li>
+        <li>The spot is clearly labeled “Sponsored”. We review every sponsor and can decline any that doesn’t fit a travel audience.</li>
+      </ul>
+
+      <h2 class="support-h2">Honest audience numbers</h2>
+      <p>Spot and Travel is new. Our own visit counter started on October 10, 2026. From October 10 to 14 (UTC) it logged <strong>276 page views</strong> across the site, about <strong>157 visitors</strong> counted once per day. The busiest category page was Pubs, with 39 views. These numbers are small and include some of our own testing. We’ll share the latest numbers before you pay, and we price low because the site is just getting started.</p>
+
+      <h2 class="support-h2">Price</h2>
+      <p class="sp-price"><strong>$25</strong> per category page for 30 days (launch price).</p>
+
+      <h2 class="support-h2" id="sponsor-now">Sponsor now</h2>
+      <p>Tell us which category you want and we’ll reply by email, usually within 2 business days, with availability, the current numbers, and a secure payment link.</p>
+      <form class="support-form" id="support-form" action="https://usebasin.com/f/22787259725b" method="POST">
+        <div class="submit-row">
+          <label class="submit-field"><span class="submit-label">Your name</span>
+            <input class="submit-input" type="text" name="name" required maxlength="80" autocomplete="name" /></label>
+          <label class="submit-field"><span class="submit-label">Your email</span>
+            <input class="submit-input" type="email" name="email" required maxlength="120" autocomplete="email" /></label>
+        </div>
+        <label class="submit-field"><span class="submit-label">Business and website</span>
+          <input class="submit-input" type="text" name="business" required maxlength="160" /></label>
+        <label class="submit-field"><span class="submit-label">Category page</span>
+          <select class="submit-select" name="category" required>
+            <option value="pubs">Pubs</option>
+            <option value="cities">Cities</option>
+            <option value="beaches">Beaches</option>
+            <option value="hidden-gems">Hidden Gems</option>
+            <option value="luxury">Luxury</option>
+            <option value="islands">Islands</option>
+            <option value="landmarks">Landmarks</option>
+            <option value="parks">Parks</option>
+            <option value="countries">Countries</option>
+            <option value="arenas">Arenas</option>
+            <option value="any">Not sure yet</option>
+          </select></label>
+        <label class="submit-field"><span class="submit-label">Anything else? (optional)</span>
+          <textarea class="submit-textarea" name="message" maxlength="1000" rows="3"></textarea></label>
+        <input type="text" name="_gotcha" class="signup-hp" tabindex="-1" autocomplete="off" aria-hidden="true" />
+        <input type="hidden" name="form_type" value="sponsor" />
+        <input type="hidden" name="_subject" value="Spot and Travel SPONSOR request" />
+        <div class="submit-actions"><button type="submit" class="btn btn-stay" id="support-send">Sponsor now</button></div>
+        <p class="support-note" id="support-status" role="status" hidden></p>
+      </form>
+      <p class="support-note sp-safety"><strong>Payment safety:</strong> Payments are processed securely by Stripe. Spot and Travel never sees or stores your card number or bank details. We will only send a payment link from hello@spotandtravel.com, and we will never ask for your card details by email, text, or DM. Questions? Email <a href="mailto:hello@spotandtravel.com">hello@spotandtravel.com</a>.</p>
+    </section>
+  </main>
+
+  <section class="signup signup--compact" aria-labelledby="signup-title-c">
+    <h2 class="signup-title" id="signup-title-c">Get one hidden gem a week</h2>
+    
+    <!-- Shares the Submit a Place Basin form; form_type=newsletter distinguishes signups. -->
+    <form class="signup-form" action="https://usebasin.com/f/22787259725b" method="POST">
+      <label class="sr-only" for="signup-email-c">Email address</label>
+      <div class="signup-row">
+        <input class="submit-input signup-input" id="signup-email-c" type="email" name="email" required maxlength="120" autocomplete="email" placeholder="you@example.com" />
+        <button type="submit" class="btn btn-stay signup-btn">Sign up free</button>
+      </div>
+      <input type="text" name="_gotcha" class="signup-hp" tabindex="-1" autocomplete="off" aria-hidden="true" />
+      <input type="hidden" name="form_type" value="newsletter" />
+      <input type="hidden" name="_subject" value="Spot and Travel NEWSLETTER signup" />
+      <p class="signup-consent">One email a week. Unsubscribe anytime. <span class="signup-links"><a href="../index.html#privacy-blurb">Privacy</a> · <a href="#contact">Support</a></span></p>
+      <p class="signup-status" role="status" hidden></p>
+    </form>
+  </section>
+
+
+  <footer class="site-footer" id="footer">
+    <nav aria-label="Footer">
+      <a href="../index.html#about">About</a>
+      <a href="../index.html#credits">Photo credits</a>
+      <a href="../index.html">Home</a>
+      <a href="support.html" aria-current="page">Support</a>
+      <a href="https://expedia.com/shop/spot-and-travel" target="_blank" rel="sponsored noopener" data-i18n="expedia_shop">Our Expedia Travel Shop</a>
+    </nav>
+    <p class="disclosure" id="affiliate-disclosure">As an affiliate we may earn from qualifying bookings.</p>
+    <p id="about" class="about-blurb"><strong>About Spot and Travel.</strong> Swipe real, visitable places — Travel if you’d go, Skip if you wouldn’t. Photos are licensed real photographs (no AI images).</p>
+    <p id="legal-disclaimer" class="legal-disclaimer" data-i18n="legal_disclaimer"></p>
+    <p id="credits" class="about-blurb">Photo credits appear under each card. Full attributions live in <code>data/hidden-gems.json</code> (Wikimedia Commons CC licenses).</p>
+  </footer>
+  <script src="../config/affiliates.js"></script>
+  <script src="../js/i18n.js"></script>
+  <script src="../js/signup.js"></script>
+  <script src="../js/trends.js"></script>
+  <script src="../js/ranking.js"></script>
+  <script src="../js/swipe.js"></script>
+  <script>
+  (function(){var f=document.getElementById('support-form'),st=document.getElementById('support-status'),b=document.getElementById('support-send');
+  if(!f||!window.fetch||!window.FormData)return;
+  f.addEventListener('submit',function(e){if(!f.checkValidity())return;e.preventDefault();b.disabled=true;st.hidden=false;st.textContent='Sending…';
+  fetch(f.action,{method:'POST',headers:{Accept:'application/json'},body:new FormData(f),credentials:'omit'}).then(function(r){return r.json().catch(function(){return{}}).then(function(j){
+  if(r.ok&&(j.success===true||/^(ok|success)$/i.test(String(j.status||'')))){f.reset();st.textContent='Thanks, your message was sent. We reply within 2 business days.';}
+  else{st.innerHTML='Sorry, that didn’t go through. Please email <a href="mailto:hello@spotandtravel.com">hello@spotandtravel.com</a>.';}
+  })}).catch(function(){st.innerHTML='Sorry, that didn’t go through. Please email <a href="mailto:hello@spotandtravel.com">hello@spotandtravel.com</a>.';}).then(function(){b.disabled=false;});});})();
+  </script>
+</body>
+</html>

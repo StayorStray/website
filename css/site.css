@@ -1627,3 +1627,9 @@ body.list-panel-open { overflow: hidden; }
 .signup-status{margin:.6rem 0 0;font-weight:600}
 @media (max-width:480px){.signup-btn{flex:1 1 100%}}
 .signup-links{white-space:nowrap}
+
+/* Sponsored-by slot at the top of category pages */
+.sponsor-slot { display: flex; align-items: center; justify-content: center; gap: .5rem; flex-wrap: wrap; margin: 0 auto .9rem; padding: .45rem .9rem; max-width: 520px; border: 1px dashed var(--border); border-radius: 999px; font-size: .82rem; color: var(--muted); text-align: center; }
+.sponsor-slot .sponsor-label { text-transform: uppercase; letter-spacing: .08em; font-size: .7rem; }
+.sponsor-slot a { color: var(--accent); text-decoration: none; }
+.sponsor-slot a:hover, .sponsor-slot a:focus-visible { text-decoration: underline; }

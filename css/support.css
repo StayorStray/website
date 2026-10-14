@@ -16,3 +16,9 @@
 .confirm{background:#5a3b10;color:#ffd58a;border-radius:4px;padding:0 4px;font-size:.85em;font-weight:700}
 .support-form{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:18px;display:flex;flex-direction:column;gap:14px}
 .support-note{color:var(--muted);font-size:.92rem;line-height:1.5;margin:.25rem 0 0}
+
+/* Sponsor page */
+.sp-list { padding-left: 1.2em; margin: 0 0 1rem; }
+.sp-list li { margin: 0 0 .5rem; }
+.sp-price { font-size: 1.15rem; }
+.sp-safety { margin-top: 1rem; }
