@@ -1,0 +1,11 @@
+# GitHub Pages (Jekyll) build settings for spotandtravel.com.
+# No site file has YAML front matter, so Jekyll copies pages as-is (no Liquid rendering).
+# Internal notes, tooling and Worker source stay in the repo but are NOT published to the site.
+exclude:
+  - README.md
+  - UX-REVIEW.md
+  - I18N-REVIEW.md
+  - data/decks/README.md
+  - docs
+  - scripts
+  - workers
