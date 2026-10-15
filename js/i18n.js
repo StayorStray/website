@@ -125,6 +125,7 @@
     var out = Object.assign({}, card);
     if (loc.short_line) out.short_line = loc.short_line;
     if (loc.country) out.country = loc.country;
+    if (loc.attribution && card.image) out.image = Object.assign({}, card.image, { attribution: loc.attribution });
     var facts = Object.assign({}, card.facts || {});
     var lf = loc.facts || {};
     ['one_liner', 'why_go', 'best_time', 'how_to_get_there', 'good_to_know'].forEach(function (k) {

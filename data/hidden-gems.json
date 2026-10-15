@@ -5010,5 +5010,530 @@
       "license_ok": true,
       "auditor_status": "approved"
     }
+  },
+  {
+    "id": "kc-hidden-gems-001",
+    "tab": "hidden-gems",
+    "name": "Kaw Point Riverfront Park",
+    "short_line": "Fairfax / Kaw Point, Kansas City, KS",
+    "city": "",
+    "country": "United States",
+    "lat": 39.116,
+    "lng": -94.6105,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Kaw_Point_overlook_toward_KCMO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/kc-hidden-gems-001.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Kaw_Point_overlook_toward_KCMO.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Smuckola",
+      "attribution": "Photo: Smuckola, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons 'Kaw Point overlook toward KCMO.jpg' — View from Kaw Point overlook over Kansas–Missouri river confluence to downtown KCMO; cat Kaw Point; GPS 39.115986,-94.610511 matches park. Local file is 1280px thumb."
+    },
+    "facts": {
+      "one_liner": "Riverside park where the Kansas (Kaw) River meets the Missouri, with skyline views of downtown Kansas City, Missouri.",
+      "why_go": "Kaw Point Park is a 10-acre wooded park in Kansas City, Kansas, on the Kansas–Missouri river confluence. The Lewis and Clark Expedition camped here June 26–28, 1804; the park is a Lewis and Clark National Historic Trail site with an amphitheater, a memorial to the area's Native tribes, and views across to downtown Kansas City, Missouri.",
+      "best_time": "Spring through fall for trails and wildflower gardens; clear days give the best skyline views. Check current park hours on the official site.",
+      "how_to_get_there": "The park is in the Fairfax district of Kansas City, Kansas, a short drive from downtown Kansas City, Missouri. A car is the practical option.",
+      "good_to_know": "The confluence in 1804 was likely about a quarter mile north of today's point, because the rivers have moved. Riverbanks can be muddy after rain.",
+      "official_or_tourism_url": "https://kawpointpark.org/",
+      "sources": [
+        "https://nps.gov/articles/kaw-point-park.htm",
+        "https://kawpointpark.org/",
+        "https://en.wikipedia.org/wiki/Kaw_Point",
+        "https://www.ngs.noaa.gov/LewisAndClark/KawPointKS.html"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kansas City, Missouri",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kansas%20City%2C%20Missouri&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kansas%20City%2C%20Missouri&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kansas%20City%2C%20Missouri&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kansas City"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "auditor_reason": "Kaw Point confluence overlook (GPS match); Kansas City, KS in all locales; KCMO ad hub = metro.",
+      "audited_at": "2026-10-14 final"
+    }
+  },
+  {
+    "id": "kc-hidden-gems-002",
+    "tab": "hidden-gems",
+    "name": "SubTropolis",
+    "short_line": "Underground complex near Worlds of Fun, Kansas City, MO",
+    "city": "",
+    "country": "United States",
+    "lat": 39.158,
+    "lng": -94.487,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Subtropolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/kc-hidden-gems-002.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Subtropolis.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Americasroof at English Wikipedia",
+      "attribution": "Photo: Americasroof at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons 'Subtropolis.jpg' — Exterior of the SubTropolis tunnel entrance cut into the limestone bluff, with flags and SubTropolis signage over the portal; cat SubTropolis; 2007 photo by uploader. Local file is 1280px thumb. Replaced 2026-10-14 after Auditor fail."
+    },
+    "facts": {
+      "one_liner": "A vast underground business complex in a former limestone mine, entered through tunnels cut into the bluffs above the Missouri River in Kansas City.",
+      "why_go": "SubTropolis is a former limestone mine developed by Hunt Midwest beginning in 1964 into an underground business park. It holds warehouses, offices and other businesses, and stays at roughly 65–70°F (18–21°C) year-round. It is mainly a working business park, not a tourist attraction.",
+      "best_time": "The annual Groundhog Run, an underground 5K/10K race held since 1982, usually takes place in winter and is the best-known public way in. Check the event's official site for dates.",
+      "how_to_get_there": "The entrance is at 8300 NE Underground Drive in northeast Kansas City, Missouri, near Worlds of Fun. Driving is the only practical option.",
+      "good_to_know": "Public access is limited: it is a private business complex, and tours happen only through organized events or groups. Do not expect regular public tours, restaurants or attractions. Cell signal can be weak underground.",
+      "official_or_tourism_url": "https://www.subtropolis.com/",
+      "sources": [
+        "https://en.wikipedia.org/wiki/SubTropolis",
+        "https://greatbigstory.com/subtropolis/",
+        "https://www.thrillist.com/travel/nation/subtropolis-underground-groundhog-run-kansas-city",
+        "https://www.huntmidwest.com/subtropolis"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kansas City, Missouri",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kansas%20City%2C%20Missouri&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kansas%20City%2C%20Missouri&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kansas%20City%2C%20Missouri&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kansas City"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "auditor_reason": "Tunnel-entrance photo (8300 portal) is the main subject; credit Americasroof CC BY-SA 3.0 matches Commons file; one-liner describes the bluff tunnels, no pillar text in any of 10 locales; Hunt Midwest source; no tours promised.",
+      "audited_at": "2026-10-14 final"
+    }
+  },
+  {
+    "id": "kc-hidden-gems-003",
+    "tab": "hidden-gems",
+    "name": "Arabia Steamboat Museum",
+    "short_line": "River Market, Kansas City, MO",
+    "city": "",
+    "country": "United States",
+    "lat": 39.1093,
+    "lng": -94.5816,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Arabia_Steamboat_Museum_2025a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/kc-hidden-gems-003.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Arabia_Steamboat_Museum_2025a.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Antony-22",
+      "attribution": "Photo: Antony-22, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons 'Arabia Steamboat Museum 2025a.jpg' — Interior with reconstructed Arabia hull/paddlewheel — identifies the museum; cat Arabia Steamboat Museum; GPS 39.109275,-94.581567 = 400 Grand Blvd. Local file is 1280px thumb."
+    },
+    "facts": {
+      "one_liner": "Museum of the steamboat Arabia, which sank in the Missouri River in 1856 and was dug out of a Kansas cornfield in 1988.",
+      "why_go": "The Arabia sank in the Missouri River in 1856. Because the river later changed course, the wreck ended up under farmland, and a family team excavated it in 1988–89. The museum in the River Market shows a full-size reconstruction of the hull and paddlewheel, along with the pre–Civil War cargo recovered from the mud.",
+      "best_time": "Open year-round and indoors, so any season works. Check current hours on the official site.",
+      "how_to_get_there": "The museum is at 400 Grand Blvd in the River Market, Kansas City, Missouri. The KC Streetcar stops in the River Market.",
+      "good_to_know": "Check ticket prices and hours on the official site (1856.com). The River Market area has many places to eat nearby.",
+      "official_or_tourism_url": "https://www.1856.com/",
+      "sources": [
+        "https://www.1856.com/",
+        "https://en.wikipedia.org/wiki/Arabia_Steamboat_Museum",
+        "https://en.wikipedia.org/wiki/Arabia_(steamboat)"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kansas City, Missouri",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kansas%20City%2C%20Missouri&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kansas%20City%2C%20Missouri&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kansas%20City%2C%20Missouri&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kansas City"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "auditor_reason": "Interior shows reconstructed Arabia hull, the museum identity; 1988-89 excavation verified.",
+      "audited_at": "2026-10-14 final"
+    }
+  },
+  {
+    "id": "kc-hidden-gems-004",
+    "tab": "hidden-gems",
+    "name": "National WWI Museum and Memorial (Liberty Memorial tower)",
+    "short_line": "Crown Center / Penn Valley Park, Kansas City, MO",
+    "city": "",
+    "country": "United States",
+    "lat": 39.0806,
+    "lng": -94.586,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/National_WWI_Museum_and_Memorial_from_lawn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/kc-hidden-gems-004.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:National_WWI_Museum_and_Memorial_from_lawn.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Gabe S.",
+      "attribution": "Photo: Gabe S., CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons 'National WWI Museum and Memorial from lawn.jpg' — Liberty Memorial tower centered from the south lawn; cat National World War I Museum; WLM 2019 NRHP upload. Local file is 1280px thumb."
+    },
+    "facts": {
+      "one_liner": "America's national World War I museum, beneath the Liberty Memorial tower.",
+      "why_go": "The Liberty Memorial was dedicated in 1926. Congress later designated the National WWI Museum and Memorial as America's official World War I museum. The museum below the tower tells the story of the Great War, and the memorial grounds look out over downtown Kansas City.",
+      "best_time": "Any season works for the indoor galleries. Go on a clear day for the lawn and tower views. Check current hours on the official site.",
+      "how_to_get_there": "It sits south of downtown, across from Union Station near Crown Center, in Kansas City, Missouri. The KC Streetcar stops at Union Station.",
+      "good_to_know": "Check the official site (theworldwar.org) for tickets, tower access and hours. The grounds and the view of the tower from the lawn are outdoors.",
+      "official_or_tourism_url": "https://www.theworldwar.org/",
+      "sources": [
+        "https://www.theworldwar.org/",
+        "https://en.wikipedia.org/wiki/National_WWI_Museum_and_Memorial"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kansas City, Missouri",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kansas%20City%2C%20Missouri&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kansas%20City%2C%20Missouri&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kansas%20City%2C%20Missouri&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kansas City"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "auditor_reason": "Liberty Memorial tower hero; 1926 dedication and Congress designations (2004/2014) verified.",
+      "audited_at": "2026-10-14 final"
+    }
+  },
+  {
+    "id": "kc-hidden-gems-005",
+    "tab": "hidden-gems",
+    "name": "Boulevard Brewing Company",
+    "short_line": "Westside, Kansas City, MO",
+    "city": "",
+    "country": "United States",
+    "lat": 39.0826,
+    "lng": -94.5967,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Boulevard_%2833019028960%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/kc-hidden-gems-005.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Boulevard_(33019028960).jpg",
+      "license": "CC BY 2.0",
+      "author": "Paul Sableman",
+      "attribution": "Photo: Paul Sableman, CC BY 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons 'Boulevard (33019028960).jpg' — Full facade of the Boulevard Brewing Co. brick building (Beer Hall) from the parking lot; building fills the frame, signage is secondary; cat Boulevard Brewing Company; Paul Sableman 2017. Local file is 1280px thumb. Replaced 2026-10-14 after Auditor fail."
+    },
+    "facts": {
+      "one_liner": "Kansas City's best-known craft brewery, with tours and a beer hall in the Westside.",
+      "why_go": "Boulevard Brewing Company still operates its brewery campus on Southwest Boulevard. Visitors can join public brewery tours, which end with samples in the tasting room, or stop by the Beer Hall and gift shop without taking a tour.",
+      "best_time": "Tour tickets are released weekly and can sell out, so book ahead. Check current hours and the tour calendar on the official site.",
+      "how_to_get_there": "The Tours & Rec Center is at 2534 Madison Ave, Kansas City, Missouri, in the Westside near Crossroads and downtown.",
+      "good_to_know": "Tours and tastings are for adults of legal drinking age; the Beer Hall welcomes all ages. Some specialty tours involve stairs. Check prices on boulevard.com.",
+      "official_or_tourism_url": "https://www.boulevard.com/visit-us/",
+      "sources": [
+        "https://www.boulevard.com/visit-us/tours/",
+        "https://www.boulevard.com/visit-us/",
+        "https://www.kshb.com/sports/world-cup/boulevard-brewing-company-expanding-operations-ahead-of-fifa-world-cup",
+        "https://en.wikipedia.org/wiki/Boulevard_Brewing_Company"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kansas City, Missouri",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kansas%20City%2C%20Missouri&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kansas%20City%2C%20Missouri&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kansas%20City%2C%20Missouri&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kansas City"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "auditor_reason": "Full Boulevard brewery/Beer Hall facade; credit Paul Sableman CC BY 2.0 matches new file; facts match.",
+      "audited_at": "2026-10-14 final"
+    }
+  },
+  {
+    "id": "kc-hidden-gems-007",
+    "tab": "hidden-gems",
+    "name": "West Bottoms",
+    "short_line": "West Bottoms, Kansas City, MO",
+    "city": "",
+    "country": "United States",
+    "lat": 39.099,
+    "lng": -94.602,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hobbs_Building_%285765986861%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/kc-hidden-gems-007.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Hobbs_Building_(5765986861).jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Greg Willis from Denver, CO, usa",
+      "attribution": "Photo: Greg Willis from Denver, CO, usa, CC BY-SA 2.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons 'Hobbs Building (5765986861).jpg' — Historic brick Hobbs Building warehouse with ghost-sign lettering, B&W; desc 'West Bottoms, Kansas City MO'; cat West Bottoms, Kansas City. Local file is 1280px thumb. Replaced 2026-10-14 after Auditor fail."
+    },
+    "facts": {
+      "one_liner": "A former stockyards district of brick warehouses, now known for its monthly First Friday weekend antique and vintage markets.",
+      "why_go": "The West Bottoms is the river-bottom district below the bluffs west of downtown, once home to the Kansas City stockyards. Today its large brick warehouses hold antique, vintage and salvage shops. Many of them open mainly on First Friday weekends, the first Friday through Sunday of each month. A standout is the Hobbs Building at 1427 W. 9th St., a red-brick former industrial building from the early 1900s that was bought and saved in 1997 and now houses studios and The Hobbs event space.",
+      "best_time": "Go on a First Friday weekend (the first Friday–Sunday of the month), when most shops open. Check each shop's hours and dates on the official sites.",
+      "how_to_get_there": "The district is west of downtown Kansas City, Missouri, reached by the 12th Street viaduct. Driving is easiest.",
+      "good_to_know": "Many shops open only on market weekends, so a weekday visit may find things closed. Expect crowds and limited parking on market weekends.",
+      "official_or_tourism_url": "https://www.westbottoms.com/",
+      "sources": [
+        "https://www.visitkc.com/articles/first-weekends/",
+        "https://www.westbottoms.com/",
+        "https://en.wikipedia.org/wiki/West_Bottoms",
+        "https://thekansascityeventspace.com/about/",
+        "https://www.thepitchkc.com/developer-adam-jones-is-ready-to-grow-his-biggest-project-yet/"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kansas City, Missouri",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kansas%20City%2C%20Missouri&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kansas%20City%2C%20Missouri&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kansas%20City%2C%20Missouri&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kansas City"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "auditor_reason": "Hobbs Building photo (CC BY-SA 2.0, Greg Willis) matches facts; 1427 W. 9th St verified on the web (event space site, KC-1940); \"early 1900s\" fits sources giving 1901-1905; Hobbs is in all 10 locales; 5 sources.",
+      "audited_at": "2026-10-14 final"
+    }
+  },
+  {
+    "id": "kc-hidden-gems-008",
+    "tab": "hidden-gems",
+    "name": "Weston Historic District (day trip, Weston, MO)",
+    "short_line": "Weston, MO (~30 mi NW of Kansas City)",
+    "city": "",
+    "country": "United States",
+    "lat": 39.4111,
+    "lng": -94.901,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/St._George_Hotel%2C_Weston%2C_MO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/kc-hidden-gems-008.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:St._George_Hotel,_Weston,_MO.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "25or6to4",
+      "attribution": "Photo: 25or6to4, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons 'St. George Hotel, Weston, MO.jpg' — Old St. George Hotel, contributing property; cat Weston Historic District. Stands in for Weston/O'Malley's row: no Commons photo of O'Malley's 1842 Pub and no existing pubs card on disk. Local file is 1280px thumb."
+    },
+    "facts": {
+      "one_liner": "A historic river town about 30 miles northwest of Kansas City, with the 1845 St. George Hotel on its main street.",
+      "why_go": "Weston's historic district preserves a 19th-century Missouri River town. The St. George Hotel, which traces its history to 1845, still runs as a hotel today. It is a contributing building on Main Street, surrounded by shops and wineries.",
+      "best_time": "Spring and fall suit a walk on Main Street. Check current hours for shops and attractions on their official sites.",
+      "how_to_get_there": "Weston is about 30 miles northwest of Kansas City, Missouri, and a short drive from Kansas City International Airport. A car is needed.",
+      "good_to_know": "The St. George Hotel is operating. One booking listing mentions guestroom renovations during 2026, so check with the hotel directly. Note that this is a day trip outside Kansas City.",
+      "official_or_tourism_url": "https://westonirish.com/lodging/stgeorge-hotel/",
+      "sources": [
+        "https://westonirish.com/lodging/stgeorge-hotel/",
+        "https://en.wikipedia.org/wiki/Weston,_Missouri",
+        "https://www.reservationdesk.com/hotel/690308b/saint-george-hotel"
+      ]
+    },
+    "ad": {
+      "destination_query": "Weston, Missouri",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Weston%2C%20Missouri&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Weston%2C%20Missouri&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Weston%2C%20Missouri&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Weston"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "auditor_reason": "St. George Hotel facade, Weston Historic District; Weston ad hub.",
+      "audited_at": "2026-10-14 final"
+    }
+  },
+  {
+    "id": "kc-hidden-gems-009",
+    "tab": "hidden-gems",
+    "name": "Kansas City Museum (Corinthian Hall)",
+    "short_line": "Pendleton Heights / Northeast, Kansas City, MO",
+    "city": "",
+    "country": "United States",
+    "lat": 39.1155,
+    "lng": -94.5424,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Museum_of_Kansas_City_2025a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/kc-hidden-gems-009.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Museum_of_Kansas_City_2025a.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Antony-22",
+      "attribution": "Photo: Antony-22, CC BY-SA 4.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons 'Museum of Kansas City 2025a.jpg' — Front facade of Corinthian Hall (R.A. Long mansion), 3218 Gladstone Blvd; GPS 39.115497,-94.542428 matches; desc 'Museum of Kansas City ... 2025'. Local file is 1280px thumb."
+    },
+    "facts": {
+      "one_liner": "A city history museum in Corinthian Hall, the restored R.A. Long mansion in Kansas City's Historic Northeast.",
+      "why_go": "The Museum of Kansas City occupies Corinthian Hall, the former mansion of lumber businessman R.A. Long, at 3218 Gladstone Blvd. The city owns the property. After a restoration that began in 2014, Corinthian Hall reopened in 2021 with exhibits on Kansas City's history. Downstairs is Elixir, a soda fountain.",
+      "best_time": "Indoors, so it works in any season. Check current hours on the official site.",
+      "how_to_get_there": "It is on Gladstone Boulevard in the Historic Northeast of Kansas City, Missouri. Driving is easiest.",
+      "good_to_know": "Visit KC lists general admission as free; check the official site for current details. Work on the outbuildings is ongoing.",
+      "official_or_tourism_url": "https://museumofkansascity.org/",
+      "sources": [
+        "https://www.visitkc.com/listings/the-museum-of-kansas-city/",
+        "https://www.kshb.com/entertainment/kc-spotlight/kc-spotlight-kcs-history-culture-shared-at-the-museum-of-kansas-city",
+        "https://en.wikipedia.org/wiki/Kansas_City_Museum"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kansas City, Missouri",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kansas%20City%2C%20Missouri&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kansas%20City%2C%20Missouri&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kansas%20City%2C%20Missouri&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kansas City"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "auditor_reason": "Corinthian Hall facade, GPS match.",
+      "audited_at": "2026-10-14 final"
+    }
+  },
+  {
+    "id": "kc-hidden-gems-010",
+    "tab": "hidden-gems",
+    "name": "Vaile Mansion",
+    "short_line": "Independence, MO (Kansas City metro)",
+    "city": "",
+    "country": "United States",
+    "lat": 39.1081,
+    "lng": -94.4172,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Vaile_Mansion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/kc-hidden-gems-010.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Vaile_Mansion.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Melissa Kothe",
+      "attribution": "Photo: Melissa Kothe, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons 'Vaile Mansion.jpg' — Full exterior of 1881 Second Empire mansion; GPS 39.108056,-94.417222 = 1500 N Liberty St, Independence. Local file is 1280px thumb."
+    },
+    "facts": {
+      "one_liner": "An 1881 Second Empire mansion in Independence, Missouri, in the Kansas City area.",
+      "why_go": "The Vaile Mansion at 1500 N. Liberty St in Independence, Missouri, is an 1881 Victorian home in the Second Empire style. It opens for guided tours during its spring–fall season and again for holiday tours.",
+      "best_time": "The regular tour season runs from April through October, plus a holiday tour season in late November and December. Check current hours on the official site.",
+      "how_to_get_there": "It is in Independence, Missouri, east of Kansas City. A car is the practical option.",
+      "good_to_know": "It is seasonal and closed outside the tour seasons. Tickets are sold at the door. Groups of 15 or more should email ahead. Check prices on vailemansion.org.",
+      "official_or_tourism_url": "https://www.vailemansion.org/visit",
+      "sources": [
+        "https://www.vailemansion.org/visit",
+        "https://en.wikipedia.org/wiki/Vaile_Mansion"
+      ]
+    },
+    "ad": {
+      "destination_query": "Independence, Missouri",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Independence%2C%20Missouri&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Independence%2C%20Missouri&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Independence%2C%20Missouri&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Independence"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "auditor_reason": "Exterior, GPS match; Independence + KC area in all locales.",
+      "audited_at": "2026-10-14 final"
+    }
+  },
+  {
+    "id": "kc-hidden-gems-011",
+    "tab": "hidden-gems",
+    "name": "Alexander Majors House",
+    "short_line": "Waldo / State Line Rd, Kansas City, MO",
+    "city": "",
+    "country": "United States",
+    "lat": 38.9792,
+    "lng": -94.6078,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/ALEXANDER_MAJORS_HOUSE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "local_path": "images/hidden-gems/kc-hidden-gems-011.jpg",
+      "source": "Wikimedia Commons",
+      "source_page": "https://commons.wikimedia.org/wiki/File:ALEXANDER_MAJORS_HOUSE.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "JERRYE & ROY KLOTZ MD",
+      "attribution": "Photo: JERRYE & ROY KLOTZ MD, CC BY-SA 3.0, via Wikimedia Commons",
+      "verified_real_location": true,
+      "shows_named_place": true,
+      "ai_generated": false,
+      "proof_notes": "Commons 'ALEXANDER MAJORS HOUSE.jpg' — Exterior of 1856 Greek Revival house; desc names Majors' freighting/Pony Express history; GPS 38.979167,-94.607778 = 8201 State Line Rd. Local file is 1280px thumb."
+    },
+    "facts": {
+      "one_liner": "An 1856 frontier home on the Missouri–Kansas state line, built by the freighter behind Russell, Majors & Waddell.",
+      "why_go": "Alexander Majors built this house in 1856. It was his family home and the headquarters of his freighting firm, Russell, Majors & Waddell, which later backed the Pony Express. It is listed on the National Register of Historic Places and is one of Kansas City's few surviving pre–Civil War buildings. It has been open to the public as a museum since 1984.",
+      "best_time": "Walk-in tours are offered on weekend afternoons from May to October; at other times, tours are by appointment. Check current hours on the official site.",
+      "how_to_get_there": "The house is at 8201 State Line Rd in south Kansas City, Missouri, right at the Kansas border. Driving is easiest.",
+      "good_to_know": "Visits are mostly by appointment outside the May–October weekend schedule. The NPS notes the house was most likely built with the labor of enslaved people. Check prices on wornallmajors.org.",
+      "official_or_tourism_url": "https://wornallmajors.org/alexander-majors-house-museum-in-kansas-city/",
+      "sources": [
+        "https://wornallmajors.org/alexander-majors-house-museum-in-kansas-city/",
+        "https://wornallmajors.org/the-majors-house/",
+        "https://nps.gov/places/alexander-majors-house.htm",
+        "https://npgallery.nps.gov/AssetDetail/NRIS/70000335",
+        "https://www.hmdb.org/m.asp?m=84746"
+      ]
+    },
+    "ad": {
+      "destination_query": "Kansas City, Missouri",
+      "hotels_deeplink": "https://www.hotels.com/Hotel-Search?destination=Kansas%20City%2C%20Missouri&affid=YOUR_AFFILIATE_ID",
+      "expedia_deeplink": "https://www.expedia.com/Hotel-Search?destination=Kansas%20City%2C%20Missouri&affcid=YOUR_AFFILIATE_ID",
+      "booking_deeplink": "https://www.booking.com/searchresults.html?ss=Kansas%20City%2C%20Missouri&aid=YOUR_AFFILIATE_ID",
+      "primary_network": "hotels.com",
+      "cta_label": "Find a stay in Kansas City"
+    },
+    "qa": {
+      "image_matches_name": true,
+      "facts_verified": true,
+      "license_ok": true,
+      "auditor_status": "approved",
+      "auditor_reason": "1856 house exterior, GPS match; NRHP sourced.",
+      "audited_at": "2026-10-14 final"
+    }
   }
 ]
