@@ -24,8 +24,9 @@
   <meta name="twitter:title" content="Swipe Travel Destinations: Travel or Skip | Spot and Travel" />
   <meta name="twitter:description" content="Swipe real places with licensed photos: hidden gems, iconic cities, islands, national parks and more. Decide Travel or Skip. Free, no sign-up." />
   <meta name="twitter:image" content="https://spotandtravel.com/assets/share-1200x630.jpg" />
-  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Spot and Travel", "alternateName": "Spot & Travel", "url": "https://spotandtravel.com/", "description": "Swipe through real places with licensed photos and decide: Travel or Skip. Hidden gems, iconic cities, islands, national parks and more. Free, no sign-up.", "inLanguage": "en"}</script>
-  <script type="application/ld+json" id="ld-org">{"@context": "https://schema.org", "@type": "Organization", "name": "Spot and Travel", "url": "https://spotandtravel.com/", "logo": "https://spotandtravel.com/assets/logo.png", "email": "hello@spotandtravel.com"}</script>
+  <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "Spot and Travel", "alternateName": "Spot & Travel", "url": "https://spotandtravel.com/", "description": "Spot and Travel (spotandtravel.com) is a free travel-discovery website where you swipe licensed photos of real, visitable places and tap Travel or Skip. It is not a tour operator or travel agency, and it is not connected to any company called “Spot Travel.”", "inLanguage": "en"}</script>
+  <script type="application/ld+json" id="ld-org">{"@context": "https://schema.org", "@type": "Organization", "name": "Spot and Travel", "url": "https://spotandtravel.com/", "logo": "https://spotandtravel.com/assets/logo.png", "email": "hello@spotandtravel.com", "description": "Spot and Travel (spotandtravel.com) is a free travel-discovery website where you swipe licensed photos of real, visitable places and tap Travel or Skip. It is not a tour operator or travel agency, and it is not connected to any company called “Spot Travel.”"}</script>
+  <script type="application/ld+json" id="ld-faq">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is Spot and Travel?", "acceptedAnswer": {"@type": "Answer", "text": "A free website for discovering real places to visit. You swipe licensed photos and choose Travel or Skip. It doesn’t sell tours or bookings itself."}}, {"@type": "Question", "name": "Is Spot and Travel the same as Spot Travel?", "acceptedAnswer": {"@type": "Answer", "text": "No. Spot and Travel (spotandtravel.com) has no connection to tour agencies or travel companies named “Spot Travel.”"}}, {"@type": "Question", "name": "Are the photos real?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Every card uses a licensed real photograph (mostly Wikimedia Commons, Creative Commons licenses). No AI images are used, and the credits appear under each card."}}, {"@type": "Question", "name": "Do I need to sign up?", "acceptedAnswer": {"@type": "Answer", "text": "No. Swiping is free and needs no account. A weekly “hidden gem” email is optional."}}, {"@type": "Question", "name": "How do I get my place listed?", "acceptedAnswer": {"@type": "Answer", "text": "Use Submit a Place. Listings cost $39.99 for the founding first year (one-time), $49.99/year for a standard listing, or $99.99 for 12 months in Hidden Gems. We check every listing for accuracy before it goes live. Card payments are only held, and the card is charged only if the listing is approved. Full details are on our Support page."}}, {"@type": "Question", "name": "What is a pin?", "acceptedAnswer": {"@type": "Answer", "text": "An optional add-on that keeps your card among the first 25 cards in its tab. A 7-day pin is +$39.99 and a 30-day pin is +$99.99. Pins depend on availability, with a cap of 25 per tab, and the pin clock starts when your card goes live, not when you pay. Full details are on our Support page."}}, {"@type": "Question", "name": "Can my business sponsor a category?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Each category page has one sponsor spot at a time, clearly labeled “Sponsored,” for $25 for 30 days (launch price). See Sponsor a Category."}}, {"@type": "Question", "name": "How does the random destination generator work?", "acceptedAnswer": {"@type": "Answer", "text": "Pick where you’re based, filter by domestic or international and by category, then spin to get a real place. Try the Random Travel Destination Generator."}}]}</script>
   <!-- /seo -->
   <link rel="stylesheet" href="./css/site.css" />
   <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml" />
@@ -65,6 +66,7 @@
 
     <section class="page-intro">
       <h1 class="page-title">Swipe Real Places: Travel or Skip?</h1>
+      <p class="home-definition" lang="en">Spot and Travel (spotandtravel.com) is a free travel-discovery website where you swipe licensed photos of real, visitable places and tap Travel or Skip. It is not a tour operator or travel agency, and it is not connected to any company called “Spot Travel.”</p>
       <p class="page-intro-text">Swipe licensed photos of real places and decide in one tap whether you'd go.</p>
     </section>
 
@@ -73,6 +75,44 @@
     <div class="deck" id="deck-root">
       <p class="end-deck">Loading deck…</p>
     </div>
+
+    <!-- Homepage definition + FAQ (server-rendered for search/AI crawlers; English on every locale until translated) -->
+    <section class="home-about" id="home-about" lang="en" aria-labelledby="home-about-title">
+      <h2 class="home-h2" id="home-about-title">Explore Spot and Travel</h2>
+      <p class="home-about-text">Browse decks of real places: hidden gems, iconic cities, unique pubs, beaches, national parks, historic landmarks, islands, sports arenas, countries and luxury stays. Every photo is a licensed real photograph (no AI images), credited under its card. You don’t need an account. Your saved lists stay on your device. Can’t decide? Spin the <a href="pages/location-randomizer.html">Random Travel Destination Generator</a>.</p>
+      <nav aria-label="All Spot and Travel pages">
+        <ul class="home-links">
+          <li><a href="pages/hidden-gems.html">Hidden Gems</a></li>
+          <li><a href="pages/cities.html">Iconic Cities</a></li>
+          <li><a href="pages/pubs.html">Unique Pubs</a></li>
+          <li><a href="pages/countries.html">Countries</a></li>
+          <li><a href="pages/arenas.html">Sports Arenas</a></li>
+          <li><a href="pages/beaches.html">Beaches &amp; Coasts</a></li>
+          <li><a href="pages/parks.html">National Parks</a></li>
+          <li><a href="pages/landmarks.html">Historic Landmarks</a></li>
+          <li><a href="pages/islands.html">Islands</a></li>
+          <li><a href="pages/luxury.html">Luxury Stays</a></li>
+          <li><a href="pages/location-randomizer.html">Random Travel Destination Generator</a></li>
+          <li><a href="pages/submit-a-place.html">Submit a Place</a></li>
+          <li><a href="pages/sponsor.html">Sponsor a Category</a></li>
+          <li><a href="pages/support.html">Support and FAQ</a></li>
+        </ul>
+      </nav>
+    </section>
+
+    <section class="home-faq" id="home-faq" lang="en" aria-labelledby="home-faq-title">
+      <h2 class="home-h2" id="home-faq-title">Frequently asked questions</h2>
+      <div class="home-faq-list">
+        <details><summary>What is Spot and Travel?</summary><div class="ans"><p>A free website for discovering real places to visit. You swipe licensed photos and choose Travel or Skip. It doesn’t sell tours or bookings itself.</p></div></details>
+        <details><summary>Is Spot and Travel the same as Spot Travel?</summary><div class="ans"><p>No. Spot and Travel (spotandtravel.com) has no connection to tour agencies or travel companies named “Spot Travel.”</p></div></details>
+        <details><summary>Are the photos real?</summary><div class="ans"><p>Yes. Every card uses a licensed real photograph (mostly Wikimedia Commons, Creative Commons licenses). No AI images are used, and the credits appear under each card.</p></div></details>
+        <details><summary>Do I need to sign up?</summary><div class="ans"><p>No. Swiping is free and needs no account. A weekly “hidden gem” email is optional.</p></div></details>
+        <details><summary>How do I get my place listed?</summary><div class="ans"><p>Use <a href="pages/submit-a-place.html">Submit a Place</a>. Listings cost $39.99 for the founding first year (one-time), $49.99/year for a standard listing, or $99.99 for 12 months in Hidden Gems. We check every listing for accuracy before it goes live. Card payments are only held, and the card is charged only if the listing is approved. Full details are on our <a href="pages/support.html">Support page</a>.</p></div></details>
+        <details><summary>What is a pin?</summary><div class="ans"><p>An optional add-on that keeps your card among the first 25 cards in its tab. A 7-day pin is +$39.99 and a 30-day pin is +$99.99. Pins depend on availability, with a cap of 25 per tab, and the pin clock starts when your card goes live, not when you pay. Full details are on our <a href="pages/support.html">Support page</a>.</p></div></details>
+        <details><summary>Can my business sponsor a category?</summary><div class="ans"><p>Yes. Each category page has one sponsor spot at a time, clearly labeled “Sponsored,” for $25 for 30 days (launch price). See <a href="pages/sponsor.html">Sponsor a Category</a>.</p></div></details>
+        <details><summary>How does the random destination generator work?</summary><div class="ans"><p>Pick where you’re based, filter by domestic or international and by category, then spin to get a real place. Try the <a href="pages/location-randomizer.html">Random Travel Destination Generator</a>.</p></div></details>
+      </div>
+    </section>
   </main>
 
   <section class="signup" aria-labelledby="signup-title">
