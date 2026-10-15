@@ -22,8 +22,8 @@
   // Card-specific wording ↔ crypto wording (card text is saved and restored exactly).
   var EN_TXT = {
     hold: 'Crypto is charged up front, not held. If your listing isn’t approved, we refund it in full to the wallet you paid from.',
-    ack: 'I understand payment does not equal live: crypto is charged up front and refunded in full if my listing isn’t approved by the Accuracy Auditor.',
-    disc: 'Paid does not equal live. The Accuracy Auditor checks every listing before it appears. Crypto payments (via Xaman, on the XRP Ledger) are charged up front for the total above. If your listing is rejected, we refund it in full. We send your submission (with photo) to our inbox first, then show your Xaman payment request.'
+    ack: 'I understand payment does not equal live: crypto is charged up front and refunded in full if my listing isn’t approved after our accuracy check.',
+    disc: 'Paid does not equal live. We check every listing for accuracy before it appears. Crypto payments (via Xaman, on the XRP Ledger) are charged up front for the total above. If your listing is rejected, we refund it in full. We send your submission (with photo) to our inbox first, then show your Xaman payment request.'
   };
   function cryptoTxt(k) { return T('xc_' + k, EN_TXT[k]); }
   var saved = {}, mo = null, patching = false;

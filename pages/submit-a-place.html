@@ -63,7 +63,7 @@
 
     <section class="submit-place" aria-labelledby="submit-place-heading">
       <h1 id="submit-place-heading" class="page-title">Submit a Place to Spot and Travel</h1>
-      <p class="submit-place-intro" data-i18n="submit_intro">Propose a real, visitable place. Payment does not equal live — the Accuracy Auditor still gates every card before it goes public. At checkout your card is only held, not charged: we charge it only if your listing is approved. If it’s rejected, the hold is released and you pay nothing. Pin clocks start at go-live.</p>
+      <p class="submit-place-intro" data-i18n="submit_intro">Propose a real, visitable place. Payment does not equal live — we still check every card for accuracy before it goes public. At checkout your card is only held, not charged: we charge it only if your listing is approved. If it’s rejected, the hold is released and you pay nothing. Pin clocks start at go-live.</p>
       <div class="submit-checkout-notice" id="checkout-notice" role="status" aria-live="polite" hidden>
         <p class="submit-checkout-notice-text" id="checkout-notice-text"></p>
         <p class="submit-checkout-notice-ref" id="checkout-notice-ref" hidden></p>
@@ -207,11 +207,11 @@
           </label>
           <label class="submit-check">
             <input type="checkbox" id="ack-paid-listing" name="ack_paid_listing" value="1" required />
-            <span data-i18n="submit_agree_paid_listing">I understand payment does not equal live: my card is held at checkout and charged only if the Accuracy Auditor approves the listing. If it’s rejected, the hold is released and I pay nothing.</span>
+            <span data-i18n="submit_agree_paid_listing">I understand payment does not equal live: my card is held at checkout and charged only if we approve the listing after checking it for accuracy. If it’s rejected, the hold is released and I pay nothing.</span>
           </label>
         </fieldset>
 
-        <p class="submit-disclaimer" data-i18n="submit_disclaimer">Paid does not equal live. The Accuracy Auditor checks every listing before it appears. Checkout (secure, by Stripe) places a hold on your card for the total above — it’s charged only once your listing is approved. If it’s rejected, we cancel the hold and you pay nothing. A hold can show as “pending” on your statement; a released hold drops off, and holds that are never captured expire automatically after about 7 days. We send your submission (with photo) to our inbox first, then take you to checkout.</p>
+        <p class="submit-disclaimer" data-i18n="submit_disclaimer">Paid does not equal live. We check every listing for accuracy before it appears. Checkout (secure, by Stripe) places a hold on your card for the total above — it’s charged only once your listing is approved. If it’s rejected, we cancel the hold and you pay nothing. A hold can show as “pending” on your statement; a released hold drops off, and holds that are never captured expire automatically after about 7 days. We send your submission (with photo) to our inbox first, then take you to checkout.</p>
 
         <p class="submit-disclaimer payment-notice" id="payment-notice">Payments are processed securely by Xaman (XRPL) and Stripe. Spot and Travel never sees or stores your card number, bank details, or wallet keys. All connections to this site are encrypted with HTTPS.</p>
         <div class="submit-actions">
@@ -761,7 +761,7 @@
         '',
         'Acks: ' + payload.acks,
         'Submission ref: ' + payload.submission_ref,
-        'Note: paid does not equal live. Accuracy Auditor gates; pin clock starts at go-live.',
+        'Note: paid does not equal live. We check every listing for accuracy before it goes live; pin clock starts at go-live.',
         payload.payment_terms,
         '',
         'IMPORTANT: Attach the downloaded photo file to this email before sending.'
