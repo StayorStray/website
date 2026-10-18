@@ -1,0 +1,6 @@
+.legal-page{max-width:760px;margin:0 auto;padding:8px 6px 40px;line-height:1.65}
+.legal-page h2{font-family:var(--font-display);font-size:1.25rem;margin:1.8rem 0 .5rem}
+.legal-page p,.legal-page li{color:var(--muted);margin:.5rem 0}
+.legal-page ul{padding-left:1.2rem;margin:.4rem 0}
+.legal-page a{color:var(--accent);overflow-wrap:anywhere}
+.legal-updated{font-size:.9rem;color:var(--muted)}
