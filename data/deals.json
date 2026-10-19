@@ -1,5 +1,5 @@
 {
-  "_note": "Snapshot from Travelpayouts > Spotandtravel (583983) > Tools > Promo codes, 2026-10-19. Travelpayouts has no public promo-code API; refresh by hand or via the Worker DEALS list. Offers work through the tracking link (href); a code is shown only where the offer needs one (intui VELVET). AirHelp excluded (not valid in US).",
+  "_note": "Snapshot from Travelpayouts > Spotandtravel (583983) > Tools > Promo codes, 2026-10-19. Travelpayouts has no public promo-code API; refresh by hand or via the Worker DEALS list. Offers work through the tracking link (href); a code is shown only where the offer needs one (intui VELVET). AirHelp excluded (not valid in US). Go City multi-city 10% (ends 2026-10-19) removed 2026-10-19: its tpx.gr link returns 404 'not found a link'.",
   "updated": "2026-10-19",
   "deals": [
     {
@@ -11,16 +11,6 @@
       "end": "2026-10-22",
       "us_valid": true,
       "href": "https://gocity.tpx.gr/UhOBhKNF"
-    },
-    {
-      "brand": "Go City",
-      "kind": "attraction-pass",
-      "discount": "10% off",
-      "text": "Selected 5-day and 7-day All-Inclusive Passes (Boston, Las Vegas, Los Angeles, New Orleans, Oahu, Orlando, Philadelphia and more).",
-      "start": "2026-10-16",
-      "end": "2026-10-19",
-      "us_valid": true,
-      "href": "https://gocity.tpx.gr/HRL7K5lk"
     },
     {
       "brand": "intui.travel",
