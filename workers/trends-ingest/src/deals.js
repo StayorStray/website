@@ -10,6 +10,6 @@ export function buildDeals(env, now = new Date()) {
     .filter((d) => d && d.us_valid !== false)
     .filter((d) => (!d.end || d.end >= day) && (!d.start || d.start <= day))
     .filter((d) => /^https:\/\//.test(d.href || ''))
-    .map(({ brand, kind, discount, text, start, end, flash, href }) => ({ brand, kind, discount, text, start, end, flash: !!flash, href }));
+    .map(({ brand, kind, discount, text, start, end, flash, href, code }) => ({ brand, kind, discount, text, start, end, flash: !!flash, href, ...(code ? { code } : {}) }));
   return { updated: day, deals };
 }

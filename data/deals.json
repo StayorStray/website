@@ -1,7 +1,27 @@
 {
-  "_note": "Snapshot from Travelpayouts > Spotandtravel (583983) > Promo codes, 2026-10-12. Travelpayouts has no public promo-code API; refresh by hand or via the Worker DEALS list. href = 'Get promo link' affiliate URL (fill before going live).",
-  "updated": "2026-10-12",
+  "_note": "Snapshot from Travelpayouts > Spotandtravel (583983) > Tools > Promo codes, 2026-10-19. Travelpayouts has no public promo-code API; refresh by hand or via the Worker DEALS list. Offers work through the tracking link (href); a code is shown only where the offer needs one (intui VELVET). AirHelp excluded (not valid in US).",
+  "updated": "2026-10-19",
   "deals": [
+    {
+      "brand": "Go City",
+      "kind": "attraction-pass",
+      "discount": "Up to 65% off",
+      "text": "Children's passes in San Diego.",
+      "start": "2026-10-16",
+      "end": "2026-10-22",
+      "us_valid": true,
+      "href": "https://gocity.tpx.gr/UhOBhKNF"
+    },
+    {
+      "brand": "Go City",
+      "kind": "attraction-pass",
+      "discount": "10% off",
+      "text": "Selected 5-day and 7-day All-Inclusive Passes (Boston, Las Vegas, Los Angeles, New Orleans, Oahu, Orlando, Philadelphia and more).",
+      "start": "2026-10-16",
+      "end": "2026-10-19",
+      "us_valid": true,
+      "href": "https://gocity.tpx.gr/HRL7K5lk"
+    },
     {
       "brand": "intui.travel",
       "kind": "transfer",
@@ -12,16 +32,6 @@
       "us_valid": true,
       "href": "https://intui.tpx.gr/umB6jqd4",
       "code": "VELVET"
-    },
-    {
-      "brand": "AirHelp",
-      "kind": "other",
-      "discount": "11% off",
-      "text": "AirHelp+ subscriptions.",
-      "start": "2026-06-25",
-      "end": "2026-11-30",
-      "us_valid": false,
-      "href": ""
     }
   ]
 }

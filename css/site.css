@@ -1704,3 +1704,4 @@ body.list-panel-open { overflow: hidden; }
 .deal-text{display:block;font-size:.8rem;color:var(--muted)}
 .deal-text em{font-style:normal;opacity:.85}
 .deal-flash{font-size:.65rem;padding:.05rem .35rem;border-radius:6px;background:#c0392b;color:#fff;vertical-align:middle}
+.deal-code{color:var(--text);letter-spacing:.04em}

@@ -5,7 +5,7 @@
   'use strict';
   var state = null;
   function base() { return /\/pages\//.test(location.pathname) ? '../' : './'; }
-  function today() { var d = new Date(); return d.toISOString().slice(0, 10); }
+  function today() { var d = new Date(); return d.getFullYear() + '-' + ('0' + (d.getMonth() + 1)).slice(-2) + '-' + ('0' + d.getDate()).slice(-2); } // visitor's local date
   function usable(d, now) {
     return d && d.us_valid !== false && (!d.end || d.end >= now) && (!d.start || d.start <= now) &&
       (g.SPOT_DEALS_PREVIEW || /^https:\/\//.test(d.href || ''));
@@ -36,7 +36,7 @@
         return '<li><a class="deal" href="' + esc(d.href || '#') + '" target="_blank" rel="sponsored noopener nofollow" data-link-type="deal">' +
           '<span class="deal-top"><b>' + esc(d.discount) + '</b> · ' + esc(d.brand) +
           (d.flash ? ' <span class="deal-flash">Flash</span>' : '') + '</span>' +
-          '<span class="deal-text">' + esc(d.text) + ' <em>' + esc(endLabel(d.end)) + '</em></span></a></li>';
+          '<span class="deal-text">' + esc(d.text) + (d.code ? ' Code <b class="deal-code">' + esc(d.code) + '</b>.' : '') + ' <em>' + esc(endLabel(d.end)) + '</em></span></a></li>';
       }).join('') + '</ul></div>';
   }
   /** Append the strip into every empty [data-deals] mount inside root. */
