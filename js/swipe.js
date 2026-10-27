@@ -1087,7 +1087,7 @@
       '<p class="coffee-prompt">' +
       escapeHtml(t('coffee_prompt')) +
       '</p>' +
-      '<a class="coffee-link" href="https://buymeacoffee.com/alanhueserb" target="_blank" rel="noopener noreferrer" aria-label="' +
+      '<a class="coffee-link" href="https://buymeacoffee.com/agentboone82" target="_blank" rel="noopener noreferrer" aria-label="' +
       escapeHtml(t('buy_me_coffee')) +
       '"><span class="coffee-link-text">' +
       escapeHtml(t('buy_me_coffee')) +
