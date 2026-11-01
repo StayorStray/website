@@ -1,15 +1,14 @@
 /**
- * Spot and Travel — i18n (en, es, fr, de, ru, ja, nl, pt, ko, fil; zh hidden for now)
+ * Spot and Travel — i18n (en, es, fr, de, ru, ja, nl, pt, ko, zh, fil)
  * Top-right language control; persists in localStorage (sos_lang).
  */
 (function (global) {
   'use strict';
 
   var STORAGE_KEY = 'sos_lang';
-  /* zh (中文) is HIDDEN until the November 2026 re-translation (data/i18n/zh* is kept).
-   * To re-enable: add 'zh' back into SUPPORTED below (between 'ko' and 'fil'). See docs/I18N-ZH-HIDDEN.md. */
-  var HIDDEN = ['zh'];
-  var SUPPORTED = ['en', 'es', 'fr', 'de', 'ru', 'ja', 'nl', 'pt', 'ko', 'fil'];
+  /* zh (中文) re-enabled 2026-11-01 after the November re-translation and a 30-card back-translation check. To hide again: set HIDDEN = ['zh'] and drop 'zh' from SUPPORTED (see docs/I18N-ZH-HIDDEN.md). */
+  var HIDDEN = [];
+  var SUPPORTED = ['en', 'es', 'fr', 'de', 'ru', 'ja', 'nl', 'pt', 'ko', 'zh', 'fil'];
   var LANG_NATIVE = {
     en: 'English',
     es: 'Español',
