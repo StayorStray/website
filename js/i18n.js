@@ -164,6 +164,12 @@
       if (key) el.textContent = t(key);
     });
 
+    var ariaLabeled = document.querySelectorAll('[data-i18n-aria]');
+    Array.prototype.forEach.call(ariaLabeled, function (el) {
+      var key = el.getAttribute('data-i18n-aria');
+      if (key) el.setAttribute('aria-label', t(key));
+    });
+
     var placeholders = document.querySelectorAll('[data-i18n-placeholder]');
     Array.prototype.forEach.call(placeholders, function (el) {
       var key = el.getAttribute('data-i18n-placeholder');

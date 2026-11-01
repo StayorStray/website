@@ -55,6 +55,14 @@
     return i && i.t ? i.t(key, vars) : key;
   }
 
+  /* t() with an English fallback: returns the fallback when the key is missing (t returns the key itself). */
+  function i18nT(key, fallback, vars) {
+    const i = I18n();
+    const v = i && i.t ? i.t(key, vars) : key;
+    if (!v || v === key) return i && i.fill ? i.fill(fallback, vars) : String(fallback).replace('{name}', (vars && vars.name) || '');
+    return v;
+  }
+
   function tabLabel(slug) {
     const i = I18n();
     if (i && i.tabLabel) return i.tabLabel(slug);
@@ -644,9 +652,9 @@
     const fb = Aff.wrapExpedia('https://www.expedia.com/', slug).href;
     return (
       '<details class="eg-search" data-eg-slug="' + escapeHtml(slug) + '" data-eg-dest="' + escapeHtml(planContext(rawCard).hotelQuery || rawCard.name || '') + '">' +
-      '<summary>🔎 Search Expedia stays &amp; flights</summary>' +
+      '<summary>🔎 ' + escapeHtml(i18nT('eg_summary', 'Search Expedia stays & flights')) + '</summary>' +
       '<div class="eg-mount"></div>' +
-      '<a class="eg-fallback" href="' + escapeHtml(fb) + '" target="_blank" rel="sponsored noopener" data-link-type="hotel">Open Expedia search ↗</a>' +
+      '<a class="eg-fallback" href="' + escapeHtml(fb) + '" target="_blank" rel="sponsored noopener" data-link-type="hotel">' + escapeHtml(i18nT('eg_open', 'Open Expedia search')) + ' ↗</a>' +
       '</details>'
     );
   }
@@ -798,9 +806,9 @@
     ).href;
     return (
       '<div class="eg-rail" data-eg-slug="' + escapeHtml(slug) + '" data-eg-dest="' + escapeHtml(q) + '">' +
-      '<p class="klook-kicker">Stays &amp; flights on Expedia</p>' +
+      '<p class="klook-kicker">' + escapeHtml(i18nT('eg_kicker', 'Stays & flights on Expedia')) + '</p>' +
       '<a class="klook-cta eg-rail-fallback" href="' + escapeHtml(fb) +
-      '" target="_blank" rel="sponsored noopener" data-link-type="hotel">Search ' + escapeHtml(card.name || 'Expedia') + ' →</a>' +
+      '" target="_blank" rel="sponsored noopener" data-link-type="hotel">' + escapeHtml(i18nT('eg_search', 'Search {name}', { name: card.name || 'Expedia' })) + ' →</a>' +
       '<div class="eg-rail-mount"></div>' +
       '</div>'
     );
