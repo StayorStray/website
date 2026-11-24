@@ -1,27 +1,36 @@
 {
-  "_note": "Snapshot from Travelpayouts > Spotandtravel (583983) > Tools > Promo codes, 2026-10-19. Travelpayouts has no public promo-code API; refresh by hand or via the Worker DEALS list. Offers work through the tracking link (href); a code is shown only where the offer needs one (intui VELVET). AirHelp excluded (not valid in US). Go City multi-city 10% (ends 2026-10-19) removed 2026-10-19: its tpx.gr link returns 404 'not found a link'.",
-  "updated": "2026-10-19",
+  "_note": "Snapshot from Travelpayouts > Spotandtravel (583983) > Tools > Promo codes, 2026-11-23. Travelpayouts has no public promo-code API; refresh by hand or via the Worker DEALS list. Offers work through the tracking link (href); none of these offers use a coupon code. Travelpayouts lists no region limits. AirHelp TravelPass is included: AirHelp sells Silver/Gold/Platinum to US customers (USD pricing on airhelp.com/en/, fees updated 2026-11-09). The October AirHelp exclusion was a different offer marked not valid in the US.",
+  "updated": "2026-11-23",
   "deals": [
     {
-      "brand": "Go City",
-      "kind": "attraction-pass",
-      "discount": "Up to 65% off",
-      "text": "Children's passes in San Diego.",
-      "start": "2026-10-16",
-      "end": "2026-10-22",
+      "brand": "AirHelp",
+      "kind": "travel-pass",
+      "discount": "9% off",
+      "text": "TravelPass Silver, Gold, and Platinum.",
+      "start": "2026-11-10",
+      "end": "2026-12-31",
       "us_valid": true,
-      "href": "https://gocity.tpx.gr/UhOBhKNF"
+      "href": "https://airhelp.tpx.gr/ufSSxHti"
     },
     {
-      "brand": "intui.travel",
-      "kind": "transfer",
-      "discount": "5% off",
-      "text": "Airport transfers, any dates and destinations.",
-      "start": "2026-08-13",
-      "end": "2026-10-31",
+      "brand": "GigSky",
+      "kind": "esim",
+      "discount": "15% off",
+      "text": "Travel eSIM data for trips abroad. Excludes Inflight and North Sea plans. $4 minimum, one order per user.",
+      "start": "2026-11-12",
+      "end": "2027-02-28",
       "us_valid": true,
-      "href": "https://intui.tpx.gr/umB6jqd4",
-      "code": "VELVET"
+      "href": "https://gigsky.tpx.gr/c4f8VqT8"
+    },
+    {
+      "brand": "Yesim",
+      "kind": "esim",
+      "discount": "20% off",
+      "text": "Travel eSIM data for trips abroad.",
+      "start": "2026-11-11",
+      "end": "2027-02-28",
+      "us_valid": true,
+      "href": "https://yesim.tpx.gr/v7DaS5ob"
     }
   ]
 }
